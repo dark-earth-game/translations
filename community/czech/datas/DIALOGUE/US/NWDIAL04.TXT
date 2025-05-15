@@ -1,0 +1,425 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL04.TXT
+ // Gefangener 4 perso1
+L04D200
+ Hej, ty! Otevri dvere! XXX
+// Gefangener 2 perso1
+L04D201
+ Hej, rozbí mríze, rozbí je! XXX
+// Gefangener 4 perso1
+L04D202
+ Hej, ty venku! Otevri! XXX
+// Gefangener 3 perso1
+L04D203
+ Drz hubu, Idiote! To je zabiják, kteı te sezere, s vlasy a vousy! XXX
+// Gefangener 3 perso1
+L04D212
+ Psst! XXX
+// Arkhan2 G (genervt, er hat seinen Gegner erschossen) perso3
+L04D61
+ Co jsi ríkal? XXX
+// Arkhan3 G (aufgeregt, er hat seinen Gegner erschossen) perso3
+L04D62
+ Uklidnil si se nyní? XXX
+// Arkhan2 G (erstaunt, Kalhi im Gefängnis zu sehen) perso2
+L04D01
+ Kalhi! XXX
+// Arkhan3 G (erstaunt, Kalhi im Gefängnis zu sehen) perso3
+L04D02
+ Kalhi! XXX
+// Kalhi (erstaunt) perso13
+L04D03A
+ Arkhane! To jsi ty! XXX
+// Kalhi (glücklich) perso13
+L04D03B
+ Milácku, já si nemyslela, ze ty ješte prijdeš! XXX
+// Kalhi (hat die Kleidungsstücke angezogen) perso33
+L04D04
+ Nevypadá to tak špatne! XXX
+// Kalhi (entschieden) perso33
+L04D05
+ Pojd nyní! Jdeme! XXX
+// Kalhi (fassungslos) perso13
+L04D06A
+ Arkhane! Ty ... jsi se pro mne vrátil? XXX
+// Kalhi (fassungslos) perso13
+L04D06B
+ Co pak se s tebou deje? XXX
+// Kalhi (weint beinahe) perso13
+L04D06C
+ Tento proklatı jed Ti šílenství privádí! XXX
+// Kalhi (genervt) perso13
+L04D07
+ Arkhane! My musíme nyní jít! XXX
+// Kalhi (ungeduldig) perso13
+L04D08
+ Nac pak ty cekáš? XXX
+// Kalhi (erstaunt, daß Arkhan nichts tut) perso13
+L04D09
+ Nezahálej tak prece! XXX
+// Gefangener 2 perso1
+L04D204
+ Já chci ven! XXX
+// Hüter2 (überdrüssig)perso42
+L04D10A
+ To stací nyní uvnitr! XXX
+// Hüter2 perso42
+L04D10B
+ Pokud ješte slovo uslyším, ukoncíte vy vaše diskuse v ríši Temné Zeme! XXX
+// Hüter2 (stolz, daß er Arkhan verjagt hat) perso42
+L04D11A
+ Vás videl, tomu stacilo! XXX
+// Hüter2 (stolz, daß er Arkhan verjagt hat) perso42
+L04D11B
+ Prestante s vašimi nárky! XXX
+// Gefangener 2 (aufgeregt) perso1
+L04D207
+ Já chci videt svetlo! Nech mne ven jít! XXX
+// Hüter25 (brüllt die Gefangenen an) perso93
+L04D15
+ Nyní je ale konec! XXX
+// Hüter25 (brüllt die Gefangenen an) perso93
+L04D16
+ Klid uvnitr! XXX
+// Hüter25 (brüllt die Gefangenen an) perso93
+L04D17
+ Drzte hubu! XXX
+// Hüter25 (brüllt die Gefangenen an) perso93
+L04D18A
+ Drzte nyní tlamy! XXX
+// Hüter25 perso93
+L04D18B
+ Zde budete jistejší nez ve Spodním meste, vy hloupe hlavy! XXX
+// Hüter25 perso93
+L04D18C
+ Drzte tedy klapacku! XXX
+// Hüter2 (provoziert Arkhan) perso42
+L04D12
+ Pojd! Já cekám! XXX
+// Hüter2 (hört Arkhan kommen) perso42
+L04D13
+ Teskhane, jsi to ty? XXX
+// Hüter2 (Arkhan gegenüber) perso42
+L04D14A
+ Dobrotivı Boze! XXX
+// Hüter2 (aggressiv) perso42
+L04D14B
+ Já sice nevím, jak ty si se sem dostal, ale dále nepùjdeš! XXX
+// Hüter25 (drohend) perso93
+L04D20
+ Ty jsi jiz tu opet! Tobe to se mnou ješte nestacilo?! XXX
+// Hüter25 (sieht Arkhan) perso93
+L04D19
+ Svatı ohni! Nejaká kreatura! XXX
+// Gefangener 3 perso1
+L04D205
+ Tam ùtocí nekdo na Strázce ohne! XXX
+// Gefangener 4 perso1
+L04D206
+ Ano! Rychle! Vyrid ho a osvobod nás! XXX
+// Gefangener 3 perso1
+L04D208
+ Já chci videt krev! XXX
+// Gefangener 4 perso1
+L04D209
+ Pro koho ty jsi? XXX
+// Gefangener 3 perso1
+L04D210A
+ Zádná predtucha, já nevidím je prece! XXX
+// Gefangener 3 perso1
+L04D210B
+ Já chci videt krev, to je vsechno! XXX
+// Arkhan2 G perso2
+L04D23
+ Kdo je to? XXX
+// Arkhan3 G perso3
+L04D24
+ Je tu nekdo? XXX
+// Konkalit (aggressiv) perso76
+L04D60A
+ Tvemu príteli Zedovi jsem jiz lekci udelil. XXX
+// Konkalit (aggressiv) perso76
+L04D60B
+ Nyní jsi na rade! XXX
+// Gefangener 2 perso1
+L04D211A
+ To je on opet! XXX
+// Gefangener 1 (panisch) perso1
+L04D213A
+ On jiz jednoho zajatce usmrtil! Já to videl! XXX
+// Gefangener 1 (panisch) perso1
+L04D213B
+ On nás všechny usmrtí! XXX
+// Gefangener 2 (außer sich) perso1
+L04D214
+ Pomoc! Strázcove ohne, prijdte sem! XXX
+// Gefangener 3 perso1
+L04D215
+ Drz hubu! Ty ho prilákáš sem se svım krikem! XXX
+// Gefangener 2 perso1
+L04D216
+ Milost, já nechci umrít, já prece nic neudelal! XXX
+// Gefangener 4 perso1
+L04D217
+ Já take ne! Já sem nevinnı! XXX
+// Gefangener 3 perso1
+L04D218
+ Drzte tlamy! On mi nedelá vùbec strach! XXX
+// Gefangener 4 perso1
+L04D219
+ Tato nestvùra nás všechny usmrtí! XXX
+// Gefangener 2 perso1
+L04D220
+ Já nechci umrít! Milost! XXX
+// Gefangener 3 perso1
+L04D221
+ Drz hubu nebo te zabiju! XXX
+// Kalhi (beunruhigt) perso33
+L04D41
+ Arkhane! Co je s tebou? XXX
+// Arkhan2 G perso2
+L04D25
+ Tak, my musíme nyní ven odsud! XXX
+// Arkhan3 G perso3
+L04D26
+ My musíme nyní odsud.  XXX
+// Kalhi perso33
+L04D27A
+ Ano, ale Strázci ohne pátrají po tobe. XXX
+// Kalhi perso33
+L04D27B
+ Ono nebude tak jednoduche, uniknout. XXX
+// Arkhan2 G (amüsiert über Kalhi in Uniform) perso2
+L04D28A
+ Co uniforma! Velmi šikovne! XXX
+// Arkhan2 G (amüsiert über Kalhi in Uniform) perso2
+L04D28B
+ Na to neprijde sama Phedorie! XXX
+// Arkhan3 G (amüsiert über Kalhi in Uniform) perso3
+L04D29
+ Pravá ... Bojovnice! XXX
+// Kalhi perso33
+L04D30
+ Nedelej si ze mne srandu! Jdeme my nyní! XXX
+// Arkhan2 G perso2
+L04D31
+ Jdeme do haly. Pak pokusíme se my, nejak se dostat dolù. XXX
+// Arkhan3 G perso3
+L04D32
+ Následuj mne! Jdeme k velke hale. XXX
+// Kalhi (ironisch) perso33
+L04D33
+ Ok, šefe! XXX
+// Arkhan2 G perso2
+L04D34
+ Videla jsi to? XXX
+// Arkhan3 G perso3
+L04D35
+ Videla jsi to? XXX
+// Kalhi perso33
+L04D36
+Rychle ... jdeme my ... XXX
+// Arkhan2 O perso2
+L04D37
+ Prestan, ty bojuješ jako zacátecnice! XXX
+// Arkhan2 L perso2
+L04D38
+ Rekni jen, ty máš prímo na to! XXX
+// Arkhan3 O perso3
+L04D39
+ A to ty nazıváš bojovat! XXX
+// Arkhan3 L perso3
+L04D40
+ Ty mùzeš bojovat! XXX
+// Kalhi (muß sich wehren) perso33
+L04D43
+ Arkhane, ne! XXX
+// Kalhi (verängstigt) perso33
+L04D42
+ Ne, Arkhane! Musíš bojovat proti nim! XXX
+// Hüter2 (freut sich) perso42
+L04D21
+ Ah, konecne, ty hrozne monstrum! XXX
+// Hüter25 (hat Arkhan in die Flucht geschlagen) perso93
+L04D22
+ Tys našels mistra, Kreaturo! XXX
+// Arkhan2 G perso2
+L04D44
+ To není ten správnı klíc! XXX
+// Arkhan3 G perso3
+L04D45
+ To je špatnı klíc! XXX
+// Kalhi (hört Arkhan hinter der Tür) perso13
+L04D46
+ Pomoz mi! Já chci odsud! XXX
+// Konkalit6 perso76
+L04D47A
+ Rozbí dvere! Já mám cosi pro tebe... XXX
+// Konkalit6 perso76
+L04D47C
+ Ten zatracenı Strázce ohne má klíc! XXX
+// Arkhan2 G perso2
+L04D51A
+ Co deláš ty ve vezení? XXX
+// Arkhan3 G perso3
+L04D52A
+ Kdo te do zaláre hodil? XXX
+// Kalhi perso13
+L04D53A
+ Strazci ohne, oni mne u Rylsadhara objevili.  XXX
+// Arkhan2 G perso2
+L04D51B
+ A oni ti tvojí dıku nechali? XXX
+// Arkhan2 G perso2
+L04D51C
+ My jsme skutecne dobre chráneny! XXX
+// Arkhan3 G perso3
+L04D52B
+ A tvojí dıku ti oni neodebraly?! Zajímave! XXX
+// Kalhi perso13
+L04D53B
+ Oni rekli, ze Rylsadhar zmizel a ze já jsem podezrelá. XXX
+// Kalhi perso13
+L04D53C
+ Já se pokoušela, jim to vysvetlit, ale mne vzali, bez toho aby mne vyslechli. XXX
+// Arkhan2 L perso2
+L04D54
+ Copak to všechno znamená? XXX
+// Arkhan3 L perso3
+L04D55
+ Co má to všechno znamenat?  XXX
+// Kalhi perso13
+L04D56A
+ Zádne tušení...  XXX
+// Kalhi perso13
+L04D56B
+ Já mám strach, ze se Rylsadharovi neco prihodilo! XXX
+// Arkhan2 O (aggressiv) perso2
+L04D57
+ Jak mohla ses nechat chytit? XXX
+// Arkhan3 O (aggressiv) perso3
+L04D58
+ Jak hloupe od tebe, s ním jít! XXX
+// Kalhi (beleidigt) perso13
+L04D59
+ Co jsem mela delat? Kdybych se bránila, oni by mne zabili! XXX
+// Arkhan2 G perso2
+L04D63A
+ Jedno je jiste: S mım oblicejem jsem nápadnı .. XXX
+// Arkhan2 G perso2
+L04D63B
+ A oblecení nejakıho smetáka ...to je take nápadnı ... XXX
+// Arkhan3 G perso3
+L04D64A
+ Jeden demon z ríše Temne Zeme a jedna smeacka ... XXX
+// Arkhan3 G perso3
+L04D64B
+ My jsme nápadnı! XXX
+// Kalhi perso13
+L04D65
+ Pote co ty jsi Strázce ohne zabil, neverím, ze my si jeho uniformu mùzem vypùjcit. XXX
+// Arkhan2 G perso2
+L04D66
+ Následuj mne, rozumıš? XXX
+// Arkhan3 G perso3
+L04D67
+ Následuj mne! XXX
+// Kalhi perso13
+L04D68
+ Všechno jasnı. XXX
+// Arkhan2 G perso2
+L04D69A
+ Podívej se! Jedna Bogdaranova stará uniforma...  XXX
+// Arkhan2 G perso2
+L04D69B
+ Z casù, kdyz on byl ješte štíhlí! XXX
+// Arkhan3 G perso3
+L04D70
+ Pokus se, jí obleci! XXX
+// Kalhi (will einen Anzug anziehen) perso13
+L04D71
+ Proc vlastne ne ... XXX
+// Arkhan2 G perso2
+L04D72A
+ Kousek z kristaloveho klíce! XXX
+// Arkhan2 G perso2
+L04D72B
+ Tento zahnojenı chlápek jiste Zeda okradl! XXX
+// Arkhan3 G perso3
+L04D73A
+ Kousek z klíce! XXX
+// Arkhan3 G perso3
+L04D73B
+ 
+Tato mrcha jiste Zeda okradl! XXX
+// Gefangener 1 perso1
+L04D222
+ Hej, kdo otevre ty dvere? XXX
+// Gefangener 1 (unruhig) perso1
+L04D223
+ Kdo je to? Co se deje? XXX
+// Gefangener 3 perso1
+L04D224
+ To je kreatura ... Drz hubu! XXX
+// Gefangener 1 (panisch) perso1
+L04D225
+ Nelákej ho dovnitr! Já nic neudelal, já nechci zemrít! XXX
+// Gefangener 2 (voller Hoffnung) perso1
+L04D226A
+ Hej, Ty! Vyzvedni mne odsud! Zbor mríze! XXX
+// Gefangener 2 perso1
+L04D226B
+ Strázce ohne ten klíc nemá, a ty, ty ho nepotrebuješ jiste take, nebo? XXX
+// Gefangener 2 perso1
+L04D226C
+ Jsi silnı dost, mrize roztrhat? XXX
+// Gefangener 2 perso1
+L04D227
+ Hej, táhni! Ani ve vezení nemá clovek svùj klid! XXX
+// Gefangener 3 perso1
+L04D228
+ Drz hubu, nechci, aby se rozcílil ... XXX
+// Gefangener 2 perso1
+L04D229
+ On nemùze prece nám nic udelat! Tyce jsou prece silné dost, nebo? XXX
+// Arkhan2 L perso2
+L04D80
+ Hej, v klidu! XXX
+// Arkhan2 O perso2
+L04D81
+ Sekej nebo te zabiju! XXX
+// Konkalit 76 (stürzt sich auf Arkhan) perso76
+L04D88
+ Já udelám ti zadost, Prašivko! XXX
+// Arkhan2 L perso2
+L04D84
+ Já tobe nic! XXX
+// Arkhan3 L perso3
+L04D82
+ Já tobe nic! XXX
+// Arkhan2 O perso2
+L04D86
+ Prasecí pse! XXX
+// Arkhan3 O perso3
+L04D83
+ Prasecí pse! XXX
+// Arkhan2 G perso2
+L04D99
+ Jeho Uniforma je roztrhaná ... ta nám neprospeje ... XXX
+// Arkhan3 G perso3
+L04D100
+ Jeho Uniforma ... v cárech. Tu nevyuzijem více. XXX
+// Arkhan2 G perso2
+L04D95A
+ Tvrdá skála.  XXX
+// Arkhan2 G perso2
+L04D95B
+ Zde nemùzeme zádnı tunel kopat... XXX
+// Arkhan3 G perso3
+L04D96
+ Skály. Zapomeò na tunel! XXX
+// Arkhan2 G perso2
+L04D97
+ To není nic dále nez zmetková voda. XXX
+// Arkhan3 G perso3
+L04D98
+ Špatná voda. XXX

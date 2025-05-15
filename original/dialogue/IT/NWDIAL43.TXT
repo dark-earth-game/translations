@@ -1,0 +1,22 @@
+Début du fichier F:\DEV\DKE\DATAS\DIALOGUE\IT\NWDIAL43.TXT
+ // Arkhan3 L perso3
+L43D01
+Thanandar, abbandona!  XXX
+// Arkhan3 O (folle di rabbia) perso3
+L43D02
+Dai, colpisci! Colpisci! XXX
+// Arkhan3 G perso3
+L43D03A
+Impossibile! Non si sposta! XXX
+// Arkhan3 G perso3
+L43D03B
+Devo battermi! XXX
+// Arkhan3 G perso3
+L43D04
+Queste frane non lo fermeranno! XXX
+// Arkhan3 G perso3
+L43D05A
+La parete è rovente! XXX
+// Arkhan3 G perso3
+L43D05B
+L'energia di luce è dietro questa porta! XXX

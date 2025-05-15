@@ -1,0 +1,61 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL42.TXT
+ // Arkhan3 G perso3
+L42D01
+ No way back... XXX
+// Arkhan3 G perso3
+L42D05
+ Looks like the end of the line... XXX
+// Arkhan3 G perso3
+L42D02A
+ Outside... The cliff... XXX
+// Arkhan3 G perso3
+L42D02B
+ The entrance should be here... But Great Cataclysm destroyed it! XXX
+// Arkhan3 G perso3
+L42D02C
+ That's why father never found it! XXX
+// Arkhan3 L perso3
+L42D08
+ It's burning-hot... And this light... Like in the crypt XXX
+// Arkhan3 O perso3
+L42D09
+Blast! Burned my hand! XXX
+// Arkhan3 L perso3
+L42D10
+ Not gonna touch it again... XXX
+// Arkhan3 O perso3
+L42D11
+Don't want to touch it again! XXX
+// Arkhan3 G (pulls the lever to open the door) perso3
+L42D07A
+ Won't budge. XXX
+// Arkhan3 G perso3
+L42D07B
+ Won't budge. XXX
+// Arkhan3 G perso3
+L42D07C
+ Nothing. XXX
+// Arkhan3 G perso3
+L42D06
+ The mechanism's jammed. XXX
+// Arkhan3 G perso3
+L42D12
+ The stone's warm... XXX
+// Arkhan3 G perso3
+L42D13A
+ Rock slide... XXX
+// Arkhan3 G perso3
+L42D13B
+ So old... ruins... XXX
+// Arkhan3 L (looking down) perso3
+L42D03
+ The rest of the grotto's fallen in the sea. XXX
+// Arkhan3 O (looking down) perso3
+L42D04
+  If I dive from here, I'm a dead man! XXX
+// Arkhan3 G perso3
+L42D14
+ Gigantic wheel... and an opening there. XXX
+// Arkhan3 G perso3
+L42D15
+ Have to find a way to move it... XXX

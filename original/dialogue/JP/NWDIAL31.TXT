@@ -1,0 +1,390 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL31.TXT
+L31D83A
+ I can't dive. XXX
+// Arkhan2 G perso2
+L31D83B
+ No more air in the tank. XXX
+// Arkhan2 G perso2
+L31D83C
+ Need to find a way to fill it... XXX
+// Arkhan3 G (speaking inside helmet)perso3
+L31D84A
+ Can't dive... XXX
+// Arkhan3 G perso3
+L31D84B
+ No air in tank. XXX
+// Arkhan3 G perso3
+L31D84C
+ Have to fill it... XXX
+// Arkhan2 L perso2
+L31D85A
+ Too deep. XXX
+// Arkhan2 L perso2
+L31D85B
+ If I jump in, I'll drown! XXX
+// Arkhan2 O perso2
+L31D86
+ No! I'm gonna sink like a rock! XXX
+// Arkhan3 L perso3
+L31D87
+ No, it's too deep...  XXX
+// Arkhan3 O perso3
+L31D88
+ I'll drown! XXX
+ // Sordos perso23
+L34D04A
+ Hrrrrh... (spitting) XXX
+// Konkalite8 (to Konkalite10) perso78
+L31D500
+ Hey, who's 'at? XXX
+// Konkalite8 (shouting at Arkhan) perso78
+L31D35
+ You, you over there! Come closer! XXX
+// Konkalite8 perso78
+L31D36
+ Hey! Make it snappy! XXX
+// Konkalite8 perso78
+L31D37
+ Come closer so we can see your face! XXX
+// Konkalite8 (shouting)perso78
+L31D38
+ Get him! XXX
+// Konkalite8 (shouts at A. who is leaving)perso78
+L31D39
+ Hey! Come back here! XXX
+// Bork perso30
+L31D501
+ Yo! Who you?! XXX
+// Konkalite11 perso81
+L31D502
+ Hey Bork! You know this guy? XXX
+// Bork perso30
+L31D503
+ No! XXX
+// Konkalite11 perso81
+L31D507
+ Say your prayers! XXX
+// Bork (roaring)perso30
+L31D504
+ Where d'ya think yer goin'?! XXX
+// Konkalite11 perso81
+L31D89
+ Raise the alarm! XXX
+// Konkalite8 (attacked by A.)perso78
+L31D53
+ Looking for trouble, huh! XXX
+// Konkalite8 perso78
+L31D01
+ Who're you? XXX
+// Arkhan3 L perso3
+L31D22
+ Don't wanna hurt you, get outta my way! XXX
+// Konkalite8 perso78
+L31D25A
+ Hey, you...you, you ugly pus-head! XXX
+// Konkalite8 perso78
+L31D25B
+ Nobody talks to me like that! XXX
+// Konkalite8 perso78
+L31D27
+ I'll teach you to keep your trap shut! XXX
+// Arkhan2 L perso2
+L31D02
+ Don't freak out, friend. I'm on your side. XXX
+// Konkalite8 perso78
+L31D03A
+ Sure about that? I've ain't never seen you before! XXX
+// Konkalite8 perso78
+L31D03B
+ Around here we don't take kindly to strangers! XXX
+// Konkalite8 perso78
+L31D21C
+ Let's have a little swig of your Stohll! XXX
+// Arkhan2 O (sure of himself)perso2
+L31D04A
+ It's me, you idiot! XXX
+// Arkhan2 O (sure of himself)perso2
+L31D04B
+ Take off or I'll tell Sordos how you wasted my time! XXX
+// Konkalite8 perso78
+L31D05
+ What? Who you calling idiot, blackhead? XXX
+// Arkhan2 L perso2
+L31D06
+ Look, you seem like a reasonable kind of guy. Let's discuss this... XXX
+// Konkalite8 perso78
+L31D07
+ Discuss, nothing, you filthy scum-sack! I'm gonna get ya! XXX
+// Arkhan2 O perso2
+L31D08
+ Shut up, maggot, and let me pass! XXX
+// Konkalite8 perso78
+L31D09
+ What?! I'm gonna smash your face in, slime! XXX
+// Arkhan2 G perso2
+L31D10
+ Everything okay? XXX
+// Konkalite8 perso78
+L31D11A
+ Okay, nothing! Four deaths since sun-up! XXX
+// Konkalite8 perso78
+L31D11B
+ A real pain in the ass! XXX
+// Konkalite8 (in a low voice) perso78
+L31D11C
+ It's that weird Sunseer that Sordos teamed up with. XXX
+// Konkalite8 (in a low voice) perso78
+L31D11D
+  He spells trouble for us! XXX
+// Konkalite8 perso78
+L31D11E
+ But we're still top of the heap in the Lower City XXX
+// Konkalite8 perso78
+L31D11F
+ Stealing, smashing things up, messing around with people. The good life, you know what I mean? XXX
+// Konkalite8 perso78
+L31D11G
+ Armal Sadak's gang  of ass kickers  don't bother us! XXX
+// Arkhan2 G perso2
+L31D12
+ And the Guardians of Fire? XXX
+// Konkalite8 perso78
+L31D13A
+ Them? We don't worry about them softies! XXX
+// Konkalite8 perso78
+L31D13B
+ Sordos has their chief in the palm of his hand! XXX
+// Konkalite8 perso78
+L31D13C
+ He acts tough but Sordos has him eating out of his hand! XXX
+// Konkalite8 perso78
+L31D13D
+ And that jerk Zed, he won't be around much longer! XXX
+// Arkhan2 G perso2
+L31D14
+ You're saying Sordos is in league with the Provost of the Guardians of Fire? XXX
+// Konkalite8 perso78
+L31D15A
+ Like I said, bud, Sordos plays hardball, and he's smart. XXX
+// Konkalite8 perso78
+L31D15B
+ He's had Dhorkan by the short-and-curlys for a long time. XXX
+// Konkalite8 perso78
+L31D15C
+ And Sordos sez the whole Stallite will be ours in no time. XXX
+// Konkalite8 perso78
+L31D15D
+ We're gonna spend all day drinkin', eatin' and messin' with all those snooty Upper City females we can find. XXX
+// Konkalite8 perso78
+L31D15E
+ And the Sunseers, they'll be licking our feet! XXX
+// Arkhan2 G (whispering to himself) perso2
+L31D16
+ (whispering) That's what you think... XXX
+// Arkhan2 G perso2
+L31D17
+ Who's the Sunseer you were talking about? XXX
+// Konkalite8 (whispering)perso78
+L31D18A
+ I don't know his name and I don't want to. Smells like death on wheels! XXX
+// Konkalite8 (whispering)perso78
+L31D18B
+ But hey, Sordos sez thanks to him we're gonna get those Sunseers. XXX
+// Konkalite8 perso78
+L31D18C
+ Let me tellya, I wouldn't mind getting my paws on that Great Sunseer, know what I mean?  XXX
+// Konkalite8 perso78
+L31D18D
+ Ya think she's over the hill? XXX
+// Konkalite8 perso78
+L31D18E
+ A little, maybe, but me, I've always had a hard spot for the short ones... XXX
+// Arkhan2 L perso2
+L31D19
+ Tell me more! XXX
+// Arkhan2 O perso2
+L31D20
+ Go on, tell me more! XXX
+// Konkalite8 perso78
+L31D21A
+ That's enough of yer questions! XXX
+// Konkalite8 perso78
+L31D21B
+ You're starting to get on my nerves! XXX
+// Arkhan3 G perso3
+L31D42
+ Take this and let me past. XXX
+// Konkalite8 perso78
+L31D43A
+ Who do you think you are, rat-face! XXX
+// Konkalite8 perso78
+L31D43B
+ We're gonna show ya! XXX
+// Arkhan2 L perso2
+L31D40
+ Er, want some Stohll? It's good stuff! XXX
+// Arkhan2 O perso2
+L31D41
+ Hey, a guy like you oughta like Stohll! XXX
+// Konkalite8 perso78
+L31D44
+ Stohll? Yeah, bring it on! XXX
+// Konkalite8 perso78
+L31D45
+ Aaah! Feels good all the way down! XXX
+// Arkhan2 G perso2
+L31D46
+ Have some more? XXX
+// Konkalite8 perso78
+L31D48
+ Yeah! Won't say no! XXX
+// Konkalite8 perso78
+L31D47
+ Ahhh! Lights my fire! XXX
+// Konkalite8 (about to pass out)perso78
+L31D49
+ Ith... Ith good... XXX
+// Arkhan2 G perso2
+L31D50
+ Whadya think? XXX
+// Konkalite8 perso78
+L31D51
+ Your thingamajig don't interest me. XXX
+// Konkalite10 perso80
+L31D82
+ Let's see if you've still got any baby teeth! XXX
+// Konkalite10 perso80
+L31D54
+ I know you? XXX
+// Arkhan3 L perso3
+L31D90
+ Take it easy! I got no fight with you! XXX
+// Konkalite10 perso80
+L31D70
+ You ain't got no bone to pick, but I see some that need breakin'! XXX
+// Konkalite10 perso80
+L31D71
+ I ain't  scared of you! XXX
+// Konkalite10 perso80
+L31D55
+ One of us? With a face like yours! You think I'm stupid or what?! XXX
+// Arkhan2 L perso2
+L31D56
+ No no no no no. Don't get excited. XXX
+// Konkalite10 (with exaggerated deference)perso80
+L31D57
+ And who are you, Mr. Fancy-Pants? XXX
+// Arkhan2 L perso2
+L31D58
+ Take it easy, I said. I just want to talk to you. XXX
+// Konkalite10 perso80
+L31D59
+ Want to talk, huh? Well you came to the wrong place! XXX
+// Konkalite10 perso80
+L31D60
+ Beat it! XXX
+// Konkalite10 perso80
+L31D61A
+ Yeah, Sordos said we're gonna rule the Stallite. XXX
+// Konkalite10 perso80
+L31D61B
+ You want my opinion, there's gonna be some serious head knockin' done...  XXX
+// Konkalite10 perso80
+L31D61C
+ I don't like them Guardians of Fire. Sordos is buddy-buddy with their boss, but those boys don't take orders from nobody but the Sun God. XXX
+// Konkalite10 perso80
+L31D61D
+ I don't know if they're all dancin' to the same tune. XXX
+// Konkalite10 perso80
+L31D61E
+ Look what happened: while The Great Sunseer was being attacked, Zed was killing our brothers! XXX
+// Konkalite10 perso80
+L31D61F
+ Sordos was outta his mind! XXX
+// Arkhan2 G perso2
+L31D62
+ Provost Dhorkan is in league with Sordos? XXX
+// Konkalite10 perso80
+L31D63A
+ Yeah, they signed a pact.  XXX
+// Konkalite10 perso80
+L31D63B
+ We bumped off some guys that we're buggin' Dhorkan, and he made sure the Guardians of Fire don't bug us any more XXX
+// Arkhan2 L perso2
+L31D64
+ Yeah, yeah. Sordos is smart, all right... does he have other allies besides Dhorkan? XXX
+// Arkhan2 O perso2
+L31D65
+ Besides Dhorkan, are there any other Guardians traitors? XXX
+// Konkalite10 perso80
+L31D66A
+ Dhorkan is small fry. Soon he'll be fish-food floating in the canal. XXX
+// Konkalite10 perso80
+L31D66B
+ But there's a Sunseer working for Sordos.  XXX
+// Konkalite10 perso80
+L31D66C
+ He's the one gonna make us the kings of Sparta! XXX
+// Konkalite10 perso80
+L31D67
+ I don't know! You're gettin' on my nerves with all your questions! Go on, beat it! XXX
+// Arkhan2 O perso2
+L31D68
+ Come on, don't play hard-to-get, tell me more! XXX
+// Konkalite10 perso80
+L31D69
+ I warned you, dim-lit! You get on my nerves and you'll be sorry! XXX
+// Konkalite10 perso80
+L31D75A
+ You think you scare me!? XXX
+// Konkalite10 perso80
+L31D75B
+ I'm gonna rip your face off with my bare hands! XXX
+// Konkalite10 perso80
+L31D76
+ Stohll, you said? Sure, let the good times roll! XXX
+// Konkalite10 perso80
+L31D77
+ Aaah! Sure does warm the old gut XXX
+// Konkalite10 perso80
+L31D72
+ If there's Stohll around, I can always find a glass! XXX
+// Konkalite10 perso80
+L31D78
+ Ah! Hits the spot! XXX
+// Konkalite10 (going to pass out)perso80
+L31D79
+ Ith, Ith, Itth thum throng sthruff... XXX
+// Konkalite10 perso80
+L31D80
+ I don't care what you got! XXX
+// Bork perso30
+L31D506
+ Die! XXX
+// Arkhan2 O perso2
+L31D505
+ Get out of my way or I'll waste you! XXX
+// Arkhan2 G perso2
+L31D900
+ A pile of empty barrels. XXX
+// Arkhan3 G perso3
+L31D901
+ A pile of barrels. XXX
+// Arkhan2 L perso2
+L31D902
+ This canal goes way under the Stallite. XXX
+// Arkhan3 L perso3
+L31D904
+ The canal is deep. It goes way under ground. XXX
+// Arkhan2 O perso2
+L31D903
+ This water stinks like rotting flesh! XXX
+// Arkhan3 O perso3
+L31D905
+ Water stinks like rotting flesh! XXX
+// Arkhan2 G perso2
+L31D906
+ These tubes must bring air from the surface. XXX
+// Arkhan3 G perso3
+L31D907
+ There's air coming from up there XXX

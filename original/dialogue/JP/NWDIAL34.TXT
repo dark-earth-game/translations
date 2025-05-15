@@ -1,0 +1,166 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL34.TXT
+ // Konkalite7 perso77
+L34D777
+ We're gonna slice 'n dice ya! XXX
+// Konkalite7 perso77
+L34D778
+ You're a dead man! XXX
+// Thanandar perso24
+L34D100A
+ Well, well. Look who we've got here! Rylsadhar's son! XXX
+// Thanandar perso24
+L34D100B
+ Your men aren't very picky about who they let past! XXX
+// Sordos perso23
+L34D101
+ He's contaminated too! XXX
+// Thanandar perso24
+L34D102A
+ Yes. But now that I've got his father, I don't need him any more! XXX
+// Thanandar perso24
+L34D102B
+ Kill him! XXX
+// Sordos perso23
+L34D40A
+ How about a nice new face job! XXX
+// Sordos perso23
+L34D40B
+ I always wanted to be a sculptor! XXX
+// Sordos perso23
+L34D04A
+ Hrrrrh... (spitting) XXX
+// Sordos perso23
+L34D04B
+ I ain't gonna kill you right away. That would be too easy! XXX
+// Sordos perso23
+L34D04C
+ My men have a little treat for you. XXX
+// Sordos perso23
+L34D04D
+ And when you get a taste of it, you'll beg 'em to kill you! XXX
+// Sordos (surprised to find Arkhan at his headquarters)perso23
+L34D38
+ Hey! What fart did you blow in on?! XXX
+// Sordos perso23
+L34D39
+ Answer, toad! Or I'll rip your tongue out! XXX
+// Thanandar perso24
+L34D201
+ Die, you poor fool! XXX
+// Arkhan2 L perso2
+L34D05
+ Thanandar! What's the meaning of this? XXX
+// Arkhan2 O perso2
+L34D06
+ Thanandar, you dirty double-crosser, you lied to me! XXX
+// Arkhan3 G perso3
+L34D07
+ Thanandar! Traitor! XXX
+// Thanandar (disappointed)perso24
+L34D200A
+ You're as stupid as all the others. You refuse to accept the Shadows! XXX
+// Thanandar perso24
+L34D200B
+ Death is the reward of fools! XXX
+// Sordos perso23
+L34D202
+ I'm gonna rip your heart out! XXX
+// Arkhan2 L perso2
+L34D13
+ Are you the mighty Sordos? XXX
+// Arkhan2 O perso2
+L34D14
+ Hey, are you king of this manure heap? XXX
+// Arkhan3 L perso3
+L34D15
+ Are you Sordos? XXX
+// Arkhan3 O perso3
+L34D16
+ My life is a living hell! Your fault! Your turn to pay! XXX
+// Sordos (menacingly) perso23
+L34D17A
+ I don't know what rock you crawled out from under. But I know this: XXX
+// Sordos (menacingly) perso23
+L34D17B
+ I'm gonna take you apart and send you back in a million pieces! XXX
+// Arkhan2 L perso2
+L34D22
+ Are you Sordos? Dhorkan sent me. XXX
+// Sordos (aggressively) perso23
+L34D23
+ Dhorkan, huh? What's his beef? XXX
+// Arkhan2 L perso2
+L34D24
+ He said he's not too happy with all your screw-ups. XXX
+// Sordos (speaking then stopping)perso23
+L34D25
+ Oh yeah?! Well you can tell that jerk Dhorkan he can just... XXX
+// Arkhan2 O (stupidly)perso2
+L34D27
+ Hey, Sordos! Got a message from Dhorkan. XXX
+// Arkhan2 O perso2
+L34D28A
+ He says to tell you you're nothing but a lousy scum-sucking scavenger! XXX
+// Arkhan2 O perso2
+L34D28B
+ And he'd like to see you dead in your stinking cave. XXX
+// Sordos (enraged) perso23
+L34D29
+ What?!  XXX
+// Sordos (suddenly realizing who Arkhan is) perso23
+L34D26A
+ Hey, I know you. You're the stupid jerk that took it on the chin for Lory! XXX
+// Sordos (cruelly)perso23
+L34D26B
+ Glad to see you. I was looking for someone to do a number on! XXX
+// Arkhan3 L (menacingly) perso3
+L34D30
+ Sordos... Dhorkan sent me! XXX
+// Arkhan3 L perso2
+L34D31
+ To tell you your time has come! XXX
+// Sordos perso23
+L34D41
+ You trying to commit suicide, Scavenger? XXX
+// Arkhan2 G perso2
+L04D44
+ It's not the right key! XXX
+// Arkhan3 G perso3
+L04D45
+ Wrong key! XXX
+// Arkhan2 L perso2
+L34D34
+ That doesn't look exactly comfy! XXX
+// Arkhan2 O perso2
+L34D35
+ I'm not going to sleep on that! XXX
+// Arkhan3 G perso3
+L34D36
+ Not comfortable! XXX
+// Arkhan2 L (examining a pipe)perso2
+L34D500
+ A big rusted pipe. XXX
+// Arkhan3 L (examining a pipe)perso3
+L34D501
+ Rusted-out pipe. XXX
+// Arkhan2 L (examining the grate)perso2
+L34D506
+ A steel grate. XXX
+// Arkhan3 L (examining the grate)perso3
+L34D507
+ A heavy grate. XXX
+// Arkhan2 G perso2
+L34D502
+ Big barrels. They look empty. XXX
+// Arkhan3 G perso3
+L34D503
+ Barrels... empty. XXX
+// Arkhan2 G perso2
+L34D504A
+ An overturned cask of Stohll. XXX
+// Arkhan2 G perso2
+L34D504B
+ Whoa! These Konkalites can really put it away! XXX
+// Arkhan3 G perso3
+L34D505
+ A cask of Stohll. Blast!  Empty. XXX

@@ -1,0 +1,82 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL13.TXT
+ // Arkhan2 G (verblüfft)perso2
+L13D01
+ Unglaublich ... Ein ... Ein Altarraum vom Vorher ... XXX
+// Arkhan3 G (verblüfft)perso3
+L13D02
+ Unglaublich ... Ein ... Ein Altarraum vom Vorher ... XXX
+// Arkhan2 G (entdeckt einen Mechanismus)perso2
+L13D07
+ Da bewegt sich was ... XXX
+// Arkhan3 G (entdeckt einen Mechanismus)perso3
+L13D08
+ Da bewegt sich was ... XXX
+// Arkhan2 G (vor der kaputten Konsole)perso2
+L13D09
+ Nein... die Maschine ist kaputt. XXX
+// Arkhan3 G (vor der kaputten Konsole)perso3
+L13D10
+ Die Maschine ist kaputt. XXX
+// Arkhan2 G (untersucht den Kältesarg)perso2
+L13D11A
+ Ein Bett, das man wie eine Truhe schließen kann. XXX
+// Arkhan2 G perso2
+L13D11B
+ Der Mann da drin stammt noch aus der Zeit vor der Großen Katastrophe. XXX
+// Arkhan3 G perso3
+L13D12A
+ Seltsam, das Bett hier ... XXX
+// Arkhan3 G perso3
+L13D12B
+ Und diese Überreste ... ein alter Mann, der noch aus der Zeit vor der Großen Katastrophe stammt. XXX
+// Arkhan2 G (untersucht den Kältesarg)perso2
+L13D13A
+ Da hat ein Mann dringelegen... XXX
+// Arkhan2 G perso2
+L13D13B
+ Jetzt ist es nichts weiter als Glas und Staub. XXX
+// Arkhan3 G (untersucht den Kältesarg) perso3
+L13D14
+ Nichts weiter als Staub ... XXX
+// Arkhan2 L perso2
+L13D15
+ Genug, das tut zu sehr weh! XXX
+// Arkhan2 O perso2
+L13D23
+ Da sind grüne Lichter angegangen! XXX
+// Arkhan3 L perso3
+L13D16
+ Nein, das tut zu sehr weh! XXX
+// Arkhan3 O perso2
+L13D24
+ Grüne Lichter! XXX
+// Arkhan2 L (untersucht die Konsole) perso2
+L13D17
+ Hübsch, diese Lichter ... hab' ich vorher noch nie gesehen. XXX
+// Arkhan3 L perso3
+L13D18
+ Was sind das für kleine Feuer? XXX
+// Arkhan2 O (untersucht die Trümmer)perso2
+L13D19
+ Alles kaputt! XXX
+// Arkhan3 O (untersucht die Trümmer)perso2
+L13D20
+ Alles zerstört! XXX
+// Arkhan2 G perso2
+L13D03
+ Nichts als Trümmer... XXX
+// Arkhan3 G perso3
+L13D04
+ Trümmer... XXX
+// Arkhan2 G perso2
+L13D05
+ Alles ist zusammengebrochen ... XXX
+// Arkhan3 G perso3
+L13D06
+ Alles ist zusammengebrochen ... XXX
+// Arkhan2 G (untersucht den Kältesarg)perso2
+L13D21
+ Das Bett ist zertrümmert ... Der Mensch, der hier drin geschlafen hat, ist jetzt nichts mehr als Staub ... XXX
+// Arkhan3 G (untersucht den Kältesarg)perso3
+L13D22
+ Ein Alter vom Vorher ... der ist jetzt nichts als Staub ... XXX

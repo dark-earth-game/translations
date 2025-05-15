@@ -1,0 +1,265 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL27.TXT
+ // Arkhan2 G perso2
+L51D111
+ Jdgxiwe bZl, hia ia kljend. XXX
+// Arkhan3 G perso3
+L51D112
+ Vnjn bZl! $gdba ia kj_mnokdtx... XXX
+// Konkalite4 perso74
+L27D01
+ K]je sal~_, hlZcx! XXX
+// Phedoria perso26
+L20D38
+ Kw njgxfj snj j[l~f ma[| iZ mhalnx, #lqZi! XXX
+// Arkhan2 L perso2
+L20D30
+ Hjsaho [w ia latdnx ]m~ kl|hj maesZm? XXX
+// Arkhan2 O perso2
+L20D31
+ Hjfjisdh m yndh kl|hj maesZm! XXX
+// Arkhan3 L perso3
+L20D32
+ Hjfjisdh m yndh! XXX
+// Arkhan3 O perso3
+L20D33
+ *j]jld! XXX
+// Lory perso15
+L20D34
+ >_amx iagxc| jmnZ]Znxm|. A_~h. XXX
+// Arkhan2 G perso2
+L20D35
+ Fj... &agdfZ| klj]d_drZ... XXX
+// Arkhan3 G perso3
+L20D36
+ &agdfZ| klj]d_drZ... XXX
+// Lory perso15
+L20D37
+ HjgotZe hai|! Fo ba, d_~h! XXX
+// Arkhan2 L perso2
+L20D39
+ Ma_jld|, snj kljdmqj_dn? XXX
+// Arkhan2 O perso2
+L20D40
+ Ve... Pnj kljdmqj_dn? XXX
+// Arkhan3 L perso3
+L20D41
+ Ma_jld|, mfZbd hia! XXX
+// Arkhan3 O perso3
+L20D42
+ JfZbd hia! XXX
+// Phedoria perso26
+L20D43
+ Djld j[v|midn! XXX
+// Arkhan2 G perso2
+L20D44
+ Fj... CZkdnZi... XXX
+// Arkhan3 G perso3
+L20D45
+ CZkdnZi... XXX
+// Phedoria perso26
+L20D46
+ Jga_oe cZ iZhd! XXX
+// Arkhan2 G perso2
+L27D01A
+ Vnj ykdcj_ [j|, dc naq snj jmij]Znag|h kldtgjmx ]amnd iZ kond f mnZggZeno. XXX
+// Arkhan2 G perso2
+L27D01B
+ X [wg o]alai, snj ynjn hjimnl - ]ma^j gdtx mfZcfZ... XXX
+// Arkhan2 G perso2
+L27D01C
+ Fj nj, snj mgosdgjmx mj hije, dchaidgj hje ]c^g|_! XXX
+// Arkhan3 G perso3
+L27D02A
+ G_iZ dc [dn] jmij]Znagae ]j ]lah| kjdmfj] mnZggZenZ. XXX
+// Arkhan3 G perso3
+L27D02B
+ Fa ciZz ob, fah gosta [wnx - sagj]afjh dgd hjimnljh! XXX
+// Arkhan2 G perso2
+L27D03A
+ &jc]a_aida mnZggZenZ. XXX
+// Arkhan2 G perso2
+L27D03B
+ *j]jl|n, kal]wa dc ljb_~iiwq kld m]ana _i|, nZf d ia _jbdgd _j a^j kjmnljefd. XXX
+// Arkhan3 G perso3
+L27D04A
+ &jc]a_aida mnZggZenZ. XXX
+// Arkhan3 G perso3
+L27D04B
+ Jjnid gz_ae kjgjbdgd m]jd bdcid. XXX
+// Arkhan2 G perso2
+L27D05A
+ Gnmnljaiiwe mnZggZen. XXX
+// Arkhan2 G perso2
+L27D05B
+ Pnj id _aix, gz_d hjgdgd $j^Z JjgirZ ia j[qj_dnx dq m]jdh md|idah. XXX
+// Arkhan2 G perso3
+L27D05C
+ FZ ynjn lZc hjgdn]Zhd ia j[jendmx! XXX
+// Arkhan3 G perso3
+L27D06A
+ JnZggZen. XXX
+// Arkhan3 G perso3
+L27D06B
+ $gZ^jmgZ]g~iiwe j^i~h $j^Z JjgirZ. XXX
+// Arkhan3 G perso3
+L27D06C
+ Njnagjmx [w ]aldnx! XXX
+// Arkhan2 G perso2
+L27D07A
+ >_amx dcj[lZb~i |lfde m]an, snj md|an iZ fokjga qlZhZ. XXX
+// Arkhan2 G perso2
+L27D07B
+ Gi iam~n gosd $j^Z JjgirZ _Zgafj ] >ahgd ElZfZ. Vnj ^jl_jmnx klj]d_ra]. XXX
+// Arkhan3 G perso3
+L27D08A
+ Vnj fZf [w njn |lfde m]an, snj md|an iZ fokjga qlZhZ. XXX
+// Arkhan3 G perso3
+L27D08B
+ Gi iam~n gosd $j^Z JjgirZ _Zgafj-_Zgafj ] >ahgd ElZfZ. XXX
+// Arkhan2 G perso2
+L27D09A
+ # ynj snj, hia iakji|nij. XXX
+// Arkhan2 G perso2
+L27D09B
+ Ejban, ynj mnZno|, kZh|nidf $wgj^j... XXX
+// Arkhan3 G perso3
+L27D10
+ X ia ciZz, snj ynj. XXX
+// Arkhan2 G perso2
+L27D11
+ Vnj j^ljhiZ| m]an|uZ|m| fZhaiiZ| mnZno| dc nj^j ^ljnZ! XXX
+// Arkhan3 G perso3
+L27D12
+ Vnj nZ mnZno| dc ^ljnZ! XXX
+// Arkhan2 G perso2
+L27D13A
+ Eomjludfd. XXX
+// Arkhan2 G perso2
+L27D13B
+ Dz_d ]asij n]al_|n, snj jid idfs~hiwa gain|d ] mnZggZena. XXX
+// Arkhan2 G perso2
+L27D13C
+ Pnj ]m~, snj jid ohazn _agZnx, nZf ynj tZldnx ] j[gjhfZq $wgj^j _Z lwnxm| ] jnqj_Zq ] kjdmfZq a_w. XXX
+// Arkhan2 G (smiling to himself) perso2
+L27D13D
+ Fj na, fnj nZf msdnZan, ia ]mnlasZgdmx m +Zildmjh, CZgd d _lo^dhd... XXX
+// Arkhan3 G perso3
+L27D14A
+ Eomjludfd. XXX
+// Arkhan3 G perso3
+L27D14B
+ Gid duon mnZlx~, kalalZ[Znw]Zzn, j[haid]Zzn. XXX
+// Arkhan3 G perso3
+L27D14C
+ Fj ia ]ma dc idq idfs~hiwa gain|d. XXX
+// Arkhan3 G (smiling to himself) perso3
+L27D14D
+ &c|nx qjn| [w CZgd dgd +ZildmZ... XXX
+// Arkhan2 G perso2
+L27D15A
+ +j[wnsdfd. XXX
+// Arkhan2 G perso2
+L27D15B
+ Gid bd]on ] Fdbiah ^jlj_a ]hamna m homjludfZhd. XXX
+// Arkhan2 G perso2
+L27D15C
+ Iw[ZsZn, jqjn|nm|, ]wlZud]Zzn oljbZe. Gid fjlh|n mnZggZen. XXX
+// Arkhan3 G perso3
+L27D16A
+ +j[wnsdfd. XXX
+// Arkhan3 G perso3
+L27D16B
+ Gid bd]on ] Fdbiah ^jlj_a ]hamna m homjludfZhd. XXX
+// Arkhan3 G perso3
+L27D16C
+ Iw[ZsZn, jqjn|nm|, ]wlZud]Zzn oljbZe. Gid fjlh|n iZm. XXX
+// Arkhan2 G perso2
+L27D23A
+ Jnljdnagd. XXX
+// Arkhan2 G perso2
+L27D23B
+ Gid kjmnljdgd mnZggZen nZf, fZf klj]d_rw mfZcZgd dh. XXX
+// Arkhan2 G perso2
+L27D23C
+ Gid mjc_Zzn ]m~: c_Zid|, dimnlohainw, ha[agx... XXX
+// Arkhan3 G perso3
+L27D24A
+ Jnljdnagd. XXX
+// Arkhan3 G perso3
+L27D24B
+ Gid kjmnljdgd mnZggZen _g| klj]d_ra]. XXX
+// Arkhan3 G perso3
+L27D24C
+ >_Zid|, dimnlohainw, ha[agx - jid mjc_Zzn ]m~. XXX
+// Arkhan2 G perso2
+L27D17A
+ JnlZbd j^i|. XXX
+// Arkhan2 G perso2
+L27D17B
+ JgobZ ]alje d klZ]_je mnZggZeno _aix d ijsx, jid _Zzn cZudno, j^jix d m]an. XXX
+// Arkhan2 O perso2
+L27D17C
+ +Z, fZf ba! XXX
+// Arkhan3 G perso3
+L27D18A
+ JnlZbd j^i|. XXX
+// Arkhan3 G perso3
+L27D18B
+ >Zudnidfd mnZggZenZ d a^j bdnagae. XXX
+// Arkhan3 O perso3
+L27D18C
+ Djbx! XXX
+// Arkhan2 G perso2
+L27D19A
+ Hlj]d_rw. XXX
+// Arkhan2 G perso2
+L27D19B
+ Hjm]|u~iiwa $j^Z JjgirZ, la]idnagd ]alw. XXX
+// Arkhan2 G perso2
+L27D19C
+ Gid iZklZ]g|zn iZm d cZuduZzn jn alamd. XXX
+// Arkhan2 O perso2
+L27D19D
+ Cj^_Z ia mgdtfjh cZi|nw jqjnje iZ naq, fnj dh kjhj^Zan! XXX
+// Arkhan3 G perso3
+L27D20A
+ Hlj]d_rw. XXX
+// Arkhan3 G perso3
+L27D20B
+ Hjm]|u~iiwa $j^Z JjgirZ, iZtd fjlhsda. XXX
+// Arkhan3 O perso3
+L27D20C
+ Jgakwa, moa]aliwa fjlhsda! XXX
+// Arkhan2 G perso2
+L27D21A
+ Jj]an. XXX
+// Arkhan2 G perso2
+L27D21B
+ FZ ^lZ]zla dcj[lZbaiZ ynZ cZgZ. XXX
+// Arkhan2 G perso2
+L27D21C
+ &jn ^_a Djld d a~ kjhjuidfd kldidhZzn m]jd lataid|. XXX
+// Arkhan3 G perso3
+L27D22A
+ Jj]an. Vnj c_amx. XXX
+// Arkhan3 G perso3
+L27D22B
+ &jn ^_a Djld d a~ kjhjuidfd kldidhZzn m]jd lataid|. XXX
+// Arkhan2 G perso2
+L27D25A
+ JnZno| KagaiZ NljiZ, jmij]Znag| mnZggZenZ. XXX
+// Arkhan2 O perso2
+L27D25B
+ Hlj]d_rw bd]on gdtx kljtgwh! XXX
+// Arkhan3 G perso3
+L27D26
+ Gmij]Znagx mnZggZenZ. XXX
+// Arkhan1 G perso1
+L27D27
+ Pnj na[a iobij? XXX
+// Konkalite4 perso74
+L27D28
+ K]j| bdcix! XXX
+// Konkalite4 perso74
+L27D29
+ Lhld! XXX

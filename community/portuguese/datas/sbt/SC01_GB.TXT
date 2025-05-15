@@ -1,0 +1,43 @@
+00:52:00	00:53:04		{O mundo antigo,}
+00:53:06	00:54:22		{a época dourada de Antes,}
+00:54:24	00:57:10		{chegou ao fim com o Grande Cataclismo.}
+00:58:06	01:01:26		{O fogo negro vindo do céu engoliu a terra,}
+01:01:28	01:06:02		{a terra abriu-se e o mar submergiu a terra.}
+01:08:12	01:10:26		{As cidades de luz erguidas pelos antigos}
+01:10:28	01:13:00		{converteram-se em pé e as trevas}
+01:13:02	01:16:06		{invadiram o mundo para sempre.}
+01:16:24	01:18:06		{Quando os golpes da fúria divina}
+01:18:08	01:20:12		{terminaram de cair sobre o nosso mundo,}
+01:20:14	01:22:28		{os eleitos perdoados pelo Deus Sol}
+01:23:00	01:25:00		{ergueram-se no meio do caos.}
+01:25:02	01:26:14		{Guiados pela sua fé,}
+01:26:16	01:28:12		{partiram em busca de uma terra}
+01:28:14	01:30:04		{esquecida pelas trevas}
+01:30:06	01:32:18		{onde a vida pudesse renascer.}
+01:33:08	01:35:10		{Eles foram "os vagabundos",}
+01:35:12	01:36:24		{em busca de luz e de esperança}
+01:36:26	01:39:16		{no meio dos perigos da Escuridão.}
+02:03:24	02:06:08		{A sua jornada durou luas e luas,}
+02:06:10	02:07:26		{até ao dia glorioso}
+02:07:28	02:10:06		{em que os pais dos pais dos nossos pais}
+02:10:08	02:12:24		{chegaram ao fim do seu éxodo.}
+02:16:10	02:17:18		{Descobriram uma terra abençoada}
+02:17:20	02:21:02		{pela luz do Deus Sol, um Stallite.}
+02:22:22	02:25:14		{Construíram uma cidade e um templo}
+02:25:16	02:27:19		{para glória do Pai-luz.}
+02:28:00	02:30:02		{Eles chamaram-na Sparta.}
+02:31:14	02:33:16		{Hoje, uma terrível ameaça}
+02:33:18	02:34:20		{paira sobre Sparta.}
+02:36:02	02:37:22		{O destino da cidade inteira}
+02:37:24	02:40:00		{encontra-se ligado ao de um só homem.}
+02:41:02	02:43:18		{Arkhan, o Guardião do Fogo.}
+02:44:24	02:47:28		{Para enfrentar as terríveis provas que o esperam,}
+02:48:10	02:50:16		{deverá contar com os seus.}
+02:51:20	02:53:04		{A sua doce Kalhi...}
+02:55:20	02:57:22		{Zed, o seu irmão de armas...}
+02:59:02	03:01:14		{O seu pai, Rylsadhar...}
+03:02:28	03:05:28		{Lory, a Grande Pregadora...}
+03:07:00	03:09:04		{Danrys, o Buscador...}
+03:09:10	03:11:02		{Mas se eles não o ajudarem,}
+03:11:04	03:12:20		{a luz do Deus Sol}
+03:12:22	03:17:00		{jamais voltará a brilhar sobre Sparta!}

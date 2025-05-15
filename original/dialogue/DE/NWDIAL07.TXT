@@ -1,0 +1,308 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL07.TXT
+ // Zed (nach einem langen oder kurzen Kampf) perso27
+L07D01A
+ Mmm ... Du mußt noch einiges lernen! XXX
+// Zed (mit freundlichem Spott) perso27
+L07D01B
+ Entweder bist Du eingerostet oder Du hast schlecht geschlafen! XXX
+// Zed (nach einem langen oder kurzen Kampf) perso27
+L07D01C
+ Üb weiter, das ist die einzige Möglichkeit, um sich zu verbessern.  XXX
+// Zed perso27
+L07D05A
+ Wenn Du kämpfen willst, mach Dich bereit!  XXX
+// Zed perso27
+L07D05B
+ Wenn nicht, dann laß mich in Ruhe üben, verstanden? XXX
+// Phedoria perso26
+L07D02A
+ Schon erschöpft?  XXX
+// Phedoria perso26
+L07D02B
+ Du mußt Deine Ausdauer verbessern ... XXX
+// Zed perso27
+L07D03A
+ Komm jetzt und kämpfe! XXX
+// Zed perso27
+L07D03B
+ Du riskierst nichts, wir führen die Hiebe nicht wirklich aus! XXX
+// Zed perso27
+L07D04
+ Hast Du Deine Meinung geändert? XXX
+// Zed perso27
+L07D06
+ Also gut, Du hast es so gewollt! Wehr Dich! XXX
+// Zed perso27
+L07D08
+ Wenn Du nicht kämpfen willst, nimm dies wenigstens als Lektion! XXX
+// Zed perso27
+L07D09
+ Du weißt auch nicht, was Du willst! XXX
+// Zed (gereizt) perso27
+L07D10
+ Komm keinen Schritt näher, wenn Du nichts abbekommen willst! XXX
+// Phedoria (spöttisch) perso26
+L07D32
+ Du gibst ja schon auf! XXX
+// Phedoria perso26
+L07D11
+ Komm nur, ich werd' Dir zeigen, was es heißt zu kämpfen! XXX
+// Phedoria perso26
+L07D12
+ Nun mach Dich schon bereit, verflucht noch mal! XXX
+// Phedoria perso26
+L07D13
+ Genug! XXX
+// Phedoria perso26
+L07D14
+ Noch einmal! XXX
+// Phedoria perso26
+L07D74
+ Geh zur Seite und laß mich üben. XXX
+// Phedoria perso26
+L07D75
+ Geh zurück oder ich spieß'
+ Dich auf. XXX
+// Phedoria perso26
+L07D76
+ Zum letzten Mal ... Verschwinde! XXX
+// Phedoria perso26
+L07D77
+ Dummkopf! XXX
+// Phedoria perso26
+L07D54
+ Halt, wer ist da?! XXX
+// Phedoria perso26
+L07D55
+ Sag mir, wer Du bist, oder ich befördere Dich in das Reich der Finsternis! XXX
+// Phedoria (schießt kaltblütig) perso26
+L01D45B
+ Du läßt mir keine andere Wahl! XXX
+// Phedoria (Arkhan macht sich gefechtsbereit) perso26
+L07D78
+ Ich hab' Dich für schlauer gehalten! XXX
+// Zed perso27
+L07D07
+ Noch mal! XXX
+// Zedperso27
+L07D16
+ Oho, Du scheinst ja heute in Form zu sein! XXX
+// Arkhan1 L perso1
+L07D18
+ Also, bist Du bereit für eine kleine freundschaftliche Kampfübung? XXX
+// Zed perso27
+L07D19
+ Wann immer Du willst! Mach Dich bereit und los geht's! XXX
+// Arkhan1 O perso1
+L07D20
+ Mach Dich bereit, Zed! Du wirst die größte Demütigung Deines Lebens erfahren! XXX
+// Zed perso27
+L07D21
+ Das werden wir noch sehen, Du Krüppel! Los, mach Dich bereit! XXX
+// Phedoria perso26
+L07D22
+ Bist Du bereit? Los geht's! XXX
+// Phedoria perso26
+L07D23
+ Such Dir eine Waffe, wenn Du Dich mit mir üben willst! XXX
+// Phedoria (Arkhan kommt mit einer Waffe zurück) perso26
+L07D24
+ Na endlich! Ich wär' fast eingeschlafen! XXX
+// Phedoria (Arkhan kommt mit einem Gegenstand zurück) perso26
+L07D25
+ Mach Dich nicht lächerlich, such Dir eine richtige Waffe! XXX
+// Arkhan1 L perso1
+L07D26
+ Kommandantin Phedoria, habt Ihr Lust zu einer kleinen freundschaftlichen Kampfübung? XXX
+// Phedoria (selbstsicher)perso26
+L07D27
+ Freundschaftlich, aha? Mach Dich bereit! XXX
+// Arkhan1 O perso1
+L07D28
+ Du wirst dran glauben müssen! XXX
+// Phedoria perso26
+L07D29
+ Meinst Du? Mach Dich bereit, Angeber! XXX
+// Arkhan2 G perso2
+L07D57
+ Phedoria, ich bin's, Arkhan! XXX
+// Arkhan3 G perso3
+L07D58
+ Ich bin Arkhan! XXX
+// Phedoria perso26
+L07D59A
+ Arkhan!? XXX
+// Phedoria perso26
+L07D59B
+ Durch das Gift bist Du nicht wiederzuerkennen! XXX
+// Arkhan2 G perso2
+L07D60A
+ Du glaubst mir, Du hast keine Angst vor mir! XXX
+// Arkhan2 G perso2
+L07D60B
+ Im Gegensatz zu den anderen Hütern des Feuers! XXX
+// Phedoria perso26
+L07D61A
+ Du zeigst ihnen das Bild, das sie zu fürchten gelernt haben. XXX
+// Phedoria perso26
+L07D61B
+ Für mich hat dies keine Bedeutung, wenn Deine Seele nur rein bleibt. XXX
+// Phedoria perso26
+L07D61C
+ Ich habe weder den Befehl erhalten, Dich zu töten, noch Dich festzunehmen. XXX
+// Arkhan2 G perso2
+L07D62A
+ Ich weiß nicht, an wen ich mich wenden soll ...  XXX
+// Arkhan2 G perso2
+L07D62B
+ Die meisten meiner sogenannten Freunde stellen sich gegen mich oder versuchen, mich zu täuschen. XXX
+// Phedoria perso26
+L07D63
+ Wenn Du an Dich selbst und an den Sonnengott glaubst, wirst Du den Weg finden. XXX
+// Arkhan2 G perso2
+L07D65
+ Kannst Du mir helfen? XXX
+// Phedoria perso26
+L07D64A
+ Nein. XXX
+// Phedoria perso26
+L07D64B
+ Ich darf keine Partei ergreifen. XXX
+// Phedoria perso26
+L07D64C
+ Du mußt den Ausweg allein finden. XXX
+// Arkhan2 G perso2
+L07D79
+ Phedoria... XXX
+// Phedoria perso26
+L07D80A
+ Genug. XXX
+// Phedoria perso26
+L07D80B
+ Ich hab' Dir gesagt, was ich zu sagen hatte. XXX
+// Phedoria perso26
+L07D81
+ Dringe nicht weiter in mich, es ist zwecklos. XXX
+// Arkhan3 G perso2
+L07D70A
+ Ich seh', daß Du mir glaubst ... XXX
+// Arkhan3 G perso2
+L07D70B
+ Die anderen halten mich für ein Ungeheuer... XXX
+// Arkhan3 G perso2
+L07D72
+ Ich kann niemandem mehr trauen. XXX
+// Arkhan3 G perso2
+L07D82
+ Kannst Du mir helfen? XXX
+// Arkhan3 G perso3
+L07D73
+ Phedoria... XXX
+// Phedoria perso26
+L07D30
+ Mach Dich gefechtsbereit! XXX
+// Arkhan1 G perso1
+L07D51
+ Nichts auf dem Schießstand. XXX
+// Arkhan2 G perso2
+L07D52
+ Nichts auf dem Schießstand. XXX
+// Arkhan3 G perso3
+L07D53
+ Nichts. XXX
+// Arkhan1 L perso1
+L07D33A
+ Das ist eine Übungspuppe. XXX
+// Arkhan1 L perso1
+L07D33B
+ Ich übe mich lieber mit einem echten Gegner. XXX
+// Arkhan1 O perso1
+L07D34A
+ Eine dieser unnützen Übungspuppen. XXX
+// Arkhan1 O perso1
+L07D34B
+ Ohne Knochen und Zähne, die man zerbrechen und einschlagen kann, das bringt doch keinen Spaß! XXX
+// Arkhan2 G perso2
+L07D35
+ Eine Übungspuppe. Keine Zeit, mit der zu üben! XXX
+// Arkhan3 G perso3
+L07D37
+ Keine Zeit zum Üben. XXX
+// Arkhan1 G perso1
+L07D39A
+ Da ist der Schießstand.  XXX
+// Arkhan1 G perso1
+L07D39B
+ Es gibt Leute, die da Schießübungen mit den Bleispuckern machen. XXX
+// Arkhan2 G perso2
+L07D41
+ Der Schießstand. Er ist leer. XXX
+// Arkhan3 G perso3
+L07D43
+ Der Schießstand ist leer. XXX
+// Arkhan1 G perso1
+L07D45
+ Die größte Zielscheibe. Gut für Anfänger. XXX
+// Arkhan2 G perso2
+L07D46
+ Das ist die große Übungszielscheibe. XXX
+// Arkhan3 G perso3
+L07D47
+ Die große Zielscheibe. XXX
+// Arkhan1 G perso1
+L07D48
+ Die kleine Zielscheibe. Für Spezialisten wie Zed! XXX
+// Arkhan2 G perso2
+L07D49
+ Eine kleine Übungszielscheibe. XXX
+// Arkhan3 G perso3
+L07D50
+ Die kleine Zielscheibe. XXX
+// Arkhan2 L perso2
+L16D300A
+ Sei gegrüßt ... Maor, so heißt Du doch, oder? XXX
+// Maor perso17
+L16D301
+ Hmm ... Was willst Du? XXX
+// Arkhan2 L perso2
+L16D304A
+ Ich bin Arkhan, Freund der Lumpensammler. XXX
+// Arkhan2 L perso2
+L16D304B
+ Ich hab' Probleme mit den Hütern des Feuers ... und ich brauch' Hilfe. XXX
+// Maor perso17
+L16D305
+ Ich versteh' ... Aber hier wirst Du nicht finden, was Du suchst. XXX
+// Arkhan2 O perso2
+L16D311A
+ Ich hab' mich gerade gefragt, ob Du überhaupt lächeln kannst! XXX
+// Arkhan2 O perso2
+L16D311B
+ Oder willst Du unbedingt den starken Mann markieren? XXX
+// Maor perso17
+L16D312A
+ Ich lächle nur hübsche Frauen an, verstanden? XXX
+// Maor perso17
+L16D312B
+ Verzieh Dich jetzt, ich hab' zu tun ... XXX
+// Arkhan2 G perso2
+L18D184
+ Willst Du einen Schluck Stohll? XXX
+// Malrot2 perso62
+L18D187
+ Ein bißchen Stohll, da sag ich nicht nein. XXX
+// Malrot2 (hat getrunken) perso62
+L18D189
+ Aaahhh... davon bekommt man Durst! XXX
+// Malrot2 (rülpst) perso62
+L18D188
+ ... Danke. XXX
+// Malrot2 perso62
+L18D153A
+ Weißt Du, wir trinken und essen gern. XXX
+// Bogdaran perso8
+L05D110A
+ Mach Dir keine Sorgen. XXX
+// Bogdaran perso8
+L05D110B
+ Wenn ich was erfahre, sag ich's Dir. XXX

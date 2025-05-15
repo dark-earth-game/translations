@@ -1,0 +1,478 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL36.TXT
+ // Konkalite12 perso82
+L36D200
+ I'm gonna wipe that smile off your face, pus-head! XXX
+// Lodar perso86
+L36D146
+ You won't get me without a fight! XXX
+// Konkalite12 perso82
+L36D01A
+ You put up quite a fight, don't you! XXX
+// Konkalite12 perso82
+L36D01B
+ Go ahead, you killed him, you get the loot. XXX
+// Konkalite12 perso82
+L36D02
+ You won! Take whatever you want, the loot's all yours. XXX
+// Lodar (uneasy in front of Arkhan)perso86
+L36D04
+ I think I'll be moving along now... okay? XXX
+// Guardian20 perso60
+L36D147
+ Halt! XXX
+// Guardian20 (frightened by Arkhan3) perso60
+L36D148
+ Great Solaar!... Give me strength to my arm! XXX
+// Guardian20 perso60
+L36D08
+ Hey! Where do you think you're going?! XXX
+// Guardian20 (defying Arkhan)perso60
+L36D144
+ Still asking for it, eh?!	 XXX
+// Guardian23 (talking loudly, far from Arkhan)  perso1
+L36D05A
+ (below) You heard Provost Dhorkan's orders. XXX
+// Guardian23 perso1
+L36D05B
+ (below) Stay together and keep your eyes peeled! XXX
+// Guardian23 perso1
+L36D05C
+ (below) Stop anyone who looks suspicious or dangerous. XXX
+// Guardian23 perso1
+L36D05D
+ (below) But whatever happens, don't stray more than one hundred elbow-lengths from your post. XXX
+// Guardian22 (talking loudly, far from Arkhan)  perso1
+L36D06A
+ (below) Did you receive the orders? XXX
+// Guardian24 (exasperated) perso1
+L36D06B
+ (below) Yes, one time too many! XXX
+// Guardian22 perso1
+L36D06C
+ (below) Just checking! XXX
+// Guardian23 (talking loudly, far from Arkhan) perso1
+L36D07A
+ (below) And keep your eyes peeled! An attack could come from anywhere! XXX
+// Guardian24 perso1
+L36D07B
+ (below) Yes, Sir! XXX
+// Lodar perso86
+L36D84
+ You shouldn't have leaned on me so hard! XXX
+// Arkhan2 L perso2
+L36D87
+ What's going on!? XXX
+// Arkhan3 L perso3
+L36D88
+ What's going on?! XXX
+// Arkhan2 O perso2
+L36D89
+ They got you good! XXX
+// Arkhan3 O perso3
+L36D90
+ Nice piece of work! XXX
+// Lodar perso86
+L36D91A
+ Help me, I'll make it worth your while! XXX
+// Konkalite12 perso82
+L36D92A
+ This is between him and me, Blackhead! XXX
+// Konkalite12 perso82
+L36D92B
+ You stay out of it! XXX
+// Arkhan2 G perso2
+L36D78
+ Hang in there. XXX
+// Arkhan3 G perso3
+L36D79
+ Don't despair! XXX
+// Lodar perso86
+L36D99
+ Help me, please, whoever you are! XXX
+// Arkhan2 G perso2
+L36D93
+ You all right? XXX
+// Arkhan3 G perso3
+L36D94
+ You all right? XXX
+// Arkhan2 O perso2
+L36D55
+ Does it hurt bad? XXX
+// Arkhan3 O perso3
+L36D56
+ Hurt bad? XXX
+// Lodar perso86
+L36D03
+ Thanks... I owe you my life. XXX
+// Lodar perso86
+L36D57C
+ Take this... I won't need it where I'm going. XXX
+// Arkhan2 L perso2
+L36D58
+ You're a Wanderer? How did you get in? XXX
+// Arkhan3 L perso3
+L36D59
+ Where do you come from? XXX
+// Arkhan2 O perso2
+L36D60
+ Where'd you come from? How did you get in here? XXX
+// Arkhan3 O (aggressively) perso3
+L36D61
+ Who are you? XXX
+// Lodar perso86
+L36D62A
+ I am Lodar, scout for a caravan of Wanderers only a few days' journey from here. XXX
+// Lodar perso86
+L36D62B
+ I barely made it... They closed the gates just after I got inside. XXX
+// Lodar (bitter)perso86
+L36D62C
+ What a laugh! I thought I'd be safer in the Stallite... XXX
+// Arkhan2 L perso2
+L36D63
+ Did you notice anything special out there? XXX
+// Arkhan3 L perso3
+L36D64
+ Notice anything in the Darklands? XXX
+// Lodar perso86
+L36D65A
+ Yeah... Weird... Creatures as dark inside as out... XXX
+// Lodar perso86
+L36D65B
+ I was lucky to make it in here alive. XXX
+// Lodar perso86
+L36D65C
+ And down there, near the water, I saw a woman. XXX
+// Arkhan2 L perso2
+L36D66
+ A woman? XXX
+// Arkhan3 L perso3
+L36D67
+ Woman? XXX
+// Lodar perso86
+L36D68A
+ All I know is, she doesn't belong to my caravan. XXX
+// Lodar perso86
+L36D68B
+ She took off before I got to her. XXX
+// Arkhan2 O perso2
+L36D69
+ I wonder how a guy like you can survive in the Darklands! XXX
+// Arkhan3 O perso3
+L36D70
+ You look pretty healthy for a Wanderer. XXX
+// Lodar (irritated by A.) perso86
+L36D71A
+ Listen, friend. I've had it. XXX
+// Lodar perso86
+L36D71B
+ Thanks for your help, but I can't tell you anything more. XXX
+// Lodar perso86
+L36D71C
+ You go your way, I'll go mine, okay? XXX
+// Arkhan2 L perso2
+L36D72
+ Can you tell me more about what you saw in the Darklands? XXX
+// Arkhan3 L perso3
+L36D73
+ Tell me more about the Darklands! XXX
+// Lodar perso86
+L36D74A
+ I was born out there... I lived out there... XXX
+// Lodar perso86
+L36D74B
+ And I want to see it one more time before I die! XXX
+// Arkhan2 O perso2
+L36D75
+ A Wanderer like you must know plenty! XXX
+// Arkhan3 O perso3
+L36D76
+ Talk. Tell me about the Darklands? XXX
+// Lodar perso86
+L36D77A
+ No, there's nothing more to tell. XXX
+// Lodar ("farewell") perso86
+L36D77B
+ Keep up the good work, friend. "Every step closer to the Light." XXX
+// Arkhan2 G perso2
+L36D998
+ What's this helmet? XXX
+// Arkhan3 G perso3
+L36D999
+ What's this? XXX
+// Lodar perso86
+L36D82A
+ It comes from Phenice, a distant Stallite. XXX
+// Lodar perso86
+L36D82B
+ Good protection against the dust storms.  XXX
+// Lodar perso86
+L36D82C
+ There are slits on the side for air. XXX
+// Arkhan2 G perso2
+L36D124
+ Ever seen a crystal like this one before? XXX
+// Arkhan3 G perso3
+L36D125
+ Seen a crystal like this before? XXX
+// Lodar perso86
+L36D83
+ Never seen a thing like that. Sorry. XXX
+// Lodar perso86
+L36D81
+ Now is no time to barter, my friend. XXX
+// Lodar perso86
+L36D85
+ Simmer down. I'm not an enemy of yours! XXX
+//  Lodar perso86
+L36D86
+ You leave me no choice! XXX
+// Konkalite12 perso82
+L36D105
+ Stand aside! XXX
+// Arkhan2 L perso2
+L36D103
+ Ahhh, can it, will ya?! XXX
+// Arkhan3 L perso3
+L36D104
+ Stop! XXX
+// Arkhan2 O (aggressively) perso2
+L36D106
+ You're gonna be sorry! XXX
+// Arkhan3 O (aggressively) perso3
+L36D107
+ You're gonna be sorry! XXX
+// Konkalite12 (screaming with rage)perso82
+L36D108
+ Aaaaaargh! XXX
+// Arkhan2 L perso2
+L36D96
+ Stop it, scumbag! XXX
+// Arkhan3 L perso3
+L36D97
+ That's enough. Stop! XXX
+// Konkalite12 perso82
+L36D98
+ Don't come any closer or you're dead meat! XXX
+// Arkhan2 O perso2
+L36D100
+ Leave him alone or I'll bash your skull in! XXX
+// Arkhan3 O (menacingly) perso3
+L36D101
+ Leave him alone! XXX
+// Konkalite12 perso82
+L36D102
+ You stay out of this! XXX
+// Arkhan2 G perso2
+L36D110
+ One dead man more or less... XXX
+// Arkhan3 G perso3
+L36D111
+ One more dead man... XXX
+// Konkalite12 perso82
+L36D112
+ Yeah! He got what was comin' to him! XXX
+// Arkhan2 G perso2
+L36D113
+ You rob corpses? XXX
+// Arkhan3 G perso3
+L36D114
+ You robbing him? XXX
+// Konkalite12 perso82
+L36D115A
+ What's it to you? XXX
+// Konkalite12 perso82
+L36D115B
+ You don't have to look if you don't like it! XXX
+// Arkhan2 G (aggressively) perso2
+L36D119
+ You're a vulture! XXX
+// Arkhan3 G (aggressively) perso3
+L36D120
+ You're a vulture! XXX
+// Konkalite12 perso82
+L36D121
+ Yeah! And you're my next victim! XXX
+// Konkalite12 perso82
+L36D109
+ Keep it, I've got all I need! XXX
+// Arkhan2 Gperso2
+L36D149
+ Calm down, Guardian, I'm not looking for trouble XXX
+// Arkhan2 Gperso2
+L36D150
+ I'm just looking for a cure. XXX
+// Guardian20 perso60
+L36D151A
+ I already told you, there's nothin' for ya here. XXX
+// Guardian20 perso60
+L36D151B
+ If you don't want any trouble, you better back off. XXX
+// Guardian20 perso60
+L36D251A
+ You won't find what you're looking for here. XXX
+// Guardian20 perso60
+L36D251B
+ Let me give you some friendly advice. Get out! XXX
+// Arkhan2 L perso2
+L36D135A
+ I'm seeking a cure for my sickness. XXX
+// Arkhan2 L perso2
+L36D135B
+ Just let me past, that's all I ask. XXX
+// Guardian20 perso60
+L36D137A
+ In case you didn't know it, the Stallite is under martial law. XXX
+// Guardian20 perso60
+L36D137B
+ The Gateway is closed, most of the roads are blocked off. XXX
+// Guardian20 perso60
+L36D137C
+ ... And someone... someone like you has no business being here! XXX
+// Guardian20 perso60
+L36D137D
+ You'd better make tracks. XXX
+// Arkhan2 O perso2
+L36D138A
+ That's enough! XXX
+// Arkhan2 O perso2
+L36D138B
+ Get out of my way or I'll throw you into the Darklands! XXX
+// Guardian20 perso60
+L36D140
+ And you'll fall with me, monster! XXX
+// Arkhan2 L perso2
+L36D123A
+ Relax, friend. I'm Arkhan, a Guardian of Fire like you. XXX
+// Arkhan2 L perso2
+L36D123B
+ I was poisoned while trying to shield the Great Sunseer from attack. XXX
+// Guardian20 (impressed) perso60
+L36D136
+ Poisoned! I never seen anything like it! XXX
+// Arkhan2 O perso2
+L36D126
+Step aside or I'll throw you into the Darklands! XXX
+// Guardian20 perso60
+L36D141A
+ I'm not here to barter! XXX
+// Guardian20 perso60
+L36D141B
+ Get off the ramparts, right now. XXX
+// Guardian20 perso60
+L36D142
+ You're wasting your breath, Creature! XXX
+// Guardian20 perso60
+L36D143
+ I knew it! XXX
+// Arkhan2 L perso2
+L36D32
+ The canon that warns the Guardians of Fire when there's an attack. XXX
+// Arkhan2 O perso2
+L36D33
+ A canon. Too bad there's no fuse, I could've kicked up some serious noise! XXX
+// Arkhan3 L perso3
+L36D34
+ The canon is useless against the forces of Darkness... XXX
+// Arkhan3 O perso3
+L36D35
+ There's no weapon against the Shroud! XXX
+// Arkhan2 G perso2
+L36D36
+ No, too heavy! XXX
+// Arkhan3 G perso3
+L36D37
+ Too heavy! XXX
+// Arkhan2 L perso2
+L36D38
+ These chains open and close the Gateway. XXX
+// Arkhan2 O (pulling on chain, in vain) perso2
+L36D39
+ No, won't move an inch! XXX
+// Arkhan3 L perso3
+L36D40
+ The chains that open the gate XXX
+// Arkhan3 O (pulling on chain, in vain) perso3
+L36D41
+ Won't move! XXX
+// Arkhan2 L perso2
+L36D46
+ The Gateway counterweights are jammed by these springs.  XXX
+// Arkhan3 L perso3
+L36D48
+ Springs... jamming the Gateway's counterweights. XXX
+// Arkhan2 L perso2
+L36D49
+ It's a dead end. I can't go any further. XXX
+// Arkhan2 O (striking a barricade) perso2
+L36D50
+ Idiots! They've closed off everything! XXX
+// Arkhan3 O (striking a barricade) perso3
+L36D52
+ Blast! Dead end! XXX
+// Arkhan2 G perso2
+L36D24
+ From here you can see the whole Stallite. XXX
+// Arkhan3 G perso3
+L36D25
+ See the whole Stallite. XXX
+// Arkhan2 G perso2
+L36D26
+ The Stallite will soon be swallowed up by the Shroud. XXX
+// Arkhan3 G perso3
+L36D27
+ The Shroud is everywhere... XXX
+// Arkhan2 G perso2
+L36D28
+ Dust and Darkness as far as the eye can see.. XXX
+// Arkhan3 G perso3
+L36D29
+ Darkness as far as we can see... XXX
+// Arkhan2 G perso2
+L36D30
+ Sparta swallowed up by the Shroud... XXX
+// Arkhan2 L perso2
+L36D09
+ The Gateway to the Stallite... But with martial law, the Guardians have closed it. XXX
+// Arkhan2 O perso2
+L36D10
+ Awww, that moron Dhorkan has closed the Gateway to the Stallite! XXX
+// Arkhan3 L perso3
+L36D11
+ Martial law. Gateway to Stallite closed.  XXX
+// Arkhan3 O perso3
+L36D12
+ Gateway closed... Dhorkan and his stupid martial law! XXX
+// Arkhan2 L perso2
+L36D13
+ Open or closed, the Gateway won't protect us from the Dark Shroud. XXX
+// Arkhan2 O perso2
+L36D14
+ They think they're safe behind their Gateway. Fools! XXX
+// Arkhan3 O perso3
+L36D16A
+ Stupid fools! XXX
+// Arkhan3 G perso3
+L36D16B
+ They've closed the Gateway... but it's too late! XXX
+// Arkhan2 G perso2
+L36D17
+ Only this wall stands between us and the Outer Darkness. XXX
+// Arkhan2 G perso2
+L36D18
+ Outside there's nothing but the Shroud, the cold, and death... XXX
+// Arkhan3 G perso3
+L36D19
+ The Shroud, cold, death... That's all there is out there... XXX
+// Arkhan2 L (soberly) perso2
+L36D20
+ I can sense something out there, hiding, ready to spring... XXX
+// Arkhan2 O (shouting in defiance) perso2
+L36D21
+ Come and get me, Creatures of Darkness! Come on out, I'm waiting for you! XXX
+// Arkhan3 L perso3
+L36D22
+ The Creatures of Darkness... they're near, I can feel them... XXX
+// Arkhan3 O (shouting in defiance) perso3
+L36D23
+ Come on, monsters! Come and get some! XXX

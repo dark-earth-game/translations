@@ -1,0 +1,391 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\fr\NWDIAL21.TXT
+ // Arkhan2 G (en détresse) perso2
+L21D202
+ Grande Prôneuse! XXX
+// Arkhan3 G (en détresse) perso3
+L21D203
+ Lory! XXX
+// Lory (accueille Arkhan en haut) perso15
+L21D26A
+ Arkhan! J'arrive trop tard.  XXX
+// Lory (accueille Arkhan en haut) perso15
+L21D26B
+ Phedoria m'a dit ce qui s'est passé... XXX
+// Lory perso15
+L21D26C
+ Soleil-Dieu veuille qu'il nous reste une chance, Arkhan! Une chance de rendre justice à nos frères... XXX
+// Lory perso15
+L21D26D
+ ...une chance de sauver le Stallite. XXX
+// Lory perso15
+L21D26E
+ Suis-moi, le temps nous est compté! XXX
+// Thanandar25 perso25
+L21D45A
+ Arkhan! Tu es encore en vie! Bravo! XXX
+// Arkhan2 G (stupéfait) perso2
+L21D200
+ Thanandar! XXX
+// Arkhan3 G (stupéfait) perso3
+L21D201
+ Thanandar! XXX
+// Thanandar25 perso25
+L21D45B
+ Tu arrives trop tard. L'avenir du Stallite est entre mes mains! XXX
+// Thanandar25 perso25
+L21D46A
+ Ah, certes, par ta faute, je n'ai pu avoir Lory.  XXX
+// Thanandar25 perso25
+L21D46B
+ Mais j'ai mieux : ton père, Rylsadhar! XXX
+// Thanandar25 perso25
+L21D46C
+ Il a bu les ténèbres qui sont en moi, il est mon instrument.  XXX
+// Thanandar25 perso25
+L21D46D
+ Lui, l'Initié, le défenseur de la lumière, il va plonger le monde dans l'obscurité! XXX
+// Thanandar25 perso25
+L21D47
+ Mais j'ai mieux : ton ami Zed! XXX
+// Arkhan1 G perso1
+L21D90
+ J'avais toujours rêvé de monter là-dessus! XXX
+// Arkhan2 G perso2
+L21D91
+ J'avais toujours rêvé de monter là-dessus! XXX
+// Arkhan3 G perso3
+L21D92
+ Toujours rêvé de monter là-dessus! XXX
+// Thanandar25 perso25
+L21D71
+ Pauvre larve..... XXX
+// Phedoria perso26
+L20D38
+ Tu signes ton arrêt de mort, Arkhan! XXX
+// Proneur1 (effrayé par l'apparence d'Arkhan) perso18
+L21D19
+ Aaah! Ne m'approche pas, hérétique! XXX
+// Proneur1 perso18
+L21D20A
+ Reste calme, mon ami. XXX
+// Proneur1 perso18
+L21D20B
+ Ce lieu est un lieu de paix. XXX
+// Proneur1 perso18
+L21D88
+ Non! Arrière, démon de l'Obscur! XXX
+// Zed84 perso84
+L21D22
+ Ah Arkhan, je te cherchais. Pourquoi tu n'es pas à ton poste? Tu dois ... XXX
+// Zed84 perso84
+L21D23
+ Mais... Qu'est-ce qui s'est passé ici? Arkhan qu'as tu fait? Le prôneur... XXX
+// Arkhan 1 G perso1
+L21D24
+ Attends! Je vais t'expliquer! XXX
+// Zed84 perso84
+L21D25A
+ Il n'y a rien à expliquer! Tu viens de tuer un Prôneur! XXX
+// Zed84 (s'apprête à tuer A.) perso84
+L21D25B
+ Tu connais la sentence aussi bien que moi! XXX
+// Zed84 (abattu d'avoir tué Arkhan) perso84
+L21D44
+ Arkhan, nous étions presque frères... XXX
+// Proneur2 (terrifié)perso19
+L21D89
+ Aaah! Non! XXX
+// Proneur 19 perso19
+L21D73
+ Aaah! Tu viens pour me tuer moi aussi! Arrière créature de l'obscur! XXX
+// Prôneur2 perso19
+L21D84B
+ Vas-y, accomplis ton oeuvre maudite! XXX
+// Arkhan1 L perso1
+L21D01
+ Lumière sur toi, Prôneur. XXX
+// Proneur1 perso18
+L21D02A
+ Et Lumière sur toi, ami. XXX
+// Proneur1 perso18
+L21D02B
+ Tu es venu te recueillir devant le Rahal, symbole du Soleil-Dieu.  XXX
+// Proneur1 perso18
+L21D02C
+ Bien. Ainsi tu trouveras la lumière intérieure. XXX
+// Arkhan1 L perso1
+L21D03
+ Tu es un représentant du Soleil-Dieu? XXX
+// Proneur1(dogmatique) perso18
+L21D04A
+ Oui, mon ami. Ce symbole sur mon front, le Rahal, fait de moi le messager du Soleil-Dieu. XXX
+// Proneur1(dogmatique) perso18
+L21D04B
+ Il habite mon esprit, Il voit par mes yeux et Il parle par ma bouche...  XXX
+// Proneur1(dogmatique) perso18
+L21D04C
+ Crois-moi quand je te dis que Sa lumière sacrée illumine nos coeurs et qu'Il protège les justes de l'Obscurité.  XXX
+// Proneur1(dogmatique) perso18
+L21D04D
+ Et lorsque la nuit vient, les justes illuminés par leur foi n'ont point à craindre de voir Sa divine lumière les abandonner. XXX
+// Proneur1(dogmatique) perso18
+L21D04E
+ Car c'est là une épreuve que seuls les êtres impurs doivent redouter. XXX
+// Proneur1(dogmatique) perso18
+L21D04F
+ Comme nos lointains ancêtres de l'Avant, ceux-la seront privés de Sa lumière à jamais. XXX
+// Proneur1(dogmatique) perso18
+L21D04G
+ N'oublie pas que seuls les justes peuvent s'exposer aux rayons du Père Lumière sans craindre la mort. XXX
+// Proneur1 perso18
+L21D06
+ Va en paix, Gardien du Feu. XXX
+// Arkhan 1 O perso1
+L21D07
+ Salut, Prôneur. XXX
+// Proneur1 (insistant sur la politesse) perso18
+L21D08
+ Lumière sur toi, ami. XXX
+// Arkhan 1 O (moqueur) perso1
+L21D09
+ Alors, toujours fidèle au Soleil-Dieu? XXX
+// Arkhan 1 O perso1
+L21D10
+ J'crois qu'j'en ai assez entendu... XXX
+// Arkhan2 G perso2
+L21D11
+ Prôneur, accorde-moi ton aide! XXX
+// Prôneur1 (impressionné par l'apparence d'A.) perso18
+L21D12
+ Père Lumière! L'Obscur... l'Obscur est en toi! XXX
+// Arkhan2 L perso2
+L21D13A
+ Prôneur, j'ai grand besoin d'aide! XXX
+// Arkhan2 L perso2
+L21D13B
+ En sauvant Lory, j'ai été empoisonné.  XXX
+// Arkhan2 L perso2
+L21D13C
+ Mais je suis toujours un Gardien du Feu, un fidèle serviteur du Soleil-Dieu. XXX
+// Arkhan2 L perso2
+L21D13D
+ Aide-moi à convaincre les gens qu'ils n'ont pas à me craindre! XXX
+// Arkhan2 O perso2
+L21D14A
+ Ecoute Prôneur, ça suffit! Ma laideur ne fait pas de moi un criminel! XXX
+// Arkhan2 O perso2
+L21D14B
+ Ce poison me dévore! XXX
+// Arkhan2 O perso2
+L21D14C
+ Au lieu de me mettre tout le monde à dos avec tes discours, tu devrais plutôt essayer de me soigner! XXX
+// Prôneur1 (fanatique) perso18
+L21D15A
+ Non! Tu ne pourras pas me tromper! XXX
+// Prôneur1 perso18
+L21D15B
+ Le symbole du Soleil-Dieu éclaire mon visage. XXX
+// Prôneur1 perso18
+L21D15C
+ Mes yeux voient à travers le mensonge! XXX
+// Prôneur1 perso18
+L21D15D
+ Et par ma bouche, c'est le Père Lumière lui-même qui parle! XXX
+// Prôneur1 perso18
+L21D15E
+ Si l'obscurité s'empare de toi, c'est que tu n'es plus digne de servir sous Sa lumière! XXX
+// Arkhan2 G perso2
+L21D16
+ Mais j'ai sauvé la vie de Lory! XXX
+// Prôneur1 perso18
+L21D72A
+ Tes ruses obscures sont inutiles! XXX
+// Prôneur1 perso18
+L21D72B
+ Lorsqu'elle reviendra, la Grande Prôneuse te fera bannir hors du Stallite! XXX
+// Prôneur1 perso18
+L21D72C
+ Et si le Prévôt Dhorkan ne veut pas subir le même sort, il ferait bien de trouver les hérétiques! XXX
+// Prôneur1 perso18
+L21D72D
+ Hors d'ici maintenant ou j'appelle la garde! XXX
+// Arkhan2 G (dégouté) perso2
+L21D17
+ Tu n'es qu'un pauvre fou fanatique! XXX
+// Proneur1 perso18
+L21D18
+ Ne tente rien ou le Soleil-Dieu te détruira sur le champ! XXX
+// Arkhan3 G perso3
+L21D100
+ Prôneur! XXX
+// Prôneur1 perso18
+L21D101A
+ N'approche pas, créature de l'Obscur! XXX
+// Prôneur1 perso18
+L21D101B
+ Sors d'ici! Tu es dans un lieu sacré! XXX
+// Arkhan3 L perso3
+L21D102
+ Du calme, Prôneur, je suis un homme! XXX
+// Arkhan3 O perso3
+L21D103
+ Je ne suis pas un monstre! XXX
+// Proneur1 perso18
+L21D104
+ Arrière te dis-je! XXX
+// Proneur1 perso18
+L21D21
+ Soleil-Dieu, protège-moi! XXX
+// Arkhan2 L perso2
+L20D30
+ Pourquoi ne parles-tu pas ici et tout de suite? XXX
+// Arkhan2 O perso2
+L20D31
+ Explique-toi ici et maintenant! XXX
+// Arkhan3 L perso3
+L20D32
+ Explique-toi, ici! XXX
+// Arkhan3 O perso3
+L20D33
+ Parle! XXX
+// Lory perso15
+L20D34
+ Nous ne devons pas rester ici. Viens. XXX
+// Arkhan2 G perso2
+L20D35
+ Mais... Grande Prôneuse... XXX
+// Arkhan3 G perso3
+L20D36
+ Grande Prôneuse... XXX
+// Lory perso15
+L20D37
+ Ecoute ce que je te dis, suis moi! XXX
+// Arkhan2 L perso2
+L20D39
+ Phedoria, qu'est-ce qui se passe ici? XXX
+// Arkhan2 O perso2
+L20D40
+ Qu'est-ce qui se passe ici? XXX
+// Arkhan3 L perso3
+L20D41
+ Phedoria, explique! XXX
+// Arkhan3 O perso3
+L20D42
+ Explique! XXX
+// Phedoria perso26
+L20D43
+ Lory t'éclairera sur la situation! XXX
+// Arkhan2 G perso2
+L20D44
+ Mais... Capitaine... XXX
+// Arkhan3 G perso3
+L20D45
+ Capitaine... XXX
+// Phedoria perso26
+L20D46
+ Suis nous! XXX
+// Arkhan2 G perso2
+L21D74
+ Calme-toi, je vais pas te faire de mal! XXX
+// Arkhan3 G perso3
+L21D75
+ Du calme! XXX
+// Prôneur2 (terrorisé) perso19
+L21D76
+ Tu viens me tuer, j'en suis sûr, comme ton semblable a tué la Grande Prôneuse! XXX
+// Arkhan2 L perso2
+L21D77
+ Raconte moi ce que tu as vu, c'est très important! XXX
+// Arkhan2 O perso2
+L21D78
+ Dis moi ce que t'as vu ou je t'écharpe! XXX
+// Arkhan2 O perso3
+L21D79
+ Qu'est-ce que tu as vu? Parle! XXX
+// Prôneur2 (terrorisé) perso19
+L21D80A
+ C'était une ombre! Immense, obscure! La mort en personne! XXX
+// Prôneur2 perso19
+L21D80B
+ Il se déplaçait à une vitesse inhumaine. XXX
+// Prôneur2 perso19
+L21D80C
+ Il est entré dans la Salle de Conseil... J'ai entendu des cris horribles... XXX
+// Prôneur2 (la voix cassée) perso19
+L21D80D
+ La Grande Prôneuse... XXX
+// Arkhan2 G perso2
+L21D81
+ Thanandar! Il a tué Lory! XXX
+// Arkhan2 G perso2
+L21D82
+ Thanandar! C'était lui! XXX
+// Arkhan3 G perso3
+L21D83
+ Thanandar! Encore lui! XXX
+// Prôneur2 perso19
+L21D84A
+ Il t'a envoyé pour me tuer, je le sais! XXX
+// Prôneur2 perso19
+L21D84C
+ Mais la lumière renaîtra, j'en suis sûr! XXX
+// Arkhan2 G perso2
+L21D85
+ Relève toi! XXX
+// Arkhan2 O perso2
+L21D86
+ Lève toi! XXX
+// Arkhan 1 G perso1
+L21D48
+ Il y a une petite ouverture dans le sol. XXX
+// Arkhan2 G perso2
+L21D57
+ Rien à faire! Pourtant c'est la bonne clef! XXX
+// Arkhan2 G perso2
+L21D58
+ C'est la bonne clef... mais ça ne suffit pas. XXX
+// Arkhan2 G perso2
+L21D59
+ C'est la clef mais il doit falloir enclencher le mécanisme ailleurs. XXX
+// Arkhan2 G perso2
+L21D60
+ Là, une petite ouverture dans le sol. XXX
+// Arkhan2 G perso2
+L21D61
+ J'en étais sûr! XXX
+// Arkhan2 G perso2
+L21D62
+ Il me manque quelque chose! XXX
+// Arkhan2 G perso2
+L21D63
+ Ca se referme! XXX
+// Arkhan3 G perso3
+L21D64
+ C'est la bonne clef... Mais rien! XXX
+// Arkhan3 G perso3
+L21D65
+ C'est la bonne clef... Mais faut autre chose! XXX
+// Arkhan3 G perso3
+L21D66
+ La bonne clef... mais doit falloir activer le mécanisme ailleurs... XXX
+// Arkhan3 G perso3
+L21D67
+ Là, une ouverture dans le sol. XXX
+// Arkhan3 G perso3
+L21D68
+ J'en étais sûr! XXX
+// Arkhan3 G perso3
+L21D69
+ Manque quelque chose! XXX
+// Arkhan3 G perso3
+L21D70
+ Ca s'ferme! XXX
+// Arkhan1 G perso1
+L21D49
+ Le Rahal. Icône du Soleil-Dieu. XXX
+// Arkhan2 G perso2
+L21D50
+ Je n'ai pas le temps de prier. XXX
+// Arkhan3 G perso3
+L21D51
+ Pas le temps de prier. XXX

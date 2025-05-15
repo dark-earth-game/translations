@@ -1,0 +1,61 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\fr\NWDIAL42.TXT
+ // Arkhan3 G perso3
+L42D01
+ Pas de retour possible... XXX
+// Arkhan3 G perso3
+L42D05
+ Et c'est la fin du voyage, on dirait... XXX
+// Arkhan3 G perso3
+L42D02A
+ L'extérieur... La falaise... XXX
+// Arkhan3 G perso3
+L42D02B
+ L'entrée du Tombeau devait être ici... Mais le Grand Cataclysme l'a emportée! XXX
+// Arkhan3 G perso3
+L42D02C
+ Voilà pourquoi père l'a jamais trouvée! XXX
+// Arkhan3 L perso3
+L42D08
+ C'est brûlant... Et cette lumière... Comme dans la crypte XXX
+// Arkhan3 O perso3
+L42D09
+ Sang noir! Me suis brûlé la main! XXX
+// Arkhan3 L perso3
+L42D10
+ J'y touche plus... XXX
+// Arkhan3 O perso3
+L42D11
+ Je touche plus à ça! XXX
+// Arkhan3 G (a tiré le levier pour ouvrir la porte) perso3
+L42D07A
+ Elle ne bouge pas d'un pouce. XXX
+// Arkhan3 G perso3
+L42D07B
+ Ca bouge pas. XXX
+// Arkhan3 G perso3
+L42D07C
+ Rien du tout. XXX
+// Arkhan3 G perso3
+L42D06
+ Le mécanisme est bloqué. XXX
+// Arkhan3 G perso3
+L42D12
+ La pierre est légèrement chaude... XXX
+// Arkhan3 G perso3
+L42D13A
+ Des éboulements... XXX
+// Arkhan3 G perso3
+L42D13B
+ C'est tellement ancien... ça tombe en ruines... XXX
+// Arkhan3 L (regarde en bas) perso3
+L42D03
+ Le reste de la grotte s'est effondré dans la mer. XXX
+// Arkhan3 L (regarde en bas) perso3
+L42D04
+  Ce plongeon-là, c'est la mort assurée! XXX
+// Arkhan3 G perso3
+L42D14
+ Une roue gigantesque... et une ouverture, là haut. XXX
+// Arkhan3 G perso3
+L42D15
+ Je dois trouver un moyen de la faire basculer... XXX

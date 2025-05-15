@@ -1,0 +1,406 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL24.TXT
+ // Thanandar perso24
+L34D201
+ Du wirst sterben, armer Irrer! XXX
+// Thanandar (plötzlich bösartig)perso24
+L24D70
+ Du unterschreibst Dein Todesurteil! XXX
+// Hüter16 (von einer abergläubischen Wut ergriffen) perso56
+L24D02
+ Beim Sonnengott! Eine ... eine Kreatur der Finsternis! XXX
+// Arkhan2 G (geschwächt) perso2
+L24D01
+ Dulnys ... Ich ... Was ist los mit mir?! XXX
+// Hüter16 perso56
+L24D03
+ Hilfe! Wache! XXX
+// Arkhan2 L perso2
+L24D05
+ Tut mir leid, Hüter des Feuers, Du hast mir keine Wahl gelassen ... XXX
+// Arkhan2 O perso2
+L24D06
+ Armer Irrer! Du hättest mich nicht provozieren sollen! XXX
+// Thanandar (wohlwollend) perso24
+L24D07A
+ Unglaublich! Du lebst! XXX
+// Thanandar perso24
+L24D07B
+ Wie fühlst Du Dich? Du siehst aus, als hättest Du es gut überstanden ... XXX
+// Thanandar perso24
+L24D08
+Beruhige Dich, ich bin nicht Dein Feind. XXX
+// Thanandar perso24
+L24D09
+ So gefällst Du mir schon besser. XXX
+// Arkhan2 G perso2
+L24D10
+ Thanandar! XXX
+// Arkhan3 G perso3
+L24D11
+ Thanandar! XXX
+// Thanandar perso24
+L24D12
+ Hast Du Rylsadhar gesehen? Hast Du es geschafft, den Eingang zur Gruft zu öffnen? XXX
+// Thanandar (ungeduldig) perso24
+L24D13
+ Also, was ist mit der Gruft? XXX
+// Thanandar perso24
+L24D14A
+ Arkhan! Wir müssen schnell machen! XXX
+// Thanandar perso24
+L24D14B
+ Finde die Gruft! XXX
+// Thanandar (honigsüß) perso24
+L24D15A
+ Arkhan! Da bist Du ja! Gut, daß Du zurückgekommen bist ... XXX
+// Thanandar (regt sich plötzlich auf) perso24
+L24D15B
+ Denn es ist höchste Zeit, daß Du ins Schattenreich übergehst! Endgültig! XXX
+// Thanandar (wütend) perso24
+L24D16
+ Wenn ich eine Frage stelle, dann verlange ich eine Antwort! XXX
+// Thanandar (ruft durch die Tür hindurch) perso24
+L24D17
+ Alles in Ordnung, Kommandantin Phedoria! Alles in Ordnung! XXX
+// Thanandar perso24
+L24D18A
+ Wir müssen schnell machen! XXX
+// Thanandar perso24
+L24D18B
+ Es werden noch mehr von ihnen kommen, und auch sie könnten sich wie wilde Tiere verhalten. XXX
+// Thanandar perso24
+L24D18C
+ Geh zu Deinem Vater und bitte ihn, Dich zur Gruft zu führen. XXX
+// Thananadar perso24
+L24D19A
+ Hör auf! XXX
+// Thananadar perso24
+L24D19B
+ Faß das nicht an! XXX
+// Arkhan2 G perso2
+L24D93
+ Thanandars Leiche ist verschwunden! XXX
+// Arkhan3 G perso3
+L24D94
+ Thanandars Leiche ist verschwunden! XXX
+// Arkhan2 L perso2
+L24D23
+ Dieser Hüter des Feuers hat mich angegriffen, ich mußte mich verteidigen! XXX
+// Thanandar perso24
+L24D24A
+ Ja ... Ein abergläubischer Dummkopf! XXX
+// Thanandar perso24
+L24D24B
+ Mach Dir keine Sorgen, ich verstehe Dich. Er oder Du, Du hattest keine andere Wahl! XXX
+// Arkhan2 L perso2
+L24D25
+ Du weißt, was mit mir passiert ist? Wer bist Du? XXX
+// Arkhan2 O perso2
+L24D26
+ Wer auch immer Du bist - komm keinen Schritt näher, oder Du endest wie dieser elende Wurm da hinten! XXX
+// Thanandar perso24
+L24D27A
+ Immer mit der Ruhe, ich will Dir doch nur helfen. XXX
+// Thanandar perso24
+L24D27B
+ Dieser abergläubische Dummkopf wußte nicht, was er tat. XXX
+// Thanandar perso24
+L24D27C
+ Ich verstehe Dich, und ich will nur Dein Bestes.  XXX
+// Arkhan2 O perso2
+L24D28
+ Dann sag mir, wer Du bist ... und was mit mir los ist! XXX
+// Thanandar perso24
+L24D29A
+ Ich bin Thanandar, ein Prediger, wie Dein Vater, aber ich bin vor allem ein Heiler. XXX
+// Thanandar perso24
+L24D29B
+ Und ich weiß, welches Übel Dich zerstört, Arkhan, ich kenne es sogar sehr gut. XXX
+// Thanandar perso24
+L24D29C
+ Die Finsternis ist in Dich eingedrungen ...  XXX
+// Thanandar perso24
+L24D29D
+ Und sie wird erst Ruhe geben, wenn sie von Deinem Körper und Deiner Seele völlig Besitz ergriffen hat.  XXX
+// Arkhan2 L perso2
+L24D30
+ Gibt es kein Mittel, um mich zu heilen? XXX
+// Arkhan2 O perso2
+L24D31
+ Du behauptest, Heiler zu sein. Dann finde ein Mittel, um mich zu heilen! XXX
+// Thanandar perso24
+L24D32A
+ Es gibt vielleicht ein Mittel ...  XXX
+// Thanandar perso24
+L24D32B
+ Eine geheime Energie, aus alten Zeiten. Sie entspringt im Herzen einer Gruft. XXX
+// Thanandar perso24
+L24D32C
+ Aber davon darf ich Dir eigentlich gar nicht erzählen. Ich hab' Dir schon zuviel gesagt.  XXX
+// Thanandar perso24
+L24D32D
+ Nur Dein Vater kann das Geheimnis lüften und Dich dort hinführen.  XXX
+// Thanandar perso24
+L24D32E
+ Er gehört zu den wenigen Auserwählten, die Zugang zur Gruft haben. XXX
+// Arkhan2 G perso2
+L24D33
+ Du sagst, daß mein Vater diese ... geheime Gruft kennt? XXX
+// Thanandar perso24
+L24D34A
+ Ja. Sprich mit Rylsadhar. Er ist der einzige, der Dich retten kann.  XXX
+// Thanandar perso24
+L24D34B
+ Alles was ich für Dich tun kann, ist, Dir ein Mittel zu geben, um Deine Schmerzen zu lindern und dafür zu sorgen, daß sich das Übel langsamer in Dir ausbreitet.  XXX
+// Thanandar perso24
+L24D34C
+ Komm zurück, nachdem Du mit Deinem Vater gesprochen hast.  XXX
+// Phedoria (entfernte Stimme) perso26
+L24D35
+ (Phedoria draußen) Ist alles in Ordnung da drinnen? XXX
+// Arkhan2 G perso2
+L24D36
+ Thanandar, was soll ich tun? XXX
+// Arkhan3 G perso3
+L24D37
+ Thanandar, was soll ich tun? XXX
+// Thanandar perso24
+L24D38A
+ Geh zu Deinem Vater, er ist gleich nebenan.  XXX
+// Thanandar perso24
+L24D38B
+ Bitte ihn, Dir die Gruft zu zeigen, es ist das einzige Mittel, um Dich zu heilen.  XXX
+// Thanandar perso24
+L24D38C
+ Und mach schnell, Deine Zeit ist gezählt! XXX
+// Arkhan2 G perso2
+L24D43
+ Thanandar, ich brauche Deine Hilfe. XXX
+// Arkhan3 G perso3
+L24D44
+ Du mußt mir helfen. XXX
+// Thanandar perso24
+L24D45A
+ Ich hab's Dir doch schon gesagt: Du mußt mit Rylsadhar sprechen. XXX
+// Thanandar perso24
+L24D45B
+ Es ist das einzige Mittel! XXX
+// Arkhan2 Gperso2
+L24D46
+ Ist das für mich? XXX
+// Arkhan3 Gperso3
+L24D47
+ Ist das für mich? XXX
+// Thanandar perso24
+L24D48
+ Nein, das geht Dich nichts an. XXX
+// Arkhan2 G perso2
+L24D49
+ Hör mir zu...  XXX
+// Arkhan3 G perso3
+L24D50
+ Hör zu...  XXX
+// Thanandar perso24
+L24D51
+ Geh jetzt, Arkhan, Deine Zeit ist gezählt! XXX
+// Arkhan2 L perso2
+L24D52A
+ Ich hab die Gruft noch nicht gefunden. XXX
+// Arkhan2 L perso2
+L24D52B
+ Aber Du hast von einem Mittel gesprochen, mit dem Du meine Schmerzen lindern kannst ... XXX
+// Arkhan2 O perso2
+L24D53A
+ Es reicht mir, nach dieser Gruft zu suchen! XXX
+// Arkhan2 O perso2
+L24D53B
+ Du hattest mir ein Heilmittel versprochen? Wo ist es?! XXX
+// Arkhan3 G perso3
+L24D54A
+ Ich kann die Gruft nicht finden, und das Übel verschlimmert sich! XXX
+// Arkhan3 G perso3
+L24D54B
+ Ich brauch' ein Gegenmittel, schnell! XXX
+// Thanandar perso24
+L24D55A
+ Ich hab' im Moment kein Gegenmittel für Dich. XXX
+// Thanandar perso24
+L24D55B
+Rylsadhar muß Dir den Zugang zur Gruft öffnen, das ist die einzige Lösung.  XXX
+// Thanandar perso24
+L24D55C
+ Erst dann kann ich Dir helfen! XXX
+// Arkhan2 G perso2
+L24D56
+ Was machst Du mit ihm? XXX
+// Arkhan3 G perso3
+L24D57
+ Was machst Du da? XXX
+// Thanandar perso24
+L24D58
+ Ich behandle ihn! XXX
+// Arkhan2 G perso2
+L24D59
+ Aber er ist doch tot! XXX
+// Arkhan3 G perso3
+L24D95
+ Aber er ist doch tot! XXX
+// Thanandar perso24
+L24D60A
+ Nein, Wahnsinniger, er lebt noch! XXX
+// Thanandar perso24
+L24D60B
+ Und bald wird er wieder gehen ... XXX
+// Arkhan2 L perso2
+L24D61A
+ Ich hab' überall gesucht, aber ich finde diese Gruft nicht! XXX
+// Arkhan2 L perso2
+L24D61B
+ Gibt es kein anderes Mittel? XXX
+// Arkhan2 O perso2
+L24D62A
+ Ich finde diese verdammte Gruft einfach nicht! XXX
+// Arkhan2 O perso2
+L24D62B
+ Es muß doch ein anderes Mittel geben, um mich zu heilen, als diese Energie, von der niemand etwas weiß! XXX
+// Arkhan3 G perso3
+L24D63A
+ Die Gruft ... ich kann sie nicht finden! XXX
+// Arkhan3 G perso3
+L24D63B
+Gib mir ein anderes Heilmittel! XXX
+// Thanandar perso24
+L24D64
+ Ich kann Dir nur immer wieder das gleiche sagen: Wenn Du die Gruft nicht findest, kann ich nichts für Dich tun! XXX
+// Arkhan2 L perso2
+L24D65A
+ Wer ist dieser Mann? XXX
+// Arkhan2 L perso2
+L24D65B
+ Den hab ich hier noch nie gesehen! XXX
+// Arkhan2 O perso2
+L24D66A
+ Ist das Dein Gehilfe? XXX
+// Arkhan2 O perso2
+L24D66B
+ Seine Fresse gefällt mir nicht! XXX
+// Arkhan3 L perso3
+L24D67A
+ Ist das Dein Assistent? XXX
+// Arkhan3 L perso3
+L24D67B
+ Ich hab ihn noch nie vorher gesehen! XXX
+// Arkhan3 O perso3
+L24D68
+ Wer ist der andere da drüben?! XXX
+// Thanandar perso24
+L24D69A
+ Das ist ein Hüter des Feuers, was denn sonst ... XXX
+// Thanandar perso24
+L24D69B
+ Aber keine Angst, er ist ganz anders. XXX
+// Thanandar perso24
+L24D69C
+ Wenn Du vernünftig bist, wird alles gut werden. XXX
+// Thanandar perso24
+L24D20
+ Genug! Ich will Dir doch nur helfen! XXX
+// Arkhan2 G perso2
+L24D71
+ Verdammt, Dulnys! Ich bin's, Arkhan! XXX
+// Hüter16 perso56
+L24D72
+ Nein, Du Dämon! Ich kenne Arkhan, Dich aber nicht! XXX
+// Arkhan2 G perso2
+L24D73
+ Warte! XXX
+// Hüter16 (wird A. schlagen) perso56
+L24D04
+ Du wirst sterben! XXX
+// Arkhan2 G perso2
+L24D74
+ Kennen wir uns? XXX
+// Arkhan3 G perso3
+L24D75
+ Kenn' ich Dich? XXX
+// Konkalit1 (weiß nicht, was er sagen soll) perso71
+L24D76
+ Mmm... Thanandar?  XXX
+// Thanandar perso24
+L24D77
+ Immer mit der Ruhe, das ist ein Freund, es ist alles in Ordnung. XXX
+// Arkhan2 L perso2
+L24D78
+ Deine Uniform ist zerrissen. Bist Du verletzt? XXX
+// Konkalit1 perso71
+L24D79
+ Ähm ... Nein ... Es geht mir schon besser... XXX
+// Arkhan2 O perso2
+L24D80
+ Sag bloß, Du hast ja ein seltsames Gesicht für einen Hüter des Feuers. XXX
+// Konkalit1 perso71
+L24D81
+ Schau Du Dich doch mal an! Warte nur, bis ... XXX
+// Arkhan3 G perso3
+L24D82A
+ Ich glaub', ich kenn' Dich ... XXX
+// Arkhan3 G perso3
+L24D82B
+ Ich hab' Dich schon mal gesehen, oder? XXX
+// Konkalit1 perso71
+L24D83
+ Unmöglich! Ich hab' diese Uniform zum ersten Mal an! XXX
+// Thanandar (scharf) perso24
+L24D84
+ Sei still, Dummkopf! Es reicht! XXX
+// Arkhan2 G perso2
+L24D85A
+ Er hat Dich Dummkopf genannt. XXX
+// Arkhan2 G perso2
+L24D85B
+ Ist das Dein Spitzname? XXX
+// Arkhan3 G (spöttisch) perso3
+L24D86
+ Hallo, Dummkopf! XXX
+// Konkalit1 perso71
+L24D87
+ (unzufriedenes Knurren) XXX
+// Thanandar perso24
+L24D21
+ Genug, ihr zwei! XXX
+// Thanandar (plötzlich bösartig)perso24
+L24D22
+ Du Schwachkopf! Dann liquidieren wir ihn eben! XXX
+// Arkhan2 G (schaut sich ein Skelett an) perso2
+L24D88
+ Dieser da ist mit seinen Leiden am Ende... XXX
+// Arkhan3 G (schaut sich ein Skelett an) perso3
+L24D89
+ Der da braucht nicht mehr zu leiden. XXX
+// Arkhan2 G perso2
+L05D183
+ Nutzloses Zeug ... XXX
+// Arkhan3 G perso3
+L05D184
+ Nichts Interessantes ... XXX
+// Arkhan2 G perso2
+L24D90
+ Glaubst Du, Du kannst ihn retten? XXX
+// Arkhan3 G perso3
+L24D91
+ Glaubst Du, daß Du ihn retten kannst? XXX
+// Thanandar (überschwenglich) perso24
+L24D92A
+ Ganz sicher! XXX
+// Thanandar perso24
+L24D92B
+ Bald wird er lebendiger sein als je zuvor! XXX
+// Arkhan2 L perso2
+L34D05
+ Thanandar! Was soll das bedeuten? XXX
+// Arkhan2 O perso2
+L34D06
+ Thanandar, dreckiger Verräter! Du hast mich belogen! XXX
+// Arkhan3 G perso3
+L34D07
+ Thanandar! Verräter! XXX

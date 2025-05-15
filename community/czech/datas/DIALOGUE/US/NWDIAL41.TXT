@@ -1,0 +1,31 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL41.TXT
+ // Arkhan perso3
+L41D02
+ To je gigantický! XXX
+// Arkhan3 G  perso3
+L41D01
+ Nyní nezùstává mi nic jineho, nez pokracovat! XXX
+// Arkhan3 L perso3
+L41D14
+ Energie svetla je jiste nedaleko ode mne. XXX
+// Arkhan3 O perso3
+L41D15
+ Co pak je to za místo?! XXX
+// Arkhan3 L perso3
+L41D12
+ Zádní div, ze Stallit presne nad tím vystaven byl. XXX
+// Arkhan3 O perso3
+L41D13
+ Proc mi nikdy nikdo o tom míste nevyprável?! XXX
+// Arkhan3 L perso3
+L41D10
+ Pùda je velmi horká ... XXX
+// Arkhan3 O perso3
+L41D11
+ Pùda je horká ... Ona mi horí pod nohama ... XXX
+// Arkhan3 G perso3
+L41D03
+ Tajemne nápisy ... XXX
+// Arkhan3 G perso3
+L41D09
+ Kdyz já padnu, je se mnou konec! XXX

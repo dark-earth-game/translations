@@ -1,0 +1,201 @@
+123456789012
+
+@1
+Uniform
+@2
+Bow to Key
+@3
+Metal Plate
+@4
+Dish
+@5
+Metal Pole
+@6
+F-throw Ammo
+@7
+Bullets
+@8
+Boiler
+@9
+Handle
+@10
+Plate-Before
+@11
+Red Key
+@12
+Crystal 2
+@13
+Vegetable
+@14
+Konk. Key
+@15
+Sordos' Key
+@16
+Bogd. Key
+@17
+Hammer
+@18
+Crystal 1
+@19
+Crystal 3
+@20
+Mirror
+@21
+Vial
+@22
+Flagon
+@23
+Thbolt.-Bef.
+@24
+Full Gourd
+@25
+Clothing
+@26
+Ax
+@27
+F-thrower
+@28
+Long Knife
+@29
+Shaft
+@30
+Cleaver
+@31
+Potion
+@32
+Sm. Thbolt.
+@33
+Lead Plaque
+@34
+Potato
+@35
+Zed Thbolt.
+@36
+Root
+@37
+Halberd
+@38
+Saber
+@39
+Sm. Th. ammo
+@40
+Obj.-Before
+@41
+Obj.-Before
+@42
+Flagon
+@43
+Fish
+@44
+Meat
+@45
+Cryst. Sliv.
+@46
+Ryls. Notes 
+@47
+Konk. Ax
+@48
+Broken Shaft
+@49
+Sordos' Doc. 
+@50
+Diag. Weapon
+@51
+Pulley Blade
+@52
+Drawings
+@53
+Spear
+@54
+Fireball
+@55
+Spitrod
+@56
+Rat
+@57
+Sordos' Wpn.
+@58
+Zed Saber
+@59
+Wandr. Saber
+@60
+Coin
+@61
+Flail
+@62
+Halberd
+@63
+Dagger
+@64
+Roast Bird
+@65
+Bowl
+@66
+Thunderbolt
+@67
+Ax
+@68
+Zed Thbolt.
+@69
+"Save" icon
+@70
+Bandor Diag.
+@71
+Metal Suit
+@72
+Thbolt. Ammo
+@73
+Zed ammo
+@74
+Pick-ax
+@75
+Crystal Key
+@76
+Mace
+@77
+Flask
+@78
+Danrys' Wpn.
+@79
+Ax
+@80
+Dhor. Sword
+@81
+Parchment
+@82
+Book
+@83
+Saber
+@84
+Helmet
+@85
+Breastplate
+@86
+Flask
+@87
+Yong Counter
+@88
+Tube
+@89
+Stock. Key
+@90
+Bullet
+@91
+Dagger
+@92
+Long Dagger
+@93
+Stiletto
+@94
+Pestle
+@95
+Mortar
+@96
+Large Key
+@97
+Jerrycan
+@98
+Grindstone
+@99
+Can
+@end

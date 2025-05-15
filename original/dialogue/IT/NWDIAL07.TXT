@@ -1,0 +1,310 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\IT\NWDIAL07.TXT
+ // Zed (dopo un combattimento lungo o corto) perso27
+L07D01A
+Mmm... Hai ancora dei progressi da fare! XXX
+// Zed (gentilmente canzonatore) perso27
+L07D01B
+Ti sei arrugginito o ti sei svegliato male! XXX
+// Zed (dopo un combattimento lungo o corto) perso27
+L07D01C
+Continua ad allenarti, è il solo modo per migliorare.  XXX
+// Zed perso27
+L07D05A
+Se vuoi batterti, mettiti in guardia.  XXX
+// Zed perso27
+L07D05B
+Altrimenti, lasciami allenare in pace, d'accordo? XXX
+// Phedoria perso26
+L07D02A
+Già stanco?  XXX
+// Phedoria perso26
+L07D02B
+Bisognerà migliorare la tua resistenza... XXX
+// Zed perso27
+L07D03A
+Su, vieni ad allenarti! XXX
+// Zed perso27
+L07D03B
+Non rischi niente, non completeremo i colpi! XXX
+// Zed perso27
+L07D04
+Hai cambiato opinione? XXX
+// Zed perso27
+L07D06
+Bene, l'hai voluto tu! Difenditi! XXX
+// Zed perso27
+L07D07
+Su, si ricomincia! XXX
+// Zed perso27
+L07D08
+Beh, se non vuoi allenarti, approfitta della lezione! XXX
+// Zed perso27
+L07D09
+Bisogna sapere quel che si vuole! XXX
+// Zed (seccato) perso27
+L07D10
+Non avvicinarti se temi i colpi! XXX
+// Phedoria (beffarda) perso26
+L07D32
+Te ne vai già! XXX
+// Phedoria perso26
+L07D11
+Vieni, t'insegnerò che cosa vuol dire battersi! XXX
+// Phedoria perso26
+L07D12
+Mettiti in guardia, accidenti! XXX
+// Phedoria perso26
+L07D13
+Bene, basta così! XXX
+// Phedoria perso26
+L07D14
+Si ricomincia! XXX
+// Phedoria perso26
+L07D74
+Scostati, m'impedisci di allenarmi. XXX
+// Phedoria perso26
+L07D75
+Indietro, o le tue budella assaggeranno l'acciaio della mia lama. XXX
+// Phedoria perso26
+L07D76
+Per l'ultima volta... Sparisci! XXX
+// Phedoria perso26
+L07D77
+Cretino! XXX
+// Phedoria perso26
+L07D54
+Alt, chi va là?! XXX
+// Phedoria perso26
+L07D55
+Dimi chi sei o ti spedisco nell'Oscuro! XXX
+// Phedoria (tira freddamente) perso26
+L01D45B
+Non mi lasci altra scelta! XXX
+// Phedoria (Arkhan si mette in guardia) perso26
+L07D78
+Ti credevo più furbo! XXX
+// Zed perso27
+L07D16
+ Oh oh! Hai l'aria di essere in forma, oggi! XXX
+// Zed perso27
+L07D17
+Ho sbagliato ad attendere! XXX
+// Arkhan1 L perso1
+L07D18
+Allora, sei pronto per un piccolo allenamento amichevole? XXX
+// Zed perso27
+L07D19
+Quando vuoi! Mettiti in guardia e cominciamo! XXX
+// Arkhan1 O perso1
+L07D20
+Preparati, Zed! Stai per subire la peggiore umiliazione della tua vita! XXX
+// Zed perso27
+L07D21
+La vedremo, buffone! Forza, mettiti in guardia! XXX
+// Phedoria perso26
+L07D22
+Sei pronto? Cominciamo! XXX
+// Phedoriaperso26
+L07D23
+Trovati un'arma se vuoi allenarti con me! XXX
+// Phedoria (Arkhan torna con un'arma) perso26
+L07D24
+Finalmente! Rischiavo di addormentarmi! XXX
+// Phedoria (Arkhan arriva con un oggetto) perso26
+L07D25
+Non essere ridicolo, trovati un'arma valida! XXX
+// Arkhan1 L perso1
+L07D26
+Capitano Phedoria, vi andrebbe un piccolo allenamento amichevole? XXX
+// Phedoria (sicura di sé)perso26
+L07D27
+Amichevole, eh? In guardia. XXX
+// Arkhan1 O perso1
+L07D28
+Morderai la polvere! XXX
+// Phedoria perso26
+L07D29
+Ah sì? In guardia, fanfarone! XXX
+// Arkhan2 G perso2
+L07D57
+Phedoria, sono io, Arkhan! XXX
+// Arkhan3 G perso3
+L07D58
+Io sono Arkhan! XXX
+// Phedoria perso26
+L07D59A
+Arkhan?!? XXX
+// Phedoria perso26
+L07D59B
+Il veleno ti ha reso irriconoscibile! XXX
+// Arkhan2 G perso2
+L07D60A
+Tu mi credi, non hai paura. XXX
+// Arkhan2 G perso2
+L07D60B
+Ecco chi cambia degli altri Custodi del Fuoco! XXX
+// Phedoria perso26
+L07D61A
+La tua immagine è quella che hanno imparato a temere. XXX
+// Phedoria perso26
+L07D61B
+Per me non è importante, se la tua anima resta pura. XXX
+// Phedoria perso26
+L07D61C
+Non ho ricevuto l'ordine di ucciderti, né di arrestarti. XXX
+// Arkhan2 G perso2
+L07D62A
+Non so verso chi andare...  XXX
+// Arkhan2 G perso2
+L07D62B
+La maggior parte dei miei sedicenti amici si rivolta contro di me o cerca d'ingannarmi. XXX
+// Phedoria perso26
+L07D63
+Se hai fede in te stesso e nel Sole-Dio, troverai la via. XXX
+// Arkhan2 G perso2
+L07D65
+Tu puoi aiutarmi? XXX
+// Phedoria perso26
+L07D64A
+No. XXX
+// Phedoria perso26
+L07D64B
+Non posso parteggiare. XXX
+// Phedoria perso26
+L07D64C
+Dovrai trovare la soluzione da solo. XXX
+// Arkhan2 G perso2
+L07D79
+Phedoria... XXX
+// Phedoria perso26
+L07D80A
+Basta così. XXX
+// Phedoria perso26
+L07D80B
+T'ho detto quel che dovevo dirti. XXX
+// Phedoria perso26
+L07D81
+Non insistere, è inutile. XXX
+// Arkhan3 G perso2
+L07D70A
+Vedo che tu mi credi... XXX
+// Arkhan3 G perso2
+L07D70B
+Gli altri mi prendono per un mostro... XXX
+// Arkhan3 G perso2
+L07D72
+Non posso più fidarmi di nessuno. XXX
+// Arkhan3 G perso2
+L07D82
+Tu puoi aiutarmi? XXX
+// Arkhan3 G perso3
+L07D73
+Phedoria... XXX
+// Phedoria perso26
+L07D30
+In guardia! XXX
+// Arkhan1 G perso1
+L07D51
+Niente sul banco. XXX
+// Arkhan2 G perso2
+L07D52
+Niente sul banco. XXX
+// Arkhan3 G perso3
+L07D53
+Niente. XXX
+// Arkhan1 L perso1
+L07D33A
+È un manichino da combattimento. XXX
+// Arkhan1 L perso1
+L07D33B
+Ma io preferisco allenarmi con un avversario umano. XXX
+// Arkhan1 O perso1
+L07D34A
+Uno di quei manichini da combattimento inutili. XXX
+// Arkhan1 O perso1
+L07D34B
+Senza né ossa né denti da rompere, che interesse c'è? XXX
+// Arkhan2 G perso2
+L07D35
+Un manichino da combattimento. Non ho il tempo di servirmene! XXX
+// Arkhan3 G perso3
+L07D37
+Nemmeno il tempo di allenarmi. XXX
+// Arkhan1 G perso1
+L07D39A
+È il banco di tiro.  XXX
+// Arkhan1 G perso1
+L07D39B
+Certi l'utilizzano per allenarsi al tiro con gli sputapiombo a vapore.  XXX
+// Arkhan2 G perso2
+L07D41
+Il banco di tiro. Non c'è niente. XXX
+// Arkhan3 G perso3
+L07D43
+Il banco di tiro è vuoto. XXX
+// Arkhan1 G perso1
+L07D45
+Il bersaglio più grande. Utile per i principianti. XXX
+// Arkhan2 G perso2
+L07D46
+È il grande bersaglio d'allenamento. XXX
+// Arkhan3 G perso3
+L07D47
+Il grande bersaglio. XXX
+// Arkhan1 G perso1
+L07D48
+Il piccolo bersaglio. Per gli esperti come Zed! XXX
+// Arkhan2 G perso2
+L07D49
+Un piccolo bersaglio d'allenamento. XXX
+// Arkhan3 G perso3
+L07D50
+Il piccolo bersaglio. XXX
+// Arkhan2 L perso2
+L16D300A
+Salve... Maor, giusto? XXX
+// Maor perso17
+L16D301
+Hmm... cosa vuoi? XXX
+// Arkhan2 L perso2
+L16D304A
+Io sono Arkhan, amico dei Ficcanaso. XXX
+// Arkhan2 L perso2
+L16D304B
+Ho qualche noia con i Custodi del Fuoco... e bisogno di una mano. XXX
+// Maor perso17
+L16D305
+Vedo... Ma non è qui che otterrai l'aiuto che cerchi. XXX
+// Arkhan2 O perso2
+L16D311A
+Mi stavo chiedendo: ti capita mai di sorridere? XXX
+// Arkhan2 O perso2
+L16D311B
+O fai del tutto per avere l'aria di un duro? XXX
+// Maor perso17
+L16D312A
+Sorrido solo alle belle ragazze, va bene? XXX
+// Maor perso17
+L16D312B
+Adesso vattene altrove, ho da fare... XXX
+// Arkhan2 G perso2
+L18D184
+Vuoi una sorsata di Stohll? XXX
+// Malfrat2 perso62
+L18D187
+Un po' di Stohll... non dico mai di no. XXX
+// Malfrat2 (ha finito di bere) perso62
+L18D189
+Aaahhh... che soddisfazione! XXX
+// Malfrat2 (rutta) perso62
+L18D188
+Grazie. XXX
+// Malfrat2 perso62
+L18D153A
+Sai, noialtri amiamo mangiare e bere. XXX
+// Bogdaran perso8
+L05D110A
+Non inquietarti. XXX
+// Bogdaran perso8
+L05D110B
+Se avrò delle informazioni, te le darò. XXX

@@ -1,0 +1,106 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\GB\NWDIAL22.TXT
+// Arkhan2 L perso2
+L22D22
+Isto parece chegar até ao coração da terra. XXX
+// Arkhan2 0 perso2
+L22D23
+Poderia saltar... uma forma fácil de acabar! XXX
+// Arkhan3 L perso3
+L22D24
+Isto parece chegar ao coração da terra. XXX
+// Arkhan3 0 perso3
+L22D25
+Poderia saltar... Uma morte limpa... XXX
+// Phedoria perso26
+L22D01
+É preciso avisar a Grande Pregadora! XXX
+// Arkhan2 L (diante do corpo de Rylsadhar) perso2
+L22D12A
+Pai! XXX
+// Arkhan2 L (diante do corpo de Rylsadhar) perso2
+L22D12B
+Juro vingar-vos! O Thanandar vai morrer! XXX
+// Arkhan2 O perso2
+L22D13A
+Thanandar! Mataste o meu pai! XXX
+// Arkhan2 O perso2
+L22D13B
+Vais pagar! XXX
+// Arkhan3 L perso3
+L22D14
+Pai! Exijo vingança! XXX
+// Arkhan3 O (rosnando para si próprio) perso3
+L22D15
+Pai!... RAAAH! Vingança! XXX
+// Arkhan2 L (diante do corpo de Zed) perso2
+L22D18A
+Zed, meu amigo! XXX
+// Arkhan2 L perso2
+L22D18B
+Juro vingar-te! O Thanandar responderá pelos seus crimes! XXX
+// Arkhan2 O (vingador) perso2
+L22D19A
+Thanandar! Mataste o Zed, meu irmão! XXX
+// Arkhan2 O perso2
+L22D19B
+Estás morto! XXX
+// Arkhan3 L perso3
+L22D20
+Zed, meu irmão! RAAH! Vingança! XXX
+// Arkhan3 O (vingador, uiva) perso3
+L22D21
+Thanandar! Estás morto! XXX
+// Arkhan2 L perso2
+L22D06A
+Pelo Rahal, a energia de que falava o meu pai! XXX
+// Arkhan2 L perso2
+L22D06B
+Finalmente, o meio de me curar! XXX
+// Arkhan2 L perso2
+L22D06C
+Ahhh... Queimo-me!... Por dentro... Ah! XXX
+// Arkhan2 L perso2
+L22D07A
+Não! Não poderia suportar tal dor! XXX
+// Arkhan2 L perso2
+L22D07B
+É demasiado poderoso, isso matar-me-ia! XXX
+// Arkhan2 O perso2
+L22D08A
+Finalmente! A energia de que falava o meu pai! XXX
+// Arkhan2 O perso2
+L22D08B
+Vou curar-me! XXX
+// Arkhan2 O perso2
+L22D16
+Fazia-me tanta falta! XXX
+// Arkhan3 L perso3
+L22D09A
+A fonte, a energia! XXX
+// Arkhan3 L perso3
+L22D09B
+Vou curar-me! XXX
+// Arkhan3 L perso2
+L22D09C
+Aaah! Eu... ardo... Aah! XXX
+// Arkhan3 L perso3
+L22D10
+Não! Isso mata-me! XXX
+// Arkhan3 O perso3
+L22D11
+Pelo fogo, a energia... a cura! XXX
+// Arkhan3 O perso3
+L22D17
+Ainda! XXX
+// Arkhan2 L perso2
+L22D02
+A luz está morta! A energia... esgotada. XXX
+// Arkhan2 O perso2
+L22D03
+Não... A luz está morta! XXX
+// Arkhan3 L perso3
+L22D04
+A luz... a energia... mortas! XXX
+// Arkhan3 O (raivoso) perso3
+L22D05
+Nada mais! XXX

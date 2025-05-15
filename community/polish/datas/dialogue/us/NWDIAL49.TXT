@@ -1,0 +1,196 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL49.TXT
+ // Arkhan2 O perso2
+L03D523
+ Juz ja ci dam lekcje! XXX
+// Arkhan3 O perso3
+L03D525
+ Juz ja cie naucze! XXX
+// Kalhi perso13
+L49D01
+ Puszczaj! Niczego nie ukradlam! XXX
+// Malrot8 (pulling out dagger) perso68
+L49D02A
+ Zaraz posmakujesz mojego ostrza kociaku! XXX
+// Malrot8 (looking at Kalhi's corpse) perso68
+L49D03A
+ Mina ci zrzedla dziewucho, co? XXX
+// Malrot8 perso68
+L49D03B
+ Za pozno szczurza mordo. Juz wacha kwiatki od spodu! XXX
+// Malrot8 perso68
+L49D03C
+ No chodz, moje ostrze jeszcze nie ma dosc zabawy! XXX
+// Malrot8 perso68
+L49D04
+ Znowu ty. Zaczynajmy twarzowcu! XXX
+// Dhorkan perso11
+L49D05
+ Podejdz tu Arkhan! Skonczmy to raz na zawsze! XXX
+// Dhorkan (snarling) perso11
+L49D06A
+ Mamy porachunki do wyrownania Arkhan! XXX
+// Dhorkan perso11
+L49D06B
+ Konczmy z tym! XXX
+// Arkhan2 G perso2
+L49D38
+ Dhorkan mial klucz! XXX
+// Arkhan3 G perso2
+L49D39
+ Dhorkan mial klucz! XXX
+// Malrot8 perso68
+L49D02B
+ Bedziesz mial powody do wrzeszczenia! XXX
+// Malrot8 (fighting K. and seeing A. arrive) perso68
+L49D40
+ Przybywa Bestia na ratunek Pieknej! XXX
+// Arkhan2 G (seeing Dhorkan) perso2
+L49D07
+ Dhorkan! XXX
+// Arkhan3 G (seeing Dhorkan) perso3
+L49D08
+ Dhorkan... Dhorkan! XXX
+// Dhorkan (startled and angry) perso11
+L49D09
+ Arkhan! Czy ty nigdy sie nie poddajesz!? XXX
+// Arkhan2 G perso2
+L49D10
+ Dosc juz tego! Zginiesz zdrajco! XXX
+// Arkhan3 G perso3
+L49D11
+ Teraz cie mam! XXX
+// Dhorkan perso11
+L49D12A
+ Szukasz mnie brzydalu? XXX
+// Dhorkan (drawing weapon)perso11
+L49D12B
+ Pokaz co potrafisz! XXX
+// Kalhi perso13
+L49D14
+ Dzieki Arkhan, jestem twoja dluzniczka. XXX
+// Arkhan2 L (worried)perso2
+L49D15
+ Kalhi! Czemu tak ryzykowalas zyciem? XXX
+// Arkhan2 O (angry)perso2
+L49D16
+ Oszalalas! Moglas zginac! XXX
+// Arkhan3 L (worried)perso3
+L49D17
+ Moglas zginac! XXX
+// Arkhan3 O (angry)perso3
+L49D18
+ Do wszystkich diablow, jak mozna byc tak glupim?! XXX
+// Kalhi perso13
+L49D19A
+ Handlowalam z nim! XXX
+// Kalhi perso13
+L49D19B
+ Skad mialam wiedziec, ze bedzie probowal zabrac wszystko! XXX
+// Arkhan2 G perso2
+L49D20
+ Co chcialas z nim przehandlowac? XXX
+// Arkhan3 G perso3
+L49D21
+ Po co handlowalas? XXX
+// Kalhi perso13
+L49D22A
+ Popatrz, troche kul do miotacza piorunow... wciaz dzialaja. XXX
+// Kalhi perso13
+L49D22B
+ To dla ciebie. Prosze! XXX
+// Arkhan2 L perso2
+L49D23A
+ Dziekuje. Przyda sie. XXX
+// Arkhan2 L perso2
+L49D23B
+ Ale nastepnym razem nie ryzykuj swoim zyciem, w porzadku?! XXX
+// Arkhan3 O perso2
+L49D24A
+ Ryzykowalas dla tego nasze zycia! XXX
+// Arkhan3 O perso2
+L49D24B
+ Nastepnym razem badz madrzejsza i nie wychodz od Danrysa! XXX
+// Arkhan3 L perso3
+L49D25
+ Dziekuje. Ale uwazaj na siebie... XXX
+// Arkhan3 O perso3
+L49D26
+ To? Wielki Solaarze, moglas zginac... dla tego! XXX
+// Kalhi perso13
+L49D27
+ O.K., O.K! Dotarlo do mnie. XXX
+// Kalhi (upset, nearly crying) perso13
+L49D28
+ Dziekuje, ze sie o mnie martwisz! XXX
+// Arkhan2 G (killed Dhorkan) perso2
+L49D42
+ To byl twoj ostatni blad Dhorkan! XXX
+// Arkhan3 G (killed Dhorkan) perso3
+L49D43
+ Koniec z toba Dhorkan! XXX
+// Malrot8 (A. killed Kalhi) perso68
+L49D41A
+ Hej, moglem rozpruc ja od gory do dolu! XXX
+// Malrot8 perso68
+L49D41B
+ Ale teraz mam ciebie! XXX
+// Arkhan2 G perso2
+L49D29
+ Kalhi, w porzadku? XXX
+// Arkhan3 G perso3
+L49D30
+ Kalhi? XXX
+// Kalhi (alarmed)perso13
+L49D31
+ Arkhan, uwazaj! XXX
+// Arkhan2 G perso2
+L49D47A
+ Kalhi, nie... XXX
+// Arkhan2 G perso2
+L49D47B
+ Dlaczego?! XXX
+// Arkhan3 L perso3
+L49D48
+ Kalhi, nie... XXX
+// Kalhi (afraid) perso13
+L10D107
+ Przestan! XXX
+// Kalhi (upset) perso13
+L10D106
+ Arkhan! Uspokoj sie! XXX
+// Dhorkan (Arkhan running away) perso11
+L49D46
+ Tchorz! XXX
+// Arkhan2 L perso2
+L49D32A
+ Nie. Nikomu wczesniej sie to nie udalo i ja rowniez nie umiem tego zrobic! XXX
+// Arkhan2 L perso2
+L49D32B
+ Nikt nigdy nie otworzyl tych drzwi. XXX
+// Arkhan2 O perso2
+L49D33
+ Przeklete drzwi! Nikomu nigdy nie udalo sie ich otworzyc! XXX
+// Arkhan3 L perso3
+L49D34
+ Nie... nikt ich nigdy nie otworzyl... XXX
+// Arkhan3 O perso3
+L49D35
+ Nie da sie otworzyc! XXX
+// Arkhan2 G perso2
+L49D36
+ We framudze jest jakis otwor. XXX
+// Arkhan3 G perso3
+L49D37
+ Otwor we framudze... XXX
+// Arkhan2 G perso2
+L49D44
+ Nie ma mowy, zapieczetowali drzwi! XXX
+// Arkhan3 G perso3
+L49D45
+ Zapieczetowane! XXX
+// Arkhan2 G perso2
+L49D49
+ Tylko rury! XXX
+// Arkhan3 G perso3
+L49D50
+ Rury! XXX

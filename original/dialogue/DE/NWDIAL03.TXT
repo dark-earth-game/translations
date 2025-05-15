@@ -1,0 +1,202 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL03.TXT
+ // Kalhi perso33
+L03D14
+ Falls wir getrennt werden, treffen wir uns draußen auf dem Zentralplatz. XXX
+// Kalhi (fassungslos) perso13
+L03D500A
+ Arkhan! Du ... Warum hast Du das getan? XXX
+// Kalhi (fassungslos) perso13
+L03D500B
+ Dieses Gift ... macht Dich wahnsinnig! XXX
+// Kalhi (hat die Kleidungsstücke angezogen) perso33
+L03D501A
+ Steht mir gar nicht mal so schlecht! XXX
+// Kalhi perso33
+L03D501B
+ Wenn sich die Hüter des Feuers mein Gesicht nicht zu genau angucken, erkennen sie mich nicht. XXX
+// Kalhi (ungeduldig) perso13
+L03D601
+ Arkhan, wir dürfen hier nicht bleiben! XXX
+// Kalhi (ungeduldig) perso13
+L03D602
+ Komm, Arkhan, es ist gefährlich, hier zu bleiben. XXX
+// Kalhi (erstaunt, daß Arkhan nichts tut) perso13
+L03D603
+ Arkhan? Gehen wir jetzt? XXX
+// Arkhan2 G perso2
+L03D01
+ Warte auf mich. XXX
+// Arkhan3 G perso3
+L03D02
+ Warte. XXX
+// Kalhi perso13
+L03D03
+ Ich warte da auf Dich! XXX
+// Kalhi (beunruhigt) perso33
+L04D41
+ Arkhan! Was ist los mit Dir? XXX
+// Arkhan2 G perso2
+L03D503
+ Wie bist Du ins Gefängnis gekommen? XXX
+// Arkhan3 G perso3
+L03D504
+ Wie bist Du im Kerker gelandet? XXX
+// Kalhi perso13
+L03D505
+ Die Hüter des Feuers ... sie haben mich bei Rylsadhar geschnappt.  XXX
+// Arkhan2 G perso2
+L03D506A
+ Und sie haben Dir Deinen Dolch gelassen? XXX
+// Arkhan2 G perso2
+L03D506B
+ Das nenn' ich gute Arbeit! XXX
+// Arkhan3 G perso3
+L03D507
+Sie haben Dir nicht einmal Deinen Dolch abgenommen? Na hervorragend! XXX
+// Kalhi perso13
+L03D508A
+ Soweit ich verstanden hab', sind Rylsadhar und Zed verschwunden. XXX
+// Kalhi perso13
+L03D508B
+ Und ich soll verdächtig gewesen sein! XXX
+// Arkhan2 G perso2
+L03D509
+ Was ist denn das für ein dummes Zeug? XXX
+// Arkhan3 G perso3
+L03D510
+ Zed und mein Vater ... verschwunden? XXX
+// Kalhi perso13
+L03D511
+ Ich weiß nicht. Ich versteh' auch nicht mehr als Du ... XXX
+// Arkhan2 G perso2
+L03D512
+ Also gut. Jetzt müssen wir in die Untere Stadt hinunter. Ohne bemerkt zu werden. XXX
+// Arkhan3 G perso3
+L03D513
+ Also gut. Wir versuchen jetzt, in die untere Stadt hinunterzukommen ... ohne bemerkt zu werden. XXX
+// Kalhi perso13
+L03D514
+ Das wird schwierig sein! XXX
+// Arkhan2 G perso2
+L03D515
+ Komm jetzt, wir gehen. XXX
+// Arkhan3 G perso3
+L03D516
+ Komm! XXX
+// Kalhi perso13
+L03D517
+ Ich komm' ja schon. XXX
+// Arkhan2 G perso2
+L03D518
+ Schau mal! Das ist eine von Bogdarans alten Uniformen ... XXX
+// Arkhan2 G perso2
+L03D519
+ Bevor er Bauch angesetzt hat! XXX
+// Arkhan3 G perso3
+L03D520
+ Zieh das mal über. XXX
+// Kalhi perso13
+L03D521
+ Gut, ich probier's ... XXX
+// Kalhi perso13
+L03D522
+ Arkhan, wir haben keine Zeit! XXX
+// Arkhan2 O perso2
+L03D523
+ Ich werd' Dir zeigen, wo's lang geht! XXX
+// Arkhan2 L perso2
+L03D524
+ Eine echte Kriegerin! XXX
+// Arkhan3 O perso3
+L03D525
+ Ich werd' Dir schon zeigen, wo's lang geht! XXX
+// Kalhi (muß sich wehren) perso33
+L04D43
+ Arkhan, nein! XXX
+// Kalhi (verängstigt) perso33
+L04D42
+ Nein, Arkhan! Du mußt dagegen ankämpfen! XXX
+// Kalhi perso33
+L03D530A
+ Die Hüter des Feuers stürzen sich auf alles Verdächtige. XXX
+// Kalhi perso33
+L03D530B
+ Aber mit dieser Verkleidung können wir sie vielleicht täuschen. XXX
+// Arkhan2 G perso2
+L03D531A
+ Und was für eine Uniform! Sehr schick! XXX
+// Arkhan2 G perso2
+L03D531B
+ Dagegen ist Phedoria ein Waisenkind! XXX
+// Arkhan3 G (amüsiert durch Kalhi in Uniform) perso3
+L03D532
+ Selbst Phedoria kommt da nicht mit! XXX
+// Kalhi perso33
+L03D533
+ Hör auf, Dich über mich lustig zu machen! Gehen wir jetzt! XXX
+// Arkhan2 G perso2
+L03D534
+ Wir müssen die Halle durchqueren und dann hinunter. XXX
+// Arkhan3 G perso3
+L03D535
+ Wir durchqueren die Halle, und dann geht's hinunter. XXX
+// Kalhi perso33
+L03D536
+ Du bist hier der Chef! XXX
+// Kalhi perso13
+L03D528
+ Zwing mich nicht ... XXX
+// Kalhi perso13
+L03D526
+ Arkhan, hör auf! XXX
+// Kalhi perso13
+L03D527
+ Dieses Gift macht Dich wahnsinnig! XXX
+// Arkhan1 L perso1
+L03D04A
+ Alte Ölfässer.  XXX
+// Arkhan1 L perso1
+L03D04B
+ Die hat bestimmt der Ölmeister hier untergebracht. XXX
+// Arkhan1 O (Fußtritte in die Fässer) perso1
+L03D05
+ Verdammte Fässer! XXX
+// Arkhan2 L perso2
+L03D06
+ Fässer, die haben die Ölhändler hiergelassen. XXX
+// Arkhan2 O (tritt mit den Füßen in die Fässer) perso2
+L03D07
+ Bogdarans verdammte Abfalleimer! XXX
+// Arkhan3 L perso3
+L03D08
+ Alte Fässer, völlig uninteressant. XXX
+// Arkhan2 G perso2
+L03D10
+ Das Öllabor ist gleich da hinten. XXX
+// Arkhan3 G perso3
+L03D11
+ Da ist das Öllabor. XXX
+// Delia perso10
+L03D12
+ Laß uns schnell hineingehen, ich will Bogdaran sehen. XXX
+// Delia perso10
+L03D13
+ Arkhan, ich bitte Dich, laß uns keine Zeit verlieren! XXX
+// Arkhan3 G (schlägt sich mit Delhia) perso3
+L03D16
+ Das reicht, Du Hure! XXX
+// Delia (von Arkhan angegriffen) perso10
+L03D09
+ Du bist ja verrückt geworden! XXX
+// Arkhan1 G perso1
+L03D17A
+ Jetzt sind wir ganz oben auf der Klippe angelangt ... Unter uns liegt das Meer, in unendlicher Weite. XXX
+// Arkhan1 G perso1
+L03D17B
+ Bei der Großen Katastrophe sind ganze Berge ins Meer gestürzt. XXX
+// Arkhan2 G perso2
+L03D18
+ Dahinter gibt es nichts als Meer und Finsternis... XXX
+// Arkhan3 G perso3
+L03D19
+ Meer und Finsternis ... unsere einzigen Horizonte... XXX

@@ -1,0 +1,16 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\fr\NWDIAL44.TXT
+ // Arkhan3 O perso3
+L41D15
+ Qu'est-ce que c'est que cet endroit?! XXX
+// Arkhan3 L perso3
+L41D05
+ C'est fermé! Faut aller de l'avant. XXX
+// Arkhan3 O perso3
+L41D06
+ J'suis bloqué comme un rat! XXX
+// Arkhan3 L perso3
+L41D07
+ Pas moyen d'ouvrir... XXX
+// Arkhan3 L perso3
+L41D08
+ Rien à faire! Bloqué! XXX

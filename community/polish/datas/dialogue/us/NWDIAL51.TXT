@@ -1,0 +1,97 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL51.TXT
+ // Arkhan2 G (narrowly escaping an explosion)perso2
+L51D17
+ Whoa! XXX
+// Arkhan3 G (narrowly escaping an explosion)perso3
+L51D18
+ Whoa! XXX
+// Arkhan2 G (stupefied) perso2
+L51D01A
+ Niewiarygodne... XXX
+// Arkhan2 G (stupefied) perso2
+L51D01B
+ Studnia znikla... XXX
+// Arkhan3 G (stupefied) perso3
+L51D02A
+ Niewiarygodne... XXX
+// Arkhan3 G perso3
+L51D02B
+ Studnia... znikla... XXX
+// Arkhan2 G perso2
+L51D107
+ Nie wierze w to! XXX
+// Arkhan3 G perso3
+L51D108
+ Zniszczone... XXX
+// Arkhan2 L perso2
+L51D03
+ Brakuje przekladnicy... bezuzyteczne... XXX
+// Arkhan3 L perso3
+L51D04
+ Brakuje przekladnicy... bezuzyteczne... XXX
+// Arkhan2 G perso2
+L51D100A
+ Przekladnica od kola studni... XXX
+// Arkhan2 G perso2
+L51D100B
+ Wybuch ja zmiotl. XXX
+// Arkhan3 G perso3
+L51D101A
+ Przekladnica ze studni... XXX
+// Arkhan3 G perso3
+L51D101B
+ Rozerwana przez eksplozje... XXX
+// Arkhan2 O perso2
+L51D05
+ Zmiazdzone, bezuzyteczne! XXX
+// Arkhan3 O perso3
+L51D06
+ Bezuzyteczne ! XXX
+// Arkhan2 L (hesitating like a rookie parachutist) perso2
+L51D07
+ Nie, nie, nie... Jesli skocze, zabije sie! XXX
+// Arkhan3 L (hesitating like a rookie parachutist) perso3
+L51D08
+ Nie, nie, nie... Jesli skocze... zgine! XXX
+// Arkhan2 O (deciding to jump)perso2
+L51D09
+ Ech do diabla, co mam do stracenia! XXX
+// Arkhan3 O (deciding to jump)perso3
+L51D10
+Tam do kata, kto chcialby zyc wiecznie! XXX
+// Arkhan2 G perso2
+L51D111
+ Zbyt goraco, nie moge dalej. XXX
+// Arkhan3 G perso3
+L51D112
+ Zar! Nie moge podejsc blizej... XXX
+// Arkhan2 G (having repaired the propeller)perso2
+L51D13
+ Udalo mi sie, naprawione. XXX
+// Arkhan3 G (having repaired the blade)perso3
+L51D14
+ Naprawione. XXX
+// Arkhan2 G (examining his handiwork)perso2
+L51D15
+ Mam nadzieje, ze sie nie rozleci. XXX
+// Arkhan3 G (examining his handiwork)perso3
+L51D16
+ Miejmy nadzieje, ze bedzie sie trzymac. XXX
+// Arkhan2 G perso2
+L51D113
+ Platforma jest kompletnie zniszczona. XXX
+// Arkhan3 L perso3
+L51D114
+ Platforma... zniszczona. XXX
+// Arkhan2 G perso2
+L51D103
+ Nic poza kamieniami... XXX
+// Arkhan3 G perso3
+L51D104
+ Ahhhh...Kamienie... XXX
+// Arkhan2 G perso2
+L51D105
+ Ruiny. XXX
+// Arkhan3 G perso3
+L51D106
+ Zupelnie zniszczone. XXX

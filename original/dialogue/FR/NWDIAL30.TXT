@@ -1,0 +1,73 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\fr\NWDIAL30.TXT
+ // Arkhan2 G (entend un éternuement)perso2
+L30D05
+ Qu'est-ce que c'était? XXX
+// Arkhan3 G (entend un éternuement)perso3
+L30D06
+ Huh? XXX
+// Kankalite5 (va attaquer Arkhan) perso75
+L30D01
+ La promenade est terminée! XXX
+// Kankalite2 (attaque A.) perso72
+L30D02
+ T'es perdu? Viens voir papa! XXX
+// Arkhan2 G (parle dans casque)perso2
+L30D16
+ Cet attirail est trop lourd, faut que j'l'enlève! XXX
+// Arkhan3 G (parle dans casque)perso3
+L30D17
+ C'est trop lourd, faut que j'enlève ça. XXX
+// Arkhan2 G (parle dans son casque)perso2
+L31D83A
+ Je ne peux pas descendre. XXX
+// Arkhan2 G perso2
+L31D83B
+ Y a plus d'air dans la bonbonne. XXX
+// Arkhan2 G perso2
+L31D83C
+ Faudrait que je trouve un moyen de la remplir... XXX
+// Arkhan3 G (parle dans son casque)perso3
+L31D84A
+ Je peux pas plonger... XXX
+// Arkhan3 G perso3
+L31D84B
+ Plus d'air dans la bonbonne. XXX
+// Arkhan3 G perso3
+L31D84C
+ Je dois trouver un moyen de la remplir... XXX
+// Arkhan2 L perso2
+L31D85A
+ Trop profond. XXX
+// Arkhan2 L perso2
+L31D85B
+ Si je saute comme ça, j'vais me noyer! XXX
+// Arkhan2 O perso2
+L31D86
+ Non! J'vais couler à pic! XXX
+// Arkhan3 L perso3
+L31D87
+ Non, c'est trop profond...  XXX
+// Arkhan3 O perso3
+L31D88
+ La noyade assurée! XXX
+// Arkhan2 L perso2
+L30D11
+ Tout doux, j'suis un ami! XXX
+// Arkhan2 O perso2
+L30D12
+ Laisse-moi passer ou je t'arrache la tête! XXX
+// Arkhan3 G perso3
+L30D13
+ Dégage ou crève! XXX
+// Arkhan2 G perso2
+L30D07
+ Rien... et l'eau est vraiment glacée. XXX
+// Arkhan3 G perso3
+L30D08
+ Rien... et c'est froid! XXX
+// Arkhan2 G perso2
+L30D09
+ C'est froid et gluant. XXX
+// Arkhan3 G perso3
+L30D10
+ Froid et gluant. XXX

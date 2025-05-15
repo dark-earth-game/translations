@@ -1,0 +1,70 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL09.TXT
+ // Guardian8 (surprised by Arkhan, ready to shoot him) perso48
+L09D31A
+ Do wszystkich diablow! XXX
+// Guardian8 perso48
+L09D31B
+ Nigdy mnie nie dostaniesz! XXX
+// Arkhan1 L perso1
+L09D04A
+ Ta maszyna produkuje amunicje do spluwaczek.  XXX
+// Arkhan1 L perso1
+L09D04B
+ Ale potrzebuje metalu, ktory moglbym przetopic. XXX
+// Arkhan2 L perso2
+L09D05
+ Musze znalezc metal do przetopienia, aby zrobic ta maszyna amunicje do spluwaczki. XXX
+// Arkhan3 L perso3
+L09D06
+ Potrzebuje metalu do przetopienia by zrobic amunicje.  XXX
+// Arkhan1 O perso1
+L09D01
+ Do pioruna, jak ta rzecz dziala! XXX
+// Arkhan2 O perso2
+L09D02
+  Nie mam zielonego pojecia jak to dziala! XXX
+// Arkhan3 O perso3
+L09D03
+  Wstretna maszyna! XXX
+//Arkhan1 L perso1
+L09D13
+ Stare, bezuzyteczne beczki. XXX
+//Arkhan2 L perso2
+L09D14
+ Nic poza pustymi beczkami. XXX
+//Arkhan3 L perso3
+L09D15
+ Beczki... puste XXX
+// Arkhan2 G perso2
+L04D44
+ To niewlasciwy klucz! XXX
+// Arkhan3 G perso3
+L04D45
+ Zly klucz! XXX
+//Arkhan1 G perso1
+L09D20
+ Pojemnik na wode jest pusty. XXX
+//Arkhan2 L perso2
+L09D22
+ Pojemnik na wode. Pusty. XXX
+//Arkhan3 L perso3
+L09D24
+ Pojemnik na wode. Pusty. XXX
+//Arkhan1 L perso1
+L09D25
+ Nie sadze, ze to dobra pora na siedzenie! XXX
+//Arkhan1 O perso1
+L09D26
+ Nie mam ochoty siedziec! XXX
+//Arkhan2 L perso2
+L09D27
+ Moze to nie jest dobra pora na siedzenie! XXX
+//Arkhan2 O perso2
+L09D28
+ Nie chce siadac! XXX
+//Arkhan3 L perso3
+L09D29
+ Nie usiade! XXX
+//Arkhan3 O perso3
+L09D30
+ Nie chce siedziec! XXX

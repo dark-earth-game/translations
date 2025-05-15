@@ -1,0 +1,52 @@
+Début du fichier F:\DEV\DKE\DATAS\DIALOGUE\DE\NWDIAL47.TXT
+ // Arkhan3 G perso3
+L24D11
+ Thanandare! XXX
+// Thanandar (ungeduldig) perso24
+L24D13
+ Tedy, co je s hrobkou? XXX
+// Arkhan2 L perso2
+L24D25
+ Víš ty, co se se mnou deje? Kdo jsi ty? XXX
+// Arkhan2 O perso2
+L24D26
+ Kdo ty jsi- nedelej krok blíze, nebo skoncíš jako tento bídný cerv vzadu! XXX
+// Thanandar (ruft durch die Tür hindurch) perso24
+L24D17
+ Všechno v porádku, Kommandantko Phedoria! Všechno v porádku! XXX
+// Thanandar perso24
+L24D27A
+ Bud v klidu, chci ti prece pomoci. XXX
+// Thanandar perso24
+L24D27B
+ Tato neverící tupá hlava, nevedela co on ciní. XXX
+// Arkhan2 O perso2
+L24D28
+ Tak rekni mi, kdo jsi ... a co se semnou deje! XXX
+// Thanandar perso24
+L24D29A
+ Jsem Thanandar, knez, jako tvùj otec, ale já jsem predevším lecitel. XXX
+// Thanandar perso24
+L24D29B
+ Já vím, který dábel te nicí, Arkhane, já znám ho dokonce velmi dobre. XXX
+// Arkhan2 L perso2
+L24D30
+ Nemáš nejaký prostredek, k memu vylecení? XXX
+// Arkhan2 O perso2
+L24D31
+ Tvrdíš, ze jsi lecitel. Pak nalezni prostredek k memu vylecení! XXX
+// Thanandar perso24
+L24D20
+ Dosti! Já chci ti prece pomoct! XXX
+// Arkhan2 L perso2
+L24D05
+ Je mi líto, Strázci ohne, ty mi zádnou jinou moznost nedáváš ... XXX
+// Arkhan2 O perso2
+L24D06
+ Ubohý blázne! Du hättest mich nicht provozieren sollen! XXX
+// Thanandar (wohlwollend) perso24
+L24D07A
+ Neuveritelný! Ty ziješ! XXX
+// Thanandar perso24
+L24D07B
+ Jak se cítíš? Vypadáš, jako kdybys to docela dobre prezil ... XXX

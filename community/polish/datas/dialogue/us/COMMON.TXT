@@ -1,0 +1,822 @@
+// DIALOGUES COMMON.TXT
+// Free Dial : LCOD96
+
+	// recup du dispache
+
+// Arkhan2 L perso2
+L25D79
+ Nie, kluczowi nadal czegos brakuje. XXX
+
+// Arkhan3 L perso3
+L25D82
+ Kluczowi czegos brakuje! XXX
+
+// Arkhan2 G (speaking inside helmet)perso2
+L31D83A
+ Nie moge zanurkowac. XXX
+
+// Arkhan2 G perso2
+L31D83B
+ W zbiorniku nie ma juz powietrza. XXX
+
+// Arkhan2 G perso2
+L31D83C
+ Musze znalezc sposob by to napelnic... XXX
+
+
+				// TRIES TO DRINK FROM AN EMPTY CONTAINER //
+
+// Arkhan1 G
+LCOD41
+Nie zostalo ani kropli! XXX
+
+// Arkhan2 G
+LCOD42
+Ani kropli! XXX
+
+// Arkhan3 G
+LCOD43
+Pusto! XXX
+
+
+				// DEEP-SEA DIVING SUIT (DOESN'T WANT TO PUT IT ON) //
+
+// Arkhan2 G
+LCOD666
+Nie zamierzam uzywac tego tutaj! XXX
+
+// Arkhan3 G
+LCOD667
+Nie tutaj! XXX
+
+				// DEEP-SEA DIVING SUIT (TAKING IT OFF WHEN OUT OF THE WATER) //
+
+// Arkhan2 G (takes a deep breath)
+LCOD668
+Ah, nareszcie moge oddychac! XXX
+
+// Arkhan3 G (takes a deep breath)
+LCOD669
+Powietrze! XXX
+
+
+				// DEEP-SEA DIVING SUIT (TRIES TO TAKE IT OFF UNDERWATER) //
+
+// Arkhan2 G 
+LCOD670
+Nie, nie moge tego zdjac pod woda... XXX
+
+// Arkhan3 G
+LCOD671
+Nie, nie pod woda. XXX
+
+
+				// DEEP-SEA DIVING SUIT (ARKHAN DOESN'T PUT ON HELMET) //
+
+// Arkhan2 G 
+LCOD672
+Nie, nie potrzebuje tego... nie bede mogl nic przez to zobaczyc. XXX
+
+// Arkhan3 G
+LCOD673
+Nie... Za ciezkie... Nic nie bede widzial... XXX
+
+
+				// DEEP-SEA DIVING SUIT (ARKHAN DOESN'T PUT ON BREASTPLATE //
+
+// Arkhan2 G 
+LCOD674
+Nie, za toporne... Spowolni mnie. XXX
+
+// Arkhan3 G
+LCOD675
+Nie... Zbyt toporne... XXX
+
+
+
+
+
+						// OBJECT 49 - DHORKAN-SORDOS PACT //
+// Arkhan2 G
+LCOD02A
+Ja Dhorkan, przysiegam na ogien, zelazo i krew, ze bede chronil Lupiezce Sordosa i jego ludzi Konkalitow.   XXX
+
+// Arkhan2 G
+LCOD02B
+Utrzymam lokacje kryjowki Konkalitow w tajemnicy i zrobie wszystko co w mojej mocy by przeszkodzic Gwardzistom Ognia w jej odnalezieniu. XXX
+
+// Arkhan2 G
+LCOD02C
+Konkalici beda mogli chodzic gdzie im sie spodoba i czynic cokolwiek zechca w Nizszym Miescie, pod warunkiem, ze nie przeleja krwi i nie wyjawia swej obecnosci Patrzacym w Slonce.  XXX
+
+// Arkhan2 G
+LCOD02D
+Ja Sordos, przysiegam na ogien, zelazo i krew, ze oddam swych ludzi do uslug komendanta Dhorkana. XXX
+
+// Arkhan2 G
+LCOD02E
+Konkalici winni sa posluszenstwo komendantowi Dhorkanowi i mnie, abysmy wspolnie mogli eliminowac tych, ktorzy szkodza jemu lub Stallite.  XXX
+
+// Arkhan2 G
+LCOD02F
+Nie przeleja niczyjej krwi poza krwia swoich wrogow, badz wrogow Stallite. XXX
+
+// Arkhan2 G (only says it once)
+LCOD02G
+Jest na tym pieczec komendanta! XXX
+
+// Arkhan2 G (only says it once)
+LCOD02H
+Ten szaleniec polaczyl sily z Konkalitami.  Zdradzil nas!  XXX
+
+
+// Arkhan3 G
+LCOD03A
+Ja Dhorkan, przysiegam na ogien, zelazo i krew, ze bede chronil Lupiezce Sordosa i jego ludzi Konkalitow.  XXX
+
+// Arkhan3 G
+LCOD03B
+Utrzymam lokacje kryjowki Konkalitow w tajemnicy i zrobie wszystko co w mojej mocy by przeszkodzic Gwardzistom Ognia w jej odnalezieniu. XXX
+
+// Arkhan3 G
+LCOD03C
+Konkalici beda mogli chodzic gdzie im sie spodoba i czynic cokolwiek zechca w Nizszym Miescie, pod warunkiem, ze nie przeleja krwi i nie wyjawia swej obecnosci Patrzacym w Slonce. XXX
+
+// Arkhan3 G
+LCOD03D
+Ja Sordos, przysiegam na ogien, zelazo i krew, ze oddam swych ludzi do uslug komendanta Dhorkana. XXX
+
+// Arkhan3 G
+LCOD03E
+Konkalici winni sa posluszenstwo komendantowi Dhorkanowi i mnie, abysmy wspolnie mogli eliminowac tych, ktorzy szkodza jemu lub Stallite.  XXX
+
+// Arkhan3 G
+LCOD03F
+Nie przeleja niczyjej krwi poza krwia swoich wrogow, badz wrogow Stallite. XXX
+
+// Arkhan3 G (only says it once)
+LCOD03G
+Ma pieczec komendanta! XXX
+
+// Arkhan3 G (only says it once)
+LCOD03H
+ Ten szaleniec nas zdradzil!  XXX
+
+
+						// OBJECT 50 - DIAGRAM OF FLAME-THROWER- //
+
+Arkhan2 G
+LCOD88
+To schemat broni, to chyba jakis duzy piorun.  XXX
+
+Arkhan3 G
+LCOD89
+Wyglada na schemat broni. XXX
+
+
+
+						// OBJECT 52 - LOCATION OF TOMB //
+
+// Use the first three lines depending on Arkhan's state (100A-100D or 101A-101D)
+// Next, Rylsadhar's voice continues (102A-102D)
+// Finally, Arkhan ends with a phrase reflecting his state (103 or 104)
+
+// Arkhan2 G (reading)
+LCOD100A
+"Badania nad umiejscowieniem wejscia do Krypty Snow Runka w Stallite Sparcie. Autorstwa Rylsadhara, Wtajemniczonego z Domu Thorgrad..." XXX
+
+// Arkhan2 G (to himself)
+LCOD100B
+O co chodzi w tym belkocie?  XXX
+
+// Arkhan2 G (reading)
+LCOD100C
+"Tajemnica umiejscowienia wejscia do Krypty Runka przepadla podczas Wielkiego Kataklizmu." XXX
+
+// Arkhan2 G (reading - his voice will be mixed with LCOD999, the same line read by Rylsadhar)
+LCOD100D
+Wszystko pograzylo sie w chaosie, wlaczajac w to sama ziemie. XXX
+
+// Arkhan3 G (reading)
+LCOD101A
+"Badania nad umiejscowieniem wejscia do Krypty Snow Runka w Stallite Sparcie. Autorstwa Rylsadhara, Wtajemniczonego z Domu Thorgrad..." XXX
+
+// Arkhan3 G (to himself)
+LCOD101B
+O chodzi w tym belkocie? XXX
+
+// Arkhan3 G (reading)
+LCOD101C
+"Tajemnica umiejscowienia wejscia do Krypty Runka przepadla podczas Wielkiego Kataklizmu." XXX
+
+// Arkhan3 G (reading - his voice will be mixed with L99D999, the same line read by Rylsadhar)
+LCOD101D
+Wszystko pograzylo sie w chaosie, wlaczajac w to sama ziemie.  XXX
+
+// Rylsadhar (mixed with Arkhan's voice in LCOD100D or LCOD101D)
+LCOD999
+Wszystko pograzylo sie w chaosie, wlaczajac w to sama ziemie.  XXX
+
+// Rylsadhar
+LCOD102A
+Mimo tego odkrylem manuskrypty Thelen Khron, pierwszego Wtajemniczonego i zalozyciela Sparty, ktory zorganizowal wzniesienie Stallite nad Krypta.  XXX
+
+// Rylsadhar
+LCOD102B
+Zgodnie z moimi wlasnymi badaniami i tym co rozszyfrowalem z jego sekretnych zapiskow, sadze, ze Krypta znajduje sie pod naszymi stopami, bezposrednio pod Sparta.  XXX
+
+// Rylsadhar
+LCOD102C
+Thelen Khron twierdzi, ze gdy Wtajemniczony wejdzie juz do Krypty, musi okazac lojalnosc wobec Runkas, recytujac rytualna mantre.  XXX
+
+// Rylsadhar
+LCOD102D
+Zgodnie z moim tlumaczeniem brzmi ona: Runkas... uh... Dzieci... Dzieci Slonca... przybyle ze... ze slonca... przybyle z gwiazd... by uratowac zagrozony swiat... zniszczony przez Shankrs." XXX
+
+
+// Rylsadhar
+LCOD102E
+Nie bylem jednak jeszcze w stanie odnalezc wejscia do Krypty. Boje sie, ze zostalo zablokowane podczas Kataklizmu w ten sposob odcinajac nas od Krypty Dzieci Slonca.  XXX
+
+// Rylsadhar
+LCOD102F
+Jesli tak sie stalo, bedziemy musieli poczekac na Dzien Przebudzenia by spojrzec na istoty swiatlosci, nad ktorymi czuwalismy od zarania dziejow.  XXX
+
+// Arkhan2 G (to himself)
+LCOD103
+To Krypta, o ktorej mowila Lory! XXX
+
+// Arkhan3 G (to himself)
+LCOD104
+Krypta, o ktorej mowila Lory!  XXX
+
+
+
+					// OBJECT 70 - BANDOR'S DIAGRAM - //
+
+// Arkhan2 G
+LCOD90
+Mapa Budowniczych z diagramem duzej wierzy. XXX
+
+// Arkhan3 G
+LCOD91
+Diagram Budowniczych z jakiegos rodzaju duza wieza. XXX
+
+
+					// OBJECT 81 - RYLSADHAR'S CODE //
+// Arkhan2 G
+LCOD23A
+Zobaczmy co tu jest napisane... XXX
+
+// Arkhan2 G
+LCOD23B
+"Jesli szukasz drogi do muzyki sfer." XXX
+
+// Arkhan2 G
+LCOD23C
+"Idz trzykrotnie na prawo, w strone Boskiego Slonca." XXX
+
+// Arkhan2 G
+LCOD23D
+"Potem dwukrotnie na lewo by uhonorowac jego emisariusza Ksiezyc." XXX
+
+// Arkhan2 G
+LCOD23E
+"Wreszcie idz ponownie raz na prawo by ominac mrok nocy."  XXX
+
+// Arkhan2 G
+LCOD23F
+"W ten sposob dojdziesz do sciezki prowadzacej do swietego miejsca wiecznego dnia."  XXX
+
+// Arkhan2 G
+LCOD23G
+ Hm, kiedy Patrzacy w Slonce zaczna sie wsciekac... XXX
+
+
+// Arkhan3 G
+LCOD24A
+Przyjrzyjmy sie... XXX
+
+// Arkhan3 G
+LCOD24B
+"Jesli szukasz drogi do muzyki sfer."  XXX
+
+// Arkhan3 G
+LCOD24C
+"Idz trzykrotnie na prawo, w strone Boskiego Slonca." XXX
+
+// Arkhan 3 G
+LCOD24D
+"Potem dwukrotnie na lewo by uhonorowac jego emisariusza Ksiezyc." XXX
+
+// Arkhan3 G
+LCOD24E
+"Wreszcie idz ponownie raz na prawo by ominac mrok nocy."  XXX
+
+// Arkhan3 G
+LCOD24F
+"W ten sposob dojdziesz do sciezki prowadzacej do swietego miejsca wiecznego dnia."  XXX
+
+// Arkhan3 G
+LCOD24G
+Nie pojmuje... XXX
+
+
+
+					// EXPLORING SURROUNDINGS //
+
+// Arkhan1 G (in front of a piece of furniture/chest which is empty)
+LCOD06
+Eee... Nie ma tu nic interesujacego. XXX
+
+// Arkhan1 G (in front of a piece of furniture/chest which is empty)
+LCOD06A
+Nie ma tu nic interesujacego. XXX 
+
+// Arkhan2 G (in front of a piece of furniture/chest which is empty)
+LCOD07
+Nic interesujacego. XXX
+
+// Arkhan2 G (in front of a piece of furniture/chest which is empty)
+LCOD07A
+Nic interesujacego. XXX 
+
+// Arkhan3 G (in front of a piece of furniture/chest which is empty)
+LCOD08
+Nic tu nie ma. XXX
+
+
+
+// Arkhan1 G (in front of a container with nothing in it)
+LCOD09
+Nic tu nie ma. XXX
+
+// Arkhan1 G (in front of a container with nothing in it)
+LCOD09A
+Nic tu nie ma. XXX 
+
+
+// Arkhan2 G (in front of a container with nothing in it)
+LCOD10
+W srodku nie ma nic pozytecznego. XXX
+
+// Arkhan2 G (in front of a container with nothing in it)
+LCOD10A
+W srodku nic nie ma. XXX 
+
+// Arkhan3 G (in front of a container with nothing in it)
+LCOD11
+W srodku pusto. XXX
+
+
+
+// Arkhan1 G (in front of a locked chest/door)
+LCOD12
+Zamkniete. XXX
+
+// Arkhan1 G (in front of a locked chest/door)
+LCOD12A
+Zamkniete. XXX 
+
+// Arkhan2 G (in front of a locked chest/door)
+LCOD13
+Zamkniete! XXX
+
+// Arkhan2 G (in front of a locked chest/door)
+LCOD13A
+Zamkniete! XXX
+
+// Arkhan3 G (in front of a locked chest/door)
+LCOD14
+Zamkniete! XXX
+
+// Arkhan1 G (still trying/annoyed in front of a locked chest/door)
+LCOD15
+To nic nie da, zamkniete! XXX
+
+// Arkhan2 G (still trying/annoyed in front of a locked chest/door)
+LCOD16
+A niech to, zamkniete! XXX
+
+// Arkhan3 G (still trying/annoyed in front of a locked chest/door)
+LCOD17
+(warczac) Zamkniete! XXX
+
+
+				// FINDS NOTHING (ON OBJECT) //
+
+// Arkhan1 G
+LCOD75
+Nie ma tu nic wartego zabrania. XXX
+
+// Arkhan1 G
+LCOD75A
+Nie ma tu nic wartego zabrania. XXX 
+
+// Arkhan2 G
+LCOD76
+Nic wartego zabrania. XXX
+
+// Arkhan2 G
+LCOD76A
+Nic wartego zabrania. XXX
+
+
+// Arkhan3 G
+LCOD77
+Nic uzytecznego. XXX
+
+
+				// NOTHING MORE TO TAKE//
+
+// Arkhan1 G
+LCOD78
+Nie ma juz nic co warto byloby zabrac. XXX
+
+// Arkhan1 G
+LCOD78A
+Nic godnego uwagi. XXX 
+
+// Arkhan2 G
+LCOD79
+Nic tu nie ma. XXX
+
+// Arkhan2 G
+LCOD79A
+Nic tu nie ma. XXX 
+
+// Arkhan3 G
+LCOD80
+Nic. XXX
+
+
+
+
+
+					// INTERACTION WITH CHARACTERS //
+
+
+
+
+					// THANKS (usually used in LIGHT) //
+
+// Arkhan2 G
+LCOD64
+Dziekuje ci. XXX
+
+
+// Arkhan3 G
+LCOD65
+Dziekuje. XXX
+
+
+					// SPEAKING DURING COMBAT LIGHT //
+
+// Arkhan2 L (trying to calm an adversary)
+LCOD20
+Hej, spokojnie! XXX
+
+// Arkhan2 L (trying to calm an adversary)
+LCOD20A
+Hej, spokojnie! XXX
+
+// Arkhan3 L (trying to calm an adversary)
+LCOD21
+Spo... spokojnie! XXX
+
+// Arkhan3 G (growls)
+LCOD22A
+(agresywny warkot) XXX
+
+// Arkhan3 G (growls)
+LCOD22B
+(warkot) XXX
+
+// Arkhan3 G (growls)
+LCOD22C
+(wsciekly warkot) XXX
+
+// Arkhan3 G (growls)
+LCOD22D
+Nie zmuszaj mnie bym zrobil ci krzywde! XXX
+
+
+
+
+					// SPEAKING DURING COMBAT DARK //
+
+// Arkhan2 O (insults his adversary)
+LCOD61
+Zalosne! Nikt nigdy nie nauczyl cie walczyc!? XXX
+
+// Arkhan2 O (insults his adversary)
+LCOD62
+Tylko tyle potrafisz? XXX
+
+// Arkhan3 O (insults his adversary)
+LCOD63
+Nie pozyjesz wystarczajaco dlugo by zobaczyc swiatlo! XXX
+
+
+
+					// INTERACTION WITH THE SET //
+
+
+// Arkhan1 G (in front of an OBJECT he doesn't want to use)
+LCOD25
+Nie mam czasu by bawic sie ta rzecza! XXX
+
+// Arkhan2 G (in front of an OBJECT he doesn't want to use)
+LCOD26
+Nie mam czasu do stracenia! XXX
+
+// Arkhan2 G (in front of an OBJECT he doesn't want to use)
+LCOD26A
+Nie mam czasu do stracenia! XXX
+
+// Arkhan3 G (in front of an OBJECT he doesn't want to use)
+LCOD27
+Nie ma na to czasu! XXX
+
+
+
+// Arkhan1 G (doesn't have time to sit, sleep, etc.)
+LCOD28
+Mysle, ze zmarnowalem juz wystarczajaco wiele czasu na odpoczynek! XXX
+
+// Arkhan2 G (doesn't have time to sit, sleep, etc.)
+LCOD29
+Nie, to nie pora na odpoczynek. XXX
+
+// Arkhan3 G (doesn't have time to sit, sleep, etc.)
+LCOD30
+Nie czas na odpoczynek! XXX
+
+
+
+// Arkhan1 G (can't complete an action)
+LCOD31
+Nie moge tego zrobic. XXX
+
+// Arkhan2 G (can't complete an action)
+LCOD32
+Nie moge tego zrobic. XXX
+
+// Arkhan3 G (can't complete an action)
+LCOD33
+Nie moge tego zrobic. XXX
+
+
+// Arkhan1 G (activates something that doesn't work)
+LCOD38
+Nie dziala. XXX
+
+// Arkhan2 G (activates something that doesn't work)
+LCOD39
+Nic sie nie dzieje... XXX
+
+// Arkhan3 G (activates something that doesn't work) 
+LCOD40
+Nie dziala. XXX
+
+
+
+							// CONTAMINATION //
+
+// Arkhan2 G (suddenly feels sick, has passing fits of the shakes)
+LCOD34
+Aah... Boze... Niedobrze mi... XXX
+
+// Arkhan2 G (will turn into Arkhan3 - suffering)
+LCOD35
+Huh... Aaaaah... O Boze... Co sie ze mna dzieje... Aaagh... zlo... Aaagh... spraw by przeszlo! XXX
+
+// Arkhan3 G (feels sick, will soon become a monster)
+LCOD36
+Aaah... zlo... przejmuje moje cialo... Musze sie spieszyc... szybko! XXX
+
+// Arkhan3 G (partly healed, turns back into Arkhan2)
+LCOD37
+Ah... Tak... zlo... zostalo stlumione... dobrze. XXX 
+
+
+
+				// ARKHAN TRANSFORMED (Ark2->Ark3) GOES TOWARDS DELIA OR KALHI //
+
+// Delia (horrified)
+LCOD44
+Czy to... Czy to ty?  Co sie z toba stalo? XXX
+
+// Kalhi (horrified)
+LCOD45
+Arkhan... Na Wielkiego Solaara, to sie pogarsza! XXX
+
+// Arkhan3 L
+LCOD46
+Zlo we mnie czyni wielkie szkody... Ale nie martw sie, wytrzymam! XXX
+
+// Arkhan3 O
+LCOD47
+Zamknij morde i chodz za mna! XXX
+
+
+
+				// ARKHAN BACK TO ARK2 GOES TOWARDS DELIA OR KALHI //
+
+// Delia (amazed)
+LCOD48
+To... Czy czujesz sie lepiej? XXX
+
+// Kalhi (worried)
+LCOD49
+Arkhan... Czy czujesz sie lepiej? XXX
+
+// Arkhan2 L
+LCOD50
+Tak, chodz, ruszajmy! XXX
+
+// Arkhan2 O (aggressive)
+LCOD51
+Tak myslisz?! Chodz, wynosmy sie stad! XXX
+
+
+				// PRAYING FOR SAFETY //
+
+// Arkhan1 G (short prayer)
+LCOD52
+Boskie Slonce, otul mnie swymi promieniami. XXX
+
+// Arkhan2 G (short prayer)
+LCOD53
+Boskie Slonce, poblogoslaw mnie twymi promieniami. XXX
+
+// Arkhan3 G (short prayer)
+LCOD54
+Boskie Slonce, blagam, pomoz mi. XXX
+
+
+				// ILLEGIBLE DOC //
+
+// Arkhan2 G (looking at a document)
+LCOD55
+Nieczytelne... XXX
+
+// Arkhan3 G (looking at a document)
+LCOD56
+Nie moge tego odczytac... XXX
+
+				// BROKEN OR USELESS OBJECT //
+
+// Arkhan2 G 
+LCOD59
+Bezuzyteczne... XXX
+
+// Arkhan3 G 
+LCOD60
+Zepsute... Nie dziala... XXX
+
+
+				// PICKS UP REPEATER PISTOL //
+					// ONLY THE FIRST TIME //
+
+// Arkhan2 G (stands still, holding pistol)
+LCOD57
+Dobra, kto nastepny? XXX
+
+// Arkhan3 G (stands still, holding pistol)
+LCOD58
+Tak... to mi sie przyda! XXX
+
+
+				// ARKHAN ALMOST FALLS//
+
+// Arkhan1 G (almost falls)
+LCOD66
+Whoa! XXX
+
+// Arkhan2 G (almost falls)
+LCOD67
+Oops! XXX
+
+// Arkhan3 G (almost falls)
+LCOD68
+Whew! XXX
+
+
+				// CAN'T MOVE FORWARD (blocked by grate, obstacle, etc.) //
+
+// Arkhan1 G
+LCOD69
+Nie moge dalej isc. XXX
+
+// Arkhan2 G
+LCOD70
+Moge isc tylko do tego miejsca. XXX
+
+// Arkhan3 G
+LCOD71
+Nie da sie dalej isc.  XXX
+
+
+				// HAILS SOMEONE //
+
+// Arkhan1 G
+LCOD72
+Hej ty! XXX
+
+// Arkhan2 G
+LCOD73
+Hej! XXX
+
+// Arkhan3 G
+LCOD74
+Hej ty! XXX
+
+
+				// SHOWS AN OBJECT //
+
+// Arkhan2 G (Discloses an Object)
+LCOD18
+Czy to ci cos mowi ? XXX
+
+// Arkhan2 G (Discloses an Object)
+LCOD18A
+Czy to ci cos mowi ? XXX
+
+// Arkhan3 G (discloses an object)
+LCOD19
+Czy wiesz co to jest? XXX
+
+
+				// SEARCHES SOMEONE //
+
+// Arkhan1 G
+LCOD81
+Nie ma niczego przy sobie. XXX
+
+
+// Arkhan2 L
+LCOD82
+Nic nie ma. XXX
+
+// Arkhan2 O
+LCOD83
+Jest goly! XXX
+
+// Arkhan3 L
+LCOD84
+Nic nie ma. XXX
+
+// Arkhan3 O
+LCOD85
+Ten kretyn jest goly! XXX
+
+
+		// WANTS TO THROW THE SODIUM PREPARATION INTO THE WATER //
+
+// Arkhan2 G
+LCOD86
+Nie, jesli wrzuce to tutaj, przepadnie! XXX
+
+// Arkhan3 G
+LCOD87
+Jesli to wrzuce, przepadnie!  XXX
+
+
+				// LAUGHTER //
+
+// Arkhan2 L
+LCOD92
+(radosny smiech) XXX
+
+// Arkhan3 L
+LCOD93
+(radosny smiech)  XXX
+
+// Arkhan2 O
+LCOD94
+(pogardliwy smiech) XXX
+
+// Arkhan3 O
+LCOD95
+(pogardliwy smiech) XXX
+
+
+			// IN FRONT OF LADDER, WALL, ROCKS, etc. //
+
+// Arkhan1 G
+LCOD96
+Nie. Nigdy nie bylem najlepszy we wspinaczce.  XXX
+
+// Arkhan2 L
+LCOD97
+Nie mam czasu by sie wspinac. XXX
+
+// Arkhan2 O
+LCOD98
+Nie wejde tam, mam zawroty glowy! XXX
+
+// Arkhan3 G
+LCOD99
+Nie. Mam zawroty glowy! XXX
+

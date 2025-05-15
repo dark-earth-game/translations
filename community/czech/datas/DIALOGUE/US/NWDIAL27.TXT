@@ -1,0 +1,265 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL27.TXT
+ // Arkhan2 G perso2
+L51D111
+ To znamená, ze nemohu dále. XXX
+// Arkhan3 G perso3
+L51D112
+ Hrozne horko! Dále já nemohu ... XXX
+// Konkalit4 perso74
+L27D01
+ Nyní jseš uvnitr, pse! XXX
+// Phedoria perso26
+L20D38
+ Ty sis podepsal rozsudek smrti, Arkhane! XXX
+// Arkhan2 L perso2
+L20D30
+ Proc nerekneš zde a nyní, co máš ríci? XXX
+// Arkhan2 O perso2
+L20D31
+ Rekni nyní a zde, co se stalo! XXX
+// Arkhan3 L perso3
+L20D32
+ Rekni hned, co se deje! XXX
+// Arkhan3 O perso3
+L20D33
+ Mluv! XXX
+// Lory perso15
+L20D34
+ My nesmíme zde dlouho zùstávat. Pojd. XXX
+// Arkhan2 G perso2
+L20D35
+ Ale... Velká knezko... XXX
+// Arkhan3 G perso3
+L20D36
+ Velká knezko... XXX
+// Lory perso15
+L20D37
+ Poslechni mne, pojd se mnou! XXX
+// Arkhan2 L perso2
+L20D39
+ Phedorie, co se zde deje? XXX
+// Arkhan2 O perso2
+L20D40
+ Co se zde stalo? XXX
+// Arkhan3 L perso3
+L20D41
+ Phedorie, vzsvetli mne, co se zde stalo! XXX
+// Arkhan3 O perso3
+L20D42
+ Vysvetli mne,co se zde deje! XXX
+// Phedoria perso26
+L20D43
+ Lory ti vysvetlí, co se deje! XXX
+// Arkhan2 G perso2
+L20D44
+ Ale ... Kommandantko ... XXX
+// Arkhan3 G perso3
+L20D45
+ Kommandantko ... XXX
+// Phedoria perso26
+L20D46
+ Pojd s námi! XXX
+// Arkhan2 G perso2
+L27D01A
+ To je vyobrazení boje, ktere museli zakladatele prestát, nez oni dosáhli Stallitu. XXX
+// Arkhan2 G perso2
+L27D01B
+ Já si myslel vzdyr, ze tyto nestvùry jsou legendou ... XXX
+// Arkhan2 G perso2
+L27D01C
+ Pote co se mi to prihodilo, jsem ale nyní jineho názoru! XXX
+// Arkhan3 G perso3
+L27D02A
+ Bitva zakladatelù, dríve nez Stallitu dosáhli. XXX
+// Arkhan3 G perso3
+L27D02B
+ Ptám se sebe, cím bych chtel být, clovekem nebo nestvùrou! XXX
+// Arkhan2 G perso2
+L27D03A
+ Stavba Stallitu. XXX
+// Arkhan2 G perso2
+L27D03B
+ Ríká se, ze první lide, kterí se pod svetlem narodili, konce výstavby se nedozily. XXX
+// Arkhan3 G perso3
+L27D04A
+ Stavba Stallitu. XXX
+// Arkhan3 G perso3
+L27D04B
+ Stovky muzù svùj zivot proto polozilo. XXX
+// Arkhan2 G perso2
+L27D05A
+ Stallit, kdyz byl hotov. XXX
+// Arkhan2 G perso2
+L27D05B
+ Neubehne den, aby obyvatele Slunecního Boha neprosili, dále svítit. XXX
+// Arkhan2 G perso3
+L27D05C
+ Tentokrát prosby nestacili! XXX
+// Arkhan3 G perso3
+L27D06A
+ Stallit. XXX
+// Arkhan3 G perso3
+L27D06B
+ Vysílání svetla od Boha. XXX
+// Arkhan3 G perso3
+L27D06C
+ Ano, do dnes! XXX
+// Arkhan2 G perso2
+L27D07A
+ To je predstava Slunecního kalichu, který na špici chrámu trùní. XXX
+// Arkhan2 G perso2
+L27D07B
+ On posílá paprsky Slunecního Boha dále do ríše Temne Zeme, to je hrdostí knezù. XXX
+// Arkhan3 G perso3
+L27D08A
+ To je velký Slunecní kalich, na špici chrámu. XXX
+// Arkhan3 G perso3
+L27D08B
+ On posílá paprsky Slunecního Boha dále do ríše Temne Zeme. XXX
+// Arkhan2 G perso2
+L27D09A
+ Nevím co je to. XXX
+// Arkhan2 G perso2
+L27D09B
+ Snad socha, nejakýho predmetu od predkù ... XXX
+// Arkhan3 G perso3
+L27D10
+ Co je to, nevím ... XXX
+// Arkhan2 G perso2
+L27D11
+ To je obrovská kamenná socha v jeskyni! XXX
+// Arkhan3 G perso3
+L27D12
+ To je socha v jeskyni! XXX
+// Arkhan2 G perso2
+L27D13A
+ Smeták. XXX
+// Arkhan2 G perso2
+L27D13B
+ Ríká se, ze oni jsou líní a nic nedelající lidmi Stallitu. XXX
+// Arkhan2 G perso2
+L27D13C
+ Ze oni nic pro prezití nedelají, nez se prejídají, a veci od predkù prehrabávají v sutinách. XXX
+// Arkhan2 G (mit einem Lächeln) perso2
+L27D13D
+ Ale nekterí, kterí to ríkají, neznají ani Danryse a ani Kalhi ... XXX
+// Arkhan3 G perso3
+L27D14A
+ Smetáci. XXX
+// Arkhan3 G perso3
+L27D14B
+ Oni prebírají odpadky, opravují stare veci a mení - z toho oni zijou. XXX
+// Arkhan3 G perso3
+L27D14C
+ Oni nejsou ale všichni líní a špinaví. XXX
+// Arkhan3 G (mit einem Lächeln) perso3
+L27D14D
+ Stací se podívat na Kalhi a Danryse  ... XXX
+// Arkhan2 G perso2
+L27D15A
+ Zivitele. XXX
+// Arkhan2 G perso2
+L27D15B
+ Oni zijou se smetáky ve Spodním meste. XXX
+// Arkhan2 G perso2
+L27D15C
+ Oni rybarí, loví a pestují: Vyzivujou obyvatele Stallitu. XXX
+// Arkhan3 G perso3
+L27D16A
+ Zivitele. XXX
+// Arkhan3 G perso3
+L27D16B
+ Zijou jako smetáci ve Spodním meste. XXX
+// Arkhan3 G perso3
+L27D16C
+ Rybarí, loví a pestujou: Vyzivujou obyvatele Stallitu. XXX
+// Arkhan2 G perso2
+L27D23A
+ Zivitele. XXX
+// Arkhan2 G perso2
+L27D23B
+ Vystaveli Stallit pod vedením knezích. XXX
+// Arkhan2 G perso2
+L27D23C
+ Staveli všechny druhy budov, postavili take stroje a nabytek ... XXX
+// Arkhan3 G perso3
+L27D24A
+ Die Erbauer. XXX
+// Arkhan3 G perso3
+L27D24B
+ Vystaveli Stallit pro knezí. XXX
+// Arkhan3 G perso3
+L27D24C
+ Budovy, stroje, nábytek: Oni postavili prsta všechno. XXX
+// Arkhan2 G perso2
+L27D17A
+ Strázci ohne. XXX
+// Arkhan2 G perso2
+L27D17B
+ Oni nabízí obyvatelstvu ochranu, ohen a svetlo, v noci a ve dne. XXX
+// Arkhan2 O perso2
+L27D17C
+ Kbyby to tak bylo! XXX
+// Arkhan3 G perso3
+L27D18A
+ Strázci ohne. XXX
+// Arkhan3 G perso3
+L27D18B
+ Ochránci Stallitu a jeho obyvatelstva. XXX
+// Arkhan3 O perso3
+L27D18C
+ Lzive povídacky! XXX
+// Arkhan2 G perso2
+L27D19A
+ Knezí. XXX
+// Arkhan2 G perso2
+L27D19B
+ Vyvovelenci Boha Slunce, vykonavatele poslední vùle. XXX
+// Arkhan2 G perso2
+L27D19C
+ Oni nás vedou a chrání pred kacíri. XXX
+// Arkhan2 O perso2
+L27D19D
+ Pokud nejsou práve zamestnaný, diejenigen zu verfolgen, die ihnen helfen wollen! XXX
+// Arkhan3 G perso3
+L27D20A
+ Kníze. XXX
+// Arkhan3 G perso3
+L27D20B
+ Vyvolenci Boha slunce, naši duchovní vùdci. XXX
+// Arkhan3 O perso3
+L27D20C
+ Slepý ale napevno verící duchovní vùdci! XXX
+// Arkhan2 G perso2
+L27D21A
+ Poradní sbor. XXX
+// Arkhan2 G perso2
+L27D21B
+ Na tomto výtisku vypadá tento sál odsud. XXX
+// Arkhan2 G perso2
+L27D21C
+ Zde Lory a její poradci jejich rozhodnutí cinily. XXX
+// Arkhan3 G perso3
+L27D22A
+ Poradní místnost. Shromázdište. XXX
+// Arkhan3 G perso3
+L27D22B
+ V teto místnosti Lory a její poradci jejich rozhodnutí cinily. XXX
+// Arkhan2 G perso2
+L27D25A
+ Socha Thelena Khrona, zakladetele Stallitu. XXX
+// Arkhan2 O perso2
+L27D25B
+ Knezí zijí minulostí! XXX
+// Arkhan3 G perso3
+L27D26
+ Zakladatel Stallitu. XXX
+// Arkhan1 G perso1
+L27D27
+ Co chceš? XXX
+// Konkalit4 perso74
+L27D28
+ Zabít te! XXX
+// Konkalit4 perso74
+L27D29
+ Ty chcípneš! XXX

@@ -1,0 +1,544 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL28.TXT
+ // Archivist (fearful) perso5
+L28D100
+ Cnj c_amx? XXX
+// Arkhan2 G perso2
+L28D101
+ Vnj #lqZi. Hjhidna hai|? XXX
+// Arkhan3 G perso3
+L28D102
+ #lqZi! XXX
+// Archivist (reassured) perso5
+L28D103A
+ #, ynj nw, #lqZi. XXX
+// Archivist perso5
+L28D103B
+ Hj_je_d [gdba, [gdba! XXX
+// Arkhan2 L perso2
+L28D01
+ Fa iZ_j [j|nxm|, mnZldf! XXX
+// Archivist perso5
+L28D02
+ Eia? $j|nxm|? $j|nxm| fj^j, zijtZ? XXX
+// Arkhan2 L perso2
+L28D03A
+ Fo... hai|... XXX
+// Arkhan2 L perso2
+L28D03B
+ & mhwmga, hjban [wnx, | iZko^Zg ]Zm... XXX
+// Archivist perso5
+L28D04A
+ Fa [amkjfjem| iZ ynjn ms~n, hje ziwe _lo^. Fobij iasnj kjmnlZtiaa, snj[ dmko^Znx mnZlj^j JamaqZiZ. XXX
+// Archivist perso5
+L28D04B
+ X, ciZatx gd, hij^j mnlZiij^j kj]d_Zg, kjfZ mgobdg Zlqd]Zldomjh... XXX
+// Arkhan2 O perso2
+L28D05
+ Fa iZ_j [j|nxm|, mnZldfZi! XXX
+// Arkhan2 O perso2
+L28D06
+ Kw qjsatx ciZnx? Eai|, fjiasij! Ddtx cZ]d_| hai|, ]ma lZc[a^Zznm| m fldfjh! XXX
+// Arkhan3 L perso3
+L28D07
+ Fa iZ_j [j|nxm|! XXX
+// Arkhan3 L perso3
+L28D08
+ #, qh... X, y-y... ia]Zbij... ia]Zbij. XXX
+// Archivist perso5
+L28D09
+ AnZf, snj kld]agj na[| f Zlqd]Zldomo, zijtZ? EZgj fnj iZ]auZan mnZlj^j JamaqZiZ... XXX
+// Archivist perso5
+L28D11A
+ #?.. G, kjmandnagx... Ac]did hai|... ] hj~h ]jclZmna, ciZatx gd... XXX
+// Archivist	perso5
+L28D11B
+ X [wg ]amx ] lZ[jna d ia omgwtZg, fZf nw ]jt~g... XXX
+// Arkhan2 G perso2
+L28D84
+ Gnflw]Zanm|! XXX
+// Arkhan3 G perso3
+L28D120
+ Gnflw]Zanm|! XXX
+// Archivist perso5
+L28D22A
+ Hljmnd, hje ziwe _lo^, | iahij^j no^j]Zn iZ oqj. X ia ]kjgia kjidhZz na[|. XXX
+// Archivist perso5
+L28D22B
+ Kw ia hj^ [w kj^ljhsa? XXX
+// Arkhan2 L perso2
+L28D72A
+ +Z kla[o_an m nj[je J]an, Zlqd]Zldom. XXX
+// Arkhan2 L perso2
+L28D72B
+ X #lqZi, mwi klj]d_rZ IdgmZ_ZlZ. XXX
+// Archivist perso5
+L28D73A
+ Kw - mwi IdgmZ_ZlZ? XXX
+// Archivist perso5
+L28D73B
+ Hljmnd hai|, ij | mgak, fZf d ganosZ| hwtx. X kljmnj ia ociZg na[|. XXX
+// Archivist perso5
+L28D73C
+ A hdiogj hij^j, hij^j goi m n]ja^j kjmga_ia^j kldqj_Z. XXX
+// Archivist perso5
+L28D73D
+ Kw [wg mj]mah hZgaixfdh jcjlidfjh nj^_Z... Hld|nij ]d_anx, snj nw kj]cljmgag... XXX
+// Arkhan2 L perso2
+L28D74
+ V-y... +Z, hia njba... XXX
+// Arkhan2 O perso2
+L28D75
+ KZf nw - Zlqd]Zldom? Eai| cj]on #lqZi... XXX
+// Archivist perso5
+L28D76A
+ +j[lj kjbZgj]Znx ] Zlqd], #lqZi... XXX
+// Archivist perso5
+L28D76B
+ <mgd nw duatx kona]j_ij^j m]anZ ciZide, | kjmnZlZzmx kjhjsx na[a. XXX
+// Arkhan3 L perso3
+L28D77
+ X #lqZi. XXX
+// Arkhan2 L perso2
+L28D26
+ X duo dipjlhZrdz j[ j_ijh mfgaka... XXX
+// Archivist perso5
+L28D27A
+ G mfgaka... &jchjbij, na[a iobai $Zi_jl, iZt ^gZ]iwe mnljdnagx. XXX
+// Archivist perso5
+L28D27B
+ Gi fZf idfnj _lo^je ciZan mnZggZen m]alqo _jidco. XXX
+// Arkhan2 L perso2
+L28D28
+ *gZ]iwe mnljdnagx... A ^_a hia dmfZnx a^j? XXX
+// Archivist perso5
+L28D29A
+ &j +]jlra Jnljdnagae, snj l|_jh m &agdfdh qlZhjh. XXX
+// Archivist perso5
+L28D29B
+ Fj | ia ciZz, nZh gd ji maesZm. XXX
+// Archivist perso5
+L28D29C
+ Gi sZmnj mkomfZanm| ] Fdbide ^jlj_ jmhjnlanx mnljdnagxiwa kgjuZ_fd. XXX
+// Arkhan2 O perso2
+L28D30
+ Pnj nw ciZatx j mfgaka, lZmkjgjbaiijh ^_a-nj iakj_Zg~fo? XXX
+// Arkhan2 O perso2
+L28D31
+ &jn fZf? A ^_a hia iZend ynj^j "$Zi_jlZ"? XXX
+// Arkhan3 L perso3
+L28D32
+ #lqd]Zldom, | _jgbai iZend nZeiwe mfgak! XXX
+// Arkhan3 L perso3
+L28D33
+ *_a ji? XXX
+// Arkhan2 L perso2
+L28D34
+ #lqd]Zldom, ]w ho_lw. &w ia ciZana, snj cZ mnlZiiZ| [jgacix kjlZcdgZ hai|? XXX
+// Archivist perso5
+L28D35A
+ P~liwe ia_o^. +Z, | mgwqZg j i~h. XXX
+// Archivist perso5
+L28D35B
+ X klj]d_ar, ij ia ragdnagx, fZf KZiZi_Zl, ij | ciZz, snj ynj obZmija cZ[jga]Zida. XXX
+// Archivist perso5
+L28D35C
+ KZf fnj, ^j]jldtx, cZ[jgag? XXX
+// Arkhan2 L perso2
+L28D36A
+ Vh... G_di hje _lo^. XXX
+// Arkhan2 L perso2
+L28D36B
+ &w ia ciZana, amnx gd mla_mn]j? XXX
+// Archivist perso5
+L28D37A
+ L]w, ian. Oagdnagd dmfZgd gafZlmn]j mnjgand|. XXX
+// Archivist perso5
+L28D37B
+ Fj idfjho au~ ia o_Z]Zgjmx dcgasdnx P~liwe ia_o^. XXX
+// Arkhan2 L perso2
+L28D38
+ X iZe_o gafZlmn]j! XXX
+// Arkhan2 O perso2
+L28D39
+ X _jgbai iZend gafZlmn]j jn ynje n~hije [jgacid, cZ]gZ_a]tae hije! XXX
+// Arkhan2 O perso2
+L28D40
+ X, | [jgai, ^goqje nw mnZlwe kaix! Ka[a _jgbij [wnx dc]amnij mla_mn]j! XXX
+// Arkhan2 O perso2
+L28D41
+ JkZmd[j, nZf kjhj^ hia! XXX
+// Arkhan3 L perso3
+L28D42
+ X duo gafZlmn]j jn ynje [jgacid! XXX
+// Arkhan3 L perso3
+L28D43
+ Ka[a dc]amnij mla_mn]j? XXX
+// Arkhan3 L perso3
+L28D44
+ Hljfg|nxa! XXX
+// Arkhan2 L perso2
+L28D45
+ Ejban, ]Zh dc]amnij au~ snj-nj... snj hjban kjhjsx hia? XXX
+// Archivist perso5
+L28D46
+ Hljmnd, hje ziwe _lo^, | ia ciZz, snj au~ _j[Z]dnx... XXX
+// Arkhan2 O perso2
+L28D47
+ Kwm|sZ salnae! Njnx [w kjkwnZgm| kjhjsx hia! XXX
+// Archivist perso5
+L28D48A
+ Kw hjgj_je d ^jl|sde. Lmkjfjem|, ynj na[a mj]mah ia kj]la_dn. XXX
+// Archivist perso5
+L28D48B
+ X [w kjhj^, amgd [ hj^, kj]alx hia. XXX
+// Archivist perso5
+L28D48C
+ <mgd qjsatx, | kjduo ] m]jdq Zlqd]Zq okjhdiZid| j P~lijh ia_o^a. XXX
+// Archivist perso5
+L28D48D
+ Hldqj_d kjcba, | lZmmfZbo na[a, snj | mhj^ ]wdmfZnx. XXX
+// Arkhan2 O perso2
+L28D49
+ Nh... DZ_w! XXX
+// Arkhan2 O perso2
+L28D62
+ Kw njsij [jgxta idsa^j ia iZt~g? XXX
+// Archivist perso5
+L28D61
+ Fan, hje ziwe _lo^. Vnj ]m~. Hljmnd ob. XXX
+// Arkhan2 G perso2
+L28D52
+ Fo snj, Zlqd]Zldom, ]w iZtgd snj-id[o_x au~ j[ ynje cZlZca dc ElZfZ? XXX
+// Archivist perso5
+L28D53A
+ Pnj b, fZf nw qjljtj ciZatx... XXX
+// Archivist perso5
+L28D53B
+ FZtd Zlqd]w ia hj^on qlZidnx ]maq ciZide, iZfjkgaiiwq sagj]asamn]jh kj_ m]anjh $j^Z JjgirZ. XXX
+// Archivist perso5
+L28D53C
+ G_iZfj | jnwmfZg fja-fZfda cZkdmd j[ ynje [jgacid. XXX
+// Archivist perso5
+L28D53D
+ Fd mgj]Z j gafZlmn]a, ij ]wlZbaida "CZhaix m]anZ" ]mkgw]Zgj sZmnj. XXX
+// Arkhan2 G perso2
+L28D54
+ Pnj ynj cZ fZhaix nZfje? XXX
+// Archivist perso5
+L28D55A
+ Vnj^j | ia ciZz, ij j_di dc Z]njlj] iZkdmZg nZf: XXX
+// Archivist perso5
+L28D55B
+ "<mgd cZlZb~iij^j [ac kljha_gaid| mjkldfjmionx m CZhiah m]anZ, [jgacix hjban [wnx dcgasaiZ." XXX
+// Archivist perso5
+L28D55C
+ "Fj amgd m gasaidah cZn|ionx, amgd cgj komndn fjlid salamsol ^go[jfj, nj baln]Z ohl~n... dgd qoba." XXX
+// Archivist perso5
+L28D55D
+ Vnj ]m~, snj | iZt~g. XXX
+// Arkhan2 G perso2
+L28D56A
+ Vnj gosta, sah idsa^j. XXX
+// Arkhan2 L perso2
+L28D56B
+ JkZmd[j cZ kjhjux, JamaqZi. XXX
+// Arkhan3 L perso3
+L28D50
+ #lqd]Zldom, ynj jsaix mljsij, hia iobij gafZlmn]j! XXX
+// Archivist perso5
+L28D51A
+ &m~ kgjqj, ciZsdn... +Z, _Z, fjiasij, kjidhZz... XXX
+// Archivist perso5
+L28D51B
+ HjmgotZe, | kjduo ] Zlqd]Zq m]a_aid| j[ ynje [jgacid. XXX
+// Arkhan3 L perso3
+L28D63
+ Fdsa^j ia mfZbatx? XXX
+// Arkhan3 L perso3
+L28D57
+ <mnx snj-id[o_x j[ ynje cZlZca dc ElZfZ? XXX
+// Arkhan3 L perso3
+L28D58
+ Pnj-id[o_x au~? XXX
+// Arkhan3 L perso3
+L28D59
+ Fan, ia |! Fdfj^_Z! XXX
+// Arkhan2 L perso2
+L28D12
+ X _jgbai [wg ]mnlandnxm| m jnrjh, IdgmZ_Zljh. &w a^j ]d_agd? XXX
+// Archivist perso5
+L28D13A
+ #, n]je jnar - qjljtde sagj]af. Gi sZmnj fj hia kldqj_dn. XXX
+// Archivist perso5
+L28D13B
+ Gi o]gas~i cZ^Z_fZhd $wgj^j. Hlj]j_dn malx~ciwa dmmga_j]Zid|. Gi jsaix hij^j ciZan. XXX
+// Archivist perso5
+L28D13C
+ Fa nj snj klj]d_ar $lj^oygx. +Zba bZgx a^j fljtasiwe hjc^... snj, fZf ^jljtdiZ, [x~nm| j mnaifd ] a^j komnje ^jgj]a!.. >iZatx, fj^_Z-id[o_x ji... XXX
+// Arkhan2 L perso2
+L28D14
+ DZ_ij, gZ_ij, | ogj]dg. KZf ]w ]d_agd hja^j jnrZ dgd ian? XXX
+// Archivist perso5
+L28D15A
+ #? K]ja^j jnrZ? V... +Z ian, | ia ]d_ag a^j m mZhj^j ]jmqj_Z $j^Z JjgirZ. XXX
+// Archivist perso5
+L28D15B
+ &jchjbij, ji hjgdnm| ] fjhiZna IZqZgZ? KZfja ]a_x hjban [wnx?.. XXX
+// Arkhan2 O perso2
+L28D16
+ X duo IdgmZ_ZlZ. &d_ag a^j? XXX
+// Archivist perso5
+L28D17A
+ IdgmZ_ZlZ? Fan, hje ziwe _lo^, c_amx njgxfj | d hjd m]dnfd. XXX
+// Archivist perso5
+L28D17B
+ Fj | hj^ [w kjhjsx na[a kljmhjnlanx cZkdmd iZtdq kla_fj], kjc_ida kdmZid| dgd m]|uaiiwa hZiomfldknw... XXX
+// Arkhan2 O perso2
+L28D18
+ N]Zndn! Eia iZ ynj ]m~ iZkga]Znx! X qjso ]d_anx hja^j jnrZ, IdgmZ_ZlZ! XXX
+// Arkhan3 L perso3
+L28D19
+ Kw ]d_ag IdgmZ_ZlZ? XXX
+// Arkhan3 L perso3
+L28D20
+ Fan. X b_o IdgmZ_ZlZ! XXX
+// Archivist perso5
+L28D21A
+ JjbZgaz, ij a^j c_amx ian. XXX
+// Archivist perso5
+L28D21B
+ Ejban, ji hjgdnm| ] fjhiZna IZqZgZ... XXX
+// Arkhan2 L perso2
+L28D23A
+ JamaqZi, ]w o]alaiw, snj IdgmZ_Zl ia kldqj_dg? XXX
+// Arkhan2 L perso2
+L28D23B
+ Gi _jgbai [wg b_Znx hai| non. XXX
+// Archivist perso5
+L28D24A
+ X o]alai! Ejd ^gZcZ oba ia nZf jmnlw, ij o]al|z na[|, mwi IdgmZ_ZlZ, idfnj mz_Z ia cZqj_dg... XXX
+// Archivist perso5
+L28D24B
+ Cljha na[|, fjiasij, snj oba mj[wnda mZhj kj ma[a! XXX
+// Arkhan2 O perso2
+L28D25
+ Hj_ohZe, mnZldf! Kw o]alai, snj IdgmZ_Zl c_amx ia kj|]g|gm|? XXX
+// Arkhan2 G perso2
+L28D64
+ &w ciZana, snj ynj nZfja? XXX
+// Archivist perso5
+L28D65A
+ Vnj nj, snj IdgmZ_Zl iZcw]Zg "fgzsjh f hocwfa mpal". XXX
+// Archivist perso5
+L28D65B
+ Njn| | idfj^_Z ia mgwtZg kj_j[ije hocwfd ] qlZha. XXX
+// Archivist perso5
+L28D65C
+ HldciZnxm|, ]agdfda nlo[w qlZi|n hjgsZida oba _jg^ja ]lah|. XXX
+// Archivist perso5
+L28D65D
+ Hlab_a [wgj hij^j hocwfZgxiwq fgzsae nZfj^j lj_Z. XXX
+// Archivist perso5
+L28D65E
+ Fj jmnZgxiwa kljkZgd ] m]j~ ]lah|. LflZ_aiw, fja-fnj ^j]jldn... XXX
+// Archivist perso5
+L28D65F
+ GmnZgm| njgxfj fgzs IdgmZ_ZlZ, d ji _j]aldg hia qlZidnx a^j. XXX
+// Arkhan3 G perso3
+L28D66
+ Pnj ynj? XXX
+// Arkhan2 G perso2
+L28D217
+ &Zh ]mnlasZgm| ynjn _jfohain? XXX
+// Archivist perso5
+L28D218A
+ Nh... ldmoifd... mndqjn]jlaida... XXX
+// Archivist perso5
+L28D218B
+ VnZ kjsalf |]ij IdgmZ_ZlZ. XXX
+// Archivist perso5
+L28D218C
+ X [w ociZg a^j ^_a o^j_ij. XXX
+// Arkhan2 G perso2
+L28D113
+ Pnj ynj cZ _dmf? XXX
+// Archivist perso5
+L28D114A
+ Acohdnagxiwe, ia klZ]_Z gd? XXX
+// Archivist perso5
+L28D114B
+ Vnj ZlnapZfn dc $wgj^j, dc nje mgZ]ije ykjqd, fj^_Z iZt hdl fokZgm| ] gosdmnjh m]ana. XXX
+// Archivist perso5
+L28D114C
+ &jcxhd a^j. FZ_azmx, ji kldiam~n na[a o_Zso. XXX
+// Arkhan2 G perso2
+L28D67
+ Pnj ]w j i~h hjbana kj]a_Znx? XXX
+// Archivist perso5
+L28D68
+ Pnj? Nh... +Zba ia ciZz... Eia jsaix bZgx... XXX
+// Arkhan2 L perso2
+L28D104
+ Pnj kljdmqj_dn?! XXX
+// Archivist perso5
+L28D105A
+ X j[amkjfjai, mwi IdgmZ_ZlZ. XXX
+// Archivist perso5
+L28D105B
+ X mgwtZg fldfd d obZmiwa c]ofd cZ _]alxz. XXX
+// Archivist perso5
+L28D105C
+ A snj-nj... snj-nj j^ljhija, _Z, kljtgj hdhj hjae _]ald. XXX
+// Archivist perso5
+L28D105D
+ X mnZl, d mgoq kj_]j_dn hai|, ij | o]alai, snj iasnj mnlZtija mgosdgjmx. XXX
+// Arkhan2 L perso2
+L28D107A
+ Fa ]jgioenamx, | kjcZ[jsomx j[ ynjh. XXX
+// Arkhan2 L perso2
+L28D107B
+ Fo, Z ]w mkl|sxnamx-fZ c_amx, nZf [acjkZmiae. XXX
+// Arkhan2 O perso2
+L28D110
+ Pnj ynj nw mZh ia m]je? XXX
+// Arkhan2 O perso2
+L28D111
+ Fo-io, mkjfjeij! X kjcZ[jsomx j[ ynjh! XXX
+// Arkhan2 L perso2
+L28D108
+ IZmmfZbdna, snj ]w mgwtZgd. XXX
+// Arkhan2 O perso2
+L28D112
+ Vnj ]m~? XXX
+// Archivist perso5
+L28D109A
+ Cldfd. =aimfda fldfd. XXX
+// Archivist perso5
+L28D109B
+ A fZfje-nj ^jgjm... Fasagj]asamfde... cgj[iwe. XXX
+// Archivist perso5
+L28D109C
+ # cZnah - idsa^j. KdtdiZ. XXX
+// Arkhan3 G perso2
+L28D115
+ Pnj ynj m nj[je? XXX
+// Arkhan3 G perso2
+L28D107
+ $o_x c_amx. X kje_o klj]alz. XXX
+// Arkhan3 G perso2
+L28D116A
+ Pnj nw mgwtZg? XXX
+// Arkhan3 O perso2
+L28D116B
+ *j]jld! XXX
+// Arkhan2 G perso2
+L28D118A
+ JamaqZi, iZtd ]lZ^d oba c_amx. XXX
+// Arkhan2 G perso2
+L28D118B
+ &agdfZ| Hlj]d_drZ Djld o[dnZ! XXX
+// Archivist perso5
+L28D119A
+ Djld, haln]Z? XXX
+// Archivist perso5
+L28D119B
+ &agdfde JjgZZl, mjqlZid iZm! XXX
+// Arkhan2 G perso2
+L28D121
+ GmnZixnamx c_amx, mkl|sxnamx, d id c]ofZ. XXX
+// Archivist perso5
+L28D122
+ Njljtj. $o_x jmnjljbai, hje ziwe _lo^! XXX
+// Arkhan3 G perso3
+L28D123A
+ FZtd ]lZ^d oba c_amx. XXX
+// Arkhan3 G perso3
+L28D123B
+ Djld haln]Z! XXX
+// Arkhan3 G perso3
+L28D124
+ $o_x c_amx. Jkl|sxm|! XXX
+// Arkhan2 G perso2
+L28D71A
+ "Amnjld| mnZggZenZ". #]njl: klj]d_ar *Z[fZ. XXX
+// Arkhan2 G perso2
+L28D71B
+ Lmnljemn]j iZta^j mnZggZenZ, JkZlnw, ]jmqj_dn fj ]lahaiZh KagaiZ NljiZ. XXX
+// Arkhan2 G perso2
+L28D71C
+ Gij mgjbdgjmx kjmga nj^j, fZf [wgd kjmnljaiw qlZh $j^Z JjgirZ d *gZ]iZ| kgjuZ_x. XXX
+// Arkhan2 G perso2
+L28D71D
+ Hlj]d_rw - d na, fj^j kld]~g m]an ho_ljmnd, d ^gZtZnZd $j^Z JjgirZ - kldidhZgd ] m]je ij]we ^jlj_ ]maq klZ]a_idfj], dmfZ]tdq kld[abduZ. XXX
+// Arkhan2 G perso2
+L28D71E
+ JnlZbd j^i|, ]aliwa mgo^d $j^Z JjgirZ, kjhj^Zgd klj]d_rZh kldzndnx, lZchamndnx d cZudndnx ]ij]x kld[w]tdq. XXX
+// Arkhan2 G perso2
+L28D71F
+ Hjmnljefd, jn ]agdsZetdq _j mZhwq mfljhiwq, [wgd ]jc]a_aiw mnljdnag|hd. A ciZhaidnwe KolqZi mkgZidlj]Zg mZhwa ]agdfjgakiwa hamnZ ] JkZlna. XXX
+// Arkhan2 G perso2
+L28D71G
+ &ma ohagwa ] cahga_agdd d jqjna j[va_didgdmx ] fZmno _j[wnsdfj]. XXX
+// Arkhan2 G perso2
+L28D71H
+ # hijbamn]j homjludfj] - mnZl d hgZ_, baiudiw d hobsdiw, kjhj^gd m_agZnx JkZlno jmnlj]fjh hdlZ d m]anZ ] jfaZia ElZfZ... XXX
+// Arkhan2 G perso2
+L28D71I
+ Nh-h... Kakalx ]m~ ia nZf sonx-sonx, klZ]_Z?! XXX
+// Arkhan3 G perso3
+L28D171A
+ "Amnjld| mnZggZenZ". #]njl: klj]d_ar *Z[fZ. XXX
+// Arkhan3 G perso3
+L28D171B
+ Lmnljemn]j iZta^j mnZggZenZ, JkZlnw, ]jmqj_dn fj ]lahaiZh KagaiZ NljiZ. XXX
+// Arkhan3 G perso3
+L28D171C
+ Gij mgjbdgjmx kjmga nj^j, fZf [wgd kjmnljaiw qlZh $j^Z JjgirZ d *gZ]iZ| kgjuZ_x. XXX
+// Arkhan3 G perso3
+L28D171D
+ Hlj]d_rw - d na, fj^j kld]~g m]an ho_ljmnd, d ^gZtZnZd $j^Z JjgirZ - kldidhZgd ] m]je ij]we ^jlj_ ]maq klZ]a_idfj], dmfZ]tdq kld[abduZ. XXX
+// Arkhan3 G perso3
+L28D171E
+ JnlZbd j^i|, ]aliwa mgo^d $j^Z JjgirZ, kjhj^Zgd klj]d_rZh kldzndnx, lZchamndnx d cZudndnx ]ij]x kld[w]tdq. XXX
+// Arkhan3 G perso3
+L28D171F
+ Hjmnljefd, jn ]agdsZetdq _j mZhwq mfljhiwq, [wgd ]jc]a_aiw mnljdnag|hd. A ciZhaidnwe KolqZi mkgZidlj]Zg mZhwa ]agdfjgakiwa hamnZ ] JkZlna. XXX
+// Arkhan3 G perso3
+L28D171G
+ &ma ohagwa ] cahga_agdd d jqjna j[va_didgdmx ] fZmno _j[wnsdfj]. XXX
+// Arkhan3 G perso3
+L28D171H
+ # hijbamn]j homjludfj] - mnZl d hgZ_, baiudiw d hobsdiw, kjhj^gd m_agZnx JkZlno jmnlj]fjh hdlZ d m]anZ ] jfaZia ElZfZ... XXX
+// Arkhan3 G perso3
+L28D171I
+ Lb ]m~ ia nZf! XXX
+// Arkhan2 L perso2
+L28D82
+ >_amx amnx haqZidch, ij | ia hj^o a^j ]fgzsdnx. XXX
+// Arkhan2 O perso2
+L28D83
+ JnZlwe qgZh! XXX
+// Arkhan3 G perso3
+L28D97
+ Pnj ynj cZ haqZidch? XXX
+// Arkhan3 G perso3
+L28D99
+ >_amx idsa^j [jgxta ian! XXX
+// Arkhan2 L perso2
+L28D88
+ >_amx snj-nj amnx. XXX
+// Arkhan2 O perso2
+L28D87
+ Pnj ynj cZ tnofj]diZ? XXX
+// Arkhan3 L perso3
+L28D90
+ Kon amnx fZfZ|-nj tnofj]diZ! XXX
+// Arkhan3 O perso3
+L28D92
+ Pnj ynj cZ tnofZ? XXX
+// Arkhan2 G perso2
+L28D69
+ Nh... FZkdmZij ialZc[jlsd]j... XXX
+// Arkhan3 G perso3
+L28D70
+ (]jlsdn) ...ialZc[jlsd]j... XXX

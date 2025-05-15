@@ -1,0 +1,15 @@
+00:04:14	00:05:18		{We meet again!}
+00:06:18	00:07:28		{Thanandar!}
+00:08:18	00:11:22		{Aaah, Arkhan!}
+00:11:24	00:14:00		{There's no use resisting!}
+00:15:04	00:17:06		{The beast is within you.}
+00:19:18	00:22:16		{Let it guide you!}
+00:22:28	00:24:10		{Never!}
+00:24:12	00:26:20		{I'll save Sparta!}
+00:27:22	00:30:22		{You have found the source of Light,}
+00:30:26	00:32:08		{Arkhan.}
+00:33:10	00:37:02		{And I will destroy it forever!}
+00:52:12	00:54:06		{Blood will flow to seal}
+00:54:08	00:57:20		{the coming of a new world.}
+01:10:00	01:12:26		{Darkness calls...}
+01:12:28	01:15:20		{And it doesn't like to be kept waiting!}

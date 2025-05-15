@@ -1,0 +1,201 @@
+123456789012
+
+@1
+Uniforme
+@2
+Anel. chiave
+@3
+Tessera met.
+@4
+Piatto
+@5
+Barra met.
+@6
+Munizioni L.
+@7
+Biglie
+@8
+Bollitore
+@9
+Impugnatura
+@10
+Tessera Pr.
+@11
+Chiave rossa
+@12
+Cristallo 2
+@13
+Legume
+@14
+Chiave Kank.
+@15
+Chiave Sord.
+@16
+Chiave Bogd.
+@17
+Martello
+@18
+Cristallo 1
+@19
+Cristallo 3
+@20
+Specchio
+@21
+Ampolla
+@22
+Flacone
+@23
+Folgore Pr.
+@24
+Borraccia p.
+@25
+Vestiti
+@26
+Ascia
+@27
+Lanciafuoco
+@28
+Coltello L.
+@29
+Albero
+@30
+Mannaia
+@31
+Pozione
+@32
+Pic. Folgore
+@33
+Plac. piombo
+@34
+Patata
+@35
+Folgore Zed
+@36
+Radice
+@37
+Alabarda
+@38
+Sciabola
+@39
+Mun. Pic. F.
+@40
+Oggetto Pr.
+@41
+Oggetto Pr.
+@42
+Bicchiere
+@43
+Pesce
+@44
+Carne
+@45
+Crist. rocca
+@46
+Note Rylsad.
+@47
+Ascia Kank.
+@48
+Albero rotto
+@49
+Doc. Sordos
+@50
+Schema arma
+@51
+Pala
+@52
+Disegni
+@53
+Estrattore
+@54
+Palla fuoco
+@55
+Sputapiombo
+@56
+Topo
+@57
+Arma Sordos
+@58
+Sciabola Zed
+@59
+Sciabola M.
+@60
+Pezzo
+@61
+Flagello
+@62
+Alabarda
+@63
+Daga
+@64
+Pollastro
+@65
+Bolo
+@66
+Folgore
+@67
+Ascia
+@68
+Folgore Zed
+@69
+Protezione
+@70
+Schema Bandor
+@71
+Combinazione
+@72
+Mun. folgore
+@73
+Mun. Zed
+@74
+Piccozza
+@75
+Chiave cris.
+@76
+Mazza
+@77
+Borraccia v.
+@78
+Arma Danrys
+@79
+Ascia
+@80
+Spada Dhork.
+@81
+Pergamena
+@82
+Libro
+@83
+Sciabola
+@84
+Casco
+@85
+Piastrone
+@86
+Bombola
+@87
+Pedina Yong
+@88
+Tubo
+@89
+Chiave Prig.
+@90
+Palla
+@91
+Pugnale
+@92
+Pugn. lungo
+@93
+Stiletto
+@94
+Pestello
+@95
+Mortaio
+@96
+Chiave gran.
+@97
+Tanica
+@98
+Pietra mola
+@99
+Barattolo
+@fin

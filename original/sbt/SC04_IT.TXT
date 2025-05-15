@@ -1,0 +1,28 @@
+00:04:18	00:05:28		{A... Arkhan amico mio...}
+00:06:16	00:08:16		{La morte... L'Oscuro...}
+00:08:20	00:11:06		{Tutti... Voi siete tutti in grande pericolo!}
+00:11:08	00:12:10		{Le tenebre...}
+00:12:12	00:16:00		{Vuole immergere lo Stallite nelle tenebre!}
+00:16:14	00:17:06		{Zed!}
+00:17:10	00:19:08		{Ascolta! È Thanandar...}
+00:19:12	00:20:26		{l'Oscuro è in lui!}
+00:20:28	00:22:12		{Ma lui è morto!}
+00:23:08	00:25:20		{No! Lui è vivo!}
+00:26:04	00:27:14		{Cosa?!}
+00:28:16	00:31:00		{Arkhan... Esiste un luogo segreto... una cripta...}
+00:31:02	00:33:12		{Essa contiene una... energia,}
+00:33:14	00:35:00		{un dono del Sole-Dio...}
+00:35:14	00:37:00		{È là che Thanandar va a colpire!}
+00:37:02	00:38:00		{Lui odia la luce...}
+00:38:02	00:39:10		{Lo indebolisce...}
+00:39:20	00:41:22		{Se distrugge il Cuore di luce,}
+00:41:24	00:43:16		{lo Stallite sarà alla sua mercé!}
+00:43:18	00:45:20		{Tu devi... fermarlo!}
+00:45:22	00:47:08		{Andate, va!}
+00:47:10	00:48:16		{Non senza di te!}
+00:48:18	00:50:20		{No... Nessuna possibilità...}
+00:50:22	00:52:24		{Tu solo puoi fermarlo!}
+00:53:16	00:54:08		{Trova il Cuore!}
+00:54:10	00:55:08		{Zed, aspetta!}
+00:56:02	00:57:10		{Io sarò con te...}
+00:58:08	00:59:08		{No! Tieni duro!}

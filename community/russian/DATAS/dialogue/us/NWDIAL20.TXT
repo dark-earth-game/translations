@@ -1,0 +1,439 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL20.TXT
+ // Zed84 perso84
+L20D01
+ #lqZi! Pnj kljdmqj_dn?! XXX
+// Arkhan1 G perso1
+L20D02
+ Gid o[d]Zzn &agdfoz Hlj]d_dro! +Z]Ze o[dlZnxm| jnmz_Z! XXX
+// Zed84 (furious) perso84
+L20D03
+ $abdtx kljsx?! Klomgd]Z| mj[ZfZ! XXX
+// Thanandar25 (throws A. to the ground)perso25
+L20D95
+ Kw _ohZg, snj mhjbatx oend? XXX
+// Guardian1 perso41
+L20D121
+ #! &jn d nw! >Zehd m]je kjmn... XXX
+// Zed84 (furious) perso84
+L20D04
+ #lqZi! XXX
+// Arkhan1 G (seeing Zed arrive furious) perso1
+L20D05
+ Fan, >a_, ynj ia... XXX
+// Zed84 (ready to kill Arkhan) perso84
+L20D06
+ Hla_Znagx! XXX
+// Guardian1 (grumbling) perso41
+L20D07A
+ Fa ciZz ob, ] s~h nZh _agj. XXX
+// Guardian1 (grumbling) perso41
+L20D07B
+ FZ_azmx, ynj ia iZ_jg^j... XXX
+// Guardian1 perso41
+L20D08A
+ Ve, #lqZi! XXX
+// Guardian1 perso41
+L20D08B
+ Iatdg, snj hjbatx [ac mZ[gd mnj|nx iZ kjmno? XXX
+// Guardian1 perso41
+L20D08C
+ Iatdg, snj hjbatx mnj|nx iZ kjmno m ynje bagacfje? XXX
+// Guardian1 perso41
+L20D09A
+ <mgd +jlfZi o]d_dn na[| [ac m]ja^j jlobd|, ji cZ_Zmn na[a bZlo! XXX
+// Guardian1 perso41
+L20D09B
+ *_a n]j| mZ[g| mnlZbZ j^i|?! <mgd +jlfZi o]d_dn, ji cZ_Zmn na[a bZlo! XXX
+// Guardian1 perso41
+L20D10A
+ A_d ba, #lqZi. Fa mnje mnjg[jh! XXX
+// Guardian1 perso41
+L20D10B
+ &j dh| $j^Z JjgirZ, ]jcxhd m]jz mZ[gz! XXX
+// Guardian1 (irritated) perso41
+L20D11A
+ #lqZi, nw iZklZtd]Zatxm| iZ iakld|nijmnd! XXX
+// Guardian1 perso41
+L20D11B
+ Kw ia hjbatx [ac mZ[gd mnj|nx iZ kjmno! XXX
+// Guardian1 perso41
+L20D12
+ KZh snj-nj ia nZf! XXX
+// Arkhan1 G perso1
+L20D13
+ FZ_j klj]aldnx! XXX
+// Guardian1 perso41
+L20D14
+ +Z kla[o_an m ]Zhd J]an, &agdfZ| klj]d_drZ! XXX
+// Phedoria perso26
+L20D38
+ Kw njgxfj snj j[l~f ma[| iZ mhalnx, #lqZi! XXX
+// Guardian9 perso49
+L20D96
+ Jnje! Cnj d_~n? XXX
+// Guardian10 perso50
+L20D97
+ #lqZi... okZmd &agdfde JjgZZl, ynj nw? XXX
+// Guardian9 perso49
+L20D99
+ Cnj d_~n? Gn]asZe! XXX
+// Guardian9 perso49
+L20D112
+ Jhalnx! XXX
+// Guardian11 perso51
+L20D120
+ Vnj n]Zlx! Hj_i|nx nla]j^o! XXX
+// Guardian1 perso41
+L20D28
+ Ve! Fa iZ_j mlw]Znx iZ hia cgj, _lobjf! XXX
+// Arkhan1 L perso1
+L20D15A
+ +Z kla[o_an m nj[je J]an, +ba_Zl. XXX
+// Guardian1 perso41
+L20D16A
+ P~ln, #lqZi! Kw fZf ]ma^_Z jkjc_w]Zatx! XXX
+// Guardian1 perso41
+L20D16B
+ X]dnxm| kjcba klj]d_drw! Jnw_dgm| [w! XXX
+// Arkhan1 L perso1
+L20D15B
+ Hljmnd. X [wg... y-y... cZi|n ] fZlZogfa! XXX
+// Guardian1 (frowning) perso41
+L20D16C
+ E-h-h... Fo _Z, fjiasij... XXX
+// Arkhan1 L perso1
+L20D17A
+ Cljha iZm _]jdq idfZfje jqlZiw? XXX
+// Arkhan1 L perso1
+L20D17B
+ +j]jgxij mgZ[Z| cZudnZ _g| &agdfje klj]d_drw d a~ mj]anZ. XXX
+// Guardian1 (shrugging his shoulders) perso41
+L20D18A
+ Fo _Z! Gmj[aiij, amgd j_di dc naq _]jdq ia |]g|anm|! XXX
+// Guardian1 perso41
+L20D18B
+ Vnj iaj[wsij. HjgZ^Zz, fjhai_Zino ia o_Zgjmx iZ[lZnx mnlZbae. XXX
+// Guardian1 (bitter) perso41
+L20D18C
+ Fj _g| nZfje lZ[jnw ]ma^_Z iZe_~nm| qjn| [w kZlZ _olZfj]! XXX
+// Guardian1 (mockingly) perso41
+L20D18D
+ FZ]alij... a^j cZmnZgd ]lZmkgjq... dgd ji nZf m_agZg iZljsij. XXX
+// Guardian1 (mockingly) perso41
+L20D18E
+ J n]jdhd ]asiwhd jkjc_Zid|hd iao_d]dnagxij, snj jqlZiw ia q]ZnZan! XXX
+// Arkhan1 L perso1
+L20D19
+ Hjqjba, o na[| ma^j_i| ia gostde _aix. XXX
+// Guardian1 perso41
+L20D20A
+ A_d cZehd-fZ m]je kjmn kj _lo^oz mnjljio _]ald. XXX
+// Guardian1 perso41
+L20D20B
+ FZh ia kjgjbaij [jgnZnx! XXX
+// Guardian1 (irritated) perso41
+L20D21
+ >Znfidmx d cZehd m]j~ hamnj, kji|g? XXX
+// Arkhan1 O perso1
+L20D22
+ Hld]an, +ba_Zl. HljqgZb_Zatxm|? XXX
+// Guardian1 perso41
+L20D23A
+ Ejgsd! XXX
+// Guardian1 perso41
+L20D23B
+ <mgd +jlfZi ociZan, snj nw ia |]dgm| _j kldqj_Z &agdfje klj]d_drw, nw hd^jh jnklZ]dtxm| ] nzlxho! XXX
+// Arkhan1 O perso1
+L20D24A
+ A sa^j hw mnjdh kala_ ynje _]alxz, fj]wl||mx ] ijmo? XXX
+// Arkhan1 O perso1
+L20D24B
+ Ejbatx jn]andnx hia? XXX
+// Arkhan1 O perso1
+L20D25
+ X mwn kj ^jlgj. FZ_j [wgj mnZnx klj]d_rah, fZf hje jnar! XXX
+// Guardian1 perso41
+L20D26A
+ Hlj]d_rah? Kw laqiogm|? XXX
+// Guardian1 (a little embarrassed) perso41
+L20D26B
+ V... ] mhwmga... klj]d_ar - ynj [jgxtja _agj! XXX
+// Guardian1 perso41
+L20D26C
+ X gdsij fZf ]ma. $gZ^j_Zlz $j^Z JjgirZ fZb_we _aix cZ m]an, snj ji iZh iam~n. XXX
+// Guardian1 perso41
+L20D26D
+ Fj ynj ia ciZsdn, snj | ^jnj] nlZndnx m]j~ ]lah| ] kjmnj|iiwq  hjgdn]Zq kala_ fldmnZggjh ] cZga IZqZgZ... XXX
+// Guardian1 perso41
+L20D26E
+ G, ian! Kjgxfj ia |! XXX
+// Arkhan1 O perso1
+L20D27
+ &jn cZio_Z! XXX
+// Guardian1 perso41
+L20D29
+ Qdcdf! XXX
+// Arkhan2 L perso2
+L20D30
+ Hjsaho [w ia latdnx ]m~ kl|hj maesZm? XXX
+// Arkhan2 O perso2
+L20D31
+ Hjfjisdh m yndh kl|hj maesZm! XXX
+// Arkhan3 L perso3
+L20D32
+ Hjfjisdh m yndh! XXX
+// Arkhan3 O perso3
+L20D33
+ *j]jld! XXX
+// Lory perso15
+L20D34
+ >_amx iagxc| jmnZ]Znxm|. A_~h. XXX
+// Arkhan2 G perso2
+L20D35
+ Fj... &agdfZ| Hlj]d_drZ... XXX
+// Arkhan3 G perso3
+L20D36
+ &agdfZ| Hlj]d_drZ... XXX
+// Lory perso15
+L20D37
+ HjgotZe hai|! Fo ba, d_~h! XXX
+// Arkhan2 L perso2
+L20D39
+ Ma_jld|, snj kljdmqj_dn? XXX
+// Arkhan2 O perso2
+L20D40
+ Ve... snj kljdmqj_dn? XXX
+// Arkhan3 L perso3
+L20D41
+ Ma_jld|, jn]anx hia! XXX
+// Arkhan3 O perso3
+L20D42
+ Gn]anx hia! XXX
+// Phedoria perso26
+L20D43
+ Djld j[v|midn! XXX
+// Arkhan2 G perso2
+L20D44
+ Fj... CZkdnZi... XXX
+// Arkhan3 G perso3
+L20D45
+ CZkdnZi... XXX
+// Phedoria perso26
+L20D46
+ Jga_oe cZ iZhd! XXX
+// Arkhan2 L perso2
+L20D100
+ +bZc_Z! Vnj |, #lqZi! Kw ia ociZ~tx hai|? XXX
+// Guardian9 perso49
+L20D101A
+ #lqZi... +Z, ynj b nw... XXX
+// Guardian9 perso49
+L20D101B
+ N]ZgZ $j^o JjgirZ, fZkdnZi Ma_jld| dc]amndgZ iZm. XXX
+// Guardian9 perso49
+L20D101C
+ Fj | ia _ohZg, snj ]m~ nZf kgjqj. XXX
+// Arkhan2 L perso2
+L20D102
+ Hljkomnd! Eai| Djld kjmgZgZ! XXX
+// Guardian9 perso49
+L20D103
+ >Zqj_d, hw jbd_Zgd na[|. XXX
+// Guardian9 perso49
+L20D105
+ & kZh|nx j[ #lqZia, mnlZba j^i|. XXX
+// Arkhan2 O (ill-tempered) perso2
+L20D106
+ Le_d m _jlj^d, dgd | lZclo[gz na[| kjkjgZh! XXX
+// Guardian9 (furious and frightened) perso49
+L20D107
+ Vnj hw au~ kjmhjnldh! XXX
+// Arkhan3 L perso3
+L20D108
+ Vnj |... #lqZi! XXX
+// Guardian9 (nervously) perso49
+L20D111
+ Njljtj, kljqj_d... XXX
+// Arkhan2 L perso2
+L20D113
+ Vnj |, #lqZi! XXX
+// Guardian10 perso50
+L20D114
+ Kw... nw [jgxta ia sagj]af! XXX
+// Guardian10 perso50
+L20D115A
+ >Zsah &agdfje klj]d_dra cZuduZnx na[|? Kw [jgxta ia j_di dc iZm! XXX
+// Guardian10 perso50
+L20D115B
+ +Z [o_x hj| ]jg|, | [w dc^iZg na[| ] >ahgd ElZfZ iZ]asij! XXX
+// Arkhan2 L perso2
+L20D116
+ Lmkjfjem|, _lo^, ynj |. XXX
+// Guardian10 (aggressively) perso50
+L20D117
+ L[dlZem| m hjdq ^gZc, kjfZ | ia kldfjisdg na[|! XXX
+// Guardian10 perso50
+L20D118
+ X so|g! Kw oba ia #lqZi nakalx! XXX
+// Guardian10 (nervously) perso50
+L20D109
+ Ew jbd_Zgd na[|... kljqj_d... XXX
+// Guardian10 perso50
+L20D119
+ Hljqj_d! Fa cZ_albd]Zem|! XXX
+// Arkhan2 G (wanted to leave, changes his mind)perso2
+L20D122A
+ Fan. &m~ kljdmqj_|uaa mgdtfjh malx~cij. XXX
+// Arkhan2 G (wanted to leave, changes his mind)perso2
+L20D122B
+ X _jgbai o]d_anx Djld! XXX
+// Arkhan3 G (wanted to leave, changes his mind)perso3
+L20D123
+ Fan, ]m~ mgdtfjh malx~cij. X _jgbai o]d_anx Djld! XXX
+// Arkhan1 L perso1
+L20D48
+ Kw klZ]... X ia hj^o ynj m_agZnx. XXX
+// Arkhan1 O perso1
+L20D50
+ Fo _Z, nw klZ]... XXX
+// Guardian1 perso41
+L20D47
+ Fan! Kw ia hjbatx kjnla]jbdnx Jj]an ]j ]lah| cZma_Zid|! XXX
+// Arkhan1 G perso1
+L20D51
+ KZh uagx. XXX
+// Arkhan2 G perso2
+L20D52
+ Ragx. XXX
+// Arkhan3 G perso3
+L20D53
+ Ragx. XXX
+// Arkhan1 G perso1
+L20D57
+ X iZuokZg ]ionld haqZidch. XXX
+// Arkhan2 G perso2
+L20D58
+ CZfje-nj haqZidch ]ionld. XXX
+// Arkhan3 G perso3
+L20D59
+ KZh fZfje-nj haqZidch. XXX
+// Arkhan2 L perso2
+L20D63
+ X _jgbai iZend lwsZ^, fjnjlwe ]fgzsdn ynjn haqZidch. XXX
+// Arkhan3 L perso3
+L20D64
+ Fobai hanZggdsamfde lwsZ^, fjnjlwe ]gacan. XXX
+// Arkhan2 O perso2
+L20D65
+ Fa lZ[jnZan! XXX
+// Arkhan3 O perso3
+L20D66
+ Hljfg|nxa! XXX
+// Arkhan2 L perso2
+L20D67
+ Gi kj_jt~g. CZf lZc. XXX
+// Arkhan3 L perso3
+L20D68
+ CZf lZc. XXX
+// Arkhan2 G perso2
+L20D71
+ &jn... KZf _jgbij ]wend. XXX
+// Arkhan2 G perso2
+L20D87
+ & uagd snj-nj amnx. XXX
+// Arkhan3 G perso3
+L20D88
+ KZh snj-nj ]ionld. XXX
+// Arkhan2 G perso2
+L20D89
+ JnlZiij, ]ionld oba amnx lwsZ^! XXX
+// Arkhan3 G perso3
+L20D90
+ NZ, nZh oba amnx lwsZ^. XXX
+// Arkhan2 G perso2
+L20D81A
+ FdfZfj^j mjkljnd]gaid|. XXX
+// Arkhan2 G perso2
+L20D81B
+ EaqZidch ia lZ[jnZan. XXX
+// Arkhan3 G perso3
+L20D82
+ Pa^j-nj ia q]ZnZan. XXX
+// Arkhan2 G perso2
+L20D85
+ <mnx! XXX
+// Arkhan2 G perso2
+L20D93
+ Gi cZlZ[jnZg! XXX
+// Arkhan3 G perso3
+L20D86
+ +Z! XXX
+// Arkhan3 G perso3
+L20D94
+ Kakalx kjl|_jf! XXX
+// Arkhan2 G perso2
+L20D91
+ Cnj-nj cZkomndg a^j _j hai|! XXX
+// Arkhan3 G perso3
+L20D92
+ Cnj-nj oba cZkomndg a^j! XXX
+// Arkhan2 O perso2
+L08D251B
+ Fasa^j mnj|nx non lZcdio] ljn! XXX
+// Arkhan1 G perso1
+L20D124A
+ EocwfZgxiwa nlo[w &agdfj^j JjgZZlZ. XXX
+// Arkhan1 G perso1
+L20D124B
+ Hlj]d_rw dmkjgxcozn dq _g| ]Zbiwq ralahjide. XXX
+// Arkhan1 L perso1
+L20D125
+ E-h, dq hocwfZ ]agdsamn]aiiZ. XXX
+// Arkhan1 O perso1
+L20D126
+ Gid dc_Zzn Z_mfde toh! XXX
+// Arkhan2 G perso2
+L20D127A
+ EocwfZgxiwa nlo[w &agdfj^j JjgZZlZ. XXX
+// Arkhan2 G perso2
+L20D127B
+ Hlj]d_rw dq dmkjgxcozn _g| ]Zbiwq ralahjide. XXX
+// Arkhan2 L perso2
+L20D128
+ Po_amiZ| hocwfZ. XXX
+// Arkhan2 O perso2
+L20D129
+ >Zkljmnj hjbij j^gjqionx! XXX
+// Arkhan3 G perso3
+L20D130A
+ JdhkZndsiwa nlo[w. XXX
+// Arkhan3 G perso3
+L20D130B
+ Gid o klj]d_ra] _g| ]Zbiwq ralahjide. XXX
+// Arkhan3 L perso3
+L20D131
+ EocwfZ $j^Z JjgirZ. XXX
+// Arkhan3 O perso3
+L20D132
+ Qohij! XXX
+// Arkhan1 G perso1
+L20D133
+ JnZgxija _ala]j, mjc_Ziija mnljdnag|hd ] samnx $j^Z JjgirZ. XXX
+// Arkhan2 G perso2
+L20D134A
+ JnZgxija _ala]j, mjc_Ziija mnljdnag|hd. XXX
+// Arkhan2 G perso2
+L20D134B
+ +Zix $j^o JjgirZ. XXX
+// Arkhan3 G perso3
+L20D135
+ JnZgxija _ala]j. +Zix $j^o JjgirZ. XXX
+// Arkhan1 G perso1
+L20D136
+ <u~ j_ij mnZgxija _ala]j. XXX
+// Arkhan2 G perso2
+L20D137
+ <u~ j_ij mnZgxija _ala]j. XXX
+// Arkhan3 G perso3
+L20D138
+ <u~ mnZgxija _ala]j. XXX

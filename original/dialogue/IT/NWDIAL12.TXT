@@ -1,0 +1,523 @@
+Début du fichier F:\DEV\DKE\DATAS\DIALOGUE\IT\NWDIAL12.TXT
+ // Bandor perso7
+L12D03
+Cosa vieni a fare qui? XXX
+// Bandor perso7
+L12D04
+Perché ritorni a trovarci? XXX
+// Bandor perso7
+L12D05
+Non possiamo fare più niente per te. XXX
+// Bandor perso7
+L12D01
+Indietro! Non hai alcun diritto di stare qui! XXX
+// Khorad perso83
+L12D02
+Vattene o chiamiamo i Custodi del Fuoco! XXX
+// Arkhan2 G perso2
+L12D108
+Un cassetto segreto! XXX
+// Arkhan3 G perso2
+L12D109
+Un cassetto! XXX
+// Bandor (impaurito)perso7
+L12D128
+No! Ti supplico! XXX
+// Khorad (impaurito)perso83
+L12D129
+Aiuto! XXX
+// Bandor perso7
+L12D112
+No, no, non colpirci! XXX
+// Bandor perso7
+L12D113
+Ecco, bisogna essere ragionevoli. XXX
+// Arkhan2 L perso2
+L12D06A
+Non temete, non voglio farvi male.  XXX
+// Arkhan2 L perso2
+L12D06B
+Cerco Bandor, il Mastro-Costruttore. XXX
+// Khorad (sollecito) perso83
+L12D10
+Bandor non è qui!  XXX
+// Bandor (tentando di non mostrare la propria paura) perso7
+L12D11
+È... è nella Città Bassa, su un nuovo cantiere. XXX
+// Khorad perso83
+L12D12
+Sì. Noi siamo risaliti, ma lui è restato giù. XXX
+// Arkhan2 O (impaziente) perso2
+L12D07
+Dov'è Bandor, il Mastro-Costruttore? XXX
+// Arkhan2 L perso2
+L12D13A
+È la Grande Predicatrice in persona che mi manda a cercare il vostro aiuto. XXX
+// Arkhan2 L perso2
+L12D13B
+Lei mi ha descritto molto bene Bandor: è per forza uno di voi.  XXX
+// Arkhan2 L perso2
+L12D13C
+Tutto lo Stallite è in pericolo e bisogna far presto!  XXX
+// Bandor perso7
+L12D24
+No, la Grande Predicatrice non avrebbe mai detto una cosa del genere!  XXX
+// Khorad (conciliante) perso83
+L12D25
+Oppure si è sbagliata... XXX
+// Bandor perso7
+L12D26
+Ad ogni modo, Bandor non è qui. XXX
+// Khorad perso83
+L12D27
+E noi non sappiamo dove sia! XXX
+// Arkhan2 O (impaziente) perso2
+L12D14A
+Non fate i furbi con me! XXX
+// Arkhan2 O perso2
+L12D14B
+Lory in persona m'ha parlato di Bandor. Sono sicuro che è uno di voi due! XXX
+// Arkhan2 O perso2
+L12D14C
+Non ho tempo da perdere: chi è Bandor?!? XXX
+// Arkhan2 L perso2
+L12D19A
+Vi dico che non voglio farvi alcun male! XXX
+// Arkhan2 L perso2
+L12D19B
+Devo sapere se Rylsadhar vi ha consegnato un oggetto... un cristallo.  XXX
+// Arkhan2 O (s'innervosisce) perso2
+L12D20A
+Volete farmi credere che tutti i costruttori sono neri con una gamba di meno?!? XXX
+// Arkhan2 O perso2
+L12D20B
+Basta così! Chi di voi è Bandor?! XXX
+// Bandor (conciliante) perso7
+L12D22
+Desolato, non ne sappiamo niente. XXX
+// Khorad (bluffando) perso83
+L12D23A
+Fareste meglio ad andarvene, arriveranno ben presto dei Custodi del Fuoco. XXX
+// Khorad perso83
+L12D23B
+E loro non saranno teneri con voi! XXX
+// Arkhan2 L perso2
+L12D200
+Sentite, ho bisogno del vostro aiuto. XXX
+// Bandor perso7
+L12D202
+Desolato, non ne sappiamo niente. XXX
+// Khorad perso83
+L12D203
+Non possiamo far niente per voi! XXX
+// Arkhan2 O (s'innervosisce) perso2
+L12D201
+Sto per arrabbiarmi! XXX
+// Arkhan3 L perso3
+L12D08
+Calma! Io cerco Bandor! XXX
+// Arkhan3 O perso3
+L12D09
+Bandor! XXX
+// Arkhan3 L perso3
+L12D15A
+Lory m'ha detto: un uomo dalla pelle nera con una gamba di metallo! XXX
+// Arkhan3 L perso3
+L12D15B
+Chi di voi è Bandor? XXX
+// Arkhan3 L perso3
+L12D21A
+Non sono un nemico.  XXX
+// Arkhan3 L perso3
+L12D21B
+Cerco un cristallo. Dato da Rylsadhar. XXX
+// Arkhan3 L perso3
+L12D300
+Ho bisogno di voi! XXX
+// Khorad (atterrito) perso83
+L12D17
+No! Non toccate! XXX
+// Bandor (atterrito) perso7
+L12D18A
+Indietro, creatura! XXX
+// Bandor perso7
+L12D18B
+Non aggravare la tua posizione levando la mano su di noi! XXX
+// Arkhan2 G perso2
+L12D32
+Ora che ho il vostro prezioso progetto, chi è Bandor? XXX
+// Arkhan3 G perso3
+L12D34
+Ho il vostro progetto. Allora, chi è Bandor?! XXX
+// Khorad (bluffando) perso83
+L12D33A
+Quel progetto non ti serve a niente.  XXX
+// Khorad perso83
+L12D33B
+E nessuno di noi è Bandor... XXX
+// Arkhan2 G perso2
+L12D121
+Questo vi suggerisce qualcosa? XXX
+// Arkhan3 G perso3
+L12D122
+Conoscete questo? XXX
+// Bandor perso7
+L12D123
+Spiacente, no. XXX
+// Khorad perso83
+L12D124
+No, non ci suggerisce niente. XXX
+// Arkhan2 G perso2
+L12D40
+Ah, ah, il vostro giochetto è finito! XXX
+// Bandor perso07
+L12D43
+D'accordo. Adesso, dammi il progetto! XXX
+// Arkhan3 G perso3
+L12D42
+Il giochetto è finito! XXX
+// Arkhan2 L perso2
+L12D47A
+Mastro-Costruttore. Non volevo prendermela con voi. XXX
+// Arkhan2 L perso2
+L12D47B
+Il veleno dell'Oscuro circola nelle mie vene, ma io rimango Arkhan, Custode del Fuoco e figlio di Rylsadhar. XXX
+// Arkhan2 L perso2
+L12D47C
+Ho giurato di fare tutto il possibile per vendicarlo e salvare lo Stallite. XXX
+// Bandor (prudente) perso7
+L12D50A
+Sono solo parole. Come posso fidarmi di te? XXX
+// Bandor perso7
+L12D50B
+Provami la tua parentela con Rylsadhar e allora vedrò se posso aiutarti. XXX
+// Arkhan2 O perso2
+L12D48
+Non abbiamo tempo da perdere. Io sono Arkhan, il figlio di Rylsadhar e cerco i cristalli nascosti da mio padre.  XXX
+// Arkhan3 L perso3
+L12D49A
+Sono il figlio di Rylsadhar.  XXX
+// Arkhan3 L perso3
+L12D49B
+Cerco i cristalli che ha nascosto. XXX
+// Arkhan2 L perso2
+L12D51A
+Non ho il tempo di giocare, Bandor.  XXX
+// Arkhan2 L perso2
+L12D51B
+Mi manda Lory, dovete credermi! XXX
+// Bandor (fermo) perso7
+L12D54A
+No. Rylsadhar non mi lascerebbe parlare a... a... XXX
+// Bandor perso7
+L12D54B
+...una creatura come te senza una prova di buona fede. XXX
+// Arkhan2 O perso2
+L12D52A
+Non è il momento della diffidenza! XXX
+// Arkhan2 O perso2
+L12D52B
+Se avete un cristallo, datemelo subito! XXX
+// Arkhan3 L perso3
+L12D53
+Fidatevi di me! XXX
+// Arkhan2 G perso2
+L12D55A
+Volete una prova? Guardate, ho l'anello di cristallo. XXX
+// Arkhan2 G perso2
+L12D55B
+Devo ritrovare gli altri pezzi per accedere alla cripta di mio padre.  XXX
+// Arkhan2 G perso2
+L12D55C
+Lory pensa che forse vi siano racchiuse delle conoscenze che possono salvarci. XXX
+// Bandor (improvvisamente deciso) perso7
+L12D57A
+D'accordo. Voglio crederti. XXX
+// Bandor perso7
+L12D57B
+In effetti, Rylsadhar mi ha consegnato uno dei cristalli. Te lo do. XXX
+// Bandor perso7
+L12D57C
+Ma se lo utilizzi a fini malvagi, che tu possa essere maledetto! XXX
+// Arkhan2 L perso2
+L12D58
+Grazie, Mastro Bandor. XXX
+// Arkhan2 O perso2
+L12D59A
+Mmm... XXX
+// Arkhan2 O (riprende la frase di Bandor)perso2
+L12D59B
+E se succede che la vostra diffidenza m'ha fatto perdere del tempo, tornerò a occuparmi di voi! XXX
+// Arkhan3 G perso3
+L12D56A
+Una prova? Guardate! XXX
+// Arkhan3 G perso3
+L12D56B
+Ho l'anello di cristallo! XXX
+// Arkhan3 L perso3
+L12D60
+Grazie. XXX
+// Arkhan3 O perso3
+L12D61
+(Grugnito vagamente amabile) XXX
+// Arkhan2 G perso2
+L12D125
+Guardate se questo basta come prova... XXX
+// Arkhan3 G perso2
+L12D126
+Ecco la vostra prova! XXX
+// Bandor perso7
+L12D127
+No, questo non ha niente della prova! XXX
+// Arkhan2 L perso2
+L12D62A
+A chi altro mio padre avrebbe potuto affidare un cristallo? XXX
+// Arkhan2 L perso2
+L12D62B
+Ne avete un'idea? XXX
+// Arkhan2 O perso2
+L12D63A
+A parte voi, mio padre a chi ha dato un cristallo? XXX
+// Arkhan2 O perso2
+L12D63B
+Rispondete! XXX
+// Bandor (riflettendo in fretta) perso7
+L12D65
+Boh... La Grande Predicatrice Lory, certamente. E sicuramente il grande Zed. XXX
+// Arkhan2 G perso2
+L12D66
+Hmm... Chi altro? XXX
+// Bandor (esitante) perso7
+L12D68A
+Ebbene... può essere che Rylsadhar abbia avuto il tempo di recarsi da Leona. XXX
+// Bandor perso7
+L12D68B
+È una strana donna, che vive nell'Oscuro. Poche persone si sarebbero fidate di lei... XXX
+// Bandor perso7
+L12D68C
+Ma tuo padre sembrava trattarla da amica. XXX
+// Arkhan2 G perso2
+L12D69
+Ho trovato Leona. Mio padre non le ha dato niente. XXX
+// Bandor perso7
+L12D71
+In questo caso, non ho nessun'altra... Spiacente... XXX
+// Arkhan2 L perso2
+L12D72
+Dove posso trovare Leona? XXX
+// Arkhan2 O perso2
+L12D73
+Questa Leona di cui parlate, come la posso trovare? XXX
+// Bandor perso7
+L12D75A
+Vive al di fuori dello Stallite, nell'Oscuro. Nessuno sa bene dove... XXX
+// Bandor perso7
+L12D75B
+Alcuni dicono che si nasconda presso la spiaggia  XXX
+// Bandor perso7
+L12D75C
+...ma altri affermano che si possa trovarla solo se lei lo vuole. XXX
+// Khorad perso83
+L12D76A
+Ad ogni modo, sarebbe follia uscire...  XXX
+// Khorad perso83
+L12D76B
+E poi, le strade sono sbarrate e le porte dello Stallite chiuse! XXX
+// Arkhan2 G perso2
+L12D77A
+Per il Rahal, voi siete sempre il Mastro-Costruttore! XXX
+// Arkhan2 G perso2
+L12D77B
+Conoscete sicuramente un altro modo di lasciare lo Stallite! XXX
+// Bandor perso7
+L12D78
+No. Anticamente c'erano dei tunnel, ma sono stati insabbiati o inondati quando la terra ha tremato. XXX
+// Khorad perso83
+L12D79
+Sì. Ma questo molti cicli fa... XXX
+// Arkhan2 L perso2
+L12D81A
+Lory m'ha parlato di un luogo sotterraneo, un Sepolcro. È questo il luogo che devo raggiungere. XXX
+// Arkhan2 L perso2
+L12D81B
+Ne sapete qualcosa? XXX
+// Bandor perso7
+L12D84
+"Sepolcro". No. Non conosco un luogo simile. XXX
+// Khorad perso83
+L12D85A
+Lo Stallite è stato costruito moltissimo tempo fa.  XXX
+// Khorad perso83
+L12D85B
+Nemmeno Mastro Bandor ne conosce tutti i segreti. XXX
+// Arkhan2 O perso2
+L12D82A
+Lory ha parlato di un Sepolcro. Siete voi e i vostri che avete costruito lo Stallite. XXX
+// Arkhan2 O perso2
+L12D82B
+Dov'è questo Sepolcro? XXX
+// Arkhan2 L perso2
+L12D91A
+Ho visto l'ingresso di un fabbricato nella Città Bassa. Si direbbe una porta del Prima.  XXX
+// Arkhan2 L perso2
+L12D91B
+Voi, che sapete tutto dello Stallite, potete dirmi come penetrarvi? XXX
+// Bandor perso7
+L12D92
+Quel posto è un mistero, anche per me. XXX
+// Khorad perso83
+L12D93A
+Si racconta che un ficcanaso pretendeva di esserci entrato. Ma Dhorkan l'ha fatto arrestare. XXX
+// Khorad perso83
+L12D93B
+E nessuno s'è mai più vantato di una cosa del genere. XXX
+// Arkhan2 O perso2
+L12D94A
+In basso c'è una strana porta, una porta del Prima. XXX
+// Arkhan2 O perso2
+L12D94B
+Io voglio entrarci, e voi mi direte come! XXX
+// Khorad perso83
+L12D95
+È abbandonato, nessuno può entrarci. XXX
+// Arkhan2 L perso2
+L12D86A
+Bene, grazie del vostro aiuto. XXX
+// Arkhan2 L perso2
+L12D86B
+Non v'infastidirò più. Luce su di voi! XXX
+// Bandor perso7
+L12D87
+Buona fortuna, figlio di Rylsadhar. XXX
+// Khorad perso83
+L12D88
+E, prudenza... XXX
+// Arkhan2 O perso2
+L12D89A
+Beh, abbiamo perso abbastanza tempo. XXX
+// Arkhan2 O perso2
+L12D89B
+Fatemi andare, ho da fare! XXX
+// Arkhan3 L perso3
+L12D64A
+Dove posso trovare gli altri cristalli? XXX
+// Arkhan3 L perso3
+L12D64B
+Lo sapete? XXX
+// Arkhan3 L perso3
+L12D67
+Hmm... Chi altro? XXX
+// Arkhan3 L perso3
+L12D70
+Ho visto Leona. Invano. XXX
+// Arkhan3 L perso3
+L12D74
+Dove posso trovare Leona? XXX
+// Arkhan3 L perso3
+L12D80
+Deve esserci un'altra strada... XXX
+// Arkhan3 L perso3
+L12D83
+Cerco un posto, il Sepolcro. Dov'è? XXX
+// Arkhan3 L perso3
+L12D96A
+Nella Città Bassa, c'è una porta. Sicuramente una costruzione del Prima. XXX
+// Arkhan3 L perso3
+L12D96B
+Voglio entrarci. Potete aiutarmi? XXX
+// Arkhan3 L perso3
+L12D90
+Grazie. Luce su di voi. XXX
+// Bandor perso7
+L12D105A
+Tu sei pazzo! Fermati! XXX
+// Bandor perso7
+L12D105B
+Non possiamo far niente per te, lasciaci! XXX
+// Bandor (costretto a battersi) perso7
+L12D107
+Khorad, addosso! XXX
+// Khorad perso83
+L12D41
+Rendete immediatamente il progetto a Mastro Bandor! XXX
+// Arkhan2 G perso2
+L12D110
+Non c'è niente nelle sue tasche! XXX
+// Arkhan3 G perso3
+L12D111
+Accidenti, niente! XXX
+// Khorad perso83
+L12D30
+Non toccate quel progetto, è un documento di grande valore! XXX
+// Bandor perso7
+L12D31
+Appartiene al Mastro-Costruttore! XXX
+// Arkhan2 G perso2
+L12D28
+Non c'è più niente da prendere! XXX
+// Arkhan3 perso3
+L12D29
+Non c'è più niente. XXX
+// Arkhan2 G (girando la testa verso Bandor & Khorad) perso2
+L12D35A
+Se nessuno di voi è Bandor,  XXX
+// Arkhan2 G (girando la testa verso Bandor & Khorad) perso2
+L12D35B
+allora non vi interesserà se brucio il suo prezioso progetto! XXX
+// Bandor (in preda al panico) perso7
+L12D38
+No! XXX
+// Bandor (va verso Arkhan) perso7
+L12D39
+D'accordo... d'accordo, sono io Bandor. Rendetemi il progetto. XXX
+// Arkhan2 Gperso2
+L14D45
+Non così in fretta! XXX
+// Arkhan3 G perso3
+L12D36
+Per l'ultima volta: chi è Bandor? XXX
+// Arkhan3 G perso3
+L12D37
+O brucio questo progetto! XXX
+// Arkhan3 G perso3
+L14D46
+Bandor, finalmente! XXX
+// Arkhan2 G perso2
+L12D45
+Adesso che so chi è Bandor, non brucerò più il progetto! XXX
+// Arkhan3 G perso3
+L12D46
+Conosco Bandor, non brucio più il progetto! XXX
+// Arkhan2 G perso2
+L12D103
+Niente di utile su questa scrivania... XXX
+// Arkhan3 G perso3
+L12D104
+Niente su questa scrivania... XXX
+// Arkhan2 G perso2
+L12D97
+Niente su questa scrivania. XXX
+// Arkhan3 perso3
+L12D98
+Non c'è niente qui! XXX
+// Arkhan2 G perso2
+L12D99
+Niente su questo leggio. XXX
+// Arkhan2 G perso2
+L12D101
+Una di quelle reliquie del Prima. XXX
+// Arkhan3 G perso3
+L12D102
+Una reliquia del Prima. XXX
+// Khorad (bisbigliando) perso83
+L12D119
+È vicino al serpente! XXX
+// Bandor (bisbigliando) perso7
+L12D120
+Tanto peggio. È meglio lasciarlo fare. XXX
+// Arkhan2 G perso2
+L12D117
+Ho già tirato la leva. XXX
+// Arkhan3 G perso3
+L12D118
+Ho già tirato la leva. XXX

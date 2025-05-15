@@ -1,0 +1,616 @@
+Début du fichier F:\DEV\DKE\DATAS\DIALOGUE\IT\NWDIAL16.TXT
+ // Delia (a Maor) perso10
+L16D200
+Allora, Maor? XXX
+// Maor perso17
+L16D201A
+Era superbo, Delia... come sempre. XXX
+// Maor perso17
+L16D201B
+Armal Sadak e i suoi uomini rimarranno stregati! XXX
+// Delia (a Maor) perso10
+L16D202
+Bene, torno nel mio camerino... Sono stanca. XXX
+// Maor (burbero)perso17
+L16D666
+Tu, là, mi stai disturbando! XXX
+// Maor (burbero)perso17
+L16D667
+Non ho tempo per giocare, fila! XXX
+// Maor (stizzito)perso17
+L16D668
+Vattene o te ne pentirai! XXX
+// Maor (sta per attaccare)perso17
+L16D669
+Sole-Dio, l'hai voluto tu! XXX
+// Maor (terrorizzato, attacca)perso17
+L16D670
+Non avrai la mia pelle, mostro! XXX
+// Delia (colpita)perso10
+L16D125
+Non era più Maor, era una bestia! XXX
+// Arkhan2 L perso2
+L16D203
+Fidati di me, sono sempre umano. XXX
+// Arkhan2 O perso2
+L16D204
+Dai, fa' presto... prima che anch'io mi trasformi! (risata) XXX
+// Arkhan3 G perso3
+L16D205
+Dai, vieni! XXX
+// Maor (furioso)perso17
+L16D998
+Avvicinati spazzatura, t'insegno io a molestare le donne! XXX
+// Delia (riconosce Maor orrendamente trasformato)perso10
+L16D25
+Sole-Dio, Maor! XXX
+// Delia (sorpresa e atterrita da Arkhan)perso10
+L16D49
+Chi... Chi sei? Cosa vuoi? XXX
+// Delia perso10
+L16D51
+Ancora tu! XXX
+// Delia perso10
+L16D50
+Sei tu. Spero che tu abbia qualcosa per me. XXX
+// Delia (atterrita)perso10
+L16D52
+No! Non avvicinarti! XXX
+// Delia perso10
+L16D122
+Fermo! Mi fai paura! XXX
+// Delia (impaurita, chiama)perso10
+L16D906
+Maor! Maor! XXX
+// Maor (da lontano, in collera)perso1
+L16D999
+Ehi, faccia di culo! Esci di lì! XXX
+// Maor perso17
+L16D350
+Ehi, il concorso dell'alito cattivo è domani! XXX
+// Maor perso17
+L16D351
+D'accordo, mostro, sto arrivando! XXX
+// Maor (Arkhan si avvicina)perso17
+L16D127
+Cosa vuoi? XXX
+// Arkhan2 L perso2
+L16D206
+Ehi, Maor... XXX
+// Arkhan2 O perso2
+L16D207
+Ehi, devo parlarti! XXX
+// Maor (burbero)perso17
+L16D208
+Aspettami al banco, arrivo... XXX
+// Arkhan3 L perso3
+L16D209
+Ehi! XXX
+// Maor perso17
+L16D210
+Piano! Va al banco, arrivo! XXX
+// Arkhan2 L perso2
+L16D500
+Non aver paura, è Bogdaran che mi manda. XXX
+// Delia perso10
+L16D501
+Bogdaran? E lui dov'è? XXX
+// Arkhan2 L perso2
+L16D502
+Lassù, nella Città Alta. Devo portarti da lui. XXX
+// Delia perso10
+L16D503
+D'accordo, vengo con te. XXX
+// Arkhan2 O perso2
+L16D504A
+Bogdaran mi manda a cercarti! XXX
+// Arkhan2 O perso2
+L16D504B
+Seguimi senza fare storie. XXX
+// Delia (intimidita)perso10
+L16D505
+Bogdaran? XXX
+// Arkhan2 O perso2
+L16D506
+Sì e io ti devo riportare nelle sua braccia. XXX
+// Arkhan2 L perso2
+L16D507
+Non preoccuparti, ci andremo molto presto. XXX
+// Delia perso10
+L16D508
+Tutto quel che vuoi, purché si esca di qua! XXX
+// Arkhan2 O perso2
+L16D509
+E non trascinarti, non ho tempo da perdere! XXX
+// Arkhan2 O perso2
+L16D510
+Tutto quel che voglio, eh? Non lo dimenticherò... XXX
+// Arkhan2 G (mostra un topo morto)perso2
+L16D888
+Guarda, ti piace? XXX
+// Delia (disgustata) perso10
+L16D889
+Ah! Non farmelo vedere! XXX
+// Delia perso10
+L16D700
+No, no, non mi interessa. XXX
+// Arkhan3 L perso3
+L16D402
+Calmati! Non ti farò niente. XXX
+// Delia perso10
+L16D409
+Vattene, mostro! XXX
+// Arkhan3 L perso3
+L16D407
+Ascoltami! XXX
+// Delia perso10
+L16D410
+Toccami e creperai come un topo! XXX
+// Arkhan3 G perso3
+L16D511
+Vieni con me! XXX
+// Delia perso10
+L16D512
+Ti seguo. XXX
+// Arkhan2 L perso2
+L16D513A
+Cosa è successo? XXX
+// Arkhan2 L perso2
+L16D513B
+Non c'è più nessuno qui fuori. XXX
+// Delia (timorosa)perso10
+L16D514A
+Io... Io ero nascosta. Ho sentito delle grida, dei rumori di lotta. XXX
+// Delia perso10
+L16D514B
+Ho paura. XXX
+// Arkhan2 L perso2
+L16D515C
+Non temere, resta qui! XXX
+// Arkhan2 O perso2
+L16D516A
+Allora, ci si rintana nel camerino! XXX
+// Arkhan2 O perso2
+L16D516B
+Sei tutta sola qui? XXX
+// Arkhan2 O perso2
+L16D517
+Non preoccuparti, con me nei paraggi non hai niente da temere! XXX
+// Arkhan2 L perso2
+L16D518
+Resta lì, nasconditi. XXX
+// Arkhan2 O perso2
+L16D519
+Non muoverti di lì. Ti farai sgozzare fuori! XXX
+// Delia perso10
+L16D520
+Sì... Preferisco non uscire. XXX
+// Arkhan2 G perso2
+L16D521
+Non preoccuparti, me ne occupo io! XXX
+// Delia perso10
+L16D522
+Fa' attenzione! XXX
+// Arkhan2 L perso2
+L16D100
+Non temere! Non voglio farti del male! XXX
+// Delia (impaurita)perso10
+L16D101
+Allora, cosa... cosa vuoi? XXX
+// Arkhan2 L (rassicurante)perso2
+L16D102A
+Calmati... Mi chiamo Arkhan, sono un amico dei Ficcanaso. XXX
+// Arkhan2 L perso2
+L16D102B
+So di non essere bello da vedere, ma non voglio farti alcun male. XXX
+// Arkhan2 L perso2
+L16D102C
+Non aver paura, d'accordo? XXX
+// Delia (rassicurata ma prudente)perso10
+L16D103
+Hmm... d'accordo. Ma se ti avvicini troppo, chiamerò Maor! XXX
+// Arkhan2 L (cercando di rendersi simpatico) perso2
+L16D104
+Ehm... T'ho vista ballare, era veramente bello. XXX
+// Delia perso10
+L16D105A
+Grazie, sei gentile... (silenzio imbarazzato) XXX
+// Delia perso10
+L16D105B
+Senti, cosa ti aspetti da me? XXX
+// Arkhan2 L perso2
+L16D106
+Ho bisogno di aiuto. I Custodi del Fuoco mi stanno braccando. Puoi aiutarmi? XXX
+// Delia perso10
+L16D107
+Se vuoi una mano quaggiù, va a trovare Armal Sadak. XXX
+// Arkhan2 L perso2
+L16D108
+Armal Sadak? XXX
+// Delia perso10
+L16D109A
+Certo! È il più grande Ficcanaso della Città Bassa. Tutti lo rispettano qui. XXX
+// Delia perso10
+L16D109B
+Se qualcuno può aiutarti, è proprio lui! Ma non so se vorrà... XXX
+// Arkhan2 L perso2
+L16D110
+Dove posso trovarlo? XXX
+// Delia perso10
+L16D111
+Non è così facile... Non posso semplicemente portarti da lui. Mi servirebbe una prova della tua buona fede. XXX
+// Arkhan2 L perso2
+L16D112
+Conosco Armal Sadak. Ma non so se potrà aiutarmi.  XXX
+// Delia perso10
+L16D113
+Se Armal Sadak non può aiutarti, non vedo cosa potrei fare io. XXX
+// Arkhan2 L perso2
+L16D114
+Cosa vuoi che faccia? XXX
+// Delia perso10
+L16D115A
+Portami un regalo, qualcosa di bello, di brillante...  XXX
+// Delia perso10
+L16D115B
+E poi, vedrò cosa posso fare con Armal Sadak... XXX
+// Arkhan2 G perso2
+L16D116
+Non hai niente di più da dirmi? XXX
+// Delia perso10
+L16D117
+No, non credo. XXX
+// Arkhan2 O perso2
+L16D118
+Silenzio! Smettila di sbraitare!  XXX
+// Delia (impaurita)perso10
+L16D119
+Per favore, non farmi del male! XXX
+// Arkhan2 O (minaccioso) perso2
+L16D120A
+Basta così, sgualdrina! XXX
+// Arkhan2 O perso2
+L16D120B
+Se non ti rendi più utile, ti faccio fare un balletto a modo mio! XXX
+// Delia (prende paura) perso10
+L16D121
+No! Maor, aiuto! XXX
+// Delia perso10
+L16D886A
+Sei venuto a fare uno scambio? XXX
+// Delia perso10
+L16D886B
+Non mi interessa, I miei protettori mi danno tutto quel che voglio... XXX
+// Delia perso10
+L16D887
+Te l'ho detto che non facevo scambi! XXX
+// Arkhan2 O perso2
+L16D66
+Adesso mi aiuti o ti cambio i connotati! XXX
+// Delia perso10
+L16D67
+No, non picchiarmi! XXX
+// Arkhan2 L perso2
+L16D68
+Non ho niente da offrirti, ma ho veramente bisogno del tuo aiuto! XXX
+// Delia perso10
+L16D69
+Spiacente, non posso farti incontrare Armal Sadak così... XXX
+// Arkhan2 G perso2
+L16D70
+Forse ho quello che vuoi. Questo ti va bene? XXX
+// Delia perso10
+L16D71
+No. Non mi interessa... XXX
+// Delia (Arkhan dà un CD)perso10
+L16D72
+Uno specchio di luce del Prima! Sì, questo mi va! XXX
+// Delia perso10
+L16D74A
+Troverai Armal Sadak a pochi passi da qui, nella sua costruzione a forma di nave. XXX
+// Delia perso10
+L16D74B
+Quando lo vedrai, digli questa frase: XXX
+// Delia perso10
+L16D74C
+"L'Uomo non è che una pedina che la mano del Destino spinge indifferentemente nell'Ombra o nella Luce ". XXX
+// Delia perso10
+L16D75
+È una parola d'ordine. XXX
+// Arkhan2 G perso2
+L16D76
+È tutto? XXX
+// Delia perso10
+L16D77
+Per parlare con lui, sì. Ma se veramente vuoi che ti aiuti, dovrai batterlo al gioco di Yong. XXX
+// Arkhan2 G perso2
+L16D78
+Cos'è lo Yong, un gioco? XXX
+// Delia perso10
+L16D79A
+È il passatempo preferito di Armal Sadak. Ci gioca tutto il tempo. XXX
+// Delia perso10
+L16D79B
+Dice che la vita è una lunga partita di Yong, cose così. XXX
+// Arkhan2 G perso2
+L16D80
+Come poso fare per batterlo? XXX
+// Delia perso10
+L16D81A
+Non ne so granché...  XXX
+// Delia perso10
+L16D81B
+Si gioca su un ripiano con pedine d'ombra e di luce. XXX
+// Delia perso10
+L16D82
+E Armal m'ha sempre detto che, per vincere, devi mettere le tue pedine sugli angoli del ripiano.   XXX
+// Arkhan2 G perso2
+L16D83
+Non puoi dirmi niente di più? XXX
+// Delia perso10
+L16D84
+No, t'ho detto tutto quel che sapevo.  XXX
+// Delia perso10
+L16D85
+Devi andare adesso... XXX
+// Delia perso10
+L16D885A
+Mi hai già fatto un regalo, è sufficiente. XXX
+// Arkhan2 L perso2
+L16D400
+Non aver paura! Non ti farò niente. XXX
+// Arkhan2 O perso2
+L16D401
+Smettila sgualdrina, o ti faccio tacere a pugni! XXX
+// Delia perso10
+L16D404A
+Bruto! La pagherai per quello che hai fatto a Maor. XXX
+// Delia perso10
+L16D404B
+E se mi tocchi, Armal Sadak ti strapperà il cuore! XXX
+// Arkhan2 L perso2
+L16D405
+Non voglio uccidere nessuno, ho bisogno di aiuto. XXX
+// Arkhan2 O perso2
+L16D406
+Tutto quel che voglio, è un po' d'aiuto! XXX
+// Delia perso10
+L16D408
+Fuori di qui! Non ho niente da dirti! XXX
+// Delia (colpita da Arkhan) perso10
+L16D403
+Fermati, maledetto bruto! XXX
+// Arkhan2 L perso2
+L16D300A
+Salve... Maor, giusto? XXX
+// Arkhan2 L perso2
+L16D300B
+Bello spettacolo... XXX
+// Maor perso17
+L16D301
+Hmm... cosa vuoi? XXX
+// Arkhan2 O perso2
+L16D302A
+Appetitosa, la ballerina. XXX
+// Arkhan2 O perso2
+L16D302B
+Saresti d'accordo a dividerla con me? XXX
+// Maor perso17
+L16D303A
+Scordatelo subito, uomo. Delia ha già i suoi... protettori. XXX
+// Maor perso17
+L16D303B
+E poi, tu non sei il suo tipo! XXX
+// Arkhan2 L perso2
+L16D304A
+Io sono Arkhan, amico dei Ficcanaso. XXX
+// Arkhan2 L perso2
+L16D304B
+Ho qualche noia con i Custodi del Fuoco... e bisogno di una mano. XXX
+// Arkhan2 O perso2
+L16D306A
+Mi chiamo Arkhan. I Custodi del Fuoco mi stanno addosso, sono malato da morire... XXX
+// Arkhan2 O perso2
+L16D306B
+E, se vuoi sapere tutto, tento di cavarmela in mezzo ai rudi tatuati che bazzicano da queste parti! XXX
+// Maor perso17
+L16D305
+Vedo... Ma non è qui che otterrai l'aiuto che cerchi. XXX
+// Maor (burbero ma generoso)perso17
+L16D307A
+Però, c'è una fiasca di Stohll sul tavolo.  XXX
+// Maor perso17
+L16D307B
+Prendila, te la offro. XXX
+// Maor (burbero ma generoso)perso17
+L16D308A
+Tieni pure la borraccia che hai preso sul tavolo. XXX
+// Maor perso17
+L16D308B
+È tutto quello che posso fare per te. XXX
+// Arkhan2 L perso2
+L16D309
+Se tu non puoi aiutarmi, dove posso andare? XXX
+// Maor perso17
+L16D310A
+Hmm... Suppongo che non tornerai dai Custodi del Fuoco... XXX
+// Maor perso17
+L16D310B
+Se non hai niente da perdere, puoi andare a trovare Armal Sadak. XXX
+// Maor perso17
+L16D310C
+Ma qualunque cosa succeda, non avvicinarti ai Konkaliti, avresti solo dei problemi! XXX
+// Arkhan2 O perso2
+L16D311A
+Mi stavo chiedendo: ti capita mai di sorridere? XXX
+// Arkhan2 O perso2
+L16D311B
+O fai del tutto per avere l'aria di un duro? XXX
+// Maor perso17
+L16D312A
+Sorrido solo alle belle ragazze, va bene? XXX
+// Maor perso17
+L16D312B
+Adesso vattene altrove, ho da fare... XXX
+// Arkhan2 L perso2
+L16D313
+Non potresti dirmi qualcosa di più? XXX
+// Maor perso17
+L16D314
+Spiacente, sono a corto di buoni consigli. XXX
+// Arkhan2 L perso2
+L16D315
+Non hai veramente più niente da dirmi? XXX
+// Maor perso17
+L16D316A
+No...  XXX
+// Maor perso17
+L16D316B
+Ma se vuoi fare una chiacchieratina, va piuttosto a trovare Delia. XXX
+// Arkhan2 O perso2
+L16D317A
+Giochi a fare il duro, eh! Ma sai cosa credo? XXX
+// Arkhan2 O perso2
+L16D317B
+Credo che dietro al tuo bar stringi le chiappe per la paura! XXX
+// Maor (in collera) perso17
+L16D318A
+D'accordo, amigo! Tu hai bisogno di una bella lezione. XXX
+// Maor perso17
+L16D318B
+Vieni qui, che ti arrangio io! XXX
+// Arkhan3 L perso3
+L16D320
+Salve, uomo. XXX
+// Maor (impressionato)perso17
+L16D321
+Sole-Dio... Chi sei tu? XXX
+// Arkhan3 L perso3
+L16D322
+Calma. Io cerco... un aiuto. XXX
+// Maor (impressionato)perso17
+L16D323
+Spiacente amigo, non posso far niente per te. XXX
+// Arkhan3 L perso3
+L16D324
+Dimmi chi posso vedere... Un Guaritore forse. XXX
+// Maor perso17
+L16D325A
+Ehm... Io non sono che un Ficcanaso, non so niente di guarigione... XXX
+// Maor perso17
+L16D326A
+Ma c'è una fiasca di Stohll, là, sul tavolo. XXX
+// Maor perso17
+L16D326B
+Se vuoi, prendila.  XXX
+// Maor perso17
+L16D327A
+Ma non hai che da tenere lo Stohll che hai preso. XXX
+// Arkhan3 L perso2
+L16D328
+Sei sicuro di non potermi aiutare?!? XXX
+// Maor (a disagio) perso17
+L16D329
+Vorrei, ma non so che dirti... XXX
+// Arkhan3 L perso2
+L16D330
+Veramente non hai niente per me? XXX
+// Maor (a disagio)perso17
+L16D331
+No, spiacente... XXX
+// Arkhan3 O perso3
+L16D332
+Tu! Tu mi aiuterai! XXX
+// Maor (impressionato) perso17
+L16D333A
+Non so chi sei, non so cosa vuoi! XXX
+// Maor (impressionato) perso17
+L16D333B
+Ma ti avverto: ho un'arma e so servirmene! XXX
+// Arkhan3 O perso3
+L16D334
+Piccolo Ficcanaso, ti massacro! XXX
+// Arkhan2 G perso2
+L16D335
+Vuoi dello Stohll? XXX
+// Maor perso17
+L16D336
+Tieni il tuo Stohll, ho tutto quello che mi serve! XXX
+// Arkhan3 G perso3
+L16D337
+Stohll? XXX
+// Maor (impressionato)perso17
+L16D338
+No... No... Bevilo alla mia salute. XXX
+// Arkhan2 G perso2
+L16D339
+Vuoi una fiasca? XXX
+// Maor perso17
+L16D340
+No, amigo, sono a posto così. XXX
+// Arkhan3 G perso3
+L16D341
+Vuoi? XXX
+// Maor (impressionato)perso17
+L16D342
+No... Grazie. XXX
+// Maor perso17
+L16D343
+No, non mi interessa. XXX
+// Maor (impressionato)perso17
+L16D346
+No, grazie. Tienilo tu. XXX
+// Arkhan2 L perso2
+L16D904
+Un pollo arrosto... appetitoso. XXX
+// Arkhan3 L perso2
+L16D905
+Un pollo... e ben rosolato! XXX
+// Maor perso17
+L16D04
+Ehi, togliti di lì! XXX
+// Maor perso17
+L16D07A
+Ehi, il bar è il mio territorio! XXX
+// Maor perso17
+L16D07B
+E non t'ho invitato, capito? XXX
+// Maor perso17
+L16D08
+T'avevo avvertito! XXX
+// Arkhan2 G perso2
+L16D118A
+Un piccolo carillon. XXX
+// Arkhan2 G perso2
+L16D118B
+Danrys me ne aveva fatto uno quando ero bambino. XXX
+// Arkhan3 G perso3
+L16D119A
+Un carillon. XXX
+// Arkhan3 G perso3
+L16D119B
+Come quello che Danrys m'aveva fatto tento tempo fa. XXX
+// Arkhan2 L perso2
+L16D900
+Con queste punte, nessuno oserà salire sul palcoscenico per abbracciare la ballerina! XXX
+// Arkhan3 L perso3
+L16D901
+Dissuasive... le punte! XXX
+// Arkhan2 G perso2
+L16D902
+Il muro è ricoperto da una vecchia pittura del Prima. XXX
+// Arkhan3 G perso3
+L16D903
+Sul muro, c'è una vecchia pittura del Prima. XXX
+// Arkhan2 G perso2
+L16D701
+È un barilotto di Stohll. XXX
+// Arkhan3 G perso3
+L16D702
+Un barilotto di Stohll. XXX
+// Arkhan2 G perso2
+L08D71
+No, la borraccia è già piena. XXX
+// Arkhan3 G perso3
+L08D72
+La borraccia è piena! XXX

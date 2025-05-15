@@ -1,0 +1,307 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL07.TXT
+ // Zed (after a long or short battle) perso27
+L07D01A
+ Nh... Ka[a au~ amnx saho kjosdnxm|! XXX
+// Zed (in friendly jest) perso27
+L07D01B
+ IZcosdgm| dgd au~ ia kljmiogm|? XXX
+// Zed (after a long or short battle) perso27
+L07D01C
+ Klaidloem|, njgxfj nZf hjbij mnZnx mdgxiaa. XXX
+// Zed perso27
+L07D05A
+ Njsatx mlZcdnxm| - "Zi^Zl_"! XXX
+// Zed perso27
+L07D05B
+ # ian, nZf _Ze hia mkjfjeij kjcZidhZnxm|, d_~n? XXX
+// Phedoria perso26
+L07D02A
+ Lba omnZg? XXX
+// Phedoria perso26
+L07D02B
+ HjlZ[jnZe iZ_ pdcdsamfje kj_^jnj]fje... XXX
+// Zed perso27
+L07D03A
+ +Z]Ze, kjnlaidloem| mj hije! XXX
+// Zed perso27
+L07D03B
+ Fa [jem|, nw ia kjlZidtxm|... hw ia [o_ah ]qj_dnx ] fjinZfn! XXX
+// Zed perso27
+L07D04
+ Kw kala_ohZg? XXX
+// Zed perso27
+L07D06
+ Fo gZ_ij, mZh iZkljmdgm|! >ZuduZem|! XXX
+// Zed perso27
+L07D08
+ Njljtj, ia qjsatx nlaidlj]Znxm|, nj^_Z kjc]jgx, | iZoso na[| kZla ]auae! XXX
+// Zed perso27
+L07D09
+ IatZem|! XXX
+// Zed (fed up) perso27
+L07D10
+ Fa kj_qj_d fj hia, amgd [jdtxm| kjlZidnxm|! XXX
+// Phedoria (mocking) perso26
+L07D32
+ Lba oqj_dtx?! XXX
+// Phedoria perso26
+L07D11
+ A_d mz_Z... X iZoso na[|, fZf iobij _lZnxm|! XXX
+// Phedoria perso26
+L07D12
+ Hljfg|nxa nxhw! "#i^Zl_"! XXX
+// Phedoria perso26
+L07D13
+ Fo gZ_ij, kjfZ q]Zndn! XXX
+// Phedoria perso26
+L07D14
+ Hjklj[oah au~ lZc! XXX
+// Phedoria perso26
+L07D74
+ Gnje_d, | ia hj^o cZidhZnxm|, kjfZ nw nZh mnjdtx! XXX
+// Phedoria perso26
+L07D75
+ &alidmx, dgd | fgdifjh ]wlabo n]jd fdtfd! XXX
+// Phedoria perso26
+L07D76
+ Hj]njl|z ] kjmga_ide lZc... Qa]agdmx! XXX
+// Phedoria perso26
+L07D77
+ A_djn! XXX
+// Phedoria perso26
+L07D54
+ Jnje! Cnj d_~n?! XXX
+// Phedoria perso26
+L07D55
+ Gn]asZe, fnj nZfj], dgd jnklZ]dtxm| ] >ahgd ElZfZ! XXX
+// Phedoria (coolly fires her weapon) perso26
+L01D45B
+ Kw ia jmnZ]dg hia ]w[jlZ! XXX
+// Phedoria (Arkhan goes "en garde") perso26
+L07D78
+ X _ohZgZ, nw iahij^j ohiae! XXX
+// Zed perso27
+L07D07
+ DZ_ij, ]kal~_! "#i^Zl_"! XXX
+// Zed perso27
+L07D16
+ G^j! Hjqjba, ma^j_i| nw ] jngdsije pjlha! XXX
+// Arkhan1 L perso1
+L07D18
+ KZf fZf iZms~n nj]Zlduamfj^j kja_difZ? XXX
+// Zed perso27
+L07D19
+ &ma^_Z f n]jdh omgo^Zh! "#i^Zl_"... FZsZgd! XXX
+// Arkhan1 O perso1
+L07D20
+ *jnj]xm|, >a_! X cZ_Zh na[a nl~kfo, fZfje nw mlj_o ia ]d_w]Zg! XXX
+// Zed perso27
+L07D21
+ Vnj hw kjmhjnldh, ohidf! Fo ba, "Zi^Zl_"! XXX
+// Phedoria perso26
+L07D22
+ Kw ^jnj]? FZsZgd! XXX
+// Phedoria perso26
+L07D23
+ Njsatx klZfndfj]Znxm| mj hije - iZe_d ma[a jlobda! XXX
+// Phedoria (Arkhan comes back with a weapon) perso26
+L07D24
+ FZfjiar-nj! X a_]Z ia omiogZ! XXX
+// Phedoria (Arkhan comes back with an object) perso26
+L07D25
+ Fa ]Zg|e _olZfZ, iZe_d ma[a ijlhZgxija jlobda. XXX
+// Arkhan1 L perso1
+L07D26
+ CZkdnZi Ma_jld|, fZf iZms~n ia[jgxtj^j nj]Zlduamfj^j kja_difZ? XXX
+// Phedoria (self-confident)perso26
+L07D27
+ Kj]Zlduamfde, Z? "#i^Zl_". XXX
+// Arkhan1 O perso1
+L07D28
+ Kw o hai| cahgz amnx [o_atx! XXX
+// Phedoria perso26
+L07D29
+ Cnj, |? "#i^Zl_", q]Zmnoi! XXX
+// Arkhan2 G perso2
+L07D57
+ Ma_jld|, ynj |, #lqZi! XXX
+// Arkhan3 G perso3
+L07D58
+ X #lqZi! XXX
+// Phedoria perso26
+L07D59A
+ #lqZi?! XXX
+// Phedoria perso26
+L07D59B
+ GnlZ]Z dchaidgZ na[| _j iaociZ]Zahjmnd! XXX
+// Arkhan2 G perso2
+L07D60A
+ Kw hia ]aldtx. Kw ia [jdtxm|. XXX
+// Arkhan2 G perso2
+L07D60B
+ Hjmga _lo^dq mnlZbae j^i| ynj kld|niZ| kalahaiZ! XXX
+// Phedoria perso26
+L07D61A
+ Kw bd]ja ]jkgjuaida ]ma^j, sa^j dq osdgd [j|nxm|. XXX
+// Phedoria perso26
+L07D61B
+ Eia ba ]m~ lZ]ij, fZf nw ]w^g|_dtx, kjfZ sdmnZ n]j| _otZ. XXX
+// Phedoria perso26
+L07D61C
+ X ia kjgosZgZ kldfZcZ Zlamnj]Znx dgd o[dnx na[|. XXX
+// Arkhan2 G perso2
+L07D62A
+ X ia ciZz, f fjho j[lZndnxm|... XXX
+// Arkhan2 G perso2
+L07D62B
+ Eij^da dc hjdq nZf iZcw]Zahwq _locae nakalx kljnd] hai| dgd qjn|n j[hZionx. XXX
+// Phedoria perso26
+L07D63
+ <mgd nw mjqlZidg ]alo ] ma[| d ] $j^Z JjgirZ, nw iZe_~tx ]wqj_. XXX
+// Arkhan2 G perso2
+L07D65
+ Kw kjhjbatx? XXX
+// Phedoria perso26
+L07D64A
+ Fan. XXX
+// Phedoria perso26
+L07D64B
+ X ia hj^o ]hatd]Znxm|. XXX
+// Phedoria perso26
+L07D64C
+ Ka[a kld_~nm| iZend ]wqj_ mZhjho. XXX
+// Arkhan2 G perso2
+L07D79
+ Ma_jld|... XXX
+// Phedoria perso26
+L07D80A
+ +j]jgxij. XXX
+// Phedoria perso26
+L07D80B
+ X ]m~ oba mfZcZgZ. XXX
+// Phedoria perso26
+L07D81
+ FZmnZd]Znx [amkjgacij. XXX
+// Arkhan3 G perso2
+L07D70A
+ X ]dbo, nw hia ]aldtx... XXX
+// Arkhan3 G perso2
+L07D70B
+ &ma jmnZgxiwa msdnZzn hai| hjimnljh... XXX
+// Arkhan3 G perso2
+L07D72
+ X idfjho ia hj^o _j]al|nx. XXX
+// Arkhan3 G perso2
+L07D82
+ Kw kjhjbatx? XXX
+// Arkhan3 G perso3
+L07D73
+ Ma_jld|... XXX
+// Phedoria perso26
+L07D30
+ "#i^Zl_"! XXX
+// Arkhan1 G perso1
+L07D51
+ FZ mfZhxa idsa^j ian. XXX
+// Arkhan2 G perso2
+L07D52
+ FZ mfZhxa idsa^j ian. XXX
+// Arkhan3 G perso3
+L07D53
+ Fdsa^j. XXX
+// Arkhan1 L perso1
+L07D33A
+ Vnj nlaidlj]jsiwe [jg]Zi, [jg]Zi. XXX
+// Arkhan1 L perso1
+L07D33B
+ Dosta nlaidlj]Znxm| m bd]wh kljnd]idfjh. XXX
+// Arkhan1 O perso1
+L07D34A
+ Hljmnj [amkjgaciwe nlaidlj]jsiwe hZiafai. XXX
+// Arkhan1 O perso1
+L07D34B
+ Vq, id co[w ]w[dnx, id fjmnd kalagjhZnx - snj kljfo ] i~h? XXX
+// Arkhan2 G perso2
+L07D35
+ Klaidlj]jsiwe hZiafai. Fan iZ ia^j ]lahaid! XXX
+// Arkhan3 G perso3
+L07D37
+ Fa ]lah| nlaidlj]Znxm|. XXX
+// Arkhan1 G perso1
+L07D39A
+ Vnj mnlagx[dua. XXX
+// Arkhan1 G perso1
+L07D39B
+ Cja-fjho ilZ]dnm| klZfndfj]Znxm| non ] mnlagx[a dc mkdnlj_j]. XXX
+// Arkhan2 G perso2
+L07D41
+ Jnlagx[dua. >_amx komnj. XXX
+// Arkhan3 G perso3
+L07D43
+ FZ mnlagx[dua komnj. XXX
+// Arkhan1 G perso1
+L07D45
+ $jgxtZ| hdtaix. *j_dnm| _g| ij]dsfj]. XXX
+// Arkhan2 G perso2
+L07D46
+ Vnj [jgxtZ| hdtaix. XXX
+// Arkhan3 G perso3
+L07D47
+ $jgxtZ| hdtaix. XXX
+// Arkhan1 G perso1
+L07D48
+ EZgZ| hdtaix. +g| hZmnalj] ]lj_a >a_Z. XXX
+// Arkhan2 G perso2
+L07D49
+ EZgZ| hdtaix. XXX
+// Arkhan3 G perso3
+L07D50
+ EZgZ| hdtaix. XXX
+// Arkhan2 L perso2
+L16D300A
+ Hld]an... EZjl, ]alij? XXX
+// Maor perso17
+L16D301
+ Nh... Pnj na[a iobij? XXX
+// Arkhan2 L perso2
+L16D304A
+ X #lqZi, _lo^ homjludfj]. XXX
+// Arkhan2 L perso2
+L16D304B
+ L hai| klj[gahw mj mnlZbZhd j^i|... d hia iobiZ ia[jgxtZ| kjhjux. XXX
+// Maor perso17
+L16D305
+ Hji|nij... Fj c_amx na[a idsa^j ia m]andn. XXX
+// Arkhan2 O perso2
+L16D311A
+ Ainalamij, nw fj^_Z-id[o_x ogw[Zatxm|? XXX
+// Arkhan2 O perso2
+L16D311B
+ Agd ]m~ m]j~ ]lah| kwnZatxm| ]w^g|_anx flonwh? XXX
+// Maor perso17
+L16D312A
+ X ogw[Zzmx gdtx flZmd]wh _a]otfZh, om~f? XXX
+// Maor perso17
+L16D312B
+ A_d ma[a, | sagj]af cZi|nje... XXX
+// Arkhan2 G perso2
+L18D184
+ Fa qjsatx qga[ionx tnjggZ? XXX
+// Malrot2 perso62
+L18D187
+ *gjnjf tnjggZ? Fa jnfZbomx. XXX
+// Malrot2 (after drinking) perso62
+L18D189
+ #q-q... HjbZgoe, hjbij au~ lZcjf! XXX
+// Malrot2 (burping) perso62
+L18D188
+ JkZmd[j... XXX
+// Malrot2 perso62
+L18D153A
+ Ve, kjmgotZe, hw non gz[dh kjfotZnx d ]wkdnx. XXX
+// Bogdaran perso8
+L05D110A
+ Fa [amkjfjem|. XXX
+// Bogdaran perso8
+L05D110B
+ <mgd | snj-nj ]w|miz, nw ociZatx kal]wh. XXX

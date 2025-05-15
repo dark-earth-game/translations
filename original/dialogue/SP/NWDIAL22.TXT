@@ -1,0 +1,106 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\SP\NWDIAL22.TXT
+ // Arkhan2 L perso2
+L22D22
+ Esto parece llegar hasta el corazón de la tierra. XXX
+// Arkhan2 0 perso2
+L22D23
+ ¡Podría saltar... un medio fácil de terminar! XXX
+// Arkhan3 L perso3
+L22D24
+ Esto parece llegar al corazón de la tierra. XXX
+// Arkhan3 0 perso3
+L22D25
+ Podría saltar... Una muerte limpia... XXX
+// Phedoria perso26
+L22D01
+ ¡Es preciso advertir a la Gran Predicadora! XXX
+// Arkhan2 L (delante del cuerpo de Rylsadhar) perso2
+L22D12A
+ ¡Padre! XXX
+// Arkhan2 L (delante del cuerpo de Rylsadhar) perso2
+L22D12B
+ ¡Juro vengaros! ¡Thanandar va a morir! XXX
+// Arkhan2 O perso2
+L22D13A
+ ¡Thanandar! ¡Has matado a mi padre! XXX
+// Arkhan2 O perso2
+L22D13B
+ ¡Vas a pagar! XXX
+// Arkhan3 L perso3
+L22D14
+ ¡Padre! ¡Reclamo venganza! XXX
+// Arkhan3 O (gruñendo por si mismo) perso3
+L22D15
+ ¡Padre! ... ¡RAAAH! ¡Venganza! XXX
+// Arkhan2 L (delante del cuerpo de Zed) perso2
+L22D18A
+ ¡Zed, amigo mío! XXX
+// Arkhan2 L perso2
+L22D18B
+ ¡Juro vengarte! ¡Thanandar responderá de sus crímenes! XXX
+// Arkhan2 O (vengador) perso2
+L22D19A
+ ¡Thanandar! ¡Has matado a Zed, mi hermano! XXX
+// Arkhan2 O perso2
+L22D19B
+ ¡Estás muerto! XXX
+// Arkhan3 L perso3
+L22D20
+ ¡Zed, hermano mío! ¡RAAH! ¡Venganza! XXX
+// Arkhan3 O (vengador, aulla) perso3
+L22D21
+ ¡Thanandar! ¡Estás muerto! XXX
+// Arkhan2 L perso2
+L22D06A
+ ¡Por el Rahal, la energía de la que hablaba mi padre! XXX
+// Arkhan2 L perso2
+L22D06B
+ ¡Por fin, el medio de curarme! XXX
+// Arkhan2 L perso2
+L22D06C
+ Ahhh... ¡Me quemo!... Por dentro... ¡Ah! XXX
+// Arkhan2 L perso2
+L22D07A
+ ¡No! ¡No podría soportar tal dolor! XXX
+// Arkhan2 L perso2
+L22D07B
+ ¡Es demasiado poderoso, eso me mataría! XXX
+// Arkhan2 O perso2
+L22D08A
+ ¡Por fin! ¡La energía de la que hablaba mi padre! XXX
+// Arkhan2 O perso2
+L22D08B
+ ¡Voy a curarme! XXX
+// Arkhan2 O perso2
+L22D16
+ ¡Me hacía tanta falta! XXX
+// Arkhan3 L perso3
+L22D09A
+ ¡La fuente, la energía! XXX
+// Arkhan3 L perso3
+L22D09B
+ ¡Voy a curarme! XXX
+// Arkhan3 L perso2
+L22D09C
+ ¡Aaah! Yo... ardo... ¡Aah! XXX
+// Arkhan3 L perso3
+L22D10
+ ¡No! ¡Eso me matará! XXX
+// Arkhan3 O perso3
+L22D11
+ ¡Por el fuego, la energía... la curación! XXX
+// Arkhan3 O perso3
+L22D17
+ ¡Todavía! XXX
+// Arkhan2 L perso2
+L22D02
+ ¡La luz está muerta! La energía... agotada. XXX
+// Arkhan2 O perso2
+L22D03
+ No... ¡La luz está muerta! XXX
+// Arkhan3 L perso3
+L22D04
+ ¡La luz... la energía... muertas! XXX
+// Arkhan3 O (rabioso) perso3
+L22D05
+ ¡Nada más! XXX

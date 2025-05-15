@@ -1,0 +1,204 @@
+12345678901234567890123456789012345678901234567890
+
+@1
+Vieil uniforme de Bogdaran
+@2
+Anneau de la clef de Rylsadhar
+@3
+Carte de métal perforée
+@4
+Assiette
+@5
+Barre de métal
+@6
+Recharge de lancefeu
+@7
+Billes de plomb pour cracheur
+@8
+Bouillonnante pour cracheur
+@9
+Poignée de métal
+@10
+Carte plate de l'Avant.
+@11
+Clef de pierre rouge.
+@12
+Cristal taillé en pointe
+@13
+Gros légume.
+@14
+Clef Konkalite
+@15
+Clef de Sordos
+@16
+Clef de Bogdaran
+@17
+Marteau
+@18
+Cristal de la clef (biseauté à gauche)
+@19
+Cristal de la clef (biseauté à droite)
+@20
+Miroir de l'Avant
+@21
+Fiole ronde
+@22
+Flacon
+@23
+Foudre de l'Avant
+@24
+Gourde de Stohll (pleine)
+@25
+Vêtements
+@26
+Hache de bataille
+@27
+Lancefeu
+@28
+Long couteau
+@29
+Mât à hélice
+@30
+Hachoir de la Nourrisseuse
+@31
+Potion de Thanandar
+@32
+Petit foudre offert par Kalhi
+@33
+Plaque de plomb
+@34
+Pomme de terre
+@35
+Foudre de Zed
+@36
+Grosse racine
+@37
+Hallebarde courte
+@38
+Sabre de Gardien du Feu
+@39
+Munitions du foudre offert par Kalhi
+@40
+Objet inconnu de l'Avant (isolé dans l'huile)
+@41
+Objet inconnu de l'Avant
+@42
+Verre
+@43
+Poisson
+@44
+Viande fumée
+@45
+Morceau de cristal de roche
+@46
+Notes de Rylsadhar
+@47
+Lourde hache de Konkalite
+@48
+Mât à hélice (cassé)
+@49
+Document de Sordos
+@50
+Plan d'arme
+@51
+Pâle de l'hélice du Puits
+@52
+Dessins de Rylsadhar
+@53
+Trancheur Konkalite
+@54
+Boule de feu
+@55
+Cracheur
+@56
+Rat écrasé
+@57
+Trancheur de Sordos
+@58
+Sabre de Zed
+@59
+Sabre du Marcheur
+@60
+Pièce d'argent de Dhorkan
+@61
+Fléau d'armes de Walkyria (zzz)
+@62
+Hallebarde (zzz)
+@63
+Dague de Kalhi
+@64
+Morceau de pouleton
+@65
+Bol de terre cuite
+@66
+Foudre de Lory
+@67
+Hache de combat
+@68
+Foudre de Zed (sur Zed)
+@69
+Sauvegarde
+@70
+Plan du Maître Bâtisseur
+@71
+Combinaison de métal (très lourde)
+@72
+Munitions pour le foudre de l'Avant
+@73
+Munitions pour le foudre de Zed
+@74
+Piolet de Danrys
+@75
+Clef de cristal de Rylsadhar 
+@76
+Masse de Maor
+@77
+Gourde
+(vide)
+@78
+Petite masse de Danrys
+@79
+Hache de Gardien du Feu
+@80
+Sabre de Dhorkan
+@81
+Parchemin de Rylsadhar
+@82
+Livre de l'Archiviste
+@83
+Sabre de Gardien du Feu
+@84
+Casque de métal
+@85
+Plastron de métal (très lourd)
+@86
+Bonbonne de l'Avant
+@87
+Pion de Yong
+@88
+Tube de Bogdaran
+@89
+Clef de la Prison
+@90
+Boulet de plomb
+@91
+Poignard
+@92
+Poignard long
+@93
+Stylet de Dhorkan
+@94
+Pilon de Kabak
+@95
+Mortier de Kabak
+@96
+Grande clef d'acier
+@97
+Jerrican
+@98
+Pierre à meule
+@99
+Boite de métal scellée
+@100
+(arme brisée)
+@fin

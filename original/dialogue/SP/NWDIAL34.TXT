@@ -1,0 +1,166 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\SP\NWDIAL34.TXT
+ // Konkalite7 perso77
+L34D777
+¡Te voy a hacer pedazos! XXX
+// Konkalite7 perso77
+L34D778
+¡Estás muerto! XXX
+// Thanandar perso24
+L34D100A
+ ¡Mira está aquí! El hijo de Rylsadhar. XXX
+// Thanandar perso24
+L34D100B
+ ¡Tus hombres dejan pasar a cualquiera! XXX
+// Sordos perso23
+L34D101
+ ¡Él también es un contaminado! XXX
+// Thanandar perso24
+L34D102A
+ Sí. ¡Pero ahora que tengo a su padre, no me sirve de nada! XXX
+// Thanandar perso24
+L34D102B
+ ¡Mátale! XXX
+// Sordos perso23
+L34D04A
+ Hmmm... (escupe) XXX
+// Sordos perso23
+L34D04B
+ ¡No voy a matarte enseguida, sería demasiado fácil! XXX
+// Sordos perso23
+L34D04C
+ Mis hombres van a ocuparse de ti a su manera. XXX
+// Sordos perso23
+L34D04D
+ ¡Y pronto les suplicarás que te maten! XXX
+// Sordos (surprendido de encontrar a Arkhan en su casa)perso23
+L34D38
+ ¡¿Eh, de dónde has salido tú?! XXX
+// Sordos perso23
+L34D39
+ ¡Responde, miserable, o te arranco la lengua! XXX
+// Sordos perso23
+L34D40A
+ ¡Voy a recortarte la jeta! XXX
+// Sordos perso23
+L34D40B
+ ¡Siempre he querido ser escultor! XXX
+// Thanandar perso24
+L34D201
+ ¡Muere, pobre loco! XXX
+// Arkhan2 L perso2
+L34D05
+ ¡Thanandar! ¿Qué significa esto? XXX
+// Arkhan2 O perso2
+L34D06
+ ¡Thanandar, sucio bastardo! ¡Me has mentido! XXX
+// Arkhan3 G perso3
+L34D07
+ ¡Thanandar! ¡Traidor! XXX
+// Thanandar (decepcionado) perso24
+L34D200A
+ No comprendes nada, como los otros. ¡Te resistes a aceptar a las tinieblas! XXX
+// Thanandar perso24
+L34D200B
+ ¡La muerte es la recompensa de los imbéciles! XXX
+// Sordos perso23
+L34D202
+ ¡Voy a arrancarte el corazón! XXX
+// Arkhan2 L perso2
+L34D13
+ ¿Eres tú el poderoso Sordos? XXX
+// Arkhan2 O perso2
+L34D14
+ ¿Eh, eres tú el señor de esta banda de inmundicias? XXX
+// Arkhan3 L perso3
+L34D15
+ ¿Tú eres Sordos? XXX
+// Arkhan3 O perso3
+L34D16
+ ¡Por tu culpa vivo en la mierda! ¡Vas a pagármelo! XXX
+// Sordos (amenazante) perso23
+L34D17A
+ No sé de dónde sales, pero estoy seguro de una cosa: XXX
+// Sordos (amenazante) perso23
+L34D17B
+ ¡Volverás partido en trozos! XXX
+// Arkhan2 L perso2
+L34D22
+ ¿Eres tú, Sordos? Me envía Dhorkan. XXX
+// Sordos (agresivo) perso23
+L34D23
+ ¿Dhorkan, eh? ¿Y qué es lo que quiere de mí? XXX
+// Arkhan2 L perso2
+L34D24
+ Decirte que no aprecia tus fracasos. XXX
+// Sordos (habla y después se interrumpe) perso23
+L34D25
+ ¡¿Sí?! Dile a ese cretino de Dhorkan que haría mejor en... XXX
+// Arkhan2 O (desanimado) perso2
+L34D27
+ ¡Eh, Sordos! Traigo un mensaje de Dhorkan. XXX
+// Arkhan2 O perso2
+L34D28A
+ ¡Dice que no eres más que un pequeño buscador de mierda! XXX
+// Arkhan2 O perso2
+L34D28B
+ Y espera que te mueras en esta cueva apestosa. XXX
+// Sordos (rabioso) perso23
+L34D29
+ ¡¿QUÉ?!  XXX
+// Sordos (dandose cuenta de pronto de que es Arkhan) perso23
+L34D26A
+ ¡Pero yo te conozco, tu eres el cabrón que puso la jeta por Lory! XXX
+// Sordos (cruel) perso23
+L34D26B
+ ¡Has hecho bien en venir, es necesario que me desfogue con alguien! XXX
+// Arkhan3 L (amenazante) perso3
+L34D30
+ ¡Sordos... me envía Dhorkan! XXX
+// Arkhan3 L perso2
+L34D31
+ ¡Te diré que has terminado! XXX
+// Sordos perso23
+L34D41
+ ¡Tienes ganas de suicidarte, Buscador! XXX
+// Arkhan2 G perso2
+L04D44
+ ¡Esta no es la llave correcta! XXX
+// Arkhan3 G perso3
+L04D45
+ ¡Llave incorrecta! XXX
+// Arkhan2 L perso2
+L34D34
+ ¡Esto no parece confortable! XXX
+// Arkhan2 O perso2
+L34D35
+ ¡Yo no dormiré en eso! XXX
+// Arkhan3 G perso3
+L34D36
+ ¡No parece confortable! XXX
+// Arkhan2 L (examina un tubo) perso2
+L34D500
+ Un grueso tubo oxidado. XXX
+// Arkhan3 L (examina un tubo) perso3
+L34D501
+ Todo el tubo está oxidado. XXX
+// Arkhan2 L (examina la reja) perso2
+L34D506
+ Una reja de acero. XXX
+// Arkhan3 L (examina la reja) perso3
+L34D507
+ Una reja pesada. XXX
+// Arkhan2 G perso2
+L34D502
+ Gruesos toneles. Aparentemente vacíos. XXX
+// Arkhan3 G perso3
+L34D503
+ Toneles. Vacíos. XXX
+// Arkhan2 G perso2
+L34D504A
+ Un tonel de Stohll invertido. XXX
+// Arkhan2 G perso2
+L34D504B
+ ¡Estos Konkalites son bebedores empedernidos! XXX
+// Arkhan3 G perso3
+L34D505
+ Un tonel de Stohll. Vacío. XXX

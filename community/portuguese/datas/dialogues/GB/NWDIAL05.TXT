@@ -1,0 +1,500 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\GB\NWDIAL05.TXT
+// Bogdaran (surpreendido e feliz por ver Delia) perso8
+L05D01
+Delia! Estás viva! Meu amor! XXX
+// Delia (entre soluços e cólera) perso10
+L05D02
+Monstro... vais pagar pelo teu crime! XXX
+// Bogdaran perso8
+L05D03
+Não creio que me vençais tão facilmente! XXX
+// Delia (Arkhan matou Bogdaran)perso10
+L05D04
+Bogdaran... Assassino! XXX
+// Bogdaran (aterrorizado) perso8
+L05D39A
+Não... Não! XXX
+// Delia perso10
+L16D122
+Pára! Estás a assustar-me! XXX
+// Bogdaran (louco de raiva) perso8
+L05D77D
+Monstro, vou matar-te! XXX
+// Arkhan1 L (tossindo educadamente) perso1
+L05D05
+Ahem! XXX
+// Arkhan1 O (tossindo ruidosamente) perso1
+L05D06
+Ahem-ahem! XXX
+// Bogdaran (surpreendido pela intrusão de Arkhan) perso8
+L05D11A
+Quê... Quem és tu? XXX
+// Bogdaran (acovardado) perso8
+L05D12B
+Fora daqui, ou chamo a guarda! XXX
+// Arkhan2 L (tossindo educadamente) perso2
+L05D07
+Ahem! XXX
+// Arkhan2 O (tossindo ruidosamente) perso2
+L05D08
+Ahem-ahem! XXX
+// Arkhan3 L (tossindo educadamente) perso3
+L05D09
+Ahem! XXX
+// Arkhan3 O (tossindo ruidosamente) perso3
+L05D10
+Ahem-ahem! XXX
+// Bogdaran (pouco amável) perso8
+L05D13A
+Que fazes tu aqui? Não estás no teu lugar, Guardião do Fogo. XXX
+// Bogdaran (pouco amável) perso8
+L05D13B
+Vai-te embora, estou ocupado! XXX
+// Bogdaran perso8
+L05D14
+O meu trabalho precisa de tranquilidade! XXX
+// Bogdaran perso8
+L05D15
+Vai-te... vai treinar para outro lado! XXX
+// Bogdaran perso8
+L05D16
+Procuras a saída? Está lá em baixo! XXX
+// Bogdaran (apercebe-se que Arkhan lhe fala) perso8
+L05D17
+Como? Quem...? XXX
+// Arkhan2 G perso2
+L05D18
+O objeto de Antes. XXX
+// Arkhan3 G perso3
+L05D19
+O objeto de Antes! XXX
+// Bogdaran perso8
+L05D20A
+Ah sim... É uma substância muito estranha que já me trouxeste! XXX
+// Bogdaran perso8
+L05D20B
+Não estou certo do que é esta barra lá dentro, mas não se deve molhar. XXX
+// Bogdaran perso8
+L05D20C
+Isolei-a em óleo de rueg. Mas tem cuidado, porque é perigosa! XXX
+// Delia (falando a Bogdaran) perso10
+L05D21A
+Bogdaran! Pensaste em mim... XXX
+// Delia (falando a Bogdaran) perso10
+L05D21B
+E enviaste... o Arkhan para me procurar. XXX
+// Delia (falando a Bogdaran) perso10
+L05D21C
+Obrigada... meu amor. XXX
+// Bogdaran (Arkhan1 remexe nas suas coisas) perso8
+L05D22
+Deus Sol! O que procuras aí? XXX
+// Bogdaran (falsamente ingénuo) perso8
+L05D23A
+Farias o mesmo no quarto do Preboste? XXX
+// Bogdaran (enerva-se subitamente) perso8
+L05D23B
+Porque se continuas é para lá que vais acabar! XXX
+// Arkhan1 L (amável) perso1
+L05D24A
+Bem, deixo-te. XXX
+// Arkhan1 L (amável) perso1
+L05D24B
+Que a luz esteja contigo. XXX
+// Arkhan1 O (sarcástico) perso1
+L05D25
+É sempre um prazer falar contigo! XXX
+// Bogdaran perso8
+L05D26
+Farias melhor em ir-te embora! XXX
+// Arkhan1 L perso1
+L05D27
+Sobretudo, não queria incomodar-te. XXX
+// Arkhan1 O perso1
+L05D28
+Então, Mestre oleeiro, estás demasiado ocupado para falar? XXX
+// Arkhan1 O perso1
+L05D29
+Adeus, Bogdaran. XXX
+// Arkhan1 L perso1
+L05D30
+Que a luz esteja contigo, Mestre Bogdaran. XXX
+// Bogdaran perso8
+L05D31
+Lamento Guardião do Fogo, mas não tenho tempo para falar... XXX
+// Arkhan1 L perso1
+L05D32
+Claro, compreendo. XXX
+// Arkhan1 O perso1
+L05D33
+Esta amabilidade é natural, ou esforças-te em minha honra? XXX
+// Bogdaran (com desdém) perso8
+L05D34
+Mmmf! XXX
+// Arkhan2 L perso2
+L05D35
+Não temas, não quero fazer-te mal... XXX
+// Arkhan2 O perso2
+L05D36
+Calma, barrigudo! XXX
+// Arkhan3 L perso3
+L05D37
+Bogdaran... calma! XXX
+// Bogdaran (aterrorizado) perso8
+L05D39B
+Não te aproximes! Não te aproximes! XXX
+// Arkhan2 L perso2
+L05D40
+Tem calma. Sou eu, o Arkhan. Sou um Guardião do Fogo, como tu. XXX
+// Arkhan2 O perso2
+L05D41
+Pára de gritar! Sou eu, o Arkhan! XXX
+// Arkhan3 L perso3
+L05D42
+Sou eu, o Arkhan! XXX
+// Bogdaran (aterrorizado) perso8
+L05D44A
+Não! Nunca te vi! XXX
+// Bogdaran (aterrorizado) perso8
+L05D44B
+Socorro! Acudam, Guardiões do Fogo! XXX
+// Arkhan2 G perso2
+L05D45A
+Mestre Oleeiro, conheces os segredos dos óleos e da alquimia. XXX
+// Arkhan2 G perso2
+L05D45B
+De certeza conheces um meio de me curar deste mal! XXX
+// Arkhan3 G perso3
+L05D46
+Sabes como curar-me? Fala! XXX
+// Bogdaran perso8
+L05D47A
+Eh... Eu... Gostaria de ajudar-te mas não conheço nada desse mal. XXX
+// Bogdaran perso8
+L05D47B
+Só os Pregadores Curadores podem ajudar-te. XXX
+// Arkhan2 G perso2
+L05D48
+Procuro uma cripta... Um lugar onde o meu pai ia algumas vezes. XXX
+// Arkhan3 G perso3
+L05D49
+Procuro um lugar sagrado, uma cripta. XXX
+// Bogdaran perso8
+L05D50A
+Uma cripta? Não, eu não conheço mais que o meu laboratório. XXX
+// Bogdaran perso8
+L05D50B
+Deverias falar com o Bandor, o Mestre Construtor. XXX
+// Bogdaran perso8
+L05D50C
+O Stallite não tem segredos para ele. XXX
+// Bogdaran perso8
+L05D50D
+Mas a torre dos Construtores está fechada há alguns dias. XXX
+// Arkhan2 G perso2
+L05D53A
+O meu pai Rylsadhar entregou a algumas pessoas uns cristais de luz. XXX
+// Arkhan2 G perso2
+L05D53B
+Tens tu um guardado? XXX
+// Arkhan3 G perso3
+L05D54
+Recebeste recentemente um cristal do meu pai? XXX
+// Bogdaran perso8
+L05D55A
+O teu pai? Não, ele nunca veio ver-me aqui. XXX
+// Bogdaran perso8
+L05D55B
+E não tenho cristais, lamento. XXX
+// Arkhan2 G perso2
+L05D56
+Que sabes do Thanandar? XXX
+// Arkhan3 G perso3
+L05D57
+Fala-me do Thanandar! XXX
+// Bogdaran perso8
+L05D58A
+É um Pregador e um Curador. XXX
+// Bogdaran perso8
+L05D58B
+Um erudito, sedento de conhecimento. Muitos lhe devemos a vida. XXX
+// Bogdaran perso8
+L05D58C
+Mas dizem que há algum tempo, se fecha sozinho em casa com bastante frequência. XXX
+// Arkhan2 G perso2
+L05D59
+Estou à procura do Rylsadhar. Viste-o? XXX
+// Arkhan3 G perso3
+L05D60
+Procuro o meu pai. Viste-o? XXX
+// Bogdaran perso8
+L05D61
+O Rylsadhar? Não, é raro que venha por aqui. XXX
+// Arkhan2 G perso2
+L05D62
+E o Zed, sabes onde está? XXX
+// Arkhan3 G perso3
+L05D63
+E o Zed, viste-o? XXX
+// Bogdaran perso8
+L05D64A
+Depois do teu... teu acidente, o Zed vinha aqui buscar as munições. XXX
+// Bogdaran perso8
+L05D64B
+Queria descer à cidade baixa para tentar juntar-se aos hereges. XXX
+// Arkhan2 L perso2
+L05D65
+Que é esta substância? XXX
+// Arkhan3 L perso3
+L05D66
+Então, a substância? XXX
+// Bogdaran perso8
+L05D67
+Dá-me um pouco de tempo para a estudar! Está bem? XXX
+// Arkhan2 O perso2
+L05D209
+Então, esta substância, o que é?! XXX
+// Arkhan3 O perso3
+L05D210
+A substância! XXX
+// Bogdaran (impressionado) perso8
+L05D211A
+Muito bem, calma, vou estudá-la. XXX
+// Bogdaran (impressionado) perso8
+L05D211B
+Mas tens de me dar um pouco de tempo, está bem? XXX
+// Arkhan2 G perso2
+L05D68
+Mestre oleeiro, dá-me a análise dessa substância escura. XXX
+// Bogdaran (inquieto) perso8
+L05D70A
+Escuta, acho que em breve saberei mais. XXX
+// Bogdaran (inquieto) perso8
+L05D70B
+Mas precisarei da tua ajuda. XXX
+// Bogdaran (inquieto) perso8
+L05D70C
+Com este caos, estou muito preocupado com alguém... uma rapariga. XXX
+// Bogdaran (inquieto) perso8
+L05D70D
+Delia. Encontrá-la-ás na cidade baixa... Na "Flauta de Prata". XXX
+// Bogdaran (inquieto) perso8
+L05D70E
+É um cabaré... Traz-ma aqui, peço-te. XXX
+// Bogdaran (inquieto) perso8
+L05D70F
+Quando a Delia estiver a salvo comigo dir-te-ei tudo o que queres saber sobre esta relíquia de Antes. XXX
+// Arkhan2 L perso2
+L05D72
+Bogdaran... A Delia, ela... Ela está morta. Lamento muito. XXX
+// Arkhan2 O (sinistro) perso2
+L05D73
+Esta rapariga que querias que te trouxesse, a Delia... uma fêmea imponente. XXX
+// Bogdaran (perdido e cheio de esperança ao mesmo tempo) perso8
+L05D74
+Sim? XXX
+// Arkhan2 O (mau) perso2
+L05D75
+Ela está morta! Mas tens de mergulhá-la no óleo, para que se conserve! XXX
+// Arkhan3 G perso3
+L05D76
+Não voltarás a ver a Delia. Está morta. XXX
+// Bogdaran (louco de dor) perso8
+L05D77A
+O quê?! Não! Delia... Não, mentes! XXX
+// Bogdaran (louco de dor) perso8
+L05D77B
+Meu amor... Não está morta! Mentes! XXX
+// Bogdaran (subitamente ameaçador) perso8
+L05D77C
+Foste tu, eh?! Tu mataste-a! XXX
+// Arkhan2 G perso2
+L05D78
+Que podes dizer-me deste objeto de Antes? XXX
+// Arkhan3 G perso3
+L05D79
+Fala-me do objeto de Antes! XXX
+// Bogdaran (intranquilo mas tenaz) perso8
+L05D80A
+Como combinámos: primeiro traz-me a Delia... XXX
+// Bogdaran (recompõe-se) perso8
+L05D80B
+E depois, estudarei a tua relíquia e dir-te-ei o que queres saber. XXX
+// Arkhan2 G perso2
+L05D87
+Examinaste a relíquia de Antes? XXX
+// Arkhan3 G perso3
+L05D88
+E a relíquia de Antes? XXX
+// Arkhan2 G perso2
+L05D89
+Porque puseste óleo na relíquia de Antes? XXX
+// Arkhan3 G perso3
+L05D90
+Porque há óleo no objeto de Antes? XXX
+// Bogdaran perso8
+L05D91A
+Vês a barra verde do centro? XXX
+// Bogdaran perso8
+L05D91B
+Não derramei mais que uma gota de água e as chamas que brotaram queimaram-me a barba! 
+XXX
+// Bogdaran perso8
+L05D91C
+O óleo, pelo contrário, é neutro. É mais seguro assim. XXX
+// Bogdaran perso8
+L05D91C
+O óleo, pelo contrário, é neutro. É mais seguro assim. XXX
+// Arkhan2 G perso2
+L05D92
+Deixo-vos. XXX
+// Arkhan3 G perso3
+L05D93
+Vou-me embora. XXX
+// Bogdaran perso8
+L05D94
+Obrigado, Arkhan. Volta se precisares de mim! XXX
+// Arkhan2 G perso2
+L05D95
+Sei onde encontrar-te! XXX
+// Arkhan3 G perso3
+L05D96
+Encontrar-te-ei! XXX
+// Arkhan2 L perso2
+L05D81
+Lamento incomodar-vos. XXX
+// Arkhan2 O perso2
+L05D97
+Vejo que estás ocupado! XXX
+// Arkhan3 G perso3
+L05D98
+Incomodo? XXX
+// Bogdaran (rindo alegremente) perso8
+L05D99
+Não é grave! Ah ah ah! Não grave... XXX
+// Bogdaran (incomodado) perso8
+L05D82
+Muito bem. Que a luz esteja contigo! XXX
+// Arkhan2 G perso2
+L05D103
+Verdadeiramente não sabes nada deste mal que me corrói? XXX
+// Arkhan3 G perso3
+L05D104
+Então não sabes nada do meu mal! XXX
+// Bogdaran perso8
+L05D105
+Não, Arkhan, repito-te que não posso fazer nada... XXX
+// Arkhan2 G perso2
+L05D108
+Se te lembrares de algo que me possa ajudar... XXX
+// Arkhan3 G perso3
+L05D109
+Se te lembrares de algo útil... XXX
+// Bogdaran perso8
+L05D110A
+Não te preocupes. XXX
+// Bogdaran perso8
+L05D110B
+Se tiver informação, dar-ta-ei. XXX
+// Arkhan1 G perso1
+L05D111
+Que podes dizer-me deste objeto? XXX
+// Bogdaran perso8
+L05D114
+Isto não me diz nada de especial. XXX
+// Arkhan2 G perso2
+L05D115
+Encontrei este uniforme lá em baixo! XXX
+// Arkhan3 Gperso3
+L05D116
+É o teu uniforme? XXX
+// Bogdaran perso8
+L05D117A
+Sim, o meu primeiro uniforme... Era muito mais novo... XXX
+// Bogdaran perso8
+L05D117B
+Não acho que me caiba agora... XXX
+// Arkhan2 G perso2
+L05D118
+Guardo o teu uniforme, se já não te serve para nada. XXX
+// Arkhan3 G perso3
+L05D119
+Guardo o teu uniforme. XXX
+// Bogdaran perso8
+L05D120
+Eh... Sim, fica com ele. XXX
+// Bogdaran perso8
+L05D121A
+Atenção! É perigoso! XXX
+// Bogdaran perso8
+L05D121B
+O óleo especial que está lá dentro explode quando se inflama. XXX
+// Bogdaran perso8
+L05D121C
+Os danos são terríveis! XXX
+// Bogdaran perso8
+L05D122A
+Estas bolas? São munições para os cuspidores. XXX
+// Bogdaran perso8
+L05D122B
+Mas atenção, porque para que o teu cuspidor funcione, precisarás de lhe adicionar um líquido fervente. XXX
+// Bogdaran perso8
+L05D123A
+O líquido fervente é indispensável, já que é uma reserva de vapor para os cuspidores. XXX
+// Bogdaran perso8
+L05D123B
+Sem líquido fervente nem munições, o teu cuspidor não será mais que um vulgar bastão! XXX
+// Bogdaran (impressionado) perso8
+L05D124A
+Incrível! Que maravilha! XXX
+// Bogdaran perso8
+L05D124B
+Diria que é um raio de Antes, como o do Zed. XXX
+// Bogdaran perso8
+L05D124C
+Mas este aqui é muito maior. XXX
+// Bogdaran (curioso) perso8
+L05D124D
+Já o... experimentaste? XXX
+// Arkhan2 G perso2
+L05D125
+Não te preocupes com isso. XXX
+// Arkhan3 G perso3
+L05D126
+Não te preocupes com isso. XXX
+// Bogdaran perso8
+L05D135A
+Tens um lança-chamas? XXX
+// Bogdaran perso8
+L05D135B
+É uma nova arma inventada pelos Pregadores. XXX
+// Bogdaran perso8
+L05D135C
+Mas... eu pensava que os planos tinham sido roubados. XXX
+// Bogdaran perso8
+L05D135D
+Onde o encontraste? XXX
+// Bogdaran perso8
+L05D138A
+Está com essas placas que fazem as munições para os cuspidores. XXX
+// Bogdaran perso8
+L05D138B
+Mas já não posso fazer mais, precisam de demasiado calor. XXX
+// Bogdaran perso8
+L05D138C
+Será preciso que vás ao Vestíbulo, em frente à sala da Guarda. XXX
+// Bogdaran (orgulhoso de si mesmo) perso8
+L05D141A
+Um cuspidor. Sabias que fui eu quem aperfeiçoou esta arma? XXX
+// Bogdaran (orgulhoso de si mesmo) perso8
+L05D141B
+Sou o único que fabrica os líquidos ferventes que contêm o vapor necessário para o disparo. XXX
+// Bogdaran (orgulhoso)perso8
+L05D141C
+Um sistema verdadeiramente engenhoso... XXX
+// Arkhan2 G perso2
+L05D142A
+Mestre Oleeiro, encontrei isto. XXX
+// Arkhan2 G perso2
+L05D142B
+Provém das ruínas de Antes. XXX

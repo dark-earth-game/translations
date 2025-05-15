@@ -1,0 +1,43 @@
+00:52:00	00:53:04		{The ancient world,}
+00:53:06	00:54:22		{the golden days of Before,}
+00:54:24	00:57:10		{came to an end with the Great Cataclysm.}
+00:58:06	01:01:26		{Black fire raining from the skies engulfed the planet,}
+01:01:28	01:06:02		{the earth opened, and the seas flowed over the land.}
+01:08:12	01:10:26		{The cities of Light erected by the ancients}
+01:10:28	01:13:00		{turned to dust, and the world}
+01:13:02	01:16:06		{was plunged into everlasting darkness.}
+01:16:24	01:18:06		{And when the divine wrath }
+01:18:08	01:20:12		{ceased afflicting our world,}
+01:20:14	01:22:28		{the Initiates, spared by the Sun God}
+01:23:00	01:25:00		{arose amid the chaos.}
+01:25:02	01:26:14		{Guided by their faith,}
+01:26:16	01:28:12		{they set off in search of a land}
+01:28:14	01:30:04		{free of the Black Shroud,}
+01:30:06	01:32:18		{where life could once again spring forth.}
+01:33:08	01:35:10		{They were the "Wanderers"-men and women}
+01:35:12	01:36:24		{in search of light and hope}
+01:36:26	01:39:16		{amid the perils of the Darklands.}
+02:03:24	02:06:08		{Their journey lasted many, many moons,}
+02:06:10	02:07:26		{until the glorious day when}
+02:07:28	02:10:06		{the fathers of our fathers' fathers}
+02:10:08	02:12:24		{finally ceased their wandering.}
+02:16:10	02:17:18		{They discovered a land blessed}
+02:17:20	02:21:02		{by the Light of the Sun God, a Stallite.}
+02:22:22	02:25:14		{There they built a city and erected a Temple}
+02:25:16	02:27:19		{in honor of the Father of Light. }
+02:28:00	02:30:02		{They called it Sparta.}
+02:31:14	02:33:16		{Today, a terrible danger}
+02:33:18	02:34:20		{threatens Sparta.}
+02:36:02	02:37:22		{The future of the entire city}
+02:37:24	02:40:00		{lies in the hands of a single man.}
+02:41:02	02:43:18		{Arkhan, the Guardian of Fire.}
+02:44:24	02:47:28		{In order to survive the terrible ordeals he faces,}
+02:48:10	02:50:16		{he must seek the help of those around him.}
+02:51:20	02:53:04		{His beloved Kalhi...}
+02:55:20	02:57:22		{Zed, his brother in arms...}
+02:59:02	03:01:14		{His father Rylsadhar...}
+03:02:28	03:05:28		{Lory, the Great Sunseer...}
+03:07:00	03:09:04		{Danrys, the Scavenger...}
+03:09:10	03:11:02		{If they fail,}
+03:11:04	03:12:20		{the Light of the Sun God}
+03:12:22	03:17:00		{will never again shine on Sparta!}     

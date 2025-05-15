@@ -1,0 +1,637 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL39.TXT
+ // Arkhan2 G perso2
+L39D110
+ Have to be pretty brave to sleep up there. XXX
+// Arkhan3 G perso3
+L39D111
+ Sleep up there... Have to be brave... XXX
+// Leona (imperiously) perso14
+L39D01A
+ Who are you? XXX
+// Leona (imperiously) perso14
+L39D01B
+ What are you doing in my domain? XXX
+// Leona (angry) perso14
+L39D107
+ How dare you return?! XXX
+// Leona perso14
+L39D03A
+ Arkhan. XXX
+// Leona perso14
+L39D03B
+ What do you want from me? XXX
+// Leona perso14
+L39D02
+ You again? XXX
+// Leona (warily) perso14
+L39D04
+ Be still! You have nothing to fear from me. XXX
+// Leona (attacked by A.) perso14
+L39D108
+ You have become a slave to the darkness! XXX
+// Leona (relaxing) perso14
+L39D05
+ That's better. Be calm, and we can talk. XXX
+// Arkhan2 L perso2
+L39D06A
+ I'm Arkhan, son of Rylsadhar.  XXX
+// Arkhan2 L perso2
+L39D06B
+ I come in peace.  XXX
+// Arkhan2 O perso2
+L39D07A
+ I'm Arkhan, son of Rylsadhar.  XXX
+// Arkhan2 O perso2
+L39D07B
+ Are you Leona the sorceress? XXX
+// Leona (on the defensive) perso14
+L39D08A
+ Arkhan, you say. I know your father. XXX
+// Leona perso14
+L39D08B
+ But I've never seen you before. XXX
+// Leona perso14
+L39D08C
+ How do I know you're telling the truth? XXX
+// Arkhan2 L perso2
+L39D09A
+ Proof?  XXX
+// Arkhan2 L perso2
+L39D09B
+ I can offer you nothing but my word! XXX
+// Arkhan2 O perso2
+L39D10A
+ Nothing. XXX
+// Arkhan2 O perso2
+L39D10B
+ But for the sake of our survival, you better believe me! XXX
+// Leona perso14
+L39D11A
+ That's not much... XXX
+// Leona perso14
+L39D11B
+ But your words are not tarnished by lies. XXX
+// Leona perso14
+L39D11C
+ I sense that I can trust you. XXX
+// Arkhan2 L perso2
+L39D18A
+ The situation is serious.  XXX
+// Arkhan2 L perso2
+L39D18B
+ The Stallite's been swallowed by Darkness. XXX
+// Arkhan2 O perso2
+L39D19A
+Hey lady,  In case you hadn't noticed, everyone's gone crazy out there! XXX
+// Arkhan2 O perso2
+L39D19B
+ The Stallite's been swallowed by Darkness. XXX
+// Leona (alarmed) perso14
+L39D20A
+ The Well of Sacred Light! XXX
+// Leona (alarmed) perso14
+L39D20B
+ Who could have done such a thing? XXX
+// Arkhan2 G perso2
+L39D21A
+ You seem to know a lot. XXX
+// Arkhan2 G perso2
+L39D21B
+ A renegade Sunseer by the name of Thanandar. XXX
+// Leona (stupefied) perso14
+L39D22
+ Thanandar the healer?! XXX
+// Arkhan2 G perso2
+L39D23A
+ He once was a healer...  XXX
+// Arkhan2 G perso2
+L39D23B
+ Now, he's not even human. XXX
+// Arkhan2 G perso2
+L39D23C
+ He was responsible for the deaths of Zed and my father! XXX
+// Arkhan2 G perso2
+L39D24
+ Thanandar infected my father, the same way he infected me. XXX
+// Arkhan2 G perso2
+L39D25
+ Thanandar infected Zed, the same way he infected me. XXX
+// Arkhan2 G perso2
+L39D26A
+ He wasn't himself any more... maddened with pain... blinded... XXX
+// Arkhan2 G perso2
+L39D26B
+ Thanandar forced him to touch the Well of Sacred Light. XXX
+// Arkhan2 G perso2
+L39D26C
+ There were flashes of lightning and the Well of Light stopped shining, as if it were being filled with that black stuff. XXX
+// Arkhan2 G perso2
+L39D26D
+ Soon after that, the Black Shroud engulfed the Stallite. XXX
+// Arkhan2 L perso2
+L39D33A
+ I'm looking for a place. The Great Sunseer calls it the Tomb. XXX
+// Arkhan2 L perso2
+L39D33B
+ A secret place my father's been seeking for many years. XXX
+// Arkhan2 L perso2
+L39D34A
+ I must find his notes. They're hidden in some secret place. XXX
+// Arkhan2 L perso2
+L39D34B
+ I need a crystal key made of different pieces. XXX
+// Arkhan2 O perso2
+L39D35A
+ Lory told me about a place, the "Tomb". XXX
+// Arkhan2 O perso2
+L39D35B
+ It's our last hope, but my father is the only one who knows how to get there... maybe! XXX
+// Arkhan2 O perso2
+L39D36A
+ I gotta have a key to get into the place where his notes are hidden. XXX
+// Arkhan2 O perso2
+L39D36B
+ A key, a key.. A crystal key, made of different pieces! XXX
+// Leona perso14
+L39D37A
+ You're right. The time to act has come. XXX
+// Leona perso14
+L39D37B
+ Lory is a wise woman. I know she would never have revealed these things if it weren't vital. XXX
+// Leona perso14
+L39D37C
+ I will help you Arkhan.  XXX
+// Arkhan2 G perso2
+L39D40A
+ My father didn't come to see you recently, did he? XXX
+// Leona perso14
+L39D41A
+ No, I haven't seen Rylsadhar for many, many moons. XXX
+// Leona perso14
+L39D41B
+ I know he was worried. I think he sensed the coming of these dark events. XXX
+// Leona perso14
+L39D41C
+ Your father was an Initiate, one of the few people who knew about the crypt in the Well of Light. XXX
+// Leona perso14
+L39D41D
+ Also one of the few with the power to touch the Well of Light. XXX
+// Leona perso14
+L39D41E
+ That is why Thanandar captured him! XXX
+// Arkhan2 L perso2
+L39D43A
+ None of this means anything to me. XXX
+// Arkhan2 L perso2
+L39D43B
+ What is this "Well of Light"? XXX
+// Arkhan2 O perso2
+L39D44A
+ I'm sick of all these mysteries! XXX
+// Arkhan2 O perso2
+L39D44B
+ Somebody tell me what's really going on?! XXX
+// Leona perso14
+L39D45A
+ As you have guessed, the Well of Light and the... Tomb... are connected. XXX
+// Leona perso14
+L39D45B
+ The Well of Light was a gift. It draws on the force in the Tomb to protect us from the Darkness. XXX
+// Leona perso14
+L39D45C
+ This force, invisible to human eyes, runs through the land around the Stallite. XXX
+// Leona perso14
+L39D45D
+ It protects us from the Dark Shroud and its minions. XXX
+// Leona perso14
+L39D45E
+ It attracts the rays of the Sun God that give us strength and weaken our enemies. XXX
+// Leona perso14
+L39D45F
+ But without the Well of Light, we are condemned to Darkness. XXX
+// Arkhan2 G perso2
+L39D46A
+ Why didn't anyone else  know about these places of light? XXX
+// Arkhan2 G perso2
+L39D46B
+ And what do Zed, Lory, and my father have to do with it? XXX
+// Leona perso14
+L39D47A
+ Zed, Rylsadhar, and the Great Sunseer-like me and some others-were bound by a... a pact. XXX
+// Leona perso14
+L39D47B
+ A pact the origins of which date from the dawn of time, long before the Great Cataclysm. XXX
+// Leona perso14
+L39D47C
+ A pact concluded between the ancestors of our ancestors' ancestors and They that slumber in the Tomb. XXX
+// Leona perso14
+L39D47D
+ We swore to protect the Well of Light and the Tomb by keeping them secret until the awakening of those slumbering deep within the earth. XXX
+// Leona perso14
+L39D47E
+ In exchange, some of our ancestors themselves were granted a little of this force. XXX
+// Leona perso14
+L39D47F
+ A life force they could draw from the Well of Light, and return to it, as they wished. XXX
+// Leona perso14
+L39D47G
+ A force enabling them to do things ordinary humans cannot do. XXX
+// Leona perso14
+L39D47H
+ This life force traveled down the ages and persisted in Zed, Rylsadhar, and Lory-the Initiates. XXX
+// Arkhan2 G perso2
+L39D48
+ The force Zed passed on to me before he was transformed! XXX
+// Arkhan2 G perso2
+L39D49
+ The force Zed passed on to me before he died! XXX
+// Arkhan2 G perso2
+L39D50
+ That's what it was! XXX
+// Arkhan2 L perso2
+L39D55A
+ If the force of light exists... XXX
+// Arkhan2 L perso2
+L39D55B
+ Then the evil-the poison Thanandar contaminated us with... that's the opposing force! XXX
+// Arkhan2 O perso2
+L39D56A
+ And that lousy stuff Thanandar poisoned us with? XXX
+// Arkhan2 O perso2
+L39D56B
+ It's the opposite of the force of Light, is that it? XXX
+// Leona perso14
+L39D57A
+ Yes. XXX
+// Leona perso14
+L39D57B
+ This Dark poison feeds off the energy of living beings. XXX
+// Leona perso14
+L39D57C
+ Those who don't die are transformed... like you. XXX
+// Leona perso14
+L39D57D
+ Little by little, they forget who and what they are. XXX
+// Leona perso14
+L39D57E
+ They become bloodthirsty creatures, insatiable, ravening. XXX
+// Arkhan2 G perso2
+L39D58
+ But the force in the Tomb can vanquish the poison, can't it? XXX
+// Leona perso14
+L39D59A
+ Yes, the two forces consume each other. XXX
+// Leona perso14
+L39D59B
+ But if the poison has penetrated too deeply inside you, the shock to your system would be terrible... XXX
+// Leona perso14
+L39D59C
+ And then you, too, would perish! XXX
+// Leona perso14
+L39D60
+ That's what happened to Rylsadhar when he touched the Well of Light. XXX
+// Leona perso14
+L39D61
+ That's what happened to Zed when he touched the Well of Light. XXX
+// Arkhan2 L perso2
+L39D64A
+ And Thanandar?  XXX
+// Arkhan2 L perso2
+L39D64B
+ What's he looking for? XXX
+// Arkhan2 O perso2
+L39D65A
+ And that double-crossing Thanandar? XXX
+// Arkhan2 O perso2
+L39D65B
+ What does he want?! XXX
+// Leona perso14
+L39D66A
+ Thanandar was an Initiate, like us. XXX
+// Leona perso14
+L39D66B
+ As a healer, he was fascinated by the force of Darkness. XXX
+// Leona perso14
+L39D66C
+ He wanted to understand it, to find a cure. XXX
+// Leona perso14
+L39D66D
+ I don't know what impelled him to betray the cause, to commit these acts of madness. XXX
+// Leona perso14
+L39D66E
+ Perhaps he was contaminated accidentally... XXX
+// Leona perso14
+L39D66F
+ If the poison is within him, his mind and soul may have suffered the most horrible of transformations. XXX
+// Leona perso14
+L39D66G
+ One thing is certain: if he is not stopped, he will lead us to our doom! XXX
+// Leona perso14
+L39D66H
+ Do you know where he is now? XXX
+// Arkhan2 G perso2
+L39D67A
+ No. But I have an idea he's still in the Stallite, with other Creatures... XXX
+// Arkhan2 G perso2
+L39D67B
+ I'm sure he'll stay till the bitter end! XXX
+// Leona perso14
+L39D68
+ You must stop him, destroy him. XXX
+// Arkhan2 L perso2
+L39D69A
+ I've already tried. XXX
+// Arkhan2 L perso2
+L39D69B
+ The Dark evil has made him too strong. XXX
+// Arkhan2 L perso2
+L39D69C
+I...I don't think I can beat him. XXX
+// Arkhan2 O perso2
+L39D70A
+ Easy! XXX
+// Arkhan2 O perso2
+L39D70B
+Hey, It's obvious you've never been up against him! XXX
+// Arkhan2 O perso2
+L39D70C
+ If you're so tough, you go after him?! XXX
+// Leona perso14
+L39D71A
+ Then there's only one solution: find the Tomb and bring the Light back to the Stallite! XXX
+// Leona perso14
+L39D71B
+ Before Thanandar and his monsters complete their evil deed! XXX
+// Arkhan2 L perso2
+L39D75A
+ You look like someone who knows many things. XXX
+// Arkhan2 L perso2
+L39D75B
+ Do you know how to get into the Tomb? XXX
+// Arkhan2 O perso2
+L39D76
+ Since you're so smart, you can tell me how to get into the Tomb, right? XXX
+// Leona perso14
+L39D77A
+ No. The secret was lost in the Great Cataclysm. XXX
+// Leona perso14
+L39D77B
+ The Tomb is buried deep beneath the Stallite. XXX
+// Leona perso14
+L39D77C
+ And the ancients say the path to it is long and dangerous. XXX
+// Leona perso14
+L39D77D
+ Even if you find the hidden entrance, many ordeals remain before you can enter into the heart of the Tomb. XXX
+// Arkhan2 G perso2
+L39D78
+ What ordeals? XXX
+// Leona perso14
+L39D79A
+ I do not know. XXX
+// Leona perso14
+L39D79B
+ Perhaps Rylsadhar discovered something, but he never told me about it. XXX
+// Arkhan2 L perso2
+L39D82
+ Can you do something to put out the fire of this poison consuming me? XXX
+// Arkhan2 O perso2
+L39D83
+ What do you say we talk about healing me? XXX
+// Leona (suddenly recalling that Arkhan is suffering) perso14
+L39D84A
+ Yes, of course! XXX
+// Leona perso14
+L39D84B
+ I can't cure you completely of the evil that has you in its grip. XXX
+// Leona perso14
+L39D84C
+ But the force of Life and Light is here in this place. XXX
+// Leona perso14
+L39D84D
+ That is why nature flourishes here. XXX
+// Leona perso14
+L39D84E
+ That stone colossus standing in the center of the grotto... XXX
+// Leona perso14
+L39D84F
+ The force from the Well of Light passed through it. XXX
+// Leona perso14
+L39D84G
+ If you drink the water surrounding it, it will purify you. XXX
+// Leona perso14
+L39D84H
+ But drink only a little, for the poison is intermingled with the living tissues of your body. XXX
+// Leona perso14
+L39D84I
+ Your very life will be at risk! XXX
+// Arkhan2 L perso2
+L39D86A
+ Thank you Leona. XXX
+// Arkhan2 L perso2
+L39D86B
+ I hope I'll make it! XXX
+// Arkhan2 O perso2
+L39D87A
+It's been nice but I'm out of here! XXX
+// Arkhan2 O perso2
+L39D87B
+ I've got some lives to save... XXX
+// Arkhan2 O perso2
+L39D87C
+ Especially my own! XXX
+// Leona perso14
+L39D88
+ Good luck Arkhan. XXX
+// Leona perso14
+L39D89
+ Be careful. XXX
+// Leona perso14
+L39D90
+ I know you can do it, son of Rylsadhar! XXX
+// Arkhan2 G perso2
+L39D95
+ You recognize this? XXX
+// Leona (wary) perso14
+L39D96
+ First, tell me who you are and what you want. XXX
+// Arkhan2 G perso2
+L39D97
+ Here's a piece of my father's key. XXX
+// Leona perso14
+L39D98
+ Sorry, but I don't have anything like that. XXX
+// Arkhan2 G perso2
+L39D99
+ What's this? XXX
+// Leona perso14
+L39D100
+ A piece of rock crystal. XXX
+// Leona perso14
+L39D101
+ It's uncut. I don't think it's what you're looking for. XXX
+// Arkhan2 G perso2
+L39D102
+ What can you tell me about it? XXX
+// Leona perso14
+L39D103
+ Nothing special, sorry. XXX
+// Arkhan3 L perso3
+L39D12
+ I'm looking for Leona. XXX
+// Arkhan3 O perso3
+L39D13
+ Leona? XXX
+// Leona (alarmed) perso14
+L39D014A
+ Great Solaar, it's the Dark Evil incarnate! XXX
+// Leona (prudent) perso14
+L39D014B
+ You are being consumed by the Shankr Archessence. XXX
+// Leona (wary) perso14
+L39D014C
+ Who are you? XXX
+// Arkhan3 L perso3
+L39D15
+ I'm Arkhan, son of Rylsadhar. XXX
+// Arkhan3 O perso3
+L39D16
+ Arkhan! XXX
+// Leona perso14
+L39D17A
+ Son of Rylsadhar! XXX
+// Leona perso14
+L39D17B
+ But what's happening in the Stallite? XXX
+// Arkhan3 L perso3
+L39D27
+ The Stallite... has.. has been swallowed by the Shroud. XXX
+// Arkhan3 L perso3
+L39D28A
+ Yes, the Well of Light. XXX
+// Arkhan3 L perso3
+L39D28B
+ It's Thanandar, a Sunseer. XXX
+// Arkhan3 L perso3
+L39D28C
+ It's all his fault. XXX
+// Arkhan3 L perso3
+L39D29A
+ No, no, no! Not a healer any more! XXX
+// Arkhan3 L perso3
+L39D29B
+ Not even human! XXX
+// Arkhan3 L perso3
+L39D29C
+ He condemned Zed and my father to death! XXX
+// Arkhan3 L perso3
+L39D30
+ Thanandar infected my father, and he infected me. XXX
+// Arkhan3 L perso3
+L39D31
+ Thanandar infected Zed, as he infected me. XXX
+// Arkhan3 L perso3
+L39D32A
+ He was wracked... by pain... XXX
+// Arkhan3 L perso3
+L39D32B
+ Thanandar made him touch the light. XXX
+// Arkhan3 L perso3
+L39D32C
+ There was lightning... The Well of Light grew dark... XXX
+// Arkhan3 L perso3
+L39D32D
+ As if it was absorbing the Dark force... XXX
+// Arkhan3 L perso3
+L39D32E
+And then the Shroud descended. XXX
+// Arkhan3 L perso3
+L39D38A
+ Lory told me about a place, the "Tomb". XXX
+// Arkhan3 L perso3
+L39D38B
+ Our last chance... XXX
+// Arkhan3 L perso3
+L39D38C
+ My father may have known where it is. XXX
+// Arkhan3 L perso3
+L39D39A
+ But he hid his secrets well. XXX
+// Arkhan3 L perso3
+L39D39B
+ I'm looking for a crystal key in several pieces. XXX
+// Arkhan3 L perso3
+L39D42A
+ Did my father give you a crystal? XXX
+// Arkhan3 L perso3
+L39D109
+ The Well of Light... The Tomb... Explain them to me. XXX
+// Arkhan3 L perso3
+L39D51A
+ Why all the secrecy? XXX
+// Arkhan3 L perso3
+L39D51B
+ And why Zed, my father, and Lory? XXX
+// Arkhan3 L perso3
+L39D52
+ Zed transmitted a force to me before he died! XXX
+// Arkhan3 L perso3
+L39D53
+ Zed passed his force on to me before the Evil took over. XXX
+// Arkhan3 L perso3
+L39D54
+ That's what it was! XXX
+// Arkhan3 L perso3
+L39D62A
+ The force of Darkness... XXX
+// Arkhan3 L perso3
+L39D62B
+ It's the opposite of this? XXX
+// Arkhan3 L perso3
+L39D63
+ The force in the Tomb will destroy the poison! XXX
+// Arkhan3 L perso3
+L39D72
+ And Thanandar?  XXX
+// Arkhan3 L perso3
+L39D73A
+ He's still in the Stallite, with the other Creatures. XXX
+// Arkhan3 L perso3
+L39D73B
+ I'm sure he'll stay till his awful deed is done! XXX
+// Arkhan3 L perso3
+L39D74A
+ Already tried. XXX
+// Arkhan3 L perso3
+L39D74B
+ The Evil has transformed him, he's too strong. XXX
+// Arkhan3 L perso3
+L39D80A
+ You know a lot. XXX
+// Arkhan3 L perso3
+L39D80B
+ Do you know how I can find the Tomb? XXX
+// Arkhan3 L perso3
+L39D81
+ What ordeals? XXX
+// Arkhan3 L perso3
+L39D85
+ Can you help me cure the disease? XXX
+// Arkhan3 O (as if getting ready to devour Leona) perso3
+L39D92
+ Leonaaaa... XXX
+// Leona perso14
+L39D93
+ Arkhan! No, don't let the Darkness overcome you! XXX
+// Leona perso14
+L39D94
+ No! Arkhan, control yourself! XXX
+// Arkhan3 G perso3
+L39D104
+ Ever seen this? XXX
+// Arkhan3 L perso3
+L39D105
+ It's a piece of my father's key. XXX
+// Arkhan3 L perso3
+L39D106
+ What is it? XXX

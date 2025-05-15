@@ -1,0 +1,67 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\GB\NWDIAL45.TXT
+// Delia perso10
+L16D122
+Pára! Metes-me medo! XXX
+// Arkhan2 G perso2
+L45D15
+Nada mais que esta escada para subir... XXX
+// Arkhan3 G perso3
+L45D16
+Está lá em cima! XXX
+// Delia perso10
+L45D17
+Vamos. XXX
+// Delia (Arkhan mostra-lhe um objeto) perso10
+L02D104
+Não. Peço-te, vamos depressa... XXX
+// Arkhan2 L (está a lutar com Delia) perso2
+L45D01
+Basta Delia, acalma-te! XXX
+// Arkhan2 O (está a lutar com Delia) perso2
+L45D02
+Queres mais, perdida?! XXX
+// Arkhan3 L (está a lutar com Delia) perso3
+L45D03
+Basta! XXX
+// Delia (golpeada por Arkhan) perso10
+L45D04
+Mas, que se passa contigo?!? XXX
+// Arkhan2 G perso2
+L45D05
+Volto... XXX
+// Arkhan3 G perso3
+L45D06
+Volto... XXX
+// Arkhan2 G perso2
+L45D07
+Não há mais nada. XXX
+// Arkhan3 G perso3
+L45D08
+Aqui não há mais nada. XXX
+// Arkhan2 L perso2
+L45D200
+Não há mais placas! XXX
+// Arkhan3 L perso3
+L45D201
+Não há mais placas! XXX
+// Arkhan1 L perso1
+L45D09A
+A corrente está enferrujada. XXX
+// Arkhan1 L perso1
+L45D09B
+Este velho torno está fora de uso. XXX
+// Arkhan2 L perso2
+L45D10
+Inutilizável, está tudo enferrujado. XXX
+// Arkhan3 L perso3
+L45D11
+Inútil, está tudo enferrujado. XXX
+// Arkhan1 O (bate no torno) perso1
+L45D12
+Merda, está completamente fora de uso! XXX
+// Arkhan2 O (bate no torno) perso2
+L45D13
+Completamente enferrujado! XXX
+// Arkhan3 O (bate no torno) perso3
+L45D14
+Completamente enferrujado! XXX

@@ -1,0 +1,409 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\IT\NWDIAL24.TXT
+ // Thanandar perso24
+L34D201
+Muori, povero pazzo! XXX
+// Gardien16 (preso da una rabbia superstiziosa) perso56
+L24D02
+Sole-Dio! Una... una creatura dell'Oscuro! XXX
+// Arkhan2 G (indebolito) perso2
+L24D01
+Dulnys... Io... Cosa mi sta succedendo?!? XXX
+// Gardien16 perso56
+L24D03
+Aiuto! Una Guardia! XXX
+// Arkhan2 L perso2
+L24D05
+Spiacente Custode del Fuoco, non mi hai lasciato altra scelta... XXX
+// Arkhan2 O perso2
+L24D06
+Povero pazzo! Non dovevi cercarmi! XXX
+// Thanandar (con apprezzamento) perso24
+L24D07A
+Incredibile! Tu sei in piedi, vivo! XXX
+// Thanandar perso24
+L24D07B
+Come ti senti? Hai l'aria di aver sopportato bene lo shock... XXX
+// Thanandar perso24
+L24D08
+Rilassati, non sono tuo nemico. XXX
+// Thanandar perso24
+L24D09
+Ecco chi è meglio. XXX
+// Arkhan2 G perso2
+L24D10
+Thanandar! XXX
+// Arkhan3 G perso3
+L24D11
+Thanandar! XXX
+// Thanandar perso24
+L24D12
+Hai visto Rylsadhar? Hai potuto aprire l'ingresso della cripta? XXX
+// Thanandar (impaziente) perso24
+L24D13
+Allora, la cripta? XXX
+// Thanandar perso24
+L24D14A
+Arkhan! Bisogna far presto! XXX
+// Thanandar perso24
+L24D14B
+Trova la cripta! XXX
+// Thanandar (melenso) perso24
+L24D15A
+Arkhan! Eccoti! Hai fatto bene a ritornare... XXX
+// Thanandar (s'infiamma all'improvviso) perso24
+L24D15B
+Perché per te è arrivato il momento di raggiungere le ombre! Definitivamente! XXX
+// Thanandar (furioso) perso24
+L24D16
+Quando faccio una domanda, esigo che mi si risponda! XXX
+// Thanandar (gridando attraverso la porta) perso24
+L24D17
+Va bene capitano Phedoria! È tutto in ordine! XXX
+// Thanandar perso24
+L24D18A
+Bisogna far presto! XXX
+// Thanandar perso24
+L24D18B
+Ne arriveranno altri e anche loro potrebbero reagire come selvaggi. XXX
+// Thanandar perso24
+L24D18C
+Vai a trovare tuo padre e chiedigli di condurti alla cripta. XXX
+// Thananadar perso24
+L24D19A
+Fermo! XXX
+// Thananadar perso24
+L24D19B
+Non toccarlo! XXX
+// Arkhan2 G perso2
+L24D93
+Il corpo di Thanandar è sparito! XXX
+// Arkhan3 G perso3
+L24D94
+Il corpo di Thanandar è sparito! XXX
+// Arkhan2 L perso2
+L24D23
+Questo Custode del Fuoco mi ha aggredito, sono stato costretto a difendermi! XXX
+// Thanandar perso24
+L24D24A
+Sì... Un imbecille superstizioso! XXX
+// Thanandar perso24
+L24D24B
+Non preoccuparti, ti capisco. Uccidere o essere ucciso, non avevi alternative! XXX
+// Arkhan2 L perso2
+L24D25
+Tu sai quello che mi sta succedendo? Chi sei? XXX
+// Arkhan2 O perso2
+L24D26
+Chiunque tu sia, non avvicinarti o finirai come quella larva laggiù! XXX
+// Thanandar perso24
+L24D27A
+Andiamo, calmati, sono qui solo per aiutarti. XXX
+// Thanandar perso24
+L24D27B
+Quest'imbecille superstizioso non sapeva quel che faceva. XXX
+// Thanandar perso24
+L24D27C
+Io ti capisco e non voglio che il tuo bene.  XXX
+// Arkhan2 O perso2
+L24D28
+Allora dimmi chi sei... e quello che mi sta succedendo! XXX
+// Thanandar perso24
+L24D29A
+Sono Thanandar, un Predicatore, come tuo padre, ma sono soprattutto un Guaritore. XXX
+// Thanandar perso24
+L24D29B
+E so quale male ti affligge, Arkhan, lo conosco molto bene. XXX
+// Thanandar perso24
+L24D29C
+Le tenebre sono in te ormai...  XXX
+// Thanandar perso24
+L24D29D
+E non avranno fine prima di essersi impossessate totalmente di te e della tua anima.  XXX
+// Arkhan2 L perso2
+L24D30
+Non c'è un modo per curarmi? XXX
+// Arkhan2 O perso2
+L24D31
+Tu pretendi di essere un Guaritore, allora trova un modo per curarmi! XXX
+// Thanandar perso24
+L24D32A
+Forse c'è un modo...  XXX
+// Thanandar perso24
+L24D32B
+Un'energia segreta proveniente dall'alba dei tempi. Scaturisce dal cuore di una cripta. XXX
+// Thanandar perso24
+L24D32C
+Ma io non dovrei parlartene. T'ho già detto troppo.  XXX
+// Thanandar perso24
+L24D32D
+Solo tuo padre potrebbe decidere d'infrangere il segreto e condurtici.  XXX
+// Thanandar perso24
+L24D32E
+Lui fa parte dei pochi eletti che hanno accesso alla cripta. XXX
+// Arkhan2 G perso2
+L24D33
+Tu dici che mio padre conoscerebbe questa... cripta segreta? XXX
+// Thanandar perso24
+L24D34A
+Sì. Parlane con Rylsadhar. Solo lui è in grado di salvarti.  XXX
+// Thanandar perso24
+L24D34B
+Tutto quello che posso fare, è preparare un rimedio che calmi il dolore e rallenti il progresso del male.  XXX
+// Thanandar perso24
+L24D34C
+Torna a trovarmi dopo aver visto tuo padre.  XXX
+// Phedoria (parlando da lontano) perso26
+L24D35
+(Phedoria all'esterno) Va tutto bene là dentro? XXX
+// Arkhan2 G perso2
+L24D36
+Thanandar, cosa devo fare? XXX
+// Arkhan3 G perso3
+L24D37
+Thanandar, cosa devo fare? XXX
+// Thanandar perso24
+L24D38A
+Va da tuo padre. È proprio qui a fianco.  XXX
+// Thanandar perso24
+L24D38B
+Chiedigli di mostrarti la cripta, è il solo modo per curarti.  XXX
+// Thanandar perso24
+L24D38C
+E fa presto, resta poco tempo! XXX
+// Arkhan2 G perso2
+L24D43
+Thanandar, ho bisogno del tuo aiuto. XXX
+// Arkhan3 G perso3
+L24D44
+Devi aiutarmi. XXX
+// Thanandar perso24
+L24D45A
+Te l'ho già detto, devi parlare con Rylsadhar. XXX
+// Thanandar perso24
+L24D45B
+È il solo modo! XXX
+// Thanandar perso24
+L24D45B
+È il solo modo! XXX
+// Arkhan2 Gperso2
+L24D46
+È per me che prepari questo? XXX
+// Arkhan3 Gperso3
+L24D47
+È per me che prepari questo? XXX
+// Thanandar perso24
+L24D48
+No, questo non riguarda te. XXX
+// Arkhan2 G perso2
+L24D49
+Ascolta...  XXX
+// Arkhan3 G perso3
+L24D50
+Ascolta...  XXX
+// Thanandar perso24
+L24D51
+Vai, Arkhan, resta poco tempo! XXX
+// Arkhan2 L perso2
+L24D52A
+Non ho ancora trovato la cripta. XXX
+// Arkhan2 L perso2
+L24D52B
+Ma tu avevi parlato di un rimedio per calmare il dolore... XXX
+// Arkhan2 O perso2
+L24D53A
+Ne ho abbastanza di cercare questa cripta! XXX
+// Arkhan2 O perso2
+L24D53B
+Tu mi avevi promesso un rimedio! Dov'è?! XXX
+// Arkhan3 G perso3
+L24D54A
+Non trovo la cripta e il male peggiora! XXX
+// Arkhan3 G perso3
+L24D54B
+Mi serve un rimedio, presto! XXX
+// Thanandar perso24
+L24D55A
+Non ho rimedi per il momento. XXX
+// Thanandar perso24
+L24D55B
+Occorre che Rylsadhar apra l'accesso alla cripta, è l'unica soluzione.  XXX
+// Thanandar perso24
+L24D55C
+Solo allora potrò aiutarti. XXX
+// Arkhan2 G perso2
+L24D56
+Cosa gli stai facendo? XXX
+// Arkhan3 G perso3
+L24D57
+Cosa fai? XXX
+// Thanandar perso24
+L24D58
+Lo sto curando! XXX
+// Arkhan2 G perso2
+L24D59
+Ma è morto! XXX
+// Arkhan3 G perso3
+L24D95
+Ma è morto! XXX
+// Thanandar perso24
+L24D60A
+No, pazzo, è ancora in vita! XXX
+// Thanandar perso24
+L24D60B
+E ben presto camminerà di nuovo... XXX
+// Arkhan2 L perso2
+L24D61A
+Sono andato ovunque, ma non ho trovato questa cripta! XXX
+// Arkhan2 L perso2
+L24D61B
+Non c'è un altro modo? XXX
+// Arkhan2 O perso2
+L24D62A
+La tua dannata cripta è introvabile! XXX
+// Arkhan2 O perso2
+L24D62B
+Deve esserci un altro modo di curarmi oltre a quest'energia che nessuno conosce! XXX
+// Arkhan3 G perso3
+L24D63A
+La cripta... introvabile! XXX
+// Arkhan3 G perso3
+L24D63B
+Dammi un altro rimedio! XXX
+// Thanandar perso24
+L24D64
+Ancora una volta, se non trovi la cripta, non potrò far niente per te! XXX
+// Arkhan2 L perso2
+L24D65A
+Chi è quest'uomo? XXX
+// Arkhan2 L perso2
+L24D65B
+Non l'ho mai visto prima, da queste parti! XXX
+// Arkhan2 O perso2
+L24D66A
+Chi è il tuo sbirro, là? XXX
+// Arkhan2 O perso2
+L24D66B
+La sua faccia non mi torna in mente! XXX
+// Arkhan3 L perso3
+L24D67A
+Chi è il tuo assistente? XXX
+// Arkhan3 L perso3
+L24D67B
+Non l'ho mai visto prima! XXX
+// Arkhan3 O perso3
+L24D68
+Chi è quell'altro?! XXX
+// Thanandar perso24
+L24D69A
+È un Custode del Fuoco, evidentemente... XXX
+// Thanandar perso24
+L24D69B
+Ma non temere, è molto diverso dagli altri. XXX
+// Thanandar perso24
+L24D69C
+Se non fai l'idiota, andrà tutto bene. XXX
+// Thanandar perso24
+L24D20
+Basta! Sono qui per aiutarti! XXX
+// Thanandar (improvvisamente cattivo)perso24
+L24D70
+Tu firmi la tua condanna a morte! XXX
+// Arkhan2 G perso2
+L24D71
+Maledizione, Dulnys! Sono io, Arkhan! XXX
+// Gardien16 perso56
+L24D72
+No, demonio! Io conosco Arkhan... e non sei tu! XXX
+// Arkhan2 G perso2
+L24D73
+Aspetta! XXX
+// Gardien16 (sta per colpire Arkhan) perso56
+L24D04
+Stai per morire! XXX
+// Arkhan2 G perso2
+L24D74
+Ci conosciamo? XXX
+// Arkhan3 G perso3
+L24D75
+Ti conosco? XXX
+// Konkalite1 (non sa che dire) perso71
+L24D76
+Mmm... Thanandar?  XXX
+// Thanandar perso24
+L24D77
+Calma, è il nostro amico, va tutto bene. XXX
+// Arkhan2 L perso2
+L24D78
+La tua uniforme è rovinata. Sei stato ferito? XXX
+// Konkalite1 perso71
+L24D79
+Ehm... No... Va meglio adesso... XXX
+// Arkhan2 O perso2
+L24D80
+Dì un po', hai una strana faccia per un Custode del Fuoco. XXX
+// Konkalite1 perso71
+L24D81
+Non ti sei visto! Aspetta un po'... XXX
+// Arkhan3 G perso3
+L24D82A
+La tua faccia mi ricorda qualcosa... XXX
+// Arkhan3 G perso3
+L24D82B
+T'ho già visto, no? XXX
+// Konkalite1 perso71
+L24D83
+Impossibile! Non portavo questa uniforme! XXX
+// Thanandar (deciso) perso24
+L24D84
+Taci cretino! Basta così! XXX
+// Arkhan2 G perso2
+L24D85A
+T'ha chiamato cretino. XXX
+// Arkhan2 G perso2
+L24D85B
+È il tuo diminutivo? XXX
+// Arkhan3 G (beffardo) perso3
+L24D86
+Cretino, eh? XXX
+// Konkalite1 perso71
+L24D87
+(grugnito scontento) XXX
+// Thanandar perso24
+L24D21
+Basta così voi due! XXX
+// Thanandar (improvvisamente cattivo)perso24
+L24D22
+Imbecille! Tanto peggio, liquidiamolo! XXX
+// Arkhan2 G (esaminando uno scheletro) perso2
+L24D88
+Lui ha finito di soffrire... XXX
+// Arkhan3 G (esaminando uno scheletro) perso3
+L24D89
+Lui non soffre più. XXX
+// Arkhan2 G perso2
+L05D183
+Piccolezze senza interesse... XXX
+// Arkhan3 G perso3
+L05D184
+Niente di interessante lassù... XXX
+// Arkhan2 G perso2
+L24D90
+Credi di poterlo salvare? XXX
+// Arkhan3 G perso3
+L24D91
+Credi di salvarlo? XXX
+// Thanandar (esaltato) perso24
+L24D92A
+Ne sono sicuro! XXX
+// Thanandar perso24
+L24D92B
+Ben presto sarà più vivo che mai! XXX
+// Arkhan2 L perso2
+L34D05
+Thanandar! Cosa vuol dire questo? XXX
+// Arkhan2 O perso2
+L34D06
+Thanandar, brutto bastardo! M'hai mentito! XXX
+// Arkhan3 G perso3
+L34D07
+Thanandar! Traditore! XXX

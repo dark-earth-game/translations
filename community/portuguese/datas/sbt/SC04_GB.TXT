@@ -1,0 +1,28 @@
+00:04:18	00:05:28		{A... Arkhan meu amigo...}
+00:06:16	00:08:16		{a morte... a escurid„o...}
+00:08:20	00:11:06		{todos... vocÍs est„o em perigo!}
+00:11:08	00:12:10		{As trevas...}
+00:12:12	00:16:00		{Vejo o Stallite afundar-se nas trevas!}
+00:16:14	00:17:06		{Zed!}
+00:17:10	00:19:08		{Ouve! … Thanandar...}
+00:19:12	00:20:26		{a escurid„o est· nele!}
+00:20:28	00:22:12		{Mas, ele est· morto!}
+00:23:08	00:25:20		{N„o! Est· vivo!}
+00:26:04	00:27:14		{QuÍ?!}
+00:28:16	00:31:00		{Arkhan... Existe um lugar secreto... uma cripta...}
+00:31:02	00:33:12		{Nela contÈm-se uma... energia,}
+00:33:14	00:35:00		{um dom do Deus Sol...}
+00:35:14	00:37:00		{… l· que Thanandar vai atacar!}
+00:37:02	00:38:00		{Ele odeia a luz...}
+00:38:02	00:39:10		{enfraquece-o...}
+00:39:20	00:41:22		{Se destruir o CoraÁ„o de luz,}
+00:41:24	00:43:16		{o Stallite estar· ‡ sua mercÍ!}
+00:43:18	00:45:20		{Deves... detÍ-lo!}
+00:45:22	00:47:08		{Anda, vai-te!}
+00:47:10	00:48:16		{N„o sem ti!}
+00:48:18	00:50:20		{N„o... Nenhuma possibilidade...}
+00:50:22	00:52:24		{Sù tu podes detÍ-lo!}
+00:53:16	00:54:08		{Encontra o CoraÁ„o!}
+00:54:10	00:55:08		{Zed, espera!}
+00:56:02	00:57:10		{Estarei contigo...}
+00:58:08	00:59:08		{N„o! Resiste!}

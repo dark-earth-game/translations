@@ -1,0 +1,478 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL36.TXT
+ // Konkalite12 perso82
+L36D200
+ Zaraz zetre ci ten usmieszek z twarzy durniu! XXX
+// Lodar perso86
+L36D146
+ Nie dostaniesz mnie bez walki! XXX
+// Konkalite12 perso82
+L36D01A
+ Potrafisz walczyc, nieprawdaz! XXX
+// Konkalite12 perso82
+L36D01B
+ No dalej, zabiles go, tobie nalezy sie lup. XXX
+// Konkalite12 perso82
+L36D02
+ Wygrales! Bierz co chcesz, lup jest twoj. XXX
+// Lodar (uneasy in front of Arkhan)perso86
+L36D04
+ Mysle, ze pora na mnie... okej? XXX
+// Guardian20 perso60
+L36D147
+ Stac! XXX
+// Guardian20 (frightened by Arkhan3) perso60
+L36D148
+ Wielki Solaarze!... Daj mi sile! XXX
+// Guardian20 perso60
+L36D08
+ Hej! A dokad to sie wybierasz?! XXX
+// Guardian20 (defying Arkhan)perso60
+L36D144
+ Nadal prosisz sie o nauczke, eh?!	 XXX
+// Guardian23 (talking loudly, far from Arkhan)  perso1
+L36D05A
+ (ponizej) Slyszeliscie rozkazy komendanta Dhorkana. XXX
+// Guardian23 perso1
+L36D05B
+ (ponizej) Trzymajcie sie razem i miejcie oczy otwarte! XXX
+// Guardian23 perso1
+L36D05C
+ (ponizej) Zatrzymujcie kazdego kto wyglada podejrzanie lub niebezpiecznie. XXX
+// Guardian23 perso1
+L36D05D
+ (ponizej) Ale cokolwiek by sie nie dzialo, nie odchodzcie dalej niz sto lokci od swojego posterunku. XXX
+// Guardian22 (talking loudly, far from Arkhan)  perso1
+L36D06A
+ (ponizej) Slyszeliscie rozkazy? XXX
+// Guardian24 (exasperated) perso1
+L36D06B
+ (ponizej) Tak, az za wiele razy! XXX
+// Guardian22 perso1
+L36D06C
+ (ponizej) Tylko sprawdzam! XXX
+// Guardian23 (talking loudly, far from Arkhan) perso1
+L36D07A
+ (ponizej) I miejcie oczy otwarte! Atak moze nadejsc z kazdej strony! XXX
+// Guardian24 perso1
+L36D07B
+ (ponizej) Tak jest! XXX
+// Lodar perso86
+L36D84
+ Nie powinienes byl na mnie tak polegac! XXX
+// Arkhan2 L perso2
+L36D87
+ Co sie dzieje!? XXX
+// Arkhan3 L perso3
+L36D88
+ Co sie dzieje?! XXX
+// Arkhan2 O perso2
+L36D89
+ Niezle cie urzadzili! XXX
+// Arkhan3 O perso3
+L36D90
+ Kawal dobrej roboty! XXX
+// Lodar perso86
+L36D91A
+ Pomoz mi, odplace ci za to! XXX
+// Konkalite12 perso82
+L36D92A
+ To sprawa miedzy nim i mna baranie! XXX
+// Konkalite12 perso82
+L36D92B
+ Trzymaj sie od tego z daleka! XXX
+// Arkhan2 G perso2
+L36D78
+ Trzymaj sie. XXX
+// Arkhan3 G perso3
+L36D79
+ Nie rozpaczaj! XXX
+// Lodar perso86
+L36D99
+ Pomoz mi, blagam, kimkolwiek jestes! XXX
+// Arkhan2 G perso2
+L36D93
+ Wszystko w porzadku? XXX
+// Arkhan3 G perso3
+L36D94
+ W porzadku? XXX
+// Arkhan2 O perso2
+L36D55
+ Bardzo boli? XXX
+// Arkhan3 O perso3
+L36D56
+ Boli? XXX
+// Lodar perso86
+L36D03
+ Dzieki... Zawdzieczam ci zycie. XXX
+// Lodar perso86
+L36D57C
+ Wez to... Nie bedzie mi potrzebne tam gdzie sie udaje. XXX
+// Arkhan2 L perso2
+L36D58
+ Jestes Wedrowcem? Jak sie tu dostales? XXX
+// Arkhan3 L perso3
+L36D59
+ Skad przychodzisz? XXX
+// Arkhan2 O perso2
+L36D60
+ Skad przychodzisz? Jak sie tu dostales? XXX
+// Arkhan3 O (aggressively) perso3
+L36D61
+ Kim jestes? XXX
+// Lodar perso86
+L36D62A
+ Na imie mi Lodar, jestem zwiadowca karawany Wedrowcow oddalonej kilka dni drogi stad. XXX
+// Lodar perso86
+L36D62B
+ Ledwo mi sie udalo... Zamkneli bramy tuz po tym jak tu wszedlem. XXX
+// Lodar (bitter)perso86
+L36D62C
+ O ironio! Myslalem, ze bede bezpieczniejszy w Stallite... XXX
+// Arkhan2 L perso2
+L36D63
+ Zauwazyles na zewnatrz cos szczegolnego? XXX
+// Arkhan3 L perso3
+L36D64
+ Zauwazyles cos w Mrocznych Ziemiach? XXX
+// Lodar perso86
+L36D65A
+ Taa... Dziwnego... Stwory tak mroczne w srodku jak i na zewnatrz... XXX
+// Lodar perso86
+L36D65B
+ Mialem szczescie, ze dotarlem tutaj zywy. XXX
+// Lodar perso86
+L36D65C
+ A na dole, nieopodal wody, widzialem kobiete. XXX
+// Arkhan2 L perso2
+L36D66
+ Kobiete? XXX
+// Arkhan3 L perso3
+L36D67
+ Kobiete? XXX
+// Lodar perso86
+L36D68A
+ Wiem jedynie, ze nie podrozowala z moja karawana. XXX
+// Lodar perso86
+L36D68B
+ Odeszla zanim do niej dotarlem. XXX
+// Arkhan2 O perso2
+L36D69
+ Zastanawiam sie jak czlowiek twojego pokroju moze przetrwac w Mrocznych Ziemiach! XXX
+// Arkhan3 O perso3
+L36D70
+ Wygladasz calkiem zdrowo jak na Wedrowca. XXX
+// Lodar (irritated by A.) perso86
+L36D71A
+ Sluchaj przyjacielu. Dosc juz tego. XXX
+// Lodar perso86
+L36D71B
+ Dziekuje za pomoc, ale nie moge ci nic wiecej powiedziec. XXX
+// Lodar perso86
+L36D71C
+ Idz w swoja strone, a ja pojde w moja, okej? XXX
+// Arkhan2 L perso2
+L36D72
+ Mozesz mi powiedziec co widziales w Mrocznych Ziemiach? XXX
+// Arkhan3 L perso3
+L36D73
+ Powiedz mi wiecej o Mrocznych Ziemiach! XXX
+// Lodar perso86
+L36D74A
+ Urodzilem sie tam... Mieszkalem tam... XXX
+// Lodar perso86
+L36D74B
+ I chce je jeszcze zobaczyc zanim umre! XXX
+// Arkhan2 O perso2
+L36D75
+ Wedrowiec, jak ty, musi sporo wiedziec! XXX
+// Arkhan3 O perso3
+L36D76
+ Mow. Opowiesz mi o Mrocznych Ziemiach? XXX
+// Lodar perso86
+L36D77A
+ Nie, nie ma juz o czym opowiadac. XXX
+// Lodar ("farewell") perso86
+L36D77B
+ Powodzenia przyjacielu. "Z kazdym krokiem blizej swiatlosci." XXX
+// Arkhan2 G perso2
+L36D998
+ Co to za helm? XXX
+// Arkhan3 G perso3
+L36D999
+ Co to jest? XXX
+// Lodar perso86
+L36D82A
+ Pochodzi z Phenice, takie odlegle Stallite. XXX
+// Lodar perso86
+L36D82B
+ Dobra ochrona przeciwko burzom pylowym.  XXX
+// Lodar perso86
+L36D82C
+ Po bokach masz wyciecia wpuszczajace powietrze. XXX
+// Arkhan2 G perso2
+L36D124
+ Widziales kiedys podobny krysztal? XXX
+// Arkhan3 G perso3
+L36D125
+ Widziales kiedys taki krysztal? XXX
+// Lodar perso86
+L36D83
+ Nigdy nie widzialem czegos takiego. Przykro mi. XXX
+// Lodar perso86
+L36D81
+ Nie czas na handel moj przyjacielu. XXX
+// Lodar perso86
+L36D85
+ Uspokoj sie. Nie jestem twoim wrogiem! XXX
+//  Lodar perso86
+L36D86
+ Nie pozostawiasz mi wyboru! XXX
+// Konkalite12 perso82
+L36D105
+ Odsun sie! XXX
+// Arkhan2 L perso2
+L36D103
+ Ahhh, czy to..., czy ty?! XXX
+// Arkhan3 L perso3
+L36D104
+ Stop! XXX
+// Arkhan2 O (aggressively) perso2
+L36D106
+ Pozalujesz! XXX
+// Arkhan3 O (aggressively) perso3
+L36D107
+ Pozalujesz tego! XXX
+// Konkalite12 (screaming with rage)perso82
+L36D108
+ Aaaaaargh! XXX
+// Arkhan2 L perso2
+L36D96
+ Przestan lotrze! XXX
+// Arkhan3 L perso3
+L36D97
+ Wystarczy. Przestan! XXX
+// Konkalite12 perso82
+L36D98
+ Nie podchodz blizej, albo cie ukatrupie! XXX
+// Arkhan2 O perso2
+L36D100
+ Zostaw go, albo rozwale ci leb! XXX
+// Arkhan3 O (menacingly) perso3
+L36D101
+ Zostaw go w spokoju! XXX
+// Konkalite12 perso82
+L36D102
+ Trzymaj sie od tego z dala! XXX
+// Arkhan2 G perso2
+L36D110
+ Jeden trup mniej czy wiecej... XXX
+// Arkhan3 G perso3
+L36D111
+ Jeden trup wiecej... XXX
+// Konkalite12 perso82
+L36D112
+ Taa! Dostal to o co sie prosil! XXX
+// Arkhan2 G perso2
+L36D113
+ Okradasz zwloki? XXX
+// Arkhan3 G perso3
+L36D114
+ Okradasz go? XXX
+// Konkalite12 perso82
+L36D115A
+ A co ci do tego? XXX
+// Konkalite12 perso82
+L36D115B
+ Nie musisz patrzec jak ci sie nie podoba! XXX
+// Arkhan2 G (aggressively) perso2
+L36D119
+ Jestes sepem! XXX
+// Arkhan3 G (aggressively) perso3
+L36D120
+ Ty sepie! XXX
+// Konkalite12 perso82
+L36D121
+ Taa! A ty bedziesz moja nastepna ofiara! XXX
+// Konkalite12 perso82
+L36D109
+ Zatrzymaj to, mam wszystko czego nam trzeba! XXX
+// Arkhan2 Gperso2
+L36D149
+ Uspokoj sie Gwardzisto, nie szukam zwady. XXX
+// Arkhan2 Gperso2
+L36D150
+ Szukam jedynie leku. XXX
+// Guardian20 perso60
+L36D151A
+ Juz ci mowilem, nic tu dla ciebie nie ma. XXX
+// Guardian20 perso60
+L36D151B
+ Jesli nie szukasz klopotow, lepiej stad odejdz. XXX
+// Guardian20 perso60
+L36D251A
+ Nie znajdziesz tu tego czego szukasz. XXX
+// Guardian20 perso60
+L36D251B
+ Pozwol, ze dam ci przyjacielska rade. Odejdz stad! XXX
+// Arkhan2 L perso2
+L36D135A
+ Szukam leku na moja chorobe. XXX
+// Arkhan2 L perso2
+L36D135B
+ Po prostu pozwol mi przejsc, tylko o to prosze. XXX
+// Guardian20 perso60
+L36D137A
+ Gdybys nie wiedzial, w Stallite mamy stan wyjatkowy. XXX
+// Guardian20 perso60
+L36D137B
+ Bramy zamknieto, wiekszosc drog zablokowano. XXX
+// Guardian20 perso60
+L36D137C
+ ... A ktos... ktos jak ty nie moze tu przebywac! XXX
+// Guardian20 perso60
+L36D137D
+ Lepiej stad zmykaj. XXX
+// Arkhan2 O perso2
+L36D138A
+ Dosyc tego! XXX
+// Arkhan2 O perso2
+L36D138B
+ Z drogi albo wrzuce cie do Mrocznych Ziem! XXX
+// Guardian20 perso60
+L36D140
+ Ale spadniesz tam razem ze mna potworze! XXX
+// Arkhan2 L perso2
+L36D123A
+ Spokojnie przyjacielu. Jestem Arkhan Gwardzista Ognia, jak i ty. XXX
+// Arkhan2 L perso2
+L36D123B
+ Zostalem zatruty kiedy probowalem oslonic Wielka Patrzaca przed atakiem. XXX
+// Guardian20 (impressed) perso60
+L36D136
+ Zatruty! Nigdy czegos takiego nie widzialem! XXX
+// Arkhan2 O perso2
+L36D126
+ Odsun sie albo wrzuce cie do Mrocznych Ziem! XXX
+// Guardian20 perso60
+L36D141A
+ Nie jestem tu by handlowac! XXX
+// Guardian20 perso60
+L36D141B
+ Zlaz z murow, ale juz. XXX
+// Guardian20 perso60
+L36D142
+ Tracisz czas kreaturo! XXX
+// Guardian20 perso60
+L36D143
+ Wiedzialem! XXX
+// Arkhan2 L perso2
+L36D32
+ Dzialo ostrzegajace Gwardzistow Ognia przed atakiem. XXX
+// Arkhan2 O perso2
+L36D33
+ Dzialo. Szkoda, ze nie ma zapalnika, moglbym narobic porzadnego halasu! XXX
+// Arkhan3 L perso3
+L36D34
+ Dzialo jest bezuzyteczne przeciwko silom Mroku... XXX
+// Arkhan3 O perso3
+L36D35
+ Nie ma broni na Calun Mroku! XXX
+// Arkhan2 G perso2
+L36D36
+ Nie, zbyt ciezkie! XXX
+// Arkhan3 G perso3
+L36D37
+ Za ciezkie! XXX
+// Arkhan2 L perso2
+L36D38
+ Te lancuchy otwieraja i zamykaja brame. XXX
+// Arkhan2 O (pulling on chain, in vain) perso2
+L36D39
+ Nie, ani drgna! XXX
+// Arkhan3 L perso3
+L36D40
+ Lancuchy otwierajace brame. XXX
+// Arkhan3 O (pulling on chain, in vain) perso3
+L36D41
+ Ani drgnie! XXX
+// Arkhan2 L perso2
+L36D46
+ Przeciwwaga bramy zablokowana jest tymi zwalniaczami.  XXX
+// Arkhan3 L perso3
+L36D48
+ Zwalniacze... blokuja przeciwwage bramy. XXX
+// Arkhan2 L perso2
+L36D49
+ To slepa uliczka. Dalej nie moge isc. XXX
+// Arkhan2 O (striking a barricade) perso2
+L36D50
+ Idioci! Wszystko zablokowali! XXX
+// Arkhan3 O (striking a barricade) perso3
+L36D52
+ Do diabla! Slepa uliczka! XXX
+// Arkhan2 G perso2
+L36D24
+ Stad widac cale Stallite. XXX
+// Arkhan3 G perso3
+L36D25
+ Widac cale Stallite. XXX
+// Arkhan2 G perso2
+L36D26
+ Stallite wkrotce zostanie okryte Calunem Mroku. XXX
+// Arkhan3 G perso3
+L36D27
+ Calun Mroku jest wszedzie... XXX
+// Arkhan2 G perso2
+L36D28
+ Pyl i Mrok, tak daleko jak tylko siegaja oczy... XXX
+// Arkhan3 G perso3
+L36D29
+ Mrok tak daleko jak tylko widac... XXX
+// Arkhan2 G perso2
+L36D30
+ Sparta okryta Calunem Mroku... XXX
+// Arkhan2 L perso2
+L36D09
+ Brama do Stallite... Ale przy stanie wyjatkowym Gwardzisci ja zamkneli. XXX
+// Arkhan2 O perso2
+L36D10
+ Awww, ten kretyn Dhorkan zamknal brame do Stallite! XXX
+// Arkhan3 L perso3
+L36D11
+ Stan wyjatkowy. Brama do Stallite zamknieta.  XXX
+// Arkhan3 O perso3
+L36D12
+ Brama zamknieta... Dhorkan i jego glupi stan wyjatkowy! XXX
+// Arkhan2 L perso2
+L36D13
+ Otwarta czy zamknieta, brama nie obroni nas przed Calunem Mroku. XXX
+// Arkhan2 O perso2
+L36D14
+ Mysla, ze sa bezpieczni za swoja brama. Glupcy! XXX
+// Arkhan3 O perso3
+L36D16A
+ Skonczeni glupcy! XXX
+// Arkhan3 G perso3
+L36D16B
+ Zamkneli brame... ale za pozno! XXX
+// Arkhan2 G perso2
+L36D17
+ Tylko ta sciana oddziela nas od Zewnetrznego Mroku. XXX
+// Arkhan2 G perso2
+L36D18
+ Na zewnatrz nie ma nic poza Calunem Mroku, chlodem i smiercia... XXX
+// Arkhan3 G perso3
+L36D19
+ Calun Mroku, chlod, smierc... To wlasnie jest na zewnatrz... XXX
+// Arkhan2 L (soberly) perso2
+L36D20
+ Wyczuwam cos na zewnatrz, ukrywa sie, gotuje do ataku... XXX
+// Arkhan2 O (shouting in defiance) perso2
+L36D21
+ Zmierzcie sie ze mna Kreatury Mroku! Wychodzcie, czekam na was! XXX
+// Arkhan3 L perso3
+L36D22
+ Kreatury Mroku... sa blisko, czuje je... XXX
+// Arkhan3 O (shouting in defiance) perso3
+L36D23
+ No dalej potwory! Zmierzcie sie ze mna! XXX

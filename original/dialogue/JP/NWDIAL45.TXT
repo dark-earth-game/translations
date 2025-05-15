@@ -1,0 +1,67 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL45.TXT
+ // Delia perso10
+L16D122
+ Stop! You're scaring me! XXX
+// Arkhan2 G perso2
+L45D15
+ Just this staircase to go up... XXX
+// Arkhan3 G perso3
+L45D16
+ It's up there! XXX
+// Delia perso10
+L45D17
+ Let's go. XXX
+// Delia (Arkhan shows her an object) perso10
+L02D104
+ No. Please, hurry up... XXX
+// Arkhan2 L (has fought with Delia) perso2
+L45D01
+ Stop, Delia. Cool it! XXX
+// Arkhan2 O (has fought with Delia) perso2
+L45D02
+ Want more of the same, slut?! XXX
+// Arkhan3 L (has fought with Delia) perso3
+L45D03
+ Stop it! XXX
+// Delia (hit by Arkhan) perso10
+L45D04
+ What's gotten into you?!? XXX
+// Arkhan2 G perso2
+L45D05
+ I'll be back... XXX
+// Arkhan3 G perso3
+L45D06
+ I'll be back... XXX
+// Arkhan2 G perso2
+L45D07
+ Nothing left here. XXX
+// Arkhan3 G perso3
+L45D08
+ Nothing here. XXX
+// Arkhan2 L perso2
+L45D200
+ The cogs are gone! XXX
+// Arkhan3 L perso3
+L45D201
+ No more cogs! XXX
+// Arkhan1 L perso1
+L45D09A
+ The chain is rusted. XXX
+// Arkhan1 L perso1
+L45D09B
+ This old pulley has had it. XXX
+// Arkhan2 L perso2
+L45D10
+ No good, it's all rusted.  XXX
+// Arkhan3 L perso3
+L45D11
+ No good, everything rusted. XXX
+// Arkhan1 O (hitting the pulley) perso1
+L45D12
+ Piece of worthless crap! XXX
+// Arkhan2 O (hitting the pulley) perso2
+L45D13
+ Rusted out! XXX
+// Arkhan3 O (hitting the pulley) perso3
+L45D14
+ It's rusted! XXX

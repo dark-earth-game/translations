@@ -1,0 +1,376 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\SP\NWDIAL25.TXT
+ // Kalhi (asustada) perso13
+L25D106
+ Arkhan, has vuelto. ¿Qué es lo que pasa? XXX
+// Arkhan2 G perso2
+L25D200A
+ ¡Nadie! XXX
+// Arkhan2 G perso2
+L25D200B
+ ¡¿Dónde se han ido Kalhi y mi padre?! XXX
+// Arkhan3 G perso3
+L25D201A
+ ¡Nadie! XXX
+// Arkhan3 G perso3
+L25D201B
+ ¡¿Dónde están Kalhi y mi padre?! XXX
+// Kalhi (llega gritando y se interrumpe) perso13
+L25D15
+ Predicador Rylsadhar, ¿qué es lo que...? XXX
+// Kalhi (asustada) perso13
+L25D16A
+ ¡Dios Sol! A... ¿Arkhan? XXX
+// Kalhi (asustada) perso13
+L25D16B
+ Eres... ¿eres tú? XXX
+// Rylsadhar perso20
+L25D100A
+ Sí, es Arkhan. XXX
+// Rylsadhar perso20
+L25D100B
+ Los que han querido matar a Lory le han contaminado. XXX
+// Rylsadhar (molesto por la presencia de Kalhi) perso20
+L25D17A
+ Arkhan, yo... voy a llevarte como convinimos.  XXX
+// Rylsadhar (molesto por la presencia de Kalhi) perso20
+L25D17B
+ Pero primero debo hablar con el preboste Dhorkan y conseguir su permiso. XXX
+// Rylsadhar (molesto por la presencia de Kalhi) perso20
+L25D17C
+ Ve a ver a Sesekhan, el Archivero, y espérame allí. XXX
+// Kalhi (con lágrimas en la voz) perso13
+L25D18A
+ Arkhan, oh, amor, ¿qué es lo que te han hecho? XXX
+// Kalhi (con lágrimas en la voz) perso13
+L25D18B
+ Tu cara, tus manos...  XXX
+// Kalhi (con lágrimas en la voz) perso13
+L25D18C
+ ¡Es necesario que veas a los Sanadores del Hospital! XXX
+// Rylsadhar1 perso20
+L25D93
+ ¡No lo olvides Arkhan: búscame en el Templo, en casa del Archivero! XXX
+// Rylsadhar (golpeado por Arkhan) perso20
+L25D26
+ ¡El mal de la Oscuridad te ha vuelto loco! XXX
+// Rylsadhar (golpeado por Arkhan) perso20
+L25D55
+ ¡Hijo mío, no! ¡Resiste a ese veneno que te devora el espíritu! XXX
+// Rylsadhar (alarmado por el aspecto de Arkhan) perso20
+L25D07A
+ ¡Arkhan! ¡Dios Sol! ¿Eres tú? XXX
+// Rylsadhar (alarmado por el aspecto de Arkhan) perso20
+L25D07B
+ Lory tenía razón, te han contaminado. ¡Es la maldición de la Oscuridad! XXX
+// Rylsadhar perso20
+L25D27
+ ¡Te lo ruego hijo mío, cálmate! XXX
+// Arkhan1 L perso1
+L25D01A
+ Que la luz esté con usted, padre.  XXX
+// Arkhan1 L perso1
+L25D01B
+ ¿Todo va bien? Parecéis preocupado...  XXX
+// Arkhan1 O perso1
+L25D106A
+ ¡Saludos, viejo! XXX
+// Arkhan1 O perso1
+L25D106B
+ ¡Eh, tienes mala cara viejo! XXX
+// Rylsadhar perso20
+L25D02A
+ Que la luz esté contigo, Arkhan.  XXX
+// Rylsadhar perso20
+L25D02B
+ Mi espíritu está oscurecido por algunos problemas que tengo que arreglar. XXX
+// Arkhan1 L perso1
+L25D03
+ ¿Estáis seguro de que todo va bien? XXX
+// Arkhan1 O perso1
+L25D06
+ ¿Qué es lo que pasa? ¿La Gran Predicadora os ensombrece la existencia? XXX
+// Rylsadhar perso20
+L25D04A
+ Basta, Arkhan.  XXX
+// Rylsadhar (cansado) perso20
+L25D04B
+ Te lo ruego, hijo, hazme el favor y vuelve a tus tareas. XXX
+// Rylsadhar perso20
+L25D04C
+ ¡El preboste siempre encuentra un placer maligno en hacerme ver tus sempiternos retrasos! XXX
+// Arkhan2 G perso1
+L25D104
+ ¿Esto os dice algo, padre? XXX
+// Rylsadhar perso20
+L25D105A
+ Escucha Arkhan, tengo demasiadas preocupaciones en la cabeza. XXX
+// Rylsadhar perso20
+L25D105B
+ ¡Y seguramente tú tendrás algo mejor que hacer! XXX
+// Arkhan2 L perso2
+L25D08
+ Padre, ¿qué es lo que me pasa? ¿Qué es este Mal?  XXX
+// Rylsadhar (emocionado por la suerte de su hijo) perso20
+L25D09A
+ Arkhan... Hijo mío, tu valor ha salvado a la Gran Predicadora. XXX
+// Rylsadhar perso20
+L25D09B
+ Pero no sé qué podría salvarte de este Mal. XXX
+// Rylsadhar perso20
+L25D09C
+ Vamos a hacer todo lo posible para sanarte.  XXX
+// Rylsadhar perso20
+L25D09D
+ Thanandar, nuestro mejor Sanador, está ya manos a la obra. XXX
+// Arkhan2 L perso2
+L25D10A
+ Thanandar ha dicho que no podía hacer nada por mí. XXX
+// Arkhan2 L perso2
+L25D10B
+ Dice que el único remedio eficaz está en alguna parte en una cripta. XXX
+// Rylsadhar (sorprendido) perso20
+L25D11
+ ¿Qué? Thanandar te ha hablado de... ese lugar.  XXX
+// Arkhan2 G perso2
+L25D12A
+ Sí, ha dicho que sólo usted podría llevarme...  XXX
+// Arkhan2 G perso2
+L25D12B
+ ¡Padre, necesito vuestra ayuda!  XXX
+// Rylsadhar (tomando su decisión) perso20
+L25D13A
+ Si hubiera sabido que este día llegaría... XXX
+// Rylsadhar perso20
+L25D13B
+ ¡Tu coraje y tu abnegación te dan el derecho de saber! XXX
+// Rylsadhar perso20
+L25D13C
+ Pero debes saber que normalmente estaría prohibido que te llevase a ese lugar sagrado. XXX
+// Rylsadhar perso20
+L25D13D
+ Para curarte, voy a romper un juramento. XXX
+// Rylsadhar perso20
+L25D13E
+ Debes prometerme que no contarás a nadie lo que te voy a mostrar. XXX
+// Arkhan2 L perso2
+L25D14
+ Os lo prometo. XXX
+// Arkhan2 O perso2
+L25D19
+ ¡Padre, qué es lo que me pasa! ¡Sangre negra, estoy mal! XXX
+// Arkhan2 O perso2
+L25D20A
+ ¡Thanandar! ¡Él no puede hacer nada! XXX
+// Arkhan2 O perso2
+L25D20B
+ Afirma que el remedio se encuentra en un lugar secreto. ¡Una cripta! XXX
+// Arkhan2 O perso2
+L25D21
+ ¡Prometo todo lo que queráis, pero ayudadme!  XXX
+// Arkhan3 G perso3
+L25D22
+ ¡Padre, estoy mal! XXX
+// Arkhan3 G perso3
+L25D23A
+ ¡Thanandar... no puede hacer nada! XXX
+// Arkhan3 G perso3
+L25D23B
+ Dice que el remedio está en una cripta secreta.  XXX
+// Arkhan3 G perso3
+L25D24
+ ¡Dice que me llevéis allí!  XXX
+// Arkhan3 G perso3
+L25D25
+ De acuerdo. XXX
+// Kalhi perso13
+L25D85
+ ¡Arkhan, no! XXX
+// Kalhi perso13
+L25D86
+ Aquí estoy. Calma. XXX
+// Arkhan2 L perso2
+L25D62
+ No te preocupes, Kalhi, vamos a salir de ésta. XXX
+// Arkhan2 O perso2
+L25D64
+ Empiezo a sufrir. ¡Es necesario que vaya a encontrarme con mi padre! XXX
+// Kalhi (emocionada) perso13
+L25D63A
+ Sí, tengo confianza en Rylsadhar. XXX
+// Kalhi (emocionada) perso13
+L25D63B
+ Deberías subir a encontrarte con él enseguida. XXX
+// Arkhan2 L perso2
+L25D58
+ ¡Mi padre nos va a ayudar, no te preocupes! XXX
+// Arkhan2 O perso2
+L25D61
+ ¡No te preocupes, mi padre se ocupa de todo! XXX
+// Kalhi (emocionada) perso13
+L25D59A
+ Oh, por el Gran Dios Sol, espero que pueda curarte.  XXX
+// Kalhi (emocionada) perso13
+L25D59B
+ Tengo miedo por ti, Arkhan. XXX
+// Kalhi (emocionada) perso13
+L25D59C
+ Y que dirán los Predicadores si te ven... así cambiado. XXX
+// Kalhi (emocionada) perso13
+L25D59D
+ ¡Van a cogerte miedo, y podrían desterrarte en la Oscuridad! XXX
+// Arkhan2 L (tranquilo) perso2
+L25D56A
+ Kalhi... No te asustes... XXX
+// Arkhan2 L perso2
+L25D56B
+ Escucha, tuve que ir al Hospital..  XXX
+// Arkhan2 L perso2
+L25D56C
+ Un Guardián del Fuego me atacó allí. XXX
+// Arkhan2 L perso2
+L25D56D
+ No me reconoció, me tomó por no sé qué criatura de la Oscuridad. XXX
+// Arkhan2 O perso2
+L25D60A
+ ¡Calma! ¡Y no hagas ruido! XXX
+// Arkhan2 O perso2
+L25D60B
+ No puedo ir al Hospital..  XXX
+// Arkhan2 O perso2
+L25D60C
+ No estaba apenas despierto, y me he enfrentado a un Guardián del Fuego. XXX
+// Arkhan2 O perso2
+L25D60D
+ ¡Gritaba que era una criatura de la Oscuridad! ¡No tenía elección, le he sacudido! XXX
+// Kalhi (emocionada) perso13
+L25D57A
+ Después de los últimos acontecimientos, hay pánico ahí arriba.  XXX
+// Kalhi (emocionada) perso13
+L25D57B
+ El Preboste ha tomado las riendas del Stallite. Las puertas están cerradas. XXX
+// Kalhi (emocionada) perso13
+L25D57C
+ La plataforma hacia la ciudad baja está bloqueada, no podemos volver a bajar. XXX
+// Kalhi (emocionada) perso13
+L25D57D
+ Y los Guardianes del Fuego buscan a los culpables por todos los lados.  XXX
+// Kalhi (emocionada) perso13
+L25D57E
+ ¡Tengo miedo de lo que pase si me encuentran! XXX
+// Arkhan2 G perso2
+L25D94A
+ Esto debe ser de mi padre. XXX
+// Arkhan2 G perso2
+L25D94B
+ ¿Sabes qué puede ser eso? XXX
+// Kalhi perso13
+L25D95
+ No, sabes bien que no he aprendido a leer... XXX
+// Kalhi perso13
+L25D101A
+ No, nada. XXX
+// Kalhi perso13
+L25D101B
+ ¡Arkhan, olvida eso! XXX
+// Kalhi perso13
+L25D101C
+ ¡Lo que importa es hacer algo para curarte! XXX
+// Arkhan3 G perso3
+L25D66
+ Es preciso que vaya a buscar a mi padre. XXX
+// Arkhan3 G perso3
+L25D67
+ Ten confianza en Rylsadhar. XXX
+// Arkhan3 G perso3
+L25D68A
+ Kalhi... Calma...  XXX
+// Arkhan3 G perso3
+L25D68B
+ Olvida el Hospital... Un Guardián me encontraría fácilmente allí. XXX
+// Arkhan3 G perso3
+L25D68C
+ Debí luchar... Tuve la oportunidad. XXX
+// Arkhan3 G perso3
+L25D102A
+ Es de mi padre... XXX
+// Arkhan3 G perso3
+L25D102B
+ ¿Sabes qué es esto? XXX
+// Kalhi (obligada a defenderse) perso33
+L04D43
+ ¡Arkhan, no! XXX
+// Kalhi (inquieta) perso33
+L04D41
+ ¡Arkhan! ¿Qué te ocurre? XXX
+// Kalhi (amedrentada) perso33
+L04D42
+ ¡No, Arkhan! ¡Debes resistirte! XXX
+// Arkhan1 G perso1
+L25D28
+ ¿Qué es eso que hay arriba? XXX
+// Arkhan1 G perso1
+L25D29
+ ¡Nada que valga la pena! XXX
+// Arkhan1 G perso1
+L25D30
+ ¡Es como si hubiera un bazar sobre estas estanterías! XXX
+// Arkhan2 G perso1
+L25D31
+ Nada ahí arriba. XXX
+// Arkhan2 G perso1
+L25D33
+ ¡Pfff! Nada. XXX
+// Arkhan3 G perso1
+L25D35
+ Sin interés. XXX
+// Arkhan1 L perso1
+L25D43
+ Es la oficina de mi padre . XXX
+// Arkhan1 O perso1
+L25D44
+ La oficina de mi padre. XXX
+// Arkhan1 L (delante de la bola del mundo) perso1
+L25D49
+ Mi padre dice que esta bola representa nuestro mundo.  XXX
+// Arkhan1 O (delante de la bola del mundo) perso1
+L25D50
+ ¡Otra de esas inútiles reliquias de Antes! XXX
+// Arkhan1 G perso1
+L25D76
+ Se diría que es una cerradura. XXX
+// Arkhan2 G perso2
+L25D77
+ Tiene el aspecto de una cerradura. XXX
+// Arkhan2 L perso2
+L25D81
+ No abriré con esto. XXX
+// Arkhan3 G perso3
+L25D78
+ Una extraña cerradura. XXX
+// Arkhan3 L perso3
+L25D84
+ ¡Eso no me ayudará! XXX
+// Arkhan2 L perso2
+L25D79
+ No, la llave no está completa. XXX
+// Arkhan2 O perso2
+L25D80
+ ¡Sangre negra! ¡No entra! XXX
+// Arkhan3 L perso3
+L25D82
+ ¡La llave no está completa! XXX
+// Arkhan3 O perso3
+L25D83
+ ¡No funciona! XXX
+// Arkhan2 O (frustrado) perso2
+L25D74
+ ¿¡Dónde se ha metido mi padre?! XXX
+// Arkhan3 O (frustrado) perso3
+L25D75
+ ¡Padre! ¿¡Donde estáis!? XXX
+// Arkhan2 G perso1
+L25D87
+ ¿Qué es lo que hay ahí debajo? XXX
+// Arkhan3 G perso1
+L25D88
+ ¿Qué hay ahí debajo? XXX

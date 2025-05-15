@@ -1,0 +1,412 @@
+Début du fichier F:\DEV\DKE\DATAS\DIALOGUE\SP\NWDIAL19.TXT
+// Malfrat5 (vai enfrentar Arkhan) perso65
+L19D88
+Que queres? Em guarda! XXX
+// Kalhi perso13
+L19D01
+Obrigada, Jenna. Era disto que precisava. XXX
+// Malfrat5 perso65
+L19D02
+Sempre ao teu serviço para uma boa causa. XXX
+// Kalhi perso13
+L19D03A
+Arkhan! XXX
+// Kalhi perso13
+L19D03B
+Toma, encontrei isto para ti. XXX
+// Kalhi perso13
+L19D03C
+Não é grande coisa, mas espero que te ajude a aguentar XXX
+// Arkhan2 G perso2
+L19D04
+Obrigado Kalhi. Agradeço-te. XXX
+// Kalhi perso13
+L19D06A
+Vou tentar encontrar-te um Curador. XXX
+// Kalhi perso13
+L19D06B
+Coragem, meu amor! XXX
+// Arkhan2 G (orgulhoso de Kalhi) perso2
+L19D07
+Esta mulher é incrível! XXX
+// Arkhan3 G (orgulhoso de Kalhi) perso3
+L19D08
+É terrível! XXX
+// Delia perso10
+L16D122
+Pára! Metes-me medo! XXX
+// Malfrat5 (Arkhan põe-se em guarda) perso65
+L19D94
+Eh! Não brinques com isso, cara de barro! XXX
+// Malfrat5 perso65
+L19D95
+Será melhor que te calmes! XXX
+// Malfrat5 perso65
+L19D89
+Não te aproximes, transformado! XXX
+// Arkhan2 L perso2
+L19D09
+Que a luz esteja contigo, Buscadora. XXX
+// Malfrat5 perso65
+L19D10A
+Perdeste-te, tipo? XXX
+// Malfrat5 perso65
+L19D10B
+Então estás no lugar certo, bem-vindo ao mundo dos Buscadores. XXX
+// Arkhan2 O (examina a Rufiana dos pés à cabeça) perso2
+L19D10
+Sangue negro! Que coxas! XXX
+// Malfrat5 (irónica, fazendo cara de se lembrar do nome de Arkhan) perso65
+L19D11
+Saudações... cara de rato, é assim? XXX
+// Arkhan2 O perso2
+L19D12
+Não, eu sou mais "boca amorosa". XXX
+// Malfrat5 (divertida, exagerando) perso2
+L19D13
+Lembrar-me-ia de ti, belo macho. XXX
+// Arkhan2 G perso2
+L19D15
+Chamo-me Arkhan, o amigo dos Buscadores. XXX
+// Malfrat5 (irónica) perso65
+L19D16A
+Melhor assim! XXX
+// Malfrat5 (irónica) perso65
+L19D16B
+Para começar, não és muito bonito, digamos. XXX
+// Malfrat5 (irónica) perso65
+L19D16C
+E se por cima te chamasses "Arkhan, o degolador de Buscadores", começaria a inquietar-me. XXX
+// Arkhan2 L perso2
+L19D17A
+Tenho este aspeto porque estou doente. XXX
+// Arkhan2 L perso2
+L19D17B
+Mas não te preocupes, não te farei mal. XXX
+// Arkhan2 O perso2
+L19D18
+Estou doente, e por isso tenho esta cara suja! XXX
+// Malfrat5 perso65
+L19D19
+Se estás doente, devias tentar ver os Curadores da Cidade Alta. XXX
+// Arkhan2 L perso2
+L19D20A
+Não sou pessoa grata na Cidade Alta. XXX
+// Arkhan2 L perso2
+L19D20B
+Os Guardiões do Fogo perseguem-me. XXX
+// Malfrat5 perso65
+L19D21A
+Os Guardiões do Fogo? XXX
+// Malfrat5 perso65
+L19D21B
+Com tudo isso, tens medo dessas calamidades?! XXX
+// Arkhan2 L (antigo Guardião do Fogo, não o esqueçamos) perso2
+L19D22A
+Eh... Não, mas tenho melhores coisas para fazer que lutar com eles! XXX
+// Arkhan2 L perso2
+L19D22B
+Quanto aos Curadores, não posso contar com a sua ajuda. XXX
+// Arkhan2 L perso2
+L19D22C
+Se quero curar-me, sou eu que tenho de encontrar o remédio! XXX
+// Arkhan2 O perso2
+L19D23A
+Posso esquecer encontrar ajuda na Cidade Alta. XXX
+// Arkhan2 O perso2
+L19D23B
+Os Guardiões do Fogo juraram que terão a minha pele! XXX
+// Arkhan2 O (antigo Guardião do Fogo, não o esqueçamos) perso2
+L19D24A
+Não são todos tão calamidades como dizes... XXX
+// Arkhan2 O perso2
+L19D24B
+Mas não quererão saber de nada. XXX
+// Arkhan2 O perso2
+L19D24C
+Tal como os Pregadores e os Curadores. XXX
+// Arkhan2 O perso2
+L19D24D
+Em poucas palavras, não confio mais que em mim mesmo... XXX
+// Arkhan2 O perso2
+L19D24E
+E em alguns bons Buscadores da cidade baixa, claro! XXX
+// Arkhan2 L perso2
+L19D25
+Conheces alguém por aqui que pudesse ajudar-me? XXX
+// Arkhan2 O perso2
+L19D26
+Diz-me quem pode ajudar-me neste buraco! XXX
+// Malfrat5 perso65
+L19D27A
+Aqui, para aqueles que realmente se revolvem na merda, o último recurso chama-se Armal Sadak. XXX
+// Malfrat5 perso65
+L19D27B
+Mas não creio que te ajude. XXX
+// Arkhan2 G perso2
+L19D28
+Porquê? XXX
+// Malfrat5 perso65
+L19D29
+Digamos que não tens a cor de roupa interior adequada, por assim dizer! XXX
+// Arkhan2 G (conhece o Armal Sadak) perso2
+L19D30
+Não te preocupes, tem melhor gosto do que pensas... XXX
+// Arkhan2 L perso2
+L19D31
+Onde posso encontrar o teu Armal Sadak? XXX
+// Malfrat5 perso65
+L19D32A
+Esquece. XXX
+// Malfrat5 perso65
+L19D32B
+Tudo o que vais ganhar é encurtar o teu sofrimento. XXX
+// Arkhan2 L perso2
+L19D33A
+Ouve, insisto. Quero encontrar esse Armal Sadak. XXX
+// Arkhan2 L perso2
+L19D33B
+É uma questão de vida ou morte! XXX
+// Malfrat5 perso65
+L19D34A
+Bem. O Armal Sadak vive no Tugúrio, um pouco mais longe, por ali atrás. XXX
+// Malfrat5 perso65
+L19D34B
+É um velho navio que ele transformou no seu covil. XXX
+// Malfrat5 perso65
+L19D34C
+Mas se queres aproximar-te, será preciso que vás recomendado por alguém. XXX
+// Arkhan2 L perso2
+L19D35
+Por quem? O Danrys? XXX
+// Malfrat5 perso65
+L19D36A
+Não, a Delia. É a bailarina que faz o seu número aqui. XXX
+// Malfrat5 perso65
+L19D36B
+O patrão Maor não é muito falador, mas ela conhece o Armal Sadak. XXX
+// Malfrat5 perso65
+L19D36C
+Se conseguires convencê-la, talvez te ajude. XXX
+// Malfrat5 (por ela mesma) perso65
+L19D36D
+Mas com a tua cara, não te prometo nada... XXX
+// Arkhan2 L perso2
+L19D37
+Não podes dizer-me mais nada? XXX
+// Malfrat5 perso65
+L19D38
+Já te disse demasiado! XXX
+// Malfrat5 perso65
+L19D39
+Agora desenrasca-te sozinho! XXX
+// Arkhan2 O perso2
+L19D40A
+Ouve bem, bonita! XXX
+// Arkhan2 O perso2
+L19D40B
+Vais dizer a esse Armal Sadak que me ajude, ou então... XXX
+// Malfrat5 (furiosa) perso65
+L19D41
+Vou fazer-te engolir os teus insultos, porco! XXX
+// Arkhan3 L perso3
+L19D42
+Luz... XXX
+// Malfrat5 (impressionada) perso65
+L19D43A
+Guarda as distâncias! XXX
+// Malfrat5 (impressionada) perso65
+L19D43B
+Quem és? Que queres? XXX
+// Arkhan3 L perso3
+L19D44
+O meu nome é Arkhan. XXX
+// Malfrat5 (desconfiada) perso65
+L19D45A
+Nunca te tinha visto por aqui. XXX
+// Malfrat5 (desconfiada) perso65
+L19D45B
+Qual é o teu problema? XXX
+// Arkhan3 L perso3
+L19D46A
+Uma doença. XXX
+// Arkhan3 L perso3
+L19D46B
+Procuro um remédio. XXX
+// Malfrat5 (desconfiada) perso65
+L19D47
+Não encontrarás nada aqui... XXX
+// Arkhan3 L perso3
+L19D48
+Conheces alguém que pudesse... ajudar-me? XXX
+// Malfrat5 perso65
+L19D49A
+O Armal Sadak, talvez... XXX
+// Malfrat5 perso65
+L19D49B
+Mas admirar-me-ia que quisesse! XXX
+// Arkhan3 L perso3
+L19D50
+Onde posso encontrar o Armal Sadak? XXX
+// Malfrat5 perso65
+L19D51A
+Vive um pouco mais longe... Num barco de metal... XXX
+// Malfrat5 perso65
+L19D51B
+Mas não é muito boa ideia ir por ali... XXX
+// Arkhan3 L perso3
+L19D52
+Quem poderia ajudar-me? XXX
+// Malfrat5 perso65
+L19D53A
+Acho que devias desistir! XXX
+// Malfrat5 perso65
+L19D53B
+Baza! Não tenho mais nada para te dizer! XXX
+// Malfrat5 (vai em direção a Arkhan) perso65
+L19D54
+Vou acabar contigo! XXX
+// Arkhan2 L perso2
+L19D55
+Não acredito em nada. XXX
+// Arkhan2 O perso2
+L19D56
+Não te excites, eu não bato em mulheres! XXX
+// Malfrat5 perso65
+L19D57
+Está bem. Mas ao menor movimento suspeito, espeto-te na terra! XXX
+// Arkhan2 L perso2
+L19D58
+Quem te deixou neste estado? XXX
+// Arkhan2 O perso2
+L19D59
+Que tens tu para estares assim tão feita em pó? XXX
+// Malfrat5 perso65
+L19D60A
+Aqui passam-se coisas nada normais! XXX
+// Malfrat5 perso65
+L19D60B
+Não sou do tipo de pessoa que se assuste por nada. XXX
+// Malfrat5 perso65
+L19D60C
+Mas vi umas sombras moverem-se na viela aqui ao lado. XXX
+// Malfrat5 perso65
+L19D60D
+Umas sombras... não humanas... um pouco como tu. XXX
+// Malfrat5 perso65
+L19D60E
+Mas elas, primeiro mordem e depois falam... XXX
+// Malfrat5 perso65
+L19D60F
+Se tivesses visto o que tento explicar-te! XXX
+// Arkhan2 L perso2
+L19D61
+Não te preocupes, eu protejo-te. XXX
+// Arkhan2 O (desconfiado) perso2
+L19D62
+Se vierem as tuas sombras, eu trato delas! XXX
+// Arkhan2 G perso2
+L19D63
+Viste mais alguma coisa? XXX
+// Malfrat5 perso65
+L19D64
+Não, mas com isso já me bastou! XXX
+// Arkhan3 L perso3
+L19D65
+Não acredito em nada... XXX
+// Malfrat5 (violenta ainda que assustada) perso65
+L19D66A
+Procura outra presa, monstro! XXX
+// Malfrat5 perso65
+L19D66B
+Preferirias o gosto da minha espada! XXX
+// Arkhan3 L perso3
+L19D67
+Que é que temes? XXX
+// Malfrat5 perso65
+L19D68
+As criaturas do teu tipo! XXX
+// Arkhan3 L perso3
+L19D69
+Que viste? XXX
+// Malfrat5 perso65
+L19D70
+Cala-te! Baza! XXX
+// Malfrat5 (Arkhan mostra-lhe um objeto) perso65
+L19D97
+Guarda isso para ti, está bem? XXX
+// Arkhan2 G perso2
+L19D99
+Diz-me, buscadora... XXX
+// Malfrat5 (interrompe Arkhan) perso65
+L19D100
+Primeiro guarda a tua arma, põe-me nervosa! XXX
+// Arkhan3 L perso3
+L19D101
+Quero saber se... XXX
+// Arkhan2 G perso2
+L19D93
+Não te mexas! XXX
+// Arkhan2 L perso2
+L19D90
+É preciso que voltemos à Cidade Alta. Vamos! XXX
+// Delia (inquieta) perso10
+L19D91
+Sigo-te, Arkhan. XXX
+// Arkhan2 O perso2
+L19D92A
+Vamos subir à Cidade Alta. XXX
+// Arkhan2 O perso2
+L19D92B
+Fica atrás de mim, não desejo perder-te no caminho! XXX
+// Arkhan3 G perso3
+L14D239
+Vamos para a Cidade Alta. XXX
+// Delia perso10
+L14D240
+Vamos, sigo-te. XXX
+// Delia (golpeada por Arkhan) perso10
+L10D95
+Não, estás a enlouquecer, pára! XXX
+// Arkhan2 G perso2
+L19D73
+Nada mais que desperdícios... XXX
+// Arkhan3 G perso3
+L19D74
+Uns desperdícios... XXX
+// Arkhan2 G perso2
+L19D75
+Eh, há uma mulher que dança no interior. XXX
+// Arkhan3 G perso3
+L19D76
+Hmmm... Há uma mulher que dança... XXX
+// Arkhan2 G perso2
+L19D77
+Não se vê grande coisa! XXX
+// Arkhan3 G perso3
+L19D78
+Está deserto... XXX
+// Arkhan2 G perso2
+L19D79
+Um velho moinho de água. Completamente enferrujado. XXX
+// Arkhan3 G perso3
+L19D80
+Um velho moinho de água. XXX
+// Malfrat5 perso65
+L19D81
+Que queres outra vez? XXX
+// Malfrat5 perso65
+L19D82
+Volta por onde vieste! XXX
+// Arkhan2 G perso3
+L19D83
+Não se vê nada por aqui... Que pena... XXX
+// Arkhan3 G perso3
+L19D84
+Não vejo nada... XXX
+// Arkhan2 G perso2
+L19D85
+Um velho barril podre... XXX
+// Arkhan3 G perso3
+L19D86
+Um velho barril... XXX

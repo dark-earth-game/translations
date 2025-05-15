@@ -1,0 +1,145 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL37.TXT
+ // Arkhan2 G perso2  (spricht unter seinem Helm)
+L37D01A
+ Ich bin draußen! XXX
+// Arkhan2 G perso2  (spricht unter seinem Helm)
+L37D01B
+ Ich hab den Stalliten verlassen. XXX
+// Arkhan3 G perso3 (spricht unter seinem Helm)
+L37D02A
+ Ich bin draußen! XXX
+// Arkhan3 G perso3 (spricht unter seinem Helm)
+L37D02B
+ Ich habe den Stalliten verlassen. XXX
+// Arkhan2 G perso2 (spricht unter seinem Helm)
+L37D03
+ Das Ding hier ist zu schwer. Das muß ich loswerden. XXX
+// Arkhan3 G perso3
+L37D04
+ Dieses Ding ist zu schwer. Ach, ich werf' es einfach weg! XXX
+// Arkhan2 G (sieht eine Kreatur)perso2
+L37D01C
+ Sieht aus, als würde ich erwartet! XXX
+// Arkhan3 G (sieht eine Kreatur)perso3
+L37D02C
+ Sieht aus, als hätte ich Gesellschaft! XXX
+// Arkhan2 G perso2
+L37D05
+ Es ist tief ... Es ist wohl besser, ich geh' nicht zu weit weg. XXX
+// Arkhan3 G perso3
+L37D06
+ Tief ... Nicht weit weggehen. XXX
+// Arkhan2 G perso2
+L37D07
+ Von hier aus sieht man den Festungswall und die Kaserne der Hüter des Feuers. XXX
+// Arkhan3 G perso3
+L37D08
+ Man sieht den Festungswall und die Kaserne. XXX
+// Arkhan2 G perso2
+L37D09
+ Der Eingang zu einer Grotte! XXX
+// Arkhan3 G perso3
+L37D10
+ Eine Grotte! XXX
+// Arkhan2 G (taucht ins Wasser)perso2
+L37D11
+ Ich muß den Helm wieder aufsetzen ... XXX
+// Arkhan3 G (taucht ins Wasser)perso3
+L37D12
+ Ich muß den Helm wieder aufsetzen ... XXX
+// Arkhan2 L perso2
+L37D13A
+ Was ist, Du gibst schon auf?! XXX
+// Arkhan2 L perso2
+L37D13B
+ Hast Du Angst vor der Grotte? XXX
+// Arkhan2 O perso2
+L37D14
+ Du traust Dich nicht weiterzugehen, stimmt's, dreckige Kreatur? XXX
+// Arkhan3 L perso3
+L37D15A
+ Du hast Angst, hab' ich recht? XXX
+// Arkhan3 L perso3
+L37D15B
+ Angst vor der Grotte!? XXX
+// Arkhan3 O (wütend) perso3
+L37D16
+ Komm doch näher! Kämpf um Dein Leben! XXX
+// Arkhan2 G perso2
+L37D17
+ Komm! Ich hab' Krallen! XXX
+// Arkhan3 G perso3
+L37D18
+ Komm näher, Ungeheuer! XXX
+// Arkhan2 L perso2
+L37D19A
+ Was das wohl vorher gewesen ist? Ein Mensch, ein Tier? XXX
+// Arkhan2 L perso2
+L37D19B
+ Ich muß das Gegenmittel finden, bevor ich auch zu so einem Wesen geworden bin! XXX
+// Arkhan3 L perso3
+L37D20A
+ Was das wohl vorher gewesen ist ... ein Mensch? Ein Tier? XXX
+// Arkhan3 L perso3
+L37D20B
+ Ich muß wieder gesund werden ... nicht so werden ... XXX
+// Arkhan2 O perso2
+L37D21
+ Verdammte Kreatur! XXX
+// Arkhan3 O perso3
+L37D22
+ Verdammte Kreatur! XXX
+// Arkhan2 L perso2
+L37D23
+ Sag' bloß, Du hast Angst vor dem Wasser? Weil Du darin etwas sauberer werden würdest? XXX
+// Arkhan3 L perso3
+L37D24
+ Angst vor dem Wasser, stimmt's? XXX
+// Arkhan2 L perso2
+L37D25A
+ Dieses Miststück war ganz schön zäh! XXX
+// Arkhan2 L perso2
+L37D25B
+ Wenn ich die Grabstätte nicht finde, wird die ganze Bevölkerung des Stalliten vernichtet werden! XXX
+// Arkhan3 L perso3
+L37D26A
+ Ganz schön zäh! XXX
+// Arkhan3 L perso3
+L37D26B
+ Ich muß schnell machen oder die Ungeheuer werden den Stalliten dem Erdboden gleich machen. XXX
+// Arkhan2 G perso2
+L37D27
+ Nichts als alte verrostete Trümmer ... XXX
+// Arkhan3 G perso3
+L37D28
+ Alte verrostete Trümmer ... XXX
+// Arkhan2 G perso2
+L37D29
+ Selbst Danrys könnte damit nichts anfangen. XXX
+// Arkhan2 G perso2
+L37D31
+ Welche Kreatur hat so große Knochen? XXX
+// Arkhan3 G perso3
+L37D32
+ Die Knochen eines Tieres ... eines riesigen Tieres ... XXX
+// Arkhan2 G perso2
+L37D33A
+ Urinspuren auf der Erde ... XXX
+// Arkhan2 G perso2
+L37D33B
+ Und ein Tiergeruch. XXX
+// Arkhan3 G perso3
+L37D34
+ Urinspuren ... und ein widerlicher Geruch! XXX
+// Arkhan2 G (findet Fischgräten)perso2
+L37D35
+ Die Reste einer Mahlzeit ... XXX
+// Arkhan3 G (findet Fischgräten)perso3
+L37D36
+ Reste ... XXX
+// Arkhan2 G perso2
+L37D37
+ Seltsam, hier ist die Wand warm ... XXX
+// Arkhan3 G perso3
+L37D38
+ Ich spüre eine Wärme. XXX

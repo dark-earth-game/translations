@@ -1,0 +1,91 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL46.TXT
+ // Arkhan2 G (entdeckt seinen Vater, der verletzt auf dem Boden liegt) perso2
+L46D01
+ Beim Sonnengott! Vater! XXX
+// Arkhan3 G (entdeckt seinen Vater, der verletzt auf dem Boden liegt) perso3
+L46D02
+ Vater, nein! XXX
+// Rylsadhar kontaminiert perso21
+L46D03
+ Arkhan ... Ich ... Ich hab's nicht geschafft ... XXX
+// Arkhan2 G perso2
+L46D04
+ Vater, wer ... wer hat Euch das angetan? XXX
+// Arkhan3 G perso3
+L46D05
+ Vater, wer hat Euch das angetan?! XXX
+// Rylsadhar kontaminiert perso21
+L46D06A
+ Dhorkan ... Dieser miese Verräter ... XXX
+// Rylsadhar kontaminiert perso21
+L46D06B
+ Er hat mich den Konkaliten ausgeliefert ... XXX
+// Arkhan2 G perso2
+L46D07
+ Ich werde ihn finden, Vater. Das wird er mir bezahlen! XXX
+// Arkhan3 G perso3
+L46D08
+ Dafür wird er bezahlen, Vater! XXX
+// Rylsadhar kontaminiert perso21
+L46D09A
+ Nein, mein Sohn ... Dhorkan ist nur ein Wahnsinniger, der nicht weiß, was er tut! XXX
+// Rylsadhar kontaminiert perso21
+L46D09B
+ Die wirkliche Gefahr ist Thanandar! Er manipuliert die Konkaliten ... XXX
+// Rylsadhar kontaminiert perso21
+L46D09C
+ Dhorkan weiß davon nichts. XXX
+// Rylsadhar kontaminiert perso21
+L46D09D
+ Zed und ich ... gefangen ... kontaminiert ... XXX
+// Rylsadhar kontaminiert perso21
+L46D09E
+ Ich konnte ... flüchten ... aber ich bin zu schwach ... XXX
+// Arkhan2 G perso2
+L46D10
+ Aber Vater, Thanandar ist tot! XXX
+// Arkhan3 G perso3
+L46D11
+ Thanandar ist tot! XXX
+// Rylsadhar kontaminiert perso21
+L46D12A
+ Thanandar der Heiler, ja ... Aber nicht das Ungeheuer, zu dem er geworden ist! XXX
+// Rylsadhar kontaminiert perso21
+L46D12B
+ Er ist jetzt ... ein Wesen der Finsternis. XXX
+// Rylsadhar kontaminiert perso21
+L46D12C
+ Er will ... das Herz ... das Lichterfüllte Herz zerstören ... XXX
+// Rylsadhar kontaminiert perso21
+L46D12D
+ Geh' zum Tempel ... zur Gruft ... XXX
+// Rylsadhar (in seinem letzten Atemzug) perso21
+L46D12E
+ Schütze das Licht ... XXX
+// Rylsadhar (letzter Seufzer) perso21
+L46D12F
+ Aaaaah... XXX
+// Arkhan2 G (rachsüchtig, zu sich selbst) perso2
+L46D14
+ Thanandar! XXX
+// Arkhan3 G (rachsüchtig, zu sich selbst) perso3
+L46D15
+ Thanandar! XXX
+// Arkhan2 L (vor Rylsadhars Leiche) perso2
+L22D12A
+ Vater! XXX
+// Arkhan2 L (vor Rylsadhars Leiche) perso2
+L22D12B
+ Ich schwöre es, ich werde Euch rächen! Thanandar wird sterben! XXX
+// Arkhan2 O perso2
+L22D13A
+ Thanandar! Du hast meinen Vater getötet! XXX
+// Arkhan2 O perso2
+L22D13B
+ Das wirst Du mir bezahlen! XXX
+// Arkhan3 L perso3
+L22D14
+ Vater! Ich werd Dich rächen! XXX
+// Arkhan3 O (zu sich selbst murmelnd)perso3
+L22D15
+ Vater! ... Ra... Rache! XXX

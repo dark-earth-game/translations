@@ -1,0 +1,70 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\SP\NWDIAL09.TXT
+ // Gardien8 (sorprendido por Arkhan, va a dispararle encima) perso48
+L09D31A
+ ¡Fuego Bendito! XXX
+// Gardien8 perso48
+L09D31B
+ ¡No me tendrás! XXX
+// Arkhan1 L perso1
+L09D04A
+ Esta máquina fabrica la munición del escupidor. XXX
+// Arkhan1 L perso1
+L09D04B
+ Pero me hace falta metal para fundir. XXX
+// Arkhan2 L perso2
+L09D05
+ Necesitaría metal para fundir para hacer la munición del escupidor con esta máquina. XXX
+// Arkhan3 L perso3
+L09D06
+ Necesitaría metal para fundir para hacer munición. XXX
+// Arkhan1 O perso1
+L09D01
+  ¡Sangre Negra! ¿Cómo funciona este artefacto? XXX
+// Arkhan2 O perso2
+L09D02
+  ¡No comprendo nada de este artefacto! XXX
+// Arkhan3 O perso3
+L09D03
+  ¡Oscura máquina! XXX
+//Arkhan1 L perso1
+L09D13
+ Viejos toneles sin interés. XXX
+//Arkhan2 L perso2
+L09D14
+ Nada más que unos toneles vacíos. XXX
+//Arkhan3 L perso3
+L09D15
+ Unos toneles... vacíos. XXX
+// Arkhan2 G perso2
+L04D44
+ ¡Esta no es la llave correcta! XXX
+// Arkhan3 G perso3
+L04D45
+ ¡Llave incorrecta! XXX
+//Arkhan1 G perso1
+L09D20
+ El depósito de agua está vacío. XXX
+//Arkhan2 L perso2
+L09D22
+ Un depósito de agua. Vacío. XXX
+//Arkhan3 L perso3
+L09D24
+ Un depósito. Vacío. XXX
+//Arkhan1 L perso1
+L09D25
+ ¡Creo que no es momento de sentarse! XXX
+//Arkhan1 O perso1
+L09D26
+ ¡No deseo sentarme! XXX
+//Arkhan2 L perso2
+L09D27
+ ¡Quizá este no sea momento de sentarse! XXX
+//Arkhan2 O perso2
+L09D28
+ ¡No deseo sentarme! XXX
+//Arkhan3 L perso3
+L09D29
+ ¡No me siento! XXX
+//Arkhan3 O perso3
+L09D30
+ ¡No me siento! XXX

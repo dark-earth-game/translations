@@ -1,0 +1,391 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL21.TXT
+ // Arkhan2 G (verzweifelt) perso2
+L21D202
+ Velká Knezka! XXX
+// Arkhan3 G (verzweifelt) perso3
+L21D203
+ Lory! XXX
+// Lory (empfängt Arkhan oben) perso15
+L21D26A
+ Arkhane! Pricházím príliš pozde.  XXX
+// Lory (empfängt Arkhan oben) perso15
+L21D26B
+ Phedorie mi vyprávela, co se stalo... XXX
+// Lory perso15
+L21D26C
+ Slunecní Bùh nám v jeho dobrote dává ješte jednu šanci, Arkhane! Jednu šanci, naše bratry stíhat spravedlnost ... XXX
+// Lory perso15
+L21D26D
+ ...jednu šanci, jak Stallit zachránit. XXX
+// Lory perso15
+L21D26E
+ Následuj mne, máme málo casu! XXX
+// Thanandar25 perso25
+L21D45A
+ Arkhane! Ty ziješ! To není špatne! XXX
+// Arkhan2 G (erstaunt) perso2
+L21D200
+ Thanandar! XXX
+// Arkhan3 G (erstaunt) perso3
+L21D201
+ Thanandar! XXX
+// Thanandar25 perso25
+L21D45B
+ Prišel jsi pozde! Budoucnost Stallitu lezí v mých rukouch! XXX
+// Thanandar25 perso25
+L21D46A
+ Predevším nemùzu tvùj dluh vùci Lory zapomenout.  XXX
+// Thanandar25 perso25
+L21D46B
+ Ale mám neco lepšího: Tvùj otec, Rylsadhar! XXX
+// Thanandar25 perso25
+L21D46C
+ On vypil mojí Temnou Zemi, je mým nástrojem.  XXX
+// Thanandar25 perso25
+L21D46D
+ On, zasvecenec, ochránce svetla, ponorí svet do tmy! XXX
+// Thanandar25 perso25
+L21D47
+ Ale mám ješte neco lepšího: Tveho prítele Zeda! XXX
+// Arkhan1 G perso1
+L21D90
+ Já jsem vzdy snil o tom, vystoupit tam nahoru! XXX
+// Arkhan2 G perso2
+L21D91
+ Snil jsem vzdy o tom, vystoupat nahoru! XXX
+// Arkhan3 G perso3
+L21D92
+ Snil jsem vzdy o tom, vystoupat nahoru! XXX
+// Thanandar25 perso25
+L21D71
+ Bídný cerve..... XXX
+// Phedoria perso26
+L20D38
+ Podepsal jsi si svùj rozsudek smrti, Arkhane! XXX
+// Prediger1 (durch Arkhans Aussehen verschreckt) perso18
+L21D19
+ Aaah! Zùstan kde jsi, Neverící! XXX
+// Prediger1 perso18
+L21D20A
+ Uklidni se mùj príteli. XXX
+// Prediger1 perso18
+L21D20B
+ Toto místo je místem míru. XXX
+// Prediger1 perso18
+L21D88
+ Ne! Zpátky, Demon Temne Zeme! XXX
+// Zed84 perso84
+L21D22
+ Ah, Arkhane, hledal jsem te. Proc nejsi na svem míste? Musíš ... XXX
+// Zed84 perso84
+L21D23
+ Ale ... Co se zde stalo? Arkhane, co jsi to udelal? Ten knez ... XXX
+// Arkhan 1 G perso1
+L21D24
+ Pockej! Mohu ti všechno vysvetlit! XXX
+// Zed84 perso84
+L21D25A
+ Ty nic nevysvetluj! Usmrtil jsi kneze! XXX
+// Zed84 (will A. töten) perso84
+L21D25B
+ Znáš trest presne tak jak já! XXX
+// Zed84 (niedergeschlagen, weil er Arkhan töten mußte) perso84
+L21D44
+ Arkhane, byli jsme bratri ... XXX
+// Prediger2 (verängstigt)perso19
+L21D89
+ Aaah! Ne! XXX
+// Prediger 19 perso19
+L21D73
+ Aaah! Pricházíš, abys mne usmrtil! Zpátky, Kreaturo z Temne Zeme! XXX
+// Prediger2 perso19
+L21D84B
+ Nyní jen, ukonci sve dábelske dílo! XXX
+// Arkhan1 L perso1
+L21D01
+ Svetlo s tebou, knezí. XXX
+// Prediger1 perso18
+L21D02A
+ A s tebou, príteli. XXX
+// Prediger1 perso18
+L21D02B
+ Prišel jsi, nebot Rahala, Symbol Slunecního Boha, te volá.  XXX
+// Prediger1 perso18
+L21D02C
+ To je dobre, nebot ty hledáš cestu k tvemu vnitrnímu svetlu. XXX
+// Arkhan1 L perso1
+L21D03
+ Jseš zástupce Slumecního Boha? XXX
+// Prediger1(dogmatisch) perso18
+L21D04A
+ Ano, mùj príteli. Tento symbol na mem cele, Rahala, delá mne poslem Boha Slunce. XXX
+// Prediger1(dogmatisch) perso18
+L21D04B
+ On zije v mým duchu, On se dívá mýma ocima a mluví mýmy ùsty ...  XXX
+// Prediger1(dogmatisch) perso18
+L21D04C
+ Ver mi, pokud ti ríkám, ze jeho svate svetlo naše srdce osvicuje a ze on spravedlnost pred Temnou Zemí ochranuje.  XXX
+// Prediger1(dogmatisch) perso18
+L21D04D
+ A kdyz prijde noc, potrebujeme, ze se jeho mysl od nás neodvrátí, a jeho bozske svetlo nezmizí. XXX
+// Prediger1(dogmatisch) perso18
+L21D04E
+ Nebot toto je zkouškou, která pouze v necistých myslích je odmítána. XXX
+// Prediger1(dogmatisch) perso18
+L21D04F
+ Jak naši predvídaví predci rekli je jeho svetlo predpovezeno. XXX
+// Prediger1(dogmatisch) perso18
+L21D04G
+ Nezapomen, ze pouze paprsky Otce svetla slouzí k tomu, abychom smrt necítily. XXX
+// Prediger1 perso18
+L21D06
+ Jdi v míru, Strázce ohne. XXX
+// Arkhan 1 O perso1
+L21D07
+ Bud pozdraven, knezi. XXX
+// Prediger1 (betont höflich) perso18
+L21D08
+ Svetlo s tebou, príteli. XXX
+// Arkhan 1 O (spöttisch) perso1
+L21D09
+ Tedy, ješte porád verný Bohu Slumce? XXX
+// Arkhan 1 O perso1
+L21D10
+ Já myslím, ze já jiz dost slyšel... XXX
+// Arkhan2 G perso2
+L21D11
+ Knezi, pomoz mi! XXX
+// Prediger1 (durch A. Aussehen verängstigt.) perso18
+L21D12
+ Otce Svetla! Temná Zeme ... Temná Zeme je v tobe! XXX
+// Arkhan2 L perso2
+L21D13A
+ Knezi, potrebuju pomoc! XXX
+// Arkhan2 L perso2
+L21D13B
+ Kdyz jsem ochranoval Lory, byl jsem nakazen.   XXX
+// Arkhan2 L perso2
+L21D13C
+ Ale ješte porád jsem Strázcem ohne, verný slouzící Boha Slunce. XXX
+// Arkhan2 L perso2
+L21D13D
+ Pomoz mi, ostatní jsou o tom presvedcený, ze mne se mohou obávat! XXX
+// Arkhan2 O perso2
+L21D14A
+ Dej si pozor, knezi, to stacilo!Nejsem prece zádný zlocinec, pouze pro to ze jsem jiný! XXX
+// Arkhan2 O perso2
+L21D14B
+ Jed mne nicí! XXX
+// Arkhan2 O perso2
+L21D14C
+ Místo všech tech recí, ktere proti mne vedeš, mel by ses radeji se pokusit, mne vylecit! XXX
+// Prediger1 (fanatisch) perso18
+L21D15A
+ Ne! Nemùzeš mne oklamat! XXX
+// Prediger1 perso18
+L21D15B
+ Symbol Slunecního Boha osvicuje mùj oblicej. XXX
+// Prediger1 perso18
+L21D15C
+ Mými ocima vidím lzi! XXX
+// Prediger1 perso18
+L21D15D
+ A skrz mojí pusu mluví sám Otec Svetla! XXX
+// Prediger1 perso18
+L21D15E
+ Pokud te zachvátila Temná Zeme, nejsi uz urcen k tomu, pod jeho svetlem slouzit! XXX
+// Arkhan2 G perso2
+L21D16
+ Ale já jsem prece zachránil Lory zivot! XXX
+// Prediger1 perso18
+L21D72A
+ Tve temne podvody mùzeš si nechat! XXX
+// Prediger1 perso18
+L21D72B
+ Az se vrátí Velká Knezka, vyloucí te ze Stallitu! XXX
+// Prediger1 perso18
+L21D72C
+ Und wenn Profos Dhorkan es vermeiden will, daß ihn das gleiche Schicksal ereilt, sollte er alles tun, um die Ungläubigen zu finden! XXX
+// Prediger1 perso18
+L21D72D
+ Jdi nyní nebo zavolám stráze! XXX
+// Arkhan2 G (bitter enttäuscht) perso2
+L21D17
+ Nejsi nic jineho nez ubohý, pomatený fanatik! XXX
+// Prediger1 perso18
+L21D18
+ Nepokoušej se, na mne zaùtocit, nebo te Bùh Slunce na míste znicí! XXX
+// Arkhan3 G perso3
+L21D100
+ Knezi! XXX
+// Prediger1 perso18
+L21D101A
+ Nepriblizuj se blíze, Kreaturo Temne Zeme! XXX
+// Prediger1 perso18
+L21D101B
+ Ven odsud! Nacházíš se na svatem míste! XXX
+// Arkhan3 L perso3
+L21D102
+ Uklidni se, knezi, jsem clovek! XXX
+// Arkhan3 O perso3
+L21D103
+ Nejsem nestvùra! XXX
+// Prediger1 perso18
+L21D104
+ Zpet, jak jsem rekl! XXX
+// Prediger1 perso18
+L21D21
+ Boze Slunce, ochranuj mne! XXX
+// Arkhan2 L perso2
+L20D30
+ Proc neríkáš zde a nyní, co máš ríkat? XXX
+// Arkhan2 O perso2
+L20D31
+ Rekni zde, co se deje! XXX
+// Arkhan3 L perso3
+L20D32
+ Rekni hned, co se deje! XXX
+// Arkhan3 O perso3
+L20D33
+ Mluv! XXX
+// Lory perso15
+L20D34
+ Nesmíme zde zùstávat. Pojd. XXX
+// Arkhan2 G perso2
+L20D35
+ Ale... Velká knezko... XXX
+// Arkhan3 G perso3
+L20D36
+ Velká knezko... XXX
+// Lory perso15
+L20D37
+ Poslechni mne, pojd se mnou! XXX
+// Arkhan2 L perso2
+L20D39
+ Phedorie, co se zde deje? XXX
+// Arkhan2 O perso2
+L20D40
+ Co se zde deje? XXX
+// Arkhan3 L perso3
+L20D41
+ Phedorie, vysvetli mi, co se zde deje! XXX
+// Arkhan3 O perso3
+L20D42
+ Vysvetli mi, co se zde deje! XXX
+// Phedoria perso26
+L20D43
+ Lory ti vysvetlí, co se stalo! XXX
+// Arkhan2 G perso2
+L20D44
+ Ale ... Komandantko ... XXX
+// Arkhan3 G perso3
+L20D45
+ Komandantko ... XXX
+// Phedoria perso26
+L20D46
+ Pojd s námi! XXX
+// Arkhan2 G perso2
+L21D74
+ Uklidni se prece, nechci ti nic udelat! XXX
+// Arkhan3 G perso3
+L21D75
+ Klid! XXX
+// Prediger2 (verängstigt) perso19
+L21D76
+ Pricházíš, abys mne zabil, to je jistý, jako jeden z vás Velkou Knezku zabil! XXX
+// Arkhan2 L perso2
+L21D77
+ Vyprávej mi, co jsi videl, je to velmi dùlezite! XXX
+// Arkhan2 O perso2
+L21D78
+ Rekni mi, co jsi videl, nebo te usmrtím! XXX
+// Arkhan2 O perso3
+L21D79
+ Co jsi videl? Mluv! XXX
+// Prediger2 (verängstigt) perso19
+L21D80A
+ Byl to stín! Obrovský, tmavý! Sama smrt! XXX
+// Prediger2 perso19
+L21D80B
+ On se priblizoval nelidsky rychle. XXX
+// Prediger2 perso19
+L21D80C
+ Strílel v hlavním sálu... Slyšel jsem strašný krik ... XXX
+// Prediger2 (mit gebrochener Stimme) perso19
+L21D80D
+ Velke knezky... XXX
+// Arkhan2 G perso2
+L21D81
+ Thanandar! On zabil Lory! XXX
+// Arkhan2 G perso2
+L21D82
+ Thanandar! On je zabiják! XXX
+// Arkhan3 G perso3
+L21D83
+ Thanandar! Jiz opet on! XXX
+// Prediger2 perso19
+L21D84A
+ On te poslal, abys mne zabil, já to vím! XXX
+// Prediger2 perso19
+L21D84C
+ Ale svetlo se znova narodí, tím jsem si jistý! XXX
+// Arkhan2 G perso2
+L21D85
+ Zvedni se! XXX
+// Arkhan2 O perso2
+L21D86
+ Stoupni si! XXX
+// Arkhan 1 G perso1
+L21D48
+ Tu je malý otvor v zemi. XXX
+// Arkhan2 G perso2
+L21D57
+ Nic se nedá delat! Dabei ist das der richtige Schlüssel! XXX
+// Arkhan2 G perso2
+L21D58
+ To je správný klíc ... ale nefunguje to. XXX
+// Arkhan2 G perso2
+L21D59
+ To je ten klíc, ale mechanismus na otevrení bude nekde jinde v chodbe vlozený. XXX
+// Arkhan2 G perso2
+L21D60
+ Tam, nejaký malý otvor v zemi. XXX
+// Arkhan2 G perso2
+L21D61
+ Já to vedel! XXX
+// Arkhan2 G perso2
+L21D62
+ Neco mi chybí! XXX
+// Arkhan2 G perso2
+L21D63
+ Sie schließt sich wieder! XXX
+// Arkhan3 G perso3
+L21D64
+ To je ten správný klíc ... ale se nehodí! XXX
+// Arkhan3 G perso3
+L21D65
+To je správný klíc... Ale potrebuju cosi jineho! XXX
+// Arkhan3 G perso3
+L21D66
+ Správný klíc ... ale mechanismus musí být nekde jinde v chodbe ... XXX
+// Arkhan3 G perso3
+L21D67
+ Tu, nejaká skulina v zemi. XXX
+// Arkhan3 G perso3
+L21D68
+ Já to vedel! XXX
+// Arkhan3 G perso3
+L21D69
+ Co chybí! XXX
+// Arkhan3 G perso3
+L21D70
+ Es schließt sich! XXX
+// Arkhan1 G perso1
+L21D49
+ Rahal. Ikona Boha Slunce. XXX
+// Arkhan2 G perso2
+L21D50
+Nemám nyní cas odpocívat. XXX
+// Arkhan3 G perso3
+L21D51
+ Zádný cas na odpocívání. XXX

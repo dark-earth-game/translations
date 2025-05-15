@@ -1,0 +1,1162 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL08.TXT
+ // Delia (panisch) perso10
+L08D215A
+ Arkhane! XXX
+// Delia (panisch) perso10
+L08D215B
+ Tam vzadu ... Nejaká Kreatura z Temne Zeme! XXX
+// Delia (panisch) perso10
+L08D215C
+ Co... co my udeláme? XXX
+// Arkhan2 G perso2
+L08D217A
+ Nedelej si starosti, postarám se o to ...  XXX
+// Arkhan2 G perso2
+L08D217B
+ Predevším: zádne pohyby! XXX
+// Arkhan3 G perso3
+L08D218
+ Hledám prostredek ... Nehýbej se odsud! XXX
+// Kalhi perso33
+L08D153
+ Bud opatrný, Arkhane. Zùstaneme pohromade. XXX
+// Hüter3 perso43
+L08D92
+ Myslíš, ze knez mel pravdu? Ze nás Temná Zeme obtácí? XXX
+// Hüter4 perso44
+L08D93A
+ Nevím ...  XXX
+// Hüter4 perso44
+L08D93B
+ Ale po ùtoku na Velkou Knezku meli bychom mít otevrene oci! XXX
+// Hüter4 perso44
+L08D93C
+ Pokud tyto prasecí psy prijdou, pak já budu mít první slovo! XXX
+// Hüter3 perso43
+L08D94A
+ Presne! Oni nám zaplatí za Jedara to, ze ho zabili ... XXX
+// Hüter3 perso43
+L08D94B
+ A za to, co oni Arkhanovi ucinili! XXX
+// Hüter4 perso44
+L08D95
+ A co Velká Knezka? XXX
+// Hüter3 perso43
+L08D96A
+ Po te co bylo vyhlášeno stanne právo, je ona v bezpecí, dobre ukryta. XXX
+// Hüter3 perso43
+L08D96B
+ Dhorkan vzal veci do rukou. XXX
+// Hüter4 perso44
+L08D97A
+ Presne! Zed má ve Spodním meste být škodným na stope ... XXX
+// Hüter4 perso44
+L08D97B
+ Tak, nyní meli bychom opet na naše místa jít. XXX
+// Hüter5 perso45
+L08D223
+ Knezí ríkali, ze Temná Zeme je v nem! Ze on není více jeden z nás! XXX
+// Hüter6 perso46
+L08D224A
+ Ale on prece není zádný komplic Konkalitù! XXX
+// Hüter6 perso46
+L08D224B
+ Velká Knezka by nám rekla, pokud by jí Arkhan neco udelal. XXX
+// Hüter5 perso45
+L08D225A
+ Jak to mám vedet? Dhorkan zakázal kazdýmu, aby se k Velke Knezce priblizoval.  XXX
+// Hüter5 perso45
+L08D225B
+ Bezpecne opatrení. XXX
+// Hüter6 perso46
+L08D226
+ Nemohu verit tomu, ze Arkhan je zrádce. XXX
+// Hüter5 perso45
+L08D227A
+ Ne já take ... to jedine nemoc zastínila jeho mysl. XXX
+// Hüter5 perso45
+L08D227B
+ Pokud by neco ucinil, co by nebylo ciste, mohl by on poslední motlitbu odríkavát! XXX
+// Hüter5 perso45
+L08D316
+ Co se našlo? XXX
+// Hüter6 perso46
+L08D317A
+ Dosud ne ... pouze nejakou dívku, nejakou smetacku. XXX
+// Hüter6 perso46
+L08D317B
+ Divil bych se, ze ona s tím cosi cinila ... XXX
+// Hüter5 perso45
+L08D318A
+ To ty prece nevíš! Prihodilo se spousta divných vecí. XXX
+// Hüter5 perso45
+L08D318B
+ Na kazdý pád zde nemají smetáci co delat. XXX
+// Hüter6 perso46
+L08D319
+ Oni jí do zaláre hodili. Kdyz ona neco ví, tak to brzy vyplivne. XXX
+// Hüter5 perso45
+L08D320
+ Mezitím musíme mýt oci otevrený! XXX
+// Hüter7 perso47
+L08D143
+ Slyšel jsi to? Kabak ríkal, ze Kreatury Temne Zeme vnikly do Spodního Mesta. XXX
+// Hüter8 perso48
+L08D144A
+ Kabak je starý Idiot! XXX
+// Hüter8 perso48
+L08D144B
+ Slunecní Bùh staví naší víru na zkoušku. XXX
+// Hüter8 perso48
+L08D144C
+ Dùveruji mu, on nás neopustí.  XXX
+// Hüter7 perso47
+L08D145A
+ Nevím ... Mám takove tušení. XXX
+// Hüter7 perso47
+L08D145B
+ A pokud noc nikdy nebude mít konec?! XXX
+// Hüter8 perso48
+L08D146A
+ Dej si pozor, takove nesmysly ríkat! XXX
+// Hüter8 perso48
+L08D146B
+ Ze strachu napadáš jiz Slunecního Boha. XXX
+// Kalhi perso33
+L08D220
+ Pojd, zmizíme odsud. Byli jsme jiz velmi nápadný ... XXX
+// Kalhi perso33
+L08D321
+ Arkhane, nechod pryc! XXX
+// Kalhi perso33
+L08D322
+ Copak tu deláš? XXX
+// Kalhi perso33
+L08D323
+ Arkhane, zùstan u mne! XXX
+// Kalhi2 (flüstert) perso33
+L08D209A
+ Zùstan vedle mne a nechod pryc. XXX
+// Kalhi2 (flüstert) perso33
+L08D209B
+ Tu je Strázce ohne! XXX
+// Kalhi (fassungslos) perso13
+L08D335A
+ Ty ... ty jsi prišel, mne vyzvednout? XXX
+// Kalhi (fassungslos) perso13
+L08D335B
+ Co se s tebou deje? XXX
+// Kalhi (weint fast) perso13
+L08D335C
+ Nemoc delá te šíleným! XXX
+// Kalhi perso13
+L08D157
+ Arkhane! U Boha Slunce, pospeš si! XXX
+// Kalhi perso13
+L08D156
+ Pokud my zùstanenme zde, zpozorujou nás! XXX
+// Kalhi perso13
+L08D155
+ Arkhane, nezùstaneme zde! XXX
+// Hüter10 perso50
+L08D310
+ U Boha Slunce! Ty jsi Kreatura! XXX
+// Kalhi perso13
+L08D158
+ Já pockám zde na tebe. Delej rychle. XXX
+// Hüter3 perso43
+L08D303
+ Alarm! XXX
+// Hüter6 perso46
+L08D304
+ Alarm! XXX
+// Hüter7 perso47
+L08D305
+ Alarm! XXX
+// Hüter8 perso48
+L08D147
+ Jdu nyní nahoru , potrebuju munici! XXX
+// Hüter7 perso47
+L08D148
+ Bud opatrný! XXX
+// Hüter7 (fährt Arkhan hart an) perso47
+L08D149
+ Vetrelec! XXX
+// Hüter5 perso45
+L08D141
+ Kdo je to? XXX
+// Hüter6 (läuft zu A.) perso46
+L08D124
+ Hej, kdopak jsi? XXX
+// Hüter3 (nach einem Kriegsschrei von Arkhan) perso43
+L08D01
+ Copak se s tebou deje? XXX
+// Hüter4 (nach einem Kriegsschrei von Arkhan) perso44
+L08D02
+ Du wirst Dich schon abregen! XXX
+// Hüter5 perso45
+L08D270
+ Já te nechám vykrvácet! XXX
+// Hüter6 (von A. angegriffen) perso46
+L08D140
+ Mne nedostaneš! XXX
+// Hüter4 perso44
+L08D242
+ Zadrz ho! XXX
+// Hüter3 (unsicher, denn A. kommt näher, er wendet sich an seinen Kollegen, als wolle er sagen "Was machen wir jetzt?") perso43
+L08D243
+ Garne?! XXX
+// Hüter4 (zieht die Waffen heraus, erschreckt) perso44
+L08D222
+ Proklate, jeden z demonù z Temne Zeme! XXX
+// Hüter3 (zieht die Waffen, verängstigt) perso43
+L08D309
+ Proklete, demon z Temne Zeme! XXX
+// Hüter3 perso43
+L08D241
+ Garne, bud opatrný! XXX
+// Hüter4 perso44
+L08D324
+ Hej, ty tam! Stùj! XXX
+// Hüter10 perso50
+L08D229
+ Bud pozdravena, krásná paní!  XXX
+// Kalhi perso33
+L08D312A
+ Bud pozdraven, Strázce ohne. XXX
+// Kalhi perso33
+L08D312B
+ Já prináším tohoto zde do nemocnice. XXX
+// Hüter10 perso50
+L08D210
+ Pozor, tvùj zajatec uprchl! XXX
+// Hüter10 perso50
+L08D311
+ Ho! Wo wollen wir denn hin? XXX
+// Kalhi perso13
+L08D230
+ Mel bys mi alespon pomoci, Strázce ohne vyradit! XXX
+// Hüter3 (von Arkhan angegriffen) perso43
+L08D152
+ Ho! Snášíme se opet! XXX
+// Hüter3 (A. packt seine Waffe fort) perso43
+L08D235
+ Tak líbíš se jiz lepe! XXX
+// Arkhan1 L  perso1
+L08D03
+ Svetlo bud s tebou, Teskhane. XXX
+// Hüter3  perso43
+L08D04
+ A s tebou, Arkhane. XXX
+// Arkhan1 L  perso1
+L08D05
+ Co ty zde deláš? XXX
+// Hüter3 perso43
+L08D06A
+ Ty to nevíš? Zed pripravuje novou expedici do ríše Temne Zeme. Kommandantka Phedorie mne poprosila, jim pomoci. XXX
+// Hüter3 perso43
+L08D06B
+ Jak vidíš, je treba ješte do odjezdu nekolik mašin dát do porádku.  XXX
+// Hüter3  perso43
+L08D06C
+ Vydává se na cestu, az se Bùh Slunce napríšte zvedne. XXX
+// Arkhan1 L  perso1
+L08D07
+ No pak teda mnoho štestí! XXX
+// Hüter3  perso43
+L08D08
+ Ne skutecne, je to skvele, muzi jako Zedovi pomáhat. Máš štestí, ze ho znáš ... XXX
+// Arkhan1 L  perso1
+L08D17
+ Musím ve velkem Chrámu na strázi stát. XXX
+// Hüter3  perso43
+L08D18
+ Já myslím, Jedar je take tam ... XXX
+// Arkhan1 L  perso1
+L08D19
+ Víš ty, co se deje? XXX
+// Hüter3 perso43
+L08D20A
+ Velká Knezka prijímá smetáky, kterí nejake objevy ucinily, aspon si to myslím.   XXX
+// Hüter3  perso43
+L08D20B
+ Neber to tak tragicky. Pokud Dhorkan pouze Jedara a tebe tam poslal, nemelo by to dlouho trvat ... XXX
+// Arkhan1 L perso1
+L08D236
+ Já jdu nyní, nez prijdu pozde. XXX
+// Hüter3 (1. Mal)perso43
+L08D237
+ Mnoho štestí, Arkhane. XXX
+// Hüter3 (2. Mal, ungeduldig) perso43
+L08D238
+ Ano, jistota. Bez jiz! XXX
+// Arkhan1 O (mürrisch)  perso1
+L08D10
+Svetlo s tebou, Teskhane. XXX
+// Arkhan1 O  perso1
+L08D11
+ Rackerst Du Dich noch immer ab, für nichts und wieder nichts? XXX
+// Hüter3 perso43
+L08D12
+ Ty jiste blouzníš? Kommandantka Phedorie mne poprosila, pripravit se na príští expedici se Zedem.   XXX
+// Arkhan1 O  perso1
+L08D13A
+ Ach, Strázcem ohne být je skutecne psí zivot! Já mel jsem jako mùj otec být a knezem se stát! XXX
+// Arkhan1 O perso1
+L08D13B
+ Nedá se dále nic delat, nez cas od casu s knezem o Slunecním Bohu si popovídat.  XXX
+// Arkhan1 O perso1
+L08D13C
+ Jinak strávil mùj otec svùj zivot tím, ze ve starých zaprášených knihách hledal neco, cemu nikdo nerozumel ... XXX
+// Hüter3 perso43
+L08D14A
+ Nemel bys ríkat, ze Rylsadhar je nejmoudrejší a nejvázenejší muz Stallitu. XXX
+// Hüter3  perso43
+L08D14B
+ On je príkladem pro všechny ostatní kneze. XXX
+// Arkhan1 O  perso1
+L08D23A
+ Já zamýšlím ale ješte cosi: Musím si v hale Velkeho Chrámu s Jedarem stráz posunout.  XXX
+// Arkhan1 O perso1
+L08D23B
+ Jak vzrušující! Tím dostává tento den teprve to správne korení!  XXX
+// Hüter3  perso43
+L08D24
+ Vlastne máš štestí, nebot pri takove prílezitosti prikazuje Dhorkan normálne alespon deset strázcù, kterí dlouhe hodiny na nohách stojí.  XXX
+// Arkhan1 O  perso1
+L08D239A
+ To není zádná ùtecha! XXX
+// Arkhan1 O perso1
+L08D239B
+ Já musím do kyseleho jablka kousat ... XXX
+// Hüter3  perso43
+L08D240
+ Mnoho štestí! XXX
+// Arkhan2 L  perso2
+L08D126
+ Všechno jasný, Teskhane. XXX
+// Hüter3 (traut seinen Augen nicht)  perso43
+L08D127
+ Arkhane... Ty... Já... Který dábel nyní nad námi stojí? XXX
+// Arkhan2 L perso1
+L08D100B
+ Utocník na Velkou Knezku mne otrávil. XXX
+// Arkhan2 L perso1
+L08D100C
+ A musím najít nejaký prostredek, abych se opet uzdravil. XXX
+// Hüter3 perso43
+L08D129A
+ Nedelej si starosti! Dhorkan nechal všechny vchody uzavrít. XXX
+// Hüter3 perso43
+L08D129B
+ Oni pátrají po ùtocníkovi ... Dokonce Zed je jim na stope.   XXX
+// Hüter3 perso43
+L08D129C
+ Ti, kterí se pokusili, Lory napadnout, budou o hlavu kratší! XXX
+// Hüter3  perso43
+L08D129D
+ Oni ti ... to ... ucinili ... XXX
+// Arkhan2 L  perso2
+L08D130A
+ Hej, Teskhane, nedelej takový ksichty! XXX
+// Arkhan2 L perso2
+L08D130B
+ Já jsem ješte porád Strázce ohne, jako vy. XXX
+// Hüter3  perso43
+L08D131
+ Mel bys k Profosovi jít. XXX
+// Arkhan2 O  perso2
+L08D132
+ Prosím neprohlízejte si mne, jako bych byl demonem z Temne Zeme! XXX
+// Arkhan2 O  perso2
+L08D133A
+ Jed horí mi v celem tele! XXX
+// Arkhan2 O perso2
+L08D133B
+ Nesmím ztrácet cas, musím neco udelat proti tomu. XXX
+// Hüter3  perso43
+L08D134
+ Pokud jseš nemocný, musíš k leciteli jít. XXX
+// Arkhan2 O  perso2
+L08D135
+ Nemyslím si, ze ty jsi mou velkou pomocí ... XXX
+// Arkhan1 L perso1
+L08D25
+ Hej, chceš loka z flašky? XXX
+// Hüter3 perso43
+L08D26
+ Ty víš prece, ze já zádný alkohol nesnáším! XXX
+// Arkhan1 L perso1
+L08D27
+ Jsi si jistý? Nemáš zízen? XXX
+// Hüter3 perso43
+L08D28
+ Ne, obzvlášte nemusím tuto mixturu. XXX
+// Arkhan1 O perso1
+L08D29
+ Hej, máš zízen? Mám polní láhev plnou alkoholu! XXX
+// Hüter3 perso43
+L08D30
+ Nech být, nemám rád zádný alkohol! XXX
+// Arkhan1 O perso1
+L08D31
+ Jseš Strázce ohne nebo backora ze Spodního mesta? Pojd jiz se napít! XXX
+// Hüter3 perso43
+L08D32
+ Nech mne na pokoji, Arkhane, já nechci nic alkoholickýho! XXX
+// Arkhan1 G perso1
+L08D33
+ Hej, co chceš z toho? XXX
+// Hüter3 perso43
+L08D34
+ Ne, zapomen na to. XXX
+// Hüter3 perso43
+L08D325
+ Vzdej se! XXX
+// Arkhan1 G perso1
+L08D37
+ Ho! Uklidni se! XXX
+// Hüter3 perso43
+L08D232
+ Pockej, ty zvíre! XXX
+// Hüter4 perso44
+L08D221
+ Arkhane?... XXX
+// Hüter4 perso44
+L08D151
+ Hej ... V klidu! XXX
+// Arkhan1 L perso1
+L08D39
+ Svetlo s tebou, Garne. XXX
+// Hüter4 perso44
+L08D40
+ Svetlo s tebou, Arkhane.  XXX
+// Hüter4  perso44
+L08D41
+ Jsem na strázi, Profos Dhorkan mne nakázal, zde zùstat, dokud já nový rozkaz nedostanu. XXX
+// Arkhan1 L perso1
+L08D48
+ Musím do Velkeho Chrámu jít a stráz drzet. XXX
+// Hüter4 perso44
+L08D49
+ Ve Velkem Chrámu? XXX
+// Hüter4 perso44
+L08D50
+ Mùzeš jít, cesta je volná! XXX
+// Arkhan1 L  perso1
+L08D51
+ Víš ty, co se deje? XXX
+// Hüter4 perso44
+L08D52A
+ Nejake mimo obvykle shromázdení s Velkou Knezkou nebo cosi ... XXX
+// Hüter4  perso44
+L08D52B
+ Tu nemáš štestí, všeobecne nás dávají zprávy, a my musíme všechno odrít. XXX
+// Arkhan1 L perso1
+L08D42
+ Doufejme v dobrý den. XXX
+// Hüter4 perso44
+L08D43
+ Ano, to doufám take... XXX
+// Arkhan1 O  perso1
+L08D53
+ Garne, vypadá to napínave, co ty deláš ... XXX
+// Hüter4 perso44
+L08D54
+ Nedelej si ze mne srandu, Arkhane. Mozná te Dhorkan, mne v noci vystrídat ... XXX
+// Arkhan1 O  perso1
+L08D45
+ S tebou není zádná sranda! XXX
+// Arkhan1 O  perso1
+L08D55
+ Cas jde pomalu, není_li pravda? Mne take dostali: Musím v hale Velkeho Chrámu na strázi stát. XXX
+// Arkhan1 O  perso1
+L08D46
+ Pracuj dále! Pokud budeš mít štestí, osvobodí te Dhorkan, dríve nez si podrázky ošoupeš! XXX
+// Hüter4 perso44
+L08D47A
+ Já... mohu mu ríci, ze nechceš nic delat a ze mne rád vystrídáš! XXX
+// Arkhan1 O  perso1
+L08D56
+ Tak, nechci te dlouho zdrzovat! Vypadá to, jak bys ty ješte neco vlastního mi vycítal! XXX
+// Hüter4 (durch Arkhan genervt und leicht drohend) perso44
+L08D57
+ Dám ti radu: Zmizni nebo mne nazlobíš ... XXX
+// Arkhan2 L  perso2
+L08D98A
+ V porádku, Garne, rozumím. XXX
+// Arkhan2 L perso2
+L08D98B
+ Já te nekousnu! XXX
+// Hüter4 (unsicher) perso44
+L08D99A
+ Ne.. Ne... Ale ty jsi takový... jiný. XXX
+// Hüter4 (unsicher)  perso44
+L08D99B
+ Nezlob se, ale jak mám vedet, ze mluvíš pravdu? XXX
+// Arkhan2 L  perso1
+L08D100A
+ Garne, vím, co vám rekli a co si take myslíte, ale já nic neudelal. XXX
+// Hüter4 perso44
+L08D101A
+ Ano... Já ti verím. XXX
+// Hüter4 perso44
+L08D101B
+ Tvoje prátelství se Zedem je nejlepší Argument, um Dir zu vertrauen. XXX
+// Hüter4 perso44
+L08D101C
+ Ale Dhorkan vyhlásil stanne právo. Všichni vetrelci mají být zadrzený. XXX
+// Hüter4  perso44
+L08D101D
+ Mel bys mu ríci, co se s tebou stalo. XXX
+// Arkhan2 L  perso1
+L08D102A
+ Já jsem ješte porád Strázce ohne. XXX
+// Arkhan2 L perso1
+L08D102B
+ U Boha Slunce, prísahám! XXX
+// Hüter4  perso44
+L08D103A
+ Jiz dobre. XXX
+// Hüter4  perso44
+L08D103Z
+ Verím ti. XXX
+// Arkhan2 O (drohend)  perso1
+L08D104
+ Poslouchej mne dobre, Garne, pokud se nechceš uklidnit, pak se nepriblizuj!  XXX
+// Hüter4 perso44
+L08D105A
+ Co se s tebou deje, Arkhane?  XXX
+// Hüter4 perso44
+L08D105B
+ Od nyní platí stanne právo. XXX
+// Hüter4  perso44
+L08D105C
+ Já mám sve povinnosti, a tvoje hrozby to nezmení! XXX
+// Arkhan2 O  perso1
+L08D106A
+ Bez na stranu! Musím najít prostredek, abych znicil jed, který mne mení. XXX
+// Arkhan2 O perso1
+L08D106B
+ A pro pár hloupých hlav jako ty musím ti bricho roztrhnout ...! XXX
+// Hüter4 (wütend) perso44
+L08D107A
+ Knez mel pravdu, dábel te delá šíleným.  XXX
+// Hüter4 (wütend)  perso44
+L08D107B
+ Nejsi uz zádný Strázce ohne! XXX
+// Arkhan2 O  perso1
+L08D108
+ Jdi mi z cesty, bídný cerve! XXX
+// Hüter4 (wird A. schlagen) perso44
+L08D109
+ Nedáváš mi jinou moznost! XXX
+// Arkhan1 L perso1
+L08D58
+ Nemáš z tohoto behu zízen? XXX
+// Hüter4 perso44
+L08D59
+ Ne, dík nejsem ziznivý. XXX
+// Arkhan1 L perso1
+L08D60
+ Nestav se tak k tomu, to prichází ze srdce. XXX
+// Hüter4 perso44
+L08D61A
+ Ne, skutecne ne.  XXX
+// Hüter4 perso44
+L08D61B
+ Ale dnes vecer, pote co se ohen ve meste uhasí, neodmítnu ... XXX
+// Arkhan1 O  perso1
+L08D62
+ Zde, vezmi si prece silný lok z flašky! XXX
+// Arkhan1 O  perso1
+L08D63
+ Proklate, Ty jsi jako knez! Napij se jiz! XXX
+// Hüter4 (genervt) perso44
+L08D64
+ Rekl jsem ti prece, ze já zízen nemám!  XXX
+// Arkhan1 G perso1
+L08D65
+ Rekli ti co se zde deje? XXX
+// Hüter4 perso44
+L08D66
+ Ne. Neztrácel jsem cas. XXX
+// Hüter4 perso44
+L08D228
+ Co? Ne ... to mne nezajímá. XXX
+// Hüter4 (von A. geschlagen) perso44
+L08D69
+ Arkhane! V klidu! XXX
+// Hüter4 (von A. geschlagen) perso44
+L08D231
+ Tak je to tedy, V tobe není jiz nic lidskeho! XXX
+// Hüter5 (sieht Arkhan2 zum 1. Mal) perso45
+L08D117A
+ U Rahala ... Arkhan? XXX
+// Hüter5 (ängstlich) perso45
+L08D117B
+ Ne... Nepriblizuj se! XXX
+// Hüter5 perso45
+L08D116
+ Nerozciluj se, nic jsem ti neudelal! XXX
+// Arkhan2 L  perso2
+L08D244A
+ Jen zádnou paniku.  XXX
+// Arkhan2 L perso2
+L08D244B
+ Neprišel jsem, abych se s tebou bil. XXX
+// Hüter5 perso45
+L08D245A
+ Jiz dobrý ... jiz dobrý. XXX
+// Hüter5 perso45
+L08D245B
+ Mel bys ale radeji jít ... XXX
+// Hüter5  perso45
+L08D245C
+ Nemel bys ale radeji pricházet. XXX
+// Arkhan2 L  perso2
+L08D246A
+ Poslouchej mne dobre, mùj otec Rylsadhar zná prostredek proti teto nemoci. XXX
+// Arkhan2 L perso2
+L08D246B
+ Ver mi prece, chci se vylecit! XXX
+// Hüter5 (mit offener Feindseligkeit) perso45
+L08D247A
+ Ne všichni lecitele myslí jako tvùj otec! XXX
+// Hüter5 perso45
+L08D247B
+ Mozná není zádný protilek! XXX
+// Hüter5 perso45
+L08D247C
+ Mel bys jít radeji do exilu, do Temne Zeme, dríve nez si to nekdo s tebou spocítá! XXX
+// Hüter5  perso45
+L08D247D
+ Mysli na to, dokud není pozde ... XXX
+// Arkhan2 L perso2
+L08D248A
+ Vidím jiz, jak mi dùveruješ. XXX
+// Arkhan2 L perso2
+L08D248B
+ Wenn ich wieder ich selbst geworden bin, promluvíme si opet. XXX
+// Arkhan2 L  perso2
+L08D249
+ Pak dokázu ti, ze se mýlíš, mùj príteli. Ty to uvidíš, velmi brzo dokonce. XXX
+// Hüter5 (feindlich)  perso45
+L08D250
+ Nepustím te z ocí, Arkhane! XXX
+// Hüter5 (drohend)  perso45
+L08D258
+ To my uvidíme ... my uvidíme ... XXX
+// Arkhan2 O  perso2
+L08D251A
+ Hej, špeku, ano, to jsem já! XXX
+// Arkhan2 O perso2
+L08D251B
+ Prestan se na mne tak pitome dívat! XXX
+// Hüter5 perso45
+L08D252A
+ Ty ... mel bys radeji jít. XXX
+// Hüter5 perso45
+L08D252B
+ Profos nemel by to tak nechávat, aby cosi jako ty se zde plízilo. XXX
+// Arkhan2 O perso2
+L08D253A
+ Never na to! XXX
+// Arkhan2 O perso2
+L08D253B
+ Profos mi sveril jednu misi! XXX
+// Arkhan2 O  perso2
+L08D253C
+ Ty štekáš dobre, bídný cerve! XXX
+// Arkhan2 O  perso2
+L08D254A
+ Proc si myslíš, ze tak vypadám? Protoze já mojí kùzi riskoval, abych Velkou Knezku hájil! XXX
+// Arkhan2 O perso2
+L08D254B
+ Kdes ty byl vlastne behem te doby, ha? XXX
+// Hüter5 perso45
+L08D255A
+ Velká Knezka? ... Ano, ta se zde více neohlásila. XXX
+// Hüter5 perso45
+L08D255B
+ Dhorkan je od nyní jediný pán Stallitu. XXX
+// Hüter5  perso45
+L08D255C
+ Mel bys ses jasneji vyjadrovat! XXX
+// Arkhan2 O (riecht einen angeblichen Gestank)  perso2
+L08D256A
+ Kdopak to zde smrdí? XXX
+// Arkhan2 O perso2
+L08D256B
+ Ty ses posral strachy do kalhot, výkale! XXX
+// Hüter5 (wütend) perso45
+L08D257A
+ Jak ... Co! XXX
+// Hüter5 (wütend)  perso45
+L08D257B
+ Já ti tu tvojí smradlavou hubu rozbiju! XXX
+// Hüter5 (verängstigt und wütend) perso45
+L08D260A
+ Kreaturo z Temne Zeme! XXX
+// Hüter5 perso45
+L08D260B
+ To jsou všechno tvoje zásluhy, tím jsem si jist! XXX
+// Hüter5  perso45
+L08D260C
+ Ty jsi prinesl hnev Boha Slunce na nás! XXX
+// Arkhan2 L (mit sanfter Stimme) perso1
+L08D261A
+ Poslouchej mne ... Uklidni se ... XXX
+// Arkhan2 L perso1
+L08D261B
+ Prišel jsem, abych našel rešení ... XXX
+// Hüter5 perso45
+L08D262A
+ Lhári! Neverící! XXX
+// Hüter5 perso45
+L08D262B
+ Zemreš! XXX
+// Arkhan2 O perso2
+L08D263A
+ Ty jsi porád ješte tu! XXX
+// Arkhan2 O perso2
+L08D263B
+ Myslel jsem, ze jste šli hledat rohy, aby jste se schovali! XXX
+// Hüter5 perso45
+L08D264
+ Ne! Nejsem mekota! XXX
+// Arkhan2 O (drohend) perso2
+L08D265A
+ Poslouchej dobre, backoro! Dhorkan je nekde. Nikdo neví, co se zde deje. XXX
+// Arkhan2 O perso2
+L08D265B
+ Jediný muz, s kterým mùze Stallit ješte pocítat, stojí pred tebou! XXX
+// Arkhan2 O perso2
+L08D265C
+ Nech mne na pokoji, nebo ti rozbiju mozek na kaši! XXX
+// Arkhan2 O perso2
+L08D265D
+ Rozumíš? XXX
+// Hüter5 (ängstlich) perso45
+L08D266
+ Ano... ehm... rozumel. XXX
+// Arkhan2 O perso2
+L08D267A
+ Zùstaneš zde na strázi, at se cokoliv deje! XXX
+// Arkhan2 O perso2
+L08D267B
+ Pokud ty zde nebudeš, az se vrátím, najdu si te a zabiju! XXX
+// Hüter5 (schluckt) perso45
+L08D268
+ Rozumíš. XXX
+// Hüter5 (schluckt) perso45
+L08D269
+ ... Ano. XXX
+// Hüter5 perso45
+L08D119
+ Ne. S tebou nechci nic mít! XXX
+// Hüter5 (von A. geschlagen) perso45
+L08D123
+ Kouká ti smrt z ocí! XXX
+// Hüter6 (unsicher, denn Arkhan ist gefechtsbereit) perso46
+L08D114A
+ Arkhane..? Jsi to... jsi to ty? XXX
+// Hüter6 perso46
+L08D114B
+ Dávej si pozor na mne ...ty ... v klidu, ok? XXX
+// Hüter6 perso46
+L08D125
+ Arkhane?! Jsi to ty?! XXX
+// Hüter6 perso46
+L08D271
+ Nejaká Kreatura! Dernaku, pojd sem! XXX
+// Hüter6 (gegenüber A. in Kampfstellung) perso46
+L08D115
+ Hej! Pomalu! XXX
+// Hüter6 (A. steckt den Degen wieder in die Scheide) perso46
+L08D272
+ Tak je to dobrý, my jsme rozumný. XXX
+// Arkhan2 L perso2
+L08D273A
+ Vím, ze jste byli prede mnou varováni. XXX
+// Arkhan2 L perso2
+L08D273B
+ Ale ver mi, všechno co já chci, je uzdravení. XXX
+// Hüter6 perso46
+L08D274A
+ Tedy dobre ... pokud zde chceš projít, nezadrzím te. XXX
+// Hüter6 perso46
+L08D274B
+ Ale chovej se klidne. Nekterí z nás cekají na prílezitost, aby te mohli dorazit. XXX
+// Arkhan2 L perso2
+L08D275
+ Co já hledám, je protilek, abych se mohl opet uzdravit. XXX
+// Hüter6 perso46
+L08D276
+ Ano ... ale pokud ti lecitele nepomohli ... kdo má moc, te vylecit? XXX
+// Arkhan2 L perso2
+L08D277
+ Az ho najdu, pak ho uvidíš! XXX
+// Arkhan2 L perso2
+L08D278
+ Pokracuju v mojí ceste, jasný? XXX
+// Hüter6 perso46
+L08D279
+ Ano. A nezapomen: Nejsme daleko. XXX
+// Hüter6 perso46
+L08D280
+ Jdi pouze. Ale chovej se klidne. XXX
+// Arkhan2 O perso2
+L08D281A
+ S tebou se nedá dobre zertovat, nebo? XXX
+// Arkhan2 O perso2
+L08D281B
+ Nechceš mi zpùsobit problemy? XXX
+// Hüter6 perso46
+L08D282A
+ Nemám ùmysl, se s tebou být, Arkhane. XXX
+// Hüter6 perso46
+L08D282B
+ Ale pokud nás vyprovokuješ, budu prinucen, vytáhnout mùj mec. XXX
+// Arkhan2 O perso2
+L08D283
+ Nedrázdi mne, Strázce ohne, nebo budeš litovat! XXX
+// Hüter6 perso46
+L08D284
+ Arkhane, kdyz jsi ješte Strázcem ohne byl, tys rozumel, ze pouze mojí povinost ciním! XXX
+// Arkhan2 O perso2
+L08D285
+ Jdi mi z cesty, backoro! XXX
+// Hüter6 perso46
+L08D286
+ Co je moc, to je moc! XXX
+// Arkhan2 L  perso2
+L08D287A
+ Nenech se porazit strachem z Temne Zeme. XXX
+// Arkhan2 L perso2
+L08D287B
+ Mùzeme se ješte zachránit. XXX
+// Hüter6 perso46
+L08D288
+ To se ti ríká, kdybys vedel, co se prihodilo! XXX
+// Arkhan2 L  perso2
+L08D289
+ Pokus se mi dùverovat! XXX
+// Arkhan2 L  perso2
+L08D290A
+ Skodnou ve všem je knez, Thanandar. XXX
+// Arkhan2 L perso2
+L08D290B
+ On byl take kontaminován, presne jak já. XXX
+// Arkhan2 L perso2
+L08D290C
+ Jed vzal jeho ducha. Ale já budu do konce bojovat! XXX
+// Hüter6 perso46
+L08D291
+ Musíme ho zadrzet! Kde se schovává? XXX
+// Arkhan2 L perso2
+L08D292A
+ To já nevím. Ale pozor, na nem není uz nic lidskýho. XXX
+// Arkhan2 L perso2
+L08D292B
+ Myslím si jiz, ze jsem ho usmrtil, a on to prezil. XXX
+// Arkhan2 L  perso2
+L08D292C
+ Varuj ostatní Strázce ohne pred ním: Pokud vy ho neusmrtíte, zabije on vás! XXX
+// Arkhan2 L  perso2
+L08D293
+ Bud opatrný, rozumíš? XXX
+// Hüter6  perso46
+L08D294
+ Ano. Nedelej si starosti. XXX
+// Arkhan2 O  perso2
+L08D295
+ Tak, nyní tápete take ve tme? XXX
+// Hüter6 perso46
+L08D296A
+ Mel bys radeji tvojí klapacku drzet, Arkhane! XXX
+// Hüter6  perso46
+L08D296B
+ Kde mozne jseš ty ve všem vinen! XXX
+// Arkhan2 O  perso2
+L08D297A
+ Reknu ti, co se prihodilo! XXX
+// Arkhan2 O perso2
+L08D297B
+ Thanandar, knez, je za vše odpovedný. XXX
+// Arkhan2 O perso2
+L08D297C
+ Take on byl kontaminován, prece jste nic nic nezpozorovali! XXX
+// Arkhan2 O perso2
+L08D297D
+ Cekáte pouze na to, aby jste mi kùzi pres uši pretáhli! XXX
+// Hüter6 perso46
+L08D298
+ Kde je knez? XXX
+// Arkhan2 O perso2
+L08D299A
+ Kdybych to vedel! XXX
+// Arkhan2 O perso2
+L08D299B
+ Ale kdyz on vás najde, bude s váma bojovat o zivot. XXX
+// Arkhan2 O perso2
+L08D299C
+ Na nem jiz niz lidskeho není, on usmrcuje z ciste zábavy. XXX
+// Arkhan2 O  perso2
+L08D299D
+ A mùzete mi verit na slovo, ze není nikdy jiste, ze je skutecne mrtvý! XXX
+// Arkhan2 O  perso2
+L08D300
+ Ty zùstaneš zde mej oci otevrene, rozumíš? XXX
+// Arkhan2 O  perso2
+L08D301
+ Dávej dobrý pozor, rozumíš? XXX
+// Hüter6  perso46
+L08D302
+ Jasne. XXX
+// Hüter6 perso46
+L08D138
+ Zapomen. XXX
+// Arkhan2 G perso2
+L10D02A
+ Cekej zde. Jsem hned nazpet. XXX
+// Arkhan3 G perso3
+L10D02B
+ Jsem hned zpet. XXX
+// Arkhan1 G perso1
+L08D306
+ Alkohol, šnaps. XXX
+// Arkhan2 G perso2
+L08D307
+ To je alkohol. XXX
+// Arkhan3 G perso3
+L08D308
+ Alkohol. XXX
+// Arkhan1 G perso1
+L08D70
+ Flaška je jiz plná... XXX
+// Arkhan2 G perso2
+L08D71
+ Ne, flaška je jiz plná. XXX
+// Arkhan3 G perso3
+L08D72
+ Flaška je plná! XXX
+// Arkhan1 G perso1
+L02D299
+ Nic nez stare sudy... XXX
+// Arkhan2 G perso2
+L02D302
+ Pouze hromada starých sudù... XXX
+// Arkhan3 G perso3
+L02D303
+ Nejaká hromada starých sudù... XXX
+//Arkhan1 L perso1
+L08D77
+ Konzervy proviantu, tu není nic. XXX
+//Arkhan2 L perso1
+L08D78
+ V konzervách není nic vevnitr. XXX
+//Arkhan3 L perso1
+L08D79
+ Prázdne konzervy.  XXX
+// Arkhan1 G perso1
+L08D83A
+ Od minulých stavitelù letadlo. XXX
+// Arkhan1 G perso1
+L08D83B
+ Stroj letá pouze kdyz je velký vítr! XXX
+// Arkhan2 G perso1
+L08D84
+ Stroj mne k rešení nepriblízí. XXX
+//Arkhan3 L perso1
+L08D85
+ Tento stroj mi sotva pomùze  ... XXX
+// Arkhan1 G perso1
+L08D86A
+ Panzerový plachetník. XXX
+// Arkhan1 G perso1
+L08D86B
+ Vybavení pro lidi, kterí venku v ríši Temne Zeme se pohybují. XXX
+// Arkhan2 G perso1
+L08D88
+ Panzerový vùz pro cestovatele do Temne Zeme. XXX
+// Arkhan3 G perso1
+L08D90A
+ Pancerový vùz. XXX
+// Arkhan3 G perso1
+L08D90B
+ Neprospeje mi to... XXX
+// Arkhan1 G perso1
+L08D328
+ Fontána ohne.  XXX
+// Arkhan1 L perso1
+L08D329
+ Stavitele jí vystaveli, kdyz jsem ješte nebyl na svete. XXX
+// Arkhan1 O (imitiert Dhorkan, spöttisch)perso1
+L08D330
+ "Pýcha Strázcù ohne". XXX
+// Arkhan2 G perso2
+L08D331A
+ Ohnová fontána.  XXX
+// Arkhan2 G perso2
+L08D331B
+ Cítím její horkost az sem. XXX
+// Arkhan3 G perso3
+L08D332A
+ Ohnová fontána. XXX
+// Arkhan3 G perso3
+L08D332B
+ Toto horko ... stezí k vydrzení ... XXX
+// Arkhan2 G perso2
+L08D500
+ Jdeme, docela pomalu. XXX
+// Arkhan3 G perso3
+L08D501
+ Jdeme nyní. XXX
+// Delia (unsicher, leise sprechend) perso10
+L08D502
+ Bez radši jako první ... XXX
+// Arkhan2 G perso2
+L08D503
+ Videla jsi to? XXX
+// Arkhan3 G perso3
+L08D504
+ Znáš ty to? XXX
+// Delia (leise sprechend) perso10
+L08D505
+ Ne! Arkhane, prosím ... XXX
+// Delia (wird von Arkhan geschlagen, flehend) perso10
+L08D506
+ Arkhane, ne! XXX
+// Kalhi perso13
+L08D339
+ Hej, pozor! XXX
+// Kalhi perso13
+L08D233
+ Arkhane, ne! XXX
+// Kalhi perso13
+L08D234
+ Tak je to v porádku, v klidu. XXX
+// Arkhan2 L perso2
+L08D175
+ Musíme odsud vypadnout, aby nás nevideli. XXX
+// Arkhan3 L perso3
+L08D176
+ Pokusíme se, vyjít ven, bez pristizení. XXX
+// Kalhi perso13
+L08D177
+ To je Strázce ohne, to nebude tak jednoduche. XXX
+// Arkhan2 O perso2
+L08D178
+ Pojd, premýšlet mùzeme vzadu! XXX
+// Arkhan3 O perso3
+L08D179
+ Pojd nyní, bez premýšlení! XXX
+// Kalhi perso13
+L08D180
+ Pokusíme se alespon, Strázce ohne obejít! XXX
+// Arkhan2 G (spricht leise) perso2
+L08D203
+ Pokud nás Strázci ohne napadnou, bud pripravená bojovat! XXX
+// Arkhan3 G (spricht leise) perso3
+L08D204
+ Pokud Strázce ohne pouze pohyb udelá, podám si ho! XXX
+// Kalhi (flüstert) perso33
+L08D205
+ Rozumím. Ale radši bez prolevání krve. XXX
+// Arkhan2 G perso2
+L04D66
+ Následuj mne, rozumíš? XXX
+// Arkhan3 G perso3
+L04D67
+ Následuj mne! XXX
+// Kalhi perso13
+L04D68
+ Všechno jasne. XXX
+// Arkhan2 G perso2
+L02D114A
+ Podívej se, to jsem našel u Bogdarana. XXX
+// Arkhan2 G perso2
+L02D114B
+ Stará uniforma z casù, kdyz byl ješte štíhlý! XXX
+// Arkhan3 G perso3
+L02D115
+ Zde, podívej se! XXX
+// Kalhi perso13
+L02D116
+ Doufejme, ze mi to padne. XXX
+// Kalhi perso33
+L08D213
+ Tak, hotovo! Ideální ošacení.  XXX
+// Kalhi (ergreift die Initiative) perso13
+L08D214
+ Pojd nyní, následuj mne! XXX
+// Kalhi (will die Uniform nicht anziehen ...) perso13
+L08D219
+ Vezmu si veci, az my budeme dole! XXX
+// Kalhi (will die Uniform nicht anziehen ...) perso13
+L08D212
+ Jsme príliš blízko Strázcù ohne, uvidí nás! XXX
+// Arkhan2 G perso2
+L08D336
+ Podívej se na to! XXX
+// Arkhan3 G perso3
+L08D337
+ Dívej! XXX
+// Kalhi perso13
+L08D338
+ Nemáme cas, Arkhane, musíme odsud! XXX
+// Arkhan2 G perso2
+L08D333
+ Wenn's schief geht, bist Du Schuld! XXX
+// Arkhan3 G perso3
+L08D334
+ To je všechno tvojí chybou! XXX
+// Kalhi (muß sich wehren) perso33
+L04D43
+ Arkhane, ne! XXX
+// Hüter10 perso50
+L08D327
+ Hej, Kreaturo! Hledej si radeji protivníka radeji jinde! XXX
+// Kalhi perso13
+L08D341
+ Nedáváš mi jinou moznost! XXX
+// Kalhi perso13
+L08D340
+ Ne, prestan! XXX
+// Arkhan2 G (spricht leise, spöttisch) perso2
+L08D200A
+ Iluze je perfektní. Mohli by te za Phedorii povazovat. XXX
+// Arkhan2 G (spricht leise) perso2
+L08D200B
+ Pojd, jdeme. XXX
+// Arkhan3 G (spricht leise) perso3
+L08D201
+ Pravá vojevùdkyne. Jdeme! XXX
+// Kalhi (flüstert) perso33
+L08D202A
+ Nedelej si ze mne srandu! XXX
+// Kalhi (flüstert) perso33
+L08D202B
+ Pojd nyní, následuj mne, jako bys byl mùj zajatec. XXX
+// Kalhi (flüstert) perso33
+L08D202C
+ Schovej si zbran! XXX
+// Kalhi (flüstert) perso33
+L08D202D
+ A drz palce, aby to klaplo. XXX
+// Kalhi (flüstert) perso33
+L08D202E
+ Pojd! XXX
+// Hüter10 perso50
+L08D326
+ Jdu, Strázkyne ohne! XXX
+// Arkhan2 L perso2
+L08D313
+ V klidu, starce, jsem Arkhan. XXX
+// Arkhan2 O perso2
+L08D314
+ Podívej se mi do ocí a rozluc se ze svetlem sveta! XXX
+// Arkhan3 L perso3
+L08D315
+ Klid. Jsem Arkhan. XXX

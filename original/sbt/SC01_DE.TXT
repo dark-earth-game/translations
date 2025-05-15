@@ -1,0 +1,44 @@
+00:50:26	00:52:00		{Die alte Welt,}
+00:52:02	00:55:00		{das Goldene Zeitalter vom Vorher,}
+00:55:02	00:57:18		{wurde durch die Große Katastrophe beendet.}
+00:59:16	01:00:12		{Das schwarze Feuer,}
+01:00:14	01:01:26		{das vom Himmel gekommen war,}
+01:02:14	01:03:14		{verschlang die Erde,}
+01:03:26	01:05:10		{die Erde spaltete sich,}
+01:05:24	01:10:08		{und das Meer überflutete die Erde für alle Zeiten.}
+01:11:10	01:15:12		{Die von den Alten erbauten Lichtstädte wurden zu Staub,}
+01:15:14	01:18:26		{und die Welt wurde für immer in Finsternis getaucht.}
+01:19:22	01:22:00		{Als sich die Kelche des göttlichen Zorns}
+01:22:02	01:24:00		{auf unsere Welt entleert hatten,}
+01:24:02	01:26:08		{erhoben sich die Auserwählten,}
+01:26:10	01:28:06		{die der Sonnengott verschont hatte,}
+01:28:08	01:29:10		{inmitten des Chaos.}
+01:30:26	01:33:12		{Sie waren die "Wanderer der Finsternis",}
+01:33:14	01:35:24		{auf der Suche nach Licht und Hoffnung}
+01:36:08	01:39:00		{inmitten der Gefahren der Finsternis.}
+02:03:06	02:06:02		{Ihre Wanderung dauerte viele Monde}
+02:06:04	02:08:02		{und endete an dem glorreichen Tag,}
+02:08:04	02:10:24		{als die Väter der Väter unserer Väter}
+02:10:26	02:14:12		{endlich am Ziel ihrer Reise angekommen waren.}
+02:15:14	02:17:08		{Sie entdeckten eine Erde,}
+02:17:10	02:22:06		{die vom Licht des Sonnengottes gesegnet war, einen Stalliten.}
+02:23:18	02:26:00		{Dort errichteten sie eine Stadt mit einem Tempel}
+02:26:02	02:28:00		{zu Ehren des Sonnengottes.}
+02:28:20	02:30:28		{Sie nannten sie Sparta.}
+02:31:18	02:33:08		{Heute lastet eine furchtbare}
+02:33:10	02:35:08		{Bedrohung auf Sparta.}
+02:35:20	02:37:20		{Das Schicksal unserer ganzen Stadt}
+02:38:04	02:40:14		{hängt von dem eines einzigen Mannes ab.}
+02:41:04	02:44:02		{Von Arkhan, dem Hüter des Feuers.}
+02:44:04	02:46:14		{Um die schrecklichen Prüfungen zu bestehen,}
+02:46:16	02:47:22		{die ihn erwarten,}
+02:47:24	02:50:12		{muß er die Hilfe der Personen in Anspruch nehmen,}
+02:50:14	02:52:04		{die ihm nahestehen.}
+02:52:06	02:54:04		{Seiner geliebten Kalhi...}
+02:55:14	02:57:28		{Seines Waffenbruders Zed ...}
+02:59:08	03:01:06		{Seines Vaters Rylsadhar...}
+03:03:04	03:05:14		{Lory, der Großen Predigerin ...}
+03:06:08	03:08:28		{Danrys, des Lumpensammlers ...}
+03:09:00	03:11:10		{Wenn sie aber bei ihrem Vorhaben scheitern,}
+03:11:26	03:13:28		{wird das Licht des Sonnengottes}
+03:14:00	03:16:22		{nie wieder über Sparta scheinen!}

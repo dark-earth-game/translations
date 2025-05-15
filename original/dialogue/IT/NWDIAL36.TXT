@@ -1,0 +1,481 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\IT\NWDIAL36.TXT
+ // Lodar perso86
+L36D85
+Piano, non sono tuo nemico! XXX
+// Konkalite12 perso82
+L36D01A
+Tu sì che sai batterti! XXX
+// Lodar perso86
+L36D146
+Non avrai così facilmente la mia pelle! XXX
+// Konkalite12 perso82
+L36D01B
+Dai, tu l'hai ucciso, il bottino ti appartiene. XXX
+// Konkalite12 perso82
+L36D02
+Sei tu il più forte! Prendi tutto quel che vuoi, il bottino è tuo. XXX
+// Lodar (inquieto davanti ad Arkhan)perso86
+L36D04
+Adesso riprenderò la mia strada... d'accordo? XXX
+// Gardien20 perso60
+L36D147
+Alt! XXX
+// Gardien20 (atterrito da Arkhan3) perso60
+L36D148
+Sole-Dio... Guida il mio braccio! XXX
+// Gardien20 perso60
+L36D08
+Ehi! Dove credi di andare?! XXX
+// Gardien20 (sfida Arkhan)perso60
+L36D144
+Non ne hai avuto abbastanza, eh! XXX
+// Konkalite12 perso82
+L36D145
+Ancora tu! XXX
+// Gardien23 (parla forte, lontano da Arkhan)  perso1
+L36D05A
+(in basso) Avete capito gli ordini del preposto Dhorkan? XXX
+// Gardien23 perso1
+L36D05B
+(in basso) Restate uniti e tenete gli occhi aperti! XXX
+// Gardien23 perso1
+L36D05C
+(in basso) Arrestate tutti gli individui loschi o pericolosi. XXX
+// Gardien23 perso1
+L36D05D
+(in basso) Ma qualunque cosa succeda non allontanatevi più di 100 cubiti dal vostro posto. XXX
+// Gardien22 (parla forte, lontano da Arkhan)  perso1
+L36D06A
+(in basso) Avete ricevuto gli ordini? XXX
+// Gardien24 (seccato) perso1
+L36D06B
+(in basso) Sì, è già la seconda volta! XXX
+// Gardien22 perso1
+L36D06C
+(in basso) Volevo essere sicuro! XXX
+// Gardien23 (parla forte, lontano da Arkhan) perso1
+L36D07A
+(in basso) Soprattutto aprite gli occhi! L'attacco può venire da qualunque parte! XXX
+// Gardien24 perso1
+L36D07B
+(in basso) Capito! XXX
+// Arkhan2 L perso2
+L36D87
+Cosa sta succedendo? XXX
+// Arkhan3 L perso3
+L36D88
+Cosa succede? XXX
+// Arkhan2 O perso2
+L36D89
+Non ti ha mancato! XXX
+// Arkhan3 O perso3
+L36D90
+Bella ferita! XXX
+// Lodar perso86
+L36D91A
+Aiutami, ti ricompenserò! XXX
+// Konkalite12 perso82
+L36D92A
+È fra lui e me, faccia d'oscuro! XXX
+// Konkalite12 perso82
+L36D92B
+Non intrometterti! XXX
+// Arkhan2 G perso2
+L36D78
+Tieni duro. XXX
+// Arkhan3 G perso3
+L36D79
+Coraggio! XXX
+// Lodar perso86
+L36D99
+Chiunque tu sia, aiutami! XXX
+// Arkhan2 G perso2
+L36D93
+Come va? XXX
+// Arkhan3 G perso3
+L36D94
+Come va? XXX
+// Arkhan2 O perso2
+L36D55
+Fa male, amico? XXX
+// Arkhan3 O perso3
+L36D56
+Stai male! XXX
+// Lodar perso86
+L36D03
+Grazie... Ti devo la vita. XXX
+// Lodar perso86
+L36D57C
+Tieni, prendi... A me, questo non servirà più. XXX
+// Arkhan2 L perso2
+L36D58
+Sei Marciatore? Come sei entrato? XXX
+// Arkhan3 L perso3
+L36D59
+Da dove vieni? XXX
+// Arkhan2 O perso2
+L36D60
+Da dove esci? Come sei arrivato qui? XXX
+// Arkhan3 O (aggressivo) perso3
+L36D61
+Chi sei? XXX
+// Lodar perso86
+L36D62A
+Sono Lodar, esploratore di una carovana di Marciatori, a qualche giorno da qui. XXX
+// Lodar perso86
+L36D62B
+Sono arrivato da poco... hanno chiuso le porte proprio dietro di me. XXX
+// Lodar (amaro)perso86
+L36D62C
+Se penso che credevo di essere più al sicuro dentro lo Stallite... XXX
+// Arkhan2 L perso2
+L36D63
+All'esterno hai visto qualche cosa? XXX
+// Arkhan3 L perso3
+L36D64
+Hai visto qualche cosa nell'Oscuro? XXX
+// Lodar perso86
+L36D65A
+Ah sì... Ci sono delle cose strane... degli esseri scuri sia fuori che dentro... XXX
+// Lodar perso86
+L36D65B
+Ho avuto la possibilità di arrivare senza problemi. XXX
+// Lodar perso86
+L36D65C
+E, in basso, vicino all'acqua, ho scorto una donna. XXX
+// Arkhan2 L perso2
+L36D66
+Una donna? XXX
+// Arkhan3 L perso3
+L36D67
+Una donna? XXX
+// Lodar perso86
+L36D68A
+Tutto quello che so, è che non faceva parte della mia carovana. XXX
+// Lodar perso86
+L36D68B
+È scomparsa prima che mi potessi avvicinare. XXX
+// Arkhan2 O perso2
+L36D69
+Mi domando come un tipo come te abbia potuto sopravvivere nell'Oscuro! XXX
+// Arkhan3 O perso3
+L36D70
+Per un Marciatore, non hai l'aria molto solida. XXX
+// Lodar (innervosito da Arkhan) perso86
+L36D71A
+Ascolta, amico. Sono sfinito. XXX
+// Lodar perso86
+L36D71B
+Grazie per il tuo aiuto, ma non ho più niente da dirti. XXX
+// Lodar perso86
+L36D71C
+Allora, ognuno per la sua strada, d'accordo? XXX
+// Arkhan2 L perso2
+L36D72
+Non puoi dirmi di più su quello che hai visto nell'Oscuro? XXX
+// Arkhan3 L perso3
+L36D73
+Puoi dirmi di più sull'Oscuro? XXX
+// Lodar perso86
+L36D74A
+Là sono nato... Là ho vissuto... XXX
+// Lodar perso86
+L36D74B
+Ed è l'ultima cosa che voglio contemplare prima di morire. XXX
+// Arkhan2 O perso2
+L36D75
+Un Marciatore come te, ha sicuramente tante cose da dire! XXX
+// Arkhan3 O perso3
+L36D76
+Dimmi di più sull'Oscuro! XXX
+// Lodar perso86
+L36D77A
+No, non c'è niente da aggiungere. XXX
+// Lodar ("arrivederci") perso86
+L36D77B
+Riprendi la tua strada, amico. "Ogni passo verso la luce". XXX
+// Arkhan2 G perso2
+L36D998
+Cos'è questo casco? XXX
+// Arkhan3 G perso3
+L36D999
+Cos'è? XXX
+// Lodar perso86
+L36D82A
+È un oggetto che viene dal lontano Stallite Phenice. XXX
+// Lodar perso86
+L36D82B
+Una buona protezione contro le tempeste di polvere.  XXX
+// Lodar perso86
+L36D82C
+E ci sono delle aperture sui lati per non soffocare. XXX
+// Arkhan2 G perso2
+L36D124
+Hai già visto dei cristalli di questo tipo? XXX
+// Arkhan3 G perso3
+L36D125
+Questo tipo di cristallo, lo conosci? XXX
+// Lodar perso86
+L36D83
+No, non ho visto niente di simile. Spiacente. XXX
+// Lodar perso86
+L36D81
+Non è il momento per il baratto, amico mio. XXX
+// Lodar perso86
+L36D84
+Non mi si doveva provocare! XXX
+//  Lodar perso86
+L36D86
+Non mi lasci scelta! XXX
+// Konkalite12 perso82
+L36D105
+Smamma! XXX
+// Arkhan2 L perso2
+L36D103
+Oh, un po' di calma! XXX
+// Arkhan3 L perso3
+L36D104
+Fermati! XXX
+// Arkhan2 O (aggressivo) perso2
+L36D106
+Te ne pentirai! XXX
+// Arkhan3 O (aggressivo) perso3
+L36D107
+Te ne pentirai! XXX
+// Konkalite12 (urla di rabbia)perso82
+L36D108
+Raaaah! XXX
+// Arkhan2 L perso2
+L36D96
+Fermo, pancione! XXX
+// Arkhan3 L perso3
+L36D97
+Basta! Fermo! XXX
+// Konkalite12 perso82
+L36D98
+Non avvicinarti o infilzo anche te! XXX
+// Arkhan2 O perso2
+L36D100
+Lascialo o ti anniento! XXX
+// Arkhan3 O (minaccioso) perso3
+L36D101
+Lascialo! XXX
+// Konkalite12 perso82
+L36D102
+Non immischiarti! XXX
+// Arkhan2 G perso2
+L36D110
+Un morto di più... XXX
+// Arkhan3 G perso3
+L36D111
+Un morto di più... XXX
+// Konkalite12 perso82
+L36D112
+Ah sì! È tutto quello che meritava! XXX
+// Arkhan2 G perso2
+L36D113
+Ripulisci le tasche dei cadaveri? XXX
+// Arkhan3 G perso3
+L36D114
+Gli ripulisci le tasche? XXX
+// Konkalite12 perso82
+L36D115A
+E allora? XXX
+// Konkalite12 perso82
+L36D115B
+Se non ti piace, guarda altrove! XXX
+// Arkhan2 G (aggressivo) perso2
+L36D119
+Non sei che uno sciacallo! XXX
+// Arkhan3 G (aggressivo) perso3
+L36D120
+Sei solo uno sciacallo! XXX
+// Konkalite12 perso82
+L36D121
+Ah sì! E sei tu la mia preda! XXX
+// Konkalite12 perso82
+L36D109
+Tienilo tu, io ho tutto quel che mi serve! XXX
+// Konkalite12 perso82
+L36D200
+Ti cambio i connotati, faccia di merda! XXX
+// Arkhan2 Gperso2
+L36D149
+Calma, Custode. Non voglio problemi XXX
+// Arkhan2 Gperso2
+L36D150
+Cerco semplicemente un rimedio. XXX
+// Gardien20 perso60
+L36D151A
+Te l'ho detto, non c'è niente per te da queste parti. XXX
+// Gardien20 perso60
+L36D151B
+Farai meglio ad andartene se non vuoi delle noie. XXX
+// Gardien20 perso60
+L36D251A
+Non è qui che troverai quel che cerchi. XXX
+// Gardien20 perso60
+L36D251B
+Se vuoi un consiglio, alza i tacchi! XXX
+// Arkhan2 L perso2
+L36D135A
+Cerco un rimedio per il mio male. XXX
+// Arkhan2 L perso2
+L36D135B
+Ti chiedo solo di lasciarmi passare. XXX
+// Gardien20 perso60
+L36D137A
+Se non lo sai, nello Stallite è stata promulgata la legge marziale. XXX
+// Gardien20 perso60
+L36D137B
+La Grande-Porta è chiusa, le strade sono state bloccate per la maggior parte. XXX
+// Gardien20 perso60
+L36D137C
+ ...E qualcuno... qualcuno come te non ha niente da fare qui! XXX
+// Gardien20 perso60
+L36D137D
+Farai meglio ad andartene. XXX
+// Arkhan2 O perso2
+L36D138A
+Basta così! XXX
+// Arkhan2 O perso2
+L36D138B
+Togliti di lì, adesso, o ti scaravento nell'Oscuro! XXX
+// Gardien20 perso60
+L36D140
+Allora tu verrai con me, mostro! XXX
+// Arkhan2 L perso2
+L36D123A
+Piano, amico. Io sono Arkhan, Custode del Fuoco come te. XXX
+// Arkhan2 L perso2
+L36D123B
+Sono stato avvelenato proteggendo la Grande Predicatrice. XXX
+// Gardien20 (impressionato) perso60
+L36D136
+Avvelenato! Non ho mai visto niente di simile! XXX
+// Arkhan2 O perso2
+L36D126
+Scostati o ti scaravento nell'Oscuro! XXX
+// Gardien20 perso60
+L36D141A
+Non sono qui per barattare! XXX
+// Gardien20 perso60
+L36D141B
+Lascia i bastioni, immediatamente. XXX
+// Gardien20 perso60
+L36D142
+Sprechi il fiato, creatura! XXX
+// Gardien20 perso60
+L36D143
+Ne ero sicuro! XXX
+// Arkhan2 L perso2
+L36D32
+Il cannone che serve ad allertare i Custodi del Fuoco in caso di attacco. XXX
+// Arkhan2 O perso2
+L36D33
+Un cannone. Peccato che non ci sia la miccia, avrei fatto un bel casino! XXX
+// Arkhan3 L perso3
+L36D34
+Questo cannone non servirà a niente davanti alle forze dell'Oscuro... XXX
+// Arkhan3 O perso3
+L36D35
+Non ci sono armi contro l'Oscuro! XXX
+// Arkhan2 G perso2
+L36D36
+No, troppo pesanti! XXX
+// Arkhan3 G perso3
+L36D37
+Troppo pesanti! XXX
+// Arkhan2 L perso2
+L36D38
+Sono le catene che consentono di azionare la Grande-Porta. XXX
+// Arkhan2 O (tira la catena, invano) perso2
+L36D39
+No, non si sposta di un pollice! XXX
+// Arkhan3 L perso3
+L36D40
+Le catene per azionare la porta XXX
+// Arkhan3 O (tira la catena, invano) perso3
+L36D41
+No! Non si muove! XXX
+// Arkhan2 L perso2
+L36D46
+I contrappesi della Grande-Porta sono bloccati da quella molle.  XXX
+// Arkhan3 L perso3
+L36D48
+Delle molle... Bloccano i contrappesi della Grande-Porta XXX
+// Arkhan2 L perso2
+L36D49
+Il passaggio è bloccato. Non posso andare oltre. XXX
+// Arkhan2 O (picchia nella barricata) perso2
+L36D50
+Imbecilli! Hanno fatto barricate dappertutto! XXX
+// Arkhan3 O (picchia nella barricata) perso3
+L36D52
+Maledizione! Bloccato! XXX
+// Arkhan2 G perso2
+L36D24
+Da qui si può vedere tutto lo Stallite. XXX
+// Arkhan3 G perso3
+L36D25
+Si vede tutto lo Stallite. XXX
+// Arkhan2 G perso2
+L36D26
+Lo Stallite fa tutt'uno con le tenebre, ormai. XXX
+// Arkhan3 G perso3
+L36D27
+Le tenebre sono dappertutto... XXX
+// Arkhan2 G perso2
+L36D28
+Polvere e oscurità per tutto l'orizzonte.. XXX
+// Arkhan3 G perso3
+L36D29
+L'Oscuro è il nostro orizzonte... XXX
+// Arkhan2 G perso2
+L36D30
+Sparta, ormai, conosce solo le tenebre... XXX
+// Arkhan2 L perso2
+L36D09
+La Grande-Porta dello Stallite... Con la legge marziale, i Custodi l'hanno chiusa. XXX
+// Arkhan2 O perso2
+L36D10
+Cretino d'un Dhorkan, ha fatto chiudere la Grande-Porta dello Stallite! XXX
+// Arkhan3 L perso3
+L36D11
+La legge marziale: hanno chiuso la Grande-Porta dello Stallite.  XXX
+// Arkhan3 O perso3
+L36D12
+La Grande-Porta è chiusa... Dhorkan e la sua legge marziale! XXX
+// Arkhan2 L perso2
+L36D13
+Chiusa o no, la Grande-Porta non ci proteggerà dalle Tenebre. XXX
+// Arkhan2 O perso2
+L36D14
+E loro credono di proteggersi chiudendo la Grande-Porta. Pazzi! XXX
+// Arkhan3 O perso3
+L36D16A
+Poveri pazzi! XXX
+// Arkhan3 G perso3
+L36D16B
+Hanno chiuso la Grande-Porta... ma è troppo tardi! XXX
+// Arkhan2 G perso2
+L36D17
+Solo questo muro ci separa dall'Oscuro. XXX
+// Arkhan2 G perso2
+L36D18
+Al di là non ci sono che tenebre, freddo e morte... XXX
+// Arkhan3 G perso3
+L36D19
+Tenebre, freddo e morte... È tutto quello che c'è laggiù... XXX
+// Arkhan2 L (cupo) perso2
+L36D20
+Io sento che ci sono delle cose, laggiù, che si nascondono, che attendono... XXX
+// Arkhan2 O (urla una sfida) perso2
+L36D21
+Venite, creature dell'Oscuro, uscite dall'ombra, vi aspetto! XXX
+// Arkhan3 L perso3
+L36D22
+Le creature dell'Oscuro... non sono lontane, lo sento... XXX
+// Arkhan3 O (urla una sfida) perso3
+L36D23
+Venite, mostri! Vi aspetto! XXX

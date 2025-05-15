@@ -1,0 +1,265 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL27.TXT
+ // Arkhan2 G perso2
+L51D111
+ Tu jest zbyt goraco, juz dalej nie moge isc. XXX
+// Arkhan3 G perso3
+L51D112
+ Co za zar! Nie dam rady podejsc blizej... XXX
+// Konkalite4 perso74
+L27D01
+ Kolej na ciebie, wszo! XXX
+// Phedoria perso26
+L20D38
+ Arkhan, wlasnie podpisales na siebie wyrok smierci! XXX
+// Arkhan2 L perso2
+L20D30
+ Dobra, moze od razu to rozstrzygniemy? XXX
+// Arkhan2 O perso2
+L20D31
+ Zalatwmy te sprawe od razu! XXX
+// Arkhan3 L perso3
+L20D32
+ Rozstrzygnijmy ten spor bez zbednej zwloki! XXX
+// Arkhan3 O perso3
+L20D33
+ Mow! XXX
+// Lory perso15
+L20D34
+ Nie mozemy tu zostac. Chodz. XXX
+// Arkhan2 G perso2
+L20D35
+ Ale... Wielka Patrzaca... XXX
+// Arkhan3 G perso3
+L20D36
+ Wielka Patrzaca... XXX
+// Lory perso15
+L20D37
+ Posluchaj mnie! Dalej, idziemy! XXX
+// Arkhan2 L perso2
+L20D39
+ Phedoria, co sie dzieje? XXX
+// Arkhan2 O perso2
+L20D40
+ Ej... co sie dzieje? XXX
+// Arkhan3 L perso3
+L20D41
+ Phedoria, powiedz mi! XXX
+// Arkhan3 O perso3
+L20D42
+ Powiedz mi! XXX
+// Phedoria perso26
+L20D43
+ Lory wszystko wyjasni! XXX
+// Arkhan2 G perso2
+L20D44
+ Ale... Pani kapitan... XXX
+// Arkhan3 G perso3
+L20D45
+ Pani kapitan... XXX
+// Phedoria perso26
+L20D46
+ Za nami! XXX
+// Arkhan2 G perso2
+L27D01A
+ To przedstawienie walki prowadzonej przez zalozycieli, nim udali sie do Stallite. XXX
+// Arkhan2 G perso2
+L27D01B
+ Zawsze mi sie zdawalo, ze ten potwor to jedynie postac legendarna... XXX
+// Arkhan2 G perso2
+L27D01C
+ Po tym, co mi sie przytrafilo, zmienilem zdanie! XXX
+// Arkhan3 G perso3
+L27D02A
+ Walka prowadzona przez zalozycieli, nim skierowali sie do Stallite. XXX
+// Arkhan3 G perso3
+L27D02B
+ Zastanawiam sie, ktora rola bardziej mi pasuje: czlowieka, czy potwora! XXX
+// Arkhan2 G perso2
+L27D03A
+ Budowa Stallite. XXX
+// Arkhan2 G perso2
+L27D03B
+ Mowia, ze pierwszy czlowiek urodzony w swietle nie dozyl zakonczenia budowy. XXX
+// Arkhan3 G perso3
+L27D04A
+ Budowa Stallite. XXX
+// Arkhan3 G perso3
+L27D04B
+ Setki ludzi stracilo zycie. XXX
+// Arkhan2 G perso2
+L27D05A
+ Stallite po zakonczeniu budowy. XXX
+// Arkhan2 G perso2
+L27D05B
+ Kazdego dnia modlono sie do Boskiego Slonca, by nie przestalo swiecic. XXX
+// Arkhan2 G perso3
+L27D05C
+ Tym razem modlitwy nie wystarcza! XXX
+// Arkhan3 G perso3
+L27D06A
+ Stallite. XXX
+// Arkhan3 G perso3
+L27D06B
+ Blogoslawieni swiatlem Boskiego Slonca. XXX
+// Arkhan3 G perso3
+L27D06C
+Chcialbys tak uwazac! XXX
+// Arkhan2 G perso2
+L27D07A
+ To przedstawia wielkie swiatlo, ktore swieci na szczycie swiatyni. XXX
+// Arkhan2 G perso2
+L27D07B
+Wysyla promienie Boskiego Slonca w glab Mrocznych Ziem. To duma Patrzacych w Slonce. XXX
+// Arkhan3 G perso3
+L27D08A
+ To przedstawia wielkie swiatlo, ktore swieci na szczycie swiatyni. XXX
+// Arkhan3 G perso3
+L27D08B
+ Zapuszcza promienie Boskiego Slonca gleboko na terytorium Mrocznych Ziem. XXX
+// Arkhan2 G perso2
+L27D09A
+ Nie wiem, co to jest. XXX
+// Arkhan2 G perso2
+L27D09B
+ Byc moze to jakis posag, relikt ze Starego Swiata... XXX
+// Arkhan3 G perso3
+L27D10
+ Nie wiem, co to jest. XXX
+// Arkhan2 G perso2
+L27D11
+ To wielki, swiecacy posag, jaki znajduje sie w grocie! XXX
+// Arkhan3 G perso3
+L27D12
+ To posag z groty! XXX
+// Arkhan2 G perso2
+L27D13A
+ Lupiezcy. XXX
+// Arkhan2 G perso2
+L27D13B
+ Ludzie twierdza, ze to leniwe obiboki ze Stallite. XXX
+// Arkhan2 G perso2
+L27D13C
+ Jedyne, co potrafia, to lazenie po gruzach ze Starego Swiata i przeczesywanie zgliszczy w poszukiwaniu czegos do jedzenia. XXX
+// Arkhan2 G (smiling to himself) perso2
+L27D13D
+ Lecz ludzie, ktorzy tak twierdza, nigdy nie spotkali Danrysa, Kalhi i innych... XXX
+// Arkhan3 G perso3
+L27D14A
+ Lupiezcy. XXX
+// Arkhan3 G perso3
+L27D14B
+ Zyja z lupiestwa, odzysku oraz handlu wymiennego. XXX
+// Arkhan3 G perso3
+L27D14C
+ Ale nie wszyscy z nich to patentowane lenie. XXX
+// Arkhan3 G (smiling to himself) perso3
+L27D14D
+ Wezmy na przyklad taka Kalhi albo Danrysa... XXX
+// Arkhan2 G perso2
+L27D15A
+ Zaopatrujacy. XXX
+// Arkhan2 G perso2
+L27D15B
+ Zyja razem z Lupiezcami w Nizszym Miescie. XXX
+// Arkhan2 G perso2
+L27D15C
+ Lowienie ryb, polowania, uprawy. Oni zywia cale Stallite. XXX
+// Arkhan3 G perso3
+L27D16A
+ Zaopatrujacy. XXX
+// Arkhan3 G perso3
+L27D16B
+ Zyja razem z Lupiezcami w Nizszym Miescie. XXX
+// Arkhan3 G perso3
+L27D16C
+ Lowienie ryb, polowania, uprawy. Oni nas zywia. XXX
+// Arkhan2 G perso2
+L27D23A
+ Budowniczy. XXX
+// Arkhan2 G perso2
+L27D23B
+ Zbudowali Stallite dokladnie w taki sposob, w jaki nakazali im Patrzacy w Slonce. XXX
+// Arkhan2 G perso2
+L27D23C
+ Tworza praktycznie wszystko: stawiaja budynki, produkuja narzedzia, meble... XXX
+// Arkhan3 G perso3
+L27D24A
+ Budowniczy. XXX
+// Arkhan3 G perso3
+L27D24B
+ Zbudowali Stallite na zyczenie Patrzacych w Slonce. XXX
+// Arkhan3 G perso3
+L27D24C
+ Budynki, narzedzia, meble: potrafia zrobic wszystko. XXX
+// Arkhan2 G perso2
+L27D17A
+ Gwardzisci Ognia. XXX
+// Arkhan2 G perso2
+L27D17B
+ Sluza spoleczenstwu Stallite dniem i noca, oferujac ochrone, ogien oraz swiatlo. XXX
+// Arkhan2 O perso2
+L27D17C
+ Tak, na pewno! XXX
+// Arkhan3 G perso3
+L27D18A
+ Gwardzisci Ognia. XXX
+// Arkhan3 G perso3
+L27D18B
+ Obroncy Stallite i jego obywateli. XXX
+// Arkhan3 O perso3
+L27D18C
+ Klamstwa! XXX
+// Arkhan2 G perso2
+L27D19A
+ Patrzacy w Slonce. XXX
+// Arkhan2 G perso2
+L27D19B
+ Wtajemniczeni Boskiego Slonca, obroncy wiary. XXX
+// Arkhan2 G perso2
+L27D19C
+ Oni nas prowadza duchowo i chronia przed herezja. XXX
+// Arkhan2 O perso2
+L27D19D
+ Ale tylko wtedy, gdy nie sa zajeci polowaniem na ludzi, ktorzy im pomagaja! XXX
+// Arkhan3 G perso3
+L27D20A
+ Patrzacy w Slonce. XXX
+// Arkhan3 G perso3
+L27D20B
+ Wtajemniczeni Boskiego Slonca, nasi przewodnicy. XXX
+// Arkhan3 O perso3
+L27D20C
+ Slepi, przesadni przewodnicy! XXX
+// Arkhan2 G perso2
+L27D21A
+ Rada. XXX
+// Arkhan2 G perso2
+L27D21B
+ Rycina przedstawia te komnate. XXX
+// Arkhan2 G perso2
+L27D21C
+ To tutaj Lory i jej doradcy podejmuja swoje decyzje. XXX
+// Arkhan3 G perso3
+L27D22A
+ Rada. Wlasnie tutaj. XXX
+// Arkhan3 G perso3
+L27D22B
+  To tutaj Lory i jej doradcy podejmuja swoje decyzje. XXX
+// Arkhan2 G perso2
+L27D25A
+ Posag Thelen Khron, zalozyciela Stallite. XXX
+// Arkhan2 O perso2
+L27D25B
+ Patrzacy w Slonce zyja przeszloscia! XXX
+// Arkhan3 G perso3
+L27D26
+ Zalozyciel Stallite XXX
+// Arkhan1 G perso1
+L27D27
+ Czego chcesz? XXX
+// Konkalite4 perso74
+L27D28
+ Twego trupa! XXX
+// Konkalite4 perso74
+L27D29
+ Gin! XXX

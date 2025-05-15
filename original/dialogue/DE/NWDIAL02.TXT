@@ -1,0 +1,643 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL02.TXT
+ // Zed perso84
+L02D01
+ Ah, Arkhan! Hör ... XXX
+// Zed perso84
+L02D02A
+ Was? Aber wo ist denn Deine Uniform? XXX
+// Zed perso84
+L02D02B
+ Verflucht, geh Dich sofort anziehen! XXX
+// Zed perso84
+L02D02C
+ Wenn Dich Profos Dhorkan in diesem Aufzug sieht, wirst Du den Kerkern des Stalliten einen längeren Besuch abstatten! XXX
+// Zed perso84
+L02D03A
+ Arkhan, na endlich! XXX
+// Zed perso84
+L02D03B
+Ich kann nicht bleiben, ich muß wieder hoch und üben.  XXX
+// Zed perso84
+L02D03C
+ Kommandantin Phedoria erwartet mich, Du weißt doch, wie ungeduldig sie ist ...  XXX
+// Zed perso84
+L02D03D
+ Wenn Du Lust hast, kannst Du mitkommen.  XXX
+// Zed perso84
+L02D03E
+ Nutze es aus, denn wenn sich der Sonnengott das nächste Mal erhebt, geh' ich auf eine neue Expedition in das Reich der Finsternis. XXX
+// Zed (zufrieden) perso84
+L02D03Z
+ Ja, so bist Du wenigstens präsentabel! XXX
+// Zed84 perso84
+L02D666A
+ Arkhan! Welcher Dämon hat sich Deiner bemächtigt? XXX
+// Zed84 perso84
+L02D666B
+ Du ... Du hast diese beiden Hüter des Feuers umgebracht! XXX
+// Arkhan1 L (versucht, Zed zurückzuhalten) perso1
+L02D667
+ Zed, hör mal, ich... XXX
+// Arkhan1 O (bedroht Zed) perso1
+L02D668
+ Ja sicher! Das gleiche wird Dir auch passieren! XXX
+// Zed84 (will auf Arkhan schießen) perso84
+L02D669
+ Tut mir leid, mein Freund, aber ich habe keine andere Wahl! XXX
+// Kalhi perso33
+L02D70A
+ Achtung, jetzt wird's ernst! XXX
+// Kalhi perso33
+L02D70B
+ Tu so, als seist Du mein Gefangener, das dürfte funktionieren ... XXX
+// Hüter17 perso57
+L02D107
+ Phedoria! Hierher! XXX
+// Phedoria perso26
+L02D217
+ Arkhan, Du mieser Verräter! XXX
+// Arkhan1 L perso1
+L02D105
+ Profos Dhorkan! XXX
+// Arkhan1 O perso1
+L02D106
+ Profos! XXX
+// Dhorkan perso11
+L06D05C
+ Die Große Priesterin Lory leitet im Tempel des Sonnengottes eine wichtige Ratssitzung. XXX
+// Dhorkan perso11
+L06D05D
+ Du wurdest bestimmt, die Tür des Ratssaals zu bewachen. XXX
+// Dhorkan perso11
+L06D05E
+ Der Hüter des Feuers Jedar wartet schon ziemlich lange da unten auf Dich. XXX
+// Dhorkan perso11
+L06D05F
+ Geh hinunter und nimm Deinen Posten ein, bevor die Große Predigerin kommt. XXX
+// Kalhi (hat die Kleidungsstücke angezogen) perso33
+L04D04
+ Steht mir gar nicht mal so schlecht! XXX
+// Kalhi (entschieden) perso33
+L04D05
+ Komm jetzt! Wir gehen! XXX
+// Kalhi (besorgt, weil sie Arkhan weggehen sieht) perso33
+L02D65A
+ Arkhan, was tust Du? XXX
+// Kalhi perso33
+L02D65C
+ Sei vorsichtig! XXX
+// Kalhi (fassungslos) perso13
+L08D335A
+ Du ... Du bist gekommen, um mich zu holen? XXX
+// Kalhi (fassungslos) perso13
+L08D335B
+ Was ist denn los mit Dir? XXX
+// Kalhi (weint fast) perso13
+L08D335C
+ Das Übel macht Dich wahnsinnig! XXX
+// Kalhi (genervt) perso13
+L04D07
+ Arkhan! Wir müssen jetzt gehen! XXX
+// Kalhi (ungeduldig) perso13
+L04D08
+ Worauf wartest Du denn? XXX
+// Kalhi (erstaunt, daß Arkhan nichts tut) perso13
+L04D09
+ Steh da doch nicht so herum! XXX
+// Kalhi perso13
+L02D500
+ Ich warte hier auf Dich. XXX
+// Arkhan2 G perso2
+L02D501
+ Warte hier auf mich. XXX
+// Arkhan3 G perso3
+L02D502
+ Warte. XXX
+// Hüter19 perso59
+L02D67
+ Keinen Schritt weiter! XXX
+// Hüter19 perso59
+L02D68
+ Geh nur, Arkhan, Du darfst hier durch. XXX
+// Hüter19 perso59
+L02D69
+ Kommt nicht näher! XXX
+// Hüter18 perso58
+L02D110
+ Halt oder ich schieße! XXX
+// Dhorkan perso11
+L02D50
+ Arkhan, warte doch! XXX
+// Hüter19 perso59
+L02D97
+ Nein! Jetzt bist Du nicht mehr Arkhan! XXX
+// Arkhan2 L perso2
+L02D84A
+ Jan, immer mit der Ruhe, ich bin's, Arkhan. XXX
+// Arkhan2 L perso2
+L02D84B
+ Ich hab' nichts gegen Dich, laß mich durch. XXX
+// Arkhan3 L perso3
+L02D85A
+ Jan. Ich bin's, Arkhan. XXX
+// Arkhan3 L perso3
+L02D85B
+ Laß mich da hinein. XXX
+// Arkhan2 O perso2
+L02D86
+ Laß mich durch! XXX
+// Arkhan3 O (bedrohliches Knurren) perso3
+L02D87
+ Geh zur Seite. XXX
+// Hüter19 perso59
+L02D88
+ Arkhan! Du bist's? Aber was ist denn mit Dir los?! XXX
+// Arkhan2 G (bitter) perso2
+L02D89A
+ Ein Geschenk von denen, die die Große Predigerin umbringen wollten! XXX
+// Arkhan2 G perso2
+L02D89B
+ Und wenn ich kein Mittel gegen dieses Gift finde, bin ich bald ein toter Mann! XXX
+// Arkhan3 G perso3
+L02D90A
+ Lorys Angreifer haben mich vergiftet.  XXX
+// Arkhan3 G perso3
+L02D90B
+ Ohne Gegenmittel ... ist's bald aus mit mir! XXX
+// Hüter19 perso59
+L02D91A
+ Ich glaub' Dir, Arkhan.  XXX
+// Hüter19 perso59
+L02D91B
+ Was man auch immer über Dich erzählt, ich vertrau' Dir. XXX
+// Hüter19 perso59
+L02D91C
+ Wenn Du da hinein willst, geh nur... XXX
+// Arkhan2 G perso2
+L02D92
+ Danke, Jan. Du bist mir eine große Hilfe! XXX
+// Hüter19 perso59
+L02D94
+ Du brauchst mir nicht zu danken. Ich tu', was ich für richtig halte. XXX
+// Arkhan2 G perso2
+L02D95
+ Jan, halt! XXX
+// Arkhan3 G perso3
+L02D96
+ (rauhes Knurren) XXX
+// Zed (keinen Widerspruch duldend) perso84
+L02D81
+ Genug, mein Freund. Spar Dir Deine Spucke für die Kampfübungen! XXX
+// Arkhan1 G (ruft Zed, der weggeht) perso1
+L02D71
+ Zed, warte! XXX
+// Arkhan1 L (beunruhigt) perso1
+L02D72
+ Du ... Du kehrst ins Reich der Finsternis zurück? Was ist passiert? XXX
+// Zed (beruhigend) perso84
+L02D73A
+ Mach Dir keine Sorgen, Hüter des Feuers, die Mauern unseres Stalliten beschützen uns. XXX
+// Zed perso84
+L02D73B
+ Und wenn ich diese heiligen Mauern verlasse und zu einer Expedition nach draußen aufbreche, tu' ich es, um uns diese Sicherheit zu bewahren. XXX
+// Zed perso84
+L02D73C
+ Wie es die Pflicht von mir verlangt. XXX
+// Arkhan1 L perso1
+L02D74
+ Ich weiß, aber ich mache mir jedesmal Sorgen um Dich, mein Freund. XXX
+// Zed perso84
+L02D75
+ Sorge Dich nicht um mich, Arkhan, der Sonnengott beschützt mich! XXX
+// Arkhan1 O (beunruhigt) perso1
+L02D76
+ Du kehrst ins Reich der Finsternis zurück! Du wirst dort nichts anderes finden als den Tod! XXX
+// Zed perso84
+L02D77
+ Arkhan, die Sicherheit des Stalliten ist mir das Wichtigste.  XXX
+// Arkhan1 O perso1
+L02D78A
+ Ich weiß, Du bist ein Held, und alle bewundern Dich! XXX
+// Arkhan1 O perso1
+L02D78B
+ Aber paß auf, daß Du nicht zur Legende wirst. XXX
+// Arkhan1 O perso1
+L02D78C
+ Dafür muß man sterben. Das ist der Preis, den man dafür bezahlen muß! XXX
+// Arkhan1 G perso1
+L02D80
+ Und Du glaubst, daß ... XXX
+// Zed (von Arkhan angegriffen) perso84
+L02D82
+ Verflucht, Arkhan! Was ist denn mit Dir los?!? Beruhige Dich! XXX
+// Zed (schießt auf Arkhan) perso84
+L02D83
+ Du läßt mir keine andere Wahl! XXX
+// Hüter17 perso57
+L02D41
+ Jetzt gehst Du zu weit! XXX
+// Arkhan1 L perso1
+L02D04
+ Sei gegrüßt, Muldar, ich komme, um mit Profos Dhorkan zu sprechen. XXX
+// Hüter17 perso57
+L02D05
+ Was willst Du denn vom Chef? XXX
+// Arkhan1 L perso1
+L02D06
+ Ich komme, um Befehle einzuholen. XXX
+// Arkhan1 L perso1
+L02D07
+ Ich muß ihn ein paar Dinge fragen ... XXX
+// Hüter17 perso57
+L02D08
+ Alles klar. Geh nur durch. XXX
+// Arkhan1 L perso1
+L02D66
+ Schon gut, entschuldige, ich bin mit dem linken Fuß aufgestanden. XXX
+// Hüter17 perso57
+L02D09
+ Aha, dieser Ton ist mir schon lieber! XXX
+// Arkhan1 L perso1
+L02D10
+ Sonne sei über Dir, mein Freund! XXX
+// Hüter17 perso57
+L02D103
+ Licht sei über Dir, Arkhan.  XXX
+// Arkhan1 L perso1
+L02D11
+ Ich war schon einmal da... XXX
+// Hüter17 perso57
+L02D12
+ Gut, geh durch! XXX
+// Arkhan1 O perso1
+L02D13
+ Laß mich durch! XXX
+// Hüter17 perso57
+L02D14
+ Mußt Du mit dem Chef sprechen? XXX
+// Arkhan1 O perso1
+L02D15
+ Das geht Dich nichts an, geh zur Seite! XXX
+// Hüter17 (unzufrieden) perso57
+L02D16
+ Leg Dir einen anderen Ton zu, Hüter des Feuers. Dann sehen wir weiter. XXX
+// Arkhan1 O perso1
+L02D19
+ Verdammt, geh sofort zur Seite! XXX
+// Hüter17 (wütend) perso57
+L02D20A
+ Seit wann gibst Du hier die Befehle?! XXX
+// Hüter17 (wütend) perso57
+L02D20B
+ Sieht aus, als wolltest Du mit mir kämpfen! Da will ich Dich nicht enttäuschen! XXX
+// Arkhan1 O perso1
+L02D17
+ Schon wieder ein langweiliger Wachtag! XXX
+// Hüter17 perso57
+L02D18
+ Sei doch still! Wenn Dhorkan Dich hört, kommst Du in den Kerker! XXX
+// Arkhan2 L perso2
+L02D21
+ Hör mir zu, Muldar. Ich muß mit Dhorkan sprechen.  XXX
+// Arkhan3 L perso3
+L02D22
+ Laß mich durch. Es ist wichtig! XXX
+// Hüter17 perso57
+L02D23
+ Ich hab' klare Anweisungen, ich darf Dich nicht durchlassen! XXX
+// Arkhan2 L perso2
+L02D24
+ Hör mir zu. Ich komme nicht als Feind. Aber ich muß mit Dhorkan sprechen! XXX
+// Arkhan3 L perso3
+L02D25
+ (ungeduldiges Knurren) Es ist eine Frage von Leben und Tod! XXX
+// Hüter17 perso57
+L02D26
+ Nein, wenn ich die Befehle nicht befolge, kostet mich das Kopf und Kragen! XXX
+// Hüter17 perso57
+L02D27
+ Ausgeschlossen. Du kommst hier nicht hinein, vor allem nicht mit dieser Waffe in der Hand. XXX
+// Arkhan2 L perso2
+L02D28
+ Laß mich durch! Ich schwöre beim Sonnengott, daß ich keine bösen Absichten habe! XXX
+// Arkhan3 L perso3
+L02D29
+ Ich will nur mit Dhorkan sprechen ... ich schwör's! XXX
+// Hüter17 perso57
+L02D30
+ Da ich weiß, wer Du früher einmal warst, glaub' ich Dir.  XXX
+// Hüter17 perso57
+L02D31
+ Gut, ich glaub' Dir ... aber pack die Waffe weg! XXX
+// Arkhan2 L perso2
+L02D32
+ Muldar, ich flehe Dich an ... XXX
+// Arkhan3 L perso3
+L02D33
+ Muldar, laß mich durch! XXX
+// Hüter17 perso57
+L02D35A
+ Ich wiederhol' mich nicht gerne. XXX
+// Hüter17 perso57
+L02D35B
+ Mit einer Waffe in der Hand kommst Du mir nicht zum Profos hinein! XXX
+// Arkhan2 O perso2
+L02D36
+ Geh mir aus der Sonne, ich will mit Dhorkan sprechen! XXX
+// Arkhan3 O perso3
+L02D37
+ Zieh Leine! XXX
+// Hüter17 perso57
+L02D38
+ Niemals! XXX
+// Arkhan2 O perso2
+L02D39
+ Verschwinde hier oder ich streich' die Tür mit Deinem Gehirnsaft! XXX
+// Arkhan3 O perso3
+L02D40
+ (herausforderndes Knurren) XXX
+// Arkhan2 G perso2
+L02D42
+ Ich komm' wieder ... XXX
+// Arkhan3 G perso3
+L02D43
+ Ich komm' wieder ... XXX
+// Arkhan1 G perso1
+L02D44
+ Ganz ruhig! XXX
+// Arkhan2 G perso2
+L02D45
+ Halt! XXX
+// Arkhan3 G perso3
+L02D46
+ Das reicht! XXX
+// Arkhan1 O perso0
+L01D176
+ Sag bloß ! XXX
+//Arkhan2 O perso2
+L01D177
+ Sag bloß ! XXX
+//Arkhan3 O perso3
+L01D178
+ Sag bloß! XXX
+// Arkhan2 G perso2
+L02D47
+ Wir sind bald da ... XXX
+// Arkhan3 G perso3
+L02D48
+ Gleich sind wir da ... XXX
+// Delia perso10
+L02D49
+ Endlich! XXX
+// Delia (Arkhan zeigt Ihr einen Gegenstand) perso10
+L02D104
+ Nein. Ich bitte Dich, beeilen wir uns ... XXX
+// Arkhan2 L (hat sich mit Delia geschlagen) perso2
+L45D01
+ Es reicht, Delia, beruhige Dich! XXX
+// Arkhan2 O (hat sich mit Delia geschlagen) perso2
+L45D02
+ Hast Du noch nicht genug, Schlampe?! XXX
+// Arkhan3 L (hat sich mit Delia geschlagen) perso3
+L45D03
+ Genug jetzt! XXX
+// Delia (wird von Arkhan geschlagen) perso10
+L45D04
+ Was ist denn mit Dir los?!? XXX
+// Kalhi (beunruhigt) perso33
+L04D41
+ Arkhan! Was ist los mit Dir? XXX
+// Arkhan2 G perso2
+L04D51A
+ Was machst Du denn im Gefängnis? XXX
+// Arkhan3 G perso3
+L04D52A
+ Wer hat Dich in den Kerker geworfen? XXX
+// Kalhi perso13
+L04D53A
+ Die Hüter des Feuers, sie haben mich bei Rylsadhar erwischt.  XXX
+// Arkhan2 G perso2
+L04D51B
+ Und sie haben Dir Deinen Dolch gelassen? XXX
+// Arkhan2 G perso2
+L04D51C
+ Wir werden ja wirklich gut beschützt! XXX
+// Arkhan3 G perso3
+L04D52B
+ Und Deinen Dolch haben sie Dir nicht weggenommen?! Na hervorragend! XXX
+// Kalhi perso13
+L04D53B
+ Sie haben gesagt, daß Rylsadhar verschwunden ist und daß ich verdächtigt werde. XXX
+// Kalhi perso13
+L04D53C
+ Ich hab' versucht, es ihnen zu erklären, aber sie haben mich mitgenommen, ohne mich anzuhören. XXX
+// Arkhan2 L perso2
+L04D54
+ Was soll das denn heißen? XXX
+// Arkhan3 L perso3
+L04D55
+ Was soll das alles bedeuten?  XXX
+// Kalhi perso13
+L04D56A
+ Keine Ahnung...  XXX
+// Kalhi perso13
+L04D56B
+ Ich hab' Angst, daß Rylsadhar was passiert ist! XXX
+// Arkhan2 O (aggressiv) perso2
+L04D57
+ Wie konntest Du Dich nur erwischen lassen? XXX
+// Arkhan3 O (aggressiv) perso3
+L04D58
+ Wie dumm von Dir, mit ihnen mitzugehen! XXX
+// Kalhi (beleidigt) perso13
+L04D59
+ Was sollte ich denn tun? Wenn ich mich gewehrt hätte, hätten sie mich umgebracht! XXX
+// Arkhan2 G perso2
+L04D63A
+ Eines ist sicher: Mit meinem Gesicht kann ich nur auffallen. XXX
+// Arkhan2 G perso2
+L04D63B
+ Und die Kleidung einer Lumpensammlerin ...die fällt auch auf ... XXX
+// Arkhan3 G perso3
+L04D64A
+ Ein Dämon aus dem Reich der Finsternis und eine Lumpensammlerin ... XXX
+// Arkhan3 G perso3
+L04D64B
+ Wir fallen auf! XXX
+// Kalhi perso13
+L02D108
+ Wenn Du nur die Uniform des Gefängniswärters nicht zerrissen hättest ... XXX
+// Arkhan2 G (düster) perso2
+L02D101A
+ Hier ist praktisch keine Menschenseele ... Unten werden wir mehr Probleme haben. XXX
+// Arkhan3G (düster) perso3
+L02D101B
+ Hier ist alles ruhig... Unten werden wir mehr Probleme haben. XXX
+// Kalhi perso13
+L02D102
+ Das ist klar! Die werden uns nicht freiwillig gehen lassen. XXX
+// Arkhan2 G perso2
+L02D114A
+ Schau mal, das hab' ich bei Bogdaran gefunden. XXX
+// Arkhan2 G perso2
+L02D114B
+ Eine alte Uniform aus der Zeit, als er noch schlank war! XXX
+// Arkhan3 G perso3
+L02D115
+ Hier, zieh das mal an! XXX
+// Kalhi perso13
+L02D116
+ Hoffentlich paßt mir das. XXX
+// Arkhan2 G perso2
+L08D336
+ Schau Dir das an! XXX
+// Arkhan3 G perso3
+L08D337
+ Schau! XXX
+// Kalhi perso13
+L08D338
+ Wir haben keine Zeit, Arkhan, wir müssen hier raus! XXX
+// Arkhan2 G perso2
+L08D333
+ Wenn's schief geht, bist Du Schuld! XXX
+// Arkhan3 G perso3
+L08D334
+ Es ist alles Deine Schuld! XXX
+// Kalhi (muß sich wehren) perso33
+L04D43
+ Arkhan, nein! XXX
+// Kalhi (verängstigt) perso33
+L04D42
+ Nein, Arkhan! Du mußt dagegen ankämpfen! XXX
+// Arkhan2 G (amüsiert über Kalhi in Uniform) perso2
+L04D28A
+ Was für eine Uniform! Sehr schick! XXX
+// Arkhan2 G (amüsiert über Kalhi in Uniform) perso2
+L04D28B
+ Da kommt selbst Phedoria nicht mit! XXX
+// Arkhan3 G (amüsiert über Kalhi in Uniform) perso3
+L04D29
+ Eine echte ... Kriegerin! XXX
+// Kalhi perso33
+L04D30
+ Mach Dich nicht lustig über mich! Gehen wir jetzt! XXX
+// Kalhi perso13
+L08D341
+ Du läßt mir keine andere Wahl! XXX
+// Kalhi perso13
+L08D339
+ Hey, Achtung! XXX
+// Kalhi perso13
+L08D340
+ Nein, hör auf! XXX
+// Arkhan2 G perso2
+L02D200
+ Phedoria, ich hab' gute Gründe zu glauben, daß Dhorkan ein Verräter ist! XXX
+// Arkhan3 G perso3
+L02D201
+ Phedoria, ich glaube, Dhorkan ist ein Verräter. XXX
+// Phedoria perso26
+L02D202
+ Was sagst Du da? Das ist eine schwerwiegende Anschuldigung, die man nicht ohne Beweise vorbringt! XXX
+// Phedoria perso26
+L02D203A
+ Man kann das Gesetz nicht achten, wenn man seine Vertreter nicht achtet. XXX
+// Phedoria perso26
+L02D203B
+ Also keine finsteren Vermutungen, verstanden? XXX
+// Arkhan2 G perso2
+L02D204
+ Aber Phedoria ... XXX
+// Arkhan3 G perso3
+L02D205
+ Aber Phedoria ... XXX
+// Phedoria perso26
+L02D206
+ Ich dachte, ich hätte mich klar ausgedrückt. Mißtrauen ist kein Beweis! XXX
+// Arkhan2 G perso2
+L02D207
+ Also gut, ich bring' Dir Beweise... XXX
+// Arkhan3 G perso3
+L02D208
+ Also gut, ich bring' Dir Beweise... XXX
+// Arkhan2 G perso2
+L02D209
+ Schau, das ist der Beweis, daß Dhorkan ein Verräter ist! XXX
+// Arkhan3 G perso3
+L02D210
+ Lies! Dhorkan hat uns verraten! XXX
+// Phedoria perso26
+L02D211
+ Beim Sonnengott, Arkhan, Du hast recht! Schnell, wir müssen ihn aufhalten! XXX
+// Arkhan2 G perso2
+L02D212
+ Weißt Du, was das ist? XXX
+// Arkhan3 G perso3
+L02D213
+ Weißt Du, was das ist? XXX
+// Phedoria perso26
+L02D214
+ Das reicht, geh mir aus dem Licht! XXX
+// Phedoria (A. hat sie geschlagen) perso26
+L02D215
+ Tu das noch mal, und Du wirst es bedauern! XXX
+// Phedoria perso26
+L02D216
+ Ich hab' Dich gewarnt, mieser Verräter! XXX
+// Arkhan1 G perso2
+L02D298
+ Alte ausgediente Fässer ... XXX
+// Arkhan2 G perso2
+L02D300
+ Alte ausgediente Fässer ... XXX
+// Arkhan3 G perso3
+L02D301
+ Alte Fässer... XXX
+// Arkhan1 G perso1
+L02D299
+ Nichts als alte Fässer... XXX
+// Arkhan2 G perso2
+L02D302
+ Nur ein Haufen alte Fässer... XXX
+// Arkhan3 G perso3
+L02D303
+ Ein Haufen alte Fässer... XXX
+// Arkhan1 G perso1
+L02D308
+ Das ist der ehemalige Wachsaal. Er ist verschlossen. XXX
+// Arkhan2 G perso2
+L02D309
+ Der ehemalige Wachraum. Er ist verschlossen. XXX
+// Arkhan3 G perso3
+L02D310
+ Die Tür ist verschlossen ... XXX
+// Arkhan1 G perso1
+L02D311
+ Nein, hier kommt man wirklich nicht hinein. XXX
+// Arkhan2 G perso2
+L02D312
+ Nichts zu machen, hier kommt man nicht hinein! XXX
+// Arkhan3 G perso3
+L02D313
+ Hier kommt man nicht hinein! XXX
+// Arkhan1 L perso1
+L02D111A
+ Eine alte Übungspuppe. XXX
+// Arkhan1 L perso1
+L02D111B
+ An der da hab' ich meine ersten Waffenübungen gemacht! XXX
+// Arkhan1 L perso1
+L02D111C
+ Die da ist völlig verrostet, aber die Erbauer haben da oben eine neue gebaut. XXX
+// Arkhan1 O perso1
+L07D34A
+ Eine dieser unnützen Übungspuppen. XXX
+// Arkhan1 O perso1
+L07D34B
+ Ohne Knochen und Zähne, die man zerbrechen und einschlagen kann, das bringt doch keinen Spaß! XXX
+// Arkhan2 G perso2
+L02D112
+ Eine alte Übungspuppe für den Kampf.  XXX
+// Arkhan3 G perso3
+L02D113
+ Eine alte Übungspuppe. XXX

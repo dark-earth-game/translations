@@ -1,0 +1,106 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL22.TXT
+ // Arkhan2 L perso2
+L22D22
+ Das scheint bis zum Herzen der Erde hinunter zu gehen. XXX
+// Arkhan2 0 perso2
+L22D23
+ Ich könnte springen ... ein einfaches Mittel, um dem Ganzen ein Ende zu bereiten! XXX
+// Arkhan3 L perso3
+L22D24
+ Das scheint bis zum Herzen der Erde hinunter zu gehen. XXX
+// Arkhan3 0 perso3
+L22D25
+ Ich könnte springen ... Ein schneller, sauberer Tod ... XXX
+// Phedoria perso26
+L22D01
+ Wir müssen die Große Predigerin warnen! XXX
+// Arkhan2 L (vor Rylsadhars Leiche) perso2
+L22D12A
+ Vater! XXX
+// Arkhan2 L (vor Rylsadhars Leiche) perso2
+L22D12B
+ Ich schwöre es, ich werde Euch rächen! Thanandar wird sterben! XXX
+// Arkhan2 O perso2
+L22D13A
+ Thanandar! Du hast meinen Vater getötet! XXX
+// Arkhan2 O perso2
+L22D13B
+ Das wirst Du mir bezahlen! XXX
+// Arkhan3 L perso3
+L22D14
+ Vater! Ich werd Dich rächen! XXX
+// Arkhan3 O (zu sich selbst murmelnd)perso3
+L22D15
+ Vater! ... Ra... Rache! XXX
+// Arkhan2 L (vor Zeds Leiche) perso2
+L22D18A
+ Zed, mein Freund! XXX
+// Arkhan2 L perso2
+L22D18B
+ Ich schwöre es, ich werde' Dich rächen! Thanandar wird sich für seine Verbrechen verantworten! XXX
+// Arkhan2 O (rachsüchtig) perso2
+L22D19A
+ Thanandar! Du hast Zed getötet, meinen Bruder! XXX
+// Arkhan2 O perso2
+L22D19B
+ Du bist ein toter Mann! XXX
+// Arkhan3 L perso3
+L22D20
+ Zed, mein Bruder!... Ra... Rache! XXX
+// Arkhan3 O (rachsüchtig, brüllt)perso3
+L22D21
+ Thanandar! Du bist ein toter Mann! XXX
+// Arkhan2 L perso2
+L22D06A
+ Beim Rahal, die Energie, von der mein Vater gesprochen hat! XXX
+// Arkhan2 L perso2
+L22D06B
+ Hier ist endlich das Mittel, mit dem ich geheilt werden kann! XXX
+// Arkhan2 L perso2
+L22D06C
+ Ahhh... Ich brenne!... Innen... Ah! XXX
+// Arkhan2 L perso2
+L22D07A
+ Nein! Ich kann diesen Schmerz nicht mehr ertragen! XXX
+// Arkhan2 L perso2
+L22D07B
+ Es tut zu sehr weh, es bringt mich um! XXX
+// Arkhan2 O perso2
+L22D08A
+ Endlich! Die Energie, von der mein Vater mir erzählt hat! XXX
+// Arkhan2 O perso2
+L22D08B
+ Ich werde wieder gesund werden! XXX
+// Arkhan2 O perso2
+L22D16
+ Ich brauche mehr! XXX
+// Arkhan3 L perso3
+L22D09A
+ Die Quelle, die Energie! XXX
+// Arkhan3 L perso3
+L22D09B
+ Ich werd' gesund werden! XXX
+// Arkhan3 L perso2
+L22D09C
+ Aaah! Ich... brenne... Aah! XXX
+// Arkhan3 L perso3
+L22D10
+ Nein! Es bringt mich um! XXX
+// Arkhan3 O perso3
+L22D11
+ Beim Feuer, die Energie ... die Heilung! XXX
+// Arkhan3 O perso3
+L22D17
+ Mehr! XXX
+// Arkhan2 L perso2
+L22D02
+ Das Licht ist aus! Die Energiequelle ... ist versiegt. XXX
+// Arkhan2 O perso2
+L22D03
+ Nein... Das Licht ist aus! XXX
+// Arkhan3 L perso3
+L22D04
+ Das Licht ... die Energie ... aus! XXX
+// Arkhan3 O (wütend)perso3
+L22D05
+ Nichts mehr! XXX

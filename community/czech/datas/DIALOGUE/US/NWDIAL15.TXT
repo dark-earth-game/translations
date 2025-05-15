@@ -1,0 +1,1384 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL15.TXT
+ // Kalhi perso13
+L15D115
+ Arkhane, vysvetluju Danrysovi práve ... XXX
+// Danrys (den Rücken zugewendet) perso9
+L15D116
+ Tys mi neco vysvetlila?! Tys neco kricela a divoce gestikulovala a rychle mluvila jako knez ze sveho postu! XXX
+// Kalhi perso13
+L15D136
+ Ehm ... Danrys, mel by sis Arkhana prohlednout ... XXX
+// Kalhi perso13
+L15D459
+ Arkhane, to jsi ty konecne! XXX
+// Danrys (den Rücken zugewendet) perso9
+L15D460
+ Kalhi, nekric tak prece tak! XXX
+// Kalhi (vor dem toten D.) perso13
+L15D200A
+ Danrysi! Danrysi! Mùj príteli.... To prece není mozne... Ty ne... XXX
+// Kalhi (wütend!) perso13
+L15D200B
+ Zatracene! Ty budeš pomsten! XXX
+// Kalhi (erhebt sich, entschlossen) perso13
+L15D200C
+ Pomsta! XXX
+// Danrys (A. war nach der Schlägerei gegangen) perso9
+L15D02B
+ Ty jsi zpet? Doufejme ze ty si ses mezitím uklidnil! XXX
+// Kalhi (fassungslos) perso13
+L03D500A
+ Arkhane! Ty ... Proc jsi to ucinil? XXX
+// Kalhi (fassungslos) perso13
+L03D500B
+ Tento jed ... delá te šíleným! XXX
+// Danrys perso9
+L15D76C
+ Ty jsi se jiste zbláznil! XXX
+// Kalhi (erschrocken, weil A. Danrys schlägt)perso13
+L15D456
+ Arkhane, ne! XXX
+// Kalhi (geht zu A.)perso13
+L15D135A
+ Tu jsi ty! XXX
+// Kalhi (geht zu A.)perso13
+L15D135B
+ Já te videla prijít ... XXX
+// Danrys perso9
+L15D02A
+ U Slunecního Boha! Arkhane! To jsi ty... XXX
+// Arkhan2 G perso2
+L15D137A
+ ...Nemoc. Já chtel Lory zachránit a tím jsem byl kontamimován jedem Temne Zeme. XXX
+// Arkhan3 G perso3
+L15D137B
+ ...Nemocný... Kontaminovaný skrz jed, kdyz já chtel Lory ochránit. XXX
+// Danrys perso9
+L15D02Z
+ To já neslyším já vùbec rád ... XXX
+// Arkhan2 G (ruft D., der arbeitet) perso2
+L15D01A
+ Hej, Danrysi! XXX
+// Arkhan3 G (ruft D., der arbeitet) perso3
+L15D01B
+ Danrysi! XXX
+// Danrys perso9
+L15D03A
+ Ano, Arkhane? XXX
+// Danrys (A. entfernt sich, kehrt dann wieder zurück) perso9
+L15D03B
+ Zapomnel jsi neco? XXX
+// Arkhan2 G (spricht laut, um den Lärm der Maschine zu übertönen)perso2
+L15D01C
+ Danrysi! XXX
+// Arkhan3 G (spricht laut, um den Lärm der Maschine zu übertönen)perso3
+L15D01D
+ Danrysi! XXX
+// Danrys perso9
+L15D97A
+ Já ti vùbec nerozumím! XXX
+// Danrys perso9
+L15D97B
+ Já brusnou mašinu vypnu! XXX
+// Danrys (hat die Schleifmaschine ausgeschaltet) perso9
+L15D03C
+ Ah, klid po tom hluku! XXX
+// Danrys perso9
+L15D98
+ Kdo je to? Arkhane, jsi to ty? XXX
+// Danrys perso9
+L15D99
+ Ah! To jsi ty! XXX
+// Danrys perso9
+L15D101
+ Jiz dobre! Vypni mašinu! XXX
+// Danrys perso9
+L15D900A
+ Zde! Já ten kristal vybrousil, který jsi chtel. XXX
+// Danrys perso9
+L15D900B
+ On není tak prirozene perfektní, ale to musí jít ... XXX
+// Danrys (gibt Arkhan die Waffe zurück) perso9
+L15D900C
+ Zde, jak nová! XXX
+// Danrys (gibt Arkhan die Waffe zurück) perso9
+L15D900D
+ Je mi to líto, Arkhane ... Ona mne praskla! XXX
+// Danrys (ruft A., der am Gehen war) perso9
+L15D505
+ Pockej! Tvoje zbrane! XXX
+// Danrys (holt A. ein) perso9
+L15D504
+ Prines mi je zpet, az ty chceš, abych je opravil ... XXX
+// Danrys (dem aggressiven A. gegenüber) perso9
+L15D04
+ Arkhane, uklidni se! Já jsem tvùj starý prítel, Danrys! XXX
+// Danrys (A. beruhigt sich) perso9
+L15D05
+ Uff! Ty jsi obrovský strach nahnal! XXX
+// Arkhan2 G perso2
+L15D84A
+ Poslední kristal! Klíc je ùplný! XXX
+// Arkhan3 G perso3
+L15D84B
+ Poslední kristal! Klíc je ùplný! XXX
+// Arkhan2 G (entdeckt den toten D.) perso2
+L15D113A
+ Danrysi ... Ty ne, mùj príteli! XXX
+// Arkhan3 G (entdeckt den toten D.) perso3
+L15D113B
+ Danrysi ... ty take! XXX
+// Arkhan2 G perso2
+L15D114A
+ To mi oni zaplatí! XXX
+// Arkhan3 G perso3
+L15D114B
+ To mi oni zaplatí! XXX
+// Danrys (A. schlägt D.) perso9
+L15D76A
+ Oh! Tak mne prece roztrháš! XXX
+// Arkhan2 L perso2
+L15D300A
+ Danrysi ... Já potrebuju tvojí pomoc, mùj príteli. XXX
+// Arkhan2 L perso2
+L15D300B
+ Strázci ohne nahore jdou pro mne dolù. XXX
+// Arkhan2 O perso2
+L15D301A
+ Já tkvím v tísni, Danrysi! XXX
+// Arkhan2 O perso2
+L15D301B
+ Nemohu se na nikoho spolehnout ... mimo tebe a Kalhi. XXX
+// Arkhan2 O perso2
+L15D301C
+ Strázci ohne nahore jdou vzadu po mne. XXX
+// Arkhan3 L perso3
+L15D302A
+ Danrysi, pomoz mi ... XXX
+// Arkhan3 L perso3
+L15D302B
+ Ta nemoc se roztahuje stále více ve mne. Já stávám se divokým zvíretem! XXX
+// Arkhan3 L perso3
+L15D302C
+ Hledají mne nahore a chtejí mne usmrtit. XXX
+// Arkhan3 O perso3
+L15D303A
+ Danrysi, pomoz mi, já zemru ... XXX
+// Arkhan3 O perso3
+L15D303B
+ Nemoc mne znicí. XXX
+// Arkhan3 O perso3
+L15D303C
+ A ty nahore jsou mi všichni v patách! XXX
+// Kalhi (hitzig)perso13
+L15D304A
+ Je to pravda, Danrysi. Dhorkan uchopil Horní mesto do sve moci. XXX
+// Kalhi perso13
+L15D304B
+ Strázci ohne mne do vezení hodili ...  XXX
+// Kalhi perso13
+L15D304C
+ A jdo po Arkhanovi sem, aby ho usmrtili! XXX
+// Danrys perso9
+L15D305
+ Uklidni se, Kalhi. Nerozciluj se! XXX
+// Danrys perso9
+L15D306A
+ A ty, Arkhane, ty víš, ze se mùzeš na mne spolehnout. XXX
+// Danrys perso9
+L15D306B
+ Já uciním všechno, abych ti pomohl ... XXX
+// Arkhan2 G perso2
+L15D08A
+ Mùzeš tuto zbran opravit? XXX
+// Arkhan3 G perso3
+L15D08B
+ Tuto zbran zde. Mùze být opravena? XXX
+// Danrys perso9
+L15D901A
+ Ne, na laser od predkù já nemùzu nic udelat. XXX
+// Danrys perso9
+L15D901B
+ Je tam príliš mnoho cástí vevnitr, proto já nemám nutne náradí. XXX
+// Danrys perso9
+L15D11A
+ Vypadá prece, jako by byl on velmi dobre zachován.  XXX
+// Danrys perso9
+L15D11B
+ Podívej se pouze, zda ty správnou munici máš. XXX
+// Danrys perso9
+L15D11C
+ Ona je v porádku, já nevím, co já bych mohl na ní opravit ... XXX
+// Danrys perso9
+L15D09
+ Ano, já myslím ... XXX
+// Danrys perso9
+L15D21C
+ Jdi dozadu a vypni brzdu brusky! XXX
+// Danrys perso9
+L15D131A
+ Tvoje zbran je rozbitá. XXX
+// Danrys perso9
+L15D131B
+ To nemohu bohuzel nic udelat ... XXX
+// Arkhan2 G perso2
+L15D12C
+ Kannst Du dieses Teil für den Feuerwerfer gebrauchen? XXX
+// Arkhan3 G perso3
+L15D12D
+ Myslíš, ze to jde pro plamenomet? XXX
+// Danrys perso9
+L15D14A
+ Ukaz ... hmm ...  XXX
+// Danrys perso9
+L15D14B
+ Ano... ano... Já myslím, to musí jít.  XXX
+// Danrys perso9
+L15D14C
+ Dej to sem, vyplatí se o to pokusit. XXX
+// Danrys perso9
+L15D14D
+ Já ti tuto zbran postavím. XXX
+// Danrys perso9
+L15D14E
+ S tímto netroufne si nikdo, postavit se proti tobe! XXX
+// Arkhan2 G (zeigt den Ring)perso2
+L15D322
+ Hledám kristaly...  XXX
+// Arkhan3 G (zeigt den Ring)perso3
+L15D323
+ Hledám kristaly... XXX
+// Danrys (unsicher)perso9
+L15D324
+ Proklatý more, co je to? XXX
+// Arkhan2 L perso2
+L15D325A
+ Mùj otec mnel klíc, který ze ctyr cástí krystalu sestával. XXX
+// Arkhan2 L perso2
+L15D325B
+ On mnel kazdý kousek nejake osobe dát, kterým on dùveroval. XXX
+// Arkhan2 L perso2
+L15D325C
+ Lory byla jednou z nich, která mi kruh na klíce dala. XXX
+// Arkhan2 L perso2
+L15D325D
+ Já musím ale ostatní tri krystaly najít. XXX
+// Arkhan2 O perso2
+L15D326A
+ Nech mne jít dál! XXX
+// Arkhan2 O perso2
+L15D326B
+ Mùj otec mnel klíc, který ze ctyr krystalù sestával. XXX
+// Arkhan2 O perso2
+L15D326C
+ Problem je, ze je dal pryc, a neví se komu. XXX
+// Arkhan2 O perso2
+L15D326D
+ Velká knezka mi dala cást, a já musím ostatní tri rychle najít. XXX
+// Arkhan3 G perso3
+L15D327A
+ Ctyri krystaly, ktere klíc tvorí. XXX
+// Arkhan3 G perso3
+L15D327B
+ Ten patril memu otci. On ty kousky jiným vydal. XXX
+// Arkhan3 G perso3
+L15D327C
+ Já musím je opet najít, rychle. XXX
+// Danrys perso9
+L15D324Y
+ Kristaly tohoto druhu já videl málokdy. XXX
+// Danrys perso9
+L15D324Z
+ Zárive objekty jako je tento naleznou se spíše u knezù. XXX
+// Arkhan2 G perso2
+L15D328
+Lory mi rekla, ze Bandor, Mister stavitel, snad jeden má. XXX
+// Arkhan3 G perso3
+L15D329
+ Lory myslí, ze Mistr stavitel jeden má ... snad. XXX
+// Danrys perso9
+L15D330A
+ Bandor! XXX
+// Danrys perso9
+L15D330B
+ On byl s jeho architektem od nejakýho casu ve spodním meste ... XXX
+// Danrys perso9
+L15D330C
+ Ale já jsem si jistý, ze se on, pote co se to stalo, do jeho veze vrátil. XXX
+// Danrys perso9
+L15D330D
+ Pokud se pokusíš, s ním mluvit, popadni jeho sametove rukavice, tento typ je neuveritelne bojácný. XXX
+// Danrys (Indiz: das Wort "Plan")  perso9
+L15D330E
+ Wenn es nicht um seine Träume und seine Pläne gegangen wär', hätte er sich niemals getraut, hier herunter zu kommen ... XXX
+// Arkhan2 G perso2
+L15D331
+ Nevíš ty náhodou, komu mùj otec tyto krystaly dal? XXX
+// Arkhan3 G perso3
+L15D332
+ Komu mohl mùj otec tytu krystaly dát? XXX
+// Danrys perso9
+L15D333
+ Já nevím. Mne nikdo nenapadá ... XXX
+// Danrys (A. wiederholt die Frage) perso9
+L15D334
+ Ne, skutecne, já ti jiz rekl, ze to já nevím ... XXX
+// Arkhan2 G (zeigt den Kristall, ohne den Ring gezeigt zu haben)perso2
+L15D335
+ Mohl bys mi takový kristal obstarat? XXX
+// Arkhan3 G (zeigt den Kristall, ohne den Ring zu zeigen)perso3
+L15D336
+ Máš ty takový kristal? XXX
+// Danrys (verwirrt)perso9
+L15D337
+ Co je to? XXX
+// Arkhan2 L perso2
+L15D338A
+ Já musím klíc z kristalu, který memu otci patril, dát dohromady. XXX
+// Arkhan2 L perso2
+L15D338B
+ Ctyri cásti potrebuju na to, ale já je nenalezl. XXX
+// Arkhan2 L perso2
+L15D338C
+ Mùzeš ty to nejak vyrobit? XXX
+// Arkhan2 O perso2
+L15D339A
+ Mùj otec mel klíc, který se skládal ze ctyr cástí. Ty on dal pryc ... ich weiß nur nicht, an wen! XXX
+// Arkhan2 O perso2
+L15D339B
+ Já potrebuju tento klíc, a to hned!  XXX
+// Arkhan2 O perso2
+L15D339C
+ Snad mohl bys ho vyrobit, s tím bych chybející cást mohl nahradit. XXX
+// Danrys (überlegt) perso9
+L15D340A
+ Rozumím... Hmm... XXX
+// Danrys perso9
+L15D340B
+ Kdyz klíc ze trech špicatých krystalù a kruhu sloziš, musím je videt kvùli poslednímu krystalu ... XXX
+// Danrys perso9
+L15D340C
+ Já bych mohl chybející cást vyrobit, a nahradit jej. XXX
+// Arkhan2 G perso2
+L15D341
+ Já krystal jiz našel ... Chybí mi ale ješte. XXX
+// Arkhan2 G perso2
+L15D342
+ Tedy, mùzeš ty mi jeden vyrobit? XXX
+// Arkhan3 G perso3
+L15D343
+ Mùzeš tedy? XXX
+// Danrys perso9
+L15D344
+ Ano. Ale jak jsem rekl, musím já ostatní krystaly videt. XXX
+// Arkhan2 L perso2
+L15D345
+ Tu je jiný kristal, jak jsi chtel. XXX
+// Arkhan2 O perso2
+L15D346
+ Ty jsi chtel jiný Kristal. Zde je on! XXX
+// Arkhan3 L perso3
+L15D347
+ Zde je druhý kristal. XXX
+// Arkhan3 O (Knurren)perso3
+L15D348
+ Jiný kristal. XXX
+// Danrys perso9
+L15D23A
+ Pak nechám si ho k prohlednutí ... XXX
+// Danrys perso9
+L15D23B
+ Aha, to je Rahala, symbol knezù. XXX
+// Danrys perso9
+L15D23C
+ Já mohl bych ti vlastne Kristall se správnými mýrami vybrousit. XXX
+// Danrys perso9
+L15D23D
+ Problem bude, nyní je najít. XXX
+// Danrys perso9
+L15D23E
+ Tento druh materiálu bohuzel nepovaluje se zde na silnici okolo ... XXX
+// Danrys (1. Mal) perso9
+L15D24B
+ S kremenem mohlo by to vyjít, kdyz se z brousí. XXX
+// Danrys (2. Mal) perso9
+L15D24A
+ Já ti prece rekl, sezen kremen ... XXX
+// Danrys perso9
+L15D21A
+ Pak já mùzu chybející kousek vyrobit. ... XXX
+// Danrys perso9
+L15D21B
+ Nahod jiz brusku, já se jiz o to postarám. XXX
+// Arkhan2 G perso2
+L15D608
+ To je nejaká substance od predkù, neco explodujícího. XXX
+// Arkhan3 G perso3
+L15D609
+ Nejaká substance od predkù. Explozivní. XXX
+// Danrys perso9
+L15D610
+ To je zajímavý ... Ale co s tím udeláš? XXX
+// Arkhan2 G perso2
+L15D611
+ Já ješte nevím ... XXX
+// Arkhan3 G perso3
+L15D612
+ Já ješte nevím. Ješte ne. XXX
+// Arkhan2 G perso2
+L15D604
+ Víš ty, co to je? XXX
+// Arkhan3 G perso3
+L15D605
+ Víš ty, co to je? XXX
+// Danrys perso9
+L15D607A
+ Já ti prece rekl, Bogdaran mùze spíše ti ríct, co je to. XXX
+// Danrys perso9
+L15D607B
+ On je nervozní a neustále naríká, ale ví mnoho. XXX
+// Danrys perso9
+L15D606A
+ Vec od predkù ... To je vzácná hmota ... XXX
+// Danrys perso9
+L15D606B
+ Mel bys ty to Mistrovi oleje, Bogdaranovi, ukázat. XXX
+// Arkhan2 L perso2
+L15D468
+ Já našel venku tento kámen. XXX
+// Arkhan2 O perso2
+L15D469
+ Mùzeš si tento kámen prohlednout? XXX
+// Arkhan3 G perso3
+L15D470
+ Já tento kámen našel... XXX
+// Danrys perso9
+L15D471
+ Krystal z hory! Díky, to mohlo by mi dále pomoci. XXX
+// Arkhan2 L perso2
+L15D350
+ Já myslím, ze já krystal z hory našel, který ty hledáš! XXX
+// Arkhan2 O perso2
+L15D351
+ Já doufám, ze je to ono, co ty chceš, nebot já u toho málem zahynul! XXX
+// Arkhan3 L perso3
+L15D352
+ Já myslím, ze mám kristal z hory, který ty potrebuješ. XXX
+// Arkhan3 O perso3
+L15D353
+ (Knurren) Chtel bys to? XXX
+// Danrys perso9
+L15D354
+ Dobres udelal, Arkhane! Já ti chybející cást mohu vyrobit. XXX
+// Arkhan2 G perso2
+L15D356A
+ Ty nepotrebuješ nyní nic více, nez konecne poslední krystal najít. XXX
+// Arkhan2 G perso2
+L15D356B
+ Vezmi si to presto. To te více ochrání nez mne! XXX
+// Arkhan3 G perso3
+L15D357A
+ To nepotrebuješ ty více, já jej jiz našel. XXX
+// Arkhan3 G perso3
+L15D357B
+ Ale to je to, co si mùzeš ponechat. XXX
+// Arkhan2 L perso2
+L15D600
+ Mùzeš precíst, co zde stojí? XXX
+// Arkhan2 O perso2
+L15D601
+ Mùzeš ty to precíst? XXX
+// Arkhan3 G perso3
+L15D602
+ Co zde stojí? XXX
+// Danrys perso9
+L15D603A
+ Ty víš prece, Arkhane, ze ctení není mojí silnou zbraní. XXX
+// Danrys perso9
+L15D603B
+ Nechtel bys mi to radeji vyprávet ... XXX
+// Arkhan2 L perso2
+L15D358A
+ Já tento plán ve skrýši Konkalitù našel. XXX
+// Arkhan2 L perso2
+L15D358B
+ Ty vyznáš se prece v takových vecech - víš ty, co to je? XXX
+// Arkhan2 O perso2
+L15D359A
+ Já jsem tento plán. XXX
+// Arkhan2 O perso2
+L15D359B
+ Ty víš prece všechno: Rekni mi, zda se vyplatí, seinem Besitzer eine Lehre zu erteilen. XXX
+// Arkhan3 L perso3
+L15D360
+ Tento plán ... víš ty co je to? XXX
+// Arkhan3 O perso3
+L15D361
+ Tento plán ... co je to? XXX
+// Danrys perso9
+L15D362A
+ Ukaz to... Hmm... Ano, to poznávám... XXX
+// Danrys perso9
+L15D362B
+ To je plán nove zbrane. Vynález stavitelù. XXX
+// Danrys perso9
+L15D362C
+ Já vzpomínám si na to, ze jim byl tento plán ukradený. XXX
+// Danrys perso9
+L15D362D
+ Oni udelali tenkrát obrovský divadlo kvùli tomu, ale Dhorkan zádne pátrání nevyhlásil ... XXX
+// Danrys perso9
+L15D362E
+ Slunecní Bùh ti jej do rukou dal, bylo by zajímave se podívat, zdali tato slavný "plamenomet" mùze být postavený." XXX
+// Arkhan2 G perso2
+L15D363
+ Plamenomet? XXX
+// Arkhan3 G perso3
+L15D364
+ Plamenomet? XXX
+// Danrys perso9
+L15D365A
+ Ano, tak ho oni nazvali.  XXX
+// Danrys perso9
+L15D365B
+ To je velký ohnový zásobník, který vrhá malý proud s horícím vnitrkem ven. XXX
+// Danrys (untersucht den Plan) perso9
+L15D365C
+ Pera ... spouštedlo ... spoušt. Tyto cásti mohli by být vlastne vyrobeny ...  XXX
+// Danrys perso9
+L15D365D
+ Co já potrebuj, je obrovske drzadlo, k drzení zbrane a mechanismus ke spouštení. XXX
+// Danrys perso9
+L15D365E
+ Bylo by dobre, kdybys to mohl sehnat, zatímco se postarám o zbytky. XXX
+// Danrys perso9
+L15D365F
+ Jdi prece k Vorbesitzer zpet, snad dá ti tentokrát drzadlo. XXX
+// Arkhan2 G perso2
+L15D463
+ Ne, ten mi nic více uz nerekne. Ale já najdu nejake drzadlo. XXX
+// Arkhan3 G perso3
+L15D464
+ Ten mi nic více nerekne. Ale já drzadlo najdu. XXX
+// Arkhan2 G perso2
+L15D366A
+ Já tuto flašku od predkù našel ...  XXX
+// Arkhan2 G perso2
+L15D366B
+ Pokud ty na knoflík nahore zmáckneš, zasycí unikající vzduch jako had. XXX
+// Arkhan3 G perso3
+L15D367A
+ Tato flaška od predkù ... XXX
+// Arkhan3 G perso3
+L15D367B
+ Pokud tlacítko zmáckneš, unikne vzduch ... XXX
+// Danrys perso9
+L15D368A
+ Ano, to já jiz jednou videl. XXX
+// Danrys perso9
+L15D368B
+ S motorem vzadu mùze se tak flaška vzduchem opet naplnit. XXX
+// Danrys perso9
+L15D368C
+ To funguje take s touto dozou od predkù, víš, s vysušenou potravou uvnitr. XXX
+// Arkhan2 G perso2
+L15D369
+ Co jsi ty o teto flašce vyprável? XXX
+// Arkhan3 G perso3
+L15D370
+ Rekni ješte jednou, co jsi ty o teto flašce vyprável. XXX
+// Danrys perso9
+L15D371A
+ Vidíš ty tamtu vec od predkù vzadu v dílne? XXX
+// Danrys perso9
+L15D371B
+ To je tzv motor. S tím já mohu ti flašku vyprázdnit nebo vzduchem naplnit. XXX
+// Danrys perso9
+L15D371C
+ Tak lide predkù pod vodou zily. XXX
+// Danrys perso9
+L15D371D
+ Oni si vzali vzduch do flašky jako tato s sebouwie dieser mit sich. XXX
+// Danrys perso9
+L15D371E
+ Zatracene ješte jednou! Pokud vy mladí lide mne trochu lepe nebudete poslouchat, bude všechno, co já vím, se mnou zmizí, az já odejdu k Slunecnímu Bohu ... XXX
+// Arkhan2 L (Konservenbüchse)perso2
+L15D372
+ Ty jsi dal vyzivovateli toto venku, nemám pravdu? Co je to? XXX
+// Arkhan2 O perso2
+L15D373A
+ Tuto krabicku jsi daroval vyzivovateli, nebo? XXX
+// Arkhan2 O perso2
+L15D373B
+ Neríkej mi, co to bylo za protisluzbu, já chci pouze vedet, co to je! XXX
+// Danrys (pas amusé) perso9
+L15D375A
+ Ha, ha! Velmi vesele! Vypadá to, jako by ti nemoc jiz mozek ozírala! XXX
+// Arkhan3 G perso3
+L15D374
+ Co je to za krabicku? XXX
+// Danrys perso9
+L15D375B
+ Lide od predkù sušene potraviny, v takovýchto krabicích konservovali. XXX
+// Danrys perso9
+L15D375C
+ A pak udelali takoveto krabicky. XXX
+// Arkhan2 G perso2
+L15D376
+ Und was hältst Du davon, Danrys? XXX
+// Arkhan3 G perso3
+L15D377
+ Danrysi, to jsi videl? XXX
+// Danrys perso9
+L15D378
+ Zapomen na to, lepe uciníš, nez abys jako smetak se stal. XXX
+// Danrys perso9
+L15D379
+ S tím nemohu já bohuzel nic pocít. XXX
+// Arkhan2 L perso2
+L15D380A
+ Ty chceš, abych já ti drzadlo pro plamenomet prinesl. XXX
+// Arkhan2 L perso2
+L15D380B
+ Jak pak to vypadá? XXX
+// Arkhan2 O perso2
+L15D381
+ Wenn ich für Dich den Lumpensammler spielen und einen Griff für den Feuerwerfer finden soll, sag mir wenigstens, wie sowas aussieht. XXX
+// Arkhan3 G perso3
+L15D382
+ Proc chceš drzadlo pro plamenomen? XXX
+// Danrys perso9
+L15D383A
+ Já potrebuju solidní drzák, dosti široký pro tve ruce. XXX
+// Danrys perso9
+L15D383B
+ Pouzije se na zbran, pravý a levý od kanonu, dobre upevnený. XXX
+// Danrys perso9
+L15D383C
+ Já ti rekl ... no, priblizne tri Zoll široký. XXX
+// Danrys perso9
+L15D383D
+ Nezapomen, jakmile to sezeneš, já postarám se o ostatní. XXX
+// Arkhan2 G perso2
+L15D384
+ Vysvetli mi ješte jednou, jak drzadlo vypadá. XXX
+// Arkhan3 G perso3
+L15D385
+ Rekni mi ješte jednou, co to má být za drzadlo. XXX
+// Danrys perso9
+L15D386A
+ Musím já ti všechno stokrát opakovat? XXX
+// Danrys perso9
+L15D386B
+ Kovový drzadlo, nahoru se upevný kanon, capito? XXX
+// Danrys perso9
+L15D386C
+ Pokud ty takovýš drzadlo nesezeneš, pak máme my smùlu! XXX
+// Arkhan2 L perso2
+L15D387
+ Tedy, máš ty ten plamenomet hotový? XXX
+// Arkhan2 O perso2
+L15D388
+ Hej, je mùj plamenomet hotový? XXX
+// Arkhan3 L perso3
+L15D389
+ Tedy, co je s mým plamenometem? XXX
+// Arkhan3 O perso3
+L15D390
+ Já chci mùj plamenomet! XXX
+// Danrys perso9
+L15D391A
+ Nejsem ješte hotový. Nepospíchej taj prece! XXX
+// Danrys perso9
+L15D391B
+ Nech mi ješte nejaký cas, srozumneno? XXX
+// Danrys (genervt)perso9
+L15D392A
+ Myslíš si ty, ze je to tak jednoduche? XXX
+// Danrys (genervt)perso9
+L15D392B
+ Nech mi nejaký cas, jak jsem ti rekl! XXX
+// Danrys perso9
+L15D393A
+ Zde je tvùj plamenomet! Já ti ho dokonce nabil. XXX
+// Danrys perso9
+L15D393B
+ Ale opatrne, my nemáme mnoho munice. XXX
+// Danrys (genervt) perso9
+L15D394A
+ Zde on je! Ty vypadáš, ty nepotrebuješ být tak nervozní! XXX
+// Danrys perso9
+L15D394B
+ Já ho nabil, ale dávej pozor, ty nemáš mnoho munice. XXX
+// Arkhan2 L perso2
+L15D395
+ Kalhi tu není? XXX
+// Arkhan2 O perso2
+L15D396
+ Kdepak je Kalhi?! XXX
+// Arkhan3 L perso3
+L15D397
+ Kde je Kalhi? XXX
+// Arkhan3 O perso3
+L15D398
+ Kalhi?! XXX
+// Danrys perso9
+L15D399A
+ Ona pred chvílí odešla ...  XXX
+// Danrys perso9
+L15D399B
+ Ríkala, ze musí neco bezpodmínecne udelat, aby ti pomohla. XXX
+// Danrys perso9
+L15D399C
+ Znáš jí prece, vzdy první na fronte! XXX
+// Arkhan2 L perso2
+L15D400
+ Kalhi je u tebe? XXX
+// Arkhan2 O perso2
+L15D401
+ Kdepak je Kalhi jiz opet? XXX
+// Arkhan3 L perso3
+L15D402
+ Je Kalhi tady? XXX
+// Danrys perso9
+L15D403A
+ Ne, ona jiz opet odešla. XXX
+// Danrys perso9
+L15D403B
+ Ona sedela zde jak na horkým uhlí ... XXX
+// Arkhan2 G (unruhig)perso2
+L15D404
+ Kdepak je Kalhi? XXX
+// Arkhan3 G (unruhig)perso3
+L15D405
+ Kalhi... Kde ona je? XXX
+// Danrys perso9
+L15D406A
+ Já nevím, kde ona je, ale mel by ses pokusit, jí opet najít. XXX
+// Danrys perso9
+L15D406B
+ Delej rychle, po tom všem, co se zde prihodilo, mám já strach o ní! XXX
+// Arkhan2 L perso2
+L15D902
+ Danrys... Kalhi je mrtvá... XXX
+// Arkhan2 O perso2
+L15D903
+ Kalhi je mrtvá! Mrtvá! XXX
+// Arkhan3 L perso3
+L15D904
+ Danrys... Kalhi... je mrtvá! XXX
+// Arkhan3 O perso3
+L15D905
+ Kalhi je mrtvá! Raaah! XXX
+// Danrys perso9
+L15D906A
+ Oh ne! XXX
+// Danrys (traurig)perso9
+L15D906B
+ To ubohe díte ... Tak mladá ... príliš ... XXX
+// Danrys perso9
+L15D906C
+ Nevzdávej se, Arkhane! Kdybys to vzdal, je její smrt zbytecná! XXX
+// Danrys perso9
+L15D906D
+ Pokud si jí miloval, mel bys bojovat, svet zachránit, který ona milovala, ten svet, který ona kazdým dne v jejím srdci nove tvorila! XXX
+// Danrys perso9
+L15D906E
+ Bojuj, abys zachránil lidstvo! XXX
+// Arkhan2 G perso2
+L15D55A
+ Musím najít prostredek, abych se opet uzdravil. A to hned! XXX
+// Arkhan3 G perso3
+L15D55B
+ Musím najít protilek, velmi rychle. XXX
+// Danrys (überlegt) perso9
+L15D56A
+ Protilek... Ano... XXX
+// Danrys perso9
+L15D56B
+ Já nemohu mnoho pro tebe ucinit. XXX
+// Danrys perso9
+L15D56C
+ Kdo ti zde mùze pomoci, je Armal Sadak. XXX
+// Arkhan2 G perso2
+L15D457
+ Já jiz s ním mluvil, já nevím, zda on mi mùze skutecne pomoci. XXX
+// Arkhan3 G perso3
+L15D458
+ Mluvil jsem s ním. Není jiste, ze mi mùze nejak pomoci. XXX
+// Arkhan2 G perso2
+L15D57A
+ Kdo je vlastne tenhle Armal Sadak? XXX
+// Arkhan3 G perso3
+L15D57B
+ Vyprávej mi o Armal Sadak. XXX
+// Danrys perso9
+L15D58A
+ Er ist über viele Dinge auf dem laufenden...  XXX
+// Danrys perso9
+L15D58B
+ On nezije daleko odsud, v jednom velkem kovovem clunu. XXX
+// Danrys perso9
+L15D58C
+ Nejvíce smetákù v tomto koute pracuje pro nej. XXX
+// Danrys perso9
+L15D58D
+ Pro jejich ochranu dávají oni jemu z toho, co oni najdou. XXX
+// Arkhan2 G perso2
+L15D500
+ Ty take? XXX
+// Arkhan3 G perso3
+L15D501
+ A ty? XXX
+// Danrys perso9
+L15D502A
+ Oh, u mne je to jine. Já nedluzím jemu nic, a on nechává mne v pokoji. XXX
+// Danrys perso9
+L15D502B
+ A jako ostatní je on rád, ze jsem tady, kdyz on ode mne potrebuje ... XXX
+// Danrys perso9
+L15D502C
+ Bud ale opatrný, prosíš li ho o pomoc. XXX
+// Danrys perso9
+L15D502D
+ Armal Sadak neciní nikdy nic zadarmo. XXX
+// Arkhan2 G perso2
+L15D550A
+ Byl jsem u Armal Sadaka ve skrýši. XXX
+// Arkhan2 G perso2
+L15D550B
+ Oni nejsou práve výrecný! XXX
+// Arkhan3 G perso3
+L15D551A
+ Byl jsem u Armala Sadaka ve skrýši. XXX
+// Arkhan3 G perso3
+L15D551B
+ Ale tento typ je velmi málo výrecný! XXX
+// Danrys perso9
+L15D552A
+ Hmm... jasný, oni te neznají... XXX
+// Danrys perso9
+L15D552B
+ Ich hätte mir denken können, daß sie Dich rausschmeißen. XXX
+// Danrys perso9
+L15D552C
+ Poslouchej mne, jdi ješte jednou zpet a rekni, ze pricházíš ode mne. A rekni mu následující vety: XXX
+// Danrys perso9
+L15D552D
+ "Clovek není jako hrací kámen, den die Hand des Schicksals mal in den Schatten, ve svetle se utápí". XXX
+// Arkhan2 G (wiederholt) perso2
+L15D553
+ Clovek není jako hrací kámen... den die Hand des Schicksals... mal in den Schatten... ve svetle se utápí. XXX
+// Arkhan3 G (wiederholt) perso3
+L15D554
+ Der Mensch ist nichts als ein Spielstein... den die Hand des Schicksals... mal in den Schatten... mal in das Licht taucht. XXX
+// Danrys perso9
+L15D555A
+ Presne. Tak mohou si být jistí, ze ty k nám patríš. XXX
+// Danrys perso9
+L15D555B
+ Ale dávej pozor, die Typen da sind ganz schön abgebrüht! XXX
+// Arkhan2 L perso2
+L15D312A
+ Knez mi nahore o hrobce vyprável. XXX
+// Arkhan2 L perso2
+L15D312B
+ O druhu tajemneho místa, v kterem se prostredek proti memu trápení nalezá. XXX
+// Arkhan2 O perso2
+L15D313A
+ Prostredek proti tomuto zatracenému jedu má nekde v teto tajemne hrobce být ukrytý. XXX
+// Arkhan2 O perso2
+L15D313B
+ To mi rekl Thanandar, svetec. XXX
+// Arkhan3 L perso3
+L15D314A
+ Knez rekl, ze je nejaký protilek. XXX
+// Arkhan3 L perso3
+L15D314B
+ V nejake tajemne hrobce ... nekde... XXX
+// Arkhan3 O perso3
+L15D315A
+ Protilek...  XXX
+// Arkhan3 O perso3
+L15D315B
+ Knez ríká, ze v tajemne hrobce je skrytý. XXX
+// Danrys perso9
+L15D316A
+ V tajemne hrobce? Copak je to za nesmysl? XXX
+// Danrys (zögernd) perso9
+L15D316B
+ Já rozumím, aby ti nadejí oklamal, ale ... XXX
+// Danrys  perso9
+L15D316C
+ Já myslím, ze on ti vyprável pohádky, aby te uklidnil. XXX
+// Arkhan2 G perso2
+L15D317A
+ Rekl mi, ze protilek bude v hrobce uschován. XXX
+// Arkhan2 G perso2
+L15D317B
+ Já ho našel, ale on mne nevylecil. XXX
+// Arkhan3 G perso3
+L15D318A
+ Já protilek našel ... v jedne tajemne hrobce... XXX
+// Arkhan3 G perso3
+L15D318B
+ To ale nestacilo. XXX
+// Danrys perso9
+L15D319A
+ On je jiste ješte jiný prostredek... XXX
+// Danrys  perso9
+L15D319B
+ Ale já ho bohuzel neznám. XXX
+// Arkhan2 G perso2
+L15D320A
+ Danrysi, já to slavne tajemne místo našel. XXX
+// Arkhan2 G perso2
+L15D320B
+ Ale nevylecilo mne! Musím jiný prostredek najít. XXX
+// Arkhan3 G perso3
+L15D321A
+ Tu tajemnou hrobku... já jí našel... XXX
+// Arkhan3 G perso3
+L15D321B
+ Ale mne to nevylecilo! XXX
+// Arkhan2 L  perso2
+L15D307A
+ Zdá se, jako by mùj otec znal tuto nemoc. XXX
+// Arkhan2 L perso2
+L15D307B
+ Mel jsem s ným v chrámu Slunecního Boha schùzku, ale on neprišel. XXX
+// Arkhan2 L perso2
+L15D307C
+ Nevidel jsi ho? XXX
+// Arkhan2 O  perso2
+L15D308A
+ Zrejme znal mùj otec tento jed. XXX
+// Arkhan2 O perso2
+L15D308B
+ On mi rekl, ze mám do chrámu prijít, ale od te doby jako by pod zem zmizel! XXX
+// Arkhan2 O perso2
+L15D308C
+ Nevidel jsi ho náhodou? XXX
+// Arkhan3 G  perso3
+L15D309A
+ Mùj otec zná protilek. XXX
+// Arkhan3 G perso3
+L15D309B
+ Musím ho opet najít! XXX
+// Arkhan3 G perso3
+L15D309C
+ Videl jsi ho? XXX
+// Danrys perso9
+L15D311A
+ Tvùj otec? XXX
+// Danrys perso9
+L15D311B
+ Ne, on troufal si pouze zrídka do Spodního mesta. XXX
+// Danrys  perso9
+L15D311C
+ Pokud on se zde objeví, pak urcite ne dobrovolne! XXX
+// Arkhan2 G perso2
+L15D407A
+ Danrysi, poslouchek mne dobre. XXX
+// Arkhan2 G perso2
+L15D407B
+ Mohlo by to zde být velmi nebezpecne. XXX
+// Arkhan2 G perso2
+L15D407C
+ Nejenom kvùli Temný Zemi... Ješte neco jineho... Príbuzný, jako já. XXX
+// Arkhan2 G perso2
+L15D407D
+ Thanandar... Skrz nej já jsem kontaminován...  XXX
+// Arkhan2 G perso2
+L15D407E
+ On... On chce cele mesto znicit... A to jiz zacalo. XXX
+// Arkhan2 G perso2
+L15D407F
+ Dávej tedy na sebe pozor, starý príteli! XXX
+// Arkhan3 G perso2
+L15D408A
+ Danrysi, poslouchej mne! XXX
+// Arkhan3 G perso2
+L15D408B
+ Je to skutecne velmi nebezpecne zde ... XXX
+// Arkhan3 G perso2
+L15D408C
+ Ne pouze Temná Zeme... Neco jineho... príbuzný, jako já. XXX
+// Arkhan3 G perso2
+L15D408D
+ Thanandar... On chce Stallit znicit. XXX
+// Arkhan3 G perso2
+L15D408E
+ A to jiz zacalo!  XXX
+// Arkhan3 G perso2
+L15D408F
+ Dávaj pozor na sebe, mùj príteli! XXX
+// Danrys perso9
+L15D409A
+ Já... Ano, já rozumím. XXX
+// Danrys perso9
+L15D409B
+ Nedelej si zádný starosti, Já si dám pozor! XXX
+// Danrys perso9
+L15D409C
+ Z teto Temne Zeme máme všichni strach ... Armal Sadakovo muzi jsou pripravený bojovat. XXX
+// Danrys perso9
+L15D409D
+ Já jsem si jistý, ze oni mi pomohou, az zhoustne vzduch. XXX
+// Arkhan2 L perso2
+L15D410
+ Neslyšel jsi nikdy o nejakým míste, kde hrobka je? XXX
+// Arkhan2 O perso2
+L15D411
+ Hrobka, ríká ti to neco? XXX
+// Arkhan3 G perso3
+L15D412
+ Hledám místo, kteremu se ríká hrobka. XXX
+// Danrys perso9
+L15D413
+ Hrobka? Co je to? XXX
+// Arkhan2 L perso2
+L15D414A
+ Pote co mi Lory rekla a z popisu meho otce, jedná se o velmi stare místo. XXX
+// Arkhan2 L perso2
+L15D414B
+ Má se nacházet ve spodu Stallitu ... Ale nikdo neví, kde je vchod. XXX
+// Arkhan2 L perso2
+L15D414C
+ Mùj otec ríká, ze tam "Syn svetla" zije. XXX
+// Arkhan2 L perso2
+L15D414D
+ Wer oder was das auch immer ist - on je naší poslední nadejí, um Sparta zu retten! XXX
+// Arkhan2 O perso2
+L15D415A
+ O tom mùj otec a Lary vypráveli, je to velmi stare místo. XXX
+// Arkhan2 O perso2
+L15D415B
+ Ono se má v našem dobrem starem Stallitu, a prirozene dosud nikdo vchod nenašel! XXX
+// Arkhan2 O perso2
+L15D415C
+ Ale mùj otec ríká, ze vevnitr "Syn svetla" zije. XXX
+// Arkhan2 O perso2
+L15D415D
+ Já nevím sice, co je to, ale kdyz to mùze Spartu zachránit, pak já to najdu! XXX
+// Arkhan3 L perso3
+L15D416A
+ Lory a Rylsadhar ríkají, ze to velmi stare místo je ... dole pod Stallitem. XXX
+// Arkhan3 L perso3
+L15D416B
+ Ale nikdo neví více, kde se vchod nachází. XXX
+// Arkhan3 L perso3
+L15D416C
+ Tam zije "Syn svetla". XXX
+// Arkhan3 L perso3
+L15D416D
+ Snad naše poslední nadeje ... zachránit Spartu. XXX
+// Arkhan3 O perso3
+L15D417A
+ Stare místo, nekde pod Stallitem nezvestne. XXX
+// Arkhan3 O perso3
+L15D417B
+ Já musím najít vchod ... XXX
+// Arkhan3 O perso3
+L15D417C
+ Dole zije ... "Syn svetla". XXX
+// Arkhan3 O perso3
+L15D417D
+ Naše poslední šance! XXX
+// Danrys perso9
+L15D418A
+ "Syn svetla", nemám pravdu? XXX
+// Danrys perso9
+L15D418B
+ Doufejme ze to není knezí zvást! XXX
+// Danrys perso9
+L15D418C
+ Já nevím ale, jak se chceš dolu pod Stalitu dostat ... my narázíme na príkrou skalní stenu! XXX
+// Danrys perso9
+L15D418D
+ Nechceš skálu kopat jiste s rukama? XXX
+// Arkhan2 G perso2
+L15D86A
+ Je neco noveho, mùj prítely? XXX
+// Arkhan3 G perso3
+L15D86B
+ Novinky? XXX
+// Danrys perso9
+L15D87
+ Ne, bohuzel ne. Nevzdávej to, Arkhane. XXX
+// Arkhan2 G perso2
+L15D59A
+ Já prijdu pozdeji ješte jednou. XXX
+// Arkhan3 G perso3
+L15D59B
+ Prijdu pozdeji jeste jednou. XXX
+// Danrys perso9
+L15D60
+ Vytrvej, mùj prítely. XXX
+// Arkhan2 G perso2
+L15D130A
+ Tato zbran ist... XXX
+// Arkhan3 G perso3
+L15D130B
+ Tato zbran je... XXX
+// Danrys perso9
+L15D103A
+ Mluvíš príliš! Nahod radeji brusku. XXX
+// Arkhan2 G perso2
+L15D102A
+ Ten kristal, ty... XXX
+// Arkhan3 G perso3
+L15D102B
+ Ten kristal, ty... XXX
+// Arkhan2 G perso2
+L15D95
+ Ty nemáš prece zádnou šanci, Danrysi! XXX
+// Arkhan3 G perso2
+L15D96
+ Ty jsi prohrál! XXX
+// Danrys perso9
+L15D76B
+ Hej! Stále v klidu! XXX
+// Danrys perso9
+L15D100A
+ Prestan s tímto krachem! XXX
+// Danrys perso9
+L15D100B
+ A sice hned! XXX
+// Arkhan2 G (kein Strom)perso2
+L15D461
+ Kolo se neotácí... XXX
+// Arkhan3 G (kein Strom)perso3
+L15D462
+ Ono se neotácí... XXX
+// Arkhan2 G perso2
+L15D506
+ Danrysovo bruska, k broušení kovu a kamenù. XXX
+// Arkhan3 G perso3
+L15D507
+ Bruska ... na kov a kameny. XXX
+// Arkhan2 G perso2
+L15D112A
+ Danrysova bruska nefunguje. XXX
+// Arkhan3 G perso3
+L15D112B
+ Tato bruska se neotácí... XXX
+// Arkhan2 L (vor der sich drehenden Schleifscheibe)perso2
+L15D80A
+ Je jiste lepší, se toho nedotýkat... XXX
+// Arkhan3 L (vor der sich drehenden Schleifscheibe)perso3
+L15D80B
+ Nedotýkat se! XXX
+// Arkhan2 G (mit Waffe vor der Schleifscheibe)perso2
+L15D81A
+ Ne, já zlomím pokazde cepel. XXX
+// Arkhan2 G perso2
+L15D81B
+ Pouze Danrys vedel by, jak to fungovalo... XXX
+// Arkhan3 G (mit Waffe vor der Schleifscheibe)perso3
+L15D81C
+ Ne, já znicím cepel. XXX
+// Arkhan3 G perso3
+L15D81D
+ Pouze Danrys vedel by, jak to jde... XXX
+// Arkhan2 G perso2
+L15D82A
+ Tento Kristall nepotrebuju brousit... XXX
+// Arkhan3 G perso3
+L15D82B
+Toto nepotrebuje být broušený! XXX
+// Arkhan2 G perso2
+L15D465A
+ Ano, mohl bych tento krystal pro klíc zbrousit...  XXX
+// Arkhan2 G perso2
+L15D465B
+ Já potrebuju alespon tri kousky, aby poslední chybející mohl být zbroušený. XXX
+// Arkhan3 G perso3
+L15D466A
+ Ano, to mohl bych zbrousit... pro klíc. XXX
+// Arkhan3 G perso2
+L15D466B
+ Ale já potrebuju alespon tri kousky, s temi já poslední zhotovím. XXX
+// Arkhan2 G perso2
+L15D419
+ Já Kristal sám zbrousím a klíc udelám. XXX
+// Arkhan3 G perso3
+L15D420
+ Poslední kristal zbrousím, a klíc zhotovím. XXX
+// Arkhan2 G perso2
+L15D89A
+ Mám jiz všechny kristaly, neschází mi nic. XXX
+// Arkhan3 G perso3
+L15D89B
+ Neuzitecne. Já mám jiz všechny kristali. XXX
+// Arkhan2 G (mit verschiedenen Gegenständen)perso2
+L15D85A
+ Nemozne, to nemùzu zbrousit! XXX
+// Arkhan3 G (mit verschiedenen Gegenständen)perso3
+L15D85B
+ Nemozne, to nemuzu zbrousit! XXX
+// Arkhan2 G perso2
+L15D104A
+ Jedna z techto starých mašin od predkù. XXX
+// Arkhan3 G perso3
+L15D104B
+ Jedna mašina od predkù. XXX
+// Arkhan2 G perso2
+L15D105A
+ To je ta mašina, o ktere Danrys mluvil. XXX
+// Arkhan3 G perso3
+L15D105B
+ Bezpecná Danrysova mašina na vzduch. XXX
+// Arkhan2 G perso2
+L15D421
+ Tak, ona je plná. XXX
+// Arkhan3 G perso3
+L15D422
+ Plná. XXX
+// Arkhan2 G (zu einem aggressiven Konkaliten)perso2
+L15D91A
+ Hej, co chceš! XXX
+// Arkhan3 G perso3
+L15D91B
+ Co chceš? XXX
+// Konkalit9 perso79
+L15D92
+ Tvojí hlavu! XXX
+// Arkhan2 G (provozierend)perso2
+L15D94A
+ Pojd prece sem! XXX
+// Arkhan3 G (provozierend)perso3
+L15D94B
+ Pojd jiz! XXX
+// Arkhan2 G perso2
+L15D425
+ Zde jsi v bezpecí! XXX
+// Arkhan3 G perso3
+L15D426
+ Zùstan zde. Zde jsi v bezpecí. XXX
+// Kalhi perso13
+L15D427
+ Veríš ty, ze já bych tady mohla zùstat necine prihlízet zatímco ... zatímco te tato nemoc zmocnuje! XXX
+// Arkhan2 L (Danrys tot)perso2
+L15D428
+ Chudák Danrys! To si on nezaslouzil. XXX
+// Arkhan2 O (Danrys tot)perso2
+L15D429
+ Danrysi! Ríkal jsem mu, aby na sebe dal pozor, ale on mne neposlouchal! XXX
+// Arkhan3 G perso3
+L15D430
+ Es tut mir so leid um Danrys. XXX
+// Kalhi (Danrys tot)perso13
+L15D431
+ Musíme ho pomstít! XXX
+// Arkhan2 G perso2
+L15D432
+ Ne! Ty zùstaneš zde! XXX
+// Arkhan3 G perso3
+L15D433
+ Zùstaneš zde! XXX
+// Arkhan2 L perso2
+L15D434
+ Kalhi, my jsme v zivotním nebezpecí! Du rührst Dich nicht von der Stelle, verstanden? XXX
+// Arkhan2 O perso2
+L15D435
+ Tak poslouchej mne prece! Zùstaneš zde nebo te pevne privázu, rozumíš? XXX
+// Arkhan3 G perso3
+L15D436
+ Nehýbej se z místa! XXX
+// Kalhi (entschieden) perso13
+L15D437
+ Já prece nejsem male díte! Já chci ti pomoci, a - u boha Slunce - od toho mne nebudeš odrazovat. XXX
+// Arkhan2 G perso2
+L15D438
+ (ohnmächtiges Seufzen ) XXX
+// Arkhan3 G perso3
+L15D439
+ (ohnmächtiges Seufzen) XXX
+// Arkhan2 L perso2
+L15D440
+ Kalhi! Ty jsi prece to jediný, co já mám, nechci, abys tvùj zivot pro mne polozila. XXX
+// Arkhan2 O perso2
+L15D441A
+ Doufejme ze se s toho poucíš! XXX
+// Arkhan2 O perso2
+L15D441B
+ Já mám jiz dosti tezkostí, o sebe se starat, a mám ti ješte radit! XXX
+// Arkhan3 L perso3
+L15D472
+ Já nechci, abys tvùj zivot do hry vkládala! XXX
+// Arkhan3 O perso3
+L15D473
+ Wenn Du hier rauskommst ... zabiju te! XXX
+// Kalhi perso13
+L15D467
+ Souhlasí, já mela strach! Takove zabijáky já ješte nevidela! XXX
+// Kalhi perso13
+L15D443A
+ Já ti prece pomohla, nebo? XXX
+// Kalhi perso13
+L15D443B
+ Prestaneš pak take, na silnýho muze si hrát! XXX
+// Kalhi perso13
+L15D444A
+ Jak chceš. Já cekám zde na tebe. XXX
+// Kalhi perso13
+L15D444B
+ Ale dávej pozor na sebe. XXX
+// Arkhan2 L perso2
+L15D445
+ Zùstaneš zde, rozumíš? XXX
+// Arkhan2 O perso2
+L15D446
+ Nehneš se z místa! XXX
+// Arkhan3 L perso3
+L15D447
+ Zùstan zde. XXX
+// Arkhan3 O perso3
+L15D448
+ Zùstan zde, rozumíš! XXX
+// Kalhi perso13
+L15D449A
+ Já jsem prece dospelá, nebo? S tím ciním take to, co já za správne povazuji. XXX
+// Kalhi perso13
+L15D449B
+ A ty mne od toho nezastavíš, tobe pomáhat! XXX
+// Arkhan2 G perso2
+L15D450
+ Rozumíš mi, zde na mne pockej. XXX
+// Arkhan3 G perso3
+L15D451
+ Rozumíš ty mi, zde pockat? XXX
+// Kalhi perso13
+L15D452
+ Rozumneno. XXX
+// Kalhi (zögert) perso13
+L15D453
+ Já to nevím ... Zeptej se prece Danryse. XXX
+// Kalhi perso13
+L15D454
+ Ne, Arkhany, já nevím více nez ty! XXX
+// Kalhi perso13
+L15D455
+ Arkhane, o tom mùzeme my pozdeji ješte mluvit ... XXX
+// Arkhan2 O perso2
+L04D37
+ Prestan, Ty bojuješ jako zacátecník! XXX
+// Arkhan2 L perso2
+L04D38
+ Sag bloß, Du hast ja direkt was drauf! XXX
+// Arkhan3 O perso3
+L04D39
+ A to nazýváš ty bojování! XXX
+// Arkhan3 L perso3
+L04D40
+ Dy mùzeš bojovat! XXX
+// Kalhi (beunruhigt) perso33
+L04D41
+ Arkhane! Co se s tebou deje? XXX
+// Kalhi (verängstigt) perso33
+L04D42
+ Ne, Arkhane! Ty musíš proti jiným bojovat! XXX
+// Kalhi (muß sich wehren) perso33
+L04D43
+ Arkhane, ne! XXX

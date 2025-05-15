@@ -1,0 +1,1384 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL15.TXT
+ // Kalhi perso13
+L15D115
+ Arkhan, I explained to Danrys... XXX
+// Danrys (back turned) perso9
+L15D116
+ You call that an explanation?! You show up shouting, waving your hands around and prattling on faster than a Sunseer in his pulpit! XXX
+// Kalhi perso13
+L15D136
+ Euh... Danrys, you should look at Arkhan... XXX
+// Kalhi perso13
+L15D459
+ Arkhan, at last! You're here! XXX
+// Danrys (back turned) perso9
+L15D460
+ Kalhi, don't shout like that. XXX
+// Kalhi (looking at D. dead) perso13
+L15D200A
+ Danrys! Danrys! My friend.... It... it can't be... not you... XXX
+// Kalhi (angry!) perso13
+L15D200B
+ I swear by the Fire! You will be avenged! XXX
+// Kalhi (stands up, determined) perso13
+L15D200C
+ Vengeance! XXX
+// Danrys (A. had left after fighting) perso9
+L15D02B
+ Back already? You've calmed down, I hope! XXX
+// Kalhi (stunned, confused) perso13
+L03D500A
+ Arkhan! You... Why did you do that? XXX
+// Kalhi (crippled) perso13
+L03D500B
+ It's the poison... it's driving you mad! XXX
+// Danrys perso9
+L15D76C
+ You've gone crazy! XXX
+// Kalhi (upset because A. is hitting Danrys)perso13
+L15D456
+ Arkhan, no! XXX
+// Kalhi (going in front of A.)perso13
+L15D135A
+ There you are! XXX
+// Kalhi (going in front of A.)perso13
+L15D135B
+ I saw you coming... XXX
+// Danrys perso9
+L15D02A
+ In the name of the Sun God! Arkhan! You're... XXX
+// Arkhan2 G perso2
+L15D137A
+ ...Stricken. I was protecting Lory, and got infected by the evil Archessence. XXX
+// Arkhan3 G perso3
+L15D137B
+ ...Stricken... Infected by this poison while protecting Lory. XXX
+// Danrys perso9
+L15D02Z
+ You're not a pretty sight. Not at all... XXX
+// Arkhan2 G (speaking to D., who's working) perso2
+L15D01A
+ Hey, Danrys! XXX
+// Arkhan3 G (speaking to D., who's working) perso3
+L15D01B
+ Danrys! XXX
+// Danrys perso9
+L15D03A
+ Yes, Arkhan? XXX
+// Danrys (A. walks away then comes back) perso9
+L15D03B
+ Did you forget something? XXX
+// Arkhan2 G (yelling over the noise of the machine)perso2
+L15D01C
+ Danrys! XXX
+// Arkhan3 G (yelling over the noise of the machine)perso3
+L15D01D
+ Danrys! XXX
+// Danrys perso9
+L15D97A
+ I can't hear you! XXX
+// Danrys perso9
+L15D97B
+ Let me turn off the grinding wheel! XXX
+// Danrys (turns off the grinding wheel) perso9
+L15D03C
+ Ah, the calm after the storm! XXX
+// Danrys perso9
+L15D98
+ Who's there? Arkhan, is it you? XXX
+// Danrys perso9
+L15D99
+ Ah! It was you! XXX
+// Danrys perso9
+L15D101
+ Okay! Stop the grinding wheel! XXX
+// Danrys perso9
+L15D900A
+ There you go! I carved the crystal you wanted. XXX
+// Danrys perso9
+L15D900B
+ Obviously it's not perfect, but it ought to work... XXX
+// Danrys (gives the weapon back to Arkhan) perso9
+L15D900C
+ There you go! As good as new! XXX
+// Danrys (gives the weapon back to Arkhan) perso9
+L15D900D
+ Sorry, Arkhan... It was too fragile, I broke it! XXX
+// Danrys (calls after the departing A.) perso9
+L15D505
+ Wait! Your weapon! XXX
+// Danrys (catching up to A.) perso9
+L15D504
+ Bring it back to me if you really want me to fix it... XXX
+// Danrys (confronted with an aggressive A.) perso9
+L15D04
+ Arkhan, calm down! It's me, Danrys, your old friend! XXX
+// Danrys (A. calming down) perso9
+L15D05
+ Whew! You scared the hell out of me! XXX
+// Arkhan2 G perso2
+L15D84A
+ The last crystal! The key is complete! XXX
+// Arkhan3 G perso3
+L15D84B
+ The last crystal! The key is complete! XXX
+// Arkhan2 G (discovering D. dead) perso2
+L15D113A
+ Danrys... not you! Not my friend! XXX
+// Arkhan3 G (discovering D. dead) perso3
+L15D113B
+ Danrys... you too! XXX
+// Arkhan2 G perso2
+L15D114A
+ They're going to pay for this! XXX
+// Arkhan3 G perso3
+L15D114B
+They're going to pay for this! XXX
+// Danrys (A. hits D.) perso9
+L15D76A
+ Hey! Take it easy! XXX
+// Kalhi (afraid) perso33
+L04D41
+ Arkhan! What's come over you? XXX
+// Arkhan2 L perso2
+L15D300A
+ Danrys... I need your help, my friend. XXX
+// Arkhan2 L perso2
+L15D300B
+ Up above, the Guardians of Fire are after me. XXX
+// Arkhan2 O perso2
+L15D301A
+ I'm in bad trouble, Danrys! XXX
+// Arkhan2 O perso2
+L15D301B
+ I can't trust anyone... except for you and Kalhi. XXX
+// Arkhan2 O perso2
+L15D301C
+ Up above, the Sunseers and Guardians of Fire want my scalp. XXX
+// Arkhan3 L perso3
+L15D302A
+ Danrys, help me... XXX
+// Arkhan3 L perso3
+L15D302B
+ The malady is taking over my body and turning me into a beast! XXX
+// Arkhan3 L perso3
+L15D302C
+ Up above, they want me dead. XXX
+// Arkhan3 O perso3
+L15D303A
+ Danrys, help me, I'm going to die... XXX
+// Arkhan3 O perso3
+L15D303B
+ This blasted poison is eating me alive. XXX
+// Arkhan3 O perso3
+L15D303C
+ And up above, They all want me dead! XXX
+// Kalhi (irascible)perso13
+L15D304A
+ It's true. Dhorkan has gained control of the Upper City. XXX
+// Kalhi perso13
+L15D304B
+ The Guardians of Fire threw me in prison... XXX
+// Kalhi perso13
+L15D304C
+ And they're hunting for Arkhan. They're going to kill him! XXX
+// Danrys perso9
+L15D305
+ Calm down, Kalhi. Easy does it. XXX
+// Danrys perso9
+L15D306A
+ Arkhan, you know you can count on me. XXX
+// Danrys perso9
+L15D306B
+ I'll do anything to help you... XXX
+// Arkhan2 G perso2
+L15D08A
+ Can you repair this weapon? XXX
+// Arkhan3 G perso3
+L15D08B
+ This weapon? Repair it? XXX
+// Danrys perso9
+L15D901A
+ No. I can do nothing with the thunderbolts from Before. XXX
+// Danrys perso9
+L15D901B
+ Too many parts. I don't have the right tools. XXX
+// Danrys perso9
+L15D11A
+ It looks like it's in good shape. XXX
+// Danrys perso9
+L15D11B
+ Just make sure you've got the right ammunition. XXX
+// Danrys perso9
+L15D11C
+ It's practically as good as new. I don't see what I could do... XXX
+// Danrys perso9
+L15D09
+ Yes, I think... XXX
+// Danrys perso9
+L15D21C
+ Go over there and turn the grinding wheel on! XXX
+// Danrys perso9
+L15D131A
+ Your weapon is broken. XXX
+// Danrys perso9
+L15D131B
+ There's nothing I can do, sorry... XXX
+// Arkhan2 G perso2
+L15D12C
+ Would this be any use to you for making a flame-thrower? XXX
+// Arkhan3 G perso3
+L15D12D
+ You think this'll work for the flame-thrower? XXX
+// Danrys perso9
+L15D14A
+ Let's have a look... Hum... XXX
+// Danrys perso9
+L15D14B
+ Yes... Yes... That ought to work just fine. XXX
+// Danrys perso9
+L15D14C
+ Give it to me. It's worth trying. XXX
+// Danrys perso9
+L15D14D
+ I'm going to make this weapon for you. XXX
+// Danrys perso9
+L15D14E
+ With this baby, no one will even look at you the wrong way! XXX
+// Arkhan2 G (showing the bow)perso2
+L15D322
+ I'm looking for crystals... XXX
+// Arkhan3 G (showing the bow from the key)perso3
+L15D323
+ I'm looking for crystals... XXX
+// Danrys (intrigued)perso9
+L15D324
+ By the black plague, what was that? XXX
+// Arkhan2 L perso2
+L15D325A
+ My father had a key made from four pieces of crystal. XXX
+// Arkhan2 L perso2
+L15D325B
+ Then he gave each piece to a different person. People he trusted. XXX
+// Arkhan2 L perso2
+L15D325C
+ Lory was one of them, she gave me the bow of the key. XXX
+// Arkhan2 L perso2
+L15D325D
+ But I still have to find the three other crystals. XXX
+// Arkhan2 O perso2
+L15D326A
+ Let me finish! XXX
+// Arkhan2 O perso2
+L15D326B
+ My father had a key made out of four crystals. XXX
+// Arkhan2 O perso2
+L15D326C
+ The problem is, he gave them away, and I don't know who he gave them to. XXX
+// Arkhan2 O perso2
+L15D326D
+ The Great Sunseer gave me one. But I've got to find the others, fast. XXX
+// Arkhan3 G perso3
+L15D327A
+ Four crystals that form a key. XXX
+// Arkhan3 G perso3
+L15D327B
+ My father. He gave the pieces away. XXX
+// Arkhan3 G perso3
+L15D327C
+ I've got to find them, fast. XXX
+// Danrys perso9
+L15D324Y
+ I haven't seen many crystals like that before. XXX
+// Danrys perso9
+L15D324Z
+ Luminous objects like that. That's something a Sunseer would have. XXX
+// Arkhan2 G perso2
+L15D328
+ Lory told me Bandor the Master Builder might have one. XXX
+// Arkhan3 G perso3
+L15D329
+ Lory thinks the Master Builder has one... maybe. XXX
+// Danrys perso9
+L15D330A
+ Bandor! XXX
+// Danrys perso9
+L15D330B
+ Well, lately, he's been spending a lot of time in the Lower City with his architects... XXX
+// Danrys perso9
+L15D330C
+ But with everything that's going on, I'm sure he fled back up to his palace. XXX
+// Danrys perso9
+L15D330D
+ If you go see him, don't be too rough with him. He's a terrible sissy. XXX
+// Danrys (indicates the word "diagram") perso9
+L15D330E
+ If it hadn't been for his dreams and his diagrams, he would never have dared come down here...XXX
+// Arkhan2 G perso2
+L15D331
+ You don't know who my father gave the crystals to? XXX
+// Arkhan3 G perso3
+L15D332
+ Who could my father have given the crystals to? XXX
+// Danrys perso9
+L15D333
+ Well, I don't know. Not to me, in any case... XXX
+// Danrys (A. asking the question again) perso9
+L15D334
+ No, really. I told you, I don't know... XXX
+// Arkhan2 G (shows crystal without showing the bow)perso2
+L15D335
+ Can you find me a crystal like this one? XXX
+// Arkhan3 G (shows crystal without showing the bow)perso3
+L15D336
+ Would you have a crystal like this? XXX
+// Danrys (intrigued)perso9
+L15D337
+ What is it? XXX
+// Arkhan2 L perso2
+L15D338A
+ I have to reassemble a crystal key that belonged to my father. XXX
+// Arkhan2 L perso2
+L15D338B
+ I need the four pieces, but I haven't found them. XXX
+// Arkhan2 L perso2
+L15D338C
+ Would you be able to find one for me? XXX
+// Arkhan2 O perso2
+L15D339A
+ My father had a key made up of four pieces. He gave one piece to each of four different people...but I don't know who! XXX
+// Arkhan2 O perso2
+L15D339B
+ I need this key, and I need it fast! XXX
+// Arkhan2 O perso2
+L15D339C
+ Maybe you can find me something to replace the missing piece with. XXX
+// Danrys (thinking) perso9
+L15D340A
+ Yes...Yes... Uhmmm... XXX
+// Danrys perso9
+L15D340B
+ If this is a key with three notches and a bow, I'd need to see the other notches... XXX
+// Danrys perso9
+L15D340C
+ Then I could guess at the shape of the missing piece and make one to replace it. XXX
+// Arkhan2 G perso2
+L15D341
+ I've got one of the crystals... But the others are still missing. XXX
+// Arkhan2 G perso2
+L15D342
+ Can you make one for me? XXX
+// Arkhan3 G perso3
+L15D343
+ Can you? XXX
+// Danrys perso9
+L15D344
+ Yes. But as I said, I'd have to see the other notches first. XXX
+// Arkhan2 L perso2
+L15D345
+ Here's another crystal, just as you asked. XXX
+// Arkhan2 O perso2
+L15D346
+ You wanted another crystal? Here it is! XXX
+// Arkhan3 L perso3
+L15D347
+ Here's another crystal. XXX
+// Arkhan3 O (grunting)perso3
+L15D348
+ Other crystal. XXX
+// Danrys perso9
+L15D23A
+ Well, let's see now... XXX
+// Danrys perso9
+L15D23B
+ Right, it's the Rahal, the Sunseers' symbol. XXX
+// Danrys perso9
+L15D23C
+ I should be able to cut a crystal to the right dimensions. XXX
+// Danrys perso9
+L15D23D
+ The problem will be how to find one now. XXX
+// Danrys perso9
+L15D23E
+ You don't find that kind of raw material just lying around... XXX
+// Danrys (1st time) perso9
+L15D24B
+ A rough quartz should do, once it's been carved. XXX
+// Danrys (2nd time) perso9
+L15D24A
+ I told you, go find me some quartz... XXX
+// Danrys perso9
+L15D21A
+ I'll be able to make the missing piece for you... XXX
+// Danrys perso9
+L15D21B
+ Turn the grinding wheel on, I'll get started right away. XXX
+// Arkhan2 G perso2
+L15D608
+ It's a substance from Before, an explosive. XXX
+// Arkhan3 G perso3
+L15D609
+ A substance from Before. Explosive. XXX
+// Danrys perso9
+L15D610
+ Interesting... But what are you going to do with it? XXX
+// Arkhan2 G perso2
+L15D611
+ I don't know yet... XXX
+// Arkhan3 G perso3
+L15D612
+ I don't know. Not yet, anyway. XXX
+// Arkhan2 G perso2
+L15D604
+ You know what it is? XXX
+// Arkhan3 G perso3
+L15D605
+ You know what it is? XXX
+// Danrys perso9
+L15D607A
+ I told you, Bogdaran can tell you what it is better than I can. XXX
+// Danrys perso9
+L15D607B
+ He's a whiny pain in the butt, but he knows a lot. XXX
+// Danrys perso9
+L15D606A
+ An object from Before... There's a weird substance inside... XXX
+// Danrys perso9
+L15D606B
+ You should show it to Bogdaran, the Master Oiler. XXX
+// Arkhan2 L perso2
+L15D468
+ I found this stone outside. XXX
+// Arkhan2 O perso2
+L15D469
+ Take a look at this stone XXX
+// Arkhan3 G perso3
+L15D470
+ Found this stone... XXX
+// Danrys perso9
+L15D471
+ Rock crystal! Thanks. XXX
+// Arkhan2 L perso2
+L15D350
+ I think I found the rock crystal you wanted! XXX
+// Arkhan2 O perso2
+L15D351
+ I hope that's what you wanted. I nearly killed myself getting it! XXX
+// Arkhan3 L perso3
+L15D352
+ I think I've got the rock crystal. XXX
+// Arkhan3 O perso3
+L15D353
+ (grunting) This what you wanted? XXX
+// Danrys perso9
+L15D354
+ Well done, Arkhan! Now I can make the missing piece. XXX
+// Arkhan2 G perso2
+L15D356A
+ Don't need it. I finally found the last crystal. XXX
+// Arkhan2 G perso2
+L15D356B
+ Keep it. You've got more use for it that I do! XXX
+// Arkhan3 G perso3
+L15D357A
+ No need. I found it. XXX
+// Arkhan3 G perso3
+L15D357B
+ But you can keep that one. XXX
+// Arkhan2 L perso2
+L15D600
+ Can you read this? XXX
+// Arkhan2 O perso2
+L15D601
+ What's it say? XXX
+// Arkhan3 G perso3
+L15D602
+ Read it! XXX
+// Danrys perso9
+L15D603A
+ Listen Arkhan, you know that reading isn't my strong suit. XXX
+// Danrys perso9
+L15D603B
+ I can't help you with that kind of thing... XXX
+// Arkhan2 L perso2
+L15D358A
+ I found this diagram in the Konkalites' hideout. XXX
+// Arkhan2 L perso2
+L15D358B
+ Ever seen one of these? Can you tell me what it is? XXX
+// Arkhan2 O perso2
+L15D359A
+ I got my hands on this diagram. XXX
+// Arkhan2 O perso2
+L15D359B
+ You know everything, so tell me something. Was it worth beating the life out of its owner to get it? XXX
+// Arkhan3 L perso3
+L15D360
+ This diagram... You know what it is? XXX
+// Arkhan3 O perso3
+L15D361
+ This diagram... what is it? XXX
+// Danrys perso9
+L15D362A
+ Let me see... Hum... Yes, I know what this is... XXX
+// Danrys perso9
+L15D362B
+ It's the design of a new weapon invented by the Builders. XXX
+// Danrys perso9
+L15D362C
+ And I do remember hearing that it had been stolen. XXX
+// Danrys perso9
+L15D362D
+ All hell broke loose when it disappeared, but Dhorkan never really looked very hard for it ... XXX
+// Danrys perso9
+L15D362E
+ And since the Sun God has placed it in your hands, it would be interesting to see if I could build their precious "flame-thrower". XXX
+// Arkhan2 G perso2
+L15D363
+ Flame-thrower? XXX
+// Arkhan3 G perso3
+L15D364
+ Flame-thrower? XXX
+// Danrys perso9
+L15D365A
+ Mmm, yes, that's what they call it. XXX
+// Danrys perso9
+L15D365B
+ It's a heavy-bore weapon that spits out flasks filled with flaming liquid. XXX
+// Danrys (looking at the diagram) perso9
+L15D365C
+ Springs... firing mechanism... trigger. I should be able to find the parts for it... XXX
+// Danrys perso9
+L15D365D
+ What I need is a big handle to hold it steady and activate the mechanism. XXX
+// Danrys perso9
+L15D365E
+ Look, why don't you go look for a handle while I take care of the rest. XXX
+// Danrys perso9
+L15D365F
+ Go bug the diagram's previous owner, maybe this time you can get the handle out of him. XXX
+// Arkhan2 G perso2
+L15D463
+ No, he's in no shape to talk. But I'll find one. XXX
+// Arkhan3 G perso3
+L15D464
+ He won't be saying anything for a while! But I'll find one. XXX
+// Arkhan2 G perso2
+L15D366A
+ I found this canister from Before... XXX
+// Arkhan2 G perso2
+L15D366B
+ When you press the little round thing on top, air comes out hissing like a snake. XXX
+// Arkhan3 G perso3
+L15D367A
+ Here's a canister from Before... XXX
+// Arkhan3 G perso3
+L15D367B
+ When you press on the round thing, it hisses... XXX
+// Danrys perso9
+L15D368A
+ Yes, I've seen one of those. XXX
+// Danrys perso9
+L15D368B
+ With the motor on the bottom of the canister, you can suck air out or blow it in. XXX
+// Danrys perso9
+L15D368C
+ It also works on the cans from Before. You know, the ones with the dried food inside. XXX
+// Arkhan2 G perso2
+L15D369
+ What were you saying about this canister? XXX
+// Arkhan3 G perso3
+L15D370
+ Tell me more about this canister. XXX
+// Danrys perso9
+L15D371A
+ You see that relic from Before at the back of my workshop? XXX
+// Danrys perso9
+L15D371B
+ It's called a "motor". You can use it to suck air out of a canister or to fill it up again from the other side. XXX
+// Danrys perso9
+L15D371C
+ The people from Before used these canisters for breathing under water. XXX
+// Danrys perso9
+L15D371D
+ They carried their own air with them in canisters like the one you've got there. XXX
+// Danrys perso9
+L15D371E
+ Alas! If you young people don't listen to me a little more attentively, everything I know will disappear when I go to meet the Great Sun God... XXX
+// Arkhan2 L (tin can)perso2
+L15D372
+ You gave this to the Provider-Woman outside, didn't you? What is it? XXX
+// Arkhan2 O perso2
+L15D373A
+ This can, you gave it to the Provider-Woman, didn't you? XXX
+// Arkhan2 O perso2
+L15D373B
+ You don't have to tell me what she gave you in exchange... I just want to know what it is! XXX
+// Danrys (not amused) perso9
+L15D375A
+ Ha, ha, ha! Very funny! Looks like the poison is rotting your brain! XXX
+// Arkhan3 G perso3
+L15D374
+ What's this can? XXX
+// Danrys perso9
+L15D375B
+ The people from Before dried their food and kept it in cans like this. XXX
+// Danrys perso9
+L15D375C
+ And they put it in cans like this one. XXX
+// Arkhan2 G perso2
+L15D376
+ And what do you think of this, Danrys? XXX
+// Arkhan3 G perso3
+L15D377
+ Danrys, have you seen this? XXX
+// Danrys perso9
+L15D378
+ Forget about it. You've got better things to do than moonlight as a Scavenger. XXX
+// Danrys perso9
+L15D379
+ I don't know what it's for, sorry. XXX
+// Arkhan2 L perso2
+L15D380A
+ You want me to bring back a handle for the flame-thrower. XXX
+// Arkhan2 L perso2
+L15D380B
+ What would it look like? XXX
+// Arkhan2 O perso2
+L15D381
+ Look, since I gotta scavenge for you and find the handle for the flame-thrower, at least tell me what it looks like. XXX
+// Arkhan3 G perso3
+L15D382
+ What kind of flame-thrower handle? XXX
+// Danrys perso9
+L15D383A
+ It's got to be strong and big enough to fit in your hand. XXX
+// Danrys perso9
+L15D383B
+ We have to attach it on top, and on either side of the barrel. XXX
+// Danrys perso9
+L15D383C
+ I'd say about three inches wide, more or less. XXX
+// Danrys perso9
+L15D383D
+ Try to find something that looks like that and I'll take care of the rest. XXX
+// Arkhan2 G perso2
+L15D384
+ Explain again about the handle. XXX
+// Arkhan3 G perso3
+L15D385
+ Tell me again about the handle. XXX
+// Danrys perso9
+L15D386A
+ Are you trying to drive me crazy or what? XXX
+// Danrys perso9
+L15D386B
+ A metal handle that hooks onto the barrel, got it? XXX
+// Danrys perso9
+L15D386C
+ If you can't find anything, too bad! XXX
+// Arkhan2 L perso2
+L15D387
+ So, have you made my flame-thrower? XXX
+// Arkhan2 O perso2
+L15D388
+ Hey, is my flame-thrower finished? XXX
+// Arkhan3 L perso3
+L15D389
+ So, the flame-thrower? XXX
+// Arkhan3 O perso3
+L15D390
+ I want my flame-thrower! XXX
+// Danrys perso9
+L15D391A
+ I'm not finished. Don't be in such a hurry! XXX
+// Danrys perso9
+L15D391B
+ Give me a little more time, okay? XXX
+// Danrys (irritated)perso9
+L15D392A
+ You think it's easy to build one of these things? XXX
+// Danrys (irritated)perso9
+L15D392B
+ Give me more time, okay! XXX
+// Danrys perso9
+L15D393A
+ Here's your flame-thrower! I even loaded it for you. XXX
+// Danrys perso9
+L15D393B
+ But be careful, you don't have much ammo. XXX
+// Danrys (irritated) perso9
+L15D394A
+ There it is! You see, no need to keep at me like that! XXX
+// Danrys perso9
+L15D394B
+ It's loaded, but use it sparingly. Ammo is hard to come by. XXX
+// Arkhan2 L perso2
+L15D395
+ Kalhi isn't here? XXX
+// Arkhan2 O perso2
+L15D396
+ Where did Kalhi go?! XXX
+// Arkhan3 L perso3
+L15D397
+ Where's Kalhi? XXX
+// Arkhan3 O perso3
+L15D398
+ Kalhi?! XXX
+// Danrys perso9
+L15D399A
+ She left a little while ago... XXX
+// Danrys perso9
+L15D399B
+ She said she couldn't stand seeing you like that and not do something to help. XXX
+// Danrys perso9
+L15D399C
+ You know how she is. Headstrong! XXX
+// Arkhan2 L perso2
+L15D400
+ Kalhi isn't with you? XXX
+// Arkhan2 O perso2
+L15D401
+ Where is she this time? XXX
+// Arkhan3 L perso3
+L15D402
+ Kalhi isn't here? XXX
+// Danrys perso9
+L15D403A
+ No, she left again. XXX
+// Danrys perso9
+L15D403B
+ She couldn't sit still... XXX
+// Arkhan2 G (worried)perso2
+L15D404
+ Where did Kalhi go? XXX
+// Arkhan3 G (worried)perso3
+L15D405
+ Kalhi... Where is she? XXX
+// Danrys perso9
+L15D406A
+ I don't know where she is, but you should try to find her. XXX
+// Danrys perso9
+L15D406B
+ Hurry up. With things the way they are, I'm worried about her! XXX
+// Arkhan2 L perso2
+L15D902
+ Danrys... Kalhi is dead... XXX
+// Arkhan2 O perso2
+L15D903
+ Kalhi?! She's dead? Dead! XXX
+// Arkhan3 L perso3
+L15D904
+ Danrys... Kalhi... dead! XXX
+// Arkhan3 O perso3
+L15D905
+ Kalhi is dead! Arghhhh! XXX
+// Danrys perso9
+L15D906A
+ No! XXX
+// Danrys (heartbroken)perso9
+L15D906B
+ Poor child.... So full of life... Too young to die ... XXX
+// Danrys perso9
+L15D906C
+ Hang in there, Arkhan! If you give up now, she will have died in vain! XXX
+// Danrys perso9
+L15D906D
+ If you loved her, fight to save the world that she loved, the world she created in your heart every day! XXX
+// Danrys perso9
+L15D906E
+ If you want to stay human, you've got to fight! XXX
+// Arkhan2 G perso2
+L15D55A
+ I've got to find a way to heal myself. And fast! XXX
+// Arkhan3 G perso3
+L15D55B
+ I have to find a cure, fast. XXX
+// Danrys (thinking) perso9
+L15D56A
+ A cure... Yes... XXX
+// Danrys perso9
+L15D56B
+ There's nothing much I can do. XXX
+// Danrys perso9
+L15D56C
+ Around here, the person who could help you is Armal Sadak. XXX
+// Arkhan2 G perso2
+L15D457
+ I've already talked to him. I don't know if he can really help me. XXX
+// Arkhan3 G perso3
+L15D458
+ I've seen him. I'm not sure he can help. XXX
+// Arkhan2 G perso2
+L15D57A
+ Who is this guy, Armal Sadak? XXX
+// Arkhan3 G perso3
+L15D57B
+ Tell me about Armal Sadak. XXX
+// Danrys perso9
+L15D58A
+ He knows a lot about a lot of things... XXX
+// Danrys perso9
+L15D58B
+ He lives near here, in a kind of big metal boat. XXX
+// Danrys perso9
+L15D58C
+ Most of the Scavengers in these parts work for him. XXX
+// Danrys perso9
+L15D58D
+ He provides protection. In return, they give him a share of what they find. XXX
+// Arkhan2 G perso2
+L15D500
+ You too? XXX
+// Arkhan3 G perso3
+L15D501
+ And you? XXX
+// Danrys perso9
+L15D502A
+ It's different with me. I don't owe him anything, and he leaves me alone. XXX
+// Danrys perso9
+L15D502B
+ And like everyone else, he's happy that I'm there when he needs me... XXX
+// Danrys perso9
+L15D502C
+ No matter what happens, when you ask for his help, watch your back. XXX
+// Danrys perso9
+L15D502D
+ Armal Sadak never does anything without a reason. XXX
+// Arkhan2 G perso2
+L15D550A
+ I went to Armal Sadak's boat. XXX
+// Arkhan2 G perso2
+L15D550B
+ I can tell you one thing, they aren't a very talkative bunch! XXX
+// Arkhan3 G perso3
+L15D551A
+ I went to Armal Sadak's boat. XXX
+// Arkhan3 G perso3
+L15D551B
+ But those guys don't talk much! XXX
+// Danrys perso9
+L15D552A
+ Hmm... obviously, they don't know who you are... XXX
+// Danrys perso9
+L15D552B
+ I should have known they'd throw you out. XXX
+// Danrys perso9
+L15D552C
+ Listen, go back and tell them I sent you. And give them this password: XXX
+// Danrys perso9
+L15D552D
+ "Mankind is but a pawn that the hand of Destiny moves sometimes into the Darkness, and sometimes into the Light." XXX
+// Arkhan2 G (repeating) perso2
+L15D553
+ Mankind is but a pawn... that the hand of Destiny... moves sometimes ... into the Darkness and sometimes into the Light. XXX
+// Arkhan3 G (repeating) perso3
+L15D554
+ Mankind is but a pawn... that the hand of Destiny... moves sometimes ... into the Darkness and sometimes into the Light. XXX
+// Danrys perso9
+L15D555A
+ There. That way you'll know a friend sent you. XXX
+// Danrys perso9
+L15D555B
+ But be careful, those guys are as hard as nails! XXX
+// Arkhan2 L perso2
+L15D312A
+ Up there, the Sunseers told me about a crypt. XXX
+// Arkhan2 L perso2
+L15D312B
+ A kind of secret place where I'd find the cure for my sickness. XXX
+// Arkhan2 O perso2
+L15D313A
+ The antidote for this filthy poison is supposed to be hidden somewhere in a secret crypt. XXX
+// Arkhan2 O perso2
+L15D313B
+ That's what Thanandar the healer told me. XXX
+// Arkhan3 L perso3
+L15D314A
+ The Sunseers say there's a cure. XXX
+// Arkhan3 L perso3
+L15D314B
+ In a crypt... somewhere... XXX
+// Arkhan3 O perso3
+L15D315A
+ A cure... XXX
+// Arkhan3 O perso3
+L15D315B
+ Sunseers say it's in some crypt. XXX
+// Danrys perso9
+L15D316A
+ A secret crypt? What are you talking about? XXX
+// Danrys (hesitating) perso9
+L15D316B
+ I know how badly you want to believe that, but... XXX
+// Danrys perso9
+L15D316C
+ I think they told you that just to make you feel better. XXX
+// Arkhan2 G perso2
+L15D317A
+ They said the cure was in a secret crypt. XXX
+// Arkhan2 G perso2
+L15D317B
+ I found it, but it didn't cure me. XXX
+// Arkhan3 G perso3
+L15D318A
+ I found a cure in a crypt... XXX
+// Arkhan3 G perso3
+L15D318B
+ But it wasn't enough. XXX
+// Danrys perso9
+L15D319A
+ There must be another way... XXX
+// Danrys perso9
+L15D319B
+ Unfortunately, I don't know what it is. XXX
+// Arkhan2 G perso2
+L15D320A
+ Danrys, I found that secret crypt they told me about. XXX
+// Arkhan2 G perso2
+L15D320B
+ But I'm not cured! I must find another way. XXX
+// Arkhan3 G perso3
+L15D321A
+ The secret crypt, I found it... XXX
+// Arkhan3 G perso3
+L15D321B
+ But it didn't cure me! XXX
+// Arkhan2 L perso2
+L15D307A
+ My father seemed to know about this sickness. XXX
+// Arkhan2 L perso2
+L15D307B
+ I was supposed to meet him at the Temple of the Sun God, but he didn't show up. XXX
+// Arkhan2 L perso2
+L15D307C
+ Have you seen him? XXX
+// Arkhan2 O perso2
+L15D308A
+ Apparently, my father knew about this poison. XXX
+// Arkhan2 O perso2
+L15D308B
+ He told me to meet him at the Temple, but then he vanished! XXX
+// Arkhan2 O perso2
+L15D308C
+ You haven't seen him have you? XXX
+// Arkhan3 G perso3
+L15D309A
+ My father knows the cure. XXX
+// Arkhan3 G perso3
+L15D309B
+ I've got to find him! XXX
+// Arkhan3 G perso3
+L15D309C
+ Have you seen him? XXX
+// Danrys perso9
+L15D311A
+ Your father? XXX
+// Danrys perso9
+L15D311B
+ No. He rarely comes down into the Lower City. XXX
+// Danrys perso9
+L15D311C
+ If he is down here anywhere, it must be against his will! XXX
+// Arkhan2 G perso2
+L15D407A
+ Danrys, listen to me. XXX
+// Arkhan2 G perso2
+L15D407B
+ Things could get very dangerous around here. XXX
+// Arkhan2 G perso2
+L15D407C
+ It's more than just the Darkness... There's another one... another "changed" one, like me. XXX
+// Arkhan2 G perso2
+L15D407D
+ Thanandar... It's because of him I'm contaminated... XXX
+// Arkhan2 G perso2
+L15D407E
+ He... He wants to destroy the entire Stallite... And it's already started. XXX
+// Arkhan2 G perso2
+L15D407F
+ So, watch out, my old friend! XXX
+// Arkhan3 G perso2
+L15D408A
+ Danrys, listen! XXX
+// Arkhan3 G perso2
+L15D408B
+ Things are getting dangerous... XXX
+// Arkhan3 G perso2
+L15D408C
+ Not just the Darkness... Another one... "changed," like me. XXX
+// Arkhan3 G perso2
+L15D408D
+ Thanandar... He wants to destroy the Stallite. XXX
+// Arkhan3 G perso2
+L15D408E
+ And it's already started! XXX
+// Arkhan3 G perso2
+L15D408F
+ So, be careful, my friend! XXX
+// Danrys perso9
+L15D409A
+ I... Yes, all right. XXX
+// Danrys perso9
+L15D409B
+ Don't worry, I'll be careful! XXX
+// Danrys perso9
+L15D409C
+ With the Darkness, everyone's afraid... Armal Sadak's men are ready for war. XXX
+// Danrys perso9
+L15D409D
+ If things get ugly, I'm sure they'll help me. XXX
+// Arkhan2 L perso2
+L15D410
+ Have you ever heard anyone talk about a place called the "Tomb"? XXX
+// Arkhan2 O perso2
+L15D411
+ The "Tomb," ever heard of it? XXX
+// Arkhan3 G perso3
+L15D412
+ I'm looking for a place called the "Tomb". XXX
+// Danrys perso9
+L15D413
+ The Tomb? What is it? XXX
+// Arkhan2 L perso2
+L15D414A
+ According to Lory, and to my father's writings, it's a very secret place. XXX
+// Arkhan2 L perso2
+L15D414B
+ It's supposed to be under the Stallite...But the location of the entrance has been long forgotten. XXX
+// Arkhan2 L perso2
+L15D414C
+ My father said that a "Child of the Sun" is in there. XXX
+// Arkhan2 L perso2
+L15D414D
+ Whoever or whatever it may be, it's our last hope if we're going to save Sparta! XXX
+// Arkhan2 O perso2
+L15D415A
+ If you can believe what Lory and my father say, it is a very ancient place. XXX
+// Arkhan2 O perso2
+L15D415B
+ It's supposed to lie under our good old Stallite, but of course no one knows where the door is! XXX
+// Arkhan2 O perso2
+L15D415C
+ But my father said a "Child of the Sun" lies there. XXX
+// Arkhan2 O perso2
+L15D415D
+ I don't know what that is, but if it can save Sparta, I'll find it! XXX
+// Arkhan3 L perso3
+L15D416A
+ Lory and Rylsadhar said it's a very ancient spot... under the Stallite. XXX
+// Arkhan3 L perso3
+L15D416B
+ But no one knows where the entrance is. XXX
+// Arkhan3 L perso3
+L15D416C
+ That's where I'll find  " A child of the Sun" . XXX
+// Arkhan3 L perso3
+L15D416D
+ Maybe it's our last hope... to save Sparta. XXX
+// Arkhan3 O perso3
+L15D417A
+ Some ancient spot, lost under the Stallite. XXX
+// Arkhan3 O perso3
+L15D417B
+ I've got to find the entrance... XXX
+// Arkhan3 O perso3
+L15D417C
+ In there, is a... "Child of the Sun". XXX
+// Arkhan3 O perso3
+L15D417D
+ Our last chance! XXX
+// Danrys perso9
+L15D418A
+ A "Child of the Sun," eh? XXX
+// Danrys perso9
+L15D418B
+ I hope the Sunseers haven't been telling you tales! XXX
+// Danrys perso9
+L15D418C
+ As for getting under the Stallite, I'm stumped. We're sitting on a sheer cliff face! XXX
+// Danrys perso9
+L15D418D
+ Are you planning to dig a tunnel with your fingernails? XXX
+// Arkhan2 G perso2
+L15D86A
+ What's new, my friend? XXX
+// Arkhan3 G perso3
+L15D86B
+ Any news? XXX
+// Danrys perso9
+L15D87
+ No, sorry. Hang in there, Arkhan. XXX
+// Arkhan2 G perso2
+L15D59A
+ I'll come back and see you later. XXX
+// Arkhan3 G perso3
+L15D59B
+I'll come back and see you later. XXX
+// Danrys perso9
+L15D60
+ Hang in there, my friend. XXX
+// Arkhan2 G perso2
+L15D130A
+ This weapon is... XXX
+// Arkhan3 G perso3
+L15D130B
+ This weapon is... XXX
+// Danrys perso9
+L15D103A
+ You talk too much! Cut out the chat and turn on the grinding wheel. XXX
+// Arkhan2 G perso2
+L15D102A
+ The crystal, you... XXX
+// Arkhan3 G perso3
+L15D102B
+ The crystal, you... XXX
+// Arkhan2 G perso2
+L15D95
+ You're out of luck, Danrys! XXX
+// Arkhan3 G perso2
+L15D96
+ You've had it! XXX
+// Danrys perso9
+L15D76B
+ Hey! Calm down! XXX
+// Danrys perso9
+L15D100A
+ Stop this commotion! XXX
+// Danrys perso9
+L15D100B
+ Right now! XXX
+// Arkhan2 G (no electricity)perso2
+L15D461
+ The wheel doesn't work... XXX
+// Arkhan3 G (no electricity)perso3
+L15D462
+ Doesn't work... XXX
+// Arkhan2 G perso2
+L15D506
+ Danrys's grinding wheel, for shaping metal and stone. XXX
+// Arkhan3 G perso3
+L15D507
+ The grinding wheel... for metal, stone. XXX
+// Arkhan2 G perso2
+L15D112A
+ Danrys's grinding wheel has gone dead. XXX
+// Arkhan3 G perso3
+L15D112B
+ The grinding wheel's gone dead... XXX
+// Arkhan2 L (in front of the turning grinder)perso2
+L15D80A
+ Better not touch it... XXX
+// Arkhan3 L (in front of the turning grinder)perso3
+L15D80B
+ No ! Mustn't touch. XXX
+// Arkhan2 G (with weapon in front of the grinder)perso2
+L15D81A
+ No. Each time I try, I break the blade. XXX
+// Arkhan2 G perso2
+L15D81B
+ Only Danrys knows how to do it... XXX
+// Arkhan3 G (with weapon in front of the grinder)perso3
+L15D81C
+ No, I'm going to break the blade. XXX
+// Arkhan3 G perso3
+L15D81D
+ Only Danrys knows how to do it... XXX
+// Arkhan2 G perso2
+L15D82A
+ This crystal doesn't need to be carved... XXX
+// Arkhan3 G perso3
+L15D82B
+ No need to carve the crystal! XXX
+// Arkhan2 G perso2
+L15D465A
+ Yes, I could carve this crystal for the key... XXX
+// Arkhan2 G perso2
+L15D465B
+ But I'd need at least three pieces to carve the last one correctly. XXX
+// Arkhan3 G perso3
+L15D466A
+ Yes, I could carve it... for the key. XXX
+// Arkhan3 G perso2
+L15D466B
+ But I need to have at least three pieces before I can make the last one. XXX
+// Arkhan2 G perso2
+L15D419
+ I'm going to carve the crystal myself and finish the key. XXX
+// Arkhan3 G perso3
+L15D420
+ Carve the last crystal to make the key. XXX
+// Arkhan2 G perso2
+L15D89A
+ I already have all the crystals. I don't need that. XXX
+// Arkhan3 G perso3
+L15D89B
+ No need. I already have all the crystals. XXX
+// Arkhan2 G (with different objects)perso2
+L15D85A
+ I can't carve it! XXX
+// Arkhan3 G (with different objects)perso3
+L15D85B
+ It's impossible to carve! XXX
+// Arkhan2 G perso2
+L15D104A
+ One of those old machines from Before. XXX
+// Arkhan3 G perso3
+L15D104B
+ A machine from Before. XXX
+// Arkhan2 G perso2
+L15D105A
+ Here's the air machine Danrys was talking about. XXX
+// Arkhan3 G perso3
+L15D105B
+ Must be Danrys's air machine. XXX
+// Arkhan2 G perso2
+L15D421
+ There, it's full. XXX
+// Arkhan3 G perso3
+L15D422
+ Full. XXX
+// Arkhan2 G (to an aggressive Konkalite)perso2
+L15D91A
+ Whad'ya want! XXX
+// Arkhan3 G perso3
+L15D91B
+ Looking for something? XXX
+// Konkalite9 perso79
+L15D92
+ Your head! XXX
+// Arkhan2 G (defiantly)perso2
+L15D94A
+ Come and get it! XXX
+// Arkhan3 G (defiantly)perso3
+L15D94B
+ Come on! XXX
+// Arkhan2 G perso2
+L15D425
+ You'll be safe here! XXX
+// Arkhan3 G perso3
+L15D426
+ You'll be safe here. XXX
+// Kalhi perso13
+L15D427
+ You think I can just sit there and  twiddle my thumbs while...while you're being eaten alive by that evil poison!? XXX
+// Arkhan2 L (Danrys dead)perso2
+L15D428
+ Poor Danrys! He didn't deserve this. XXX
+// Arkhan2 O (Danrys dead)perso2
+L15D429
+ Danrys! I told him to be careful, but he didn't listen to me! XXX
+// Arkhan3 G perso3
+L15D430
+Too bad for Danrys. XXX
+// Kalhi (Danrys dead)perso13
+L15D431
+ We will avenge him! XXX
+// Arkhan2 G perso2
+L15D432
+ No! You stay here! XXX
+// Arkhan3 G perso3
+L15D433
+ You stay here! XXX
+// Arkhan2 L perso2
+L15D434
+ Kalhi, you could die out there! You've got to stay here, understand? XXX
+// Arkhan2 O perso2
+L15D435
+ Are you listening to me? You stay here or I'm gonna knock you out cold, understand? XXX
+// Arkhan3 G perso3
+L15D436
+ Don't move! XXX
+// Kalhi (determined) perso13
+L15D437
+ I am not a kid! I want to help you, and by the Sun God I'm going to. XXX
+// Arkhan2 G perso2
+L15D438
+ (helpless sigh) XXX
+// Arkhan3 G perso3
+L15D439
+ (helpless sigh) XXX
+// Arkhan2 L perso2
+L15D440
+ Kalhi! You're all I've got, I don't want to risk losing you. XXX
+// Arkhan2 O perso2
+L15D441A
+ I hope that taught you a lesson! XXX
+// Arkhan2 O perso2
+L15D441B
+ I'm having a hard enough time saving my own skin without having to save yours! XXX
+// Arkhan3 L perso3
+L15D472
+ No. I don't want you to risk your life! XXX
+// Arkhan3 O perso3
+L15D473
+ If you leave here... I'm the one who'll kill you! XXX
+// Kalhi perso13
+L15D467
+ Sure, I was scared! I've never been in a fight like that before! XXX
+// Kalhi perso13
+L15D443A
+ I helped you out, didn't I? XXX
+// Kalhi perso13
+L15D443B
+ So stop playing Mister Tough Guy! XXX
+// Kalhi perso13
+L15D444A
+ Whatever you say. I'll wait here. XXX
+// Kalhi perso13
+L15D444B
+ But be careful. XXX
+// Arkhan2 L perso2
+L15D445
+ Stay there, okay? XXX
+// Arkhan2 O perso2
+L15D446
+ You'd better stay where you are! XXX
+// Arkhan3 L perso3
+L15D447
+ Don't budge. XXX
+// Arkhan3 O perso3
+L15D448
+ Don't move, got it?! XXX
+// Kalhi perso13
+L15D449A
+ I'm a grownup, aren't I? I'm going to do what I think is right. XXX
+// Kalhi perso13
+L15D449B
+ And you can't stop me from helping you! XXX
+// Arkhan2 G perso2
+L15D450
+ Promise you'll wait for me here. XXX
+// Arkhan3 G perso3
+L15D451
+ You promise to wait? XXX
+// Kalhi perso13
+L15D452
+ I promise. XXX
+// Kalhi (hesitating) perso13
+L15D453
+ I don't know... Maybe you should ask Danrys. XXX
+// Kalhi perso13
+L15D454
+ No, Arkhan, I don't know any more than you do! XXX
+// Kalhi perso13
+L15D455
+ Arkhan, we'll see about that later... XXX
+// Arkhan2 O perso2
+L04D37
+ You fight like a wuss! XXX
+// Arkhan2 L perso2
+L04D38
+ Hey, you put up a pretty good fight, don't you?! XXX
+// Arkhan3 O perso3
+L04D39
+ Whooa.....You call that fighting?! XXX
+// Arkhan3 L perso3
+L04D40
+ Hey, you do know how to fight, don't you?! XXX
+// Kalhi (frightened) perso33
+L04D42
+ No, Arkhan! You have to resist! XXX
+// Kalhi (forced to defend herself) perso33
+L04D43
+ Arkhan, no! XXX

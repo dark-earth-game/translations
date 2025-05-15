@@ -1,0 +1,91 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL35.TXT
+ // Arkhan2 G (discovering the underwater tunnel) perso2
+L35D01
+ By the Sacred Rahal, I can walk under the water! XXX
+// Arkhan3 G (discovering the underwater tunnel) perso3
+L35D02
+ Great Solaar, I'm walking underwater! XXX
+// Arkhan2 G (inside helmet) perso2
+L35D27
+ No more air... No! XXX
+// Arkhan3 G (inside helmet) perso3
+L35D28
+ No more air... No! XXX
+// Arkhan2 G (coming across a drowned body) perso2
+L35D03
+ Poor guy... the Konkalites sank him with rocks for boots! XXX
+// Arkhan3 G (coming across a drowned body) perso3
+L35D04
+ The last Konkalite victim. XXX
+// Arkhan2 G perso2
+L35D100
+ Nothing interesting here. XXX
+// Arkhan3 G perso3
+L35D101
+ Nothing here. XXX
+// Arkhan2 G perso2
+L35D102
+ Nothin' here. XXX
+// Arkhan3 G perso3
+L35D103
+ Nothing. XXX
+// Arkhan2 G perso2
+L35D104
+ Nothing special. XXX
+// Arkhan3 G perso3
+L35D105
+ Don't see anything. XXX
+// Arkhan2 G (looking at a skeleton) perso2
+L35D07
+ That's what happens when the Konkalites put you on a diet... XXX
+// Arkhan3 G (looking at a skeleton) perso3
+L35D08
+ Another Konkalite victim. XXX
+// Arkhan2 L perso2
+L35D09
+ The Konkalite torture cells. XXX
+// Arkhan3 L perso3
+L35D10
+ Konkalite torture cell. XXX
+// Arkhan2 O (hitting a cell) perso2
+L35D11
+ A filthy torture cell! XXX
+// Arkhan3 O (hitting a cell) perso3
+L35D12
+ Filthy Konkalites! XXX
+// Arkhan2 L perso2
+L35D15
+ An old cask. XXX
+// Arkhan2 O (crashing around) perso2
+L35D16
+ Not another stupid cask! XXX
+// Arkhan3 L perso3
+L35D17
+ An old cask. XXX
+// Arkhan3 O (crashing around) perso3
+L35D18
+ Lousy casks! XXX
+// Arkhan2 G (searching skeleton) perso2
+L35D19
+ Nothing but bones... XXX
+// Arkhan3 G (searching skeleton) perso3
+L35D20
+ Bones! XXX
+// Arkhan2 G (finding object under skeleton) perso2
+L35D21
+ Hey, can I borrow that?... unless you still need it. XXX
+// Arkhan3 G (finding object under skeleton) perso3
+L35D22
+Gee....Thanks, pal! XXX
+// Arkhan2 G perso2
+L35D23
+ Ruins from Before... XXX
+// Arkhan3 G perso3
+L35D24
+ Ruins from Before... XXX
+// Arkhan2 G (sea monster) perso2
+L35D25
+ Nawww, too tough to eat! XXX
+// Arkhan3 G ("searching" the sea monster) perso3
+L35D26
+ No... nothing to eat! XXX

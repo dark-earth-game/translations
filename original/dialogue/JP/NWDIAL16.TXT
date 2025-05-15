@@ -1,0 +1,616 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL16.TXT
+ // Delia (to Maor) perso10
+L16D200
+ So, Maor? XXX
+// Maor perso17
+L16D201A
+ Great show, Delia... like usual. XXX
+// Maor perso17
+L16D201B
+ Armal Sadak and his men must be spellbound! XXX
+// Delia (to Maor) perso10
+L16D202
+ Good, I'm going to my dressing room... I'm tired. XXX
+// Maor (gruffly)perso17
+L16D666
+ You're embarrassing me! XXX
+// Maor (gruffly)perso17
+L16D667
+ I have no time for games, move it! XXX
+// Maor (irritated)perso17
+L16D668
+ Get out of my way or you gonna regret it! XXX
+// Maor (going to attack)perso17
+L16D669
+ By my torch, you asked for it! XXX
+// Maor (afraid, attacks)perso17
+L16D670
+ You're not gonna get me, you monster! XXX
+// Maor (from a distance, angry)perso1
+L16D999
+ Hey fart face! Get out of there! XXX
+// Delia (shocked)perso10
+L16D125
+ Maor wasn't himself, he was a beast! XXX
+// Arkhan2 L perso2
+L16D203
+ Trust me, I'm still human. XXX
+// Arkhan2 O perso2
+L16D204
+ Hurry up, come on...before I "change" too! (laugh) XXX
+// Arkhan3 G perso3
+L16D205
+ Come on, let's go! XXX
+// Maor (furious)perso17
+L16D998
+ Come here scum! I'll teach you to hit at the women! XXX
+// Delia (recognizes Maor horribly transformed)perso10
+L16D25
+ Great Sun God, Maor! XXX
+// Delia (surprised and frightened by Arkhan)perso10
+L16D49
+ Who... Who are you? What do you want? XXX
+// Delia perso10
+L16D51
+ You again! XXX
+// Delia perso10
+L16D50
+ It's you. I hope you've got something for me. XXX
+// Delia (frightened)perso10
+L16D52
+ No! Stay away! XXX
+// Delia perso10
+L16D122
+ Stop! You're scaring me! XXX
+// Delia (frightened, calling)perso10
+L16D906
+ Maor! Maor! XXX
+// Maor perso17
+L16D350
+ Hey, the bad breath contest is tomorrow night! XXX
+// Maor perso17
+L16D351
+ Okay,  monster, here I come! XXX
+// Maor (A. approaching)perso17
+L16D127
+ What do you want? XXX
+// Arkhan2 L perso2
+L16D206
+ Hey, Maor... XXX
+// Arkhan2 O perso2
+L16D207
+ Hey, I'm talking to you! XXX
+// Maor (gruffly)perso17
+L16D208
+ Wait for me at the bar, I'll be there in a second... XXX
+// Arkhan3 L perso3
+L16D209
+ Hey! XXX
+// Maor perso17
+L16D210
+ Calm down! Go to the bar, I'll be there in a second! XXX
+// Arkhan2 L perso2
+L16D500
+ Don't be afraid, Bogdaran sent me. XXX
+// Delia perso10
+L16D501
+ Bogdaran? Where is he? XXX
+// Arkhan2 L perso2
+L16D502
+ Up there in the Upper City. I'm going to take you to see him. XXX
+// Delia perso10
+L16D503
+ Okay, I'll go with you. XXX
+// Arkhan2 O perso2
+L16D504A
+ Bogdaran sent me to find you! XXX
+// Arkhan2 O perso2
+L16D504B
+ Follow me and don't ask questions. XXX
+// Delia (intimidated)perso10
+L16D505
+ Bogdaran? XXX
+// Arkhan2 O perso2
+L16D506
+ Yes. Follow me and you'll soon be... uh... with him. XXX
+// Arkhan2 L perso2
+L16D507
+ Don't worry, we'll be there soon. XXX
+// Delia perso10
+L16D508
+ Whatever you want, let's just get the hell out of here! XXX
+// Arkhan2 O perso2
+L16D509
+ And get a move on, time's a luxury I don't have! XXX
+// Arkhan2 O perso2
+L16D510
+ Anything I want, eh? I better think about that one... XXX
+// Arkhan2 G (showing a dead rat)perso2
+L16D888
+How about a snack? XXX
+// Delia (disgusted) perso10
+L16D889
+ Ugh! Get that out of my sight! XXX
+// Delia perso10
+L16D700
+ No, that's not my kind of thing. XXX
+// Arkhan3 L perso3
+L16D402
+ Relax! I won't hurt you. XXX
+// Delia perso10
+L16D409
+ Keep cool, you  monster! XXX
+// Arkhan3 L perso3
+L16D407
+ Listen to me! XXX
+// Delia perso10
+L16D410
+ If you touch me you'll die like a rat! XXX
+// Arkhan3  G perso3
+L16D511
+ Come with me! XXX
+// Delia perso10
+L16D512
+ I'm right behind you. XXX
+// Arkhan2 L perso2
+L16D513A
+ What's going on here? XXX
+// Arkhan2 L perso2
+L16D513B
+ There's no one next door. XXX
+// Delia (timidly)perso10
+L16D514A
+ I... I was hiding. I heard shouting, fighting. XXX
+// Delia perso10
+L16D514B
+ I was afraid. XXX
+// Arkhan2 L perso2
+L16D515C
+ Don't move! Stay here! XXX
+// Arkhan2 O perso2
+L16D516A
+ So, hiding in your dressing room! XXX
+// Arkhan2 O perso2
+L16D516B
+ Are you alone? XXX
+// Arkhan2 O perso2
+L16D517
+ Don't worry, with me you've got nothing to fear! XXX
+// Arkhan2 L perso2
+L16D518
+ Stay there. Hide. XXX
+// Arkhan2 O perso2
+L16D519
+ Stay there. Your gonna get your throat slit if you go outside! XXX
+// Delia perso10
+L16D520
+ Yes... I'd rather stay inside. XXX
+// Arkhan2 G perso2
+L16D521
+ Don't worry, I'll deal with this! XXX
+// Delia perso10
+L16D522
+ Be careful! XXX
+// Arkhan2 L perso2
+L16D100
+ Fear not! I'm not here to hurt you! XXX
+// Delia (fearful)perso10
+L16D101
+ So, what...what do you want? XXX
+// Arkhan2 L (reassuringly)perso2
+L16D102A
+ Whoa, whoa, whoa... Calm down... My name is Arkhan, I'm a friend of the Scavengers. XXX
+// Arkhan2 L perso2
+L16D102B
+ I know I look like the devil himself, but believe me, I won't hurt you. XXX
+// Arkhan2 L perso2
+L16D102C
+ Don't be afraid, okay? XXX
+// Delia (reassured but prudent)perso10
+L16D103
+ Hm... okay. But if you come near me, I'll call Maor! XXX
+// Arkhan2 L (trying to break the ice) perso2
+L16D104
+ Uh... I saw your number. It was really good. XXX
+// Delia perso10
+L16D105A
+ Thank you, you're sweet... XXX
+// Delia perso10
+L16D105B
+ Listen, what do you want from me? XXX
+// Arkhan2 L perso2
+L16D106
+ I need your help. The Guardians of Fire are after me. Can you help me? XXX
+// Delia perso10
+L16D107
+ Around here, if you need a favor, go see Armal Sadak. XXX
+// Arkhan2 L perso2
+L16D108
+ Armal Sadak? XXX
+// Delia perso10
+L16D109A
+ Sure! He's the chief Scavenger in the Lower City. Everyone around here owes him something. XXX
+// Delia perso10
+L16D109B
+ If there's one person who can help you, it's him! I don't know if he'd want to though... XXX
+// Arkhan2 L perso2
+L16D110
+ Where can I find him? XXX
+// Delia perso10
+L16D111
+ It's not that easy... I can't just take you to see him. I need proof that you're on the level with me. XXX
+// Arkhan2 L perso2
+L16D112
+ I know Armal Sadak. but I don't know if he can help me.  XXX
+// Delia perso10
+L16D113
+ If Armal Sadak can't help you, I don't see what I can do. XXX
+// Arkhan2 L perso2
+L16D114
+ What do you want me to do? XXX
+// Delia perso10
+L16D115A
+ Bring me a present, something beautiful, something shiny...  XXX
+// Delia perso10
+L16D115B
+ Then I'll see what I can get Armal Sadak to do for you... XXX
+// Arkhan2 G perso2
+L16D116
+ You've got nothing else to say? XXX
+// Delia perso10
+L16D117
+ No, I don't think so. XXX
+// Arkhan2 O perso2
+L16D118
+ Shut up! Stop bawling!  XXX
+// Delia (fearful)perso10
+L16D119
+ No! Please, don't hurt me! XXX
+// Arkhan2 O (menacingly) perso2
+L16D120A
+ Enough, slut! XXX
+// Arkhan2 O perso2
+L16D120B
+Listen, If you don't cooperate with me, I'm gonna teach you a VERY special little "dance" and you won't soon forget it, believe me! XXX
+// Delia (becoming frightened) perso10
+L16D121
+ No! Maor, help! XXX
+// Delia perso10
+L16D886A
+ You came to barter? XXX
+// Delia perso10
+L16D886B
+I'm not interested, my gentleman friends give me everything I want... XXX
+// Delia perso10
+L16D887
+ I told you I don't barter! XXX
+// Arkhan2 O perso2
+L16D66
+ You're gonna help me and your gonna help me now, or I'm going to give you a little face-lift! XXX
+// Delia perso10
+L16D67
+ No, don't hit me! XXX
+// Arkhan2 L perso2
+L16D68
+ I have no gift to offer you, but I really need your help! XXX
+// Delia perso10
+L16D69
+ Sorry, I just can't take you to see Armal Sadak like that... XXX
+// Arkhan2 G perso2
+L16D70
+ Maybe I have what you're looking for. How about that? XXX
+// Delia perso10
+L16D71
+ No. That doesn't interest me... XXX
+// Delia (A. gives her a CD)perso10
+L16D72
+ A light mirror from Before! Yes, it's wonderful! XXX
+// Delia perso10
+L16D74A
+ You'll find Armal Sadak not far from here, in a building that looks like a boat. XXX
+// Delia perso10
+L16D74B
+ When you see him, say this phrase : XXX
+// Delia perso10
+L16D74C
+ "Mankind is but a pawn the hand of Destiny moves sometimes into the Dark, and sometimes into the Light." XXX
+// Delia perso10
+L16D75
+ It's a password. XXX
+// Arkhan2 G perso2
+L16D76
+ That's all? XXX
+// Delia perso10
+L16D77
+ That's all you need to talk to him. But if you really want him to help you, you'll need to beat him at Yong. XXX
+// Arkhan2 G perso2
+L16D78
+ What's Yong, a game? XXX
+// Delia perso10
+L16D79A
+ It's Armal Sadak's favorite game. He plays it all the time. XXX
+// Delia perso10
+L16D79B
+ He says that life is like playing Yong, or something like that. XXX
+// Arkhan2 G perso2
+L16D80
+ How can I beat him? XXX
+// Delia perso10
+L16D81A
+ I don't really know...  XXX
+// Delia perso10
+L16D81B
+ It's played on a board with pawns of darkness and pawns of light. XXX
+// Delia perso10
+L16D82
+ And Armal always says that to win, you've got to place the pawns at the corners of the board.   XXX
+// Arkhan2 G perso2
+L16D83
+ Can't you tell me anything else? XXX
+// Delia perso10
+L16D84
+ No, I've told you everything I know.  XXX
+// Delia perso10
+L16D85
+ Now, you must go... XXX
+// Delia perso10
+L16D885A
+ You've already given me a present, that's enough. XXX
+// Arkhan2 L perso2
+L16D400
+ Don't be afraid! I won't hurt you. XXX
+// Arkhan2 O perso2
+L16D401
+ Shut up, slut, or I'll give you something to yap about! XXX
+// Delia perso10
+L16D404A
+ Monster! You'll pay for what you've done to Maor. XXX
+// Delia perso10
+L16D404B
+ If you touch me, Armal will dig out your heart with his fingernails! XXX
+// Arkhan2 L perso2
+L16D405
+ I'm not going to kill anyone, I need help. XXX
+// Arkhan2 O perso2
+L16D406
+ All I want is some help! XXX
+// Delia perso10
+L16D408
+ Get out of here! I've got nothing to say! XXX
+// Delia (hit by Arkhan) perso10
+L16D403
+ Stop, you filthy beast! XXX
+// Arkhan2 L perso2
+L16D300A
+ Hi... Maor, right? XXX
+// Arkhan2 L perso2
+L16D300B
+ Nice show... XXX
+// Maor perso17
+L16D301
+ Hmm... What do you want? XXX
+// Arkhan2 O perso2
+L16D302A
+ Oooh ! Tasty little dancer you've got there. XXX
+// Arkhan2 O perso2
+L16D302B
+ How do you feel about sharing her? XXX
+// Maor perso17
+L16D303A
+ Forget it, man. Delia has lots of gentlemen friends as it is. XXX
+// Maor perso17
+L16D303B
+ And in any case, you're not her type! XXX
+// Arkhan2 L perso2
+L16D304A
+ I'm Arkhan, friend of the Scavengers. XXX
+// Arkhan2 L perso2
+L16D304B
+ I've got some problems with the Guardians of Fire... and could use a little help. XXX
+// Arkhan2 O perso2
+L16D306A
+ My name's Arkhan. I've got the Guardians of Fire on my butt and poison rotting me out... XXX
+// Arkhan2 O perso2
+L16D306B
+ And, if you want to know the truth, I'm trying to solve the whole mess down here, right in the middle of all the tattooed half-wits in this rat hole! XXX
+// Maor perso17
+L16D305
+ I see... But you won't have any luck here. XXX
+// Maor (gruffly but generously)perso17
+L16D307A
+ Daaaa..., there's a flask of Stohll on the table.  XXX
+// Maor perso17
+L16D307B
+ Help yourself, it's on the house. XXX
+// Maor (gruffly but generously)perso17
+L16D308A
+ And keep the flask, it's yours. XXX
+// Maor perso17
+L16D308B
+ That's all I can do for you. XXX
+// Arkhan2 L perso2
+L16D309
+ If you can't help me, who can? XXX
+// Maor perso17
+L16D310A
+ Hmm... I suppose you're not going to turn yourself in to the Guardians of Fire... XXX
+// Maor perso17
+L16D310B
+ If you've got nothing to lose, you could always go see Armal Sadak. XXX
+// Maor perso17
+L16D310C
+ But whatever you do, don't mess with the Konkalites. That's just asking for trouble! XXX
+// Arkhan2 O perso2
+L16D311A
+ I was wondering-do you ever smile? XXX
+// Arkhan2 O perso2
+L16D311B
+ Or do you spend all your time trying to look tough? XXX
+// Maor perso17
+L16D312A
+ I only smile at pretty girls, okay? XXX
+// Maor perso17
+L16D312B
+ Get going, I'm a busy man... XXX
+// Arkhan2 L perso2
+L16D313
+ Couldn't you tell me just a little bit more? XXX
+// Maor perso17
+L16D314
+ Sorry, I'm fresh out of advice. XXX
+// Arkhan2 L perso2
+L16D315
+ Are you sure you don't have anything else to tell me? XXX
+// Maor perso17
+L16D316A
+ I'm sure...  XXX
+// Maor perso17
+L16D316B
+ Look, if it's small talk you're after, go see Delia. XXX
+// Arkhan2 O perso2
+L16D317A
+ Tough guy, huh! You know what I think? XXX
+// Arkhan2 O perso2
+L16D317B
+ I think you're shaking like a leaf. I think you've got your legs crossed to keep your knees from knocking! XXX
+// Maor (angrily) perso17
+L16D318A
+ Okay, amigo! What you need is your face rearranged . XXX
+// Maor perso17
+L16D318B
+ Come over here, I'm going to do you a favor! XXX
+// Arkhan3 L perso3
+L16D320
+ Hi, man XXX
+// Maor (impressed)perso17
+L16D321
+ Great Sun God... Who are you? XXX
+// Arkhan3 L perso3
+L16D322
+ Relax. I'm looking for... some help. XXX
+// Maor (impressed)perso17
+L16D323
+ Sorry, amigo. Nothin' I do for you. XXX
+// Arkhan3 L perso3
+L16D324
+ Who can I go see... a healer perhaps. XXX
+// Maor perso17
+L16D325A
+ Uh... I'm just a Scavenger, healing is way out of my league... XXX
+// Maor perso17
+L16D326A
+ But there's a flask of Stohll, there, on the table. XXX
+// Maor perso17
+L16D326B
+ If you want it, take it.  XXX
+// Maor perso17
+L16D327A
+ Keep the Stohll, it's yours. XXX
+// Arkhan3 L perso2
+L16D328
+ Are you sure you can't help me? XXX
+// Maor (uneasy) perso17
+L16D329
+ I'd like to, but I don't know what to tell you... XXX
+// Arkhan3 L perso2
+L16D330
+ You really have nothing for me? XXX
+// Maor (uneasy)perso17
+L16D331
+ No, sorry... XXX
+// Arkhan3 O perso3
+L16D332
+ You! You're going to help me! XXX
+// Maor (impressed) perso17
+L16D333A
+ I don't know who you are or what you want! XXX
+// Maor (impressed) perso17
+L16D333B
+ But I'm warning you: I've got a weapon and I know how to use it! XXX
+// Arkhan3 O perso3
+L16D334
+ You little scumbag, I'm going to slaughter you! XXX
+// Arkhan2 G perso2
+L16D335
+ Have some Stohll? XXX
+// Maor perso17
+L16D336
+ Keep it for yourself, I've got all I need! XXX
+// Arkhan3 G perso3
+L16D337
+ Stohll? XXX
+// Maor (impressed)perso17
+L16D338
+ No... No... Just drink  in my honor. XXX
+// Arkhan2 G perso2
+L16D339
+ You want a flask? XXX
+// Maor perso17
+L16D340
+ No, amigo, that's enough for me. XXX
+// Arkhan3 G perso3
+L16D341
+ You want some? XXX
+// Maor (impressed)perso17
+L16D342
+ No... Thanks. XXX
+// Maor perso17
+L16D343
+ No, I don't want any. XXX
+// Maor (impressed)perso17
+L16D346
+ No, thanks. Keep it for yourself. XXX
+// Arkhan2 L perso2
+L16D904
+Hmm... roast bird, very tempting. XXX
+// Arkhan3 L perso2
+L16D905
+ A bird... and well roasted! XXX
+// Maor perso17
+L16D04
+ Hey, get out of there! XXX
+// Maor perso17
+L16D07A
+ Hey, the bar is my turf! XXX
+// Maor perso17
+L16D07B
+ And I want you out of it, understand? XXX
+// Maor perso17
+L16D08
+ I warned you! XXX
+// Arkhan2 G perso2
+L16D118A
+ A little music box. XXX
+// Arkhan2 G perso2
+L16D118B
+ Danrys made it for me when I was a kid. XXX
+// Arkhan3 G perso3
+L16D119A
+ A music box. XXX
+// Arkhan3 G perso3
+L16D119B
+ Like the one Danrys made for me so long ago. XXX
+// Arkhan2 L perso2
+L16D900
+ With spikes like those, no one would jump on stage and kiss the dancer! XXX
+// Arkhan3 L perso3
+L16D901
+ Blasted spikes! XXX
+// Arkhan2 G perso2
+L16D902
+ The wall is covered with an old painting from Before. XXX
+// Arkhan3 G perso3
+L16D903
+ On the wall, there's an old painting from Before. XXX
+// Arkhan2 G perso2
+L16D701
+ It's a cask of Stohll. XXX
+// Arkhan3 G perso3
+L16D702
+ A cask of Stohll. XXX
+// Arkhan2 G perso2
+L08D71
+ No, the flask is already full. XXX
+// Arkhan3 G perso3
+L08D72
+ The flask is full! XXX

@@ -1,0 +1,22 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL43.TXT
+ // Arkhan3 L perso3
+L43D01
+ Give up, Thanandar!  XXX
+// Arkhan3 O (mad with rage) perso3
+L43D02
+ Go on, Give me some! XXX
+// Arkhan3 G perso3
+L43D03A
+ Can't do it! Won't budge! XXX
+// Arkhan3 G perso3
+L43D03B
+ Gotta fight! XXX
+// Arkhan3 G perso3
+L43D04
+ These pebbles won't stop him! XXX
+// Arkhan3 G perso3
+L43D05A
+ The wall... burning hot! XXX
+// Arkhan3 G perso3
+L43D05B
+ The Light Force is behind that door! XXX

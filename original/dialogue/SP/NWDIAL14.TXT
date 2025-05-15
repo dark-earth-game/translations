@@ -1,0 +1,924 @@
+Début du fichier F:\DEV\DKE\DATAS\DIALOGUE\SP\NWDIAL14.TXT
+ // Kalhi1 perso13
+L14D108
+ ¡Venga, vamos a casa de Danrys! XXX
+// Arkhan2 G perso2
+L14D45
+¡Ya era hora ! XXX
+
+// Arkhan3 G perso3
+L14D46
+¡Bandor, por fin! XXX
+// Malfrat4 (Arkhan le grita desde arriba) perso64
+L14D235
+ ¡Loco, voy a calmarte! XXX
+// Nourrisseuse (Arkhan le grita desde arriba) perso16
+L14D236
+ ¡Socorro! ¡Un fanático! XXX
+// Malfrat1 (Arkhan le grita desde arriba) perso61
+L14D237
+ ¡Vas a saber por qué gritas! XXX
+// Delia perso10
+L16D122
+ ¡Deténte! ¡Me das miedo! XXX
+// Nourrisseuse perso16
+L14D263
+ Ah, tú otra vez aquí, amigo. XXX
+// Malfrat1 perso61
+L14D171
+ ¡Si te acercas, te agujereo la tripa! XXX
+// Arkhan2 L perso2
+L14D139A
+ ¡Cálmate! ¡No busco gresca! XXX
+// Arkhan2 O perso2
+L14D139B
+ ¡Puedes intentarlo... pero no confíes demasiado en tu golpe! XXX
+// Malfrat1 perso61
+L14D140
+ Hmm... ¡De acuerdo, pero nada de jugarretas! XXX
+// Malfrat1 (alertado) perso61
+L14D172
+ ¡Un mutado! ¡Alerta! XXX
+// Nourrisseuse perso16
+L14D167
+ ¡Hola! ¡Relaja tus músculos, si quieres! XXX
+// Nourrisseuse perso26
+L14D168
+ ¿Te calmas? ¡Está bien! XXX
+// Malfrat4 (Arkhan le amenaza con una pistola) perso64
+L14D169
+ ¡Eh, cuidado con ese artefacto! XXX
+// Malfrat4 (Arkhan ha guardado su pistola) perso64
+L14D170A
+ ¡Eso está mejor! XXX
+// Malfrat4 perso64
+L14D170B
+ ¡Si disparas con ese arma por aquí, no harás muchos amigos! XXX
+// Malfrat1 perso2
+L14D203
+ ¡Eh, con cuidado! XXX
+// Malfrat1 perso61
+L14D204
+ ¡Bueno, lo prefiero así!             XXX
+// Arkhan2 L perso2
+L14D05
+ Que la luz esté contigo, Buscador. XXX
+// Malfrat4 perso64
+L14D07A
+ ¿Quién eres tú? Nunca te había visto. XXX
+// Malfrat4 perso64
+L14D07B
+ ¡Tu hocico de pesadilla no es del tipo que se olvide fácilmente! XXX
+// Arkhan2 L perso2
+L14D177
+ Me llamo Arkhan, y soy un amigo del viejo Danrys. XXX
+// Malfrat4 perso64
+L14D178A
+ Mi nombre es Kubert.  XXX
+// Malfrat4 (medio en broma, medio en serio) perso64
+L14D178B
+ ¡No te estrecho la mano, ya que con mi fuerza me arriesgaría a arrancártela! XXX
+// Malfrat4 perso64
+L14D178C
+ (risa) XXX
+// Arkhan2 O perso2
+L14D08
+ ¡Eh, la ruleta! XXX
+// Malfrat4 (enervado) perso64
+L14D09A
+ ¿Qué es lo que tienes, hombre? XXX
+// Malfrat4 (enervado) perso64
+L14D09B
+ ¡Buscas a alguien para que te agujeree las espinillas! XXX
+// Arkhan2 O perso2
+L14D179A
+ ¡Eres un gracioso! XXX
+// Arkhan2 O perso2
+L14D179B
+ Yo, soy Arkhan. Un colega del viejo Danrys. XXX
+// Malfrat4 perso64
+L14D180
+ ¿"Arkhan", eh? ¡Yo te habría llamado mejor "cara de pedo"! XXX
+// Arkhan2 L perso2
+L14D10
+ Quizá puedas ayudarme, Kubert. XXX
+// Malfrat4 perso64
+L14D11A
+ ¡Te advierto que soy un hombre ocupado! XXX
+// Malfrat4 perso64
+L14D11B
+ ¡Un Buscador debe trabajarse su comida! XXX
+// Malfrat4 perso64
+L14D11C
+ ¡No soy un Predicador iluminado que se alimenta de la luz! XXX
+// Arkhan2 O perso2
+L14D12A
+ Yo me pregunto... XXX
+// Arkhan2 O perso2
+L14D12B
+ Esa máscara sobre tu jeta, ¿es para que tu madre no te reconozca? XXX
+// Arkhan2 O perso2
+L14D12C
+ ¡Ella no debe estar orgullosa de haber dado a luz ni a la mitad de lo que eres! XXX
+// Malfrat4 (encolerizado) perso64
+L14D13A
+ Me va a hacer falta un tazón para comer... XXX
+// Malfrat4 (encolerizado) perso64
+L14D13B
+ ¡Tu mierda de cráneo vacío servirá! XXX
+// Arkhan2 L perso2
+L14D34A
+ Es importante. XXX
+// Arkhan2 L perso2
+L14D34B
+ Necesito ayuda para curarme.  XXX
+// Malfrat4 perso64
+L14D35A
+ ¡Ah, eso, está claro! Hará falta tiempo para que te transformes en un buen padre Buscador adecuado. 
+XXX
+// Malfrat4 perso64
+L14D35B
+ Quizá deberías empezar por lavarte. XXX
+// Malfrat4 perso64
+L14D35B
+ Quizá deberías empezar por lavarte. XXX
+// Malfrat4 perso64
+L14D35C
+ ¡Hueles mal, chaval! XXX
+// Malfrat4 perso64
+L14D35D
+ ¡Una rata muerta que hubiera navegado por el barro durante diez ciclos no apestaría tanto! XXX
+// Arkhan2 L perso2
+L14D36A
+ Busco un Sanador. XXX
+// Malfrat4 perso64
+L14D37A
+ ¿De qué agujero sales? ¡Los únicos Sanadores están ahí arriba, en casa de los Predicadores! XXX
+// Malfrat4 perso64
+L14D37B
+ Pero si subimos, los Guardianes del Fuego nos patearán el culo. XXX
+// Arkhan2 L perso2
+L14D36B
+ ¡Contigo, se destrozarían el pie! XXX
+// Malfrat4 (aprecia la broma) perso64
+L14D37C
+ ¡Si, tienes razón, hocico de cagadero! XXX
+// Arkhan2 L perso2
+L14D38
+ ¿No tenéis un jefe? XXX
+// Malfrat4 perso64
+L14D39A
+ Aquí abajo sólo hay un jefe, Armal Sadak. XXX
+// Malfrat4 perso64
+L14D39B
+ Si alguien puede ayudarte, será él. XXX
+// Malfrat4 perso64
+L14D39C
+ ¡Pero debo prevenirte, tu hocico no le gustará! ¡Seguro! XXX
+// Arkhan2 L perso2
+L14D181
+ ¿Qué otro, entonces? XXX
+// Malfrat4 perso64
+L14D182A
+ Los "otros", son los Konkalites.  XXX
+// Malfrat4 perso64
+L14D182B
+ Pero créeme, preferirías hacerte comer los cojones por unas ratas que tener tratos con ellos. XXX
+// Malfrat4 perso64
+L14D182C
+ ¡Sordos es un auténtico enfermo! XXX
+// Arkhan2 L perso2
+L14D183
+ ¿Sordos? XXX
+// Malfrat4 perso64
+L14D184
+ ¡Su jefe! Desafió a Armal Sadak y después se escondió con su banda para rumiar acciones malvadas. 
+XXX
+// Arkhan2 L perso2
+L14D40
+ Dime un poco más... XXX
+// Arkhan2 L perso2
+L14D40
+ Dime un poco más... XXX
+// Malfrat4 perso64
+L14D41A
+ ¡Oh oh, eso es suficiente! XXX
+// Malfrat4 perso64
+L14D41B
+ ¡Yo no soy el narrador público! XXX
+// Arkhan2 O (amenazante) perso2
+L14D42
+ ¡Ahora, para de hacerte el listo y responde! XXX
+// Malfrat4 (va a golpear a Arkhan) perso64
+L14D43
+ ¡Seguro! ¡Vas a sentir mi respuesta! XXX
+// Arkhan2 L perso2
+L14D00
+ Eh, el Buscador... XXX
+// Malfrat4 (amenazante) perso64
+L14D01A
+ ¡Primero, guárdate ese arma, me pone nervioso! XXX
+// Malfrat4 (amenazante) perso64
+L14D01B
+ Después, ya veremos... XXX
+// Arkhan2 L perso2
+L14D04
+ ¡No te pongas de mal humor, no quiero hacerte daño! XXX
+// Malfrat4 perso64
+L14D06
+ ¡Te digo que guardes ese artefacto! XXX
+// Arkhan2 O perso2
+L14D02
+ ¿Que te pasa, medianía? ¿Tienes canguelo? XXX
+// Malfrat4 perso64
+L14D03
+ ¡Vas a ver si tengo canguelo! XXX
+// Malfrat4 perso64
+L14D13
+ ¡Voy a destriparte! XXX
+// Arkhan2 G perso2
+L14D44
+ ¿Esto te interesa? XXX
+// Malfrat4 perso64
+L14D45A
+ No, olvídalo. XXX
+// Malfrat4 perso64
+L14D45B
+ ¡Mi madre siempre me decía que no aceptase nada de un tío que tuviera el culo en el sitio de la boca! 
+XXX
+// Arkhan3 L perso3
+L14D18
+ ¡Eh, tú! XXX
+// Arkhan3 L perso3
+L14D18
+ ¡Eh, tú! XXX
+// Malfrat4 (impresionado por Arkhan3) perso64
+L14D19A
+ Escucha, eh... amigo. No busco molestarte. XXX
+// Malfrat4 (impresionado por Arkhan3) perso64
+L14D19B
+ Me parece que me has visto y que todo irá bien, ¿de acuerdo?. XXX
+// Malfrat4 (muy impresionado por Arkhan3) perso64
+L14D15
+ Oh-oh, no te pongas nervioso, no te he hecho nada, ¡¿ves?! XXX
+// Arkhan3 L perso3
+L14D20
+ ¡Espera, quiero hablarte! XXX
+// Malfrat4 perso64
+L14D21A
+ ¡No me toques! XXX
+// Malfrat4 (va a golpear a Arkhan) perso64
+L14D21B
+ ¡Yo también tengo garras! XXX
+// Malfrat4 (va a golpear a Arkhan) perso64
+L14D185
+ ¡Vas a ver! XXX
+// Malfrat4 (burlón) perso64
+L14D206A
+ "Que la luz esté contigo", ¿eh? XXX
+// Malfrat4 perso64
+L14D206B
+ ¡Por si no te habías percatado, aquí ya no hay luz! XXX
+// Malfrat4 perso64
+L14D207A
+ ¡El Dios Sol nos ha abandonado, amigo! XXX
+// Malfrat4 perso64
+L14D207B
+ Harías mejor en no entretenerte por aquí si aprecias tu cuerpo. XXX
+// Arkhan2 O perso2
+L14D214
+ Oh, ¿qué es lo que haces aquí? XXX
+// Malfrat4 perso64
+L14D223
+ ¡Prefiero quedarme aquí, es más acogedor que cualquier otro sitio! XXX
+// Arkhan2 L perso2
+L14D208
+ ¿Qué es lo que pasa aquí abajo? XXX
+// Malfrat4 perso64
+L14D209
+ ¡Ha sido después de que la Oscuridad nos hubiera caído encima! XXX
+// Malfrat4 perso64
+L14D210A
+ Hay quien dice que unas cosas de la Oscuridad han vuelto a entrar en la ciudad. XXX
+// Malfrat4 perso64
+L14D210B
+ ¡Y su presa somos nosotros, los Buscadores! XXX
+// Malfrat4 perso64
+L14D210C
+ Y los que no mueren... se transforman...  XXX
+// Malfrat4 perso64
+L14D210D
+ Y se vuelven como esas criaturas. XXX
+// Malfrat4 perso64
+L14D213
+ ¡Pero si vienen por mí, tendrán que tragarse antes estas garras! XXX
+// Arkhan2 L perso2
+L14D211
+ ¿No sabes nada más sobre las criaturas de la Oscuridad? XXX
+// Malfrat4 perso64
+L14D212
+ ¡No... y tendría que saber más! XXX
+// Arkhan2 O perso2
+L14D215
+ ¿Qué es ese olor que desprendes? ¡Se diría que has ensuciado de mierda tu pantalón! XXX
+// Arkhan3 L perso3
+L14D217
+ Saludos, Buscador. XXX
+// Malfrat4 (asustado) perso64
+L14D218A
+ ¡No te acerques a mí! XXX
+// Malfrat4 (asustado) perso64
+L14D218B
+ ¡Ya sé lo que eres, pero no me transformarás! XXX
+// Arkhan3 L perso3
+L14D219
+ ¡No te pongas nervioso, no te quiero hacer daño! XXX
+// Malfrat4 (desconfiado) perso64
+L14D220
+ ¿De verdad? ¡Entonces hazme un favor y lárgate! XXX
+// Arkhan2 G perso2
+L14D165
+ Este crápula no tiene nada encima. XXX
+// Arkhan3 G perso3
+L14D166
+ Nada en este crápula. XXX
+// Arkhan2 L perso2
+L14D49
+ Que la luz esté contigo, Alimentadora. XXX
+// Arkhan2 O perso3
+L14D59
+ ¡Hola, madre Alimentadora! XXX
+// Nourrisseuse perso16
+L14D50A
+ Y que la luz esté contigo, hombre. XXX
+// Nourrisseuse perso16
+L14D50B
+ ¡Se diría que no eres muy popular en la Ciudad Alta! XXX
+// Nourrisseuse perso16
+L14D50C
+ ¡A pesar de todo, no es culpa tuya que los Guardianes del Fuego hayan bloqueado la plataforma! XXX
+// Arkhan2 L perso2
+L14D186
+ No, no tengo nada que ver con eso. XXX
+// Arkhan2 O perso3
+L14D187
+ Si te preguntan, no me has visto nunca, ¿de acuerdo? XXX
+// Arkhan2 L perso2
+L14D51
+ Mi nombre es Arkhan, y soy un amigo del Buscador Danrys. XXX
+// Arkhan2 O perso2
+L14D60
+ Me llamo Arkhan, y soy un amigo de Danrys. XXX
+//	Nourrisseuse perso16
+L14D52A
+ Bien. ¿Qué es lo que quieres, Arkhan? XXX
+//	Nourrisseuse perso16
+L14D52B
+ ¡Si tienes hambre, tengo algunos productos para cambiar!  XXX
+// Arkhan2 L perso2
+L14D53
+ Podrías contarme más sobre este lugar. XXX
+// Arkhan2 O perso2
+L14D61
+ Dime lo que sabes sobre este rincón del Stallite. XXX
+// Nourrisseuse (sorprendida) perso16
+L14D54A
+ ¿Qué es lo que quieres saber? XXX
+// Nourrisseuse perso16
+L14D54B
+ Estás en la ciudad baja. XXX
+// Nourrisseuse perso16
+L14D54C
+ Está llena de Buscadores y Alimentadores que no tienen tiempo que perder en discusiones. XXX
+// Nourrisseuse perso16
+L14D54D
+ Si no quieres cambiar nada conmigo, no puedo hacer gran cosa por ti. XXX
+// Arkhan2 G perso2
+L14D55
+ ¿Hacemos un trueque? XXX
+// Nourrisseuse perso16
+L14D56A
+ Sí. Muéstrame lo que quieres vender. XXX
+// Nourrisseuse perso16
+L14D56B
+ Veré lo que te puedo dar a cambio. XXX
+// Arkhan2 L perso2
+L14D57
+ Escucha, no tengo nada para cambiar. XXX
+//	Nourrisseuse perso16
+L14D58
+ En ese caso, no puedo hacer nada más por ti... XXX
+// Arkhan2 O perso2
+L14D63
+ ¡El cambio no me interesa! XXX
+//	Nourrisseuse perso16
+L14D188A
+ De acuerdo... Muy bien. XXX
+//	Nourrisseuse perso16
+L14D188B
+ Pero si tienes necesidad de jamar, vuelve a verme... XXX
+// Arkhan2 G perso2
+L14D28
+ Quizá puedas ayudarme. XXX
+// Nourrisseuse perso16
+L14D29
+ Seguramente... Pero no necesitarás ese arma para discutir... XXX
+// Arkhan2 G perso2
+L14D30
+ Escucha, Alimentadora... XXX
+// Nourrisseuse perso16
+L14D31A
+ Ya te lo he dicho, guarda ese arma.  XXX
+// Nourrisseuse perso16
+L14D31B
+ No necesitas eso conmigo... XXX
+// Arkhan2 G perso2
+L14D77
+ Tengo este objeto... XXX
+// Nourrisseuse perso16
+L14D78A
+ ¡Espera! Yo no negocio con un desconocido. XXX
+// Nourrisseuse perso16
+L14D78B
+ ¿Cuál es tu nombre? XXX
+// Arkhan2 G perso2
+L14D74A
+ ¿Qué dirías de este espejo de Antes? XXX
+// Arkhan2 G perso2
+L14D74B
+ ¡Mira esta luz! XXX
+// Nourrisseuse perso16
+L14D152A
+ ¡Sí! ¡Esto me gusta! XXX
+// Nourrisseuse perso16
+L14D152B
+ Yo te ofrezco esta lata de metal. XXX
+// Nourrisseuse perso16
+L14D152D
+ Es un regalo del Buscador Danrys.  XXX
+// Nourrisseuse perso16
+L14D152E
+ Él sabe hacer este tipo de cosas. XXX
+// Arkhan2 G perso2
+L14D76A
+ De acuerdo. XXX
+// Arkhan2 L perso2
+L14D76B
+ Gracias. XXX
+// Arkhan2 G perso2
+L14D82
+ ¿Qué me das por este frasco? XXX
+// Nourrisseuse perso16
+L14D83A
+ Es una pieza bonita. XXX
+// Nourrisseuse perso16
+L14D83B
+ A cambio, te doy esta buena loncha de carne salada. XXX
+// Arkhan2 G perso2
+L14D85
+ Un cubilete de vidrio, ¿te dice algo? XXX
+// Nourrisseuse (reflexiva) perso16
+L14D86
+ Hum... Por eso, te doy un pescado. XXX
+// Arkhan2 G perso2
+L14D225
+ ¿Cambiarías alimentos por este mortero? XXX
+// Nourrisseuse perso16
+L14D226A
+ Sí, te doy esta raíz gruesa. XXX
+// Nourrisseuse perso16
+L14D226B
+ Tu verás, es mejor que nada. XXX
+// Arkhan2 G perso2
+L14D227
+ ¿Que me das por este plato? XXX
+// Nourrisseuse perso16
+L14D228A
+ Por eso, una legumbre gorda... ¡casi sin empezar! XXX
+// Nourrisseuse perso16
+L14D228B
+ ¡Al comerla, ten cuidado de no ahogarte con las pipas! XXX
+// Arkhan2 G perso2
+L14D229
+ Te ofrezco un mazo para triturar la comida. XXX
+// Nourrisseuse perso16
+L14D230A
+ Bueno... es útil. XXX
+// Nourrisseuse perso16
+L14D230B
+ Por eso, te daré una patata. XXX
+// Arkhan2 G perso2
+L14D231
+ ¿Me darías algo por este tazón? XXX
+// Nourrisseuse perso16
+L14D232
+ Sí, tengo un trozo de ave que viene de la Flauta de Plata. XXX
+// Arkhan2 G perso2
+L14D233
+ ¿Esta botella pequeña te interesa? XXX
+// Nourrisseuse perso16
+L14D234
+ Sí, te la cambio por una cantimplora llena de Stohll. XXX
+// Arkhan2 G perso2
+L14D157
+ ¿Esto te interesa? XXX
+// Nourrisseuse perso16
+L14D191
+ Eso no. ¿Tienes otra cosa? XXX
+// Nourrisseuse perso16
+L14D192
+ No, eso no me interesa. XXX
+// Nourrisseuse perso16
+L14D193
+ No tengo nada que cambiarte por eso. XXX
+// Arkhan2 L perso2
+L14D243
+ ¿Has visto a alguien pasar por aquí? XXX
+// Nourrisseuse perso16
+L14D244A
+ ¡Sí, un hombre con una espada! ¡Pasó como una flecha! XXX
+// Nourrisseuse perso16
+L14D244B
+ Yo diría que era un Guardián del Fuego, pero no estoy segura. XXX
+// Arkhan2 L perso2
+L14D245
+ ¿Hacia dónde iba? XXX
+// Nourrisseuse perso16
+L14D246
+ Eso no lo sé... XXX
+// Arkhan2 L perso2
+L14D247
+ Bien... Gracias. XXX
+// Arkhan2 O perso2
+L14D248
+ ¡Eh! ¿Has visto a alguien pasar por aquí? XXX
+// Arkhan2 O perso2
+L14D249
+ ¿Y por dónde huyó? XXX
+// Nourrisseuse (molesta) perso16
+L14D250
+ Umm... XXX
+// Arkhan2 O perso2
+L14D251
+ ¡¿Entonces, dónde?! XXX
+// Nourrisseuse (molesta) perso16
+L14D252
+ No sé, me escondí detras de mi carro. XXX
+// Arkhan2 O perso2
+L14D253
+ ¡Por supuesto! XXX
+// Arkhan3 L perso3
+L14D64
+ Alimentadora... XXX
+// Nourrisseuse (asustada) perso16
+L14D65
+ ¿Qué es lo que quieres? XXX
+// Arkhan3 L perso3
+L14D66
+ ¡Cálmate, soy Arkhan, no quiero hacerte daño! XXX
+// Nourrisseuse (intranquila) perso16
+L14D67A
+ Bien... XXX
+// Nourrisseuse (intranquila) perso16
+L14D67B
+ Aquí tienes un pequeño regalo. XXX
+// Nourrisseuse (intranquila) perso16
+L14D67C
+ Lo ha hecho el Buscador Danrys. XXX
+// Nourrisseuse (intranquila) perso16
+L14D67D
+ Come. ¡Ya verás, es muy sabroso! XXX
+// Arkhan3 L perso3
+L14D68
+ ¿Tienes alguna otra cosa para mí? XXX
+// Nourrisseuse (intranquila) perso16
+L14D69
+ No, lo siento... XXX
+// Nourrisseuse (asustada) perso16
+L14D48
+ ¡Ayuda! ¡A mí los Buscadores! XXX
+// Arkhan3 L perso3
+L14D254
+ ¿Has visto a alguien por aquí? XXX
+// Arkhan3 L perso3
+L14D255
+ ¡Entonces sabes dónde está! XXX
+// Arkhan3 L perso2
+L14D256
+ ¿Entonces? XXX
+// Arkhan3 L perso2
+L14D257
+ Hrrr... Tanto peor. XXX
+// Arkhan2 L perso3
+L14D149
+ ¡Eh, dile que se calme! XXX
+// Nourrisseuse perso16
+L14D150
+ ¡Vuestras broncas de Buscadores no me interesan! XXX
+// Arkhan3 O perso3
+L14D189
+ ¡Eh tú, ayúdame! XXX
+// Nourrisseuse perso16
+L14D190
+ ¡No! ¡Yo... Yo no tengo que ver nada con eso! XXX
+// Arkhan2 O perso2
+L14D194
+ ¡¿Esperas que -yo- luche?! XXX
+// Nourrisseuse perso16
+L14D195
+ ¡Vas a ver, sucio bruto! XXX
+// Arkhan2 G perso2
+L03D01
+ Espérame. XXX
+// Arkhan3 G perso3
+L03D02
+ Espera. XXX
+// Arkhan2 G perso2
+L14D105
+ Unas viejas piezas de máquinas de Antes amontonadas aquí por los Buscadores. XXX
+// Arkhan3 G perso3
+L14D106
+ Chatarra de Antes amontonada por los Buscadores. XXX
+//Arkhan2 G perso2
+L14D95
+ Nada excepto chatarra vieja... XXX
+//Arkhan3 G perso3
+L14D96
+ Chatarra. XXX
+// Arkhan2 G perso2
+L14D97
+ Un viejo carro de aceite... XXX
+// Arkhan2 G perso2
+L14D100
+ ¡Chapa vieja! XXX
+// Arkhan3 G perso3
+L14D101
+ ¡Chapa podrida! XXX
+// Malfrat1 perso61
+L14D137
+ ¡Eh! ¡No toques o tendrás problemas! XXX
+// Malfrat1 perso61
+L14D138A
+ No te molestes, chaval. XXX
+// Malfrat1 perso61
+L14D138B
+ ¡Si encuentras algo que te guste, quédatelo! XXX
+// Arkhan2 G perso2
+L14D89
+ ¡Unas placas de chapa, sin interés! XXX
+// Arkhan3 G perso3
+L14D90
+ Nada más que chapa. XXX
+// Arkhan2 G perso2
+L14D265
+ Aquí dentro es donde Danrys pone el aceite que hace girar la máquina. XXX
+// Arkhan3 Gperso3
+L14D266
+ Es el depósito de aceite para la máquina. XXX
+// Arkhan2 G perso2
+L14D267
+ Se diría que el depósito está seco. XXX
+// Arkhan3 G perso3
+L14D268
+ El depósito está seco. XXX
+// Arkhan2 G perso2
+L14D269
+ Con esto, la máquina debería volver a funcionar. XXX
+// Arkhan3 G perso3
+L14D270
+ Con esto, la máquina va a volver a funcionar... XXX
+// Arkhan2 G perso2
+L14D271
+ No, el depósito está ya bien lleno. XXX
+// Arkhan3 G perso3
+L14D272
+ Ya hay bastante en el depósito. XXX
+// Arkhan2 G perso2
+L14D273
+ El depósito está bien lleno. XXX
+// Arkhan3 G perso3
+L14D274
+ Bien lleno. XXX
+// Arkhan2 L perso2
+L14D104A
+ Son unos restos de Antes. XXX
+// Arkhan2 L perso2
+L14D104B
+ Se diría que es una máquina grande. XXX
+// Arkhan2 O perso2
+L14D196
+ ¡Demasiado pesado! XXX
+// Arkhan3 L perso3
+L14D107
+ Un trozo de la máquina de Antes... XXX
+// Arkhan3 O perso3
+L14D197
+ ¡Demasiado pesado! XXX
+// Arkhan2 L perso2
+L14D113
+ No te pongas nervioso, soy un amigo. XXX
+// Malfrat1 perso61
+L14D114A
+ ¡Es fácil decirlo!  XXX
+// Malfrat1 perso61
+L14D114B
+ En estas sombras, ¿quién es un amigo y quién enemigo? XXX
+// Arkhan2 O perso2
+L14D109
+ ¿Qué es lo que haces aquí? XXX
+// Malfrat1 perso61
+L14D110A
+ ¡Soy yo quien debería preguntártelo! XXX
+// Malfrat1 perso61
+L14D110B
+ ¡Venga, retírate, mi cuchillo me quema en las manos! XXX
+// Arkhan2 L perso2
+L14D115
+ ¿Tú sabes lo que pasa? XXX
+// Malfrat1 (asustado y agresivo) perso61
+L14D116A
+ ¡El Dios Sol nos ha abandonado, eso es lo que pasa! XXX
+// Malfrat1 (asustado y agresivo) perso61
+L14D116B
+ ¡La Oscuridad está aquí! ¡Se apodera de los hombres y los convierte en bestias salvajes! XXX
+// Malfrat1 (asustado y agresivo) perso61
+L14D116C
+ ¡Y vista tu cabeza, se diría que eres el siguiente de la lista! XXX
+// Malfrat1 (desafiante) perso61
+L14D116D
+ ¡Harías mejor en largarte! XXX
+// Arkhan2 O (amenazante) perso2
+L14D111
+ ¡Un consejo: no me provoques! XXX
+// Malfrat1 (agresivo) perso61
+L14D112
+ ¡Voy a hacerte tragar tus consejos! XXX
+// Arkhan2 L perso2
+L14D118A
+ Olvídate de mi cabeza, estoy de tu parte. XXX
+// Arkhan2 L perso2
+L14D118B
+ Los culpables son los Konkalites.  XXX
+// Arkhan2 L perso2
+L14D118C
+ Ellos y un... eh... Predicador... de nombre Thanandar. XXX
+// Malfrat1 perso61
+L14D119A
+ ¡Los Konkalites! ¡Sí, forzosamente han de ser ellos! XXX
+// Malfrat1 (vengador) perso61
+L14D119B
+ ¡Vamos a hacérselo pagar! XXX
+// Arkhan2 L perso2
+L14D121
+ Pienso que Thanandar está en algún lugar en el Stallite. XXX
+// Malfrat1 perso61
+L14D122A
+ ¿El Predicador que está con los Konkalites? XXX
+// Malfrat1 perso61
+L14D122B
+ ¡Un Predicador aquí! ¡No durará mucho! XXX
+// Arkhan2 L perso2
+L14D198A
+ ¡No lo creas! No tiene nada de hombre. XXX
+// Arkhan2 L perso2
+L14D198B
+ ¡La Oscuridad está en él, está tan contento en las tinieblas como una rata en el fango! XXX
+// Arkhan2 L perso2
+L14D198C
+ ¡Y quiere nuestro pellejo! XXX
+// Malfrat1 perso61
+L14D199
+ ¿A qué se parece tu terror? XXX
+// Arkhan2 L perso2
+L14D198D
+ Él... es muy grande, con una especie de armadura de acero negro. XXX
+// Arkhan2 L perso2
+L14D198E
+ ¡Créeme, preferirías combatir con las manos desnudas a cien Konkalites antes que afrontar a Thanandar! 
+XXX
+// Arkhan2 L perso2
+L14D200
+ ¡Ten cuidado con Thanandar! XXX
+// Arkhan2 L perso2
+L14D200
+ ¡Ten cuidado con Thanandar! XXX
+// Arkhan2 L perso2
+L14D242
+ ¡Atención ante todo! XXX
+// Malfrat1 perso61
+L14D201
+ ¡No te inquietes por mí, sé defenderme! XXX
+// Arkhan2 O perso2
+L14D277
+ ¡Más bien, yo diría que ante un "tío duro", te cagas en los pantalones! XXX
+// Malfrat1 perso61
+L14D278
+ ¡No era necesario decir eso! XXX
+// Arkhan2 G perso2
+L14D123
+ Escúchame, Buscador... XXX
+// Malfrat1 perso61
+L14D124
+ ¡Guarda eso o no nos vamos a entender! XXX
+// Arkhan2 L perso2
+L14D125A
+ ¡Calma, amigo! XXX
+// Arkhan2 L perso2
+L14D125B
+ ¡Soy como tú, tengo un arma para defenderme, eso es todo! XXX
+// Malfrat1 perso61
+L14D126
+ ¡Yo me calmaré cuando la hayas guardado!, ¿de acuerdo? XXX
+// Arkhan2 O perso2
+L14D127
+ Y dime mocoso, ¿eres tú quien me va a obligar a guardar mi arma? XXX
+// Malfrat1 perso61
+L14D130
+ No, puedes guardártela. XXX
+// Arkhan2 G perso2
+L14D129
+ Eh, ¿conoces esto de aquí? XXX
+// Malfrat1 perso61
+L14D131
+ ¡No más de lo que te conozco a ti! XXX
+// Arkhan2 G perso2
+L14D144
+ ¿Quieres beber un trago? XXX
+// Malfrat1 perso61
+L14D133
+ ¿Quién eres tú para ofrecerme de beber? XXX
+// Malfrat1 perso61
+L14D135
+ ¡Sí, me interesa! XXX
+// Malfrat1 (ha probado un brebaje vomitivo) perso61
+L14D175A
+ Ahhhh... ¡Es un infecto zumo de tripas! XXX
+// Malfrat1 perso61
+L14D175B
+ ¡Aparta eso! Aaaah... XXX
+// Arkhan2 G perso2
+L14D134
+ ¿Otro pequeño trago? XXX
+// Malfrat1 perso61
+L14D136
+ ¡Ah no! ¡Un vaso lleno de pis antes que esa mezcla! XXX
+// Arkhan2 L perso2
+L14D162
+ ¡Agua, barro, cenizas... receta de Buscadores! XXX
+// Arkhan3 L perso3
+L14D279
+ Agua cenagosa... XXX
+// Arkhan2 G perso2
+L14D258
+ ¡Si lo toco, pierdo la mano! XXX
+// Arkhan3 G perso3
+L14D259
+ ¡No, si lo toco, pierdo la mano! XXX
+// Arkhan2 G perso2
+L14D260
+ Esto no gira. XXX
+// Arkhan3 G perso3
+L14D261
+ No gira. XXX
+// Arkhan2 G perso2
+L14D262
+ ¡Vuelve a funcionar! XXX
+// Arkhan3 G perso3
+L14D264
+ ¡Esto vuelve a funcionar! XXX
+// Arkhan2 G perso2
+L14D275A
+ Con esas latas y esas cuerdas, Danrys hace girar sus máquinas. XXX
+// Arkhan2 G perso2
+L14D275B
+ Nunca he comprendido bien cómo funciona esto... XXX
+// Arkhan3 G perso3
+L14D276A
+ Es con esto con lo que Danrys hace girar sus máquinas. XXX
+// Arkhan3 G perso3
+L14D276B
+ Nunca he comprendido cómo... XXX
+// Arkhan2 G perso2
+L14D238
+ Para subir usaremos la plataforma.  XXX
+// Arkhan3 G perso3
+L14D239
+ Vamos a la Ciudad Alta. XXX
+// Delia perso10
+L14D240
+ Vamos, te sigo. XXX
+// Delia (Arkhan la enseña un objeto) perso10
+L14D241A
+ Arkhan, primero deberíamos refugiarnos en la Ciudad Alta. XXX
+// Delia perso10
+L14D241B
+ ¡Es peligroso quedarse aquí! XXX
+// Arkhan2 G (Delia o Kalhi le golpean) perso2
+L10D93
+ ¡No tienes ninguna oportunidad, monín! XXX
+// Arkhan3 G (Delia o Kalhi le golpean) perso3
+L10D94
+ ¡Esto ha terminado para ti, pequeño! XXX
+// Delia (golpeada por Arkhan) perso10
+L10D95
+ ¡No, te estás volviendo loco, deténte! XXX

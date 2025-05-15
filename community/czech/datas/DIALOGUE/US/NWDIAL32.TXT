@@ -1,0 +1,397 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL32.TXT
+ // Sordos perso23
+L32D08
+ Ah! Tu jsi, mùj dobrý Gorku. XXX
+// Sordos perso23
+L32D70
+ Ah! To jsi ty, Telk! XXX
+// Gork perso31
+L32D12B
+ Udelám ti bolest ... a budeš kricet. XXX
+// Konkalit11 perso81
+L32D71
+ Potrebuješ mne, šefe? XXX
+// Sordos perso23
+L32D09A
+ Já ti našel novýho kamaráda na hraní. XXX
+// Sordos perso23
+L32D09B
+ Mùzeš se s ním pobavit, ale nezabij ho rychle. XXX
+// Konkalit11 perso81
+L32D72
+ Mùzeš se na mne spolehnout, Sordos! XXX
+// Sordos perso23
+L32D05A
+ Ty ubozáku, prišla tvoje hodina. Máš nyní prílezitost, stát se hrdinou ... mrtvým hrdinou! XXX
+// Sordos perso23
+L32D05B
+ Skoda, ze ty nebudeš u toho, az Sparta bude v rukouch Konkalitù. XXX
+// Sordos perso23
+L32D05C
+ Mùzeš mi verit, ze krev v potocích potece, jako alkohol! XXX
+// Konkalit11 perso81
+L32D73A
+ Gork bude zde brzy, s jeho instrumenty. XXX
+// Konkalit11 perso81
+L32D73B
+ Dozvíš se, co je bolest, mùj príteli! XXX
+// Konkalit11 perso81
+L32D73C
+ Ano,to ti mohu slíbit! (böses Lachen) XXX
+// Gork (dumm)perso31
+L32D10
+ Ano, Sordosi. XXX
+// Gork perso31
+L32D12A
+ Sordos ríkal, ze ti smím udelat bolest. XXX
+// Gork perso31
+L32D12C
+ Oh ano, budeš rvát! Ano! XXX
+// Konkalit7 (ruft Gork)perso77
+L32D13
+ Hej, Gorku, máme návštevu! XXX
+// Konkalit7 perso77
+L32D14
+ Pojd sem, mùj cukroušku! Máme neco pro tebe! XXX
+// Malrot6 perso66
+L32D226
+ Nech mne jít ven, bídný cerve! XXX
+// Malrot6 perso66
+L32D227
+ Armal Sadak chce vás všechny usmrtit! XXX
+// Malrot6 perso66
+L32D228
+ Nesmíte mne nechat v teto prohnile kleci! XXX
+// Konkalit3 perso73
+L32D666
+ Hej! Klid! XXX
+// Konkalit3 perso73
+L32D667
+ Klid, krysí tlamo! XXX
+// Konkalit3 perso73
+L32D668
+ Budeš touzit po smrti! XXX
+// Konkalit3 (sieht Arkhan)perso73
+L32D100
+ Hej, co deláš zde?! XXX
+// Malrot6 (A. hat Konkalit3 besiegt)perso66
+L32D225
+ Dobre si udelal, mùj príteli! XXX
+// Gork perso31
+L32D505
+ Drz hubu! XXX
+// Arkhan2 O perso2
+L32D15
+ Pojd, tlouštíku! XXX
+// Arkhan3 O perso3
+L32D16
+ Našel jsi sveho mistra, tlouštíku! XXX
+// Konkalit7 perso77
+L34D778
+ Jseš mrtvým muzem! XXX
+// Konkalit7 perso77
+L34D777
+ Udeláme z tebe sekanou! XXX
+// Arkhan2 G (findet Dhorkan halbtot)perso2
+L32D40
+ To je Dhorkan! XXX
+// Arkhan3 G (findet Dhorkan halbtot)perso3
+L32D41
+ To je Dhorkan! XXX
+// Dhorkan (komatös) perso95
+L32D42
+ Eh ... XXX
+// Arkhan2 L perso2
+L32D20
+ Dhorkane? Ty ješte ziješ! XXX
+// Arkhan2 O perso2
+L32D21
+ Dhorkane! Ty ziješ, prokletý zrádce?! XXX
+// Arkhan3 L perso3
+L32D22
+ Dhorkane? Ty ziješ? XXX
+// Arkhan3 O perso3
+L32D23
+ Dhorkane! Ty ziješ ješte, ty bídný cerve! XXX
+// Dhorkan (sterbend)perso95
+L32D24A
+ Arkhane ...to jsi ty?  XXX
+// Dhorkan (sterbend)perso95
+L32D24B
+ Ah ...já vedel, ze te uvidím ... dríve ... nez zemru. XXX
+// Arkhan2 G perso2
+L32D25
+ Ano, já jsem jeden z tvrdší sorty! XXX
+// Arkhan3 G perso3
+L32D26
+ Ano, já bojuju ... do horkýho konce! XXX
+// Dhorkan (sterbend)perso95
+L32D27A
+ Pro mne byla ... me slabosti ... byli mojí zhoubou ... XXX
+// Dhorkan (sterbend)perso95
+L32D27B
+ Já ... Já chtel ... nove casy pro Spartu ... XXX
+// Dhorkan (sterbend)perso95
+L32D27C
+ Já byl pripravený na všechno ... Pripravený, se Sordosem pakt uzavrít ... aby on Lory usmrtil ... jemu tveho otce vydal ... XXX
+// Dhorkan (sterbend)perso95
+L32D27D
+ Ale nevedel jsem nic o Thanandarovo Plánu ...  XXX
+// Dhorkan (sterbend)perso95
+L32D27E
+ On a Sordos ... mne podvedli! XXX
+// Arkhan2 L perso2
+L32D28
+ Ty máš jedinou moznost, tvùj hrích zmenšit: Rekni mi, kde je Thanandar. XXX
+// Arkhan2 O perso2
+L32D29
+ Videl jsi Thanandara! Mluv! XXX
+// Arkhan3 L perso3
+L32D30
+ Thanandar, kde je? XXX
+// Arkhan3 O perso3
+L32D31
+ Kde je Thanandar? Mluv! XXX
+// Dhorkan (sterbend)perso95
+L32D32A
+ Ne ... Nevím, kde je ...  XXX
+// Dhorkan (sterbend)perso95
+L32D32B
+ Nepokoušej se ... s ním si neco zacít. On uz není clovekem, Arkhane...  XXX
+// Dhorkan (sterbend)perso95
+L32D32C
+ On je ... dlouho ... kontaminován ... XXX
+// Dhorkan (sterbend)perso95
+L32D32D
+ Pouze Bùh Slunce ví, jak on to mohl skrýt ... XXX
+// Dhorkan (sterbend)perso95
+L32D32E
+ Konkaliti ... te ... s jeho krví nakazily. XXX
+// Dhorkan (sterbend)perso95
+L32D32F
+ Nyní, kdyz Temná Zeme vtáhla do Stallitu ... ukazuje on jeho pravou tvár ... XXX
+// Dhorkan (sterbend)perso95
+L32D32G
+ Ostatní Kreatury ... ho poslouchají ... nedá se zastavit ... príliš pozde ... (Seufzer) XXX
+// Arkhan2 L perso2
+L32D33A
+ Dhorkane! Hledám místo, ktere mùj otec hrobkou nazýval. XXX
+// Arkhan2 L perso2
+L32D33B
+ Tam je snad prostredek, jak Spartu zachránit! XXX
+// Arkhan2 O perso2
+L32D34A
+ Sklízíš ovoce tvojí zrady! XXX
+// Arkhan2 O perso2
+L32D34B
+ Ale mne oni nedostanou! XXX
+// Arkhan3 L perso3
+L32D35A
+ Hledám místo, takzvanou hrobku.  XXX
+// Arkhan3 L perso3
+L32D35B
+ Tam mel bych najít hrobku, která nám mùze pomoci. XXX
+// Arkhan3 O perso3
+L32D36A
+ Zemreš, jak jsi zil, proklate! XXX
+// Arkhan3 O perso3
+L32D36B
+ Ale já, já preziju! XXX
+// Dhorkan (sterbend)perso95
+L32D37A
+ Všechno co ty mùzeš ješte udelat, je uprchnout ... Jdi, dokud je cas ...  XXX
+// Dhorkan (sterbend)perso95
+L32D37B
+ Stallit bude brzy vyplenen  ... díky mojí chybe ... XXX
+// Dhorkan (letzter Seufzer)perso95
+L32D37C
+ Bùh mohl by mi odpustit ... XXX
+// Arkhan2 G perso2
+L32D44
+ Je mrtvý. Je pryc. XXX
+// Arkhan3 L perso3
+L32D46
+ Tentokrát je skutecne konec s ním. XXX
+// Arkhan2 L perso2
+L32D50
+ Zede, copak oni s tebou udelali!? XXX
+// Arkhan2 O perso2
+L32D51
+ Ty nejsi více Zede! XXX
+// Arkhan3 L perso3
+L32D52
+ Zede, co oni s tebou udelali!? XXX
+// Arkhan3 O perso3
+L32D53
+ Tu uz nejsi Zede! XXX
+// Arkhan2 L perso2
+L32D500
+ Laß mich raus, ich hab' was für Dich. XXX
+// Arkhan2 O perso2
+L32D501
+ Nech mne volnýho, tlouštíku! XXX
+// Arkhan3 L perso3
+L32D502
+ Nech mne jít ven. Ich hab' was für Dich. XXX
+// Gork perso31
+L32D503
+ Drz tvojí krysí tlamu! XXX
+// Gork perso31
+L32D504
+ Brzy nás budeš prosit, abychom te usmrtili! XXX
+// Arkhan2 L perso2
+L32D506
+ Nech mne jít ven, nebudeš litovat. XXX
+// Konkalit11 perso81
+L32D509A
+ Je mi to jedno, kdo jsi, co jsi udelal nebo co jsi rekl. XXX
+// Konkalit11 perso81
+L32D509B
+ Všechno co já chci, je, te slyšet kricet a ùpenlive prosit. XXX
+// Arkhan2 O perso2
+L32D507
+ Pust mne volne, a já ti daruju zivot! XXX
+// Konkalit11 perso81
+L32D510A
+ Skutecne velkolepe od tebe! XXX
+// Konkalit11 perso81
+L32D510B
+ Ale já si myslím, já si te ponechám radeji zde, pro jednu malou mucící hodinku. XXX
+// Arkhan3 L perso3
+L32D508
+ Nech mne volnýho, nebudeš toho litovat. XXX
+// Konkalit11 perso81
+L32D511A
+ Stezuj si jak chceš! XXX
+// Konkalit11 perso81
+L32D511B
+ Brzy budeš ùpenlive prosit, abych ti já krk utrhl! XXX
+// Malrot6 perso66
+L32D102
+ Postarej se nejprve o tu jinou zdechlinu tam vzadu! XXX
+// Arkhan2 L perso2
+L32D200
+ Já vyzvednu te, hned ven! XXX
+// Malrot6 perso66
+L32D201
+ Díky mùj prítely! Myslíš, ze to stihneš? XXX
+// Arkhan2 L (schafft es nicht, die Tür herauszureißen)perso2
+L32D202
+ He, ty jsou ale stabilní! XXX
+// Malrot6 perso66
+L32D203
+ Pokus se najít prostredek, k otevrení zámku. XXX
+// Arkhan3 L perso3
+L32D204
+ Já si te vyzvednu! XXX
+// Arkhan3 L perso3
+L32D205
+ Ty jsou ale stabilní! XXX
+// Arkhan2 L perso2
+L32D206
+ Pokusím se neco jineho najít. XXX
+// Arkhan3 L perso3
+L32D207
+ Zkusím neco jineho. XXX
+// Malrot6 perso66
+L32D208
+ Nezapomenu ti to mùj príteli. XXX
+// Malrot6 perso66
+L32D209
+ Dej si pozor, v kazdem okamziku mùze se jedna z tech krysích hub vrátit! XXX
+// Arkhan2 L perso2
+L32D210
+ Ne, to nejde! XXX
+// Arkhan3 L perso3
+L32D211
+ Ne! To nefunguje! XXX
+// Arkhan2 L perso2
+L32D212
+ S tímto já ty proklete mríze jiste otevru! XXX
+// Arkhan3 L perso3
+L32D213
+ Tyto mríze já jiste otevru! XXX
+// Malrot6 perso66
+L32D214
+ Díky, mùj príteli, jsem tvým dluzníkem! XXX
+// Malrot6 perso66
+L32D217A
+ Zachránil jsi mi zivot, mùj príteli. To ti nikdy nezapomenu! XXX
+// Malrot6 perso66
+L32D217B
+ Já se pokusím, nepozorovane dostat ven. XXX
+// Malrot6 perso66
+L32D217C
+ Dávej pozor na sebe! XXX
+// Arkhan2 O perso2
+L32D218
+ Jak se ti darí v tve kleci, nebo? XXX
+// Arkhan3 O perso3
+L32D219
+ V kleci se nemùze skutecne vázne nic delat! XXX
+// Malrot6 perso66
+L32D220A
+ Jsem neprítel Konkalitù, jako ty! XXX
+// Malrot6 perso66
+L32D220B
+ Vysvobod mne, nedelej si ze mne srandu! XXX
+// Arkhan2 O perso2
+L32D221
+ Pokud te uveznili do klece, meli jiste dobrý dùvod proto! XXX
+// Arkhan3 O perso3
+L32D222
+ Dosti ùzká, nebo? XXX
+// Malrot6 perso66
+L32D223
+ Pust mne ven, a já ti ukázu, proc mne tyto prasecí psy uveznili! XXX
+// Malrot6 perso66
+L32D224
+ Mluvíš pouze, jen kdyz si deláš srandu ... XXX
+// Malrot6 perso66
+L32D512
+ Hej, v klidu! XXX
+// Malrot6 perso66
+L32D513
+ Chceš mne zabít, ci co?! XXX
+// Konkalit3 (schlägt)perso73
+L32D888
+ Mluvíš mnoho prítelícku! Jdeš mi s tím na nervi! XXX
+// Konkalit3 (schlägt)perso73
+L32D889
+ Nechám te vykrvácet, velká hubo! XXX
+// Konkalit11 perso81
+L32D515	 
+ Rvi, jak ty chceš! XXX
+// Konkalit11 perso81
+L32D514
+ Já ti tu tvojí velkou hubu zacpu! XXX
+// Arkhan2 G perso2
+L32D60A
+ Mucící klece. XXX
+// Arkhan2 G perso2
+L32D60B
+ Tyto konkaliti jsou skutecne prasecí psy. XXX
+// Arkhan3 G perso3
+L32D61A
+ Mucící klece. XXX
+// Arkhan3 G perso3
+L32D61B
+ Tyto konkaliti jsou krysí tlamy! XXX
+// Arkhan2 G perso2
+L32D58
+ Lidske kosti ...   XXX
+// Arkhan3 G perso3
+L32D59
+ Kosti ... lidske kosti. XXX
+// Arkhan2 G perso2
+L32D56
+ Kousek masa je ùplne spálený. XXX
+// Arkhan3 G perso3
+L32D57
+ Jeden plne spálený kousek masa. XXX
+// Arkhan2 G perso2
+L32D54
+ Zrezivele zvírecí klece. XXX
+// Arkhan3 G perso3
+L32D55
+ Zrezivele klece. XXX

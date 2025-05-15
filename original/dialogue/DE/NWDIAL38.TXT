@@ -1,0 +1,175 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL38.TXT
+ // Arkhan2 G (erstaunt, als er den Garten Eden entdeckt) perso2
+L38D01A
+ Verdammt!... XXX
+// Arkhan2 G perso2
+L38D01B
+ Was ist ... Was ist das denn?! XXX
+// Arkhan3 G (erstaunt, als er den Garten Eden entdeckt) perso3
+L38D02A
+ Verdammt!... XXX
+// Arkhan3 G perso3
+L38D02B
+ Was ist ... Was ist das denn?!? XXX
+// Arkhan2 G (beugt sich hinunter und trinkt) perso2
+L38D03A
+ Dieses Wasser ... Wie flüssiges Feuer ... XXX
+// Arkhan2 G perso2
+L38D03B
+ Es ... reinigt mich ... aber ich fühl' mich ... schwächer ... XXX
+// Arkhan3 G perso3
+L38D04A
+ Wasser ... Wie Feuer ...  XXX
+// Arkhan3 G perso3
+L38D04B
+ Es reinigt mich ... Aber mein ganzer Körper brennt ... XXX
+// Arkhan2 G perso2
+L38D05
+ Nein, wenn ich noch mehr trinke, werde ich völlig erschöpft sein. XXX
+// Arkhan3 G perso3
+L38D06
+ Nein, wenn ich noch mehr trinke, bringt mich das um! XXX
+// Arkhan2 G perso2
+L38D07
+ Ein Bergkristall. XXX
+// Arkhan2 G perso2
+L38D08
+ Der Schlüssel meines Vaters muß aus dieser Art von Kristall geschliffen sein. XXX
+// Arkhan3 G perso3
+L38D09
+ Bergkristall. XXX
+// Arkhan3 G perso3
+L38D10
+ Daraus ist der Schlüssel meines Vaters gemacht. XXX
+// Arkhan2 G perso2
+L38D11
+ Damit müßte ich eine Lamelle von dem Kristall abbrechen können. XXX
+// Arkhan2 G perso2
+L38D12
+ Es nützt nichts, das war die einzige Lamelle. XXX
+// Arkhan3 G perso3
+L38D13
+ Damit werde ich eine Lamelle von dem Kristall abbrechen. XXX
+// Arkhan3 G perso3
+L38D14
+ Nein ... das war die einzige Lamelle. XXX
+// Arkhan2 G perso2
+L38D15A
+ Das erinnert mich an die Gewächshauspflanzen der Ernährer. XXX
+// Arkhan2 G perso2
+L38D15B
+ Aber diese hier sind riesig, grün, voller Leben ...  XXX
+// Arkhan2 G perso2
+L38D15C
+ Sowas hab' ich noch nie gesehen! XXX
+// Arkhan2 G perso2
+L38D16
+ Diese Pflanzen sind wirklich phantastisch! XXX
+// Arkhan2 G perso2
+L38D17
+ Bäume, Pflanzen, Wurzeln ... Der Traum der Ernährer, der Ölhändler. XXX
+// Arkhan2 G perso2
+L38D18
+ Wenn ich lange genug leben sollte, um davon im Stalliten zu erzählen, glaubt es mir sowieso niemand. XXX
+// Arkhan3 G perso3
+L38D19A
+ Wie in den Gewächshäusern ... der Ernährer ... XXX
+// Arkhan3 G perso3
+L38D19B
+ Aber hier ... die Natur ... das Leben ... sind frei. XXX
+// Arkhan3 G perso3
+L38D19C
+ Unglaublich. XXX
+// Arkhan3 G perso3
+L38D20
+ Diese Pflanzen ... phantastisch ... XXX
+// Arkhan3 G perso3
+L38D21
+ Pflanzen, Kräuter, Wurzeln ... überall! XXX
+// Arkhan3 G perso3
+L38D22
+ Sowas hab' ich im Stalliten nie gesehen ... XXX
+// Arkhan2 L perso2
+L38D23
+ Moosbewachsene Felsen. XXX
+// Arkhan2 O (schlägt auf die Felsen ein/versucht, sie zu bewegen) perso2
+L38D24
+ Zu groß, die kann man nicht fortbewegen ... XXX
+// Arkhan3 L perso3
+L38D25
+ Riesige moosbewachsene Felsen. XXX
+// Arkhan3 O (schlägt auf die Felsen ein/versucht, sie zu bewegen) perso3
+L38D26
+ Rah! Nein, die sind zu schwer! XXX
+// Arkhan2 G perso2
+L38D27
+ Diese Wurzeln sind riesig ... XXX
+// Arkhan3 G perso3
+L38D28
+ Wurzeln ... riesig ... XXX
+// Arkhan2 G perso2
+L38D29
+ Der Weg hört hier auf. XXX
+// Arkhan3 G perso3
+L38D30
+ Der Weg geht nicht weiter. XXX
+// Arkhan2 G perso2
+L38D31
+ Riesige Bäume... XXX
+// Arkhan3 G perso3
+L38D32
+ Riesige Bäume ... XXX
+// Arkhan2 G perso2
+L38D33
+ Ich hab' noch nie eine so große Pflanze gesehen! XXX
+// Arkhan3 G perso3
+L38D34
+ Ich hab' noch nie eine so große Pflanze gesehen! XXX
+// Arkhan2 G perso2
+L38D35
+ Ein gewaltiger Stamm. XXX
+// Arkhan3 G perso3
+L38D36
+ Welch ein Stamm! XXX
+// Arkhan2 L (nachdenklich am Ufer des Teichs)perso2
+L38D37
+ Seltsam, es sieht aus, als funkele das Wasser. XXX
+// Arkhan2 L perso2
+L38D38
+ Scheint nicht allzu tief zu sein ... XXX
+// Arkhan2 O perso2
+L38D39
+ Schon wieder Wasser! So oft hab' ich in meinem ganzen Leben noch nicht gebadet! XXX
+// Arkhan3 L perso3
+L38D40
+ Das Wasser ... funkelt ... XXX
+// Arkhan3 L perso3
+L38D41
+ Das ist nicht tief. XXX
+// Arkhan3 O perso3
+L38D42
+ Wasser! Schon wieder! XXX
+// Arkhan2 G (berührt den Geheimnisvollen Wächter)perso2
+L38D43A
+ Der Stein ist glatt und warm ... XXX
+// Arkhan2 G (berührt den Geheimnisvollen Wächter)perso2
+L38D43B
+ Meine Finger ... sind wie eingeschlafen. XXX
+// Arkhan3 G (berührt den Geheimnisvollen Wächter)perso3
+L38D44A
+ Der Stein ist warm ...  XXX
+// Arkhan3 G (berührt den Geheimnisvollen Wächter)perso3
+L38D44B
+ Meine Finger ... völlig eingeschlafen ... XXX
+// Arkhan2 G perso2
+L38D45
+ Eine Treppe ... ganz neu ... XXX
+// Arkhan2 G perso2
+L38D46
+ Die Treppe verliert sich da oben in den Lianen. XXX
+// Arkhan3 G perso3
+L38D47
+ Eine Treppe ... nicht alt ... XXX
+// Arkhan3 G perso3
+L38D48
+ Sie führt in die Bäume hoch... XXX

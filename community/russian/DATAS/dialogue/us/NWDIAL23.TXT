@@ -1,0 +1,142 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL23.TXT
+ // Zed perso84
+L23D23
+ #lqZi?! J]|nje IZqZg, snj c_amx n]jldnm|?! XXX
+// Guardian13 perso53
+L23D29
+ Hljfg|nxa! Gi sonx ia kalalacZg hia ^jlgj! XXX
+// Guardian14 perso54
+L23D30
+ Kj [wg oba ia sagj]af - ji mnZg mjc_Zidah ElZfZ! XXX
+// Guardian13 perso53
+L23D31
+ Kjn klj]d_ar [wg klZ] - jn ElZfZ idfnj ia ia ] mdgZq o[alasx m]jz _oto! XXX
+// Guardian14 perso54
+L23D32
+ +Z, ij m]jz [ac [jlx[w | aho ia jn_Zh! XXX
+// Zed perso84
+L23D19
+ IdgmZ_Zl... E~ln]! #lqZi, fZf ba nw hj^?!! XXX
+// Arkhan2 G (Delia or Kalhi hits him) perso2
+L10D93
+ L na[| id a_dij^j tZimZ, _anfZ! XXX
+// Zed (throwing A. to the ground) perso84
+L23D20
+ L[derZ! XXX
+// Zed (shouting) perso84
+L23D11
+ JnlZbd j^i|! Hj_i|nx nla]j^o! XXX
+// Arkhan2 L perso2
+L23D102A
+ Hjmnje! Vnj |, #lqZi! X mkZm &agdfoz klj]d_dro! XXX
+// Arkhan2 L perso2
+L23D102B
+ X njn ba, snj d [wg! XXX
+// Arkhan2 O perso2
+L23D21X
+ Fan-ian-ian! Hjmnje! Kjn _olaix kal]wh iZsZg, ia |! XXX
+// Phedoria perso26
+L23D106
+ JfZbd ynj nah, fj^j nw o[dg! XXX
+// Phedoria perso26
+L23D44B
+ &ionld na[| _ahji! Kw _jgbai ohalanx! XXX
+// Phedoria (sad) perso26
+L23D13
+ Gsaix bZgx... XXX
+// Arkhan2 O perso2
+L23D103A
+ Fa mnlag|e! &a_x ynj | mkZm &agdfoz Hlj]d_dro! XXX
+// Arkhan2 O perso2
+L23D103B
+ FZ fjgaid! XXX
+// Arkhan3 L perso3
+L23D104
+ Hj^j_d! X ia m_agZg idsa^j kgjqj^j! XXX
+// Arkhan3 O perso3
+L23D105
+ Fan! XXX
+// Phedoria perso26
+L23D44A
+ X mgwtZgZ, IdgmZ_Zl fldsZg. XXX
+// Kalhi1 (A. dead) perso13
+L23D45
+ Fan! CZkdnZi, fZf ]w hj^gd!? Vnj ba #lqZi! XXX
+// Phedoria perso26
+L23D46A
+ Fan! Gi o[dg IdgmZ_ZlZ! XXX
+// Phedoria perso26
+L23D46B
+ Kjn #lqZi, fjnjlj^j nw gz[dgZ, - a^j oba ian. XXX
+// Guardian13 perso53
+L23D33
+ &ji d_~n au~ j_di! XXX
+// Guardian14 (attacks Arkhan) perso54
+L23D34
+ Lhld! XXX
+// Guardian13 perso53
+L23D35
+ &ji ji mij]Z d_~n! XXX
+// Guardian13 perso53
+L23D36
+ Kw cZkgZndtx mkjgiZ! XXX
+// Guardian14 (attacks Arkhan) perso54
+L23D37
+ FZ ynjn lZc fjiar na[a! XXX
+// Rylsadhar (returns to A. who is waiting at his door) perso20
+L23D16
+ Kalkaida. X oba c_amx, #lqZi. XXX
+// Arkhan1 G perso1
+L23D15
+ *jmkdnZgx cZflwn. XXX
+// Arkhan1 G perso1
+L23D25
+ Gnrj]mfde _jh. Fdsa^j ia lZc^g|_anx... XXX
+// Arkhan2 G perso2
+L23D26
+ Gnrj]mfde _jh. Fdsa^j ia ]d_Znx. XXX
+// Arkhan3 G perso3
+L23D27
+ KZh ]lj_a ian idfj^j. XXX
+// Arkhan2 L perso2
+L23D38A
+ Vnj +Zgidm! XXX
+// Arkhan2 L perso2
+L23D38B
+ KZiZi_Zl mfZcZg, snj kjcZ[jndnm| j i~h! Djbx! XXX
+// Arkhan3 L perso3
+L23D39A
+ Vnj +Zgidm! XXX
+// Arkhan3 L perso3
+L23D39B
+ <u~ j_iZ baln]Z KZiZi_ZlZ! XXX
+// Arkhan2 O perso2
+L23D40
+ <u~ j_iZ n]Zlx KZiZi_ZlZ! XXX
+// Arkhan3 O perso3
+L23D41
+ #l-l... <u~ j_iZ n]Zlx KZiZi_ZlZ! XXX
+// Arkhan2 G perso2
+L23D42
+ Vnj gjkZmnx jn ]anl|fZ fjgj_rZ. XXX
+//Arkhan3 G perso3
+L23D43
+ DjkZmnx ]anl|fZ fjgj_rZ. XXX
+// Arkhan1 L perso1
+L23D47
+ CZfnomw hja^j jnrZ. XXX
+// Arkhan2 L perso2
+L23D48
+ CZfnomw. Eje jnar ]wlZud]Zan dq. XXX
+// Arkhan3 L (nostalgic) perso3
+L23D49
+ Gnrj]mfde fZfnom... XXX
+// Arkhan1 G perso1
+L23D50
+ Fagxc| nal|nx ]lah|. XXX
+// Arkhan2 G perso2
+L23D51
+ Fa ]lah| hwnxm|! XXX
+// Arkhan3 G perso3
+L23D52
+ Hjhjzmx kjcba! XXX

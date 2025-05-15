@@ -1,0 +1,16 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL44.TXT
+ // Arkhan3 O perso3
+L41D15
+ A ^_a |? XXX
+// Arkhan3 L perso3
+L41D05
+ >Zflwnj! Hje_o _Zgxta. XXX
+// Arkhan3 O perso3
+L41D06
+ CZf flwmZ ] hwtagj]fa! XXX
+// Arkhan3 L perso3
+L41D07
+ Fa jnflw]Zanm|... XXX
+// Arkhan3 O perso3
+L41D08
+ Fa]jchjbij. CZkfZi! XXX

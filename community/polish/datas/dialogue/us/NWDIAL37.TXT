@@ -1,0 +1,145 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL37.TXT
+ // Arkhan2 G perso2 (from inside helmet)
+L37D01A
+ Zewnetrzny swiat! XXX
+// Arkhan2 G perso2 (from inside helmet)
+L37D01B
+ Opuscilem terytorium Stallite. XXX
+// Arkhan3 G perso3 (from inside helmet)
+L37D02A
+ Wolna przestrzen! XXX
+// Arkhan3 G perso3 (from inside helmet)
+L37D02B
+ Opuscilem Stallite. XXX
+// Arkhan2 G perso2 (from inside helmet)
+L37D03
+ Ta rzecz jest zbyt ciezka. Musze to zdjac. XXX
+// Arkhan3 G perso3
+L37D04
+ Ta rzecz jest za ciezka. Trzeba ja zdjac! XXX
+// Arkhan2 G (seeing a creature)perso2
+L37D01C
+ Wyglada na to, ze ktos mnie oczekiwal! XXX
+// Arkhan3 G (seeing a creature)perso3
+L37D02C
+ Chyba mamy towarzystwo! XXX
+// Arkhan2 G perso2
+L37D05
+ Gleboko... Lepiej nie wchodzic za daleko. XXX
+// Arkhan3 G perso3
+L37D06
+ Gleboko... Byle nie za daleko. XXX
+// Arkhan2 G perso2
+L37D07
+ Widac mury obronne i koszary Gwardzistow Ognia. XXX
+// Arkhan3 G perso3
+L37D08
+ Widac mury i koszary. XXX
+// Arkhan2 G perso2
+L37D09
+ Wejscie do jaskini! XXX
+// Arkhan3 G perso3
+L37D10
+ Jaskinia! XXX
+// Arkhan2 G (in deeper water)perso2
+L37D11
+ Lepiej zaloze helm... XXX
+// Arkhan3 G (in deeper water)perso3
+L37D12
+ Lepiej z powrotem zaloze helm... XXX
+// Arkhan2 L perso2
+L37D13A
+ Masz dosc?! XXX
+// Arkhan2 L perso2
+L37D13B
+ Przestraszylo cie cos w jaskini? XXX
+// Arkhan2 O perso2
+L37D14
+ Ze strachu nawet sie nie ruszasz, slabeusz! XXX
+// Arkhan3 L perso3
+L37D15A
+ Boisz sie, ha! XXX
+// Arkhan3 L perso3
+L37D15B
+ Boisz sie jaskini!? XXX
+// Arkhan3 O (enraged) perso3
+L37D16
+  Chodz tutaj! Walcz! XXX
+// Arkhan2 G perso2
+L37D17
+ Chodz tutaj! Ja tez mam szpony! XXX
+// Arkhan3 G perso3
+L37D18
+ Podejdz potworze! XXX
+// Arkhan2 L perso2
+L37D19A
+ Co to bylo? Czlowiek czy bestia ? XXX
+// Arkhan2 L perso2
+L37D19B
+ Lepiej poszukam leku zanim sam zmienie sie w cos takiego! XXX
+// Arkhan3 L perso3
+L37D20A
+ Co to bylo... Czlowiek? Bestia? XXX
+// Arkhan3 L perso3
+L37D20B
+ Musze wyzdrowiec... nie chce taki byc... XXX
+// Arkhan2 O perso2
+L37D21
+ Podly potwor! XXX
+// Arkhan3 O perso3
+L37D22
+ Przebrzydle monstrum! XXX
+// Arkhan2 L perso2
+L37D23
+ Prosze, prosze. Boisz sie wody! Obawiasz sie, ze cie obmyje? XXX
+// Arkhan3 L perso3
+L37D24
+ Boisz sie wody, co? XXX
+// Arkhan2 L perso2
+L37D25A
+ Ten podlec byl twardy! XXX
+// Arkhan2 L perso2
+L37D25B
+ Jesli nie znajde Krypty cala populacja zostanie zdziesiatkowana! XXX
+// Arkhan3 L perso3
+L37D26A
+ Twardziel! XXX
+// Arkhan3 L perso3
+L37D26B
+ Trzeba dzialac szybko, albo potwory zmiota z powierzchni ziemi Stallite. XXX
+// Arkhan2 G perso2
+L37D27
+ Nic poza starymi, przerdzewialymi gratami... XXX
+// Arkhan3 G perso3
+L37D28
+ Stare, zardzewiale graty... XXX
+// Arkhan2 G perso2
+L37D29
+ Nawet Danrys nic by nie zrobil z tym sprzetem. XXX
+// Arkhan2 G perso2
+L37D31
+ Coz za istota mogla miec kosci takich rozmiarow? XXX
+// Arkhan3 G perso3
+L37D32
+ Zwierzece koci... ogromne... XXX
+// Arkhan2 G perso2
+L37D33A
+ Slady moczu na ziemi... XXX
+// Arkhan2 G perso2
+L37D33B
+ I zapach zwierzecia. XXX
+// Arkhan3 G perso3
+L37D34
+ Mocz na ziemi... przykry zapach! XXX
+// Arkhan2 G (finding the remains of a fish)perso2
+L37D35
+ Resztki po czyims posilku... XXX
+// Arkhan3 G (finding the remains of a fish)perso3
+L37D36
+ Resztki jedzenia... XXX
+// Arkhan2 G perso2
+L37D37
+ Dziwne, sciana jest w tym miejscu goraca... XXX
+// Arkhan3 G perso3
+L37D38
+ Czuje cieplo. XXX

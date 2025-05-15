@@ -1,0 +1,202 @@
+123456789012
+
+@1
+Uniform
+@2
+Schlüss.ring
+@3
+Lochkarte
+@4
+Teller
+@5
+Metallstab
+@6
+Feuerw-Mun.
+@7
+Bleikugeln
+@8
+Kocher
+@9
+Griff
+@10
+Karte Vorh.
+@11
+roter Schl.
+@12
+Kristall Z.
+@13
+Gemüse
+@14
+Konk-Schlüss
+@15
+Sordos Schl.
+@16
+Bogd. Schl.
+@17
+Hammer
+@18
+Kristall L.
+@19
+Kristall R.
+@20
+Spiegel
+@21
+Fläschchen
+@22
+Flakon
+@23
+Blitz Vorh
+@24
+Feldfl voll
+@25
+Kleidung
+@26
+Axt
+@27
+Feuerwerfer
+@28
+Messer lang
+@29
+Prop.-Stab
+@30
+Hackbeil
+@31
+Trunk
+@32
+Kleiner Blitz
+@33
+Bleiplatte
+@34
+Kartoffel
+@35
+Zeds Blitz
+@36
+Wurzel
+@37
+Hellebarde
+@38
+Säbel
+@39
+Mun.klein.Bli
+@40
+Objekt Vorh
+@41
+Objekt Vorh
+@42
+Trinkgefäß
+@43
+Fisch
+@44
+Fleisch
+@45
+Bergkrist
+@46
+Aufz. Ryls.
+@47
+Konk.-Axt
+@48
+Stab kaputt
+@49
+Sordos Pakt
+@50
+Waffenplan
+@51
+Prop.blatt
+@52
+Zeichnungen
+@53
+Konk.-Waffe
+@54
+Feuerkugel
+@55
+Bleispucker
+@56
+Ratte
+@57
+Sordos Waffe
+@58
+Zeds Säbel
+@59
+Säbel Wand.
+@60
+Geldstück
+@61
+Waffe Phedo
+@62
+Hellebarde
+@63
+Dolch
+@64
+Keule
+@65
+Schüssel
+@66
+Blitz
+@67
+Axt
+@68
+Zeds Blitz
+@69
+Sichern
+@70
+Plan Bandor
+@71
+Anzug
+@72
+Mun. Blitz
+@73
+Mun. Zed
+@74
+Eispickel
+@75
+Krist.Schl.
+@76
+Hammer
+@77
+Feldflasche
+@78
+Waffe Danr
+@79
+Axt
+@80
+Dhork. Schw.
+@81
+Pergament
+@82
+Buch 
+@83
+Säbel
+@84
+Helm
+@85
+Brustharn
+@86
+Sauerst.fl
+@87
+Spielstein
+@88
+Rohr
+@89
+Gefäng.Schl.
+@90
+Kugel
+@91
+Dolch
+@92
+Dolch lang
+@93
+Stilett
+@94
+Stößel
+@95
+Mörser
+@96
+gr. Schlüssel
+@97
+Kanister
+@98
+Schleifst.
+@99
+Kons.büchse
+@Ende
+

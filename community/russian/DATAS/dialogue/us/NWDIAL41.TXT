@@ -1,0 +1,31 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL41.TXT
+ // Arkhan perso3
+L41D02
+ EZmtnZ[! XXX
+// Arkhan3 G  perso3
+L41D01
+ Fo, kjmhjnldh! XXX
+// Arkhan3 L perso3
+L41D14
+ JdgZ J]anZ |]ij ia_Zgafj. XXX
+// Arkhan3 O perso3
+L41D15
+ *_a ynj |?! XXX
+// Arkhan3 L perso3
+L41D12
+ JnZggZen [wg kjmnljai iZ_ yndh hamnjh ia mgosZeij. XXX
+// Arkhan3 O perso3
+L41D13
+ Hjsaho hia idfnj ia lZmmfZcZg j[ ynjh?! XXX
+// Arkhan3 L perso3
+L41D10
+ Hjg kljmnj ^jldn... XXX
+// Arkhan3 O perso3
+L41D11
+ P~ln, kjg kljmnj ^jldn... Gi bb~n hia ij^d... XXX
+// Arkhan3 G perso3
+L41D03
+ &w^lZ]dlj]Ziiwa iZ_kdmd... XXX
+// Arkhan3 G perso3
+L41D09
+ LkZ_o - hia flwtfZ! XXX

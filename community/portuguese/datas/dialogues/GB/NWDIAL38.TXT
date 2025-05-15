@@ -1,0 +1,175 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\GB\NWDIAL38.TXT
+// Arkhan2 G (estupefacto ao descobrir o Éden) perso2
+L38D01A
+Sangue negro!... XXX
+// Arkhan2 G perso2
+L38D01B
+Que é isto... ...Que lugar é este?! XXX
+// Arkhan3 G (estupefacto ao descobrir o Éden) perso3
+L38D02A
+Sangue negro!... XXX
+// Arkhan3 G perso3
+L38D02B
+Que é isto... ...Que é isto?!? XXX
+// Arkhan2 G (inclina-se e bebe) perso2
+L38D03A
+Esta água... É como fogo líquido... XXX
+// Arkhan2 G perso2
+L38D03B
+A água... purifica-me... mas sinto-me... mais fraco... XXX
+// Arkhan3 G perso3
+L38D04A
+A água... Como fogo... XXX
+// Arkhan3 G perso3
+L38D04B
+Purifica-me... Mas o meu corpo está a arder... XXX
+// Arkhan2 G perso2
+L38D05
+Não, se beber outra vez, esgotar-me-ei. XXX
+// Arkhan3 G perso3
+L38D06
+Não, se beber outra vez, morreria! XXX
+// Arkhan2 G perso2
+L38D07
+Um bloco de cristal de rocha. XXX
+// Arkhan2 G perso2
+L38D08
+A chave do meu pai deve ser talhada neste tipo de cristal. XXX
+// Arkhan3 G perso3
+L38D09
+Cristal de rocha. XXX
+// Arkhan3 G perso3
+L38D10
+A chave do meu pai é feita disso. XXX
+// Arkhan2 G perso2
+L38D11
+Com isto devia conseguir partir uma pequena lâmina de cristal. XXX
+// Arkhan2 G perso2
+L38D12
+É inútil, não há outra lâmina sobre a rocha. XXX
+// Arkhan3 G perso3
+L38D13
+Com isto, vou partir uma lâmina de cristal. XXX
+// Arkhan3 G perso3
+L38D14
+Não... não há outra lâmina. XXX
+// Arkhan2 G perso2
+L38D15A
+Isto lembra-me as plantas da estufa, em casa dos Alimentadores. XXX
+// Arkhan2 G perso2
+L38D15B
+Mas estas aqui são imensas, verdes, cheias de vida... XXX
+// Arkhan2 G perso2
+L38D15C
+Nunca tinha visto isto! XXX
+// Arkhan2 G perso2
+L38D16
+Estas plantas são verdadeiramente fantásticas! XXX
+// Arkhan2 G perso2
+L38D17
+Árvores, plantas, raízes... O sonho dos Alimentadores e dos Oleeiros. XXX
+// Arkhan2 G perso2
+L38D18
+Se viver o tempo suficiente para contar, ninguém me acreditará no Stallite. XXX
+// Arkhan3 G perso3
+L38D19A
+Como nas estufas... dos Alimentadores... XXX
+// Arkhan3 G perso3
+L38D19B
+Mas aqui... a natureza... a vida... estão livres. XXX
+// Arkhan3 G perso3
+L38D19C
+Incrível. XXX
+// Arkhan3 G perso3
+L38D20
+Estas plantas... fantásticas... XXX
+// Arkhan3 G perso3
+L38D21
+Plantas, ervas, raízes... por todo o lado! XXX
+// Arkhan3 G perso3
+L38D22
+Nunca vi estas coisas lá no Stallite... XXX
+// Arkhan2 L perso2
+L38D23
+Rochas, totalmente cobertas de musgo. XXX
+// Arkhan2 O (bate/empurra as rochas) perso2
+L38D24
+Demasiado grossas para mover... XXX
+// Arkhan3 L perso3
+L38D25
+Rochas enormes, cobertas de musgo. XXX
+// Arkhan3 O (bate/empurra as rochas) perso3
+L38D26
+Rah! Não, demasiado pesadas! XXX
+// Arkhan2 G perso2
+L38D27
+Estas raízes são gigantescas... XXX
+// Arkhan3 G perso3
+L38D28
+Raízes... enormes... XXX
+// Arkhan2 G perso2
+L38D29
+O caminho acaba aqui. XXX
+// Arkhan3 G perso3
+L38D30
+Não há mais caminho. XXX
+// Arkhan2 G perso2
+L38D31
+Árvores imensas... XXX
+// Arkhan3 G perso3
+L38D32
+Árvores imensas... XXX
+// Arkhan2 G perso2
+L38D33
+Nunca vi uma planta deste tamanho! XXX
+// Arkhan3 G perso3
+L38D34
+Nunca vi uma planta deste tamanho! XXX
+// Arkhan2 G perso2
+L38D35
+Este tronco é gigantesco. XXX
+// Arkhan3 G perso3
+L38D36
+Que tronco! XXX
+// Arkhan2 L (pensativo diante do lago) perso2
+L38D37
+Estranho, dir-se-ia que a água cintila. XXX
+// Arkhan2 L perso2
+L38D38
+Não parece ser demasiado profundo... XXX
+// Arkhan2 O perso2
+L38D39
+Mais água! Nunca tomei tantos banhos na minha vida! XXX
+// Arkhan3 L perso3
+L38D40
+A água, parece que... cintila... XXX
+// Arkhan3 L perso3
+L38D41
+Não é profundo. XXX
+// Arkhan3 O perso3
+L38D42
+Água! Mais! XXX
+// Arkhan2 G (toca no guardião místico) perso2
+L38D43A
+A pedra está suave e quente... XXX
+// Arkhan2 G (toca no guardião místico) perso2
+L38D43B
+Os meus dedos... estão como dormentes. XXX
+// Arkhan3 G (toca no guardião místico) perso3
+L38D44A
+A pedra está quente... XXX
+// Arkhan3 G (toca no guardião místico) perso3
+L38D44B
+Os meus dedos... Totalmente dormentes... XXX
+// Arkhan2 G perso2
+L38D45
+Uma escada... construída há pouco... XXX
+// Arkhan2 G perso2
+L38D46
+A escada perde-se lá em cima, entre as lianas. XXX
+// Arkhan3 G perso3
+L38D47
+Uma escada... não é velha... XXX
+// Arkhan3 G perso3
+L38D48
+Sobe às árvores... XXX

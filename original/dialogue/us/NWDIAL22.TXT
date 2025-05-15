@@ -1,0 +1,106 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL22.TXT
+ // Arkhan2 L perso2
+L22D22
+ Looks like it goes straight down into the bowels of the earth. XXX
+// Arkhan2 0 perso2
+L22D23
+ I could jump... a real easy way to end it all! XXX
+// Arkhan3 L perso3
+L22D24
+ Like it goes right down into the bowels of the earth. XXX
+// Arkhan3 0 perso3
+L22D25
+ Could always jump... Certain death though... XXX
+// Phedoria perso26
+L22D01
+ We must warn the Great Sunseer! XXX
+// Arkhan2 L (by Rylsadhar's corpse) perso2
+L22D12A
+ Father! XXX
+// Arkhan2 L (by Rylsadhar's corpse) perso2
+L22D12B
+ I swear to avenge you! Thanandar will die! He'll pay for this ! XXX
+// Arkhan2 O perso2
+L22D13A
+ Thanandar! You killed my father! XXX
+// Arkhan2 O perso2
+L22D13B
+ You're going to pay! XXX
+// Arkhan3 L perso3
+L22D14
+ Father! I want vengeance! XXX
+// Arkhan3 O (grunting to himself)perso3
+L22D15
+ Father! ... RAAAH! Vengeance! XXX
+// Arkhan2 L (by Zed's corpse) perso2
+L22D18A
+ Zed, my friend! XXX
+// Arkhan2 L perso2
+L22D18B
+ I swear to avenge you! Thanandar will answer for his crimes! XXX
+// Arkhan2 O (vengeful) perso2
+L22D19A
+ Thanandar! You killed Zed! My brother! XXX
+// Arkhan2 O perso2
+L22D19B
+ You're dead meat! XXX
+// Arkhan3 L perso3
+L22D20
+ Zed! My brother! RAAH! I want blood! XXX
+// Arkhan3 O (vengeful, screaming)perso3
+L22D21
+ Thanandar! Die, scum! XXX
+// Arkhan2 L perso2
+L22D06A
+ By the great Rahal, The energy my father spoke of! XXX
+// Arkhan2 L perso2
+L22D06B
+ Finally, a cure! XXX
+// Arkhan2 L perso2
+L22D06C
+ Ahhh... I'm burning up!... inside... Ah! XXX
+// Arkhan2 L perso2
+L22D07A
+ No! I can't stand the pain! XXX
+// Arkhan2 L perso2
+L22D07B
+ It's too much, it's killing me! XXX
+// Arkhan2 O perso2
+L22D08A
+ Finally! The energy father spoke of! XXX
+// Arkhan2 O perso2
+L22D08B
+ I'm cured! XXX
+// Arkhan2 O perso2
+L22D16
+ I need more. XXX
+// Arkhan3 L perso3
+L22D09A
+ The source, the energy! XXX
+// Arkhan3 L perso3
+L22D09B
+ I'm cured! XXX
+// Arkhan3 L perso2
+L22D09C
+ Aaah! I'm... burning... Aah! XXX
+// Arkhan3 L perso3
+L22D10
+ No, No! It's going to kill me! XXX
+// Arkhan3 O perso3
+L22D11
+ By the fire, the energy... the cure! XXX
+// Arkhan3 O perso3
+L22D17
+ Again! XXX
+// Arkhan2 L perso2
+L22D02
+ The light is dead! The energy... failing. XXX
+// Arkhan2 O perso2
+L22D03
+ NO... The light is gone! XXX
+// Arkhan3 L perso3
+L22D04
+ The light... the energy... dead! XXX
+// Arkhan3 O (enraged)perso3
+L22D05
+No....No more! XXX

@@ -1,0 +1,70 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL09.TXT
+ // Guardian8 (surprised by Arkhan, ready to shoot him) perso48
+L09D31A
+ HgZh| Z_Z! XXX
+// Guardian8 perso48
+L09D31B
+ Ka[a ia _jmnZnx hai|! XXX
+// Arkhan1 L perso1
+L09D04A
+ VnZ hZtdiZ kljdc]j_dn [jakldkZmw _g| mkdnlj_j]. XXX
+// Arkhan1 L perso1
+L09D04B
+ Fj hia iobai hanZgg, fjnjlwe hjbij lZmkgZ]dnx. XXX
+// Arkhan2 L perso2
+L09D05
+ +g| dc^jnj]gaid| [jakldkZmj] f mkdnlj_o kld kjhjud ynje hZtdiw hia iobij iZend hanZgg, fjnjlwe hjbij lZmkgZ]dnx. XXX
+// Arkhan3 L perso3
+L09D06
+ +g| dc^jnj]gaid| [jakldkZmj] hia iobai hanZgg, fjnjlwe hjbij lZmkgZ]dnx. XXX
+// Arkhan1 O perso1
+L09D01
+ Hljfg|nxa! +Z fZf lZ[jnZan ynZ tnofZ?! XXX
+// Arkhan2 O perso2
+L09D02
+ X ia dhaz kji|nd|, fZf ynZ tnofZ lZ[jnZan! XXX
+// Arkhan3 O perso3
+L09D03
+ Hljfg|nZ| hZtdiZ! XXX
+//Arkhan1 L perso1
+L09D13
+ JnZlwa iaiobiwa [jsfd. XXX
+//Arkhan2 L perso2
+L09D14
+ >_amx njgxfj komnwa [jsfd. XXX
+//Arkhan3 L perso3
+L09D15
+ $jsfd... Homnwa. XXX
+// Arkhan2 G perso2
+L04D44
+ Vnj ia njn fgzs! XXX
+// Arkhan3 G perso3
+L04D45
+ Fa njn fgzs! XXX
+//Arkhan1 G perso1
+L09D20
+ Iacal]oZl _g| ]j_w komn. XXX
+//Arkhan2 L perso2
+L09D22
+ Iacal]oZl _g| ]j_w. Homnje. XXX
+//Arkhan3 L perso3
+L09D24
+ Iacal]oZl. Homnje. XXX
+//Arkhan1 L perso1
+L09D25
+ Fa _ohZz, snj maesZm ]lah| lZmmdbd]Znxm|! XXX
+//Arkhan1 O perso1
+L09D26
+ X [w ia mnZg lZmmdbd]Znxm|! XXX
+//Arkhan2 L perso2
+L09D27
+ FZ]alija, maesZm ia ]lah| lZmmdbd]Znxm|! XXX
+//Arkhan2 O perso2
+L09D28
+ Fa qjsanm| lZmmdbd]Znxm|! XXX
+//Arkhan3 L perso3
+L09D29
+ Fagxc| lZmmdbd]Znxm|! XXX
+//Arkhan3 O perso3
+L09D30
+ Fa qjso lZmmdbd]Znxm|! XXX

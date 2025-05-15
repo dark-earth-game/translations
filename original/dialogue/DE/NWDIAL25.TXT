@@ -1,0 +1,388 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL25.TXT
+ // Kalhi (erschrocken) perso13
+L25D106
+ Arkhan, Du bist zurückgekommen? Was ist passiert? XXX
+// Arkhan2 G perso2
+L25D200A
+ Niemand! XXX
+// Arkhan2 G perso2
+L25D200B
+ Wo sind Kalhi und mein Vater?! XXX
+// Arkhan3 G perso3
+L25D201A
+ Niemand! XXX
+// Arkhan3 G perso3
+L25D201B
+ Wo sind Kalhi und mein Vater?! XXX
+// Kalhi (kommt schreiend angelaufen, verstummt dann) perso13
+L25D15
+ Prediger Rylsadhar, was ... XXX
+// Kalhi (erschrocken) perso13
+L25D16A
+ Beim Sonnengott! A... Arkhan? XXX
+// Kalhi (erschrocken) perso13
+L25D16B
+ Bist ... bist Du es? XXX
+// Rylsadhar perso20
+L25D100A
+ Ja, das ist Arkhan. XXX
+// Rylsadhar perso20
+L25D100B
+ Er wurde von denen kontaminiert, die Lory töten wollten. XXX
+// Rylsadhar (durch Kalhis Gegenwart verlegen) perso20
+L25D17A
+ Arkhan, ich ... ich bring' Dich hier weg, wie abgemacht.  XXX
+// Rylsadhar (durch Kalhis Gegenwart verlegen) perso20
+L25D17B
+ Aber ich muß zuerst mit Profos Dhorkan sprechen und von ihm die Zustimmung erhalten, daß er uns freie Hand läßt. XXX
+// Rylsadhar (durch Kalhis Gegenwart verlegen) perso20
+L25D17C
+ Warte da oben bei Sesekhan dem Archivisten auf mich, ich treff' Dich dann dort. XXX
+// Kalhi (mit weinerlicher Stimme) perso13
+L25D18A
+ Arkhan, oh mein Liebster, was haben sie mit Dir gemacht? XXX
+// Kalhi (mit weinerlicher Stimme) perso13
+L25D18B
+ Dein Gesicht, Deine Hände ...  XXX
+// Kalhi (mit weinerlicher Stimme) perso13
+L25D18C
+ Du mußt zu den Heilern ins Krankenhaus gehen! XXX
+// Rylsadhar1 perso20
+L25D93
+ Arkhan, vergiß nicht: Wir treffen uns im Tempel, beim Archivisten! XXX
+// Rylsadhar (A. hat ihn geschlagen) perso20
+L25D26
+ Das Übel der Finsternis hat Dich wahnsinnig gemacht! XXX
+// Rylsadhar (A. hat ihn geschlagen) perso20
+L25D55
+ Nein, mein Sohn! Widerstehe dem Gift, das Deinen Geist zerstört! XXX
+// Rylsadhar (durch Arkhans Aussehen erschrocken) perso20
+L25D07A
+ Arkhan! Beim Sonnengott, bist Du es? XXX
+// Rylsadhar (durch Arkhans Aussehen erschrocken) perso20
+L25D07B
+ Lory hatte recht, sie haben Dich kontaminiert. Das ist das Übel der Finsternis! XXX
+// Rylsadhar perso20
+L25D27
+ Ich bitte Dich, mein Sohn, beruhige Dich! XXX
+// Arkhan1 L perso1
+L25D01A
+ Licht sei über Euch, Vater.  XXX
+// Arkhan1 L perso1
+L25D01B
+ Ist alles in Ordnung? Ihr seht besorgt aus  ...  XXX
+// Arkhan1 O perso1
+L25D106A
+ Seid gegrüßt, Vater! XXX
+// Arkhan1 O perso1
+L25D106B
+ Sagt bloß, Ihr seht ja aus, als wärt Ihr mit dem linken Fuß aufgestanden! XXX
+// Rylsadhar perso20
+L25D02A
+ Licht sei über Dir, Arkhan.  XXX
+// Rylsadhar perso20
+L25D02B
+ Meine Seele ist durch Probleme verdunkelt, für die ich eine Lösung finden muß. XXX
+// Arkhan1 L perso1
+L25D03
+ Seid Ihr sicher, daß alles in Ordnung ist? XXX
+// Arkhan1 O perso1
+L25D06
+ Was ist passiert? Die Große Predigerin verdunkelt Euch das Leben? XXX
+// Rylsadhar perso20
+L25D04A
+ Genug, Arkhan.  XXX
+// Rylsadhar (überdrüssig)perso20
+L25D04B
+ Ich bitte Dich, mein Sohn, tu mir einen Gefallen und kehr zu Deinen Pflichten zurück. XXX
+// Rylsadhar perso20
+L25D04C
+ Der Profos macht regelmäßig Anspielungen darauf, daß Du ständig zu spät kommst! XXX
+// Arkhan2 G perso1
+L25D104
+ Kennt Ihr das, Vater? XXX
+// Rylsadhar perso20
+L25D105A
+ Hör zu, Arkhan, ich hab' zu viele andere Dinge im Kopf. XXX
+// Rylsadhar perso20
+L25D105B
+ Und Du hast sicher auch was Besseres zu tun! XXX
+// Arkhan2 L perso2
+L25D08
+ Vater, was ist los mit mir? Unter welchem Übel leide ich?  XXX
+// Rylsadhar (durch das Schicksal seines Sohnes gerührt) perso20
+L25D09A
+ Arkhan ... Mein Sohn, Dein Mut hat der Großen Predigerin das Leben gerettet. XXX
+// Rylsadhar perso20
+L25D09B
+ Ich weiß aber nicht, was Dich von diesem Übel heilen kann. XXX
+// Rylsadhar perso20
+L25D09C
+ Wir werden alles tun, um Dich zu retten.  XXX
+// Rylsadhar perso20
+L25D09D
+ Thanandar, unser bester Heiler, kümmert sich bereits darum. XXX
+// Arkhan2 L perso2
+L25D10A
+ Thanandar hat gesagt, daß er nichts für mich tun kann. XXX
+// Arkhan2 L perso2
+L25D10B
+ Er sagt, daß sich das einzig wirksame Mittel irgendwo in einer Gruft befindet. XXX
+// Rylsadhar (überrascht) perso20
+L25D11
+ Was? Thanandar hat Dir von ... von diesem Ort erzählt?  XXX
+// Arkhan2 G perso2
+L25D12A
+ Ja, er hat gesagt, daß Ihr die einzige Person seid, die mich dorthin führen kann ...  XXX
+// Arkhan2 G perso2
+L25D12B
+ Vater, ich brauche Eure Hilfe!  XXX
+// Rylsadhar (trifft eine Entscheidung) perso20
+L25D13A
+ Wenn ich gewußt hätte, daß dieser Tag kommen würde ... XXX
+// Rylsadhar perso20
+L25D13B
+ Dein Mut und Deine Ergebenheit geben Dir das Recht, alles zu erfahren! XXX
+// Rylsadhar perso20
+L25D13C
+ Du sollst aber auch wissen, daß es mir eigentlich untersagt ist, Dich an diesen heiligen Ort zu führen. XXX
+// Rylsadhar perso20
+L25D13D
+ Aber damit Du gesund wirst, werde ich meinen Eid brechen. XXX
+// Rylsadhar perso20
+L25D13E
+ Du mußt mir versprechen, nichts von dem, was ich Dir zeigen werde, irgendjemandem weiterzusagen. XXX
+// Arkhan2 L perso2
+L25D14
+ Ich verspreche es. XXX
+// Arkhan2 O perso2
+L25D19
+ Vater, was ist los mit mir?! Verdammt, ich habe Schmerzen! XXX
+// Arkhan2 O perso2
+L25D20A
+ Thanandar! Er kann nichts tun! XXX
+// Arkhan2 O perso2
+L25D20B
+ Er behauptet, daß sich das Gegenmittel an einem geheimen Ort befindet. In einer Gruft! XXX
+// Arkhan2 O perso2
+L25D21
+ Ich verspreche alles, was Ihr wollt, aber helft mir!  XXX
+// Arkhan3 G perso3
+L25D22
+ Vater, ich habe Schmerzen! XXX
+// Arkhan3 G perso3
+L25D23A
+ Thanandar ... kann mir nicht helfen! XXX
+// Arkhan3 G perso3
+L25D23B
+ Er sagt, daß sich das Gegenmittel in einer geheimen Gruft befindet. XXX
+// Arkhan3 G perso3
+L25D24
+ Er sagt, daß Ihr mich dorthin führen könnt!  XXX
+// Arkhan3 G perso3
+L25D25
+ Einverstanden. XXX
+// Kalhi perso13
+L25D85
+ Arkhan, nein! XXX
+// Kalhi perso13
+L25D86
+ So ist es gut. Ganz ruhig. XXX
+// Kalhi (beunruhigt) perso33
+L04D41
+ Arkhan! Was ist los mit Dir? XXX
+// Arkhan2 L perso2
+L25D62
+ Keine Sorge, Kalhi, wir werden es schaffen. XXX
+// Arkhan2 O perso2
+L25D64
+ Ich fange an, Schmerzen zu bekommen. Ich muß zu meinem Vater! XXX
+// Kalhi (gerührt) perso13
+L25D63A
+ Ja, ich vertraue Rylsadhar. XXX
+// Kalhi (gerührt) perso13
+L25D63B
+ Du solltest sofort nach oben zu ihm gehen. XXX
+// Arkhan2 L perso2
+L25D58
+ Mein Vater wird uns helfen, keine Sorge! XXX
+// Arkhan2 O perso2
+L25D61
+ Keine Sorge, mein Vater kümmert sich um alles! XXX
+// Kalhi (gerührt) perso13
+L25D59A
+ Oh, ich hoffe so sehr, daß er Dich heilen kann.  XXX
+// Kalhi (gerührt) perso13
+L25D59B
+ Ich habe Angst um Dich, Arkhan. XXX
+// Kalhi (gerührt) perso13
+L25D59C
+ Und was werden die Prediger sagen, wenn sie Dich so sehen ... so verändert. XXX
+// Kalhi (gerührt) perso13
+L25D59D
+ Sie werden es mit der Angst bekommen, sie könnten Dich ins Reich der Finsternis verbannen! XXX
+// Arkhan2 L (beruhigend) perso2
+L25D56A
+ Kalhi ... Nur keine Panik ... XXX
+// Arkhan2 L perso2
+L25D56B
+ Hör zu, ich mußte das Krankenhaus verlassen ...  XXX
+// Arkhan2 L perso2
+L25D56C
+ Ein Hüter des Feuers hat mich dort angegriffen. XXX
+// Arkhan2 L perso2
+L25D56D
+ Er hat mich nicht wiedererkannt, er hat mich für ich weiß nicht welche Kreatur der Finsternis gehalten. XXX
+// Arkhan2 O perso2
+L25D60A
+ Immer mit der Ruhe! Und kein Wort! XXX
+// Arkhan2 O perso2
+L25D60B
+ Ich kann nicht ins Krankenhaus gehen.  XXX
+// Arkhan2 O perso2
+L25D60C
+ Ich war dort, aber als ich kaum aufgewacht war, hat mich ein Hüter des Feuers angegriffen. XXX
+// Arkhan2 O perso2
+L25D60D
+ Er schrie und sagte, ich sei eine Kreatur der Finsternis! Ich hatte keine andere Wahl, ich mußte mich wehren! XXX
+// Kalhi (gerührt) perso13
+L25D57A
+ Nachdem, was hier in letzter Zeit passiert, herrscht da oben die helle Panik.  XXX
+// Kalhi (gerührt) perso13
+L25D57B
+ Der Profos hat die Macht über den Stalliten ergriffen. Alle Tore sind verschlossen. XXX
+// Kalhi (gerührt) perso13
+L25D57C
+ Die Plattform zur Unteren Stadt ist blockiert, ich kann nicht hinunterfahren. XXX
+// Kalhi (gerührt) perso13
+L25D57D
+ Und die Hüter des Feuers suchen überall nach den Schuldigen.  XXX
+// Kalhi (gerührt) perso13
+L25D57E
+ Ich habe Angst vor dem, was passiert, wenn sie mich finden! XXX
+// Arkhan2 G perso2
+L25D94A
+ Das muß meinem Vater gehören. XXX
+// Arkhan2 G perso2
+L25D94B
+ Weißt Du, was das ist? XXX
+// Kalhi perso13
+L25D95
+ Nein, Du weißt sehr gut, daß ich nicht lesen kann ... XXX
+// Kalhi perso13
+L25D101A
+ Nein, nichts. XXX
+// Kalhi perso13
+L25D101B
+ Arkhan, schlag Dir das aus dem Kopf! XXX
+// Kalhi perso13
+L25D101C
+ Wir müssen etwas tun, damit Du gesund wirst. Das ist das einzige, worauf es ankommt! XXX
+// Arkhan3 G perso3
+L25D66
+ Ich muß zu meinem Vater. XXX
+// Arkhan3 G perso3
+L25D67
+ Hab Vertrauen zu Rylsadhar. XXX
+// Arkhan3 G perso3
+L25D68A
+ Kalhi ... Ruhig ...  XXX
+// Arkhan3 G perso3
+L25D68B
+ Vergiß das Krankenhaus. Ein Hüter des Feuers hat mich da angegriffen. XXX
+// Arkhan3 G perso3
+L25D68C
+ Ich mußte mich wehren ... Ich habe ihn getötet. XXX
+// Arkhan3 G perso3
+L25D102A
+ Das gehört meinem Vater ... XXX
+// Arkhan3 G perso3
+L25D102B
+ Weißt Du, was das ist? XXX
+// Arkhan2 O perso2
+L04D37
+ Hör auf, Du kämpfst ja wie eine Anfängerin! XXX
+// Arkhan2 L perso2
+L04D38
+ Sag bloß, Du hast ja direkt was drauf! XXX
+// Arkhan3 O perso3
+L04D39
+ Und das nennst Du kämpfen! XXX
+// Arkhan3 L perso3
+L04D40
+ Du kannst ja kämpfen! XXX
+// Kalhi (muß sich wehren) perso33
+L04D43
+ Arkhan, nein! XXX
+// Kalhi (verängstigt) perso33
+L04D42
+ Nein, Arkhan! Du mußt dagegen ankämpfen! XXX
+// Arkhan1 G perso1
+L25D28
+ Was ist denn das da oben? XXX
+// Arkhan1 G perso1
+L25D29
+ Nichts als unnützes Zeug! XXX
+// Arkhan1 G perso1
+L25D30
+ Was für eine Unordnung auf diesen Regalen! XXX
+// Arkhan2 G perso1
+L25D31
+ Da oben ist nichts. XXX
+// Arkhan2 G perso1
+L25D33
+ Pfff! Nichts. XXX
+// Arkhan3 G perso1
+L25D35
+ Nutzloses Zeug. XXX
+// Arkhan1 L perso1
+L25D43
+ Das ist das Arbeitszimmer meines Vaters. XXX
+// Arkhan1 O perso1
+L25D44
+ Finger weg vom Schreibtisch meines Vaters. XXX
+// Arkhan1 L (vor einem Globus) perso1
+L25D49
+ Mein Vater sagt, daß diese Kugel unsere Welt darstellt.  XXX
+// Arkhan1 O (vor einem Globus) perso1
+L25D50
+ Schon wieder eines dieser unnützen Dinge vom Vorher! XXX
+// Arkhan1 G perso1
+L25D76
+ Sieht aus wie ein Schloß. XXX
+// Arkhan2 G perso2
+L25D77
+ Sieht aus wie ein Schloß. XXX
+// Arkhan2 L perso2
+L25D81
+ Damit kann ich das nicht aufschließen. XXX
+// Arkhan3 G perso3
+L25D78
+ Ein seltsames Schloß. XXX
+// Arkhan3 L perso3
+L25D84
+ So komme ich nicht weiter! XXX
+// Arkhan2 L perso2
+L25D79
+ Nein, der Schlüssel ist nicht vollständig. XXX
+// Arkhan2 O perso2
+L25D80
+ Verdammt! Er paßt nicht hinein! XXX
+// Arkhan3 L perso3
+L25D82
+ Der Schlüssel ist nicht vollständig! XXX
+// Arkhan3 O perso3
+L25D83
+ Funktioniert nicht! XXX
+// Arkhan2 O (frustriert) perso2
+L25D74
+ Wo ist mein Vater denn hin!? XXX
+// Arkhan3 O (frustriert) perso3
+L25D75
+ Vater! Wo seid Ihr!? XXX
+// Arkhan2 G perso1
+L25D87
+ Was ist denn hier drunter? XXX
+// Arkhan3 G perso1
+L25D88
+ Was ist hier drunter? XXX

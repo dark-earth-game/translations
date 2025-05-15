@@ -1,0 +1,175 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL38.TXT
+ // Arkhan2 G (stupefied to discover Eden) perso2
+L38D01A
+ Wrzaca krew!... XXX
+// Arkhan2 G perso2
+L38D01B
+ Co... ... Coz to za miejsce?! XXX
+// Arkhan3 G (stupefied to discover Eden) perso3
+L38D02A
+ Wrzaca krew!... XXX
+// Arkhan3 G perso3
+L38D02B
+ Co... ... Co to jest!? XXX
+// Arkhan2 G (bending down to drink) perso2
+L38D03A
+ Ta woda... Niczym plynny ogien... XXX
+// Arkhan2 G perso2
+L38D03B
+ To... oczyszcza mnie... ale czuje sie... slabszy... XXX
+// Arkhan3 G perso3
+L38D04A
+ Woda... jak ogien...  XXX
+// Arkhan3 G perso3
+L38D04B
+ Oczyszcza mnie... Ale moje cialo plonie... XXX
+// Arkhan2 G perso2
+L38D05
+ Nie, jesli wypije wiecej to mnie zabije. XXX
+// Arkhan3 G perso3
+L38D06
+ Nie, nie. Jesli wypije jeszcze to mnie zabije! XXX
+// Arkhan2 G perso2
+L38D07
+ Blok krysztalowej skaly. XXX
+// Arkhan2 G perso2
+L38D08
+ Klucz mojego ojca musial byc wyrzezbiony z podobnego kamienia. XXX
+// Arkhan3 G perso3
+L38D09
+ Krysztalowa skala. XXX
+// Arkhan3 G perso3
+L38D10
+ To z tego zrobiono klucz mojego ojca. XXX
+// Arkhan2 G perso2
+L38D11
+ Z pomoca tego powinienem zdolac odlupac kawalek krysztalu. XXX
+// Arkhan2 G perso2
+L38D12
+ Co za pech! Nie ma innego kawalka na skale. XXX
+// Arkhan3 G perso3
+L38D13
+ Z pomoca tego odlupie kawalek krysztalu. XXX
+// Arkhan3 G perso3
+L38D14
+ Nie... Nie ma tam juz zadnego kawalka. XXX
+// Arkhan2 G perso2
+L38D15A
+ Przypomina jedna z cieplarnianych roslin, ktore hoduja Zaopatrujacy. XXX
+// Arkhan2 G perso2
+L38D15B
+ Ale te sa wielkie, zielone, pelne zycia...  XXX
+// Arkhan2 G perso2
+L38D15C
+ Nigdy czegos takiego nie widzialem! XXX
+// Arkhan2 G perso2
+L38D16
+ Te rosliny sa fantastyczne! XXX
+// Arkhan2 G perso2
+L38D17
+ Drzewa, rosliny, korzenie... O takich wlasnie marza Zaopatrujacy i Oliwnicy. XXX
+// Arkhan2 G perso2
+L38D18
+ Nawet jesli pozyje wystarczajaco dlugo, by opowiedziec o tym ludziom, nikt w Stallite mi nie uwierzy. XXX
+// Arkhan3 G perso3
+L38D19A
+ Zupelnie jak w cieplarniach Zaopatrujacych... XXX
+// Arkhan3 G perso3
+L38D19B
+ Ale tutaj... natura... zycie... rosna wolne. XXX
+// Arkhan3 G perso3
+L38D19C
+ Niewiarygodne. XXX
+// Arkhan3 G perso3
+L38D20
+ Te rosliny... fantastyczne... XXX
+// Arkhan3 G perso3
+L38D21
+ Rosliny, ziola, korzenie... wszedzie! XXX
+// Arkhan3 G perso3
+L38D22
+ Nigdy nie widzialem czegos podobnego w Stallite... XXX
+// Arkhan2 L perso2
+L38D23
+ Skaly pokryte mchem. XXX
+// Arkhan2 O (hitting/shoving the rocks) perso2
+L38D24
+ Niee... Zbyt duze by je poruszyc... XXX
+// Arkhan3 L perso3
+L38D25
+ Wielkie skaly pokryte mchem. XXX
+// Arkhan3 O (hitting/shoving the rocks) perso3
+L38D26
+ Rrraahhh! Grrrrr..., za ciezkie! XXX
+// Arkhan2 G perso2
+L38D27
+ Te korzenie sa gigantyczne... XXX
+// Arkhan3 G perso3
+L38D28
+ Korzenie... Ogromne... XXX
+// Arkhan2 G perso2
+L38D29
+ Tu konczy sie sciezka. XXX
+// Arkhan3 G perso3
+L38D30
+ Nie ma juz sciezki. XXX
+// Arkhan2 G perso2
+L38D31
+ Wielkie drzewa... XXX
+// Arkhan3 G perso3
+L38D32
+ Wielkie drzewa... XXX
+// Arkhan2 G perso2
+L38D33
+ Nigdy w zyciu nie widzialem rownie wielkiej rosliny! XXX
+// Arkhan3 G perso3
+L38D34
+ Nigdy nie widzialem tak duzej rosliny! XXX
+// Arkhan2 G perso2
+L38D35
+ Coz za ogromny pien. XXX
+// Arkhan3 G perso3
+L38D36
+ Co za pien! XXX
+// Arkhan2 L (pensively, by pond)perso2
+L38D37
+ Dziwne, woda wydaje sie lsnic. XXX
+// Arkhan2 L perso2
+L38D38
+ Nie wyglada zbyt gleboko... XXX
+// Arkhan2 O perso2
+L38D39
+ Wiecej wody! Nigdy przedtem nie bralem takiej kapieli! XXX
+// Arkhan3 L perso3
+L38D40
+ Woda... ona... mieni sie... XXX
+// Arkhan3 L perso3
+L38D41
+ Nie za gleboko. XXX
+// Arkhan3 O perso3
+L38D42
+ Woda! Wiecej wody!! XXX
+// Arkhan2 G (touching the Mystic Guardian)perso2
+L38D43A
+ Kamien jest miekki i cieply... XXX
+// Arkhan2 G (touching the Mystic Guardian)perso2
+L38D43B
+ Moje palce... pulsuja. XXX
+// Arkhan3 G (touching the Mystic Guardian)perso3
+L38D44A
+ Kamien jest goracy...  XXX
+// Arkhan3 G (touching the Mystic Guardian)perso3
+L38D44B
+ Moje palce... Pulsuja... XXX
+// Arkhan2 G perso2
+L38D45
+ Schody... niedawno wybudowane... XXX
+// Arkhan2 G perso2
+L38D46
+ Schody prowadza w gore wewnatrz roslin. XXX
+// Arkhan3 G perso3
+L38D47
+ Schody... niezbyt stare... XXX
+// Arkhan3 G perso3
+L38D48
+ Prowadza miedzy drzewa... XXX

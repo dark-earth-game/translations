@@ -1,0 +1,736 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL01.TXT
+ // Kalhi (zu Arkhan, der in Unterwäsche zurückkommt) perso12
+L01D17A
+ Arkhan! Was ist denn mit Dir los? XXX
+// Kalhi (amüsiert) perso12
+L01D17B
+Komm schon, Deine Uniform hängt da am Haken ... XXX
+// Hüter des Feuers23 perso88
+L01D147
+ Du gehörst zu ihnen, ich wußte es! XXX
+// Zed (ruft durch die Tür hindurch) perso1
+L01D01A
+ (draußen) Arkhan, ich bin's, Zed! Komm schnell raus! XXX
+// Zed (ruft durch die Tür hindurch) perso1
+L01D01B
+ (draußen) Arkhan, der Profos hat Dich zu sich bestellt. Wenn Du hier nicht schnell rauskommst, bekommst Du Ärger! XXX
+// Kalhi (wacht auf) perso12
+L01D03
+ Arkhan ... Du bist ja schon auf ... Du siehst aus, als hättest Du schlecht geschlafen ... XXX
+// Phedoria (Arkhan schlägt Kalhi) perso26
+L01D45A
+ Arkhan! Rühr sie nicht an! XXX
+// Arkhan0 O (wütend) perso0
+L01D99
+ Kommandantin Phedoria! Willst Du das gleiche wie sie, dreckige Hure? Warte nur! XXX
+// Phedoria (schießt kaltblütig) perso26
+L01D45B
+ Du läßt mir keine andere Wahl! XXX
+// Kalhi (das Herz gebrochen durch Arkhans Tod) perso12
+L01D44
+ Arkhan... Oh nein! XXX
+// Kabak (greift an) perso87
+L01D148
+ Arkhan! Du mieser Verräter! XXX
+// Arkhan1 G (geht zu Kabak) perso1
+L01D66A
+ Hey, Kabak! XXX
+// Kabak (schimpfend) perso87
+L01D67
+Licht sei über Dir, Arkhan. XXX
+// Arkhan2 L perso2
+L01D60A
+ Du brauchst keine Angst vor mir zu haben, Kabak! XXX
+// Arkhan2 O perso2
+L01D60B
+ Geh' nicht weg! XXX
+// Arkhan3 L perso3
+L01D61A
+ Hab' keine Angst! XXX
+// Arkhan3 O perso3
+L01D61B
+ (aggressives Knurren) XXX
+// Kabak (steht verblüfft vor Arkhan) perso87
+L01D30A
+ Arkhan! Bist Du es? XXX
+// Kabak perso87
+L01D30B
+ Beim Sonnengott, Dich haben sie ja übel zugerichtet! XXX
+// Kabak (sieht Arkhan2/3 wieder) perso87
+L01D139
+ Arkhan! Sieht aus, als würd's schlimmer werden ... XXX
+// Arkhan2 G (geht zu Kabak) perso2
+L01D66B
+ Kabak! XXX
+// Arkhan3 G (geht zu Kabak) perso3
+L01D66C
+ Kabak! XXX
+// Kabak (gegenüber Arkhan1, der aggressiv ist) perso87
+L01D81
+ Was ist denn mit Dir los? XXX
+// Kabak (gegenüber Arkhan2/3, der aggressiv ist) perso87
+L01D82
+ Ganz ruhig! XXX
+// Kabak (Arkhan kommt zurück, nachdem er den Kampf geflüchtet ist) perso87
+L01D87
+ Da bist Du ja wieder, Du Schweinehund! XXX
+// Kabak (Arkhan packt die Waffen weg) perso87
+L01D80
+So gefällst Du mir schon besser! XXX
+// Kabak (wird von Arkhan1 geschlagen) perso87
+L01D137
+ Tu das nie wieder, oder es wird Dir leid tun! XXX
+// Kabak (wird von Arkhan2/3 geschlagen) perso87
+L01D138A
+ Es stimmt, Du bist häßlich, aber die Augen des alten Kabak haben schon Schlimmeres gesehen! XXX
+// Hüter des Feuers23 (geschockt, als er Arkhan sieht) perso88
+L01D121
+ Kabak! Verdammt noch mal, das ist eine von diesen Kreaturen! XXX
+// Kabak (zu Lars, dem verletzten Hüter des Feuers) perso87
+L01D31A
+ Nur keine Panik, Lars! XXX
+// Kabak (beruhigend) perso87
+L01D31B
+ Lars, beruhig Dich! Dieses Ungeheuer da ist Arkhan.  XXX
+// Kabak perso87
+L01D31C
+ Heute morgen war er noch ein Hüter des Feuers wie wir alle. Er ist nicht unser Feind. XXX
+// Hüter des Feuers23 (nicht überzeugt, daß Arkhan harmlos ist) perso88
+L01D122
+ Was Du auch immer bist, komm keinen Schritt näher, "Arkhan"! XXX
+// Hüter des Feuers23 (nicht überzeugt, daß Arkhan harmlos ist) perso88
+L01D123
+ Paß auf "Arkhan"!Ich kann noch kämpfen! XXX
+// Hüter des Feuers23 (geschockt, als er Arkhan sieht) perso88
+L01D124
+ Kabak! Du sprichst mit diesem Ungeheuer ... dieses Ding da ist eine Gotteslästerung! XXX
+// Kabak (mißtrauisch) perso87
+L01D171
+ Er wird Dir nichts tun ... Stimmt's, Arkhan? XXX
+// Hüter des Feuers23 (will Arkhan nicht sehen) perso88
+L01D94
+ Kabak, ruf diese Kreatur zurück! XXX
+// Hüter des Feuers23 (weigert sich, Arkhan zu sehen) perso88
+L01D95
+ Kabak, das gefällt mir nicht! Er hat die Finsternis in den Augen! XXX
+// Kabak perso87
+L01D96
+ Genug, Lars! Er ist nichts weiter als ein Opfer, genau wie Du. XXX
+// Kabak perso87
+L01D172
+ Er ist doch nicht verrückt! Er wird uns nichts tun! XXX
+// Hüter des Feuers23 (greift Arkhan an) perso88
+L01D127
+ Tod dem Dämonen! XXX
+// Arkhan1 L (vor einem Bett) perso1
+L01D21A
+ Ich bin so müde... Aber ich muß jetzt gehen. XXX
+// Kalhi (ein wenig ungeduldig) perso12
+L01D29A
+ Arkhan, beeil Dich, Zed wartet auf Dich ...  XXX
+// Kalhi (ein wenig ungeduldig) perso12
+L01D29B
+ Arkhan, Du hast doch schon Deine Uniform an, geh jetzt zu Zed ... XXX
+// Arkhan2 G (vor einem Bett) perso2
+L01D21B
+ Ich hab' jetzt keine Zeit zu schlafen! XXX
+// Arkhan3 G (vor einem Bett) perso3
+L01D21C
+ Ich hab' jetzt keine Zeit ... XXX
+// Arkhan1 O (vor einem Bett) perso1
+L01D21D
+ Verdammt! Mir reicht's, nie komm' ich zum Schlafen. XXX
+// Kalhi (ungeduldig) perso12
+L01D29C
+ Arkhan, hör auf zu jammern! XXX
+// Arkhan0 L perso0
+L01D119
+ Da ist ja meine Uniform. XXX
+// Arkhan0 O (murmelt) perso0
+L01D120
+ Da ist ja meine Uniform. XXX
+// Kalhi (Arkhan kommt in Unterwäsche zurück) perso12
+L01D32
+ Arkhan, so willst Du doch wohl nicht hier rausgehen!? XXX
+// Arkhan1 G (ironisch) perso0
+L01D33
+ Nein, wenn ich hier so rausgeh', bekomm' ich Ärger ... XXX
+// Arkhan1 L perso1
+L01D34A
+ Kalhi, wenn Du weggehst, paß vor allem auf, daß Dich niemand sieht.  XXX
+// Arkhan1 L perso1
+L01D34B
+ Ich will nicht, daß Dich Profos Dhorkan schnappt. Du weißt, wie streng er mit Fremden in der Kaserne ist. XXX
+// Kalhi perso12
+L01D36
+ Mach Dir keine Sorgen, Arkhan, ich werd' so unauffällig, wie ich gekommen bin, auch wieder verschwinden. XXX
+// Arkhan1 O (vorwurfsvoll) perso1
+L01D35A
+ Hey, Kalhi, so beeil Dich doch! XXX
+// Arkhan1 O perso1
+L01D35B
+ Du weißt genau, daß die Lumpensammler nicht das Recht haben, die Hüter des Feuers zu besuchen. XXX
+// Arkhan1 O perso1
+L01D35C
+ Wenn Dich Profos Dhorkan hier findet, kann ich einen Monat lang die Latrinen schrubben!  XXX
+// Kalhi (beleidigt) perso12
+L01D37
+Also, wenn Du nicht willst, daß ich noch mal zu Dir komme', brauchst Du's nur zu sagen! XXX
+// Kalhi perso12
+L01D41
+ Hey, immer mit der Ruhe! Du sollst Dich mit Zed für den Kampf üben, nicht mit mir! XXX
+// Arkhan1 G (sanft) perso0
+L01D02
+ Kalhi, schläfst Du? XXX
+// Arkhan1 L perso0
+L01D04A
+ Ich wollte Dich nicht wecken. Aber die ersten Lichtstrahlen des Sonnengottes sind schon durchgekommen ... XXX
+// Kalhi perso12
+L01D05A
+ Ist schon gut, ich hab' sowieso nur mit einem Auge geschlafen. XXX
+// Arkhan1 L perso0
+L01D04B
+ Weißt Du, ich hab' was Seltsames geträumt. Ich hab die Große Katastrophe gesehen und unsere Vorfahren, die Wanderer der Finsternis, die unsere Stadt gebaut haben ... XXX
+// Kalhi perso12
+L01D05B
+ Du hast von den Gründern Spartas geträumt? XXX
+// Kalhi perso12
+L01D05C
+ Dieser Traum würde Rylsadhar gefallen.  XXX
+// Kalhi perso12
+L01D05D
+ Dein Vater, der Prediger, hat wirklich eine Leidenschaft für Geschichte! XXX
+// Arkhan1 L perso0
+L01D06A
+ Stell Dir vor, auch Dich hab' ich in meinem Traum gesehen! Mit meinem Vater, Zed und der Großen Predigerin Lory ...  XXX
+// Arkhan1 L perso0
+L01D06B
+ Da war auch unser Freund Danrys, der alte Lumpensammler. XXX
+// Kalhi perso12
+L01D07
+ Meinst Du, daß der Sonnengott Dir diesen Traum eingegeben hat? XXX
+// Arkhan1 L perso0
+L01D08A
+ Das hoff' ich nicht! XXX
+// Arkhan1 L perso0
+L01D08B
+ Ich werd' Dir mal was sagen: Wenn der Sonnengott es wirklich gut mit mir meinen würde, würde er später aufstehen, damit wir in Ruhe ausschlafen können!  XXX
+// Kalhi perso12
+L01D09A
+ Arkhan! Wenn Dein Vater Dich hören würde! XXX
+// Kalhi perso12
+L01D09Z
+ Wenn Du Gott weiter so lästerst, endest Du noch im Exil, im Reich der Finsternis! XXX
+// Arkhan1 L perso0
+L01D10
+ So, ich glaub', wir müssen jetzt los! Wenn sie uns hier zusammen finden, bekommen wir Ärger. XXX
+// Kalhi perso12
+L01D11
+ Ja, Du hast recht, man soll nicht mit dem Feuer spielen. XXX
+// Arkhan1 O (schlecht gelaunt) perso0
+L01D13A
+ Hör auf Kalhi, ich hab' jetzt keine Lust! XXX
+// Kalhi (beleidigt) perso12
+L01D14
+ Also gut, wenn das so ist, sag' ich gar nichts mehr... XXX
+// Arkhan1 O perso0
+L01D13B
+Ich hab' einen Alptraum gehabt... Ich hab vom Vorher geträumt, von unserer Stadt ... XXX
+// Arkhan1 O perso0
+L01D15
+ Jetzt reicht's mir! Ich bin kein Gott - warum soll ich gleichzeitig mit dem Lichtvater aufstehen?! XXX
+// Arkhan1 O perso0
+L01D16
+ Ein guter Hüter des Feuers sein. Dem Sonnengott dienen - den Predigern fällt auch nichts anderes ein! XXX
+// Kalhi perso12
+L01D09B
+ Und glaub mir, das Leben eines Lumpensammlers wie meines oder das des alten Danrys ist auch nicht gerade eine Freude! XXX
+// Arkhan1 O perso1
+L01D18
+ Ich hab' Lust, mich wieder neben Dich zu legen ... XXX
+// Kalhi (verärgert) perso12
+L01D19
+ Arkhan, nein! Es war schon gefährlich genug, die Nacht hier zusammen zu verbringen! Sie sollen uns doch nicht zusammen finden ... XXX
+// Arkhan1 L perso0
+L01D46A
+ Zed ruft mich, ich muß jetzt gehen. XXX
+// Kalhi perso12
+L01D20A
+ Umarm ihn von mir, wenn Du ihn siehst. Ohne seine Hilfe hätten wir uns sicher diese Nacht nicht sehen können ... XXX
+// Arkhan1 L (macht ein angeekeltes Gesicht) perso0
+L01D46B
+ Er ist nicht mein Typ von Mann! XXX
+// Arkhan1 L perso0
+L01D46C
+ Wirklich, ich versteh' nicht, was ihr alle an Zed findet ... XXX
+// Kalhi (amüsiert) perso12
+L01D20B
+ Nun komm schon, mach Dir nichts draus, Du weißt doch, daß ich Dich liebe! XXX
+// Arkhan1 O perso0
+L01D47
+ Zed ... Ich hab' den Eindruck, daß sogar er mir böse ist! XXX
+// Kalhi (aufgebracht) perso12
+L01D26A
+ Du wirst doch wohl Zed keine Vorwürfe machen! Er ist Dein Freund und der größte Held des Stalliten! XXX
+// Kalhi perso12
+L01D26B
+ Und ohne seine Hilfe hätten wir uns heute Nacht nicht sehen können... XXX
+// Arkhan1 L perso0
+L01D88A
+ Es ist höchste Zeit, ich muß jetzt gehen. XXX
+// Kalhi perso12
+L01D89A
+ Bis bald, Liebster. XXX
+// Arkhan1 O perso0
+L01D88B
+ (Seufzer) Ich muß los ... XXX
+// Kalhi perso12
+L01D89B
+ Nun geh' schon, viel Glück! XXX
+// Arkhan1 L perso1
+L01D24A
+ Ich hab' Zed gesehen. Er war hervorragend auf die Kampfübungen vorbereitet. Ich glaube, er ist wieder kampfbereit. XXX
+// Kalhi perso12
+L01D25A
+ Aber er ist doch gerade von seiner Reise aus dem Reich der Finsternis zurückgekommen! Ruht er sich denn nie aus? XXX
+// Arkhan1 O perso1
+L01D83
+Ich hab' Zed gesehen. Er war kampfbereit ... und offenbar zu beschäftigt, um mich auch nur zu bemerken. Und das nennt man Freundschaft! XXX
+// Kalhi perso12
+L01D84A
+ Sei nicht undankbar, Arkhan! Zed verbringt zuviel Zeit draußen, das stimmt, und da würde sich jede Seele verdunkeln. Aber ich hab' nie gehört, daß er hart mit Dir gesprochen hätte. XXX
+// Kalhi perso12
+L01D25B
+ Du solltest versuchen, ihn umzustimmen - eines Tages wird er nicht mehr aus dem Reich der Finsternis zurückkommen. Es wäre besser, er bleibt weiter bei uns. Er ist ein ausgezeichneter Hüter des Feuers! XXX
+// Arkhan1 G perso1
+L01D24B
+ Er sagt, daß ihn das Leben im Stalliten langweilt. Du solltest seine Augen sehen, wenn er ins Reich der Finsternis aufbricht. Ich glaube, daß ihn niemand davon abbringen wird! XXX
+// Kalhi perso12
+L01D25C
+ Auf daß der Sonnengott ihm seinen ewigen Schutz gewähre! XXX
+// Arkhan1 L perso1
+L01D27A
+ Ich muß jetzt gehen. Licht sei über Dir, Kalhi. XXX
+// Kalhi perso12
+L01D28
+ Und über Dir, Liebster. XXX
+// Arkhan1 O perso1
+L01D85A
+ So, das reicht jetzt, ich geh'. XXX
+// Arkhan1 O (schimpfend) perso1
+L01D85B
+ Ja... Licht sei über Dir... XXX
+// Kalhi (unsicher) perso12
+L01D42
+ Hör auf, Arkhan! Du machst mir Angst! XXX
+// Kalhi (erschrocken)  perso12
+L01D43A
+ Beim Sonnengott, Arkhan! Ich bitte Dich, tu mir nichts! XXX
+// Arkhan0 G (schnauzt Kalhi an) perso0
+L01D98
+ Dreckige Hure, ich werd' Dir zeigen, wo's lang geht! XXX
+// Kalhi (schreiend vor Angst) perso12
+L01D43B
+ Nein! Nein! Hilfe! XXX
+// Arkhan0 G (besprengt sich das Gesicht) perso0
+L01D23A
+ Ah ... das tut gut! XXX
+// Arkhan2 G (besprengt sich das Gesicht) perso2
+L01D23B
+ Ah ... XXX
+// Arkhan3 G (besprengt sich das Gesicht) perso3
+L01D23C
+ Ah ... XXX
+// Arkhan1 L perso1
+L01D48
+ Licht sei über Dir, Kabak! XXX
+// Kabak perso87
+L01D49A
+ Glaub mir, mein Sohn, der Lichtvater meint es heute gut mit uns! XXX
+// Kabak perso87
+L01D49B
+ Ich hab' da grad so ein junges Ding mit feurigen Augen gesehen ... Mmm, einfach zum Anbeißen! XXX
+// Arkhan1 L (peinlich berührt) perso1
+L01D50
+ Hmmm... Ach wirklich...? XXX
+// Kabak (verträumt)perso87
+L01D51A
+ Sag' ich doch! Ich hab' einen Moment lang geträumt, meiner alten Haut auf ihren Rundungen wieder Leben einzuhauchen. XXX
+// Kabak perso87
+L01D51B
+ Was war das für ein rassiges Weibsstück! XXX
+// Kabak perso87
+L01D51C
+ Und plötzlich war sie weg - pffft - schneller als der Wind der Finsternis! XXX
+// Arkhan1 O perso1
+L01D52
+ Kabak! Mußt Du denn in Deinem Alter noch immer jungen Mädchen nachsteigen! XXX
+// Arkhan1 O (böswillig) perso1
+L01D53
+ Du hast Dich diese Nacht wahrscheinlich wieder mit diesem schrecklichen Pilzschnaps besoffen! XXX
+// Kabak perso87
+L01D54A
+ Nein ... ich hab' sie wirklich gesehen, ich schwör's Dir! XXX
+// Kabak (schimpfend) perso87
+L01D54B
+ Pfff! Mir glaubt man sowieso nie ... XXX
+// Arkhan1 G perso1
+L01D128
+ Gibt's was Neues außer dem Mädchen Deiner Träume? XXX
+// Kabak perso87
+L01D129A
+ Im Großen Tempel des Sonnengottes findet eine Versammlung statt, die nicht vorgesehen war. Ich glaub', die Große Predigerin empfängt die Lumpensammler. XXX
+// Kabak perso87
+L01D129B
+ Aber das scheint nicht besonders wichtig zu sein, schließlich schickt Dhorkan nur zwei von uns dahin. XXX
+// Arkhan1 G perso1
+L01D130
+ Was ist das für eine außerordentliche Versammlung? XXX
+// Kabak perso87
+L01D131A
+ Ich glaub', die Typen aus der Unteren Stadt haben was entdeckt und wollen es der Großen Predigerin zeigen. XXX
+// Kabak perso87
+L01D131B
+ Oder sowas in der Art... XXX
+// Arkhan1 L perso1
+L01D132
+ Sonst nichts? XXX
+// Kabak perso87
+L01D133
+ Nein wirklich, mehr weiß ich nicht... XXX
+// Arkhan1 O perso1
+L01D134
+ Du hast wirklich von nichts eine Ahnung! XXX
+// Kabak perso87
+L01D135
+ Wenn Du nicht zufrieden bist, kannst Du ja zum Profos gehen! XXX
+// Arkhan2 L perso2
+L01D55A
+ Kabak ... Ich suche ein Mittel, um wieder gesund zu werden.  XXX
+// Arkhan2 L perso2
+L01D55B
+ Man hat mir von einer Gruft erzählt, einem geheimen Ort irgendwo im Stalliten. XXX
+// Arkhan2 L perso2
+L01D55C
+ Du bist doch einer der Ältesten hier, Du weißt doch sicher irgendwas? XXX
+// Arkhan2 O perso2
+L01D56A
+ Kabak! Ich brauch' ein Mittel gegen dieses Teufelszeug, das mich zerstört! XXX
+// Arkhan2 O perso2
+L01D56B
+ Ich hab' von einer Gruft gehört, einem geheimen Ort, wo ich wieder gesund werden kann. XXX
+// Arkhan2 O perso2
+L01D56C
+ Du bist doch der Älteste hier. Wenn Du was weißt, sag's mir! XXX
+// Arkhan3 G perso3
+L01D57A
+ Kabak, ich muß den Ort finden, an dem ich wieder gesund werden kann. XXX
+// Arkhan3 G perso3
+L01D57B
+ Eine geheime Gruft. Hast Du davon gehört? XXX
+// Kabak (überlegt) perso87
+L01D59A
+ Eine geheime Gruft ... Ähm ... nein, davon weiß ich nichts.  XXX
+// Kabak perso87
+L01D59B
+ Manche sagen, daß der ganze Stallit voller unterirdischer Gänge und Grotten ist, doch ich glaub', das ist dummes Zeug. XXX
+// Kabak perso87
+L01D59C
+ Wenn Du meine Meinung willst, Sohn: Du solltest zu den Heilpredigern gehen. XXX
+// Arkhan2 G perso2
+L01D62A
+ Die Prediger können nichts für mich tun ... XXX
+// Arkhan3 G perso3
+L01D62B
+ Die können nichts für mich tun ... XXX
+// Kabak perso87
+L01D63A
+ Dann bleibt Dir nichts anderes übrig, als den Sonnengott zu bitten, die Finsternis, die Dich zerstört, zu verjagen. XXX
+// Kabak (zögernd) perso87
+L01D63B
+ Es gibt noch eine andere Möglichkeit ... XXX
+// Kabak perso87
+L01D63C
+ Manche sagen, daß es im Reich der Finsternis eine Frau gibt, die die schlimmsten Krankheiten zu heilen versteht. XXX
+// Kabak perso87
+L01D63D
+ Aber das sind doch Ammenmärchen ...  XXX
+// Kabak perso87
+L01D63E
+ Und da das Standrecht verhängt wurde, kommt hier sowieso niemand raus! XXX
+// Arkhan2 G perso2
+L01D64A
+ Weißt Du wirklich nicht mehr? XXX
+// Arkhan3 G perso3
+L01D64B
+ Ist das alles? XXX
+// Kabak perso87
+L01D65A
+ Nein, mein Junge, mehr weiß ich nicht, ich schwör's. XXX
+// Kabak perso87
+L01D65B
+ Eines will ich Dir aber sagen: Paß gut auf Dich auf.  XXX
+// Kabak perso87
+L01D65C
+ Es gibt einige Hüter des Feuers, die Dich gerne unter die Erde bringen würden! XXX
+// Arkhan2 G perso2
+L01D173A
+ Der Prediger Thanandar hat mich getäuscht.  XXX
+// Arkhan2 G perso2
+L01D173B
+ Das Böse ist noch immer in mir.  XXX
+// Arkhan3 G perso3
+L01D174
+ Ich brauch' schnell ein Gegenmittel, wo immer es ist, was auch immer es ist! XXX
+// Kabak perso87
+L01D175A
+ Du darfst nicht verzweifeln! XXX
+// Kabak perso87
+L01D175B
+ Es gibt sicher eine Lösung, irgendwo. XXX
+// Kabak perso87
+L01D175C
+ Der Sonnengott wird Dich nicht verlassen! XXX
+// Arkhan2 L perso2
+L01D68
+ Kabak. Du bist unversehrt ... Was ist passiert? XXX
+// Arkhan2 O perso2
+L01D69
+ Kabak! Du versteckst Dich ja noch immer! Weißt Du wenigstens, was hier los ist? XXX
+// Arkhan3 L perso3
+L01D70
+ Kabak! Was ist hier los?  XXX
+// Arkhan3 O perso3
+L01D71
+ Was ist hier los? XXX
+// Kabak perso87
+L01D72A
+ Es ist ein einziges Chaos. Die Untere Stadt rebelliert. Man sagt, daß es viele Opfer gibt. XXX
+// Kabak perso87
+L01D72B
+ Und manche sagen, daß die Kreaturen der Finsternis in den Stalliten eingedrungen sind. XXX
+// Arkhan2 G perso2
+L01D73
+ Wie steht es mit den Kämpfen? XXX
+// Arkhan3 G perso3
+L01D74
+ Wer hat gesiegt? XXX
+// Kabak perso87
+L01D75A
+ Man weiß es nicht. Dhorkan ist verschwunden ... oder er ist tot. Es gibt überall Tote, in beiden Lagern.  XXX
+// Kabak perso87
+L01D75B
+ Der Sonnengott hat uns mit einem Fluch belegt, Arkhan. Es ist aus! XXX
+// Arkhan2 L perso2
+L01D76
+ Kopf hoch, Kabak! Das Spiel ist noch nicht vorbei! XXX
+// Arkhan2 O perso2
+L01D77
+ Setz Deine Trauermiene ab, wir schaffen's schon! XXX
+// Arkhan3 L perso2
+L01D78
+ Kopf hoch, Kabak! XXX
+// Arkhan3 O perso2
+L01D79
+ Feigling! XXX
+// Kabak perso87
+L01D146
+ Du solltest lieber gehen, Arkhan! XXX
+// Arkhan2 G perso2
+L01D108
+ Kabak, wie sieht's aus? XXX
+// Arkhan3 G perso3
+L01D109
+ Wie steht's? XXX
+// Kabak perso87
+L01D110A
+ Schau Dir den armen Kerl da hinten an ... er ist der einzige Überlebende seiner Gruppe.  XXX
+// Kabak perso87
+L01D110B
+ Die Feinde, die wir da unten haben, sind nicht nur Menschen. Da ist noch was anderes ... XXX
+// Kabak perso87
+L01D110C
+ Die ... die Kreaturen der Finsternis. Sie sind unter uns, Du hast recht! XXX
+// Arkhan2 G perso2
+L01D111
+ Wenn Zed hier wär' - er wüßte, was zu tun ist! XXX
+// Arkhan3 G perso3
+L01D112
+ Wenn Zed doch hier wär! XXX
+// Arkhan2 G perso2
+L01D200
+ Was machst Du da? XXX
+// Arkhan3 G perso3
+L01D201
+ Was machst Du da? XXX
+// Kabak perso87
+L01D202A
+ Was ich mache? Ich mache, was die Heiler nicht tun! ? XXX
+// Kabak perso87
+L01D202B
+ Ich koche einen Trunk, um diejenigen zu heilen, bei denen es noch möglich ist ... XXX
+// Arkhan2 G perso2
+L01D203
+ Kann mich dieser Trunk heilen? XXX
+// Arkhan3 G perso3
+L01D204
+ Kannst Du mir diesen Trunk geben? XXX
+// Kabak perso87
+L01D205
+ Nein, Arkhan, es tut mir leid, aber ich hab' zuwenig davon, und ich glaub' nicht, daß er etwas gegen Dein Übel ausrichten kann. XXX
+// Arkhan2 L perso2
+L01D206
+ Doch, Kabak, dieser Trunk kann mir ganz sicher helfen. XXX
+// Arkhan2 0 perso2
+L01D207
+ Ich will diesen Trunk! XXX
+// Arkhan3 L perso3
+L01D208
+ Ich brauche diesen Trunk! XXX
+// Arkhan3 0 perso3
+L01D209
+ Gib her! XXX
+// Kabak perso87
+L01D210
+ Nein hab' ich gesagt. Ich muß viele Männer heilen! XXX
+// Arkhan1 G (zeigt den Gegenstand, den er in der Hand hält) perso1
+L01D105
+ Sagt Dir das Ding hier was? XXX
+// Arkhan2 G (zeigt den Gegenstand, den er in der Hand hält) perso2
+L01D106
+ Sagt Dir das was? XXX
+// Arkhan3 G (zeigt den Gegenstand, den er in der Hand hält) perso3
+L01D107
+ Kennst Du das hier? XXX
+// Kabak perso87
+L01D92A
+ Nein ... ich weiß nicht, ich kann Dir dazu nichts sagen... XXX
+// Kabak perso87
+L01D92B
+ Das da? Nein, ich kann Dir dazu nichts sagen ... XXX
+// Kabak perso87
+L01D92C
+ Tut mir leid, ich kann Dir dazu nichts sagen... XXX
+// Arkhan1 G (verspottet den alten Kabak) perso1
+L01D38
+ Du bist kein schlechter Kämpfer...  für Dein Alter! XXX
+// Arkhan2 G (verspottet den alten Kabak) perso2
+L01D39
+ Du bist kein schlechter Kämpfer...  für Dein Alter! XXX
+// Arkhan3 G (verspottet den alten Kabak) perso3
+L01D40
+ Pech gehabt, Alter! XXX
+// Kabak (wütend) perso87
+L01D93
+ Dreckskerl! XXX
+// Kabak (provoziert Arkhan) perso87
+L01D86
+ Paß auf, Arkhan! XXX
+// Hüter des Feuers23 perso88
+L01D136
+ Kabak, ich komme! XXX
+// Arkhan1 O perso0
+L01D176
+ Sag bloß ! XXX
+//Arkhan2 O perso2
+L01D177
+ Sag bloß ! XXX
+//Arkhan3 O perso3
+L01D178
+ Sag bloß! XXX
+// Arkhan2 G perso2
+L01D159
+ Kommst Du vom Kampf in der Unteren Stadt zurück? XXX
+// Arkhan3 G perso2
+L01D160
+ Hast Du in der Unteren Stadt gekämpft? XXX
+// Hüter des Feuers23 perso88
+L01D97A
+ Ein Kampf? Nein, ich hab Pilze gesammelt, um Stohll zu brauen! XXX
+// Hüter des Feuers23 perso88
+L01D97B
+ Was glaubst Du denn, Idiot? XXX
+// Arkhan2 L perso2
+L01D161
+ Viele Tote? XXX
+// Arkhan2 O perso2
+L01D162
+ Noch eine Beleidigung und ich stopf' Dir das Maul! XXX
+// Arkhan3 L perso3
+L01D163
+ Tote? XXX
+// Arkhan3 O perso3
+L01D164
+ (aggressives Knurren) XXX
+// Hüter des Feuers23 perso88
+L01D165A
+ Das war kein schönes Schauspiel. Alle, die sich nicht versteckt hatten, wurden niedergemetzelt! XXX
+// Hüter des Feuers23 perso88
+L01D165B
+ Diese Schweinehunde von Konkaliten! XXX
+// Hüter des Feuers23 perso88
+L01D165C
+ Sie waren es, die die Finsternis über den Stalliten gebracht haben. XXX
+// Hüter des Feuers23 perso88
+L01D165D
+ Und mit ihr diese widerlichen Kreaturen! XXX
+// Hüter des Feuers23 perso88
+L01D165E
+ Diese Teufel! Sollen sie doch alle verrecken! XXX
+// Hüter des Feuers23 (provoziert Arkhan) perso88
+L01D166
+ Kannst Du eigentlich nur bellen oder beißt Du auch? XXX
+// Kabak perso87
+L01D167
+ Das reicht jetzt, ihr beiden! Ihr steht auf der gleichen Seite, vergeßt das nicht! XXX
+// Arkhan2 G perso2
+L01D168
+ Macht doch, was ihr wollt! Ich werd' jetzt gehen und uns alle aus diesem Dreck herausholen! XXX
+// Arkhan3 G (entschieden) perso3
+L01D169
+ Ich geh' jetzt. Sollen sie doch versuchen, mich aufzuhalten! XXX
+// Hüter des Feuers23 (aggressiv) perso88
+L01D170
+ Das ist mir völlig egal. XXX
+// Arkhan2 G perso2
+L01D150
+ Was ist denn mit Dir passiert? XXX
+// Arkhan3 G perso3
+L01D151
+ Du hast gelitten. XXX
+// Hüter des Feuers24 (geschwächt) perso89
+L01D152A
+An der Tür ... Kreaturen ... riesige, schwarze ... XXX
+// Hüter des Feuers24 (geschwächt) perso89
+L01D152B
+ Wir wurden überrascht ... Alle tot, außer mir ... XXX
+// Arkhan2 G perso2
+L01D153
+ Diese Kreaturen, wo kommen die her? XXX
+// Arkhan3 G perso3
+L01D154
+ Wo kommen diese Kreaturen her? XXX
+// Hüter des Feuers24 (geschwächt) perso89
+L01D155A
+ Aus der Finsternis ... Sehen aus wie Tiere, sind Menschen ... aber ... verwandelt ... XXX
+// Hüter des Feuers24 (geschwächt) perso89
+L01D155B
+ Sie gehorchen einem Dämonen ... einem Dämonen der Finsternis ... XXX
+// Hüter des Feuers24 (geschwächt) perso89
+L01D155C
+ Den müßt ihr fangen! XXX
+// Arkhan2 G perso2
+L01D156
+ Ich hoffe, Du wirst wieder gesund. XXX
+// Arkhan3 G perso3
+L01D157
+ Nur Mut! XXX
+// Arkhan2 G (auf einen Gegenstand zeigend) perso2
+L01D117
+Kennst Du das? XXX
+// Arkhan3 G (einen Gegenstand zeigend) perso3
+L01D118
+ Erkennst Du das? XXX
+// Hüter des Feuers24 (schwach) perso89
+L01D149
+ Nein. Ich ... ich seh' jetzt nichts mehr. XXX

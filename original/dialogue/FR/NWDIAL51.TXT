@@ -1,0 +1,97 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\fr\NWDIAL51.TXT
+ // Arkhan2 G (vient d'échapper à une explosion)perso2
+L51D17
+ Wow! XXX
+// Arkhan3 G (vient d'échapper à une explosion)perso3
+L51D18
+ Wow! XXX
+// Arkhan2 G (stupéfait) perso2
+L51D01A
+ Incroyable... XXX
+// Arkhan2 G (stupéfait) perso2
+L51D01B
+ Le puits a disparu... XXX
+// Arkhan3 G (stupéfait) perso3
+L51D02A
+ Incroyable... XXX
+// Arkhan3 G perso3
+L51D02B
+ Le puits... rasé... XXX
+// Arkhan2 G perso2
+L51D107
+ Le portail entier a été arraché. XXX
+// Arkhan3 G perso3
+L51D108
+ Tout le portail... arraché... XXX
+// Arkhan2 L perso2
+L51D03
+ Il manque une pale... C'est inutile... XXX
+// Arkhan3 L perso3
+L51D04
+ Manque une pale... Inutilisable... XXX
+// Arkhan2 G perso2
+L51D100A
+ L'hélice qui surmontait le puits...	 XXX
+// Arkhan2 G perso2
+L51D100B
+ L'explosion l'a arrachée. XXX
+// Arkhan3 G perso3
+L51D101A
+ L'hélice au dessus du puits... XXX
+// Arkhan3 G perso3
+L51D101B
+ Arrachée par l'explosion... XXX
+// Arkhan2 O perso2
+L51D05
+ Elle est foutue, inutilisable! XXX
+// Arkhan3 O perso3
+L51D06
+ Inutilisable! XXX
+// Arkhan2 L (hésite comme un parachutiste débutant) perso2
+L51D07
+ Non... Si je saute, je vais me tuer! XXX
+// Arkhan3 L (hésite comme un parachutiste débutant) perso3
+L51D08
+ Non... Je saute, je suis mort! XXX
+// Arkhan2 O (décide de sauter)perso2
+L51D09
+ Après tout, j'ai rien à perdre! XXX
+// Arkhan3 O (décide de sauter)perso3
+L51D10
+ Faut bien crever un jour! XXX
+// Arkhan2 G perso2
+L51D111
+ La chaleur est trop forte, je ne peux pas avancer. XXX
+// Arkhan3 G perso3
+L51D112
+ Cette chaleur! Je peux pas approcher... XXX
+// Arkhan2 G (a réparé l'hélice)perso2
+L51D13
+ J'ai réussi, c'est réparé. XXX
+// Arkhan3 G (a réparé l'hélice)perso3
+L51D14
+ C'est réparé. XXX
+// Arkhan2 G (examine sa réparation)perso2
+L51D15
+ J'espère que ça tiendra. XXX
+// Arkhan3 G (examine sa réparation)perso3
+L51D16
+ Pourvu que ça tienne. XXX
+// Arkhan2 L perso2
+L51D113
+ La plate-forme est totalement détruite. XXX
+// Arkhan3 L perso3
+L51D114
+ La plate-forme... détruite. XXX
+// Arkhan2 G perso2
+L51D103
+ Rien que des cailloux... XXX
+// Arkhan3 G perso3
+L51D104
+ Que de la caillasse... XXX
+// Arkhan2 G perso2
+L51D105
+ C'est complètement en ruines. XXX
+// Arkhan3 G perso3
+L51D106
+ Complètement démoli. XXX

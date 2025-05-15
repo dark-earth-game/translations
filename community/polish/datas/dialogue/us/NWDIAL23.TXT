@@ -1,0 +1,142 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL23.TXT
+ // Zed perso84
+L23D23
+ Arkhan!? Na Swietego Rahala, co tu sie dzieje?! XXX
+// Guardian13 perso53
+L23D29
+ Do diabla! Prawie poderznal mi gardlo! XXX
+// Guardian14 perso54
+L23D30
+ Nie byl juz czlowiekiem, to kreatura Ciemnosci! XXX
+// Guardian13 perso53
+L23D31
+ Patrzacy w Slonce mieli racje, Mrok moze przejac dusze kazdego czlowieka! XXX
+// Guardian14 perso54
+L23D32
+ Taa, ale mnie nie dostanie bez walki! XXX
+// Zed perso84
+L23D19
+ Rylsadhar... Martwy! Arkhan, cozes uczynil!?! XXX
+// Arkhan2 G (Delia or Kalhi hits him) perso2
+L10D93
+ Nie masz szans kotku! XXX
+// Zed (throwing A. to the ground) perso84
+L23D20
+ Morderca! XXX
+// Zed (shouting) perso84
+L23D11
+ Gwardzisci Ognia! Wszczac alarm! XXX
+// Arkhan2 L perso2
+L23D102A
+ Czekaj! To ja Arkhan! Uratowalem Wielka Patrzaca! XXX
+// Arkhan2 L perso2
+L23D102B
+ To wciaz ja! XXX
+// Arkhan2 O perso2
+L23D21X
+ Whoa, whoa, whoa! Spokoj! Ten wariat na mnie wyskoczyl! XXX
+// Phedoria perso26
+L23D106
+ Powiedz to ludziom, ktorym poderznales gardla! XXX
+// Phedoria perso26
+L23D44B
+ Demon cie posiadl, musisz umrzec! XXX
+// Phedoria (sad) perso26
+L23D13
+ Co za strata... XXX
+// Arkhan2 O perso2
+L23D103A
+ Nie strzelac! To ja uratowalem Wielka Patrzaca! XXX
+// Arkhan2 O perso2
+L23D103B
+ Na kolana! XXX
+// Arkhan3 L perso3
+L23D104
+ Chwileczke! Nie zrobilem nic zlego! XXX
+// Arkhan3 O perso3
+L23D105
+ Nie! XXX
+// Phedoria perso26
+L23D44A
+ Slyszalam krzyk Rylsadhara. XXX
+// Kalhi1 (A. dead) perso13
+L23D45
+ Nie ! Kapitanie. Co zrobilas! To Arkhan! XXX
+// Phedoria perso26
+L23D46A
+ Nie! On zabil Rylsadhara! XXX
+// Phedoria perso26
+L23D46B
+ Arkhan, ktorego kochalas juz nie istnieje. XXX
+// Guardian13 perso53
+L23D33
+ Idzie nastepny! XXX
+// Guardian14 (attacks Arkhan) perso54
+L23D34
+ Gin! XXX
+// Guardian13 perso53
+L23D35
+ Znowu idzie! XXX
+// Guardian13 perso53
+L23D36
+ Zaplacisz! XXX
+// Guardian14 (attacks Arkhan) perso54
+L23D37
+ Tym razem juz po tobie! XXX
+// Rylsadhar (returns to A. who is waiting at his door) perso20
+L23D16
+ Cierpliwosci. Oto jestem Arkhan. XXX
+// Arkhan1 G perso1
+L23D15
+ Szpital jest zamkniety. XXX
+// Arkhan1 G perso1
+L23D25
+ Dom mojego ojca. Niewiele widac... XXX
+// Arkhan2 G perso2
+L23D26
+ Dom mojego ojca. Nic nie widze. XXX
+// Arkhan3 G perso3
+L23D27
+ Nikogo nie widze. XXX
+// Arkhan2 L perso2
+L23D38A
+ To Dulnys! XXX
+// Arkhan2 L perso2
+L23D38B
+ Thanandar mowil, ze sie nim opiekuje! Klamstwa! XXX
+// Arkhan3 L perso3
+L23D39A
+ To Dulnys! XXX
+// Arkhan3 L perso3
+L23D39B
+ Kolejna ofiara Thanandara! XXX
+// Arkhan2 O perso2
+L23D40
+ Kolejna kreatura Thanandara! XXX
+// Arkhan3 O perso3
+L23D41
+ Argh... To kolejna kreatura Thanandara! XXX
+// Arkhan2 G perso2
+L23D42
+ To czesc oderwana od mechanizmu studni. XXX
+//Arkhan3 G perso3
+L23D43
+Czesc mechanizmu studni. XXX
+// Arkhan1 L perso1
+L23D47
+ Kaktusy mojego ojca. XXX
+// Arkhan2 L perso2
+L23D48
+ Kaktusy. Naleza do mojego ojca. XXX
+// Arkhan3 L (nostalgic) perso3
+L23D49
+ Kaktusy mego ojca... XXX
+// Arkhan1 G perso1
+L23D50
+ Nie ma czasu do stracenia. XXX
+// Arkhan2 G perso2
+L23D51
+ Nie czas na kapiel! XXX
+// Arkhan3 G perso3
+L23D52
+ Pozniej sie wymyje! XXX

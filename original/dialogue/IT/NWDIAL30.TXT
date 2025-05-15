@@ -1,0 +1,73 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\IT\NWDIAL30.TXT
+ // Arkhan2 G (sente uno starnuto)perso2
+L30D05
+Cos'era? XXX
+// Arkhan3 G (sente uno starnuto)perso3
+L30D06
+Uh? XXX
+// Konkalite5 (sta per attaccare Arkhan) perso75
+L30D01
+La passeggiata è finita! XXX
+// Konkalite2 (attacca Arkhan) perso72
+L30D02
+Ti sei perduto? Vieni da papà! XXX
+// Arkhan2 G (parla nel casco)perso2
+L30D16
+Questo armamentario è troppo pesante, bisogna che lo tolga! XXX
+// Arkhan3 G (parla nel casco)perso3
+L30D17
+È troppo pesante, bisogna levarselo. XXX
+// Arkhan2 G (parla dentro il suo casco)perso2
+L31D83A
+Non posso scendere. XXX
+// Arkhan2 G perso2
+L31D83B
+Non c'è più aria nella bombola. XXX
+// Arkhan2 G perso2
+L31D83C
+Dovrei trovare un modo per riempirla... XXX
+// Arkhan3 G (parla dentro il suo casco)perso3
+L31D84A
+Non posso immergermi... XXX
+// Arkhan3 G perso3
+L31D84B
+Più aria nella bombola. XXX
+// Arkhan3 G perso3
+L31D84C
+Devo trovare il modo di riempirla... XXX
+// Arkhan2 L perso2
+L31D85A
+Troppo profondo. XXX
+// Arkhan2 L perso2
+L31D85B
+Se salto così, annegherò! XXX
+// Arkhan2 O perso2
+L31D86
+No! Colerò a picco! XXX
+// Arkhan3 L perso3
+L31D87
+No, è troppo profondo...  XXX
+// Arkhan3 O perso3
+L31D88
+Annegamento assicurato! XXX
+// Arkhan2 L perso2
+L30D11
+Piano, sono un amico! XXX
+// Arkhan2 O perso2
+L30D12
+Lasciami passare o ti stacco la testa! XXX
+// Arkhan3 G perso3
+L30D13
+Vattene o morirai! XXX
+// Arkhan2 G perso2
+L30D07
+Niente... e l'acqua è veramente gelata. XXX
+// Arkhan3 G perso3
+L30D08
+Niente... ed è freddo! XXX
+// Arkhan2 G perso2
+L30D09
+È freddo e appiccicaticcio. XXX
+// Arkhan3 G perso3
+L30D10
+Freddo e appiccicaticcio. XXX

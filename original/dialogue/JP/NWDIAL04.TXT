@@ -1,0 +1,424 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL04.TXT
+ // Prisoner4 perso1
+L04D200
+ Hey you! Open up! XXX
+// Prisoner2 perso1
+L04D201
+ Smash the bars, break'em down! XXX
+// Prisoner4 perso1
+L04D202
+ Hey you, out there! Let me out! XXX
+// Prisoner3 perso1
+L04D203
+ Shut up, you idiot! This guy's a killer, he'll eat you alive! XXX
+// Prisoner3 perso1
+L04D212
+ Sh!  XXX
+// Arkhan2 G (annoyed, has just shot his adversary) perso3
+L04D61
+ You were saying? XXX
+// Arkhan3 G (annoyed, has just shot his adversary) perso3
+L04D62
+There, you want another? XXX
+// Arkhan2 G (surprised to find Kalhi in prison) perso2
+L04D01
+ Kalhi! XXX
+// Arkhan3 G (surprised to find Kalhi in prison) perso3
+L04D02
+ Kalhi! XXX
+// Kalhi (surprised) perso13
+L04D03A
+ Arkhan! Is it really you! XXX
+// Kalhi (happy) perso13
+L04D03B
+ Sweetheart, I thought I'd never see you again! XXX
+// Kalhi (has just put on her clothes) perso33
+L04D04
+ Not a bad fit! XXX
+// Kalhi (determined) perso33
+L04D05
+ All right! Let's get going! XXX
+// Kalhi (stunned, confused) perso13 
+L04D06A
+ Arkhan! You... You came back to get me... XXX
+// Kalhi (stunned, confused) perso13
+L04D06B
+ What came over you? XXX
+// Kalhi (almost in tears) perso13
+L04D06C
+ It's that horrible poison, it's driving you mad! XXX
+// Kalhi (upset) perso13
+L04D07
+ Arkhan! We have to get going! XXX
+// Kalhi (impatient) perso13
+L04D08
+ What're you waiting for? XXX
+// Kalhi (surprised that Arkhan doesn't react) perso13
+L04D09
+ Don't just stand there! XXX
+// Prisoner2 perso1
+L04D204
+ Let me out of here! XXX
+// Guardian2 (weary) perso42
+L04D10A
+ You there, knock it off! XXX
+// Guardian2 perso42
+L04D10B
+ One more peep out of you and you can finish your argument out in the Darklands!  XXX
+// Guardian2 (proud of having chased Arkhan away) perso42
+L04D11A
+ You see that?... he didn't wait around for a second helping!  XXX
+// Guardian2 (proud of having chased Arkhan away) perso42
+L04D11B
+ Quit your whining! XXX
+// Prisoner2 (excited) perso1
+L04D207
+ I wanna see the light! Let me out! XXX
+// Guardian25 (yelling at the prisoners) perso93
+L04D15
+ Cool it, you scum! XXX
+// Guardian25 (yelling at the prisoners) perso93
+L04D16
+ Settle down in there! XXX
+// Guardian25 (yelling at the prisoners) perso93
+L04D17
+ Shut up! XXX
+// Guardian25 (yelling at the prisoners) perso93
+L04D18A
+ Shut up, I tell you! XXX
+// Guardian25 perso93
+L04D18B
+ You're safer in here than in the Lower City, you morons!  XXX
+// Guardian25 perso93
+L04D18C
+ So shut up! XXX
+// Guardian2 (challenging Arkhan) perso42
+L04D12
+ Come and get me! I'm ready for you! XXX
+// Guardian2 (hears Arkhan arrive) perso42
+L04D13
+ Teskhan, is that you? XXX
+// Guardian2 (facing Arkhan) perso42
+L04D14A
+ Holy Sun God! XXX
+// Guardian2 (aggressive) perso42
+L04D14B
+ I don't know how the hell you got in here, but you ain't getting out!  XXX
+// Guardian25 (threatening) perso93
+L04D20
+ Oh! Back for more? Ha... haven't you had enough?! XXX
+// Guardian25 (seeing Arkhan) perso93
+L04D19
+ What in the name of Light! It's.... one of those creatures! XXX
+// Prisoner3 perso1
+L04D205
+ Someone's attacking the Guardian! XXX
+// Prisoner4 perso1
+L04D206
+ Yeah! Go ahead! Finish him off and get us out of here! XXX
+// Prisoner3 perso1
+L04D208
+ Come on, let's see a little bloodshed! XXX
+// Prisoner4 perso1
+L04D209
+ Which one are you bettin' on? XXX
+// Prisoner3 perso1
+L04D210A
+ How should I know, I can't even see 'em! XXX
+// Prisoner3 perso1
+L04D210B
+ I wanna see a little blood flow, that's all! XXX
+// Arkhan2 G perso2
+L04D23
+ Who's there? XXX
+// Arkhan3 G perso3
+L04D24
+ Is anyone there? XXX
+// Konkalite (aggressive) perso76
+L04D60A
+ I just did a number on your friend Zed. XXX
+// Konkalite (aggressive) perso76
+L04D60B
+ Now it's your turn! XXX
+// Prisoner2 perso1
+L04D211A
+ There he is again! XXX
+// Prisoner1 (in a panic) perso1
+L04D213A
+ He killed one of the prisoners! I saw him do it! XXX
+// Prisoner1 (in a panic) perso1
+L04D213B
+ He's gonna kill every last one of us! XXX
+// Prisoner2 (freaked out) perso1
+L04D214
+ Help! Guardian, Guardian! XXX
+// Prisoner3 perso1
+L04D215
+ Shut up! You're gonna attract his attention! XXX
+// Prisoner2 perso1
+L04D216
+ Please, spare me!  I don't wanna die, I didn't do anything! XXX
+// Prisoner4 perso1
+L04D217
+ Me neither! I'm innocent! XXX
+// Prisoner3 perso1
+L04D218
+ Shut your traps! He don't scare me! XXX
+// Prisoner4 perso1
+L04D219
+ He's some kinda slimy monster that's gonna eat us alive! XXX
+// Prisoner2 perso1
+L04D220
+ I don't wanna die! Don't kill me!! XXX
+// Prisoner3 perso1
+L04D221
+ Shut up, or I'll kill ya myself! XXX
+// Kalhi (afraid) perso33
+L04D41
+ Arkhan! What's come over you? XXX
+// Arkhan2 G perso2
+L04D25
+ Okay. Now let's get out of here! XXX
+// Arkhan3 G perso3
+L04D26
+ Now we have to get out of here.  XXX
+// Kalhi perso33
+L04D27A
+ Yes, but the Guardians of Fire are looking for you. XXX
+// Kalhi perso33
+L04D27B
+ It won't be easy to get past them.  XXX
+// Arkhan2 G (amused by Kalhi in uniform) perso2
+L04D28A
+ You in that uniform! What a sight! XXX
+// Arkhan2 G (amused by Kalhi in uniform) perso2
+L04D28B
+ If Phedoria doesn't like it, she knows what she can do with it! XXX
+// Arkhan3 G (amused by Kalhi in uniform) perso3
+L04D29
+ A real.. guardian! XXX
+// Kalhi perso33
+L04D30
+ Stop making fun of me! Let's go! XXX
+// Arkhan2 G perso2
+L04D31
+ We'll go as far as the Hall. The we'll see if we can go down. XXX
+// Arkhan3 G perso3
+L04D32
+ Follow me. We'll go to the main Hall. XXX
+// Kalhi (ironical) perso33
+L04D33
+ Whatever you say, chief! XXX
+// Arkhan2 G perso2
+L04D34
+ Do you see this object? XXX
+// Arkhan3 G perso3
+L04D35
+ Do you see it? XXX
+// Kalhi perso33
+L04D36
+ Uh-huh. Let's get going... XXX
+// Arkhan2 O perso2
+L04D37
+ You fight like a wuss! XXX
+// Arkhan2 L perso2
+L04D38
+ Hey, you put up a pretty good fight, don't you?! XXX
+// Arkhan3 O perso3
+L04D39
+ Whooa.....You call that fighting?! XXX
+// Arkhan3 L perso3
+L04D40
+ Hey, you do know how to fight, don't you?! XXX
+// Kalhi (forced to defend herself) perso33
+L04D43
+ Arkhan, no! XXX
+// Kalhi (frightened) perso33
+L04D42
+ No, Arkhan! You have to resist! XXX
+// Guardian2 (triumphant) perso42
+L04D21
+ You slime! Running away? XXX
+// Guardian25 (chases Arkhan off) perso93
+L04D22
+ Aww, you've met your match, creature! XXX
+// Arkhan2 G perso2
+L04D44
+ It's not the right key! XXX
+// Arkhan3 G perso3
+L04D45
+ Wrong key! XXX
+// Kalhi (hears Arkhan on other side of door) perso13
+L04D46
+ Help me! Let me out! XXX
+// Konkalite6 perso76
+L04D47A
+ Open up, man! I got somethin' for ya... XXX
+// Konkalite6 perso76
+L04D47C
+ That blasted Guardian of Fire has the key. XXX
+// Arkhan2 G perso2
+L04D51A
+ But what were you doing in prison? XXX
+// Arkhan3 G perso3
+L04D52A
+ Who sent you to the stockade? XXX
+// Kalhi perso13
+L04D53A
+ The Guardians of Fire, they captured me in Rylsadhar's room.  XXX
+// Arkhan2 G perso2
+L04D51B
+ And they let you keep your knife? XXX
+// Arkhan2 G perso2
+L04D51C
+ Wonderful guards we have! XXX
+// Arkhan3 G perso3
+L04D52B
+But  they didn't take away your knife?! Good work! XXX
+// Kalhi perso13
+L04D53B
+ They said Rylsadhar had disappeared, and then  they suspected me of having something to do with it. XXX
+// Kalhi perso13
+L04D53C
+ I tried to explain, but they locked me up without even listening. XXX
+// Arkhan2 L perso2
+L04D54
+ What does all this mean? XXX
+// Arkhan3 L perso3
+L04D55
+ What does all this mean?  XXX
+// Kalhi perso13
+L04D56A
+ I don't have the slightest idea...  XXX
+// Kalhi perso13
+L04D56B
+ I'm afraid something bad has happened to Rylsadhar! XXX
+// Arkhan2 O (aggressive) perso2
+L04D57
+ How did they manage to catch you? XXX
+// Arkhan3 O (aggressive) perso3
+L04D58
+ Stupid to get caught! XXX
+// Kalhi (irritated) perso13
+L04D59
+ What was I supposed to do? Put up a fight, and let them kill me? XXX
+// Arkhan2 G perso2
+L04D63A
+ Well, with a face like mine, it's kind of hard to blend in with the crowd. XXX
+// Arkhan2 G perso2
+L04D63B
+ And your Scavenger clothes... they stand out all right. XXX
+// Arkhan3 G perso3
+L04D64A
+ A creature from the Darklands and a Scavenger... XXX
+// Arkhan3 G perso3
+L04D64B
+We stand out just a little! XXX
+// Kalhi perso13
+L04D65
+ After the way you messed up that guard, I doubt if we can use his uniform...   XXX
+// Arkhan2 G perso2
+L04D66
+ Stick close behind me, understand? XXX
+// Arkhan3 G perso3
+L04D67
+ Follow me! XXX
+// Kalhi perso13
+L04D68
+ Okay. XXX
+// Arkhan2 G perso2
+L04D69A
+ Look at this! One of Bogdaran's old uniforms...  XXX
+// Arkhan2 G perso2
+L04D69B
+ From back in the days when he was still thin!  XXX
+// Arkhan3 G perso3
+L04D70
+ Try this on! XXX
+// Kalhi (preparing to put on a uniform) perso13
+L04D71
+ Why not... XXX
+// Arkhan2 G perso2
+L04D72A
+ A piece of the crystal key! XXX
+// Arkhan2 G perso2
+L04D72B
+ That scum-bag must have stolen it from Zed! XXX
+// Arkhan3 G perso3
+L04D73A
+ A piece of the key! XXX
+// Arkhan3 G perso3
+L04D73B
+ That scum-bag must have stolen it from Zed! XXX
+// Prisoner1 perso1
+L04D222
+ Hey, who's opening the door? XXX
+// Prisoner1 (frightened) perso1
+L04D223
+ Who is it? What's going on? XXX
+// Prisoner3 perso1
+L04D224
+ It's the creature... Shut the door! XXX
+// Prisoner1 (in a panic) perso1
+L04D225
+ Don't let him in! I didn't do anything, I don't wanna die! XXX
+// Prisoner2 (hopeful) perso1
+L04D226A
+ Hey, you! Let me outta here! Break down the bars! XXX
+// Prisoner2 perso1
+L04D226B
+ That Guardian doesn't have the key, but you don't need it anyway, do you!  XXX
+// Prisoner2 perso1
+L04D226C
+ You're strong enough to break down the bars, huh?  XXX
+// Prisoner2 perso1
+L04D227
+ Hey, get outta here! Can't a man have a little peace and quiet, even in prison? XXX
+// Prisoner3 perso1
+L04D228
+ Shut up, I don't want this guy to get riled... XXX
+// Prisoner2 perso1
+L04D229
+ He can't touch us! The bars are too strong, right? XXX
+// Arkhan2 L perso2
+L04D80
+ Hey, hey, hey, hey! Calm down! XXX
+// Arkhan2 O perso2
+L04D81
+ Move aside, or die! XXX
+// Konkalite 76 (jumps at Arkhan) perso76
+L04D88
+ I'll rip you to shreds, you friggin' freak! XXX
+// Arkhan2 L perso2
+L04D84
+ I don't mean you any harm! XXX
+// Arkhan3 L perso3
+L04D82
+ I won't hurt you. I mean you no harm! XXX
+// Arkhan2 O perso2
+L04D86
+ You miserable rat! XXX
+// Arkhan3 O perso3
+L04D83
+ Stinking rat! XXX
+// Arkhan2 G perso2
+L04D99
+ His uniform's torn to shreds... It's worthless... XXX
+// Arkhan3 G perso3
+L04D100
+ His uniform... shreds. It's worthless. XXX
+// Arkhan2 G perso2
+L04D95A
+ Solid rock.  XXX
+// Arkhan2 G perso2
+L04D95B
+ No chance of digging a tunnel... XXX
+// Arkhan3 G perso3
+L04D96
+ Rock. Forget about a tunnel! XXX
+// Arkhan2 G perso2
+L04D97
+ Nothing in there but stagnant water. XXX
+// Arkhan3 G perso3
+L04D98
+ Stagnant water.. XXX

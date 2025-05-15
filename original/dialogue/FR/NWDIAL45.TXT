@@ -1,0 +1,67 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\fr\NWDIAL45.TXT
+// Delia perso10
+L16D122
+ Arrête! Tu me fais peur! XXX
+ // Arkhan2 G perso2
+L45D15
+ Plus que cet escalier à monter... XXX
+// Arkhan3 G perso3
+L45D16
+ C'est en haut! XXX
+// Delia perso10
+L45D17
+ Allons-y. XXX
+// Delia (Arkhan lui montre un objet) perso10
+L02D104
+ Non. Je t'en prie, dépêchons-nous... XXX
+// Arkhan2 L (s'est battu avec Delia) perso2
+L45D01
+ Assez Delia, calme-toi! XXX
+// Arkhan2 O (s'est battu avec Delia) perso2
+L45D02
+ T'en veux encore, traînée?! XXX
+// Arkhan3 L (s'est battu avec Delia) perso3
+L45D03
+ Ca suffit! XXX
+// Delia (frappée par Arkhan) perso10
+L45D04
+ Mais qu'est-ce qui te prends?!? XXX
+// Arkhan2 G perso2
+L45D05
+ Je reviens... XXX
+// Arkhan3 G perso3
+L45D06
+ Je reviens... XXX
+// Arkhan2 G perso2
+L45D07
+ Il n'y a plus rien. XXX
+// Arkhan3 G perso3
+L45D08
+ Plus rien ici. XXX
+// Arkhan2 L perso2
+L45D200
+ Il n'y a plus de plaques! XXX
+// Arkhan3 L perso3
+L45D201
+ Il n'y a plus de plaques! XXX
+// Arkhan1 L perso1
+L45D09A
+ La chaîne est rouillée. XXX
+// Arkhan1 L perso1
+L45D09B
+ Ce vieux treuil est hors d'usage. XXX
+// Arkhan2 L perso2
+L45D10
+ Inutilisable, tout est rouillé.  XXX
+// Arkhan3 L perso3
+L45D11
+ Inutile, tout est rouillé. XXX
+// Arkhan1 O (frappe sur treuil) perso1
+L45D12
+ Saleté, c'est complètement hors d'usage! XXX
+// Arkhan2 O (frappe sur treuil) perso2
+L45D13
+ Complètement rouillé! XXX
+// Arkhan3 O (frappe sur treuil) perso3
+L45D14
+ Complètement rouillé! XXX

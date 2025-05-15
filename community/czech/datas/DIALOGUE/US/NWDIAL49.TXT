@@ -1,0 +1,196 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL49.TXT
+ // Arkhan2 O perso2
+L03D523
+ Já ti ukázu, kdes tak dlouho byla! XXX
+// Arkhan3 O perso3
+L03D525
+ Já ti ukázu, kdes tak dlouho byla! XXX
+// Kalhi perso13
+L49D01
+ Nech mne! Já te neokradla! XXX
+// Malrot8 (zieht seinen Dolch aus der Scheide) perso68
+L49D02A
+ S tím já te trochu polechtám! XXX
+// Malrot8 (vor Kalhis Leiche) perso68
+L49D03A
+ Aby sis panáka dala, blbá couro! XXX
+// Malrot8 perso68
+L49D03B
+ Prijdeš príliš pozde, krysí ksichte: Já jich jiz hodne schladil! XXX
+// Malrot8 perso68
+L49D03C
+ Prijd blíze, jukneš se mi na malícek! XXX
+// Malrot8 perso68
+L49D04
+ Ty jsi tu jiz opet! Bojuj o svùj zivot, Zbabelce! XXX
+// Dhorkan perso11
+L49D05
+ Pojd blíz, Arkhane! Ukoncíme my tyto zálezitosti na vzdy! XXX
+// Dhorkan (streitsüchtig) perso11
+L49D06A
+ Jen ty a já, Arkhane! XXX
+// Dhorkan perso11
+L49D06B
+ Pojd blíze, spravíme my zálezitosti na vzdy! XXX
+// Arkhan2 G perso2
+L49D38
+ Dhorkan mel klíc! XXX
+// Arkhan3 G perso2
+L49D39
+ Dhorkan mel klíc! XXX
+// Malrot8 perso68
+L49D02B
+ Kdyz nebudeš zbytecne kricet, tak mi mùzeš verit! XXX
+// Malrot8 (hat sich mit K. geschlagen und sieht A. ankommen) perso68
+L49D40
+ To zvíre pospíchá der Schönen zu Hilfe! XXX
+// Arkhan2 G (sieht Dhorkan) perso2
+L49D07
+ Dhorkane! XXX
+// Arkhan3 G (sieht Dhorkan) perso3
+L49D08
+ Dhorkane! XXX
+// Dhorkan (überrascht und wütend) perso11
+L49D09
+ Arkhane! Nikdy si nedáváš pozor!? XXX
+// Arkhan2 G perso2
+L49D10
+ Uklidni se, to je naposledy! Ty zemreš, bídný cerve! XXX
+// Arkhan3 G perso3
+L49D11
+ Já udelám ti zadost! XXX
+// Dhorkan perso11
+L49D12A
+ Mne chceš zabít, ty svine? XXX
+// Dhorkan (zieht die Waffe aus der Scheide)perso11
+L49D12B
+ Tak pojd prece pro mne! XXX
+// Kalhi perso13
+L49D14
+ Dekuji, Arkhane, nyní jsem já tvým dluzníkem! XXX
+// Arkhan2 L (besorgt)perso2
+L49D15
+ Kalhi! Proc tvùj zivot ve hru vkládáš? XXX
+// Arkhan2 O (wütend)perso2
+L49D16
+ Ty jsi se plne zbláznila! Tys mohla zemrít! XXX
+// Arkhan3 L (besorgt)perso3
+L49D17
+ Tys mohla zemrít! XXX
+// Arkhan3 O (wütend)perso3
+L49D18
+ Proklate, ty jsi se plne pomátla! XXX
+// Kalhi perso13
+L49D19A
+ Já chtela neco s ním vymenit! XXX
+// Kalhi perso13
+L49D19B
+ Já nemohla prece tušit, ze se on pokusí, mne podplatit. XXX
+// Arkhan2 G perso2
+L49D20
+ A co jsi chtela vymenit? XXX
+// Arkhan3 G perso3
+L49D21
+ Co jsi chtela vymenit? XXX
+// Kalhi perso13
+L49D22A
+ Malý blesk ci laser ... or ješte funguje. XXX
+// Kalhi perso13
+L49D22B
+ On byl pro tebe, já daruju ti ho! XXX
+// Arkhan2 L perso2
+L49D23A
+ Dekuju. On mne mùze velmi ochránit. XXX
+// Arkhan2 L perso2
+L49D23B
+ Ale do budoucna nevsázej svùj zivot do loterie jak jsi ucinila! XXX
+// Arkhan2 O perso2
+L49D24A
+ A proto jsi náš zivot  do loterie vlozila! XXX
+// Arkhan2 O perso2
+L49D24B
+ Príšte zústaneš hodná u Danryse, rozumnelas? XXX
+// Arkhan3 L perso3
+L49D25
+ Dekuji. Ale dávej pozor na sebe ... XXX
+// Arkhan3 O perso3
+L49D26
+ Protor? U boha Slunce, on mohl te zabít ... Pro takovou malickost?! XXX
+// Kalhi perso13
+L49D27
+ Rozumím! Budu nyní hodná jako jehnátko doma. XXX
+// Kalhi (verärgert, weint beinahe) perso13
+L49D28
+ Jak krásne, ze ty si o mne takove starosti deláš! XXX
+// Arkhan2 G (hat Dhorkan getötet) perso2
+L49D42
+ To byla tvá poslední chyba, Dhorkane! XXX
+// Arkhan3 G (hat Dhorkan getötet) perso3
+L49D43
+ A je to, Dhorkane! XXX
+// Malrot8 (A. hat Kalhi getötet) perso68
+L49D41A
+ Já chtel bych malicke rád sám hrdlo roztrhat! XXX
+// Malrot8 perso68
+L49D41B
+ Já v tobe jiste zalíbení najít musím! XXX
+// Arkhan2 G perso2
+L49D29
+ Kalhi, je všechno v porádku? XXX
+// Arkhan3 G perso3
+L49D30
+ Kalhi? XXX
+// Kalhi (alarmiert)perso13
+L49D31
+ Arkhane, dávej pozor! XXX
+// Arkhan2 G perso2
+L49D47A
+ Kalhi, ne ... XXX
+// Arkhan2 G perso2
+L49D47B
+ Ale proc ne?! XXX
+// Arkhan3 L perso3
+L49D48
+ Kalhi, ne ... XXX
+// Kalhi (verängstigt) perso13
+L10D107
+ Dávej pozor! XXX
+// Kalhi (unruhig) perso13
+L10D106
+ Arkhane! Uklidni se prece! XXX
+// Dhorkan (Arkhan flüchtet) perso11
+L49D46
+ Bídný chudáku! XXX
+// Arkhan2 L perso2
+L49D32A
+ Ne, já take nejsem lepší nez ostatní! XXX
+// Arkhan2 L perso2
+L49D32B
+ To se ješte nikdy nikomu nepodarilo, tyto dvere otevrít. XXX
+// Arkhan2 O perso2
+L49D33
+ Proklete dvere! Nikdy je nikdo neotevrel! XXX
+// Arkhan3 L perso3
+L49D34
+ Ne ... Nikdo je neotevrel ... XXX
+// Arkhan3 O perso3
+L49D35
+ Sie geht nicht auf! XXX
+// Arkhan2 G perso2
+L49D36
+ V krabici je škvírka. XXX
+// Arkhan3 G perso3
+L49D37
+ To je škvírka v krabici ... XXX
+// Arkhan2 G perso2
+L49D44
+ Nic se nedá delat, dvere jsou zavreny! XXX
+// Arkhan3 G perso3
+L49D45
+ Jsou zavreny! XXX
+// Arkhan2 G perso2
+L49D49
+ Nic nez potrubí ! XXX
+// Arkhan3 G perso3
+L49D50
+ Trubky potrubí! XXX

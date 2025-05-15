@@ -1,0 +1,106 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL22.TXT
+ // Arkhan2 L perso2
+L22D22
+ Hjqjba, ynj _jlj^Z kl|hdfjh ] mZhja sla]j cahgd. XXX
+// Arkhan2 0 perso2
+L22D23
+ Jklw^ionx ]idc... d mlZco ]mah klj[gahZh fjiar! XXX
+// Arkhan3 L perso3
+L22D24
+ Hjqjba, ynj kl|hZ| _jlj^Z ] mZhja sla]j cahgd. XXX
+// Arkhan3 0 perso3
+L22D25
+ Ejbij mklw^ionx ]idc... &aliZ| mhalnx klZ]_Z... XXX
+// Phedoria perso26
+L22D01
+ FZ_j kla_okla_dnx &agdfoz klj]d_dro! XXX
+// Arkhan2 L (by Rylsadhar's corpse) perso2
+L22D12A
+ Gnar! XXX
+// Arkhan2 L (by Rylsadhar's corpse) perso2
+L22D12B
+ Cg|iomx, | jnjhuo cZ na[|! KZiZi_Zl ohl~n! Gi cZkgZndn cZ ]m~! XXX
+// Arkhan2 O perso2
+L22D13A
+ KZiZi_Zl! Kw o[dg hja^j jnrZ! XXX
+// Arkhan2 O perso2
+L22D13B
+ Kw cZkgZndtx cZ ]m~! XXX
+// Arkhan3 L perso3
+L22D14
+ Gnar! X bZb_o huaid|! XXX
+// Arkhan3 O (grunting to himself)perso3
+L22D15
+ Gnar!.. #I-I-I! Eamnx! XXX
+// Arkhan2 L (by Zed's corpse) perso2
+L22D18A
+ >a_! Eje _lo^! XXX
+// Arkhan2 L perso2
+L22D18B
+ Cg|iomx, | jnjhuo cZ na[|! KZiZi_Zl jn]andn cZ m]jd cgj_a|id|! XXX
+// Arkhan2 O (vengeful) perso2
+L22D19A
+ KZiZi_Zl! Kw o[dg >a_Z, hja^j [lZnZ! XXX
+// Arkhan2 O perso2
+L22D19B
+ Kakalx nw nlok! XXX
+// Arkhan3 L perso3
+L22D20
+ >a_! Eje [lZn! #I-I-I! X jnjhuo! XXX
+// Arkhan3 O (vengeful, screaming)perso3
+L22D21
+ KZiZi_Zl! Lhld, ^Z_! XXX
+// Arkhan2 L perso2
+L22D06A
+ G ]agdfde IZqZg! Vnj yial^d|, j fjnjlje jnar ^j]jldg! XXX
+// Arkhan2 L perso2
+L22D06B
+ FZfjiar-nj, gafZlmn]j! XXX
+// Arkhan2 L perso2
+L22D06C
+ #-Z-Z-Z... X ]amx ^jlz... ]ionld... Gq! XXX
+// Arkhan2 L perso2
+L22D07A
+ Fan! Vno [jgx ia mnalkanx! XXX
+// Arkhan2 L perso2
+L22D07B
+ Palamsol, | ynj ia ]wiamo! XXX
+// Arkhan2 O perso2
+L22D08A
+ FZfjiar! KZ yial^d|, snj jnar ^j]jldg! XXX
+// Arkhan2 O perso2
+L22D08B
+ X dmrag~i! XXX
+// Arkhan2 O perso2
+L22D16
+ Eia iobij au~. XXX
+// Arkhan3 L perso3
+L22D09A
+ Amnjsidf! Vial^d|! XXX
+// Arkhan3 L perso3
+L22D09B
+ X dmrag~i! XXX
+// Arkhan3 L perso2
+L22D09C
+ #-Z-Z-Z... X... ^jlz... #-Z-q! XXX
+// Arkhan3 L perso3
+L22D10
+ Fan! Fan! VnZ [jgx o[x~n hai|! XXX
+// Arkhan3 O perso3
+L22D11
+ Cg|iomx j^i~h, yial^d|... gafZlmn]j! XXX
+// Arkhan3 O perso3
+L22D17
+ <u~! XXX
+// Arkhan2 L perso2
+L22D02
+ &amx m]an o^Zm! Vial^d|... dmm|fZan. XXX
+// Arkhan2 O perso2
+L22D03
+ F<K!.. &amx m]an o^Zm! XXX
+// Arkhan3 L perso3
+L22D04
+ J]an... Vial^d|... haln]Z! XXX
+// Arkhan3 O (enraged)perso3
+L22D05
+ Fan... $jgxta ian! XXX

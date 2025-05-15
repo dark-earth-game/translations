@@ -1,0 +1,907 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL14.TXT
+ // Kalhi1 perso13
+L14D108
+ Pojd nyní, pobezíme rychle za Danrysem! XXX
+// Arkhan2 Gperso2
+L14D45
+ No konecne! XXX
+// Arkhan3 G perso3
+L14D46
+ Bandore, no konecne! XXX
+// Malrot4 (A. schreit sie an) perso64
+L14D235
+ Sílence, já ti ukázu! XXX
+// Ernährerin (A. schreit sie an) perso16
+L14D236
+ Pomoc! Nejaký šílenec! XXX
+// Malrot1 (A. schreit ihn an) perso61
+L14D237
+ Ty jiz víš, proc tak rveš! XXX
+// Delia perso10
+L16D122
+ Stùj! Náháníš mi strach! XXX
+// Ernährerin perso16
+L14D263
+ Ty jsi tu opet, mùj príteli. XXX
+// Malrot1 perso61
+L14D171
+ Pokud ješte o krok se priblízíš, zapíchnu te! XXX
+// Arkhan2 L perso2
+L14D139A
+ Uklidni se prece! Nehledám problemy! XXX
+// Arkhan2 O perso2
+L14D139B
+ Pokusím se ... ale není jistý, ze to klapne! XXX
+// Malrot1 perso61
+L14D140
+ Hmm... Rozumím, ale zádne triky! XXX
+// Malrot1 (alarmiert) perso61
+L14D172
+ Vetrelec! Pozor! XXX
+// Ernährerin perso16
+L14D167
+ Hej ty, prestan si hrát s tvými svaly! XXX
+// Ernährerin perso26
+L14D168
+ Uz jsi se uklidnil? Tak je to dobre! XXX
+// Malrot4 (A. bedroht ihn mit einer Pistole) perso64
+L14D169
+ Hej, opatrne s tou vecí! XXX
+// Malrot4 (A. packt seine Pistole wieder weg) perso64
+L14D170A
+ Tak se mi líbíš jiz lepe! XXX
+// Malrot4 perso64
+L14D170B
+ Pokud zde s touto vecí bouchneš, neudeláš si mnoho prátel! XXX
+// Malrot1 perso2
+L14D203
+ Hej, opatrne! XXX
+// Malrot1 perso61
+L14D204
+ Tak se mi to líbí jiz více! XXX
+// Arkhan2 L perso2
+L14D05
+ Svetlo s tebou, Smetáku. XXX
+// Malrot4 perso64
+L14D07A
+ Kdopak jsi, ze jsem te zde ješte nevidel. XXX
+// Malrot4 perso64
+L14D07B
+ Nebot takový ksicht jako ten tvùj se nezapomíná tak snadno! XXX
+// Arkhan2 L perso2
+L14D177
+ Jmenuju se, jsem prítelem stareho Danryse. XXX
+// Malrot4 perso64
+L14D178A
+ Já se jmenuju Kubert.  XXX
+// Malrot4 (halb ernst, halb scherzhaft) perso64
+L14D178B
+ Já ti nezatresu ploutví, nebot by ses mohl z toho podelat! XXX
+// Malrot4 perso64
+L14D178C
+ (Lachen) XXX
+// Arkhan2 O perso2
+L14D08
+ Hej, kolobezkový Bandito! XXX
+// Malrot4 (genervt) perso64
+L14D09A
+ Co se deje s tebou? XXX
+// Malrot4 (genervt) perso64
+L14D09B
+ Hledáš jiste nekoho, který ti hubu zašije! XXX
+// Arkhan2 O perso2
+L14D179A
+ Ty jsi komik z povolání! XXX
+// Arkhan2 O perso2
+L14D179B
+ Jsem Arkhan. Kumpán od stareho Danryse. XXX
+// Malrot4 perso64
+L14D180
+ "Arkhan", aha? Já bych te nazval spíš "krysím ksichtem"! XXX
+// Arkhan2 L perso2
+L14D10
+ Mohl bys mi snad pomoci, Kuberte. XXX
+// Malrot4 perso64
+L14D11A
+ Podívej se, jsem velmi zamestnaný clovek! XXX
+// Malrot4 perso64
+L14D11B
+ Smeták jako já, si musí na svùj chleba vydelat! XXX
+// Malrot4 perso64
+L14D11C
+ Nejsem zádný knez, který se ze svetla a vzduchu vyzivuje! XXX
+// Arkhan2 O perso2
+L14D12A
+ Ptal jsem se, zda... XXX
+// Arkhan2 O perso2
+L14D12B
+ Nasadil jsi si masku, aby te matka nepoznala? XXX
+// Arkhan2 O perso2
+L14D12C
+ Jí jiste nepotešilo, ze ona privedla na svet polovicní porci! XXX
+// Malrot4 (wütend) perso64
+L14D13A
+ Potrebuju misku, na jídlo... XXX
+// Malrot4 (wütend) perso64
+L14D13B
+ Tvoje prázdná vrabcí lebka není jiste v porádku! XXX
+// Arkhan2 L perso2
+L14D34A
+ To je dùlezite. XXX
+// Arkhan2 L perso2
+L14D34B
+ Potrebuju pomoc, abych se opet uzdravil.  XXX
+// Malrot4 perso64
+L14D35A
+ Aha, tak je to tedy! Ješte ale bude nejaký cas trvat, dokud ty se pravým smetákem nestaneš. XXX
+// Malrot4 perso64
+L14D35B
+ Mel bys snad zacít tím, ze se umyješ. XXX
+// Malrot4 perso64
+L14D35C
+ To ale táhne, mùj príteli! XXX
+// Malrot4 perso64
+L14D35D
+ Dobrá rada, nebot deset slunecních cyklù lezící vec v mocùvce, nesmrdí to tak jako ty! XXX
+// Arkhan2 L perso2
+L14D36A
+ Hledám lecitele z tohoto okolí. XXX
+// Malrot4 perso64
+L14D37A
+ Z ktere hvezdy pricházíš? Jediný lecitele, který jsou zde, jsou nahore, u knezù! XXX
+// Malrot4 perso64
+L14D37B
+ Ale pokud my se pokusíme, tam nahoru vyjet, dostaneme od Strázcù ohnù jeden silný kopanec do zadku. XXX
+// Arkhan2 L perso2
+L14D36B
+ Na tobe by si mohli zlámat kotníky! XXX
+// Malrot4 (der Witz gefällt ihm) perso64
+L14D37C
+ Máš pravdu, krysí ksichte! XXX
+// Arkhan2 L perso2
+L14D38
+ Vy nemáte zádneho šefa? XXX
+// Malrot4 perso64
+L14D39A
+ Zde dole je pouze jeden šef, Armal Sadak. XXX
+// Malrot4 perso64
+L14D39B
+ Pokud ti nekdo mùze pomoci, pak on. XXX
+// Malrot4 perso64
+L14D39C
+ Mùzu te ale jen varovat: Tvùj ksicht se mu jiste nebude líbit! XXX
+// Arkhan2 L perso2
+L14D181
+ Kdo mùze mi ješte pomoci? XXX
+// Malrot4 perso64
+L14D182A
+ Ti "jiní", Konkaliti.  XXX
+// Malrot4 perso64
+L14D182B
+ Ale ver mi, je príjemnejší, nechat si rozkousat od krys zadek, nez mít neco do cinení s Konkality. XXX
+// Malrot4 perso64
+L14D182C
+ Sordos je nemocný na hlavu! XXX
+// Arkhan2 L perso2
+L14D183
+ Sordos? XXX
+// Malrot4 perso64
+L14D184
+ Jejich šef! On praštil Armala Sadaka do cela, a od te doby skrývá se se svojí bandou a vymýšlí temne plány. XXX
+// Arkhan2 L perso2
+L14D40
+ Vyprávej mi trochu o nem ... XXX
+// Malrot4 perso64
+L14D41A
+Oho, to stacilo! XXX
+// Malrot4 perso64
+L14D41B
+ Nejsem zádný vypravec pohádek! XXX
+// Arkhan2 O (drohend) perso2
+L14D42
+ Nyní prestan s temi zvásty a odpovez! XXX
+// Malrot4 (wird A. schlagen) perso64
+L14D43
+ Jasne! Ale moje odpoved je poslední, kterou ty v tvem zivote uslyšíš! XXX
+// Arkhan2 L perso2
+L14D00
+ Hej, smetáku... XXX
+// Malrot4 (drohend) perso64
+L14D01A
+ Nejprve zastrc tu zbran, která mne znervoznuje! XXX
+// Malrot4 (drohend) perso64
+L14D01B
+ Pak my dále uvidíme ... XXX
+// Arkhan2 L perso2
+L14D04
+ Nerozciluj se, nechci ti nic udelat! XXX
+// Malrot4 perso64
+L14D06
+ Zastrc tu vec, jak jsem ti rekl! XXX
+// Arkhan2 O perso2
+L14D02
+ Co se deje, ty polovicní porce? Máš ocas? XXX
+// Malrot4 perso64
+L14D03
+ Ty ješte uvidíš, zda mám ocas! XXX
+// Malrot4 perso64
+L14D13
+ Vytrhnu ti vnitrnosti ven! XXX
+// Arkhan2 G perso2
+L14D44
+ Je zde neco zajímabeho? XXX
+// Malrot4 perso64
+L14D45A
+ Ne, zapomen. XXX
+// Malrot4 perso64
+L14D45B
+ Moje matka mi vzdy ríkávala, abych nikdy nic nebral od nekoho, kdo prdel místo ksichtu nosí! XXX
+// Arkhan3 L perso3
+L14D18
+ Hej ty! XXX
+// Malrot4 (von Arkhan3 beeindruckt) perso64
+L14D19A
+ Poslouchej,ehm ... mùj príteli. Nechci zádne problemy. XXX
+// Malrot4 (von Arkhan3 beeindruckt) perso64
+L14D19B
+ Rekneme, ze jsi mne nevidel, a všechno je v porádku, ujednáno? XXX
+// Malrot4 (sehr beeindruckt von Arkhan3) perso64
+L14D15
+ Oh oh, nerozciluj se, nic jsem ti neudelal, nebo?! XXX
+// Arkhan3 L perso3
+L14D20
+ Pockej, chci s tebou mluvit! XXX
+// Malrot4 perso64
+L14D21A
+ Nedotýkej se mne! XXX
+// Malrot4 (wird A. schlagen) perso64
+L14D21B
+ Mám take drápy! XXX
+// Malrot4 (wird A. schlagen) perso64
+L14D185
+ Ty ješte uvidíš! XXX
+// Malrot4 (spöttisch) perso64
+L14D206A
+ "Svetlo s tebou", je to tak správne? XXX
+// Malrot4 perso64
+L14D206B
+ Skoro jsme nezpozorovali, ze zde svetlo prestalo! XXX
+// Malrot4 perso64
+L14D207A
+ Bùh Slunce nás nechal ve štichu, mùj príteli! XXX
+// Malrot4 perso64
+L14D207B
+ Pokud ti na zivote zálezí, nemel by ses potloukat zde. XXX
+// Arkhan2 O perso2
+L14D214
+ A co deláš ty zde? XXX
+// Malrot4 perso64
+L14D223
+ Zde cítím se nejjisteji, nálada je zde skoro prátelská! XXX
+// Arkhan2 L perso2
+L14D208
+ Copak se zde dole prihodilo? XXX
+// Malrot4 perso64
+L14D209
+ To je od te doby co Temná Zeme k nám prišla! XXX
+// Malrot4 perso64
+L14D210A
+ Nekterí ríkají, ze veci z ríše Temne Zeme do mesta vnikly. XXX
+// Malrot4 perso64
+L14D210B
+ A my, smetáci, jsme zvírata, ktere loví XXX
+// Malrot4 perso64
+L14D210C
+ A nekterí, kterí nezemrou ... se promení ...  XXX
+// Malrot4 perso64
+L14D210D
+ Oni budou jako tyhle Kreatury. XXX
+// Malrot4 perso64
+L14D213
+ Ale kdyz prijdou, aby mne dostali, budou muset nejprve strávit moje drápy! XXX
+// Arkhan2 L perso2
+L14D211
+ Co víš ješte o Kreaturách Temne Zeme? XXX
+// Malrot4 perso64
+L14D212
+ Nic ... a více nechci o tom ani slyšet! XXX
+// Arkhan2 O perso2
+L14D215
+ Co je to za smrad? Ty jsi se strachy do kalhot podelal? XXX
+// Arkhan3 L perso3
+L14D217
+ Bud pozdraven, smetáku! XXX
+// Malrot4 (erschreckt) perso64
+L14D218A
+ Nepriblizuj se! XXX
+// Malrot4 (erschreckt) perso64
+L14D218B
+ Vím, co jsi, ale mne nepromeníš! XXX
+// Arkhan3 L perso3
+L14D219
+ Nerozciluj se, já ti nic nedelám! XXX
+// Malrot4 (mißtrauisch) perso64
+L14D220
+ Je to skutecnost? Pak mi sekáš pochvalu! XXX
+// Arkhan2 G perso2
+L14D165
+ Tento nicema nemá nic u sebe. XXX
+// Arkhan3 G perso3
+L14D166
+ Nic u toho nicemi. XXX
+// Arkhan2 L perso2
+L14D49
+Svetlo s tebou, vyzivovatelko. XXX
+// Arkhan2 O perso3
+L14D59
+Bud pozdravena, matko vyzivovatelko! XXX
+// Ernährerin perso16
+L14D50A
+ A ty take. XXX
+// Ernährerin perso16
+L14D50B
+ Vypadá to, jako kdybys nebyl v Horním meste vítán! XXX
+// Ernährerin perso16
+L14D50C
+ Strázci ohnù neblokujou horní plošinu asi kvùli tobe,nebo ? XXX
+// Arkhan2 L perso2
+L14D186
+Ne, s tím já nemám co do cinení. XXX
+// Arkhan2 O perso3
+L14D187
+Kdyby ti nekdo kladl otázky, pak jsi mne nevidela, rozumelas? XXX
+// Arkhan2 L perso2
+L14D51
+ Moje jmeno je Arkhan, jsem prítelem stareho smetáka Danryse. XXX
+// Arkhan2 O perso2
+L14D60
+ Jmenuji se Arkhan, jsem Danrysovím prítelem. XXX
+//Ernährerin perso16
+L14D52A
+ Tedy dobre, co chceš, Arkhane? XXX
+//Ernährerin perso16
+L14D52B
+ Máš li hlad, mám já pár dobrých vecí na výmenu!  XXX
+// Arkhan2 L perso2
+L14D53
+ Ty bys mi mohla více o tomto míste vyprávet. XXX
+// Arkhan2 O perso2
+L14D61
+ Rekni mi, co o tomto koute Stallitu víš. XXX
+// Ernährerin (erstaunt) perso16
+L14D54A
+ Co chceš vedet? XXX
+// Ernährerin perso16
+L14D54B
+ Ty jsi zde ve Spodním meste. XXX
+// Ernährerin perso16
+L14D54C
+ Ktere je plne smetákù a zivitelù, kterí neztrácejí cas s rozhovorem. XXX
+// Ernährerin perso16
+L14D54D
+ Pokud ty nechceš nic vymenit, nemohu já pro tebe nic udelat. XXX
+// Arkhan2 G perso2
+L14D55
+ Vymenit? XXX
+// Ernährerin perso16
+L14D56A
+ Ano. Ukaz mi, co ty máš. XXX
+// Ernährerin perso16
+L14D56B
+ Já ti ukázu, co já ti mùzu dát. XXX
+// Arkhan2 L perso2
+L14D57
+ Poslouchej, vlastne nechci nic menit. XXX
+// Ernährerin perso16
+L14D58
+ Kdyz je to tak, nemohu pro tebe nic udelat ... XXX
+// Arkhan2 O perso2
+L14D63
+ Výmeny mne nezajímají! XXX
+// Ernährerin perso16
+L14D188A
+ Zádný problem ... všechno v porádku. XXX
+// Ernährerin perso16
+L14D188B
+ Ale pokud bys neco k jídlu hledal, ohlaš se u mne ... XXX
+// Arkhan2 G perso2
+L14D28
+ Mohla bys mi snad pomoci. XXX
+// Ernährerin perso16
+L14D29
+ Jiste ... Ale nepotrebuješ k tomu tvojí zbran, s kterou mne rozciluješ... XXX
+// Arkhan2 G perso2
+L14D30
+ Poslouchej mne dobre, zivitelko... XXX
+// Ernährerin perso16
+L14D31A
+ Já jsem ti prece rekla, schovej si zbran.  XXX
+// Ernährerin perso16
+L14D31B
+ Ty nepotrebuješ, mne s ní ohrozovat... XXX
+// Arkhan2 G perso2
+L14D77
+ Já mám zde cosi ... XXX
+// Ernährerin perso16
+L14D78A
+ Pockej! Já nemením s neznámými. XXX
+// Ernährerin perso16
+L14D78B
+ Jak se jmenuješ? XXX
+// Arkhan2 G perso2
+L14D74A
+ Líbí se ti toto zrcadlo od predkù? XXX
+// Arkhan2 G perso2
+L14D74B
+ Podívej jen, to svetlo! XXX
+// Ernährerin perso16
+L14D152A
+ Ano! To se mi líbí! XXX
+// Ernährerin perso16
+L14D152B
+ Já dám ti za to tuto kovovou kartu. XXX
+// Ernährerin perso16
+L14D152D
+ Kterou mi smeták Danrys daroval.  XXX
+// Ernährerin perso16
+L14D152E
+ On je jediný, který mùze toto vyrobit. XXX
+// Arkhan2 G perso2
+L14D76A
+ Rozumím. XXX
+// Arkhan2 L perso2
+L14D76B
+ Díky. XXX
+// Arkhan2 G perso2
+L14D82
+ Co dáš mi za tento Flakon? XXX
+// Ernährerin perso16
+L14D83A
+ Je to nádherný kousek. XXX
+// Ernährerin perso16
+L14D83B
+ Já dám ti za to tuto tlustou prosolenou rybu. XXX
+// Arkhan2 G perso2
+L14D85
+ Chceš ty sklenený pohár? XXX
+// Ernährerin (überlegt) perso16
+L14D86
+ Hmm... Za to dám ti tuto rybu. XXX
+// Arkhan2 G perso2
+L14D225
+ Dáš mi za tento mozdír neco k jídlu? XXX
+// Ernährerin perso16
+L14D226A
+ Ano, dám ti tento tlustý Wurzel. XXX
+// Ernährerin perso16
+L14D226B
+ Ty uvidíš, ze chutná lepe, nez ona vypadá. XXX
+// Arkhan2 G perso2
+L14D227
+ Co dáš mi za tento talír? XXX
+// Ernährerin perso16
+L14D228A
+ Za to ti dám ovoce, jednu krásnou porci... sotva sneditelne! XXX
+// Ernährerin perso16
+L14D228B
+ Dej si pozor, aby ses na jadrinci nezakuckal! XXX
+// Arkhan2 G perso2
+L14D229
+ Zde je palicka, s kterou mùzeš tve jídlo naklepat. XXX
+// Ernährerin perso16
+L14D230A
+ Tja ... to mohlo by být uzitecný. XXX
+// Ernährerin perso16
+L14D230B
+ Za to ti dám jablko. XXX
+// Arkhan2 G perso2
+L14D231
+ Dáš mi neco za tento mozdír? XXX
+// Ernährerin perso16
+L14D232
+ Ano, dám ti kohoutí stehno, který pochází ze stríbrneho Rohu. XXX
+// Arkhan2 G perso2
+L14D233
+ Máš zájem o tuto flašku? XXX
+// Ernährerin perso16
+L14D234
+ Ano, já vymením ji za polní láhev plnou alkoholu. XXX
+// Arkhan2 G perso2
+L14D157
+ Zajímá te toto? XXX
+// Ernährerin perso16
+L14D191
+ To ne. Máš neco jineho? XXX
+// Ernährerin perso16
+L14D192
+ Ne, to mne nezajímá. XXX
+// Ernährerin perso16
+L14D193
+ Za to nemohu ti nic dát. XXX
+// Arkhan2 L perso2
+L14D243
+ Neprošel zde nekdo? XXX
+// Ernährerin perso16
+L14D244A
+ Ano, nejaký muz s mecem, který zde probehl jako strela! XXX
+// Ernährerin perso16
+L14D244B
+ Vypadal jako strázce ohne, nejsem si ale jistá. XXX
+// Arkhan2 L perso2
+L14D245
+ Kterým smerem on bezel? XXX
+// Ernährerin perso16
+L14D246
+ To nevím... XXX
+// Arkhan2 L perso2
+L14D247
+ Tedy dobre... Presto mnoho díkù. XXX
+// Arkhan2 O perso2
+L14D248
+ Hej! Neprošel zde nekdo? XXX
+// Arkhan2 O perso2
+L14D249
+ A kterým smerem on bezel? XXX
+// Ernährerin (verlegen)perso16
+L14D250
+ Hmm... XXX
+// Arkhan2 O perso2
+L14D251
+ Tedy, kam?! XXX
+// Ernährerin (verlegen)perso16
+L14D252
+ Já nevím, já se schovala vzadu za mùj povoz. XXX
+// Arkhan2 O perso2
+L14D253
+ To mne napadlo! XXX
+// Arkhan3 L perso3
+L14D64
+ Zivitelko... XXX
+// Ernährerin (erschreckt) perso16
+L14D65
+ Co chceš ode mne? XXX
+// Arkhan3 L perso3
+L14D66
+ Uklidni se, jsem Arkhan, nic ti neudelám! XXX
+// Ernährerin (nicht überzeugt) perso16
+L14D67A
+ Tedy dobre... XXX
+// Ernährerin (nicht überzeugt) perso16
+L14D67B
+ Zde je malý dárek. XXX
+// Ernährerin (nicht überzeugt) perso16
+L14D67C
+ Smeták Danrys ho udelal. XXX
+// Ernährerin (nicht überzeugt) perso16
+L14D67D
+ Jez. Uvidíš, jak je to chutný! XXX
+// Arkhan3 L perso3
+L14D68
+ Máš ješte neco jineho pro mne? XXX
+// Ernährerin (nicht überzeugt) perso16
+L14D69
+ Ne, je mi líto .. XXX
+// Ernährerin (erschreckt) perso16
+L14D48
+ Pomoc! Smetáci, pomozte mi! XXX
+// Arkhan3 L perso3
+L14D254
+ Videla jsi nekoho okolo projít? XXX
+// Arkhan3 L perso3
+L14D255
+ Ty víš jiste, kde on je! XXX
+// Arkhan3 L perso2
+L14D256
+ Tedy? XXX
+// Arkhan3 L perso2
+L14D257
+ Hrrr... Pak práve ne. XXX
+// Arkhan2 L perso3
+L14D149
+ Hej, rekni mu, mel by se uklidnit! XXX
+// Ernährerin perso16
+L14D150
+ Eure Schlägereien gehen mich nichts an! XXX
+// Arkhan3 O perso3
+L14D189
+ Pomoz mi! XXX
+// Ernährerin perso16
+L14D190
+ Ne! Já ... já nemám nic s tím spolecneho! XXX
+// Arkhan2 O perso2
+L14D194
+ Myslíš si snad, ze mohl bys mne porazit?! XXX
+// Ernährerin perso16
+L14D195
+ To ješte uvidíš, ksichte! XXX
+// Arkhan2 G perso2
+L03D01
+ Pockej na mne. XXX
+// Arkhan3 G perso3
+L03D02
+ Pockej. XXX
+// Arkhan2 G perso2
+L14D105
+ Stare kousky ze strojù od predkù, ktere smetáci vyhodili. XXX
+// Arkhan3 G perso3
+L14D106
+ Stare zelezo od predkù, ktere smetáci vyhodili. XXX
+//Arkhan2 G perso2
+L14D95
+ Nic nez stare zelezo... XXX
+//Arkhan3 G perso3
+L14D96
+ Stare zelezo. XXX
+// Arkhan2 G perso2
+L14D97
+ Nejaká stará olejová kára ... XXX
+// Arkhan2 G perso2
+L14D100
+ Stare plechy! XXX
+// Arkhan3 G perso3
+L14D101
+ Shnilý plechy! XXX
+// Malrot1 perso61
+L14D137
+ Hej, prsty pryc, nebo dostaneš ode mne co proto! XXX
+// Malrot1 perso61
+L14D138A
+ Nedrz se zpátky, horníku. XXX
+// Malrot1 perso61
+L14D138B
+ Pokud neco hledáš, co se ti hodí, nech si to! XXX
+// Arkhan2 G perso2
+L14D89
+ Plechový plotny, nevyuzitelne! XXX
+// Arkhan3 G perso3
+L14D90
+ Nic nez plech. XXX
+// Arkhan2 G perso2
+L14D265
+ Tam plní Danrys olej dovnitr, aby mu mašina bezela. XXX
+// Arkhan3 Gperso3
+L14D266
+ To je olejová nádrz pro stroje. XXX
+// Arkhan2 G perso2
+L14D267
+ Vypadá to, jako by byla nádrz prázdná. XXX
+// Arkhan3 G perso3
+L14D268
+ Nádrz je prázdná. XXX
+// Arkhan2 G perso2
+L14D269
+ Tím musela by se mašina vlastne opet rozbehnout. XXX
+// Arkhan3 G perso3
+L14D270
+ S tím se mašina opet rozbehne ... XXX
+// Arkhan2 G perso2
+L14D271
+ Ne, nádrz je jiz dobre naplnená. XXX
+// Arkhan3 G perso3
+L14D272
+ Je jiz dost oleje v nádrzi. XXX
+// Arkhan2 G perso2
+L14D273
+ Nádrz je jiz dobre naplnený. XXX
+// Arkhan3 G perso3
+L14D274
+ Dobre naplnený. XXX
+// Arkhan2 L perso2
+L14D104A
+ Das ist ein Überbleibsel vom Vorher. XXX
+// Arkhan2 L perso2
+L14D104B
+ Vypadá to jako obrovská mašina. XXX
+// Arkhan2 O perso2
+L14D196
+Príliš tezke! XXX
+// Arkhan3 L perso3
+L14D107
+ Kousek ze stroje od predkù ... XXX
+// Arkhan3 O perso3
+L14D197
+ Príliš tezke! XXX
+// Arkhan2 L perso2
+L14D113
+ Nerozciluj se, já jsem prítel. XXX
+// Malrot1 perso61
+L14D114A
+ To se snadno rekne!  XXX
+// Malrot1 perso61
+L14D114B
+ Kdo je v teto temnote prítelem a kdo neprítelem? XXX
+// Arkhan2 O perso2
+L14D109
+ Co tu deláš? XXX
+// Malrot1 perso61
+L14D110A
+ To bych se mel vlastne ptát tebe! XXX
+// Malrot1 perso61
+L14D110B
+ Zmizni odsud, jinak dostaneš mým nozem mezi rypák! XXX
+// Arkhan2 L perso2
+L14D115
+ Víš ty, co se zde deje? XXX
+// Malrot1 (erschreckt und aggressiv) perso61
+L14D116A
+ Bùh Slunce nás nechal ve štichu, to se zde deje! XXX
+// Malrot1 (erschreckt und aggressiv) perso61
+L14D116B
+ Temná Zeme je tu! Ona se zmocnila lidí a delá z nich divoká zvírata! XXX
+// Malrot1 (erschreckt und aggressiv) perso61
+L14D116C
+ A pokud já tvojí vizáz vidím, mám dojem, ze jsi príští na rade! XXX
+// Malrot1 (provozierend) perso61
+L14D116D
+ Na tvem míste bych se zahrabal! XXX
+// Arkhan2 O (drohend) perso2
+L14D111
+ Dám ti radu: Neprovokuj mne! XXX
+// Malrot1 (aggressiv) perso61
+L14D112
+ Tvoje rady mùzeš si strcit kam ty chceš! XXX
+// Arkhan2 L perso2
+L14D118A
+ Nedelej si starosti, jsem na tvem míste. XXX
+// Arkhan2 L perso2
+L14D118B
+ Konkaliti jsou dluzný ve všem.  XXX
+// Arkhan2 L perso2
+L14D118C
+ Oni a ... ehm ... jeden knez ... se jmenem Thanandar. XXX
+// Malrot1 perso61
+L14D119A
+ Konkaliti! Jasne, oni jsou vším vinni! XXX
+// Malrot1 (rachsüchtig) perso61
+L14D119B
+ To nám zaplatí! XXX
+// Arkhan2 L perso2
+L14D121
+ Myslím, ze Thanandar zde nekde je ve Stallitu. XXX
+// Malrot1 perso61
+L14D122A
+ Knez, který je s Konkaliti? XXX
+// Malrot1 perso61
+L14D122B
+ Knezí nezùstávají zde dlouho! XXX
+// Arkhan2 L perso2
+L14D198A
+ Neverím, tenhle není uz více clovekem. XXX
+// Arkhan2 L perso2
+L14D198B
+ Temnota je v nem, ten se cítí v Temne Zemi tak jiste jako krysa v kanále! XXX
+// Arkhan2 L perso2
+L14D198C
+ A on nás chce všechny zabít! XXX
+// Malrot1 perso61
+L14D199
+ Jakpak vypadá tato strašná vec? XXX
+// Arkhan2 L perso2
+L14D198D
+ On je velmi velký, s nejakým druhem brnení z cerne oceli. XXX
+// Arkhan2 L perso2
+L14D198E
+ Ver mi, je lepší, proti stu Konkalitùm s prázdnýma rukama bojovat, nez se dostat do cinení s Thanandarem! XXX
+// Arkhan2 L perso2
+L14D200
+ Dej si pred Thanandarem pozor! XXX
+// Arkhan2 L perso2
+L14D242
+ Bud presto opatrný! XXX
+// Malrot1 perso61
+L14D201
+ Nedelej si starosti o mne, mohu se ubránit! XXX
+// Arkhan2 O perso2
+L14D277
+ Rekni mi, pro silnýho muze jako ty si strílíš jiste dobre do kalhot! XXX
+// Malrot1 perso61
+L14D278
+ Tos nemel ríkat! XXX
+// Arkhan2 G perso2
+L14D123
+ Poslouchej mne, smetáku... XXX
+// Malrot1 perso61
+L14D124
+ Sbal se, nebo budeš mít problemy se mnou! XXX
+// Arkhan2 L perso2
+L14D125A
+ V klidu, prítelícku! XXX
+// Arkhan2 L perso2
+L14D125B
+ Mám zbran, abych se uhájil, presne jako ty! XXX
+// Malrot1 perso61
+L14D126
+ Ich werd' mich abregen, wenn Du sie weggepackt hast, verstanden? XXX
+// Arkhan2 O perso2
+L14D127
+ Rekni mi vázne, usmrkance, myslíš skutecne, ze mne mùzeš prinutit, mojí zbran dát pryc? XXX
+// Malrot1 perso61
+L14D130
+ Ne, mùzeš si jí ponechat. XXX
+// Arkhan2 G perso2
+L14D129
+ Hej, znáš ty to? XXX
+// Malrot1 perso61
+L14D131
+ Nic lepší nez ty! XXX
+// Arkhan2 G perso2
+L14D144
+ Chceš lok z flašky? XXX
+// Malrot1 perso61
+L14D133
+ Kdo jsi vlastne, ze mi pití nabízíš? XXX
+// Malrot1 perso61
+L14D135
+ Tak se mi líbíš jiz více! XXX
+// Malrot1 (hat ein scheußliches Gebräu probiert) perso61
+L14D175A
+ Ahhhh ... to chutná jak štáva z mrtvoly! XXX
+// Malrot1 perso61
+L14D175B
+ Zastrc si to! Aaaah... XXX
+// Arkhan2 G perso2
+L14D134
+ Ješte lok? XXX
+// Malrot1 perso61
+L14D136
+ Oh ne! Radeji litr konkalití moci nez tento lezák! XXX
+// Arkhan2 L perso2
+L14D162
+ Voda, bahno, popel .. nejaký smetácký recept! XXX
+// Arkhan3 L perso3
+L14D279
+ Krysí voda... XXX
+// Arkhan2 G perso2
+L14D258
+ Pokud já to uchopím, ztratím ruce! XXX
+// Arkhan3 G perso3
+L14D259
+ Ne, pokud já to vezmu, jsou moje ruce ztracene! XXX
+// Arkhan2 G perso2
+L14D260
+ To uz nefunguje. XXX
+// Arkhan3 G perso3
+L14D261
+ To uz nefunguje více. XXX
+// Arkhan2 G perso2
+L14D262
+ Ono se to opet rozbehlo! XXX
+// Arkhan3 G perso3
+L14D264
+ Opet to bezí! XXX
+// Arkhan2 G perso2
+L14D275A
+ S touto schránkou a provazem privede Danrys jeho mašinu do behu. XXX
+// Arkhan2 G perso2
+L14D275B
+ Jak nikdy nepochopil, jak to funguje ... XXX
+// Arkhan3 G perso3
+L14D276A
+ S tím privádí Danrys jeho mašinu do chodu. XXX
+// Arkhan3 G perso3
+L14D276B
+ Já nikdy nerozumel, jak... XXX
+// Arkhan2 G perso2
+L14D238
+ My jedeme nyní s výtahem opet nahoru.  XXX
+// Arkhan3 G perso3
+L14D239
+ My jedeme do Horního mesta nahoru. XXX
+// Delia perso10
+L14D240
+ Bez nyní, já te následuju. XXX
+// Delia (Arkhan zeigt ihr was) perso10
+L14D241A
+ Arkhane, meli bychom se v Horním meste schovat. XXX
+// Delia perso10
+L14D241B
+ Je nebezpecne zde zùstávat! XXX
+// Arkhan2 G (Delia oder Kalhi schlagen ihn) perso2
+L10D93
+ Nemáš zádnou šanci, cukrícku! XXX
+// Arkhan3 G (Delia oder Kalhi schlagen ihn) perso3
+L10D94
+ Hned si to s tebou vyrídím, mùj poklade! XXX
+// Delia (von Arkhan geschlagen) perso10
+L10D95
+ Ne, ty jsi se jiste pomátl, dávej pozor! XXX

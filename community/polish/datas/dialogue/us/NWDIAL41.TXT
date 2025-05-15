@@ -1,0 +1,31 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL41.TXT
+ // Arkhan perso3
+L41D02
+ Wielkie! XXX
+// Arkhan3 G  perso3
+L41D01
+ Ruszajmy! XXX
+// Arkhan3 L perso3
+L41D14
+ Moc Swiatlosci nie moze byc daleko. XXX
+// Arkhan3 O perso3
+L41D15
+  Gdzie ja jestem?! XXX
+// Arkhan3 L perso3
+L41D12
+ Stallite nie bez przyczyny wybudowano nad tym miejsce. XXX
+// Arkhan3 O perso3
+L41D13
+ Czemu nikt mi o tym nie powiedzial?! XXX
+// Arkhan3 L perso3
+L41D10
+ Podloga jest tak goraca... XXX
+// Arkhan3 O perso3
+L41D11
+ Do pioruna ta podloga jest goraca... Parzy moje stopy... XXX
+// Arkhan3 G perso3
+L41D03
+ Rzezbione zapiski... XXX
+// Arkhan3 G perso3
+L41D09
+ Jesli spadne, koniec ze mna! XXX

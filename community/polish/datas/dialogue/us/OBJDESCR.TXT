@@ -1,0 +1,203 @@
+12345678901234567890123456789012345678901234567890
+
+@1
+Stary Uniform Bogardana
+@2
+Zwienczenie klucza Rylsadhara
+@3
+Metalowa miska
+@4
+Naczynie
+@5
+Metalowy slup
+@6
+Plyn do miotacza ognia
+@7
+Olowiane kule do pioruna
+@8
+Bojler do pioruna
+@9
+Metalowy uchwyt
+@10
+Naczynie ze Starego Swiata
+@11
+Klucz z czerwonego krysztalu
+@12
+Zaostrzony ciety krysztal
+@13
+Olbrzymie warzywo
+@14
+Klucz Konkalitow
+@15
+Klucz Sordosa
+@16
+Klucz Bogdarana
+@17
+Mlot
+@18
+Krysztalowy klucz (wygiety na lewo)
+@19
+Krysztalowy klucz (wygiety na prawo)
+@20
+Lustro ze Starego Swiata
+@21
+Owalna fiolka
+@22
+Flaszka
+@23
+Piorun ze Starego Swiata
+@24
+Flaszka Stohllu (pelna)
+@25
+Ubranie
+@26
+Topor bitewny
+@27
+Miotacz ognia
+@28
+Dlugi noz
+@29
+Os kola
+@30
+Noz Zaopatrujacej
+@31
+Wywar Thanandara
+@32
+Piorun od Kalhi
+@33
+Olowiana tablica
+@34
+Ziemniak
+@35
+Piorun Zeda
+@36
+Wielki korzen
+@37
+Krotka halabarda
+@38
+Straznik Ognistej Szabli
+@39
+Amunicja do Pioruna od Kalhi
+@40
+Nieznany przedmiot ze Starego Swiata (nasiakniety oliwa)
+@41
+Nieznany przedmiot ze Starego Swiata
+@42
+Flaszka
+@43
+Ryba
+@44
+Wedzone mieso
+@45
+Odlamek krysztalowej skaly
+@46
+Notatki Rylsadhara
+@47
+Ciezki topor Konkalitow
+@48
+Os kola (zlamana)
+@49
+Dokument Sordosa
+@50
+Schemat broni
+@51
+Przekladnica od kola Studni
+@52
+Rysunki Rylsadhara
+@53
+Wlocznia Konkalitow
+@54
+Ognista kula
+@55
+Piorun
+@56
+Zmiazdzony szczur
+@57
+Bron Sordosa
+@58
+Szabla Zeda
+@59
+Szabla Wedrujacego
+@60
+Moneta Dhorkana
+@61
+Korbacz Phedorii (zzz)
+@62
+Halabarda (zzz)
+@63
+Sztylet Kalhi
+@64
+Kawalek pieczonego ptaka
+@65
+Gliniana miska
+@66
+Piorun Lory
+@67
+Topor bitewny
+@68
+Piorun Zeda (na Zedzie)
+@69
+ikona "Save"
+@70
+Wykres Mistrza Budowniczego
+@71
+Metalowy stroj (bardzo ciezki)
+@72
+Amunicja do piorunow ze Starego Swiata
+@73
+Amunicja do pioruna Zeda
+@74
+Kilof Danrysa
+@75
+Krysztalowy klucz Rylsadhara
+@76
+Palka Maora
+@77
+Flaszka (pusta)
+@78
+Mala bron Danrysa
+@79
+Straznik Ognistego Topora
+@80
+Miecz Dhorkana
+@81
+Pergamin Rylsadhara
+@82
+Ksiega Archiwisty
+@83
+Straznik Ognistej Szabli
+@84
+Metalowy helm
+@85
+Metalowy napiersnik (bardzo ciezki)
+@86
+Flaszka ze Starego Swiata
+@87
+Zeton do gry w Yong
+@88
+Tuba Bogdarana
+@89
+Klucz wiezienny
+@90
+Olowiana kula
+@91
+Sztylet
+@92
+Dlugi sztylet
+@93
+Sztylet Dhorkana
+@94
+Tluczek Kabaka
+@95
+Mozdzierz Kabak
+@96
+Duzy, stalowy klucz
+@97
+Kanister
+@98
+Kolo mlynskie
+@99
+Zapieczetowana metalowa puszka
+@100
+(zepsuta bron)
+@end

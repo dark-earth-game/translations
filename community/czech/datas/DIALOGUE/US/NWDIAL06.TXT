@@ -1,0 +1,607 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL06.TXT
+ // Dhorkan (A. ist fortgegangen, nachdem er ihn geschlagen hat) perso11
+L06D03A
+ Odvazuješ se, vrátit zpátky! XXX
+// Dhorkan perso11
+L06D03B
+ Neprovokuj mne opet! XXX
+// Dhorkan perso11
+L06D43A
+ Co má tento vetrelec?! XXX
+// Dhorkan (unangenehm überrascht, Arkhan zu sehen) perso11
+L06D43B
+ Arkhane? To jsi ty! Ty ziješ. XXX
+// Dhorkan perso11
+L06D43C
+ Ty jsi tu jiz opet!  XXX
+// Dhorkan perso11
+L06D44A
+ Dej si pozor, neustále sem chodit! XXX
+// Dhorkan perso11
+L06D44B
+ Ucini jsi alespon to, co já ti prikázal? XXX
+// Dhorkan (drohend) perso11
+L06D44C
+ Ty jsi se opet vrátil? Já te varoval! XXX
+// Dhorkan (drohend) perso11
+L06D44D
+ Opust okamzite tuto místnost nebo ti ukázu mùj mec, kdo zde prikazuje!XXX
+// Dhorkan (Arkhan greift ihn an) perso11
+L06D32
+ Strázci ohne! Sem! XXX
+// Arkhan1 L perso1
+L06D42A
+ Svetlo bud s tebou, Profosi Dhorkane! XXX
+// Dhorkan perso11
+L06D05A
+ Ah, Arkhane, to jsi ty! XXX
+// Arkhan1 L (versucht, sich zu entschuldigen) perso1
+L06D42B
+ Profosi Dhorkane, je mi líto, já byl... ehm... XXX
+// Arkhan1 O  (frech)perso1
+L06D42C
+ Bud zdráv, Profosi! XXX
+// Arkhan1 O (lügend) perso1
+L06D42D
+Profosi Dhorkane, je mi to, Zed mne zpet volal ... Vzdyt víš, jaký on je ... XXX
+// Dhorkan perso11
+L06D05B
+ Ušetri mne tvojí arogance a tvých špatných výmluv! Ne dnes! XXX
+// Dhorkan perso11
+L06D05C
+ Velká knezka Lory koná v chrámu Slunecního Boha dùlezite sezení. XXX
+// Dhorkan perso11
+L06D05D
+ Budeš jiste, bránu poradního sálu strázit. XXX
+// Dhorkan perso11
+L06D05E
+ Strázce ohne Jedar ceká jiz dlouho dolo na tebe. XXX
+// Dhorkan perso11
+L06D05F
+ Jdi dolù a zaujmi místo, dríve nez Velká Knezka prijde. XXX
+// Dhorkan (genervt) perso11
+L06D04
+ Copak ty tu deláš? Jdi okamzite na svùj post zpátky! XXX
+// Dhorkan perso11
+L06D06A
+ Strázci ohne, jdi okamzite dolù a zaujmi tvùj flek! XXX
+// Dhorkan perso11
+L06D06B
+ Arkhane! Pokud já nejaký rozkaz udelím, ocekávám, ze bude splnen! XXX
+// Dhorkan perso11
+L06D06C
+ Opusti kasárna a jdi k Jedarovi, dríve nez Velká Knezka prijde! XXX
+// Dhorkan perso11
+L06D06D
+ To je vzpoura! XXX
+// Dhorkan (will das Schwert ziehen) perso11
+L06D06E
+ Jdi na tvoje místo nebo obdrzíš lekci, na jakou ty jen tak brzo nezapomeneš! XXX
+// Dhorkan perso11
+L06D06F
+ Tentokrát ty poznáš, jake to je, být od mece probodnut! XXX
+// Dhorkan perso11
+L06D28Z
+ Sud je naplnen! Máš smrt ve vocích! XXX
+// Phedoria (erschreckt) perso26
+L06D84
+ Profosi! XXX
+// Phedoria perso26
+L06D07
+ Arkhane! Zabijáku! XXX
+// Phedoria perso26
+L06D62
+ Dhorkane, zádný pohyb, jseš mùj zajatec! XXX
+// Dhorkan perso11
+L06D39
+ Vy tupe hlavy! Nedostanete mne nikdy! XXX
+// Phedoria (schießt auf Dhorkan und verpaßt ihn) perso26
+L06D40
+ Proklate! Vedle! XXX
+// Arkhan2 G perso2
+L06D35A
+ Nesmí nám uniknout! XXX
+// Arkhan3 G perso3
+L06D35B
+ Musíme ho zadrzet! XXX
+// Phedoria perso26
+L06D41
+ Bez po nem, jdu varovat Lory! XXX
+// Arkhan2 O (wütend) perso2
+L06D33B
+ U svateho ohne, ty jsi ho ùmyslne nechala odejít! XXX
+// Arkhan3 O (wütend) perso3
+L06D33D
+ Proklate! Zdrhnul! XXX
+// Arkhan2 G perso2
+L06D82
+ Dhorkan tu není! XXX
+// Arkhan3 G perso3
+L06D83
+ Dhorkan je pryc! XXX
+// Dhorkan (gebieterisch) perso11
+L06D77B
+ Tak, nech mne nyní samotneho. XXX
+// Dhorkan perso11
+L06D214B
+ Nyní jdi jiz! XXX
+// Dhorkan (gebieterisch) perso11
+L06D16A
+ Nezapomen, s kým mluvíš, Arkhane! XXX
+// Dhorkan perso11
+L06D53B
+ Jdi nyní, dríve  nez se prihodí neštestí! XXX
+// Dhorkan perso11
+L06D16F
+ Nyní odsud ven! XXX
+// Dhorkan perso11
+L06D80C
+ Ven! XXX
+// Dhorkan perso11
+L06D18C
+ Jdi mi z ocí, zamoruješ místnost! XXX
+// Dhorkan perso11
+L06D20
+ Ven odsud, hajzle, nebo ti s mým mecem zkrátím nohy! XXX
+// Dhorkan (arrogant) perso11
+L06D26A
+ Myslíš ty snad, ze mohl bys mne nalákat do pasti? Ty nejsi prece nic nez smrtelný obraz cloveka! XXX
+// Dhorkan (arrogant) perso11
+L06D26H
+ Nejsi nic. Ty nejsi zádne nebezpecí pro mne! XXX
+// Dhorkan perso11
+L06D05G
+ Arkhane! Pockej, nechod ješte! XXX
+// Dhorkan perso11
+L06D54A
+ Arkhane! XXX
+// Dhorkan perso11
+L06D54B
+ Aby bylo jasno: Strpím te, ale nechod bez informací zpet! XXX
+// Dhorkan perso11
+L06D54C
+ Od nyní vládnu ve Stallitu. XXX
+// Dhorkan perso11
+L06D54D
+ Pokud bys chtel zapomenout, skoncíš ty ve sklepení. XXX
+// Dhorkan perso11
+L06D54E
+ Denn dieses Schicksal ocekávají všichni, odvází se, zvednou se proti mne. XXX
+// Arkhan1 G perso1
+L06D09A
+ Nejaký Mechanismus. XXX
+// Arkhan2 G perso2
+L06D09B
+ Nejaký Mechanismus, jako zámek. XXX
+// Arkhan3 G perso3
+L06D09C
+ Nejaký Mechanismus. XXX
+// Arkhan2G perso2
+L06D669
+ Dhorkan urcite tímto smerem bezel ... XXX
+// Arkhan3G perso3
+L06D670
+ Dhorkan urcite tímto smerem bezel ... XXX
+// Arkhan1 L (nicht begeistert darüber, daß er Wache schieben soll) perso1
+L06D10A
+ Profosi Dhorkane, byl bych snad uzitecnejší nez ... ehm ...  XXX
+// Arkhan1 O (nicht begeistert darüber, daß er Wache schieben soll) perso1
+L06D10B
+ S Jedarem stráz stát, oh ne! Nemohl byste mne s nekým jiným vymenit? XXX
+// Dhorkan (genervt) perso11
+L06D10C
+ Arkhane, dost! Rozkazy pricházejí od samotne Velke Knezky Lory! XXX
+// Dhorkan (genervt) perso11
+L06D10D
+ Jdi dolù a zaujmi okamzite tvùj post! XXX
+// Arkhan1 L perso1
+L06D11A
+ Schùzka s Velkou Knezkou? Kdopak chce jí videt? XXX
+// Arkhan1 O perso1
+L06D11B
+Copak se stalo, Velkou Knezku tak brzo ráno z perin vyzvednout? XXX
+// Dhorkan (überrascht über A. Arroganz, beherrscht sich dann jedoch) perso11
+L06D12A
+ Kdo? Ehm ... Dávej pozor, co ty mluvíš, a poslouchej, Strázce ohne! XXX
+// Dhorkan perso11
+L06D12B
+ Jdi hned dolù, a sice s tvojí zbraní, a bud tam, nez Velká Knezka prijde. XXX
+// Arkhan1 L perso1
+L06D01A
+ Já ... XXX
+// Arkhan1 O perso1
+L06D01B
+ Ale ... XXX
+// Dhorkan perso11
+L06D666
+ Bez na svoje místo! XXX
+// Arkhan2 L perso2
+L06D13A
+ Dhorkane, jsem nemocný!  XXX
+// Arkhan2 L perso2
+L06D13B
+ Utocníci na Velkou Knezku mne ... s touto cernou hmotou otrávili! XXX
+// Arkhan2 L perso2
+L06D13C
+ Nekterí mne povazují za neprítele. To ale nesouhlasí: Já prece pouze svojí povinnost ucinil! XXX
+// Arkhan2 O perso2
+L06D14A
+ Dhorkane, u Temne Zeme, odvolej Strázce ohne zpet! XXX
+// Arkhan2 O perso2
+L06D14B
+ Ty prasecí psy, kterí Lory napadli, mne otrávili, a nyní mám já na to dojít! XXX
+// Arkhan2 O perso2
+L06D14C
+ Já jsem mojí povinnost ucinil a jsem jeden z vás. Musíte mne ochránit! XXX
+// Arkhan3 L perso2
+L06D63
+ Loryny ùtocnící mne otrávili ... Všicni jsou mi dluzní. Potrebuju pomoc! XXX
+// Arkhan3 O (genervt) perso2
+L06D64
+ Dhorkane, jsem nemocný a všichni jsou proti mne. Musíš mi pomoci! XXX
+// Dhorkan perso11
+L06D45A
+ Bud klidný, uklidni se ... XXX
+// Dhorkan perso11
+L06D45B
+ Lecitel, Thanandar, co tomu ríká? XXX
+// Arkhan2 G perso2
+L06D46A
+ On mi o nejake hrobce vyprável a o nejakem protileku, který se tam má nachází  ...  XXX
+// Arkhan2 G perso2
+L06D46B
+ On mi rekl, ze mám najít sveho otce, aby ten mne tam zavedl. XXX
+// Arkhan3 G perso3
+L06D47A
+ On mi o hrobce vyprável, o protileku. On ríkal, ze mùj otec mne tam mùze zavest. XXX
+// Dhorkan perso11
+L06D65A
+ Nesmysl! Thanandar ti lhal, aby ti nadeji dal.  XXX
+// Dhorkan perso11
+L06D65B
+ Pravdou je, ze knezí situaci nemají více pod kontrolou. XXX
+// Dhorkan (freut sich) perso11
+L06D65C
+ Proto musel jsem vládu nad Stalittem prevzít! XXX
+// Dhorkan (plötzlich freundlich) perso11
+L06D65D
+ Ty víš, jak já jsem si vázil tveho otce a Velke Knezky Lory.  XXX
+// Dhorkan perso11
+L06D65E
+ Já jsem vyhlásil stanne právo, abych je ochránil. XXX
+// Dhorkan perso11
+L06D65F
+ A co se týce tebe ... Ty jsi byl jiste dobrý Strázce ohne. XXX
+// Dhorkan perso11
+L06D65G
+ Prece, kdo nyní svojí ruku do ohne za tebe polozí? XXX
+// Arkhan2 L perso2
+L06D72A
+ Dhorkane, já prísahám u Boha Slunce, ze já nic zleho neucinil. XXX
+// Arkhan2 L perso2
+L06D72B
+ Já jsem porád ješte clovek. Lecitel Thanandar je mým svedkem. XXX
+// Arkhan2 O perso2
+L06D73A
+ Já nic neucinil! Ostatní mají proste strach pred mým vzhledem! XXX
+// Arkhan2 O perso2
+L06D73B
+ Jsem ješte porád clovekem! Zeptej se prece lecitele! XXX
+// Arkhan3 L perso3
+L06D74
+ Nejsem zrádce! Ostatní mi proste neverí!XXX
+// Arkhan3 O perso3
+L06D75
+ Já nic neudelal! XXX
+// Dhorkan perso11
+L06D76A
+ To vím, ale Thanandar nemel by te nechat chodit jen tak... XXX
+// Dhorkan perso11
+L06D76B
+ On by mel radeji roli lecitele hrát nez, die des Beraters ist für ihn eine Nummer zu groß!XXX
+// Dhorkan perso11
+L06D76C
+ Já mu nedùveruju. Pokud se chceš k tvým lidem vrátit zpet, dokaz mi tvojí vernost. XXX
+// Dhorkan perso11
+L06D76D
+ Jdi k Thanandarovi a rekni mi presne, co on práve delá. XXX
+// Dhorkan perso11
+L06D76E
+ Jdi nyní! XXX
+// Arkhan2 G perso2
+L06D48A
+ Thanandara jsem nevidel ... XXX
+// Arkhan3 G perso2
+L06D48B
+ Nevidel jsem Thanandara ... XXX
+// Dhorkan perso11
+L06D51A
+ Jdi, mám mnoho práce! XXX
+// Dhorkan perso11
+L06D51B
+ Ein anderer als ich hätte Dich schon längst in Ketten gelegt. XXX
+// Dhorkan perso11
+L06D51C
+ Já ti dùveruju, ale nezneuzívej me velkorysosti! XXX
+// Arkhan2 L perso2
+L06D204A
+ Potkal jsem Thanandara. XXX
+// Arkhan2 L perso2
+L06D204B
+ On práve se nekoho pokoušel vylecit. XXX
+// Arkhan3 L perso2
+L06D205A
+ Videl jsem Thanandara. XXX
+// Arkhan3 L perso2
+L06D205B
+ On nekoho práve lecil. XXX
+// Dhorkan perso11
+L06D206A
+ Ehm ... dobre ... XXX
+// Dhorkan perso11
+L06D206B
+ Pokud se neco prihodí, rekni mi to hned. XXX
+// Dhorkan perso11
+L06D206C
+ A chovej se nenápadne, ostatní stráze nejsou tak velkorysí jako já. XXX
+// Arkhan2 O perso2
+L06D207A
+ Videl jsem Thanandara. XXX
+// Arkhan2 O perso2
+L06D207B
+ On se pokoušel práve, Dulnyse opet dát dohromady. XXX
+// Arkhan2 O perso2
+L06D207C
+ Pokud o tom uvazuju, jak jsem ho zrichtoval, nebude to mít práve jednoduche! XXX
+// Arkhan3 O perso3
+L06D208A
+ Videl jsem Thanandara. XXX
+// Arkhan3 O perso3
+L06D208B
+ Pokoušel se práve, Strázce ohne Dulnyse vylecit! XXX
+// Arkhan3 O perso3
+L06D208C
+ Wenn man sich überlegt, wie ich den zusammengeschlagen habe, ist dafür ein Wunder des Sonnengottes nötig! XXX
+// Dhorkan (wütend) perso11
+L06D209A
+ Nezapomen, s kým ty mluvíš, Arkhane! XXX
+// Dhorkan perso11
+L06D209B
+ Wenn ich Du wäre, würde ich nicht damit prahlen, einen Hüter des Feuers geschlagen zu haben. XXX
+// Dhorkan perso11
+L06D209C
+ Zmizni odsud, dríve nez já zapomenu svoje sympatie k tobe! XXX
+// Arkhan2 L perso2
+L06D210
+ Thanandar je ješte u Dulnysovo nemocnocního lùzka. XXX
+// Arkhan2 O perso2
+L06D211
+ Thanandar se pokouší o to, dát Dulnyse dohromady. XXX
+// Arkhan3 L perso3
+L06D212
+ Thanandar je ješte u toho, Dulnyse vylecit. XXX
+// Arkhan3 O perso3
+L06D213
+ Thanandar je ješte u toho, Dulnyse vylecit! XXX
+// Dhorkan perso11
+L06D214A
+ Tos nemusel se vracet, abys mi tohle sdeloval. XXX
+// Arkhan2 G perso2
+L06D49A
+ Musím Thanandara zabít! XXX
+// Arkhan2 G perso2
+L06D49B
+ Nemám jinou volbu ... On mne otrávil! XXX
+// Arkhan2 G perso2
+L06D49C
+ A to byl ješte nekdo u nej ... XXX
+// Arkhan3 G perso3
+L06D50A
+ Usmrtil jsem Thanandara, jeho a ješte nekoho ... XXX
+// Dhorkan perso11
+L06D77A
+ Thanandar je mrtvý? Výborne! Já nemám zádný dùvod, delat si starosti.  XXX
+// Arkhan2 G perso2
+L06D78
+ Ano, ale cekám ... XXX
+// Arkhan3 G perso3
+L06D79
+ Cekám... XXX
+// Dhorkan (unterbricht Arkhan) perso11
+L06D80A
+ Arkhane, jsem muz, který svoje slovo dodrzí, a tím nechám já te jít ...  XXX
+// Dhorkan perso11
+L06D80B
+ Ale nepokoušej se, mi házet klacky pod nohy! XXX
+// Arkhan2 L perso2
+L06D21A
+ Mùj otec mi rekl, ze chce jít za tebou ... kde je on? XXX
+// Arkhan2 O perso2
+L06D21B
+ Mùj otec byl u tebe ... Rekni mi, kde on je! XXX
+// Arkhan3 L perso3
+L06D21C
+ Kde je mùj otec? XXX
+// Arkhan3 O perso3
+L06D21D
+ Rekni, kde je mùj otec! XXX
+// Dhorkan (gibt vor, nicht zu wissen, wo Rylsadhar ist) perso11
+L06D22A
+ Tvùj otec? Odkud mám to vedet? Myslím, on se schoval nekde ... do bezpecí. XXX
+// Dhorkan perso11
+L06D22B
+ Zmizni odsud, pokud nechceš jít hlavou napred! XXX
+// Arkhan2 G perso2
+L06D52A
+ Ale nemeli bychom ... XXX
+// Arkhan3 G perso3
+L06D52B
+ Dhorkane, pockej... XXX
+// Dhorkan perso11
+L06D53A
+ Arkhane! Knezí jsou velkorysejší nez já. XXX
+// Arkhan2 L perso2
+L06D15A
+ Dhorkane, potrebuji tvoji pomoc. XXX
+// Arkhan2 O perso2
+L06D81A
+ Rozumím ti, nyní mne nepotrebuješ a vyhazuješ mne! XXX
+// Arkhan2 O perso2
+L06D81B
+ Du bist Deines Ranges nicht würdig, Dhorkan. Ich verachte Dich! XXX
+// Arkhan3 L perso3
+L06D15C
+ Dhorkane. Bez tvojí pomoci jsem ztracen! XXX
+// Arkhan3 O perso3
+L06D15D
+ Proklate, nenech mne ve štichu! XXX
+// Dhorkan perso11
+L06D16B
+ Ty jsi napadl Strázce ohne ... Zato jsi si vydelal vyhoštení! XXX
+// Dhorkan perso11
+L06D16C
+ Ale já si te ctím, a proto te nechám jít. XXX
+// Dhorkan perso11
+L06D16D
+ Pokud potrebuješ pomoc, ulov si nejakeho kneze! XXX
+// Dhorkan perso11
+L06D16E
+ Sie sind schuld an Deinem traurigen Schicksal! XXX
+// Arkhan2 L perso2
+L06D17A
+ A co je s hrobkou, o ktere Thanandar mi vyprável ... XXX
+// Arkhan2 O perso2
+L06D17B
+ Rekni mi alespon, co víš o hrobce! XXX
+// Arkhan3 G perso3
+L06D17C
+ Víš ty neco o hrobce? XXX
+// Dhorkan (verächtlich) perso11
+L06D18A
+ Ta hrobka ... opet nejaký výmysl knezù, který ti na nos zavesili. XXX
+// Dhorkan perso11
+L06D18B
+ Dám ti radu: Zapomen na tuto lez. XXX
+// Arkhan2 L perso2
+L06D19A
+ Ty jsi mne zklamal, Dhorkane. XXX
+// Arkhan2 L perso2
+L06D19B
+ Povazuješ se za mistra a nejsi nic jineho nez prokletá backora! XXX
+// Arkhan2 O perso2
+L06D19C
+ U svateho rohu, nejsi nic jineho nez pekná mrcha! XXX
+// Arkhan3 L perso3
+L06D19D
+ Ty necháš mne ve štichu! XXX
+// Arkhan3 O perso3
+L06D19E
+ Zrádce! XXX
+// Arkhan2 G (holt seinen Trumpf heraus) perso2
+L06D23A
+ Rekni... Nemyslíš, ze bychom meli alespon o... SORDOSOVI mluvit? XXX
+// Arkhan3 G (holt seinen Trumpf heraus) perso3
+L06D23B
+ A co kdybychom si alespon trochu o... SORDOSOVI promluvili! XXX
+// Dhorkan (überrumpelt) perso11
+L06D24
+ Co ... co tím myslíš? XXX
+// Arkhan2 L perso2
+L06D25A
+ Vím o všem. A ocekávám vysvetlení! XXX
+// Arkhan2 O perso2
+L06D25B
+ Vím všechno!  XXX
+// Arkhan3 G (drohend) perso3
+L06D25D
+ Já vím všechno. Nyní je konec s výmysli! XXX
+// Dhorkan (arrogant) perso11
+L06D26B
+ Myslíš si, ze bys mel všemu rozumet, ale tvùj nemocný mozek, nemùze toto pochopit. XXX
+// Dhorkan (arrogant) perso11
+L06D26C
+ Mám obrovský projekt se Stallitem.  XXX
+// Dhorkan (arrogant) perso11
+L06D26D
+ Knezí jsou slaboši, neschopní, správne rozhodnutí udelat. XXX
+// Dhorkan (arrogant) perso11
+L06D26E
+ Pod mým vedením zacnou nove casy! XXX
+// Dhorkan (arrogant) perso11
+L06D26F
+ Und wenn ich mich mit einem Schuft wie Sordos verbünden muß, um den Larven, die Sparta bevölkern, meine großen Ziele aufzuzwingen ... XXX
+// Dhorkan (arrogant) perso11
+L06D26G
+ Dann tu' ich es, ohne auch nur eine Sekunde zu zögern! XXX
+// Dhorkan (verächtlich) perso11
+L06D26I
+ Kdo uverí tvojim výmyslùm? XXX
+// Dhorkan (verächtlich) perso11
+L06D26J
+ Sami tvoji prátele jsou proti tobe! XXX
+// Arkhan2 G (drohend) perso2
+L06D27
+ U boha svetla, já všem ukázu tvojí pravou tvár! XXX
+// Arkhan3 G perso3
+L06D667A
+ Zabiju te! XXX
+// Arkhan3 G perso3
+L06D667B
+ Všichni uvidí, kdo je zde pravou nestvùrou! XXX
+// Dhorkan perso11
+L06D28A
+ Nikdo ti neuverí, potrebuješ dùkaz. XXX
+// Dhorkan perso11
+L06D28B
+ A nemáš nic v rukouch! XXX
+// Arkhan1 G perso1
+L06D200
+ Profosi, znáte to zde? XXX
+// Dhorkan (kurzangebunden) perso11
+L06D203
+ Dost! To mne nezajímá! XXX
+// Arkhan1 G perso1
+L06D66
+ Bud opatrný, Dhorkane! XXX
+// Arkhan2 G perso2
+L06D67
+ Zcepeníš, Dhorkane! XXX
+// Arkhan3 G perso3
+L06D68
+ Zcípni! XXX
+// Arkhan2 G perso2
+L06D69
+ Tvoje hodina prišla, zrádce! XXX
+// Arkhan3 G perso3
+L06D70
+ Zemreš, zrádce! XXX
+// Arkhan2 L perso2
+L06D33A
+ Tajemná chodba! Dozadu! XXX
+// Arkhan3 L perso3
+L06D33C
+ Dozenme ho! XXX
+// Phedoria (zu sich selbst) perso26
+L06D34A
+ Tuto tajemnou chodbu neznám. XXX
+// Phedoria perso26
+L06D34B
+ Delej prece neco, dojdi pro nej! XXX
+// Phedoria (wütend) perso26
+L06D60
+ To stacilo! Dohon Dhorkana! XXX
+// Phedoria perso26
+L23D107
+ Tys zpecetil svùj osud! XXX
+// Arkhan2 G perso2
+L06D55C
+ Nic více. XXX
+// Arkhan3 G perso3
+L06D55D
+ Nic více. XXX
+// Phedoria perso26
+L06D61A
+ Pokus se, ho dostat! XXX
+// Phedoria perso26
+L06D61B
+ Pokusím se, tajemný vchod otevrít! XXX

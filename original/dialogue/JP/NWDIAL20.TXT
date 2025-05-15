@@ -1,0 +1,439 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL20.TXT
+ // Zed84 perso84
+L20D01
+ Arkhan! What's going on! XXX
+// Arkhan1 G perso1
+L20D02
+ They're killing the Great Sunseer! Got to get out of here! XXX
+// Zed84 (furious) perso84
+L20D03
+ Running away!? You miserable coward! XXX
+// Thanandar25 (throws A. to the ground)perso25
+L20D95
+ You thought you could get away? XXX
+// Guardian1 perso41
+L20D121
+ Ah! There you are! Go to your post... XXX
+// Zed84 (furious) perso84
+L20D04
+ Arkhan! XXX
+// Arkhan1 G (seeing Zed arrive furious) perso1
+L20D05
+ No, Zed, it's not... XXX
+// Zed84 (ready to kill Arkhan) perso84
+L20D06
+ You traitor! XXX
+// Guardian1 (grumbling) perso41
+L20D07A
+ I don't really know what they're up to. XXX
+// Guardian1 (grumbling) perso41
+L20D07B
+ I hope it won't last too long... XXX
+// Guardian1 perso41
+L20D08A
+ Hey, Arkhan! XXX
+// Guardian1 perso41
+L20D08B
+ You think you can stand guard without your sword? XXX
+// Guardian1 perso41
+L20D08C
+ You think you're going to stand guard with that hatchet? XXX
+// Guardian1 perso41
+L20D09A
+ If Dhorkan sees you here without your weapon, he'll fry your butt! XXX
+// Guardian1 perso41
+L20D09B
+Where's your Guardian of Fire saber ? ! If Dhorkan sees you, he'll fry your butt! XXX
+// Guardian1 perso41
+L20D10A
+ Go on, Arkhan. Don't just stand there! XXX
+// Guardian1 perso41
+L20D10B
+ In the name of the Sun God, go get your sword! XXX
+// Guardian1 (irritated) perso41
+L20D11A
+ Arkhan, you're asking for trouble! XXX
+// Guardian1 perso41
+L20D11B
+ You can't stand guard without your sword! XXX
+// Guardian1 perso41
+L20D12
+Something's going on! XXX
+// Arkhan1 G perso1
+L20D13
+ Let's check it out! XXX
+// Guardian1 perso41
+L20D14
+ Light be with you, Great Sunseer! XXX
+// Phedoria perso26
+L20D38
+ You just signed your death warrant, Arkhan! XXX
+// Guardian9 perso49
+L20D96
+ Halt! Who goes there? XXX
+// Guardian10 perso50
+L20D97
+ Arkhan... by the Great Solaar, is it you? XXX
+// Guardian9 perso49
+L20D99
+ Who goes there? Speak! XXX
+// Guardian9 perso49
+L20D112
+ Death! XXX
+// Guardian11 perso51
+L20D120
+ A creature! Raise the alarm! XXX
+// Guardian1 perso41
+L20D28
+ Hey! Take it out on someone else, my friend! XXX
+// Arkhan1 L perso1
+L20D15A
+ Light be with you, Jedar. XXX
+// Guardian1 perso41
+L20D16A
+ Dammit, Arkhan! You're late as usual! XXX
+// Guardian1 perso41
+L20D16B
+ Arriving after the Sunseer! Shame on you! XXX
+// Arkhan1 L perso1
+L20D15B
+ Sorry. I was... uh... busy in the guardroom. XXX
+// Guardian1 (frowning) perso41
+L20D16C
+ Mmmm. Sure, sure... XXX
+// Arkhan1 L perso1
+L20D17A
+ There's only us two to stand guard? XXX
+// Arkhan1 L perso1
+L20D17B
+ Pretty light protection for the Great Sunseer and her court. XXX
+// Guardian1 (shrugging his shoulders) perso41
+L20D18A
+ Yeah! Especially when one of the two doesn't show up! XXX
+// Guardian1 perso41
+L20D18B
+ It's unusual. I suppose the Provost couldn't get the guards together. XXX
+// Guardian1 (bitter) perso41
+L20D18C
+ But they can always rustle up at least two suckers for the job! XXX
+// Guardian1 (mockingly) perso41
+L20D18D
+ Sure... he was taken by surprise... or else he did it on purpose. XXX
+// Guardian1 (mockingly) perso41
+L20D18E
+ With you always late like this, the Guards are sure to be under-manned! XXX
+// Arkhan1 L perso1
+L20D19
+ Looks like you're in a pretty dark mood, today. XXX
+// Guardian1 perso41
+L20D20A
+ Go take up your post on the other side of the door. XXX
+// Guardian1 perso41
+L20D20B
+ We're not supposed to talk! XXX
+// Guardian1 (irritated) perso41
+L20D21
+ Shut up and get into position, okay? XXX
+// Arkhan1 O perso1
+L20D22
+ Hey there, Jedar. Enjoying yourself? XXX
+// Guardian1 perso41
+L20D23A
+ Don't ask! XXX
+// Guardian1 perso41
+L20D23B
+ If Dhorkan finds out you weren't there to greet the Great Sunseer, you're gonna be headed for the stockade! XXX
+// Arkhan1 O perso1
+L20D24A
+ Why are we standing in front of this door twiddling our thumbs? XXX
+// Arkhan1 O perso1
+L20D24B
+ Can you tell me that? XXX
+// Arkhan1 O perso1
+L20D25
+ I'm sick of this. I should have been a Sunseer, like my father! XXX
+// Guardian1 perso41
+L20D26A
+ Sunseer? Are you nuts? XXX
+// Guardian1 (a little embarrassed) perso41
+L20D26B
+ Euh... I mean... Sunseer, that's a big deal! XXX
+// Guardian1 perso41
+L20D26C
+ I'm like anyone else. I thank the Sun God every day for bringing us light and heat. XXX
+// Guardian1 perso41
+L20D26D
+ But that doesn't mean I want to waste my time praying in front of the crystal in the Chamber of the Rahal over there... XXX
+// Guardian1 perso41
+L20D26E
+ OH, no. Not me! XXX
+// Arkhan1 O perso1
+L20D27
+ What a pain! XXX
+// Guardian1 perso41
+L20D29
+ Sicko! XXX
+// Arkhan2 L perso2
+L20D30
+ Why don't we settle this right now? XXX
+// Arkhan2 O perso2
+L20D31
+ Let's settle this right now! XXX
+// Arkhan3 L perso3
+L20D32
+ Settle this, now! XXX
+// Arkhan3 O perso3
+L20D33
+ You talk! XXX
+// Lory perso15
+L20D34
+ We can't stay here. Come on. XXX
+// Arkhan2 G perso2
+L20D35
+ But... Great Sunseer... XXX
+// Arkhan3 G perso3
+L20D36
+ Great Sunseer... XXX
+// Lory perso15
+L20D37
+ Listen to me! Come on, lets go! XXX
+// Arkhan2 L perso2
+L20D39
+ Phedoria, what's going on? XXX
+// Arkhan2 O perso2
+L20D40
+ Hey..what's going on? XXX
+// Arkhan3 L perso3
+L20D41
+ Phedoria, tell me! XXX
+// Arkhan3 O perso3
+L20D42
+ Tell me! XXX
+// Phedoria perso26
+L20D43
+ Lory will explain! XXX
+// Arkhan2 G perso2
+L20D44
+ But... Captain... XXX
+// Arkhan3 G perso3
+L20D45
+ Captain... XXX
+// Phedoria perso26
+L20D46
+ Follow us! XXX
+// Arkhan2 L perso2
+L20D100
+ Jazda! It's me, Arkhan! Don't you recognize me? XXX
+// Guardian9 perso49
+L20D101A
+ Arkhan... Yes, it is you... XXX
+// Guardian9 perso49
+L20D101B
+ By the Sun God, Captain Phedoria warned us. XXX
+// Guardian9 perso49
+L20D101C
+ But I didn't think it was this bad. XXX
+// Arkhan2 L perso2
+L20D102
+ Stand aside! Lory sent me! XXX
+// Guardian9 perso49
+L20D103
+ Go on in, we were expecting you. XXX
+// Guardian9 perso49
+L20D105
+ In memory of Arkhan, Guardian of Fire. XXX
+// Arkhan2 O (ill-tempered) perso2
+L20D106
+ Get out of the way, or I'll cut you in two! XXX
+// Guardian9 (furious and frightened) perso49
+L20D107
+ We'll see about that! XXX
+// Arkhan3 L perso3
+L20D108
+ It's me... Arkhan! XXX
+// Guardian9 (nervously) perso49
+L20D111
+ Okay, go ahead... XXX
+// Arkhan2 L perso2
+L20D113
+ It's me, Arkhan! XXX
+// Guardian10 perso50
+L20D114
+ You... you're not a man any more! XXX
+// Guardian10 perso50
+L20D115A
+ Why should the Great Sunseer protect you? You're no longer one of us! XXX
+// Guardian10 perso50
+L20D115B
+ If I were in charge, I'd banish you to the Darklands forever! XXX
+// Arkhan2 L perso2
+L20D116
+ Calm down, my friend, it's me. XXX
+// Guardian10 (aggressively) perso50
+L20D117
+ Get out of my sight before I finish you off for good! XXX
+// Guardian10 perso50
+L20D118
+ I knew it! You're not Arkhan any more! XXX
+// Guardian10 (nervously) perso50
+L20D109
+ We were expecting you... go ahead... XXX
+// Guardian10 perso50
+L20D119
+ Go ahead! Don't just stand there! XXX
+// Arkhan2 G (wanted to leave, changes his mind)perso2
+L20D122A
+ No. What's happening is too serious. XXX
+// Arkhan2 G (wanted to leave, changes his mind)perso2
+L20D122B
+ I must see Lory! XXX
+// Arkhan3 G (wanted to leave, changes his mind)perso3
+L20D123
+ No, this is too serious. I must see Lory! XXX
+// Arkhan1 L perso1
+L20D48
+ You're right... I can't do that. XXX
+// Arkhan1 O perso1
+L20D50
+ Yeah, you're right... XXX
+// Guardian1 perso41
+L20D47
+ No! You can't disturb the Council in the middle of their meeting! XXX
+// Arkhan1 G perso1
+L20D51
+ There's an opening. XXX
+// Arkhan2 G perso2
+L20D52
+ An opening. XXX
+// Arkhan3 G perso3
+L20D53
+ An opening. XXX
+// Arkhan1 G perso1
+L20D57
+ I feel a mechanism inside. XXX
+// Arkhan2 G perso2
+L20D58
+ There's a mechanism inside. XXX
+// Arkhan3 G perso3
+L20D59
+ There's a mechanism in there. XXX
+// Arkhan2 L perso2
+L20D63
+ I must find the metal lever that activates the mechanism. XXX
+// Arkhan3 L perso3
+L20D64
+ I need the metal lever that fits in there. XXX
+// Arkhan2 O perso2
+L20D65
+ It doesn't work! XXX
+// Arkhan3 O perso3
+L20D66
+ Blasted gloom! XXX
+// Arkhan2 L perso2
+L20D67
+ There we go, it's in. XXX
+// Arkhan3 L perso3
+L20D68
+ It's in. XXX
+// Arkhan2 G perso2
+L20D71
+ There... That ought to do it. XXX
+// Arkhan2 G perso2
+L20D87
+ There's something in the opening. XXX
+// Arkhan3 G perso3
+L20D88
+ There's something in there. XXX
+// Arkhan2 G perso2
+L20D89
+ Strange, There's already a peg in it! XXX
+// Arkhan3 G perso3
+L20D90
+ Huh, there's already a peg. XXX
+// Arkhan2 G perso2
+L20D81A
+ No resistance. XXX
+// Arkhan2 G perso2
+L20D81B
+ The mechanism isn't working. XXX
+// Arkhan3 G perso3
+L20D82
+ Something's missing. XXX
+// Arkhan2 G perso2
+L20D85
+ Yes! XXX
+// Arkhan2 G perso2
+L20D93
+ I got it working! XXX
+// Arkhan3 G perso3
+L20D86
+ Yes! XXX
+// Arkhan3 G perso3
+L20D94
+ Now it works! XXX
+// Arkhan2 G perso2
+L20D91
+ Someone got it working before I did! XXX
+// Arkhan3 G perso3
+L20D92
+ Someone did it before me! XXX
+// Arkhan2 O perso2
+L08D251B
+ Don't just stand there with your tongue hanging out! XXX
+// Arkhan1 G perso1
+L20D124A
+ The melodious trumpets of the great solaar. XXX
+// Arkhan1 G perso1
+L20D124B
+ The Sunseers use them for important ceremonies. XXX
+// Arkhan1 L perso1
+L20D125
+ Mmm, their music is magnificent. XXX
+// Arkhan1 O perso1
+L20D126
+ It makes a hell of a racket! XXX
+// Arkhan2 G perso2
+L20D127A
+ The melodious trumpets of the Great Solaar. XXX
+// Arkhan2 G perso2
+L20D127B
+ The Sunseers bring them out for important ceremonies. XXX
+// Arkhan2 L perso2
+L20D128
+ Wonderful music. XXX
+// Arkhan2 O perso2
+L20D129
+ Serious ear-buster! XXX
+// Arkhan3 G perso3
+L20D130A
+ Pretty trumpets. XXX
+// Arkhan3 G perso3
+L20D130B
+ Sunseers use for important ceremonies. XXX
+// Arkhan3 L perso3
+L20D131
+ Music of the Sun God. XXX
+// Arkhan3 O perso3
+L20D132
+ Noisy! XXX
+// Arkhan1 G perso1
+L20D133
+ A metal tree made by the Providers to worship the Sun God. XXX
+// Arkhan2 G perso2
+L20D134A
+ A steel tree made by the Builders. XXX
+// Arkhan2 G perso2
+L20D134B
+ A tribute to the Sun God. XXX
+// Arkhan3 G perso3
+L20D135
+ Steel tree. Tribute to the Sun God. XXX
+// Arkhan1 G perso1
+L20D136
+ Another one of those steel trees. XXX
+// Arkhan2 G perso2
+L20D137
+ Another one of those steel trees. XXX
+// Arkhan3 G perso3
+L20D138
+ Another metal tree. XXX

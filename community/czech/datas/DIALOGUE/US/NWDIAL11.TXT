@@ -1,0 +1,181 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL11.TXT
+ // Palastwächter (nervös) perso32
+L11D01
+ Nechod blíz, ty zasranej! Vra se do Temne Zeme zpet! XXX
+// Palastwächter (wird A. schlagen) perso32
+L11D02
+ Já te varoval! XXX
+// Palastwächter (nervös) perso32
+L11D03
+ Stùj! Ani krok blíz, Vez stavitelù je zavrená! XXX
+// Palastwächter (nervös) perso32
+L11D04
+ Hej, ty! Zmizni! Zde je zavreno! XXX
+// Palastwächter (greift A. an) perso32
+L11D05
+ Zde, to je pro tebe! XXX
+// Palastwächter (zu A., der flüchtet) perso32
+L11D45
+ Vypadni zpet, nebo budeš o hlavu kratší! XXX
+//Arkhan2 G perso2
+L11D06
+ Ne, prichází stráze! XXX
+//Arkhan3 G perso3
+L11D07
+ Ne, prichází on! XXX
+// Arkhan2 L perso2
+L11D08
+ Pust mne dovnitr! Já musím s mistrem stavitelem mluvit, je to dùlezite! XXX
+// Palastwächter perso32
+L11D09
+ Nemozne! Já mám rozkaz: Zde nesmí nikdo dovnitr! XXX
+// Arkhan2 L perso2
+L11D10A
+ Ver mi prece, musím s mistrem stavitelem mluvit. XXX
+// Arkhan2 L perso2
+L11D10B
+ To je snad prostredek, kterı nás všechny zachrání! XXX
+// Palastwächter perso32
+L11D11A
+ Jsi hluchı? Zádnı cizinec nesmí dovnitr. XXX
+// Palastwächter perso32
+L11D11B
+ Predevším nikdo s takovımhle ksichtem! XXX
+// Arkhan2 L perso2
+L11D12
+ Poslouchej mne, já vím, ze byl vyhlášen poplach, ale já ti prísahám, já nechci mistrovi staviteli nic udelat. XXX
+// Palastwächter perso32
+L11D13A
+ To stací jiz! Mistr Bandor delá dùlezitejší veci, nez aby s tebou mluvil! XXX
+// Palastwächter perso32
+L11D13B
+ Jdi mi z ocí nebo tebe propíchnu! XXX
+// Arkhan2 L perso2
+L11D14
+ My mohli bychom to nejak z aranzovat nemyslíš? XXX
+// Palastwächter perso32
+L11D14A
+ Ne, my nemùzeme nic z aranzovat! XXX
+// Palastwächter perso32
+L11D14B
+ Já zùstávám zde a umírám hlady, a ty zmizni! XXX
+// Arkhan2 L perso2
+L11D15A
+ Já rozumím, ty posloucháš rozkaz.  XXX
+// Arkhan2 L perso2
+L11D15B
+ Ale ty vypadáš zcela vycerpane a vyhladovele. Já mohl bych snad nejak pomoci ... XXX
+// Palastwächter perso32
+L11D16A
+ Ano, mùj zalùdek krucí tak hlasite, ze je slyset az do ríše Temne Zemne. XXX
+// Palastwächter perso32
+L11D16B
+ Nemysli si ale, ze já kvùli tomu moje místo opustím! XXX
+// Arkhan2 L perso2
+L11D17A
+ Nedelej si starosti, já nemám v ùmyslu, dovnitr jít, kdyz mne to nedovolíš.   XXX
+// Arkhan2 L perso2
+L11D17B
+ Ale u všeho, co se zde prihodí, mel by clovek svoje síly šetrit, nebo myslíš jinak?   XXX
+// Arkhan2 L perso2
+L11D17C
+ Pokud ty se napríklad nenajíš, budeš nepozornı. XXX
+// Palastwächter perso32
+L11D18A
+ To máš pravdu. Já si od pocátku dne nic nevzal. XXX
+// Palastwächter perso32
+L11D18B
+ Nemáš náhodou u sebe neco k zakousnutí? XXX
+// Arkhan2 L perso2
+L11D19
+ Já se podívám, zdali já cosi mám ... XXX
+// Arkhan2 L perso2
+L11D20
+ Necháš mne nyní projít skrz? XXX
+// Palastwächter perso32
+L11D21A
+ Trpíš ty snad zatmením mozku, nebo co? Ne jsem rekl! XXX
+// Palastwächter (spuckend) perso32
+L11D21B
+ Arhhh, tvım jídlem mne v krku vyschlo! XXX
+// Arkhan2 O perso2
+L11D22
+ Jdi na stranu, já musím s mistrem stavitelem mluvit! XXX
+// Palastwächter perso32
+L11D23A
+ Nazer se bahna Temne Zeme, krysí ksichte! XXX
+// Palastwächter perso32
+L11D23B
+ Zde nesmí nikdo dovnitr! Rozumíš! XXX
+// Arkhan2 O (spielt den starken Mann) perso2
+L11D24A
+ Já myslím, ze ty mi nerozumíš, prítelícku. XXX
+// Arkhan2 O (spielt den starken Mann) perso2
+L11D24B
+ Ty zmizíš nyní a já jdu nahoru! XXX
+// Palastwächter perso32
+L11D25
+ To se uvidí! XXX
+// Arkhan2 G perso2
+L11D26
+ Necháš mne, kdyz já ti to zde dám? XXX
+// Palastwächter perso32
+L11D27
+ Ah, to je deka! Zmizni nebo ti vybrousím hubu! XXX
+// Palastwächter perso32
+L11D28
+ Vzdej to, zde neprojde nikdo, nic rozumíš! XXX
+// Arkhan2 G perso2
+L11D29
+ Zde, to tvùj hlad utiší. XXX
+// Palastwächter perso32
+L11D30
+ Ano, dej to sem! XXX
+// Palastwächter (kauend) perso32
+L11D31
+ U tisíce sluncí, mùj príteli! To mi delá dobre.  XXX
+// Palastwächter (kauend) perso32
+L11D32
+ Hmm, ano, to chutná! XXX
+// Palastwächter (kauend) perso32
+L11D33
+ Z toho se pokojská sotva nají! XXX
+// Palastwächter (kauend) perso32
+L11D34
+ Vec zde prináší memu zaludku svetlo! XXX
+// Palastwächter (hat heruntergeschluckt) perso32
+L11D35
+ To je ale slane ... XXX
+// Arkhan2 G perso2
+L11D36
+ Zde já to našel. Chtel bys to sníst? XXX
+// Palastwächter perso32
+L11D37A
+ Bastarde Temne Zeme, ty deláš mi radost! XXX
+// Palastwächter perso32
+L11D37B
+ Já te do poklusu privedu! XXX
+// Arkhan2 G perso2
+L11D38
+ Zde, vezmi si lok z flašky. XXX
+// Palastwächter perso32
+L11D39
+ Neríkám ze ne! XXX
+// Palastwächter perso32
+L11D40A
+ Ale ona je prázdná! XXX
+// Palastwächter perso32
+L11D40B
+ Ty mne za nos vodíš! XXX
+// Palastwächter perso32
+L11D42A
+ U boha Slunce, ty jsi skutecne zasran! XXX
+// Palastwächter perso32
+L11D42B
+ Já nemám zízen, já mám hlad! XXX
+// Arkhan2 G perso2
+L11D43
+ Jeho svatost je jasná!  XXX
+// Arkhan3 G perso3
+L11D44
+ Jeho zbraò je rozbitá! XXX

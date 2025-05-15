@@ -1,0 +1,37 @@
+Début du fichier F:\DEV\DKE\DATAS\DIALOGUE\IT\NWDIAL40.TXT
+ // Arkhan3 G (cotto) perso3
+L40D07A
+Uh... Che volo... XXX
+// Arkhan3 G (cotto) perso3
+L40D07B
+Le mie ossa... sono in briciole... XXX
+// Arkhan3 G perso3
+L40D04A
+Questo è... Il... Sepolcro... XXX
+// Arkhan3 G perso3
+L40D04B
+Ci sono... L'ho trovato! XXX
+// Arkhan3 G perso3
+L40D05A
+Il male... Il mio corpo... brucia... XXX
+// Arkhan3 G perso3
+L40D05B
+Devo fare... presto! XXX
+// Arkhan3 G perso3
+L40D01
+Dei rilievi... Questo è stato scolpito da uomini... Molto tempo fa... XXX
+// Arkhan3 G perso3
+L40D02
+Un'immensa catena tagliata nella pietra. XXX
+// Arkhan3 G perso3
+L40D03
+La pietra è calda... XXX
+// Arkhan3 G perso3
+L40D06A
+Dei frammenti di pietra... XXX
+// Arkhan3 G perso3
+L40D06B
+Solo frammenti... XXX
+// Arkhan3 G perso3
+L40D08
+I resti dell'elica... XXX

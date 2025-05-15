@@ -1,0 +1,565 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL10.TXT
+ // Kalhi perso33
+L10D64A
+ V okamziku je Bùh Slunce ješte u nás! XXX
+// Kalhi perso33
+L10D64B
+ Nyní musíme Strázce ohne oklamat. XXX
+// Kalhi perso33
+L10D64C
+ On te nikdy dolù nepustí, se mnou nebo beze mne. XXX
+// Prediger1 perso18
+L10D78A
+ My knezí jsme nástroji Boha Slunce.  XXX
+// Prediger1 perso18
+L10D78B
+ On mluví našimi ùsty a vidí našima ocima. XXX
+// Prediger1 perso18
+L10D78C
+ Dnes nás vyzval, odolat Temne Zemi! XXX
+// Prediger1 perso18
+L10D78D
+ Neverící, kterí Temnou Zemi mají v srdci zasetou, to s jejich krví zaplatí! XXX
+// Prediger1 perso18
+L10D78E
+ Jdete nyní, Strázci ohne, a nezapomente svojí svatou misi: Jste zbraní, ktere našeho Slunecního otce chrání! XXX
+// Prediger1 perso18
+L10D78F
+ Vy budete ty zahánet, kterí se mimo Stallit Temne Zemi upsali. XXX
+// Prediger1 perso18
+L10D78G
+ Dejte vaše svate slovo. XXX
+// Alle Hüter des Feuers perso55
+L10D79
+ Prísaháme! XXX
+// Kalhi perso13
+L10D127
+ Arkhane! Skoro si mne zranil! XXX
+// Kalhi perso13
+L10D128
+ Pojd nyní, necekej me zde! XXX
+// Kalhi perso33
+L10D57
+ U teto prílezitosti já take tuto hroznou uniformu vytáhnu! XXX
+// Arkhan2 G perso2
+L10D51
+ Málem mne dostal! XXX
+// Arkhan3 G perso3
+L10D52
+ Mnoho nechybelo... XXX
+// Kalhi perso13
+L10D53
+ Mela jsem strach o tebe! XXX
+// Arkhan2 G perso2
+L10D54
+ Jiz dobre ... Já jsem ješte tu! XXX
+// Arkhan3 G perso3
+L10D55
+ Jdeme jiz... XXX
+// Kalhi perso13
+L10D56
+ Jedme my nyní rychle dolù, dríve nez jich více prijde! XXX
+// Arkhan2 G perso2
+L10D80A
+ Prokletý knez! XXX
+// Arkhan2 G perso2
+L10D80B
+ S jeho príbehama o príšerách Temne Zeme mne ješte zabije! XXX
+// Arkhan3 G perso3
+L10D81A
+ Prokletý knez! XXX
+// Arkhan3 G perso3
+L10D81B
+ On mne ješte zabije! XXX
+// Zed84 (A. hat zwei Hüter des Feuers umgebracht) perso84
+L10D01A
+ Arkhane! Zùstan stát, zrádce! XXX
+// Arkhan 1 L perso1
+L10D96
+ Nerozciluj se, Zed, já vím, co delám! XXX
+// Arkhan 1 O perso1
+L10D97
+ A co zamýšlíš? Mne usmrtit? XXX
+// Zed84 perso84
+L10D01B
+ Nedáváš mi jinou moznost! XXX
+// Zed (niedergeschlagen, weil er A. töten mußte) perso84
+L10D30
+ Povinnost je casto strašná vec, mùj príteli. XXX
+// Rylsadhar perso20
+L10D05A
+ Ne, Velká knezko, nemám cas, tohoto shromázdení se zùcastnit. XXX
+// Rylsadhar perso20
+L10D05B
+ Ver mi, nejaká hrozba lezí nad Spartou.  XXX
+// Rylsadhar perso20
+L10D05C
+ Naše mesto je v nebezpecí, cítím to.  XXX
+// Rylsadhar perso20
+L10D05D
+ Vy víte, ze moje vize se ukázali vzdy jako pravdive ...  XXX
+// Rylsadhar perso20
+L10D05E
+ Prosím Vás o to: Nechte mne v mojich výzkumech pokracovat. XXX
+// Lory perso15
+L10D06
+ Ale Rylsadhari, z ceho máš strach? XXX
+// Rylsadhar perso20
+L10D07A
+ Z Temne Zeme, Velká Knezko, z Temne Zeme, která nás obtácí.  XXX
+// Rylsadhar perso20
+L10D07B
+ Temná Zeme stojí pred dvermi ... ona snad jiz vnikla do zdí našeho mesta ... XXX
+// Lory perso15
+L10D08
+ Tvá slova mne zneklidnují, Rylsadhare. Bud opatrný. XXX
+// Rylsadhar perso20
+L10D09
+ Vezmi toto na sebe. Je to lepší, nez ho u mne nosit. To bude bezpecnejší. XXX
+// Lory perso15
+L10D10
+ Svetlo s tebou, mùj príteli! XXX
+// Rylsadhar perso20
+L10D11
+ Svetlo s tebou, Lory! XXX
+// Arkhan1 G perso1
+L10D12A
+ Mùj otec a Lory, Velká knezka, v nejakem rozhovoru. XXX
+// Arkhan1 G perso1
+L10D12B
+ Vypadají velmi starostlive. XXX
+// Hüter des Feuers8 (belädt ein schweres Fahrzeug) perso1
+L10D29A
+ Pozor! XXX
+// Hüter des Feuers2 (belädt ein schweres Fahrzeug) perso1
+L10D29B
+ Jdi nyní! XXX
+// Hüter des Feuers16 (belädt ein schweres Fahrzeug) perso1
+L10D29C
+ Zvedáme! XXX
+// Hüter des Feuers8 (belädt ein schweres Fahrzeug) perso1
+L10D29D
+ Táhnem! XXX
+// Hüter des Feuers2 (belädt ein schweres Fahrzeug) perso1
+L10D29E
+ Rychle! XXX
+// Hüter des Feuers16 (belädt ein schweres Fahrzeug) perso1
+L10D29F
+ Zvedáme! XXX
+// Hüter des Feuers8 (belädt ein schweres Fahrzeug) perso1
+L10D29G
+ Ho... Nahoru s tím! XXX
+// Hüter des Feuers2 (belädt ein schweres Fahrzeug) perso1
+L10D29H
+ Pfff! XXX
+// Hüter des Feuers16 (belädt ein schweres Fahrzeug) perso1
+L10D29I
+ Hned budeme! XXX
+// Hüter des Feuers15 perso55
+L10D35
+ Chcípneš, nestvùro! XXX
+// Hüter des Feuers15 perso55
+L10D34
+ Alarm! Alarm! Zde je nesvùra! XXX
+// Kalhi (hat gerade die Kleidung angezogen) perso33
+L10D129A
+ To se mi docela hodí! XXX
+// Kalhi perso33
+L10D129B
+ Já doufám, s tím mohli bychom je oklamat ... XXX
+// Kalhi perso13
+L10D98
+ Arkhane! U Boha slunce, tak pospeš si prece! XXX
+// Kalhi perso13
+L10D99
+ Pokud zde zùstaneme, zpozorujou nás! XXX
+// Kalhi perso13
+L10D999
+ Arkhane, nezùstávejme zde! XXX
+// Kalhi perso13
+L10D42
+ Arkhane! pockej prece! XXX
+// Kalhi perso13
+L10D32
+ Arkhane, mám nápad. XXX
+// Kalhiperso13
+L10D37A
+ Pokusím se, Strázce ohne odvrátit, abychom se z plošiny dostali dolù. XXX
+// Kalhiperso13
+L10D37B
+ Mezitím prijdeš ty nenápadne blíz a zabiješ ho. XXX
+// Kalhi perso33
+L10D50
+ Zùstan v krytu a nech pracovat specialisti! XXX
+// Kalhi perso13
+L10D73
+ Strázci ohne! Domnívám se ze se prihodila hrozná vec ve Velke hale! XXX
+// Hüter des Feuers15 (mißtrauisch) perso55
+L10D74
+ Kdo jsi? XXX
+// Kalhi perso13
+L10D75
+ Dhorkan mne posílá! Utok! Rychle! XXX
+// Hüter des Feuers15 (mißtrauisch) perso55
+L10D76
+ Co ty tu vyprávíš? XXX
+// Kalhi perso33
+L10D38A
+ Strázce ohne! Na co cekáš? XXX
+// Kalhi perso33
+L10D38B
+ Ty a Strázce ohne... ehm... Kalhi máte do sálu Rahaly jít. XXX
+// Hüter des Feuers15 (überrumpelt) perso55
+L10D39
+ Co? O tom mi ale nikdo nic nerekl! XXX
+// Kalhi perso33
+L10D40
+ Pospeš si! Dhorkan je špatne naladený! XXX
+// Hüter des Feuers15 (ängstlich) perso55
+L10D41
+ Dhorkan! Tedy dobre ...jdu jiz! Díky. XXX
+// Hüter des Feuers15 (mißtrauisch)perso55
+L10D77
+ To pripadá mi komicke. Zde to vypadá všechno normální ... XXX
+// Kalhi perso13
+L10D43
+ Arkhane! Pozor! XXX
+// Arkhan2 G perso2
+L10D47
+ Udelala jsi to fantasticky! XXX
+// Arkhan3 G perso3
+L10D48
+ Fantastický! XXX
+// Kalhi perso33
+L10D49
+ Díky. Ale myslela jsem si, ze to bude lepší, kdyz zde nikoho nezabijeme. XXX
+// Kalhi (fassungslos) perso13
+L10D103
+ Arkhane! Jsi to jiz opet! XXX
+// Kalhi (fassungslos) perso13
+L10D104
+ Který demon se te zmocnil? XXX
+// Kalhi (weint fast) perso13
+L10D105
+ To byl tento prokletý jed, nebo? XXX
+// Kalhi (fassungslos) perso13
+L03D500A
+ Arkhane! Ty ... Proc jsi to udelal? XXX
+// Delia (von Arkhan angegriffen) perso10
+L03D09
+ Ty jsi se zbláznil! XXX
+// Kalhi perso13
+L10D109A
+ Schovám se vzadu za vozem, aby bylo videt, co strázce ohne na plošine delá. XXX
+// Kalhi perso13
+L10D109B
+ Pracuj rychle, brzo zjistí, ze jsem zmizela. XXX
+// Arkhan2 G perso2
+L10D02A
+ Cekej zde. Jsem hned zpátky. XXX
+// Arkhan3 G perso3
+L10D02B
+ Jsem hned zpátky. XXX
+// Delia perso10
+L10D03A
+ Pospeš si ale! XXX
+// Delia perso10
+L10D03B
+ Já necítím se zde bezpecná ... XXX
+//Arkhan2 G perso2
+L11D06
+ Ne, prichází stráze! XXX
+//Arkhan3 G perso3
+L11D07
+ Ne, prichází! XXX
+// Arkhan1 L perso1
+L10D16
+ Zed! Copak zde deláš? XXX
+// Arkhan1 O perso1
+L10D18A
+ Zed! Jseš jiz vycerpanej od tveho cvicení? XXX
+// Arkhan1 O (anzüglich) perso1
+L10D18B
+ Nebo máš strach, aby te Phedorie  ... nevyzvala k souboji? XXX
+// Zed perso84
+L10D19
+ Chceš se jiste utišit! XXX
+// Zed perso84
+L10D17A
+ My vyzdvihnem nahoru stroj, který tvùj prítel, smeták, dole opravil. XXX
+// Zed perso84
+L10D17B
+ Já hlídám akci, to je všechno. XXX
+// Zed perso84
+L10D70
+ Všechno v porádku dole? XXX
+// Zed perso84
+L10D71
+ Jdete jiz, snazte se trochu! XXX
+// Zed perso84
+L10D72
+ Hned to udelejte! XXX
+// Arkhan1 L perso1
+L10D20
+ Co je to za stroj? XXX
+// Arkhan1 O perso1
+L10D22
+ Jiz opet jedna z tech certích mašin! XXX
+// Zed perso84
+L10D21A
+ To je pancerový stroj, který já na mojí poslední expedeci pouzíval. XXX
+// Zed perso84
+L10D21B
+ U posledního návratu byl ve hroznem návratu.  XXX
+// Zed perso84
+L10D21C
+ Stavitele se o nej nepostarali, ale tvùj prítel Danrys ho opravil. XXX
+// Arkhan1 L perso1
+L10D24A
+ Mel bys zùstat u nás a odpocinout si. XXX
+// Arkhan1 L perso1
+L10D24B
+ Nepotrebuješ se prece opet vracet hned do Temne Zeme. XXX
+// Arkhan1 O perso1
+L10D26A
+ Co te vlastne nutí, tvùj cas v ríši Temne Zeme trávit? XXX
+// Arkhan1 O perso1
+L10D26B
+ Tam je prece jen poušt a prázdne! XXX
+// Zed (geheimnisvoll) perso84
+L10D25A
+ Ver mi, Arkhane, mám dùvody. XXX
+// Zed (geheimnisvoll) perso84
+L10D25B
+ Ríše Temne Zeme je mene pustá a prázdná, nez se verí. XXX
+// Zed perso84
+L10D25C
+ Bez, zaujmi svoje místo ... XXX
+// Zed (wird von Arkhan angegriffen) perso84
+L10D27
+ Arkhane! co se s tebou deje?!  XXX
+// Arkhan2 G perso2
+L10D88
+ Tento klíc to není! XXX
+// Arkhan3 G perso3
+L10D89
+ Ne ten správný klíc! XXX
+// Arkhan2 G perso2
+L10D90
+ Já to nedokázal! XXX
+// Arkhan3 G perso3
+L10D91
+ Já to nedokázal! XXX
+// Arkhan2 G perso2
+L10D84
+ Musím ty mríze otevrít. XXX
+// Arkhan3 G perso3
+L10D85
+ Musím ty mríze otevrít! XXX
+// Arkhan1 L perso1
+L10D04A
+ Tato studna je jiz mesíce skoro prázdná.  XXX
+// Arkhan2 L perso2
+L10D04B
+ Studna je skoro prázdná. XXX
+// Arkhan3 L perso3
+L10D04C
+ Skoro prázdný. XXX
+// Arkhan1 O perso1
+L10D666
+ Tato zatracená studna nemela nikdy dost vody! XXX
+// Arkhan2 O perso2
+L10D667
+ Prokletá studna! Je skoro prázdná! XXX
+// Arkhan3 Operso3
+L10D668
+ Prokletá studna! XXX
+// Arkhan2 G perso2
+L10D86
+ Zde není zádný zámek! XXX
+// Arkhan3 G perso3
+L10D87
+ Tu není zádný zámek! XXX
+// Arkhan1 L perso1
+L10D67
+ Všechno jasný dole? XXX
+// Arkhan1 L perso1
+L10D68
+ Hej, slyšíte mne? XXX
+// Arkhan1 O (verspottet die Arbeiter weiter unten) perso2
+L10D69A
+ (Lachen) XXX
+// Arkhan1 O perso2
+L10D69B
+ Oni udrou se k smrti, zatímco já mám líný jaro! XXX
+// Arkhan2 G perso2
+L10D13A
+ Nyní jsme v Horním meste. XXX
+// Arkhan2 G perso2
+L10D13B
+ Nyní se jiz dobre pùjde. XXX
+// Arkhan3 G perso3
+L10D13C
+ Jsme v Horním meste. XXX
+// Arkhan3 G perso3
+L10D13D
+ Jdeme jiz. XXX
+// Delia (nicht überzeugt) perso10
+L10D14
+ Ano. Jdeme rychle za Bogdaranem.  XXX
+// Delia (Arkhan zeigt ihr einen Gegenstand) perso10
+L10D92
+ Nezùstávejme zde, Arkhane! XXX
+// Arkhan2 G (Delia oder Kalhi schlagen ihn) perso2
+L10D93
+ Nemáš šanci, zlatícko! XXX
+// Arkhan3 G (Delia oder Kalhi schlagen ihn) perso3
+L10D94
+ Hned, mùj poklade! XXX
+// Delia (von Arkhan geschlagen) perso10
+L10D95
+ Ne, ty jsi se pomátl, dávej pozor! XXX
+// Arkhan2 G perso2
+L10D58
+ Falls es schief geht, bez jak rychle mùzeš za Danrysem, rozumnela jsi mi? XXX
+// Arkhan3 G perso3
+L10D59
+ Falls es schief geht, bez jak nejrychleji mùzeš k Danrysovi! XXX
+// Kalhi perso13
+L10D60
+ Rozumím, ale dávej pozor na sebe! XXX
+// Arkhan2 G perso2
+L10D61A
+ Strázce ohne na plošine je houzevnatý mladík.  XXX
+// Arkhan2 G perso2
+L10D61B
+ Nebude to jednoduche! XXX
+// Arkhan3 G perso3
+L10D62
+ Ten na plošine je houzevnatý jinoch.  XXX
+// Kalhi perso13
+L10D63
+ Musíme najít nejaký trik, abychom ho obešli ... XXX
+// Arkhan2 G perso2
+L10D65
+ Rychle, jdeme! XXX
+// Arkhan3 G perso3
+L10D66
+ Tedy rychle! XXX
+// Arkhan2 G perso2
+L10D100
+ Kalhi, znáš to? XXX
+// Arkhan3 G perso3
+L10D101
+ Kalhi, podívej se. XXX
+// Kalhi (A. zeigt ihr einen Gegenstand) perso13
+L10D102
+ Není cas, Arkhane. Musíme nyní dolù! XXX
+// Arkhan2 G perso2
+L03D518
+ Podívej se! To je Bogdaranova stará uniforma ... XXX
+// Arkhan2 G perso2
+L03D519
+ Dríve nez mel bricho! XXX
+// Arkhan3 G perso3
+L03D520
+ Oblekni si to. XXX
+// Kalhi perso13
+L03D521
+ Dobre, pokusím se ... XXX
+// Kalhi (unruhig) perso13
+L10D106
+ Arkhane! Uklidni se! XXX
+// Kalhi (verängstigt) perso13
+L10D107
+ Dávej pozor! XXX
+// Kalhi (ist gezwungen, sich zu wehren) perso13
+L10D108
+ Promin mi! XXX
+// Arkhan2 G perso2
+L10D44
+ Co zamýšlíš? XXX
+// Arkhan3 G perso3
+L10D45
+ Co chceš delat? XXX
+// Kalhi perso33
+L10D46
+ Dùveruj mi, já pripravila tohoto Strázce ohne o krk. XXX
+// Arkhan2 G perso2
+L10D130A
+ Oblekni se, to je Bogdaranova stará uniforma. XXX
+// Arkhan2 G perso2
+L10D130B
+ Dríve nez ztloustl a zešpekovatel! XXX
+// Arkhan3 G perso3
+L10D131
+ Oblekni se! XXX
+// Kalhi  perso13
+L10D132
+ Ok, pokusím se... XXX
+// Arkhan2 G perso2
+L10D110
+ Hej, posloucháš mne? Halt die Ohren steif! XXX
+// Hüter des Feuers1 (sterbend)perso41
+L10D112A
+ Príliš pozde .. Oni jsou tu ... príliš mocný ... nemùzem nic delat... XXX
+// Hüter des Feuers1 (letzter Seufzer)perso41
+L10D112B
+ Temná Zeme ... pro vzdy... XXX
+// Arkhan3 G perso3
+L10D111
+ Posloucháš mne? Hej! XXX
+// Hüter des Feuers1 (sterbend)perso41
+L10D113A
+ Vrátil jsi se, abys mne usmrtil ... Kreaturo ... XXX
+// Hüter des Feuers1 (letzter Seufzer)perso41
+L10D113B
+ Není treba ... moje místo je jiz u ... Boha Slunce ... XXX
+// Arkhan2 L perso2
+L10D114A
+ Pokud tato nestvùra se az sem dostala, pak jsou jiz jiste jiz všude. XXX
+// Arkhan2 L perso2
+L10D114B
+ Musím najít hrobku, vrátit svetlo! XXX
+// Arkhan3 L perso3
+L10D115A
+ Tyto nestvùry jsou jiz všude! XXX
+// Arkhan3 L perso3
+L10D115B
+ Musím najít hrobku! Svetlo prinest! XXX
+// Arkhan2 O perso2
+L10D116
+ Lepe zemrít, nez tu zùstat! XXX
+// Arkhan 3O perso3
+L10D117
+ Radeji zemrít, nez tak vypadat! XXX
+// Arkhan2 L perso2
+L10D118A
+ Ubohý Tharek... XXX
+// Arkhan2 L perso2
+L10D118B
+ Nestvùra mu zádnou šanci nedala. XXX
+// Arkhan3 L perso3
+L10D119
+ Chudák Tharek ... XXX
+// Arkhan2 L perso2
+L10D120
+ Príliš mrtvých ... Musím svetlo do Sparty opet prinest. XXX
+// Arkhan3 L perso3
+L10D121
+ Mnoho mrtvých ... Svetlo musím prinest! XXX
+// Arkhan2 L perso2
+L10D122A
+ To je Broos! XXX
+// Arkhan2 L perso2
+L10D122B
+ Jeden z mých nejlepších prátel ... XXX
+// Arkhan3 L perso3
+L10D123
+ Broos ... take on je mrtvý ... XXX
+// Arkhan2 L perso2
+L10D124
+ Tomuto krveprolití musím ucinit konec! XXX
+// Arkhan3 L perso3
+L10D125
+ Musím tomuto masakru konec ucinit! XXX

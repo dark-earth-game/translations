@@ -1,0 +1,166 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL34.TXT
+ // Konkalite7 perso77
+L34D777
+ Ew na[| iZ fomfd kjlo[dh! XXX
+// Konkalite7 perso77
+L34D778
+ Kw haln]ar! XXX
+// Thanandar perso24
+L34D100A
+ KZf-nZf. Cnj f iZh kjbZgj]Zg! Jwijf IdgmZ_ZlZ! XXX
+// Thanandar perso24
+L34D100B
+ K]jd gz_d ia jmj[j lZc[jlsd]w, komfZ| fj^j kjkZgj! XXX
+// Sordos perso23
+L34D101
+ Gi njba cZlZb~i! XXX
+// Thanandar perso24
+L34D102A
+ +Z. Fj o hai| a^j kZkZtZ, d ji hia [jgxta id f saho! XXX
+// Thanandar perso24
+L34D102B
+ L[ae a^j! XXX
+// Sordos perso23
+L34D40A
+ +Z]Ze kj_klZ]dh n]jz hjl_Ztfo! XXX
+// Sordos perso23
+L34D40B
+ &j hia kljkZ_Zan jngdsiwe mfogxknjl! XXX
+// Sordos perso23
+L34D04A
+ Nl-l-l (mkgziog) XXX
+// Sordos perso23
+L34D04B
+ Fa mnZio mlZco na[| o[d]Znx. $wgj [ mgdtfjh kljmnj! XXX
+// Sordos perso23
+L34D04C
+ Ia[|nZ kld^jnj]dgd o^juaida. XXX
+// Sordos perso23
+L34D04D
+ Cj^_Z nw a^j jn]a_Zatx, mZh [o_atx hjgdnx j mhalnd! XXX
+// Sordos (surprised to find Arkhan at his headquarters)perso23
+L34D38
+ Ve! CZfdh ynj ]anljh na[| cZiamgj?! XXX
+// Sordos perso23
+L34D39
+ Gn]asZe, ^id_Z! Agd | na[a |cwf ]wl]o! XXX
+// Thanandar perso24
+L34D201
+ Lhld, iamsZmniwe! XXX
+// Arkhan2 L perso2
+L34D05
+ KZiZi_Zl! Pnj ]m~ ynj ciZsdn? XXX
+// Arkhan2 O perso2
+L34D06
+ KZiZi_Zl, ^l|ciwe kla_Znagx, nw g^Zg hia! XXX
+// Arkhan3 G perso3
+L34D07
+ KZiZi_Zl! Hla_Znagx! XXX
+// Thanandar (disappointed)perso24
+L34D200A
+ Kw nZf ba ^gok, fZf d jmnZgxiwa. Kw jnfZcZgm| kldi|nx Kaix! XXX
+// Thanandar perso24
+L34D200B
+ FZ^lZ_Z _olZfZh - mhalnx! XXX
+// Sordos perso23
+L34D202
+ X o na[| ]wl]o mal_ra! XXX
+// Arkhan2 L perso2
+L34D13
+ Kw njn ]mamdgxiwe Jjl_jm? XXX
+// Arkhan2 O perso2
+L34D14
+ Ve, ynj nw fjljgx ynje iZ]jcije fosd? XXX
+// Arkhan3 L perso3
+L34D15
+ Vnj nw Jjl_jm? XXX
+// Arkhan3 O perso3
+L34D16
+ Ej| bdcix - ynj moude Z_! Ac-cZ na[|! HjlZ kgZndnx! XXX
+// Sordos (menacingly) perso23
+L34D17A
+ Fa ciZz ob, dc-kj_ fZfj^j fZhi| nw ]wkjgc, ij | ciZz j_ij: XXX
+// Sordos (menacingly) perso23
+L34D17B
+ | lZc[alo na[| kj sZmn|h d ]amx iZ[jl jnklZ]gz j[lZnij! XXX
+// Arkhan2 L perso2
+L34D22
+ Kw Jjl_jm? +jlfZi kjmgZg hai|. XXX
+// Sordos (aggressively) perso23
+L34D23
+ +jlfZi, _Z? A snj ia nZf? XXX
+// Arkhan2 L perso2
+L34D24
+ Gi jsaix ia_j]jgai, snj nw ]m~ kjlndtx. XXX
+// Sordos (speaking then stopping)perso23
+L34D25
+ &jn nZf?! Fo nZf kala_Ze m]jaho +jlfZio, snj[w ji... XXX
+// Arkhan2 O (stupidly)perso2
+L34D27
+ Ve, Jjl_jm! L hai| kjmgZida jn +jlfZiZ. XXX
+// Arkhan2 O perso2
+L34D28A
+ Gi kljmdg kala_Znx na[a, snj nw kljmnj kZltd]we ]jizsde homjludf! XXX
+// Arkhan2 O perso2
+L34D28B
+ A qjnag [w, snj[ nw m_jq ] m]jae ]jizsae ijla. XXX
+// Sordos (enraged) perso23
+L34D29
+ Pnj?! XXX
+// Sordos (suddenly realizing who Arkhan is) perso23
+L34D26A
+ Ve, | na[| ciZz. Kw njn d_djn, kldflw]tde m]jdh nagjh Djld! XXX
+// Sordos (cruelly)perso23
+L34D26B
+ IZ_ na[| ]d_anx. X fZf lZc dmfZg iZ fjh [w cgj mjl]Znx! XXX
+// Arkhan3 L (menacingly) perso3
+L34D30
+ Jjl_jm... +jlfZi kjmgZg hai|! XXX
+// Arkhan3 L perso2
+L34D31
+ JfZcZnx, snj n]je sZm iZmnZg! XXX
+// Sordos perso23
+L34D41
+ >Z_ohZg mZhjo[demn]j, homjludf? XXX
+// Arkhan2 G perso2
+L04D44
+ Vnj ia njn fgzs! XXX
+// Arkhan3 G perso3
+L04D45
+ Fa njn fgzs! XXX
+// Arkhan2 L perso2
+L34D34
+ FZ ]d_ ia mgdtfjh-nj o_j[iZ. XXX
+// Arkhan2 O perso2
+L34D35
+ Fa [o_o | iZ ynjh mkZnx! XXX
+// Arkhan3 G perso3
+L34D36
+ Fao_j[iZ|! XXX
+// Arkhan2 L (examining a pipe)perso2
+L34D500
+ $jgxtZ| lbZ]Z| nlo[Z. XXX
+// Arkhan3 L (examining a pipe)perso3
+L34D501
+ IbZ]Z| nlo[Z. XXX
+// Arkhan2 L (examining the grate)perso2
+L34D506
+ JnZgxiZ| lat~nfZ. XXX
+// Arkhan3 L (examining the grate)perso3
+L34D507
+ K|b~gZ| lat~nfZ. XXX
+// Arkhan2 G perso2
+L34D502
+ $jgxtda [jsfd. Hjqjba, komnwa. XXX
+// Arkhan3 G perso3
+L34D503
+ $jsfd... Homnwa. XXX
+// Arkhan2 G perso2
+L34D504A
+ GkljfdionZ| [jsfZ tnjggZ. XXX
+// Arkhan2 G perso2
+L34D504B
+ G^j! Vnd fjifZgdnw d ]klZ]_o ^jlZc_w kdnx! XXX
+// Arkhan3 G perso3
+L34D505
+ $jsfZ tnjggZ. P~ln! Homnj. XXX

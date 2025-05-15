@@ -1,0 +1,16 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\SP\NWDIAL44.TXT
+ // Arkhan3 O perso3
+L41D15
+ ¡¿Qué es este lugar?! XXX
+// Arkhan3 L perso3
+L41D05
+¡Está cerrado! Es preciso seguir avanzando. XXX
+// Arkhan3 O perso3
+L41D06
+¡Atrapado como una rata! XXX
+// Arkhan3 L perso3
+L41D07
+No hay forma de abrir... XXX
+// Arkhan3 O perso3
+L41D08
+¡Nada que hacer! ¡Atrapado! XXX

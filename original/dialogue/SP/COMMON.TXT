@@ -1,0 +1,809 @@
+// DIALOGUES COMMON.TXT
+// Dial libre : LCOD96
+
+
+                // INTENTA BEBER DE UN RECIPIENTE VACIO //
+
+// Arkhan1 G
+LCOD41
+¡No queda ni una gota! XXX
+
+// Arkhan2 G
+LCOD42
+¡Está seco! XXX
+
+// Arkhan3 G
+LCOD43
+¡Vacío! XXX
+
+
+                // ESCAFANDRA (NO QUIERE PONERSELA) //
+
+// Arkhan2 G
+LCOD666
+¡No voy a utilizar esto aquí! XXX
+
+// Arkhan3 G
+LCOD667
+¡Aquí no! XXX
+
+                // ESCAFANDRA (SE LA QUITA FUERA DEL AGUA) //
+
+// Arkhan2 G (respira una gran bocanada)
+LCOD668
+¡Ah, respiro! XXX
+
+// Arkhan3 G (respira una gran bocanada)
+LCOD669
+¡Ah, aire! XXX
+
+
+                // ESCAFANDRA (QUIERE QUITARSELA EN EL AGUA) //
+
+// Arkhan2 G 
+LCOD670
+No, no puedo quitarme esto bajo el agua... XXX
+
+// Arkhan3 G
+LCOD671
+No, bajo el agua no. XXX
+
+
+                // ESCAFANDRA (ARKHAN NO SE PONE EL CASCO) //
+
+// Arkhan2 G 
+LCOD672
+No, no necesito esto... metido ahí no veré nada. XXX
+
+// Arkhan3 G
+LCOD673
+No... Demasiado pesado... Y no veré nada... XXX
+
+
+                // ESCAFANDRA (ARKHAN NO SE PONE EL PETO) //
+
+// Arkhan2 G 
+LCOD674
+No, es demasiado voluminoso... Me hará ir más despacio. XXX
+
+// Arkhan3 G
+LCOD675
+No... Demasiado voluminoso... XXX
+
+
+
+
+
+                        // OBJETO 49 - CONTRATO DHORKAN-SORDOS //
+// Arkhan2 G
+LCOD02A
+Yo, Dhorkan, por el fuego, el hierro y la sangre, hago juramento de ofrecer mi protección al
+Predicador Sordos y a sus hombres, los Konkalites. XXX
+
+// Arkhan2 G
+LCOD02B
+Protegeré el secreto del escondite de los Konkalites y procuraré que los Guardianes del Fuego no lo 
+descubran. XXX
+
+// Arkhan2 G
+LCOD02C
+Los Konkalites tendrán libertad de movimientos y acciones en la ciudad baja, pero no deberán derramar la 
+sangre ni revelar su presencia a los Predicadores. XXX
+
+// Arkhan2 G
+LCOD02D
+Yo, Sordos, juro por el fuego, el hierro y la sangre que pondré a mis hombres al servicio del Preboste 
+Dhorkan. XXX
+
+// Arkhan2 G
+LCOD02E
+Los Konkalites le deberán obediencia como a mí mismo, para eliminar a aquellos que le perjudiquen a él 
+o al Stallite. XXX
+
+// Arkhan2 G
+LCOD02F
+Ellos no derramarán otra sangre que la de sus enemigos y la de los enemigos del Stallite. XXX
+
+// Arkhan2 G (no lo dice más que una vez)
+LCOD02G
+¡Y tiene el sello del Preboste! XXX
+
+// Arkhan2 G (no lo dice más que una vez)
+LCOD02H
+Este loco está aliado con los Konkalites. ¡Nos ha traicionado! XXX
+
+
+// Arkhan3 G
+LCOD03A
+Yo, Dhorkan, por el fuego, el hierro y la sangre, hago juramento de ofrecer mi protección al
+Predicador Sordos y a sus hombres, los Konkalites. XXX
+
+// Arkhan3 G
+LCOD03B
+Protegeré el secreto del escondite de los Konkalites y procuraré que los Guardianes del Fuego no lo 
+descubran. XXX
+
+// Arkhan3 G
+LCOD03C
+Los Konkalites tendrán libertad de movimientos y acciones en la ciudad baja, pero no deberán derramar la 
+sangre ni revelar su presencia a los Predicadores. XXX
+
+// Arkhan3 G
+LCOD03D
+Yo, Sordos, juro por el fuego, el hierro y la sangre que pondré a mis hombres al servicio del Preboste 
+Dhorkan. XXX
+
+// Arkhan3 G
+LCOD03E
+Los Konkalites le deberán obediencia como a mi mismo, para eliminar a aquellos que le perjudiquen a él 
+o al Stallite. XXX
+
+// Arkhan3 G
+LCOD03F
+Ellos no derramarán otra sangre que la de sus enemigos y la de los enemigos del Stallite. XXX
+
+// Arkhan3 G (no lo dice más que una vez)
+LCOD03G
+¡Tiene el sello de Dhorkan! XXX
+
+// Arkhan3 G (no lo dice más que una vez)
+LCOD03H
+¡Este loco nos ha traicionado! XXX
+
+
+                        // OBJETO 50 - PLANO DEL LANZALLAMAS - //
+
+Arkhan2 G
+LCOD88
+Es el plano de un arma, una especie de escupidor grueso. XXX
+
+Arkhan3 G
+LCOD89
+Parece el plano de un arma. XXX
+
+
+
+                        // OBJETO 52 - EMPLAZAMIENTO DE LA TUMBA //
+
+// Utilizar las tres primeras réplicas en función del estado de Arkhan (100A-100D ou 101A-101D)
+// Después continúa la voz de Rylsadhar (102A-102D)
+// Por fin, Arkhan concluye con una frase según su estado (103 o 104)
+
+// Arkhan2 G (leyendo)
+LCOD100A
+"Investigación sobre la ubicación y el acceso de la Tumba de los Sueños Runka del Stallite Sethis, por 
+Rylsadhar, Iniciado de la Casa Thorgrad..." XXX
+
+// Arkhan2 G (a si mismo)
+LCOD100B
+¿Qué es este galimatías? XXX
+
+// Arkhan2 G (leyendo)
+LCOD100C
+"El secreto del acceso a la Tumba Runka está perdido desde el Gran Cataclismo. XXX
+
+// Arkhan2 G (leyendo - su voz se mezclará con LCOD999, la misma frase dicha por Rylsadhar)
+LCOD100D
+Todo se revolvió, incluso la misma tierra. XXX
+
+// Arkhan3 G (leyendo)
+LCOD101A
+"Investigación sobre la ubicación y el acceso de la Tumba de los Sueños Runka del Stallite Sethis, por 
+Rylsadhar, Iniciado de la Casa Thorgrad..." XXX
+
+// Arkhan3 G (a si mismo)
+LCOD101B
+¿Qué es este galimatías? XXX
+
+// Arkhan3 G (leyendo)
+LCOD101C
+"El secreto del acceso a la Tumba Runka está perdido desde el Gran Cataclismo. XXX
+
+// Arkhan3 G (leyendo - su voz se mezclará con L99D999, la misma frase dicha por Rylsadhar)
+LCOD101D
+Todo se revolvió, incluso la misma tierra. XXX
+
+// Rylsadhar (mezclado con la voz de Arkhan en LCOD100D o en LCOD101D)
+LCOD999
+Todo se revolvió, incluso la misma tierra. XXX
+
+// Rylsadhar
+LCOD102A
+Mientras tanto, yo he recuperado los manuscritos de Thelen Khron, primer Iniciado y fundador de Sparta, 
+que organizó la construcción del Stallite sobre el lugar de la Tumba. XXX
+
+// Rylsadhar
+LCOD102B
+Después de descifrar su libro secreto y realizar mis propias investigaciones, hoy pienso que la Tumba se 
+encuentra bajo nuestros pies, en la seguridad de Sethis. XXX
+
+// Rylsadhar
+LCOD102C
+Thelen Khron dice del Iniciado que, una vez en la Tumba, deberá mostrar su fidelidad a los Runkas 
+recitando el mantra ritual. XXX
+
+// Rylsadhar
+LCOD102D
+Después de mi traducción, eso dice: "El Runka/hijo de la Luz viene del sol/estrella para salvar el mundo 
+amenazado/destruido por el Shankr." XXX
+
+// Rylsadhar
+LCOD102E
+Pero aún hoy desconozco el acceso a las puertas de la Tumba. Temo que haya estado obstruido desde el 
+Cataclismo y que la entrada a la Tumba del hijo de la luz nos esté prohibida... XXX
+
+// Rylsadhar
+LCOD102F
+Si es así, esperaremos la hora del Despertar para contemplar a los seres de luz que esperamos desde la 
+noche de los tiempos". XXX
+
+// Arkhan2 G (a sí mismo)
+LCOD103
+¡Esta es la Tumba de la que hablaba Lory! XXX
+
+// Arkhan3 G (a sí mismo)
+LCOD104
+¡La Tumba de la que hablaba Lory! XXX
+
+
+
+                    // OBJETO 70 - PLANO DE BANDOR - //
+
+Arkhan2 G
+LCOD90
+Un mapa de los Constructores, con los planos de una gran torre. XXX
+
+Arkhan3 G
+LCOD91
+Un plano de los Constructores con una especie de torre. XXX
+
+
+
+                    // OBJETO 81 - CODIGO DE RYLSADHAR //
+// Arkhan2 G
+LCOD23A
+Veamos lo que hay escrito ahí debajo... XXX
+
+// Arkhan2 G
+LCOD23B
+"Si buscas el camino de la música celestial." XXX
+
+// Arkhan2 G
+LCOD23C
+"Va tres veces a la derecha hacia el Dios Sol." XXX
+
+// Arkhan2 G
+LCOD23D
+"Después dos veces a la izquierda para honrar a la Luna, su emisaria." XXX
+
+// Arkhan2 G
+LCOD23E
+"Y por último una vez a la derecha para evitar la oscuridad de la noche." XXX
+
+// Arkhan2 G
+LCOD23F
+"Entonces encontrarás el camino que conduce al lugar sagrado del día eterno." XXX
+
+// Arkhan2 G
+LCOD23G
+Hmmf, cuando los Predicadores se ponen a delirar... XXX
+
+
+// Arkhan3 G
+LCOD24A
+Leamos eso... XXX
+
+// Arkhan3 G
+LCOD24B
+"Si buscas el camino de la música celestial." XXX
+
+// Arkhan3 G
+LCOD24C
+"Va tres veces a la derecha hacia el Dios Sol." XXX
+
+// Arkhan 3 G
+LCOD24D
+"Después dos veces a la izquierda para honrar a la Luna, su emisaria." XXX
+
+// Arkhan3 G
+LCOD24E
+"Y por último una vez a la derecha para evitar la oscuridad de la noche." XXX
+
+// Arkhan3 G
+LCOD24F
+"Entonces encontrarás el camino que conduce al lugar del día eterno." XXX
+
+// Arkhan3 G
+LCOD24G
+No comprendo... XXX
+
+
+
+                    // EXPLORACION DE LOS LUGARES //
+
+// Arkhan1 G (delante de un mueble/cofre donde no hay nada)
+LCOD06
+Aquí no hay nada interesante. XXX
+
+// Arkhan1 G (delante de un mueble/cofre donde no hay nada)
+LCOD06A
+Aquí no hay nada interesante. XXX
+
+// Arkhan2 G (delante de un mueble/cofre donde no hay nada)
+LCOD07
+Nada interesante. XXX
+
+// Arkhan2 G (delante de un mueble/cofre donde no hay nada)
+LCOD07A
+Nada interesante. XXX
+
+// Arkhan3 G (delante de un mueble/cofre donde no hay nada)
+LCOD08
+Nada. XXX
+
+
+
+// Arkhan1 G (delante de un contenedor donde no hay nada)
+LCOD09
+Ahí dentro no hay nada interesante. XXX
+
+// Arkhan1 G (delante de un contenedor donde no hay nada)
+LCOD09A
+Ahí dentro no hay nada interesante. XXX
+
+// Arkhan2 G (delante de un contenedor donde no hay nada)
+LCOD10
+Nada útil ahí dentro. XXX
+
+// Arkhan2 G (delante de un contenedor donde no hay nada)
+LCOD10A
+Nada útil ahí dentro. XXX
+
+// Arkhan3 G (delante de un contenedor donde no hay nada)
+LCOD11
+Nada ahí dentro. XXX
+
+
+
+// Arkhan1 G (delante de un cofre/puerta cerrada)
+LCOD12
+Está cerrado. XXX
+
+// Arkhan1 G (delante de un cofre/puerta cerrada)
+LCOD12A
+Está cerrado. XXX
+
+// Arkhan2 G (delante de un cofre/puerta cerrada)
+LCOD13
+¡Está cerrado! XXX
+
+// Arkhan2 G (delante de un cofre/puerta cerrada)
+LCOD13A
+¡Está cerrado! XXX
+
+// Arkhan3 G (delante de un cofre/puerta cerrada)
+LCOD14
+¡Cerrado! XXX
+
+// Arkhan1 G (insistente/enervado delante de un cofre/puerta cerrada)
+LCOD15
+¡No hay nada que hacer, está cerrado! XXX
+
+// Arkhan2 G (insistente/enervado delante de un cofre/puerta cerrada)
+LCOD16
+¡Maldita sea, cerrado! XXX
+
+// Arkhan3 G (insistente/enervado delante de un cofre/puerta cerrada)
+LCOD17
+(gruñido) ¡Cerrado! XXX
+
+
+                // NO ENCUENTRA NADA (DE OBJETOS) //
+
+Arkhan1 G
+LCOD75
+Nada que recuperar aquí. XXX
+
+Arkhan1 G
+LCOD75A
+Nada que recuperar aquí. XXX
+
+Arkhan2 G
+LCOD76
+Nada que recuperar. XXX
+
+Arkhan2 G
+LCOD76A
+Nada que recuperar. XXX
+
+Arkhan3 G
+LCOD77
+Nada útil. XXX
+
+
+                // NADA MAS QUE COGER //
+
+Arkhan1 G
+LCOD78
+Nada más que recuperar. XXX
+
+Arkhan1 G
+LCOD78A
+Nada más que recuperar. XXX
+
+Arkhan2 G
+LCOD79
+Ninguna otra cosa que coger. XXX
+
+Arkhan2 G
+LCOD79A
+Ninguna otra cosa que coger. XXX
+
+Arkhan3 G
+LCOD80
+Nada de nada. XXX
+
+
+
+
+
+                    // INTERACCION CON LOS PERSONAJES //
+
+
+// Arkhan2 G (muestra un objeto)
+LCOD18
+¿Esto te dice algo? XXX
+
+// Arkhan2 G (muestra un objeto)
+LCOD18A
+¿Esto te dice algo? XXX
+
+// Arkhan3 G (muestra un objeto)
+LCOD19
+¿Conoces esto? XXX
+
+                    // AGRADECIMIENTO (usado generalmente en LUZ) //
+
+// Arkhan2 G
+LCOD64
+Gracias. XXX
+
+// Arkhan3 G
+LCOD65
+Gracias. XXX
+
+
+                    // HABLA EN COMBATE EN LUZ //
+
+// Arkhan2 L (intenta calmar a un adversario)
+LCOD20
+¡Eh, calma! XXX
+
+// Arkhan2 L (intenta calmar a un adversario)
+LCOD20A
+¡Eh, calma! XXX
+
+// Arkhan3 L (intenta calmar a un adversario)
+LCOD21
+¡Calma! XXX
+
+// Arkhan3 G (gruñe)
+LCOD22A
+(gruñido agresivo) XXX
+
+// Arkhan3 G (gruñe)
+LCOD22B
+(gruñido) XXX
+
+// Arkhan3 G (gruñe)
+LCOD22C
+(gruñido rabioso) XXX
+
+// Arkhan3 G (gruñe)
+LCOD22D
+(gruñido de desafío) XXX
+
+
+
+
+                    // HABLA EN COMBATE EN SOMBRA //
+
+// Arkhan2 O (insulta a su adversario)
+LCOD61
+¡Aprende a pelear, calamidad! XXX
+
+// Arkhan2 O (insulta a su adversario)
+LCOD62
+¿Esto es todo lo que sabes hacer? XXX
+
+// Arkhan3 O (insulta a su adversario)
+LCOD63
+¡Veo tu muerte muy próxima! XXX
+
+
+
+                    // INTERACCION CON EL DECORADO //
+
+
+// Arkhan1 G (delante de un objeto que no quiere utilizar)
+LCOD25
+¡No tengo tiempo de jugar con eso! XXX
+
+// Arkhan2 G (delante de un objeto que no quiere utilizar)
+LCOD26
+¡No tengo tiempo que perder! XXX
+
+// Arkhan2 G (delante de un objeto que no quiere utilizar)
+LCOD26A
+¡No tengo tiempo que perder! XXX
+
+// Arkhan3 G (delante de un objeto que no quiere utilizar)
+LCOD27
+¡No hay tiempo que perder! XXX
+
+
+
+// Arkhan1 G (no tiene tiempo de sentarse, acostarse, etc.)
+LCOD28
+¡Creo que ya estoy bastante descansado! XXX
+
+// Arkhan2 G (no tiene tiempo de sertarse, acostarse, etc.)
+LCOD29
+No, no es momento de descansar. XXX
+
+// Arkhan3 G (no tiene tiempo de sentarse, acostarse, etc.)
+LCOD30
+¡No es momento de descansar! XXX
+
+
+
+// Arkhan1 G (no puede realizar una acción)
+LCOD31
+No puedo hacer eso. XXX
+
+// Arkhan2 G (no puede realizar una acción)
+LCOD32
+No puedo hacer eso. XXX
+
+// Arkhan3 G (no puede realizar una acción)
+LCOD33
+No puedo hacer eso. XXX
+
+
+// Arkhan1 G (activa alguna cosa que no funciona)
+LCOD38
+Esto no funciona. XXX
+
+// Arkhan2 G (activa alguna cosa que no funciona)
+LCOD39
+No pasa nada... XXX
+
+// Arkhan3 G (activa alguna cosa que no funciona)
+LCOD40
+Esto no hace nada. XXX
+
+
+
+                            // CONTAMINACION //
+
+// Arkhan2 G (lleno de malestar y de temblores - pasajeros)
+LCOD34
+Ah... Me siento mal... XXX
+
+// Arkhan2 G (se va a transformar en Arkhan3 - sufre)
+LCOD35
+Aaaaah... El mal... ¡Aaargh! XXX
+
+// Arkhan3 G (lleno de malestar, va a convertirse pronto en bestia)
+LCOD36
+Aaah... El mal... me invade... Date prisa... XXX
+
+// Arkhan3 G (parcialmente curado, se convierte en Arkhan2)
+LCOD37
+Uh... El mal... se calma... XXX
+
+
+
+                // ARKHAN TRANSFORMADO (Ark2->Ark3) VA HACIA DELIA o KALHI //
+
+// Delia (impresionada)
+LCOD44
+Eres... ¿Eres tú? Pero, ¿qué te ha pasado? XXX
+
+// Kalhi (impresionada)
+LCOD45
+Arkhan... Dios Sol, ¡esto empeora! XXX
+
+// Arkhan3 L
+LCOD46
+El mal hace su trabajo... ¡Pero no te inquietes, me libraré de él! XXX
+
+// Arkhan3 O
+LCOD47
+¡Ciérrala y sígueme! XXX
+
+
+
+                // ARKHAN CONVERTIDO EN ARK2 VA HACIA DELIA o KALHI //
+
+// Delia (impresionada)
+LCOD48
+Eres... ¿Te sientes mejor? XXX
+
+// Kalhi (inquieta)
+LCOD49
+Arkhan... ¿Te sientes mejor? XXX
+
+// Arkhan2 L
+LCOD50
+Sí. Ven, ¡vamos! XXX
+
+// Arkhan2 O (enfadado)
+LCOD51
+¡¿A tu parecer?! ¡No vas a arrastrarme! XXX
+
+
+                // SALVAGUARDA //
+
+// Arkhan1 G (oración corta)
+LCOD52
+Dios Sol, ampárame en tu Luz. XXX
+
+// Arkhan2 G (oración corta)
+LCOD53
+Dios Sol, bendíceme con tus rayos. XXX
+
+// Arkhan3 G (oración corta)
+LCOD54
+Dios Sol, ayúdame. XXX
+
+
+                // DOCUMENTO ILEGIBLE //
+
+// Arkhan2 G (mira un documento)
+LCOD55
+Es ilegible... XXX
+
+// Arkhan3 G (mira un documento)
+LCOD56
+Ilegible... XXX
+
+                // OBJETO ROTO O INUTILIZADO //
+
+// Arkhan2 G 
+LCOD59
+Es inservible... XXX
+
+// Arkhan3 G 
+LCOD60
+Estropeado... XXX
+
+
+                // LLEVA LA PISTOLA AMETRALLADORA EN LA MANO //
+                    // SOLAMENTE LA PRIMERA VEZ //
+
+// Arkhan2 G (posa con su pistola en la mano)
+LCOD57
+¿A quién le toca? XXX
+
+// Arkhan3 G (posa con su pistola en la mano)
+LCOD58
+(risa de satisfacción) XXX
+
+
+                // ARKHAN CASI SE CAE //
+
+Arkhan1 G (casi se cae)
+LCOD66
+¡Ups! XXX
+
+Arkhan2 G (casi se cae)
+LCOD67
+¡Oooh! XXX
+
+Arkhan3 G (casi se cae)
+LCOD68
+¡Ow! XXX
+
+
+                // NO PUEDE AVANZAR MAS (bloqueado por una reja, obstaculo, etc.) //
+
+Arkhan1 G
+LCOD69
+No puedo ir más lejos. XXX
+
+Arkhan2 G
+LCOD70
+No iré más lejos. XXX
+
+Arkhan3 G
+LCOD71
+No llegaré más lejos. XXX
+
+
+                // SE DIRIGE A UN PERSONAJE //
+
+Arkhan1 G
+LCOD72
+¡Eh, tú! XXX
+
+Arkhan2 G
+LCOD73
+¡Eh! XXX
+
+Arkhan3 G
+LCOD74
+¡Eh! XXX
+
+
+                // REGISTRA A UN PERSONAJE //
+
+Arkhan1 G
+LCOD81
+No lleva nada encima. XXX
+
+Arkhan2 L
+LCOD82
+Nada encima. XXX
+
+Arkhan2 O
+LCOD83
+¡No tiene nada! XXX
+
+Arkhan3 L
+LCOD84
+Nada encima. XXX
+
+Arkhan3 O
+LCOD85
+¡No tiene nada! XXX
+
+
+                // QUIERE ECHAR EL SODIO PREPARADO EN EL AGUA //
+
+Arkhan2 G
+LCOD86
+¡No, si lo echo aquí, se perderá! XXX
+
+Arkhan3 G
+LCOD87
+¡Si echo esto, se perderá! XXX
+
+
+                // RISAS //
+
+Arkhan2 L
+LCOD92
+(risa alegre) XXX
+
+Arkhan3 L
+LCOD93
+(risa alegre) XXX
+
+Arkhan2 O
+LCOD94
+(risa burlona) XXX
+
+Arkhan3 O
+LCOD95
+(risa burlona) XXX
+
+
+            // DELANTE DE UNA ESCALA, PARED, PEÑASCOS, etc. //
+
+Arkhan1 G
+LCOD96
+No. La escalada nunca ha sido mi fuerte. XXX
+
+Arkhan2 L
+LCOD97
+No tengo tiempo para trepar. XXX
+
+Arkhan2 O
+LCOD98
+No puedo subir, ¡tengo vértigo! XXX
+
+Arkhan3 G
+LCOD99
+No. ¡Tengo vértigo! XXX
+

@@ -1,0 +1,364 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL31.TXT
+// Arkhan2 L perso2
+L31D85A
+ Zu tief. XXX
+// Arkhan2 L perso2
+L31D85B
+ Wenn ich hier einfach so hineinspringe, werde ich ertrinken! XXX
+ // Sordos perso23
+L34D04A
+ Hmmm... (spuckt aus) XXX
+// Konkalit8 (zu Konkalit10) perso78
+L31D500
+ Hey, wer ist das denn da? XXX
+// Konkalit8 (ruft Arkhan zu) perso78
+L31D35
+ Ho, Du da hinten! Komm mal her! XXX
+// Konkalit8 perso78
+L31D36
+ Oh! Beeil Dich! XXX
+// Konkalit8 perso78
+L31D37
+ Komm her, wir wollen uns Deine Fresse mal näher anschauen! XXX
+// Konkalit8 (schreit)perso78
+L31D38
+ Attacke! XXX
+// Konkalit8 (ruft A., der geht)perso78
+L31D39
+ Hey! So einfach kommst Du mir nicht davon! XXX
+// Bork perso30
+L31D501
+ Ho! Wer bist Du denn? XXX
+// Konkalit11 perso81
+L31D502
+ Hey Bork! Kennst Du den da? XXX
+// Bork perso30
+L31D503
+ Nein! XXX
+// Konkalit11 perso81
+L31D507
+ Sprich Dein letztes Gebet! XXX
+// Bork (brüllt)perso30
+L31D504
+ Wo willst Du denn hin? XXX
+// Konkalit11 perso81
+L31D89
+ Alarm! XXX
+// Konkalit8 (von A. angegriffen)perso78
+L31D53
+ Du suchst wohl Ärger, oder was? XXX
+// Konkalit8 perso78
+L31D01
+ Wer bist Du denn? XXX
+// Arkhan3 L perso3
+L31D22
+ Ich will Dir nichts tun, geh' zur Seite! XXX
+// Konkalit8 perso78
+L31D25A
+ Sag bloß, Du Dreckskerl  ... Du ... verdammter Hurenbock! XXX
+// Konkalit8 perso78
+L31D25B
+ So spricht niemand mit mir! XXX
+// Konkalit8 perso78
+L31D27
+ Ich werd' Dir Dein großes Maul stopfen! XXX
+// Arkhan2 L perso2
+L31D02
+ Reg Dich nicht auf, Freundchen. Ich bin einer von Euch. XXX
+// Konkalit8 perso78
+L31D03A
+ Bist Du da sicher? Ich hab' Dich jedenfalls noch nie gesehen! XXX
+// Konkalit8 perso78
+L31D03B
+ Und wir hier mögen neue Gesichter nicht so gerne! XXX
+// Konkalit8 perso78
+L31D21C
+ Gib mir lieber noch einen Schluck Stohll! XXX
+// Arkhan2 O (selbstsicher)perso2
+L31D04A
+ Ich bin's, Du Mißgeburt! XXX
+// Arkhan2 O (selbstsicher)perso2
+L31D04B
+ Hau sofort hier ab oder ich sag' Sordos, daß ich deinetwegen Zeit verloren habe! XXX
+// Konkalit8 perso78
+L31D05
+ Was? Wer soll hier eine Mißgeburt sein, Hurenbock? XXX
+// Arkhan2 L perso2
+L31D06
+ Hör mal, Du siehst doch ganz vernünftig aus. Laß uns reden ... XXX
+// Konkalit8 perso78
+L31D07
+ Das Reden kannst Du Dir sonstwo hinstecken! Das einzige, was hier passiert, ist, daß ich Dich fertigmache! XXX
+// Arkhan2 O perso2
+L31D08
+ Halt's Maul, elender Wurm, und laß mich durch! XXX
+// Konkalit8 perso78
+L31D09
+ Was?! Ich werd' Dich aufschlitzen, verdammter Dreckskerl! XXX
+// Arkhan2 G perso2
+L31D10
+ Alles in Ordnung? XXX
+// Konkalit8 perso78
+L31D11A
+ Das kann man nicht sagen! Vier Tote seit dem Sonnenaufgang! XXX
+// Konkalit8 perso78
+L31D11B
+ Dieses Stinktier ist an allem schuld! XXX
+// Konkalit8 (leise) perso78
+L31D11C
+ Das ist dieser seltsame Prediger, mit dem Sordos sich verbündet hat. XXX
+// Konkalit8 (leise) perso78
+L31D11D
+ Er bringt uns Unglück! XXX
+// Konkalit8 perso78
+L31D11E
+ Die Herren über die Untere Stadt sind aber immer noch wir. XXX
+// Konkalit8 perso78
+L31D11F
+ Plündern, stehlen, vergewaltigen - ein schönes Leben, wie es sich gehört! XXX
+// Konkalit8 perso78
+L31D11G
+ Und Armal Sadaks Bande wird uns dabei nicht aufhalten! XXX
+// Arkhan2 G perso2
+L31D12
+ Und die Hüter des Feuers? XXX
+// Konkalit8 perso78
+L31D13A
+ Ach die! Keine Sorge, mein Freund, da besteht keine Gefahr! XXX
+// Konkalit8 perso78
+L31D13B
+ Sordos hat ihren Chef in der Tasche! XXX
+// Konkalit8 perso78
+L31D13C
+ Er spielt den starken Mann, aber er tut, was Sordos will, glaub' mir! XXX
+// Konkalit8 perso78
+L31D13D
+ Was diesen Schweinehund Zed angeht, der wird's nicht mehr lange machen! XXX
+// Arkhan2 G perso2
+L31D14
+ Du sagst, daß Sordos sich mit dem Profos der Hüter des Feuers verbündet hat? XXX
+// Konkalit8 perso78
+L31D15A
+ Ich werd' Dir mal eines sagen, Freundchen: Sordos ist ein wirklich mächtiger Mann, der ist wahnsinnig gerissen. XXX
+// Konkalit8 perso78
+L31D15B
+ Der hat Dhorkan schon seit langem im Griff. XXX
+// Konkalit8 perso78
+L31D15C
+ Und Sordos hat versprochen, daß der ganze Stallit bald uns gehören wird. XXX
+// Konkalit8 perso78
+L31D15D
+ Wir werden unsere Tage damit verbringen, es mit allen Frauenzimmern, die uns über den Weg laufen, zu treiben. XXX
+// Konkalit8 perso78
+L31D15E
+ Und die Prediger werden uns die Stiefel lecken und alles was dazugehört! XXX
+// Arkhan2 G (flüstert zu sich selbst) perso2
+L31D16
+ (flüstert) Das werden wir ja noch sehen ... XXX
+// Arkhan2 G perso2
+L31D17
+ Wer ist der Prediger, von dem Du mir erzählt hast? XXX
+// Konkalit8 (flüstert)perso78
+L31D18A
+ Ich kenn' seinen Namen nicht und will ihn auch nicht wissen. Der stinkt wie der leibhaftige Tod! XXX
+// Konkalit8 (flüstert)perso78
+L31D18B
+ Auf jeden Fall sagt Sordos, daß wir durch ihn alle Prediger in der Hand haben werden. XXX
+// Konkalit8 perso78
+L31D18C
+ Eines kann ich Dir sagen: Ich würde mir die Große Predigerin gern mal zu Gemüte führen.  XXX
+// Konkalit8 perso78
+L31D18D
+ Glaubst Du, daß man es mit der noch treiben kann? XXX
+// Konkalit8 perso78
+L31D18E
+ Sie ist vielleicht ein bißchen alt, aber ich hab immer eine Schwäche für kleine Frauen gehabt ... XXX
+// Arkhan2 L perso2
+L31D19
+ Mehr kannst Du mir nicht sagen? XXX
+// Arkhan2 O perso2
+L31D20
+ Los, erzähl' schon! XXX
+// Konkalit8 perso78
+L31D21A
+ Schluß jetzt mit den Fragen! XXX
+// Konkalit8 perso78
+L31D21B
+ Du gehst mir langsam auf die Nerven! XXX
+// Arkhan3 G perso3
+L31D42
+ Nimm das hier und laß mich hier durch! XXX
+// Konkalit8 perso78
+L31D43A
+ Für wen hältst Du Dich eigentlich, Rattenfresse? XXX
+// Konkalit8 perso78
+L31D43B
+ Wir werden Dir zeigen, wer hier bestimmt! XXX
+// Arkhan2 L perso2
+L31D40
+ Hey, willst Du einen Schluck Stohll? Das ist ein besonders guter! XXX
+// Arkhan2 O perso2
+L31D41
+ Sag mal, ein räudiger Hund wie Du trinkt doch bestimmt gern mal einen Schluck Stohll! XXX
+// Konkalit8 perso78
+L31D44
+ Stohll? Oh ja, gib her! XXX
+// Konkalit8 perso78
+L31D45
+ Aaah! Das tut gut, da werden die Rohrleitungen mal richtig durchgespült! XXX
+// Arkhan2 G perso2
+L31D46
+ Noch einen Schluck? XXX
+// Konkalit8 perso78
+L31D48
+ Ja! Da sag ich nicht nein! XXX
+// Konkalit8 perso78
+L31D47
+ Ahhh! Das tut gut! XXX
+// Konkalit8 (fällt beinahe in Ohnmacht)perso78
+L31D49
+ Das ... tut gut ... XXX
+// Arkhan2 G perso2
+L31D50
+ Sagt Dir das was? XXX
+// Konkalit8 perso78
+L31D51
+ Das Ding da interessiert mich nicht. XXX
+// Konkalit10 perso80
+L31D82
+ Ich hau' Dir alle Zähne einzeln aus der Fresse! XXX
+// Konkalit10 perso80
+L31D54
+ Kenn ich Dich? XXX
+// Arkhan3 L perso3
+L31D90
+ Immer mit der Ruhe! Ich hab' nichts gegen Dich! XXX
+// Konkalit10 perso80
+L31D70
+ Du hast nichts gegen mich, aber ich kann Dich nicht riechen! XXX
+// Konkalit10 perso80
+L31D71
+ Oje, ich hab' solche Angst! XXX
+// Konkalit10 perso80
+L31D55
+ Einer von uns? Hast Du Dich mal im Spiegel angeguckt? Hältst Du mich für einen Schwachkopf oder was? XXX
+// Arkhan2 L perso2
+L31D56
+ Aber nein, bleib ruhig, mein Freund. XXX
+// Konkalit10 (ironisch)perso80
+L31D57
+ Und Du? Und wer sind Sie, edler Herr? XXX
+// Arkhan2 L perso2
+L31D58
+ Immer mit der Ruhe, hab' ich gesagt. Ich bin gekommen, um mit Euch zu reden. XXX
+// Konkalit10 perso80
+L31D59
+ Du bist gekommen, um zu reden? Ich glaub', da hast Du Dich in der Adresse geirrt! XXX
+// Konkalit10 perso80
+L31D60
+ Zieh Leine! XXX
+// Konkalit10 perso80
+L31D61A
+ Ja, Sordos sagt, daß wir bald die Herren über den Stalliten sein werden. XXX
+// Konkalit10 perso80
+L31D61B
+ Aber wenn Du wissen willst, was ich denke, ich glaub', daß es viel Ärger geben wird ...  XXX
+// Konkalit10 perso80
+L31D61C
+ Ich trau' den Hütern des Feuers nicht. Sordos hat sich mit ihrem Chef angefreundet, aber die Typen da schwören doch nur auf ihren Sonnengott. XXX
+// Konkalit10 perso80
+L31D61D
+ Nicht sicher, daß sie alle mitmachen werden. XXX
+// Konkalit10 perso80
+L31D61E
+ Nur ein Beispiel: Während des Angriffs auf die Große Predigerin hat Zed alle unsere Brüder getötet! XXX
+// Konkalit10 perso80
+L31D61F
+ Da war Sordos stinksauer! XXX
+// Arkhan2 G perso2
+L31D62
+ Profos Dhorkan steckt mit Sordos unter einer Decke, nicht wahr? XXX
+// Konkalit10 perso80
+L31D63A
+ Ja, sie haben einen Pakt geschlossen.  XXX
+// Konkalit10 perso80
+L31D63B
+ Wir haben ein paar Typen ausgeschaltet, die Dhorkan gestört haben, und seitdem sorgt er dafür, daß uns die Hüter des Feuers in Ruhe lassen. XXX
+// Arkhan2 L perso2
+L31D64
+ Sordos ist wirklich ein gerissener Bursche ... Hat er andere Verbündete außer Dhorkan? XXX
+// Arkhan2 O perso2
+L31D65
+ Gibt es außer Dhorkan andere Verräter unter den Hütern des Feuers? XXX
+// Konkalit10 perso80
+L31D66A
+ Dhorkan ist ein kleiner Fisch. Seine Leiche wird bald im Kanal verrotten. XXX
+// Konkalit10 perso80
+L31D66B
+ Es gibt aber einen Prediger, der für Sordos arbeitet.  XXX
+// Konkalit10 perso80
+L31D66C
+ Durch ihn werden wir alle Könige von Sparta werden! XXX
+// Konkalit10 perso80
+L31D67
+ Keine Ahnung! Du fängst an, mir auf die Nerven zu gehen mit Deiner ewigen Fragerei! Los, verschwinde jetzt! XXX
+// Arkhan2 O perso2
+L31D68
+ Zier Dich nicht wie ein verdammtes Weibsstück, erzähl mir mehr! XXX
+// Konkalit10 perso80
+L31D69
+ Ich hab Dich gewarnt, Du Mistkerl! Wenn Du Ärger suchst, wirst Du ihn auch bekommen! XXX
+// Konkalit10 perso80
+L31D75A
+ Glaubst Du etwa, daß ich Angst vor Dir habe!? XXX
+// Konkalit10 perso80
+L31D75B
+ Ich werd' Dich durchlöchern! XXX
+// Konkalit10 perso80
+L31D76
+ Stohll, hast Du gesagt? Los, gib' her! XXX
+// Konkalit10 perso80
+L31D77
+ Aaah! Dieses Zeug hier erleuchtet mir die Kehle! XXX
+// Konkalit10 perso80
+L31D72
+ Wenn es Stohll gibt, sag' ich nicht nein! XXX
+// Konkalit10 perso80
+L31D78
+ Ah! Der ist gut! XXX
+// Konkalit10 (wird in Ohnmacht fallen)perso80
+L31D79
+ Er ist ... stark ... XXX
+// Konkalit10 perso80
+L31D80
+ Deine Probleme kannst Du Dir sonstwo hinstecken! XXX
+// Bork perso30
+L31D506
+ Verrecke, Du mieser Wurm! XXX
+// Arkhan2 O perso2
+L31D505
+ Geh zur Seite, oder ich könnte sehr unangenehm werden! XXX
+// Arkhan2 G perso2
+L31D900
+ Leere Fässer, aufeinandergestapelt. XXX
+// Arkhan3 G perso3
+L31D901
+ Aufeinandergestapelte Fässer. XXX
+// Arkhan2 L perso2
+L31D902
+ Dieser Kanal führt weit unter dem Stalliten hindurch. XXX
+// Arkhan3 L perso3
+L31D904
+ Dieser Kanal ist tief. Er geht tief in die Erde hinein. XXX
+// Arkhan2 O perso2
+L31D903
+ Das Wasser stinkt wie die Pest! XXX
+// Arkhan3 O perso3
+L31D905
+ Das Wasser stinkt wie die Pest! XXX
+// Arkhan2 G perso2
+L31D906
+ Diese Rohre hier bringen bestimmt Luft nach unten. XXX
+// Arkhan3 G perso3
+L31D907
+ Von oben, von hierher, kommt Luft. XXX

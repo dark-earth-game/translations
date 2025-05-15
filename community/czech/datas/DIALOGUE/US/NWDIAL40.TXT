@@ -1,0 +1,37 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL40.TXT
+ // Arkhan3 G (angeschlagen) perso3
+L40D07A
+ Ah ... To byl tvrdý dopad ... XXX
+// Arkhan3 G (angeschlagen) perso3
+L40D07B
+ Já se citím ... jak roztrhaný ... XXX
+// Arkhan3 G perso3
+L40D04A
+ To je ... ta ... hrobka ... XXX
+// Arkhan3 G perso3
+L40D04B
+ Já jsem tu ... Já jí našel! XXX
+// Arkhan3 G perso3
+L40D05A
+ Ta zlost ... Moje telo ... horí ... XXX
+// Arkhan3 G perso3
+L40D05B
+ Musím ... pospíchat! XXX
+// Arkhan3 G perso3
+L40D01
+ Reliefs ... To lide udelali  ... Za dávných casù ... XXX
+// Arkhan3 G perso3
+L40D02
+ Obrovské pouta, v kameni zasekane. XXX
+// Arkhan3 G perso3
+L40D03
+ Kámen je teplý ... XXX
+// Arkhan3 G perso3
+L40D06A
+ Sut ... XXX
+// Arkhan3 G perso3
+L40D06B
+ Nic nez sut ... XXX
+// Arkhan3 G perso3
+L40D08
+ Zbytky lode,nebo letadla ci vrtule ... XXX

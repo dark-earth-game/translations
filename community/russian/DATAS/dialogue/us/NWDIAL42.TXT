@@ -1,0 +1,61 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL42.TXT
+ // Arkhan3 G perso3
+L42D01
+ FZcZ_ kond ian... XXX
+// Arkhan3 G perso3
+L42D05
+ Hjqjba, _jlj^a fjiar... XXX
+// Arkhan3 G perso3
+L42D02A
+ +Zgxta... j[lw]... XXX
+// Arkhan3 G perso3
+L42D02B
+ &qj_ _jgbai [wnx c_amx... Fj... ji lZclotai &agdfdh [a_mn]dah! XXX
+// Arkhan3 G perso3
+L42D02C
+ &jn kjsaho jnar ia iZt~g a^j! XXX
+// Arkhan3 L perso3
+L42D08
+ Gi lZmfZg~i... A ynjn m]an... CZf ] njh mfgaka! XXX
+// Arkhan3 O perso3
+L42D09
+ P~ln! Iofo j[b~^! XXX
+// Arkhan3 L perso3
+L42D10
+ $jgxta ia kldfjmiomx... XXX
+// Arkhan3 O perso3
+L42D11
+ &jn ob ia kldfjmiomx! XXX
+// Arkhan3 G (pulls the lever to open the door) perso3
+L42D07A
+ Fa kj__Z~nm|. XXX
+// Arkhan3 G perso3
+L42D07B
+ Fa kj__Z~nm|. XXX
+// Arkhan3 G perso3
+L42D07C
+ Fdsa^j. XXX
+// Arkhan3 G perso3
+L42D06
+ EaqZidch cZagj. XXX
+// Arkhan3 G perso3
+L42D12
+ CZhaix iZ^lan... XXX
+// Arkhan3 G perso3
+L42D13A
+ CZhid... XXX
+// Arkhan3 G perso3
+L42D13B
+ +la]ida... lodiw... XXX
+// Arkhan3 L (looking down) perso3
+L42D03
+ VnZ sZmnx ^ljnZ j[]ZgdgZmx ] jfaZi. XXX
+// Arkhan3 O (looking down) perso3
+L42D04
+ <mgd iwlio jnmz_Z, | kjfjeidf! XXX
+// Arkhan3 G perso3
+L42D14
+ G^ljhiwe flo^... d jn]almnda amnx. XXX
+// Arkhan3 G perso3
+L42D15
+ Fobij fZf-nj kala_]dionx... XXX

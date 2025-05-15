@@ -1,0 +1,166 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL34.TXT
+ // Konkalite7 perso77
+L34D777
+ Posiekamy cie na plasterki! XXX
+// Konkalite7 perso77
+L34D778
+ Jestes trupem! XXX
+// Thanandar perso24
+L34D100A
+ No, no. Kogo my tu mamy! Syn Rylsadhara! XXX
+// Thanandar perso24
+L34D100B
+ Twoi ludzie niespecjalnie sie przejmuja tym kogo tu wpuszczaja! XXX
+// Sordos perso23
+L34D101
+ On tez jest zakazony! XXX
+// Thanandar perso24
+L34D102A
+ Tak. Ale teraz, gdy mam jego ojca, nie jest mi juz potrzebny! XXX
+// Thanandar perso24
+L34D102B
+ Zabic go! XXX
+// Sordos perso23
+L34D40A
+ A moze by tak przemodelowac te buzke! XXX
+// Sordos perso23
+L34D40B
+ Zawsze chcialem byc rzezbiarzem! XXX
+// Sordos perso23
+L34D04A
+ Hrrrrh... (spluniecie) XXX
+// Sordos perso23
+L34D04B
+ Nie zabije cie od razu. To byloby zbyt proste! XXX
+// Sordos perso23
+L34D04C
+ Moje ludzie maja dla ciebie specjalne atrakcje. XXX
+// Sordos perso23
+L34D04D
+ A kiedy ich juz zasmakujesz, bedziesz blagal o smierc! XXX
+// Sordos (surprised to find Arkhan at his headquarters)perso23
+L34D38
+ Hej! Co za zaraza cie tu przywlokla?! XXX
+// Sordos perso23
+L34D39
+ Odpowiadaj gadzie! Albo wyrwe ci jezyk! XXX
+// Thanandar perso24
+L34D201
+ Gin biedny glupcze! XXX
+// Arkhan2 L perso2
+L34D05
+ Thanandar! Co to wszystko ma znaczyc? XXX
+// Arkhan2 O perso2
+L34D06
+ Thanandar, ty podly oszuscie, oklamales mnie! XXX
+// Arkhan3 G perso3
+L34D07
+ Thanandar! Zdrajco! XXX
+// Thanandar (disappointed)perso24
+L34D200A
+ Jestes rownie glupi jak pozostali. Nie chcesz przyjac Cienia! XXX
+// Thanandar perso24
+L34D200B
+ Smierc jest nagroda glupcow! XXX
+// Sordos perso23
+L34D202
+ Wyrwe ci serce! XXX
+// Arkhan2 L perso2
+L34D13
+ Czy to ty jestes poteznym Sordosem? XXX
+// Arkhan2 O perso2
+L34D14
+ Hej, to ty jestes krolem tej kupy gnoju? XXX
+// Arkhan3 L perso3
+L34D15
+ Ty jestes Sordos? XXX
+// Arkhan3 O perso3
+L34D16
+ Moje zycie to pieklo! To twoja wina! Pora zaplacic! XXX
+// Sordos (menacingly) perso23
+L34D17A
+ Nie wiem spod jakiego kamienia wypelznales, ale wiedz jedno: XXX
+// Sordos (menacingly) perso23
+L34D17B
+ Rozerwe cie i odesle tam skad przyszedles w milionie kawalkow! XXX
+// Arkhan2 L perso2
+L34D22
+ Ty jestes Sordos? Dhorkan mnie przyslal. XXX
+// Sordos (aggressively) perso23
+L34D23
+ Dhorkan co? O co mu chodzi? XXX
+// Arkhan2 L perso2
+L34D24
+ Powiedzial, ze nie podobaja sie mu twoje wpadki. XXX
+// Sordos (speaking then stopping)perso23
+L34D25
+ Ach tak?! Mozesz powiedziec temu kretynowi Dhorkanwi, ze moze... XXX
+// Arkhan2 O (stupidly)perso2
+L34D27
+ Hej Sordos! Mam wiadomosc od Dhorkana. XXX
+// Arkhan2 O perso2
+L34D28A
+ Kazal ci powiedziec, ze jestes parszywym, zracym odpady lupiezca! XXX
+// Arkhan2 O perso2
+L34D28B
+ I pragnalby cie widziec zdechlego w cuchnacej jaskini. XXX
+// Sordos (enraged) perso23
+L34D29
+ Co?!  XXX
+// Sordos (suddenly realizing who Arkhan is) perso23
+L34D26A
+ Hej, ja cie znam. Ty jestes tym glupim bucem, ktoremu dostalo sie w obronie Lory! XXX
+// Sordos (cruelly)perso23
+L34D26B
+ Dobrze, ze cie widze. Szukalem kogos na kim moglbym sie wyzyc! XXX
+// Arkhan3 L (menacingly) perso3
+L34D30
+ Sordos... Dhorkan mnie przyslal! XXX
+// Arkhan3 L perso2
+L34D31
+ Zebym ci przekazal, ze nadszedl twoj czas! XXX
+// Sordos perso23
+L34D41
+ Probujesz popelnic samobojstwo Lupiezco? XXX
+// Arkhan2 G perso2
+L04D44
+ To niewlasciwy klucz! XXX
+// Arkhan3 G perso3
+L04D45
+ Zly klucz! XXX
+// Arkhan2 L perso2
+L34D34
+ Nie wyglada na zbyt wygodne! XXX
+// Arkhan2 O perso2
+L34D35
+ Nie bede na tym spal! XXX
+// Arkhan3 G perso3
+L34D36
+ Niewygodne! XXX
+// Arkhan2 L (examining a pipe)perso2
+L34D500
+ Duza zardzewiala rura. XXX
+// Arkhan3 L (examining a pipe)perso3
+L34D501
+ Przezarta rdza rura. XXX
+// Arkhan2 L (examining the grate)perso2
+L34D506
+ Stalowa krata. XXX
+// Arkhan3 L (examining the grate)perso3
+L34D507
+ Ciezka krata. XXX
+// Arkhan2 G perso2
+L34D502
+ Duze beczki. Wygladaja na puste. XXX
+// Arkhan3 G perso3
+L34D503
+ Beczki... puste. XXX
+// Arkhan2 G perso2
+L34D504A
+ Przewrocona beczulka Stohllu. XXX
+// Arkhan2 G perso2
+L34D504B
+ Whoa! Ci Konkalici naprawde moga wypic! XXX
+// Arkhan3 G perso3
+L34D505
+ Beczulka Stohllu. Cholera! Pusta. XXX

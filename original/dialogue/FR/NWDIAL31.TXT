@@ -1,0 +1,364 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\fr\NWDIAL31.TXT
+// Arkhan2 L perso2
+L31D85A
+ Trop profond. XXX
+// Arkhan2 L perso2
+L31D85B
+ Si je saute comme ça, j'vais me noyer! XXX
+ // Sordos perso23
+L34D04A
+ Hmmm... (crache) XXX
+// Kankalite8 (à Kankalite10) perso78
+L31D500
+ Hé, qui c'est celui-là? XXX
+// Kankalite8 (crie à Arkhan) perso78
+L31D35
+ Ho, toi là-bas! Viens un peu par ici! XXX
+// Kankalite8 perso78
+L31D36
+ Oh! Dépêche! XXX
+// Kankalite8 perso78
+L31D37
+ Approche un peu qu'on voit ta tronche! XXX
+// Kankalite8 (crie)perso78
+L31D38
+ Sur lui! XXX
+// Kankalite8 (crie vers A. qui s'en va)perso78
+L31D39
+ Hé! Tu vas pas t'en tirer comme ça! XXX
+// Bork perso30
+L31D501
+ Ho! T'es qui toi?! XXX
+// Kankalite11 perso81
+L31D502
+ Hé Bork! Tu le connais? XXX
+// Bork perso30
+L31D503
+ Non! XXX
+// Kankalite11 perso81
+L31D507
+ Fais tes prières! XXX
+// Bork (mugit)perso30
+L31D504
+ Où tu vas, là! XXX
+// Kankalite11 perso81
+L31D89
+ Alerte! XXX
+// Kankalite8 (attaqué par A.)perso78
+L31D53
+ Tu cherches les coups, hein! XXX
+// Kankalite8 perso78
+L31D01
+ T'es qui, toi? XXX
+// Arkhan3 L perso3
+L31D22
+ J'te veux pas de mal, écarte-toi! XXX
+// Kankalite8 perso78
+L31D25A
+ Dis donc, tronche de... de... de putain d'sale tronche! XXX
+// Kankalite8 perso78
+L31D25B
+ Personne me parle comme ça, personne! XXX
+// Kankalite8 perso78
+L31D27
+ J'vais t'apprendre à ouvrir ta grande gueule! XXX
+// Arkhan2 L perso2
+L31D02
+ T'emballe pas, l'ami. Je suis l'un des vôtres. XXX
+// Kankalite8 perso78
+L31D03A
+ T'es sûr? Moi j't'ai jamais vu! XXX
+// Kankalite8 perso78
+L31D03B
+ Et ici, on n'aime pas beaucoup les nouvelles tronches! XXX
+// Kankalite8 perso78
+L31D21C
+ Refile moi plutôt de ton Stohll! XXX
+// Arkhan2 O (sûr de lui)perso2
+L31D04A
+ C'est moi, imbécile! XXX
+// Arkhan2 O (sûr de lui)perso2
+L31D04B
+ Casse-toi d'là ou je dirai à Sordos que tu m'as fait perdre mon temps! XXX
+// Kankalite8 perso78
+L31D05
+ Quoi? Qui tu traites d'imbécile, face de suie? XXX
+// Arkhan2 L perso2
+L31D06
+ Ecoute, t'as l'air raisonnable. On va discuter... XXX
+// Kankalite8 perso78
+L31D07
+ Discuter mon cul! Je vais t'faire la peau, oui! XXX
+// Arkhan2 O perso2
+L31D08
+ Ferme-la, pauvre type, et laisse-moi passer! XXX
+// Kankalite8 perso78
+L31D09
+ Quoi?! Mais j'vais t'crever, moi, vermine! XXX
+// Arkhan2 G perso2
+L31D10
+ Alors, ça va comme tu veux? XXX
+// Kankalite8 perso78
+L31D11A
+ Tu parles! Quatre morts depuis le lever du soleil! XXX
+// Kankalite8 perso78
+L31D11B
+ C'est le bâton merdeux, oui! XXX
+// Kankalite8 (à voix basse) perso78
+L31D11C
+ C'est ce drôle de prôneur avec qui Sordos s'est allié. XXX
+// Kankalite8 (à voix basse) perso78
+L31D11D
+  Il nous porte la poisse! XXX
+// Kankalite8 perso78
+L31D11E
+ Mais c'est toujours nous les maîtres de la ville basse. XXX
+// Kankalite8 perso78
+L31D11F
+ On pille, on vole, on viole, la belle vie quoi! XXX
+// Kankalite8 perso78
+L31D11G
+ Et c'est pas la bande d'Armal Sadak qui va nous arrêter! XXX
+// Arkhan2 G perso2
+L31D12
+ Et les Gardiens du Feu? XXX
+// Kankalite8 perso78
+L31D13A
+ Ceux-là! T'en fais pas mon gars, y a pas de risque! XXX
+// Kankalite8 perso78
+L31D13B
+ Sordos s'est mis leur chef dans la poche! XXX
+// Kankalite8 perso78
+L31D13C
+ Il joue les durs mais Sordos l'a à sa botte, crois-moi! XXX
+// Kankalite8 perso78
+L31D13D
+ Quant à ce connard de Zed, il en a plus pour longtemps à vivre! XXX
+// Arkhan2 G perso2
+L31D14
+ Tu dis que Sordos s'est allié avec le Prévôt des Gardiens du Feu? XXX
+// Kankalite8 perso78
+L31D15A
+ J'vais t'dire, mon gars, Sordos, c'est un dur, il est vachement rusé. XXX
+// Kankalite8 perso78
+L31D15B
+ Ca fait d'ja un moment qu'il tient le Dhorkan par les balloches. XXX
+// Kankalite8 perso78
+L31D15C
+ Et Sordos a promis que bientôt le Stallite entier sera à nous. XXX
+// Kankalite8 perso78
+L31D15D
+ On va passer nos journées à boire, à bouffer et à baiser toutes les femelles qu'on pourra trouver. XXX
+// Kankalite8 perso78
+L31D15E
+ Et les Prôneurs, y nous lècheront les pieds et le reste! XXX
+// Arkhan2 G (chuchote pour lui même) perso2
+L31D16
+ (chuchote) Ca c'est ce que tu crois... XXX
+// Arkhan2 G perso2
+L31D17
+ C'est qui le prôneur dont t'as parlé? XXX
+// Kankalite8 (chuchote)perso78
+L31D18A
+ J'sais pas son nom et j'veux pas l'savoir. Y pue la mort à plein nez! XXX
+// Kankalite8 (chuchote)perso78
+L31D18B
+ Mais bon, Sordos dit que grâce à lui on va s'payer la fiole de tous les Prôneurs. XXX
+// Kankalite8 perso78
+L31D18C
+ J'vais t'dire, je m'farcirais bien la Grande Prôneuse.  XXX
+// Kankalite8 perso78
+L31D18D
+ Tu crois qu'elle est encore baisable? XXX
+// Kankalite8 perso78
+L31D18E
+ Un peu vieille peut-être mais moi j'ai toujours préféré les petites... XXX
+// Arkhan2 L perso2
+L31D19
+ Tu ne peux pas m'en dire un peu plus? XXX
+// Arkhan2 O perso2
+L31D20
+ Allez, vas-y, raconte! XXX
+// Kankalite8 perso78
+L31D21A
+ Ca suffit avec tes questions! XXX
+// Kankalite8 perso78
+L31D21B
+ Tu commences à m'faire chier! XXX
+// Arkhan3 G perso3
+L31D42
+ Prends ça et laisse-moi passer. XXX
+// Kankalite8 perso78
+L31D43A
+ Pour qui tu te prends, face de rat! XXX
+// Kankalite8 perso78
+L31D43B
+ On va te corriger! XXX
+// Arkhan2 L perso2
+L31D40
+ Heu, t'as envie d'un coup de stohll, c'est du bon! XXX
+// Arkhan2 O perso2
+L31D41
+ Dis donc, un petit teigneux dans ton genre, ça doit aimer le Stohll! XXX
+// Kankalite8 perso78
+L31D44
+ Du Stohll? Ah ouais, ramène! XXX
+// Kankalite8 perso78
+L31D45
+ Aaah! Ca fait du bien dans la tuyauterie! XXX
+// Arkhan2 G perso2
+L31D46
+ Encore un p'tit coup? XXX
+// Kankalite8 perso78
+L31D48
+ Ouais! Pas de refus! XXX
+// Kankalite8 perso78
+L31D47
+ Ahhh! Ca décape! XXX
+// Kankalite8 (sur le point de s'évanouir)perso78
+L31D49
+ C'est... bon... XXX
+// Arkhan2 G perso2
+L31D50
+ Ca te dit quelque chose? XXX
+// Kankalite8 perso78
+L31D51
+ M'intéresse pas ton machin. XXX
+// Kankalite10 perso80
+L31D82
+ J'vais t'faire cracher tes dents! XXX
+// Kankalite10 perso80
+L31D54
+ J'te connais, toi? XXX
+// Arkhan3 L perso3
+L31D90
+ Calme! J'ai rien contre toi! XXX
+// Kankalite10 perso80
+L31D70
+ T'as rien contre moi mais moi j'ai une dent contre toi! XXX
+// Kankalite10 perso80
+L31D71
+ Tu m'fais pas peur! XXX
+// Kankalite10 perso80
+L31D55
+ L'un des nôtres? T'as vu ta gueule! Tu m'prends pour un con ou quoi?! XXX
+// Arkhan2 L perso2
+L31D56
+ Mais non, garde ton calme l'ami. XXX
+// Kankalite10 (faussement impressionné)perso80
+L31D57
+ Toi? Et t'es qui toi, "mon seigneur"? XXX
+// Arkhan2 L perso2
+L31D58
+ Du calme, j'te dis. Je suis venu pour parler. XXX
+// Kankalite10 perso80
+L31D59
+ T'es v'nu discuter, hein? Eh ben t'as mal choisi l'endroit! XXX
+// Kankalite10 perso80
+L31D60
+ Vas t'faire foutre! XXX
+// Kankalite10 perso80
+L31D61A
+ Ouais, Sordos dit qu'on s'ra bientôt les maîtres du Stallite. XXX
+// Kankalite10 perso80
+L31D61B
+ Mais s'tu veux mon avis, va y avoir pas mal de castagne...  XXX
+// Kankalite10 perso80
+L31D61C
+ J'me méfie des Gardiens du Feu. Sordos a fait ami-ami avec leur chef mais ces gars-là jurent qu'par le Soleil-Dieu. XXX
+// Kankalite10 perso80
+L31D61D
+ Pas sûr qu'ils marchent tous. XXX
+// Kankalite10 perso80
+L31D61E
+ T'as qu'à voir : pendant l'attaque contre la Grande Prôneuse, Zed a tué tous nos frères! XXX
+// Kankalite10 perso80
+L31D61F
+ Sordos était en furie! XXX
+// Arkhan2 G perso2
+L31D62
+ Le Prévôt Dhorkan est de mèche avec Sordos? XXX
+// Kankalite10 perso80
+L31D63A
+ Ouais, ils ont signé un pacte.  XXX
+// Kankalite10 perso80
+L31D63B
+ Dhorkan, on a éliminé quelques types qui le gênaient et depuis il s'arrange pour que les Gardiens du Feu nous laissent tranquilles. XXX
+// Arkhan2 L perso2
+L31D64
+ Sordos est vraiment un malin... Il a d'autres alliés à part Dhorkan? XXX
+// Arkhan2 O perso2
+L31D65
+ A part Dhorkan, y a d'autres traîtres chez les Gardiens du Feu? XXX
+// Kankalite10 perso80
+L31D66A
+ Dhorkan, c'est du menu fretin. Son cadavre pourrira bientôt dans le canal. XXX
+// Kankalite10 perso80
+L31D66B
+ Par contre, y'a un prôneur qui travaille pour Sordos.  XXX
+// Kankalite10 perso80
+L31D66C
+ Grâce à lui, on va devenir les rois de Sparta! XXX
+// Kankalite10 perso80
+L31D67
+ J'en sais rien! Tu m'emmerdes à la fin avec toutes tes questions! Allez, casse-toi! XXX
+// Arkhan2 O perso2
+L31D68
+ Te fais pas prier comme une femelle, raconte m'en plus! XXX
+// Kankalite10 perso80
+L31D69
+ J't'avais prévenu, l'obscurci du bulbe! A trop m'chercher, on m'trouve! XXX
+// Kankalite10 perso80
+L31D75A
+ Tu crois qu'tu m'impressionnes!? XXX
+// Kankalite10 perso80
+L31D75B
+ J'vais te larder! XXX
+// Kankalite10 perso80
+L31D76
+ Du Stohll, tu dis? Vas-y, laisse couler! XXX
+// Kankalite10 perso80
+L31D77
+ Aaah! Ca t'illumine le gosier c'truc-là! XXX
+// Kankalite10 perso80
+L31D72
+ Tant qu'y a du Stohl, j'avance mon bol! XXX
+// Kankalite10 perso80
+L31D78
+ Ah! Il est goûteux! XXX
+// Kankalite10 (va s'évanouir)perso80
+L31D79
+ C'est... fort... XXX
+// Kankalite10 perso80
+L31D80
+ J'en ai rien à foutre de c'que tu trimballes! XXX
+// Bork perso30
+L31D506
+ Crève! XXX
+// Arkhan2 O perso2
+L31D505
+ Ecarte-toi ou j'deviens méchant! XXX
+// Arkhan2 G perso2
+L31D900
+ Des tonneaux vides, empilés. XXX
+// Arkhan3 G perso3
+L31D901
+ Un empilement de tonneaux. XXX
+// Arkhan2 L perso2
+L31D902
+ Ce canal s'enfonce loin sous le Stallite. XXX
+// Arkhan3 L perso3
+L31D904
+ Le canal est profond. Il s'enfonce sous terre. XXX
+// Arkhan2 O perso2
+L31D903
+ Cette eau pue la charogne! XXX
+// Arkhan3 O perso3
+L31D905
+ Cette eau pue la charogne! XXX
+// Arkhan2 G perso2
+L31D906
+ Ces tuyaux doivent amener de l'air de la surface. XXX
+// Arkhan3 G perso3
+L31D907
+ De l'air vient d'en-haut, par là. XXX

@@ -1,0 +1,409 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL19.TXT
+ // Malrot5 (challenges Arkhan) perso65
+L19D88
+ Szukasz bojki? To chodz! XXX
+// Kalhi perso13
+L19D01
+ Dziekuje Jenna. Wlasnie tego bylo mi trzeba. XXX
+// Malrot5 perso65
+L19D02
+ Zawsze sluze pomoca przy dobrym handelku. XXX
+// Kalhi perso13
+L19D03A
+ Arkhan! XXX
+// Kalhi perso13
+L19D03B
+ Masz, wykopalam to dla ciebie . XXX
+// Kalhi perso13
+L19D03C
+ Nie jest to wiele, ale mam nadzieje, ze ci pomoze. XXX
+// Arkhan2 G perso2
+L19D04
+ Dzieki Kalhi. Doceniam to. XXX
+// Kalhi perso13
+L19D06A
+ Sprobuje znalezc ci uzdrowiciela. XXX
+// Kalhi perso13
+L19D06B
+ Badz silny kochanie! XXX
+// Arkhan2 G (proud of Kalhi) perso2
+L19D07
+ Jest niesamowita! XXX
+// Arkhan3 G (proud of Kalhi) perso3
+L19D08
+ Jest wspaniala! XXX
+// Malrot5 (A. takes "en garde" position) perso65
+L19D94
+ HEJ! Daj spokoj brzydalu! XXX
+// Malrot5 perso65
+L19D89
+ Cofnij sie mutancie! XXX
+// Delia perso10
+L16D122
+ Przestan! Przerazasz mnie! XXX
+// Malrot5 perso65
+L19D95
+ Spokoj, od razu lepiej! XXX
+// Arkhan2 L perso2
+L19D09
+ Niechaj swiatlosc bedzie z toba Lupiezco. XXX
+// Malrot5 perso65
+L19D10A
+ Zgubiles droge czlowieku? XXX
+// Malrot5 perso65
+L19D10B
+ Trafiles we wlasciwe miejsce. Witaj na terenie Lupiezcow. XXX
+// Arkhan2 O (giving the Malrot the once-over)perso2
+L19D10
+ Tam do kata! Co za uda! XXX
+// Malrot5 (ironic, as if recalling Arkhan's name) perso65
+L19D11
+ Chwileczke... Szczurza Twarz, racja? XXX
+// Arkhan2 O perso2
+L19D12
+ Nie, pamietasz przeciez... Slodkosci. XXX
+// Malrot5 (amused, playing the game) perso2
+L19D13
+ Jak mozna cie zapomniec ty stary draniu. XXX
+// Arkhan2 G perso2
+L19D15
+ Nazywam sie Arkhan, przyjaciel Lupiezcow. XXX
+// Malrot5 (ironic) perso65
+L19D16A
+ Od razu lepiej! XXX
+// Malrot5 (ironic) perso65
+L19D16B
+ Po pierwsze, nie ma u ciebie na czym oka zawiesic. XXX
+// Malrot5 (ironic) perso65
+L19D16C
+ Zas gdybys mial na imie "Arkhan, Rzeznik Lupiezcow", bylabym ociupinke zmartwiona. XXX
+// Arkhan2 L perso2
+L19D17A
+ Wygladam tak z powodu mojej choroby. XXX
+// Arkhan2 L perso2
+L19D17B
+ Ale nie martw sie, nie zycze ci zle. XXX
+// Arkhan2 O perso2
+L19D18
+ Co ty sobie myslisz? Jestem chory, dlatego moja twarz wyglada! XXX
+// Malrot5 perso65
+L19D19
+ Coz, jesli jestes chory powinienes udac sie do uzdrowiciela w Wyzszym Miescie. XXX
+// Arkhan2 L perso2
+L19D20A
+ W Wyzszym Miescie jest dla mnie zbyt goraco. XXX
+// Arkhan2 L perso2
+L19D20B
+ Gwardzisci Ognia mnie szukaja. XXX
+// Malrot5 perso65
+L19D21A
+ Gwardzisci Ognia? XXX
+// Malrot5 perso65
+L19D21B
+ Nie mow mi, ze boisz sie tych frajerow!? XXX
+// Arkhan2 L (ex-Guardian of Fire, don't forget) perso2
+L19D22A
+ Um... Nie, ale nie chcialbym sie z nimi wdawac w tej chwili w walke! XXX
+// Arkhan2 L perso2
+L19D22B
+ Jesli chodzi o uzdrowicieli to nie sadze by mogli mi pomoc. XXX
+// Arkhan2 L perso2
+L19D22C
+ Jesli chce wyzdrowiec, musze sam znalezc lek! XXX
+// Arkhan2 O perso2
+L19D23A
+ Moge zapomniec o szukaniu pomocy w Wyzszym Miescie. XXX
+// Arkhan2 O perso2
+L19D23B
+ Gwardzisci Ognia przysiegli obedrzec mnie zywcem ze skory! XXX
+// Arkhan2 O (ex-Guardian of Fire, don't forget) perso2
+L19D24A
+ Hej, to nie tacy znow frajerzy... XXX
+// Arkhan2 O perso2
+L19D24B
+ I nie zawahali by sie przed zabiciem mnie. XXX
+// Arkhan2 O perso2
+L19D24C
+ Patrzacy w Slonce i Uzdrowiciele tez odpadaja. XXX
+// Arkhan2 O perso2
+L19D24D
+ Ufam tylko sobie... XXX
+// Arkhan2 O perso2
+L19D24E
+ I oczywiscie dobrym Lupiezcom z Nizszego Miasta! XXX
+// Arkhan2 L perso2
+L19D25
+ Znasz tu kogos kto moglby mi pomoc? XXX
+// Arkhan2 O perso2
+L19D26
+ Powiedz. Kto moze mi pomoc w tej dziurze! XXX
+// Malrot5 perso65
+L19D27A
+ W tych stronach, jesli wdepniesz w gowno po same uszy, najlepiej zwrocic sie do Armal Sadaka. XXX
+// Malrot5 perso65
+L19D27B
+ Ale nie sadze, zeby ci pomogl. XXX
+// Arkhan2 G perso2
+L19D28
+ Dlaczego? XXX
+// Malrot5 perso65
+L19D29
+ Powiedzmy po prostu, ze twoja bielizna ma niewlasciwy kolor, jesli lapiesz o co mi chodzi! XXX
+// Arkhan2 G (knows Armal Sadak) perso2
+L19D30
+ Nie martw sie, na szczescie ma lepszy gust niz go o to podejrzewasz... XXX
+// Arkhan2 L perso2
+L19D31
+ Armal Sadak, gdzie moge go znalezc? XXX
+// Malrot5 perso65
+L19D32A
+ Daj sobie spokoj. XXX
+// Malrot5 perso65
+L19D32B
+ Jesli bedziesz mial szczescie, najwyzej skroca twoje cierpienia. XXX
+// Arkhan2 L perso2
+L19D33A
+ Sluchaj, mowie serio. Chce spotkac sie z tym Armal Sadakiem. XXX
+// Arkhan2 L perso2
+L19D33B
+ To sprawa zycia i smierci! XXX
+// Malrot5 perso65
+L19D34A
+ Armal Sadak mieszka we Wraku, niedaleko stad. XXX
+// Malrot5 perso65
+L19D34B
+ To stara lodz, ktora naprawili. XXX
+// Malrot5 perso65
+L19D34C
+ Ale jesli chcesz przedostac sie przez ochrone, bedziesz potrzebowal zaproszenia. XXX
+// Arkhan2 L perso2
+L19D35
+ Od kogo? Danrysa? XXX
+// Malrot5 perso65
+L19D36A
+ Nie, Delii. To tancerka w nocnym klubie. XXX
+// Malrot5 perso65
+L19D36B
+ Jej szef, Maor, jest malomowny. Ale ona zna Armal Sadaka. XXX
+// Malrot5 perso65
+L19D36C
+ Jesli uwierzy w twoja historyjke, moze ci pomoc. XXX
+// Malrot5 (to herself) perso65
+L19D36D
+ Ale biorac pod uwage twoja twarz, nie moge ci nic obiecac... XXX
+// Arkhan2 L perso2
+L19D37
+ Mozesz powiedziec cos wiecej? XXX
+// Malrot5 perso65
+L19D38
+ Juz ci powiedzialam za duzo! XXX
+// Malrot5 perso65
+L19D39
+ Czas bys stad odplynal, wasza paskudnosc! XXX
+// Arkhan2 0 perso2
+L19D40A
+ Sluchaj uwaznie zdziro! XXX
+// Arkhan2 O perso2
+L19D40B
+ Powiesz Armal Sadakowi, zeby mi pomogl, albo... XXX
+// Malrot5 (furious) perso65
+L19D41
+ Zaraz cofniesz swoje slowa ty kupo gnoju! XXX
+// Arkhan3 L perso3
+L19D42
+ Swiatlosci... XXX
+// Malrot5 (impressed) perso65
+L19D43A
+ Nie podchodz! XXX
+// Malrot5 (impressed) perso65
+L19D43B
+ Kim jestes? Czego chcesz? XXX
+// Arkhan3 L perso3
+L19D44
+ Nazywam sie Arkhan. XXX
+// Malrot5 (warily) perso65
+L19D45A
+ Nigdy cie tu nie widzialam. XXX
+// Malrot5 (warily) perso65
+L19D45B
+ Masz jakis problem? XXX
+// Arkhan3 L perso3
+L19D46A
+ Choroba. XXX
+// Arkhan3 L perso3
+L19D46B
+ Szukam leku. XXX
+// Malrot5 (warily) perso65
+L19D47
+ Tu go nie znajdziesz... XXX
+// Arkhan3 L perso3
+L19D48
+ Czy znasz kogos kto moglby mi... pomoc? XXX
+// Malrot5 perso65
+L19D49A
+ Moze Armal Sadak... XXX
+// Malrot5 perso65
+L19D49B
+ Ale nie robilabym sobie wielkich nadziei! XXX
+// Arkhan3 L perso3
+L19D50
+ Gdzie moge znalezc Armal Sadaka? XXX
+// Malrot5 perso65
+L19D51A
+ Mieszka tam... w duzej, metalowej lodzi... XXX
+// Malrot5 perso65
+L19D51B
+ Ale nie radze isc tam niezapowiedzianie... XXX
+// Arkhan3 L perso3
+L19D52
+ Kto moze mi pomoc? XXX
+// Malrot5 perso65
+L19D53A
+ Daj spokoj, mowilam! XXX
+// Malrot5 perso65
+L19D53B
+ Przestan! Nie mam ci nic wiecej do powiedzenia! XXX
+// Malrot5 (going to attack A.) perso65
+L19D54
+ Rozszarpie cie na strzepy! XXX
+// Arkhan2 L perso2
+L19D55
+ Nie boj sie. XXX
+// Arkhan2 O perso2
+L19D56
+ Nie martw sie, nie uderzylbym kobiety! XXX
+// Malrot5 perso65
+L19D57
+ Okej. Ale jeden falszywy ruch i jestes trupem! XXX
+// Arkhan2 L perso2
+L19D58
+ Kto cie tak nakrecil? XXX
+// Arkhan2 O perso2
+L19D59
+ Co cie tak wystraszylo? XXX
+// Malrot5 perso65
+L19D60A
+ Dziwne rzeczy sie tu dzieja! XXX
+// Malrot5 perso65
+L19D60B
+ Nie latwo mnie wystraszyc. XXX
+// Malrot5 perso65
+L19D60C
+ Ale widzialam ruszajace sie cienie w tamtej alejce. XXX
+// Malrot5 perso65
+L19D60D
+ Cienie... nieludzkie... cos jak ty. XXX
+// Malrot5 perso65
+L19D60E
+ Najpierw kasaja, potem zadaja pytania... XXX
+// Malrot5 perso65
+L19D60F
+ Jesli lapiesz o co mi chodzi! XXX
+// Arkhan2 L perso2
+L19D61
+ Nie martw sie, obronie cie. XXX
+// Arkhan2 O (defiantly) perso2
+L19D62
+ Jesli twoje cienie przyjda tu weszyc, pozaluja! XXX
+// Arkhan2 G perso2
+L19D63
+ Widzialas cos jeszcze? XXX
+// Malrot5 perso65
+L19D64
+ Nie, ale to co widzialam mi wystarczy! XXX
+// Arkhan3 L perso3
+L19D65
+ Nie boj sie... XXX
+// Malrot5 (violent because scared) perso65
+L19D66A
+ Znajdz sobie inna ofiare potworze! XXX
+// Malrot5 perso65
+L19D66B
+ Nie chcialbys posmakowac mojego ostrza! XXX
+// Arkhan3 L perso3
+L19D67
+ Czego sie boisz? XXX
+// Malrot5 perso65
+L19D68
+ Stworow, ktore wygladaja jak ty! XXX
+// Arkhan3 L perso3
+L19D69
+ Co widzialas? XXX
+// Malrot5 perso65
+L19D70
+ Zamknij sie. Splywaj! XXX
+// Malrot5 (A. shows him an object) perso65
+L19D97
+ Zatrzymaj to, okej? XXX
+// Arkhan2 G perso2
+L19D99
+ Powiedz mi Lupiezco... XXX
+// Malrot5 (interrupting Arkhan) perso65
+L19D100
+ Najpierw sie zatrzymaj koles. Robie sie nerwowa! XXX
+// Arkhan3 L perso3
+L19D101
+ Chce wiedziec czy... XXX
+// Arkhan2 G perso2
+L19D93
+ Nie ruszaj sie! XXX
+// Arkhan2 L perso2
+L19D90
+ Musimy wrocic do Wyzszego Miasta. Chodzmy! XXX
+// Delia (worried) perso10
+L19D91
+ Bede tuz za toba Arkhan. XXX
+// Arkhan2 O perso2
+L19D92A
+ Wejdziemy do Wyzszego Miasta. XXX
+// Arkhan2 O perso2
+L19D92B
+ Trzymaj sie za mna, nie chce cie zgubic po drodze! XXX
+// Arkhan3 G perso3
+L14D239
+ Chodzmy do Wyzszego Miasta. XXX
+// Delia perso10
+L14D240
+ Ruszajmy. Bede za toba. XXX
+// Delia (hit by Arkhan) perso10
+L10D95
+ Nie! Oszalales? Przestan! XXX
+// Arkhan2 G perso2
+L19D73
+ Same smieci... XXX
+// Arkhan3 G perso3
+L19D74
+ Smieci... XXX
+// Arkhan2 G perso2
+L19D75
+ Hej, w srodku tanczy dziewczyna. XXX
+// Arkhan3 G perso3
+L19D76
+ Hmmm... tanczy tam dziewczyna... XXX
+// Arkhan2 G perso2
+L19D77
+ Niewiele widze! XXX
+// Arkhan3 G perso3
+L19D78
+ Pusto... XXX
+// Arkhan2 G perso2
+L19D79
+ Stare kolo. Kompletnie zardzewiale. XXX
+// Arkhan3 G perso3
+L19D80
+ Stare kolo. XXX
+// Malrot5 perso65
+L19D81
+ Czego znow chcesz? XXX
+// Arkhan2 G perso3
+L19D83
+ Nic nie widze... szkoda... XXX
+// Arkhan3 G perso3
+L19D84
+ Nie widze... XXX
+// Arkhan2 G perso2
+L19D85
+ Stara, przegnila beczka... XXX
+// Arkhan3 G perso3
+L19D86
+ Stara beczka... XXX

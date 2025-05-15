@@ -1,0 +1,196 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL49.TXT
+ // Arkhan2 O perso2
+L03D523
+ I'll teach you a lesson! XXX
+// Arkhan3 O perso3
+L03D525
+ I'll teach you! XXX
+// Kalhi perso13
+L49D01
+ Let me go! I didn't steal anything! XXX
+// Malrot8 (pulling out dagger) perso68
+L49D02A
+ You're gonna taste my dagger, babe! XXX
+// Malrot8 (looking at Kalhi's corpse) perso68
+L49D03A
+ Not so tough now, are you, wench? XXX
+// Malrot8 perso68
+L49D03B
+ Too late, rat-face. She's cold meat now! XXX
+// Malrot8 perso68
+L49D03C
+ Come on, my blade's still itching for action! XXX
+// Malrot8 perso68
+L49D04
+ You again. Let's go, butt face! XXX
+// Dhorkan perso11
+L49D05
+ Get over here, Arkhan! Let's get this settled once and for all! XXX
+// Dhorkan (snarling) perso11
+L49D06A
+ We have a score to settle, Arkhan! XXX
+// Dhorkan perso11
+L49D06B
+ Let's get it over with! XXX
+// Arkhan2 G perso2
+L49D38
+ Dhorkan had the key! XXX
+// Arkhan3 G perso2
+L49D39
+ Dhorkan had the key! XXX
+// Malrot8 perso68
+L49D02B
+ Then you'll have something to scream about! XXX
+// Malrot8 (fighting K. and seeing A. arrive) perso68
+L49D40
+ Here comes the Beast to rescue Beauty! XXX
+// Arkhan2 G (seeing Dhorkan) perso2
+L49D07
+ Dhorkan! XXX
+// Arkhan3 G (seeing Dhorkan) perso3
+L49D08
+ Dhorkan... Dhorkan! XXX
+// Dhorkan (startled and angry) perso11
+L49D09
+ Arkhan! Don't you ever give up!? XXX
+// Arkhan2 G perso2
+L49D10
+ This is it! You're going to die, traitor! XXX
+// Arkhan3 G perso3
+L49D11
+ I've got you now! XXX
+// Dhorkan perso11
+L49D12A
+ Looking for me, Blackhead? XXX
+// Dhorkan (drawing weapon)perso11
+L49D12B
+ Come and get it! XXX
+// Kalhi perso13
+L49D14
+ Thanks, Arkhan, I owe you one. XXX
+// Arkhan2 L (worried)perso2
+L49D15
+ Kalhi! Why did you risk you life like that? XXX
+// Arkhan2 O (angry)perso2
+L49D16
+ What are you  nuts! You could've been killed! XXX
+// Arkhan3 L (worried)perso3
+L49D17
+ You could've been killed! XXX
+// Arkhan3 O (angry)perso3
+L49D18
+ Boiling blood, how stupid can you get?! XXX
+// Kalhi perso13
+L49D19A
+ I was bartering with him! XXX
+// Kalhi perso13
+L49D19B
+ How was I supposed to know he'd try to take everything! XXX
+// Arkhan2 G perso2
+L49D20
+ What did you want him to trade with you? XXX
+// Arkhan3 G perso3
+L49D21
+ What were you trading for? XXX
+// Kalhi perso13
+L49D22A
+ Look, a little thunderbolt... it still works. XXX
+// Kalhi perso13
+L49D22B
+ It's for you. Here! XXX
+// Arkhan2 L perso2
+L49D23A
+ Thanks. It'll come in handy. XXX
+// Arkhan2 L perso2
+L49D23B
+ But next time, don't risk your life, okay?! XXX
+// Arkhan3 O perso2
+L49D24A
+ You risked our lives for that! XXX
+// Arkhan3 O perso2
+L49D24B
+ Next time, be smart, stay at Danrys's place! XXX
+// Arkhan3 L perso3
+L49D25
+ Thanks. But be careful... XXX
+// Arkhan3 O perso3
+L49D26
+ That? Great Solaar, you could have been killed... for that! XXX
+// Kalhi perso13
+L49D27
+ O.K., O.K! I get the message. XXX
+// Kalhi (upset, nearly crying) perso13
+L49D28
+ Thanks for worrying about me! XXX
+// Arkhan2 G (killed Dhorkan) perso2
+L49D42
+ That was your last mistake, Dhorkan! XXX
+// Arkhan3 G (killed Dhorkan) perso3
+L49D43
+ You're  history  Dhorkan! XXX
+// Malrot8 (A. killed Kalhi) perso68
+L49D41A
+ Hey, I could've slit her right down the middle! XXX
+// Malrot8 perso68
+L49D41B
+ But now I've got you! XXX
+// Arkhan2 G perso2
+L49D29
+ Kalhi, you okay? XXX
+// Arkhan3 G perso3
+L49D30
+ Kalhi? XXX
+// Kalhi (alarmed)perso13
+L49D31
+ Arkhan, watch out! XXX
+// Arkhan2 G perso2
+L49D47A
+ Kalhi, no... XXX
+// Arkhan2 G perso2
+L49D47B
+ But why?! XXX
+// Arkhan3 L perso3
+L49D48
+ Kalhi, no... XXX
+// Kalhi (afraid) perso13
+L10D107
+ Stop it! XXX
+// Kalhi (upset) perso13
+L10D106
+ Arkhan! Calm down! XXX
+// Dhorkan (Arkhan running away) perso11
+L49D46
+ Yellow-belly! XXX
+// Arkhan2 L perso2
+L49D32A
+ No. No one else could do it, and I can't do it either! XXX
+// Arkhan2 L perso2
+L49D32B
+ No one's ever opened this door. XXX
+// Arkhan2 O perso2
+L49D33
+ Blasted door! No one's ever been able to open it! XXX
+// Arkhan3 L perso3
+L49D34
+ No... no one's ever opened it... XXX
+// Arkhan3 O perso3
+L49D35
+ It won't open! XXX
+// Arkhan2 G perso2
+L49D36
+ There's a kind of slot in the casing. XXX
+// Arkhan3 G perso3
+L49D37
+ A slot in the casing... XXX
+// Arkhan2 G perso2
+L49D44
+ No way, they've sealed the door! XXX
+// Arkhan3 G perso3
+L49D45
+ Sealed! XXX
+// Arkhan2 G perso2
+L49D49
+ Just pipes! XXX
+// Arkhan3 G perso3
+L49D50
+ Pipes! XXX

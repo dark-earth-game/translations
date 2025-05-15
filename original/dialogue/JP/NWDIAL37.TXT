@@ -1,0 +1,145 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL37.TXT
+ // Arkhan2 G perso2 (from inside helmet)
+L37D01A
+ The outside world! XXX
+// Arkhan2 G perso2 (from inside helmet)
+L37D01B
+ I've left the Stallite territory. XXX
+// Arkhan3 G perso3 (from inside helmet)
+L37D02A
+ Outside! XXX
+// Arkhan3 G perso3 (from inside helmet)
+L37D02B
+ I've left the Stallite. XXX
+// Arkhan2 G perso2 (from inside helmet)
+L37D03
+ This thing is too heavy. Gotta take it off. XXX
+// Arkhan3 G perso3
+L37D04
+ This things too heavy. Take it off! XXX
+// Arkhan2 G (seeing a creature)perso2
+L37D01C
+ Looks like someone was expecting me! XXX
+// Arkhan3 G (seeing a creature)perso3
+L37D02C
+ Looks like we got company! XXX
+// Arkhan2 G perso2
+L37D05
+ It's deep... Better not go in too far. XXX
+// Arkhan3 G perso3
+L37D06
+ Deep... Not too far. XXX
+// Arkhan2 G perso2
+L37D07
+ You can see the ramparts and the Guardians of Fire barracks. XXX
+// Arkhan3 G perso3
+L37D08
+ You can see ra-ramparts and the barracks. XXX
+// Arkhan2 G perso2
+L37D09
+ The entrance to a cave! XXX
+// Arkhan3 G perso3
+L37D10
+ A cave! XXX
+// Arkhan2 G (in deeper water)perso2
+L37D11
+ Better put on the helmet... XXX
+// Arkhan3 G (in deeper water)perso3
+L37D12
+ Better put the helmet back on... XXX
+// Arkhan2 L perso2
+L37D13A
+ Had enough?! XXX
+// Arkhan2 L perso2
+L37D13B
+ You scared of what's in the cave? XXX
+// Arkhan2 O perso2
+L37D14
+ You're too scared to move, aren't you, slimeball! XXX
+// Arkhan3 L perso3
+L37D15A
+ Scared, huh! XXX
+// Arkhan3 L perso3
+L37D15B
+ Scared of the cave!? XXX
+// Arkhan3 O (enraged) perso3
+L37D16
+ Get over here! Fight! XXX
+// Arkhan2 G perso2
+L37D17
+ Get over here! I've got claws too! XXX
+// Arkhan3 G perso3
+L37D18
+ Come on, monster! XXX
+// Arkhan2 L perso2
+L37D19A
+ What was that? Man or a beast ? XXX
+// Arkhan2 L perso2
+L37D19B
+ I'd better find a cure before I turn into one of those! XXX
+// Arkhan3 L perso3
+L37D20A
+ What was that... Man? A beast? XXX
+// Arkhan3 L perso3
+L37D20B
+ Must get well again... don't wanna be like that... XXX
+// Arkhan2 O perso2
+L37D21
+ Filthy monster! XXX
+// Arkhan3 O perso3
+L37D22
+ Filthy monster! XXX
+// Arkhan2 L perso2
+L37D23
+ Well, what do you know. You're afraid of the water! Scared it'll clean you off? XXX
+// Arkhan3 L perso3
+L37D24
+ Afraid of the water, huh? XXX
+// Arkhan2 L perso2
+L37D25A
+ That slimeball was tough! XXX
+// Arkhan2 L perso2
+L37D25B
+ If I don't find the Tomb, the entire population will be decimated! XXX
+// Arkhan3 L perso3
+L37D26A
+ Tough! XXX
+// Arkhan3 L perso3
+L37D26B
+ Work fast, or monsters'll wipe out the Stallite. XXX
+// Arkhan2 G perso2
+L37D27
+ Nothing but old rusted debris... XXX
+// Arkhan3 G perso3
+L37D28
+ Old rusted debris... XXX
+// Arkhan2 G perso2
+L37D29
+ Even Danrys couldn't do anything with this stuff. XXX
+// Arkhan2 G perso2
+L37D31
+ What kind of creature would have bones that size? XXX
+// Arkhan3 G perso3
+L37D32
+ Animal bones... huge... XXX
+// Arkhan2 G perso2
+L37D33A
+ Traces of piss on the ground... XXX
+// Arkhan2 G perso2
+L37D33B
+ And an animal smell. XXX
+// Arkhan3 G perso3
+L37D34
+ Piss on the ground... bad smell! XXX
+// Arkhan2 G (finding the remains of a fish)perso2
+L37D35
+ Leftovers from somebody's  meal... XXX
+// Arkhan3 G (finding the remains of a fish)perso3
+L37D36
+ Leftovers... XXX
+// Arkhan2 G perso2
+L37D37
+ That's strange, the wall is hot here... XXX
+// Arkhan3 G perso3
+L37D38
+ I feel heat. XXX

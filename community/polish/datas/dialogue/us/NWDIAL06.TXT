@@ -1,0 +1,607 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL06.TXT
+ // Dhorkan (A. had left after hitting him) perso11
+L06D03A
+ Jak smiesz pokazywac sie tu znowu! XXX
+// Dhorkan perso11
+L06D03B
+ Nie waz sie mnie straszyc!  XXX
+// Dhorkan perso11
+L06D43A
+ Co ty robisz... wbiegasz tutaj ot tak sobie?! XXX
+// Dhorkan (unpleasantly surprised to see Arkhan) perso11
+L06D43B
+ Arkhan? Ty?! Nadal... krecisz sie tu? XXX
+// Dhorkan perso11
+L06D43C
+ Znowu ty!  XXX
+// Dhorkan perso11
+L06D44A
+ Przestan wchodzic i wychodzic stad w kolko! XXX
+// Dhorkan perso11
+L06D44B
+ Czy zrobiles chociaz to co ci rozkazalem? XXX
+// Dhorkan (threatening) perso11
+L06D44C
+ Wrociles? Nie mow potem, ze cie nie ostrzegalem! XXX
+// Dhorkan (threatening) perso11
+L06D44D
+ Wynos sie, albo mieczem przypomne ci kto tu rzadzi! XXX
+// Dhorkan (Arkhan attacks him) perso11
+L06D32
+ Gwardzisci Ognia! Ratunku! XXX
+// Arkhan1 L perso1
+L06D42A
+ Niech swiatlosc bedzie z toba komendancie Dhorkan! XXX
+// Dhorkan perso11
+L06D05A
+ Ah, Arkhan, to ty. XXX
+// Arkhan1 L (apologizing) perso1
+L06D42B
+ Komendancie Dhorkan, przepraszam, ja... ja bylem... uh... XXX
+// Arkhan1 O  (offhand)perso1
+L06D42C
+ Witaj komendancie! XXX
+// Arkhan1 O (making excuses/with girlfriend) perso1
+L06D42D
+ Komendancie Dhorkan, to przez Zeda... Uh....on zatrzymal mnie... XXX
+// Dhorkan perso11
+L06D05B
+ Oszczedz mi twojej arogancji i kiepskich wymowek.  Nie jestem w nastroju! XXX
+// Dhorkan perso11
+L06D05C
+ Wielka Patrzaca w Slonce Lory zwolala wazna narade w swiatyni Boskiego Slonca. XXX
+// Dhorkan perso11
+L06D05D
+ Zostales wyznaczony do pilnowania drzwi komnaty obrad. XXX
+// Dhorkan perso11
+L06D05E
+Gwardzista  Jedar czeka na ciebie. XXX
+// Dhorkan perso11
+L06D05F
+ Zejdz na dol i obejmij stanowisko zanim Wielka Patrzaca sie zjawi.  XXX
+// Dhorkan (irritated) perso11
+L06D04
+ Co ty tutaj robisz? Natychmiast wroc na swoje stanowisko! XXX
+// Dhorkan perso11
+L06D06A
+ Gwardzisto Ognia zejdz na dol i natychmiast obejmij swoje stanowisko! XXX
+// Dhorkan perso11
+L06D06B
+ Arkhan! Kiedy wydaje rozkaz, oczekuje by go wypelniono! XXX
+// Dhorkan perso11
+L06D06C
+ Opusc koszary i przylacz sie do Jedara zanim Wielka Patrzaca sie zjawi! XXX
+// Dhorkan perso11
+L06D06D
+ To niesubordynacja! XXX
+// Dhorkan (preparing to unsheathe his sword) perso11
+L06D06E
+ Wracaj na stanowisko, albo dam ci lekcje, ktorej nigdy nie zapomnisz!  XXX
+// Dhorkan perso11
+L06D06F
+ Tym razem dostapisz zaszczytu zasmakowania mojego miecza!  XXX
+// Dhorkan perso11
+L06D28Z
+ Czara sie przelala!  Przygotuj sie na smierc! XXX
+// Phedoria (alarmed) perso26
+L06D84
+ Komendant! XXX
+// Phedoria perso26
+L06D07
+ Arkhan! Morderca! XXX
+// Phedoria perso26
+L06D62
+ Stoj Dhorkan. Jestes moim wiezniem! XXX
+// Dhorkan perso11
+L06D39
+ Glupcy o mrocznych duszach! Nigdy mnie nie dostaniecie! XXX
+// Phedoria (fires at Dhorkan and misses) perso26
+L06D40
+ Niech to szlag! Chybilam! XXX
+// Arkhan2 G perso2
+L06D35A
+ Nie pozwol mu uciec! XXX
+// Arkhan3 G perso3
+L06D35B
+ Musimy go zatrzymac! XXX
+// Phedoria perso26
+L06D41
+ Biegnij za nim, a ja pojde ostrzec Lory! XXX
+// Arkhan2 O (furious) perso2
+L06D33B
+ Przysiaglbym na moja pochodnie.... ze chybilas celowo! XXX
+// Arkhan3 O (furious) perso3
+L06D33D
+ Podly dran! Ucieka! XXX
+// Arkhan2 G perso2
+L06D82
+ Dhorkan znikl! XXX
+// Arkhan3 G perso3
+L06D83
+ Dhorkan umknal! XXX
+// Dhorkan (commanding) perso11
+L06D77B
+ Znakomicie, mozesz odejsc. XXX
+// Dhorkan perso11
+L06D214B
+ Nie stoj tutaj, idz! XXX
+// Dhorkan (domineering) perso11
+L06D16A
+ Oh... zapominasz sie Arkhan! XXX
+// Dhorkan perso11
+L06D53B
+ Wynos sie zanim cos zlego ci sie stanie! XXX
+// Dhorkan perso11
+L06D16F
+ A teraz wynos sie! XXX
+// Dhorkan perso11
+L06D80C
+ No juz, wynos sie! XXX
+// Dhorkan perso11
+L06D18C
+ Oh, zejdz mi z oczu, zapowietrzasz mi komnate! XXX
+// Dhorkan perso11
+L06D20
+ Precz ty popaprancu, albo przeszyje cie mieczem! XXX
+// Dhorkan (arrogant) perso11
+L06D26A
+ Naprawde sadzisz, ze mozesz mnie dorwac? Jestes tylko gnijacym wrakiem czlowieka! XXX
+// Dhorkan (arrogant) perso11
+L06D26H
+ Ty... jestes tylko zalosnym wrakiem. Nie boje sie ciebie! XXX
+// Dhorkan perso11
+L06D05G
+ Arkhan! Zaczekaj, nie odchodz! XXX
+// Dhorkan perso11
+L06D54A
+ Arkhan! XXX
+// Dhorkan perso11
+L06D54B
+ Wyraze sie jasno: wyswiadcze ci przysluge, ale nie wracaj tu dopoki nie zdobedziesz dla mnie informacji! XXX
+// Dhorkan perso11
+L06D54C
+ Od tej chwili to ja rzadze Stallite.  XXX
+// Dhorkan perso11
+L06D54D
+ I nie zapominaj o tym, albo spedzisz reszte dni gnijac w smierdzacej celi. XXX
+// Dhorkan perso11
+L06D54E
+ Taki los czeka kazdego kto osmieli sie wystapic przeciwko mnie!  XXX
+// Arkhan1 G perso1
+L06D09A
+ Mechanizm. XXX
+// Arkhan2 G perso2
+L06D09B
+ Mechanizm, przypomina zamek. XXX
+// Arkhan3 G perso3
+L06D09C
+ Mechanizm. XXX
+// Arkhan2G perso2
+L06D669
+ Dhorkan musial tedy uciec.... XXX
+// Arkhan3G perso3
+L06D670
+ Dhorkan musial tedy uciec.... XXX
+// Arkhan1 L (not happy about being put on guard duty) perso1
+L06D10A
+ Komendancie Dhorkan moze moglbym sie bardziej przydac... uh...  XXX
+// Arkhan1 O (not happy about being put on guard duty) perso1
+L06D10B
+ Sluzba na strazy z Jedarem? O nie! Nie jestem potrzebny gdzies indziej? XXX
+// Dhorkan (irritated) perso11
+L06D10C
+ Wystarczy Arkhan! Rozkazy przyszly od samej Wielkiej Patrzacej w Slonce Lory!  XXX
+// Dhorkan (irritated) perso11
+L06D10D
+  Zejdz na dol i zamelduj sie natychmiast na stanowisku! XXX
+// Arkhan1 L perso1
+L06D11A
+ Narada z Wielka Patrzaca?  Kto chce sie z nia spotkac? XXX
+// Arkhan1 O perso1
+L06D11B
+ Komu udalo sie wyciagnac Wielka Patrzaca w Slonce z lozka bladym switem?  XXX
+// Dhorkan (surprised by A's arrogance, then catches himself) perso11
+L06D12A
+ Kto? Nooo... Uwazaj na slowa Gwardzisto... po prostu wykonuj rozkazy! XXX
+// Dhorkan perso11
+L06D12B
+ Bierz bron i biegnij na dol przywitac Wielka Patrzaca w Slonce. XXX
+// Arkhan1 L perso1
+L06D01A
+ Ja... XXX
+// Arkhan1 O perso1
+L06D01B
+ Ale... XXX
+// Dhorkan perso11
+L06D666
+ No juz, zamelduj sie na stanowisku! XXX
+// Arkhan2 L perso2
+L06D13A
+ Dhorkan jestem chory!  XXX
+// Arkhan2 L perso2
+L06D13B
+ Ludzie, ktorzy zaatakowali Wielka Patrzaca... zatruli mnie tym czarnym swinstwem!  XXX
+// Arkhan2 L perso2
+L06D13C
+ Mowia, ze jestem jednym z wrogow.  To nieprawda: pelnilem moje obowiazki, to wszystko!  XXX
+// Arkhan2 O perso2
+L06D14A
+ Dhorkan, na sily Mroku, odwolaj Gwardzistow Ognia! XXX
+// Arkhan2 O perso2
+L06D14B
+ Dran, ktory zaatakowal Lory zatrul mnie... a teraz sami Gwardzisci probuja mnie zabic! XXX
+// Arkhan2 O perso2
+L06D14C
+ Pelnilem moje obowiazki... Jestem po waszej stronie.  Musicie mnie bronic!  XXX
+// Arkhan3 L perso2
+L06D63
+ Ludzie, ktorzy zaatakowali Lory zatruli mnie... Wszyscy mnie scigaja.  Potrzebuje twej pomocy!  XXX
+// Arkhan3 O (irritated) perso2
+L06D64
+ Dhorkan jestem chory... moje zycie jest w niebezpieczenstwie. Musisz mi pomoc! XXX
+// Dhorkan perso11
+L06D45A
+ Spokojnie, uspokoj sie... XXX
+// Dhorkan perso11
+L06D45B
+ Co uzdrowiciel Thanandar mial do powiedzenia? XXX
+// Arkhan2 G perso2
+L06D46A
+ Powiedzial mi o krypcie i leku, ktory ponoc sie w niej znajduje....  XXX
+// Arkhan2 G perso2
+L06D46B
+ Kazal mi znalezc mojego ojca.... mowil, ze ojciec moglby mnie tam zaprowadzic.  XXX
+// Arkhan3 G perso3
+L06D47A
+ Mowil o krypcie i leku.  Twierdzil, ze moj ojciec zna droge.  XXX
+// Dhorkan perso11
+L06D65A
+ Nonsens! Thanandar oklamal cie by dac ci nadzieje. XXX
+// Dhorkan perso11
+L06D65B
+ Prawda jest taka... ze Patrzacy w Slonce juz nie kontroluja sytuacji.  XXX
+// Dhorkan (bragging) perso11
+L06D65C
+ Dlatego zostalem zmuszony do objecia dowodzenia nad Stallite!  XXX
+// Dhorkan (suddenly affable) perso11
+L06D65D
+ Wiesz jak wielkim szacunkiem darze twojego ojca i Wielka Patrzaca Lory.  XXX
+// Dhorkan perso11
+L06D65E
+ Oglosilem stan wyjatkowy by moc ochraniac ich skuteczniej. XXX
+// Dhorkan perso11
+L06D65F
+ Jesli chodzi o ciebie... Zdecydowanie byles dobrym Gwardzista Ognia. XXX
+// Dhorkan perso11
+L06D65G
+ Ale obecnie, kto by przysiagl, ze mozna ci nadal ufac? XXX
+// Arkhan2 L perso2
+L06D72A
+ Dhorkan przysiegam na Boskie Slonce....Nie uczynilem nic zlego. XXX
+// Arkhan2 L perso2
+L06D72B
+ Uzdrowiciel Thanandar moze poswiadczyc... Jestem nadal czlowiekiem. XXX
+// Arkhan2 O perso2
+L06D73A
+ Nic nie zrobilem! To ludzie... wszyscy sie mnie boja! XXX
+// Arkhan2 O perso2
+L06D73B
+ Nadal jestem czlowiekiem. Zapytaj uzdrowiciela! XXX
+// Arkhan3 L perso3
+L06D74
+ Nie jestem zdrajca! Ale teraz nikt mi nie ufa! XXX
+// Arkhan3 O perso3
+L06D75
+ Ale ja nie zrobilem nic zlego! XXX
+// Dhorkan perso11
+L06D76A
+ Moze i nie, ale Thanandar nie powinien byl cie puszczac... XXX
+// Dhorkan perso11
+L06D76B
+ Powinien zostac przy leczeniu. Dawanie rad przekracza jego kompetencje! XXX
+// Dhorkan perso11
+L06D76C
+ Nie ufam mu.  Jesli chcesz wrocic do swoich ludzi, musisz udowodnic mi swoja lojalnosc. XXX
+// Dhorkan perso11
+L06D76D
+ Wroc do Thanandara, potem wroc do mnie o opowiedz mi o co powie i zrobi. XXX
+// Dhorkan perso11
+L06D76E
+ Idz! XXX
+// Arkhan2 G perso2
+L06D48A
+ Nie moglem znalezc Thanandara... XXX
+// Arkhan3 G perso2
+L06D48B
+ Nie moglem znalezc Thanandara... XXX
+// Dhorkan perso11
+L06D51A
+ A wiec wynos sie stad.  Mam co innego do roboty! XXX
+// Dhorkan perso11
+L06D51B
+ Kazdy inny juz dawno zakulby cie w kajdany!  XXX
+// Dhorkan perso11
+L06D51C
+ Szanuje cie, ale nie probuj wykorzystywac mej hojnosci! XXX
+// Arkhan2 L perso2
+L06D204A
+ Wrocilem zobaczyc sie z Thanandarem. XXX
+// Arkhan2 L perso2
+L06D204B
+ Jest zajety leczeniem kogos. XXX
+// Arkhan3 L perso2
+L06D205A
+ Znow widzialem Thanandara. XXX
+// Arkhan3 L perso2
+L06D205B
+ On... leczy kogos. XXX
+// Dhorkan perso11
+L06D206A
+ Hmmm... dobrze... XXX
+// Dhorkan perso11
+L06D206B
+ Jesli cokolwiek sie stanie, natychmiast mi o tym donies. XXX
+// Dhorkan perso11
+L06D206C
+ Do tej chwili, staraj sie nie rzucac w oczy... inni Gwardzisci moga nie miec rownie dobrego serca co ja. XXX
+// Arkhan2 O perso2
+L06D207A
+ Widzialem Thanandara. XXX
+// Arkhan2 O perso2
+L06D207B
+ Probuje poskladac twarz Dulnysa. XXX
+// Arkhan2 O perso2
+L06D207C
+ Po tym co mu zrobilem, nie bedzie mial latwej roboty!  XXX
+// Arkhan3 O perso3
+L06D208A
+ Widzialem Thanandara. XXX
+// Arkhan3 O perso3
+L06D208B
+ Marnuje czas probujac uratowac Dulnysa! XXX
+// Arkhan3 O perso3
+L06D208C
+ Po tym co mu zrobilem... bedzie mu do tego potrzebny cud Boskiego Slonca! XXX
+// Dhorkan (angry) perso11
+L06D209A
+ Arkhan nie zapominaj do kogo mowisz! XXX
+// Dhorkan perso11
+L06D209B
+ A na twoim miejscu nie przychodzilbym tutaj chwalac sie tym jak zmaltretowales Gwardziste Ognia. XXX
+// Dhorkan perso11
+L06D209C
+ Wyjdz stad nim zapomne jak bardzo cie lubie!  XXX
+// Arkhan2 L perso2
+L06D210
+ Thanandar nadal czuwa przy lozu Dulnysa. XXX
+// Arkhan2 O perso2
+L06D211
+ Thanandar nadal zszywa Dulnysa. XXX
+// Arkhan3 L perso3
+L06D212
+ Thanandar nadal zajmuje sie Dulnysem. XXX
+// Arkhan3 O perso3
+L06D213
+ Thanandar jest zajety zszywaniem Dulnysa! XXX
+// Dhorkan perso11
+L06D214A
+ Nie musiales fatygowac sie tylko po to by mi to powiedziec.  XXX
+// Arkhan2 G perso2
+L06D49A
+ Musialem zabic Thanandara! XXX
+// Arkhan2 G perso2
+L06D49B
+ Nie mialem wyboru... On zaatakowal pierwszy! XXX
+// Arkhan2 G perso2
+L06D49C
+ I byl z nim ktos jeszcze... XXX
+// Arkhan3 G perso3
+L06D50A
+ Zabilem Thanandara, jego i jeszcze jednego faceta... XXX
+// Dhorkan perso11
+L06D77A
+ Thanandar nie zyje? Znakomicie! Moje obawy byly bezpodstawne.  XXX
+// Arkhan2 G perso2
+L06D78
+ Tak, ale zaczekaj.. XXX
+// Arkhan3 G perso3
+L06D79
+ Zaczekaj... XXX
+// Dhorkan (interrupting Arkhan) perso11
+L06D80A
+ Arkhan dotrzymuje danego slowa.  Zamierzam puscic cie wolno... XXX
+// Dhorkan perso11
+L06D80B
+ Ale nie probuj nigdy mnie oszukac! XXX
+// Arkhan2 L perso2
+L06D21A
+ Moj ojciec mowil, ze zamierza zlozyc ci wizyte... gdzie on jest?  XXX
+// Arkhan2 O perso2
+L06D21B
+ Moj ojciec cie odwiedzil... Mow gdzie on jest! XXX
+// Arkhan3 L perso3
+L06D21C
+ Gdzie jest moj ojciec? XXX
+// Arkhan3 O perso3
+L06D21D
+ Powiesz mi gdzie jest moj ojciec! XXX
+// Dhorkan (pretending not to know where Rylsadhar is) perso11
+L06D22A
+ Twoj ojciec? A skad ja mam wiedziec? Jak mniemam poszedl ukryc sie gdzies...  w jakims bezpiecznym miejscu. XXX
+// Dhorkan perso11
+L06D22B
+ A teraz znikaj... jesli nie chcesz trafic do wiezienia! XXX
+// Arkhan2 G perso2
+L06D52A
+ Ale czy nie powinnismy... XXX
+// Arkhan3 G perso3
+L06D52B
+ Dhorkan poczekaj... XXX
+// Dhorkan perso11
+L06D53A
+ Arkhan! Patrzacy w Slonce nie sa nawet w polowie tak laskawi jak ja.  XXX
+// Arkhan2 L perso2
+L06D15A
+ Dhorkan potrzebuje twej pomocy. XXX
+// Arkhan2 O perso2
+L06D81A
+ A wiec to tak!  Juz mnie nie potrzebujesz wiec sie mnie pozbywasz! XXX
+// Arkhan2 O perso2
+L06D81B
+ Dhorkan nie zaslugujesz na swoja range. Niedobrze mi na twoj widok! XXX
+// Arkhan3 L perso3
+L06D15C
+ Dhorkan blagam. Jesli mi nie pomozesz nie mam najmniejszej szansy! XXX
+// Arkhan3 O perso3
+L06D15D
+ Ty smierdzacy draniu, wyrzucasz mnie! XXX
+// Dhorkan perso11
+L06D16B
+ Zaatakowales Gwardzistow Ognia... Juz ten czyn zasluguje na wygnanie!  XXX
+// Dhorkan perso11
+L06D16C
+ Kiedys cie szanowalem, wiec pozwole ci odejsc.  XXX
+// Dhorkan perso11
+L06D16D
+ Jesli szukasz pomocy idz pojeczec Patrzacym w Slonce! XXX
+// Dhorkan perso11
+L06D16E
+ Oni sa odpowiedzialni za twoj smutny los!  XXX
+// Arkhan2 L perso2
+L06D17A
+ A krypta, o ktorej Thanandar mi wspomnial... XXX
+// Arkhan2 O perso2
+L06D17B
+ Przynajmniej powiedz mi co wiesz o krypcie! XXX
+// Arkhan3 G perso3
+L06D17C
+ Co wiesz o krypcie? XXX
+// Dhorkan (scornful) perso11
+L06D18A
+ Krypta... kolejna rzecz wymyslona przez Patrzacych w Slonce by cie oglupic.  XXX
+// Dhorkan perso11
+L06D18B
+ Dam ci rade: zapomnij o tych wszystkich klamstwach. XXX
+// Arkhan2 L perso2
+L06D19A
+ Rozczarowales mnie Dhorkan.  XXX
+// Arkhan2 L perso2
+L06D19B
+ Nazywasz siebie wladca, a jestes tylko tchorzem! XXX
+// Arkhan2 O perso2
+L06D19C
+ Klne sie na ma pochodnie... jestes tylko tchorzem!  XXX
+// Arkhan3 L perso3
+L06D19D
+ Wyrzucasz mnie! XXX
+// Arkhan3 O perso3
+L06D19E
+ Zdrajca! XXX
+// Arkhan2 G (plays his trump) perso2
+L06D23A
+ Posluchaj... porozmawiajmy o tym... SORDOS! XXX
+// Arkhan3 G (plays his trump) perso3
+L06D23B
+ Mmm... Porozmawiajmy o tym... SORDOS! XXX
+// Dhorkan (caught off-balance) perso11
+L06D24
+ Slucham? Co... Co ty insynuujesz? XXX
+// Arkhan2 L perso2
+L06D25A
+ Wiem o wszystkim i zadam wyjasnien! XXX
+// Arkhan2 O perso2
+L06D25B
+ Wiem o wszystkim!  XXX
+// Arkhan3 G (threatening) perso3
+L06D25D
+ Wiem o wszystkim szalencze. XXX
+// Dhorkan (arrogant) perso11
+L06D26B
+ Wydaje ci sie, ze wiesz wszystko, ale twoj chory umysl niczego nie pojmuje.  XXX
+// Dhorkan (arrogant) perso11
+L06D26C
+ Mam wielkie plany wzgledem Stallite.  XXX
+// Dhorkan (arrogant) perso11
+L06D26D
+ Patrzacy w Slonce sa slabi... sa niezdolni do podejmowania niezbednych decyzji.  XXX
+// Dhorkan (arrogant) perso11
+L06D26E
+ Moje rzady rozpoczna nowa ere! XXX
+// Dhorkan (arrogant) perso11
+L06D26F
+ A jesli bede musial pracowac ze smieciami pokroju Sordosa by narzucic moje wielkie plany nedznym czerwiom zamieszkujacym Sparte, coz... XXX
+// Dhorkan (arrogant) perso11
+L06D26G
+ Uczynie to bez wahania! XXX
+// Dhorkan (disdainful) perso11
+L06D26I
+ Powiedz mi, kto uwierzy, ze taki grzyb jak ty jest nadal czlowiekiem?  XXX
+// Dhorkan (disdainful) perso11
+L06D26J
+ Twoi przyjaciele zwrocili sie przeciw tobie!  XXX
+// Arkhan2 G (threatening) perso2
+L06D27
+ Klne sie na swiatlo Boskiego Slonca, ze odkryje twa prawdziwa twarz przed calym swiatem!  XXX
+// Arkhan3 G perso3
+L06D667A
+ Gdziekolwiek nie pojdziesz, czegokolwiek nie musialbym zrobic... dopadne cie! XXX
+// Arkhan3 G perso3
+L06D667B
+ Wszyscy sie dowiedza kto jest prawdziwym potworem!  XXX
+// Dhorkan perso11
+L06D28A
+ Nikt ci nie uwierzy. Potrzebujesz dowodu. XXX
+// Dhorkan perso11
+L06D28B
+ I zadnym nie dysponujesz! XXX
+// Arkhan1 G perso1
+L06D200
+ Komendancie, wiesz co to jest? XXX
+// Dhorkan (dry) perso11
+L06D203
+ Wystarczy! Co mnie to obchodzi?! XXX
+// Arkhan1 G perso1
+L06D66
+ Uwazaj Dhorkan! XXX
+// Arkhan2 G perso2
+L06D67
+ Gin Dhorkan! XXX
+// Arkhan3 G perso3
+L06D68
+ Gin! XXX
+// Arkhan2 G perso2
+L06D69
+ Nadeszla twa godzina zdrajco! XXX
+// Arkhan3 G perso3
+L06D70
+ Gin zdrajco! XXX
+// Arkhan2 L perso2
+L06D33A
+ Tajemne przejscie! Ruszajmy za nim! XXX
+// Arkhan3 L perso3
+L06D33C
+ Brac go! XXX
+// Phedoria (to herself) perso26
+L06D34A
+ Nie wiedzialam, ze jest tu jakies przejscie. XXX
+// Phedoria perso26
+L06D34B
+ Nie stac tak, za nim! XXX
+// Phedoria (furious) perso26
+L06D60
+ Wystarczy! Brac Dhorkana! XXX
+// Phedoria perso26
+L23D107
+ Przypieczetowales swoj los! XXX
+// Arkhan2 G perso2
+L06D55C
+ Ani sladu. XXX
+// Arkhan3 G perso3
+L06D55D
+ Ani sladu. XXX
+// Phedoria perso26
+L06D61A
+ Ty idz tedy! XXX
+// Phedoria perso26
+L06D61B
+ Sprobuje otworzyc przejscie! XXX

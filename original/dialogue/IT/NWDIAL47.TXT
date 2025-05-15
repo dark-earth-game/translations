@@ -1,0 +1,52 @@
+Début du fichier F:\DEV\DKE\DATAS\DIALOGUE\IT\NWDIAL47.TXT
+ // Arkhan3 G perso3
+L24D11
+Thanandar! XXX
+// Thanandar (impaziente) perso24
+L24D13
+Allora, la cripta? XXX
+// Arkhan2 L perso2
+L24D25
+Tu sai quello che mi sta succedendo? Chi sei? XXX
+// Arkhan2 O perso2
+L24D26
+Chiunque tu sia, non avvicinarti o finirai come quella larva laggiù! XXX
+// Thanandar (gridando attraverso la porta) perso24
+L24D17
+Va bene capitano Phedoria! È tutto in ordine! XXX
+// Thanandar perso24
+L24D27A
+Andiamo, calmati, sono qui solo per aiutarti. XXX
+// Thanandar perso24
+L24D27B
+Quest'imbecille superstizioso non sapeva quel che faceva. XXX
+// Arkhan2 O perso2
+L24D28
+Allora dimmi chi sei... e quello che mi sta succedendo! XXX
+// Thanandar perso24
+L24D29A
+Sono Thanandar, un Predicatore, come tuo padre, ma sono soprattutto un Guaritore. XXX
+// Thanandar perso24
+L24D29B
+E so quale male ti affligge, Arkhan, lo conosco molto bene. XXX
+// Arkhan2 L perso2
+L24D30
+Non c'è un modo per curarmi? XXX
+// Arkhan2 O perso2
+L24D31
+Tu pretendi di essere un Guaritore, allora trova un modo per curarmi! XXX
+// Thanandar perso24
+L24D20
+Basta! Sono qui per aiutarti! XXX
+// Arkhan2 L perso2
+L24D05
+Spiacente Custode del Fuoco, non mi hai lasciato altra scelta... XXX
+// Arkhan2 O perso2
+L24D06
+Povero pazzo! Non dovevi cercarmi! XXX
+// Thanandar (con apprezzamento) perso24
+L24D07A
+Incredibile! Tu sei in piedi, vivo! XXX
+// Thanandar perso24
+L24D07B
+Come ti senti? Hai l'aria di aver sopportato bene lo shock... XXX

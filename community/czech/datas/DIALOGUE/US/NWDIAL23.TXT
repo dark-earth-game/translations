@@ -1,0 +1,142 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL23.TXT
+ // Zed perso84
+L23D23
+ Arkhane!? U Rahala, copak zde deláš?! XXX
+// Zed perso84
+L23D19
+ Rylsadhar... mrtvý! Arkhane, cos to udelal!?! XXX
+// Arkhan2 G (Delia oder Kalhi schlagen ihn) perso2
+L10D93
+ Nemáš zádnou šanci, moje nynátko! XXX
+// Zed (wirft A. zu Boden) perso84
+L23D20
+ Zabijáku!  XXX
+// Zed (schreiend) perso84
+L23D11
+ Strázci ohne! Alarm! XXX
+// Arkhan2 L perso2
+L23D102A
+ Pockej! Jsem Arkhan! Zachránil jsem Velkou Knezku! XXX
+// Arkhan2 L perso2
+L23D102B
+ Já jsem prece ješte porád stejný! XXX
+// Arkhan2 O perso2
+L23D21X
+ Ho! V klidu! Tento zatracený cerv mne napadl! XXX
+// Phedoria perso26
+L23D106
+ Rekni to, tys usmrtil! XXX
+// Phedoria (traurig) perso26
+L23D13
+ Jaká šílenost... XXX
+// Arkhan2 O perso2
+L23D103A
+ Nestrílej! Já byl ten, který Velkou Knezku zachránil! XXX
+// Arkhan2 O perso2
+L23D103B
+ Na kolena! XXX
+// Arkhan3 L perso3
+L23D104
+ Pockej! Já nic neudelal! XXX
+// Arkhan3 O perso3
+L23D105
+ Ne! XXX
+// Phedoria perso26
+L23D44A
+ Slyšela jsem Rylsadharovo krik. XXX
+// Phedoria perso26
+L23D44B
+ Demon je v tobe, zemreš! XXX
+// Kalhi1 (A. tot) perso13
+L23D45
+ Kommandantko! Cos to udelala? To je Arkhan! XXX
+// Phedoria perso26
+L23D46A
+ Ne! On usmrtil Rylsadhart!  XXX
+// Phedoria perso26
+L23D46B
+ Arkhan, ktereho si milovala, to uz nebyl. XXX
+// Hüter13 perso53
+L23D31
+ Knezí meli pravdu, Temná Zeme mùze kazdeho ovládnout! XXX
+// Hüter14 perso54
+L23D32
+ Ano, ale já svoji kùzi tezce prodám! XXX
+// Hüter13 perso53
+L23D29
+ Proklate! On mi skoro hrdlo utrhl! XXX
+// Hüter14 perso54
+L23D30
+ On uz nebyl více lidský, byl demonem Temne Zeme! XXX
+// Hüter13 perso53
+L23D35
+ To je on opet! XXX
+// Hüter13 perso53
+L23D33
+ Pozor, ješte jeden! XXX
+// Hüter14 (greift Arkhan an) perso54
+L23D34
+ Smrt neprátelùm! XXX
+// Hüter13 perso53
+L23D36
+ To mi zaplatíš! XXX
+// Hüter14 (greift Arkhan an) perso54
+L23D37
+ Tentokrát mi to zaplatíš! XXX
+// Rylsadhar (geht zu A., der vor der Tür auf ihn wartet) perso20
+L23D16
+ Trpelivost. Prijdu hned, Arkhane. XXX
+// Arkhan1 G perso1
+L23D15
+ Nemocnice, je zavrená. XXX
+// Arkhan1 G perso1
+L23D25
+ Dùm meho otce. Nevidím nic zvláštního... XXX
+// Arkhan2 G perso2
+L23D26
+ Dùm meho otce. Nevidím nic. XXX
+// Arkhan3 G perso3
+L23D27
+ Já nevidím nikoho. XXX
+// Arkhan2 L perso2
+L23D38A
+ To je Dulnys!  XXX
+// Arkhan2 L perso2
+L23D38B
+ Thanandar ríkal, ze ho vylecil! Nic nez lzi! XXX
+// Arkhan3 L perso3
+L23D39A
+ To je Dulnys! XXX
+// Arkhan3 L perso3
+L23D39B
+ Take on byl jednou z Thanandarovo obetí! XXX
+// Arkhan2 O perso2
+L23D40
+ Ješte jedna z Thanandarovo Kreatur! XXX
+// Arkhan3 O perso3
+L23D41
+ Ješte jedna z Thanandarovo Kreatur! XXX
+// Arkhan2 G perso2
+L23D42
+ To je vrtule od studny. XXX
+// Arkhan3 G
+L23D43
+ Utrzená vrtule ze studny. XXX
+// Arkhan1 L perso1
+L23D47
+ Kaktusy, ktere mùj otec pestoval. XXX
+// Arkhan2 L perso2
+L23D48
+ Kaktusy. Od mýho otce. XXX
+// Arkhan3 L (wehmütig) perso3
+L23D49
+ Kaktusy meho otce... XXX
+// Arkhan1 G perso1
+L23D50
+ Nemám cas, mojí koupel ucinit. XXX
+// Arkhan2 G perso2
+L23D51
+ Zádný cas na koupání! XXX
+// Arkhan3 G perso3
+L23D52
+ Pozdeji se umeju! XXX

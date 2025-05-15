@@ -1,0 +1,82 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL13.TXT
+ // Arkhan2 G (stupefied)perso2
+L13D01
+ Niewiarygodne... to jest... bunkier ze Starego Swiata... XXX
+// Arkhan3 G (stupefied) perso3
+L13D02
+ Niewiarygodne... to jest... bunkier ze Starego Swiata... XXX
+// Arkhan2 G (discovering a mechanism) perso2
+L13D07
+ Rusza sie... XXX
+// Arkhan3 G (discovering a mechanism) perso3
+L13D08
+ Rusza sie... XXX
+// Arkhan2 G (in front of an inoperable console) perso2
+L13D09
+ Nie... ta maszyna nie dziala. XXX
+// Arkhan3 G (in front of an inoperable console) perso3
+L13D10
+ Ta maszyna nie dziala. XXX
+// Arkhan2 G (examining a cryogenic capsule) perso2
+L13D11A
+ Lozko, ktore zamyka sie jak skrzynka. XXX
+// Arkhan2 G perso2
+L13D11B
+ Czlowiek w srodku musi byc tak stary jak Wielki Kataklizm. XXX
+// Arkhan3 G perso3
+L13D12A
+ Co za dziwne loze... XXX
+// Arkhan3 G perso3
+L13D12B
+ I te szczatki... kogos tak starego jak Wielki Kataklizm. XXX
+// Arkhan2 G (examining a cryogenic capsule)perso2
+L13D13A
+ Ktos tu kiedys musial byc... XXX
+// Arkhan2 G perso2
+L13D13B
+ A teraz nic, tylko szklo i kurz. XXX
+// Arkhan3 G (examining a cryogenic capsule)perso3
+L13D14
+ Nic poza kurzem... XXX
+// Arkhan2 L perso2
+L13D15
+ Nie moge... to za bardzo boli! XXX
+// Arkhan2 O perso2
+L13D23
+ Zapalily sie jakies male, zielone swiatelka! XXX
+// Arkhan3 L perso3
+L13D16
+ Nie... boli. Zbyt mocno boli! XXX
+// Arkhan3 O perso2
+L13D24
+ Zapalily sie zielone swiatelka! XXX
+// Arkhan2 L (examining the console) perso2
+L13D17
+ Piekne swiatla. Nigdy czegos podobnego nie widzialem. XXX
+// Arkhan3 L perso3
+L13D18
+ Co to za zielone swiatelka? XXX
+// Arkhan2 O (examining the debris)perso2
+L13D19
+ Rumowisko! XXX
+// Arkhan3 O (examining the debris) perso2
+L13D20
+ Nic, tylko rumowisko! XXX
+// Arkhan2 G perso2
+L13D03
+ Tylko ruiny... XXX
+// Arkhan3 G perso3
+L13D04
+ Ruiny... XXX
+// Arkhan2 G perso2
+L13D05
+ Wszystko sie zapadlo... XXX
+// Arkhan3 G perso3
+L13D06
+ Wszystko sie zapadlo... XXX
+// Arkhan2 G (examining the cryogenic capsule) perso2
+L13D21
+ Lozko sie rozsypalo... osoba, ktora na nim spala zamienila sie w popiol... XXX
+// Arkhan3 G (examining the cryogenic capsule)perso3
+L13D22
+ Lozko ze Starego Swiata... obrocone w perzyne... XXX

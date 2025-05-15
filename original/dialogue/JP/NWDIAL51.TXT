@@ -1,0 +1,97 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL51.TXT
+ // Arkhan2 G (narrowly escaping an explosion)perso2
+L51D17
+ Whoa! XXX
+// Arkhan3 G (narrowly escaping an explosion)perso3
+L51D18
+ Whoa! XXX
+// Arkhan2 G (stupefied) perso2
+L51D01A
+ Incredible... XXX
+// Arkhan2 G (stupefied) perso2
+L51D01B
+ The well has disappeared... XXX
+// Arkhan3 G (stupefied) perso3
+L51D02A
+ Incredible... XXX
+// Arkhan3 G perso3
+L51D02B
+ The well... gone... XXX
+// Arkhan2 G perso2
+L51D107
+ I don't believe it ! XXX
+// Arkhan3 G perso3
+L51D108
+ Demolished... XXX
+// Arkhan2 L perso2
+L51D03
+ A blade is missing... useless... XXX
+// Arkhan3 L perso3
+L51D04
+ Blade missing... useless... XXX
+// Arkhan2 G perso2
+L51D100A
+ The blade from the well-pulley... XXX
+// Arkhan2 G perso2
+L51D100B
+ The explosion blew it off. XXX
+// Arkhan3 G perso3
+L51D101A
+ The blade from the well... XXX
+// Arkhan3 G perso3
+L51D101B
+ Blown off by the explosion... XXX
+// Arkhan2 O perso2
+L51D05
+ It's hammered, it's useless! XXX
+// Arkhan3 O perso3
+L51D06
+ Useless ! XXX
+// Arkhan2 L (hesitating like a rookie parachutist) perso2
+L51D07
+ No, no, no... If I jump, I'll kill myself! XXX
+// Arkhan3 L (hesitating like a rookie parachutist) perso3
+L51D08
+ No, no, no... I jump... I die! XXX
+// Arkhan2 O (deciding to jump)perso2
+L51D09
+ What the hell, what've I got to lose! XXX
+// Arkhan3 O (deciding to jump)perso3
+L51D10
+What the hell, who want's to live forever! XXX
+// Arkhan2 G perso2
+L51D111
+ It's too hot, I can't go on. XXX
+// Arkhan3 G perso3
+L51D112
+ The heat! I can't go any closer... XXX
+// Arkhan2 G (having repaired the propeller)perso2
+L51D13
+ I did it, it's fixed. XXX
+// Arkhan3 G (having repaired the blade)perso3
+L51D14
+ It's fixed. XXX
+// Arkhan2 G (examining his handiwork)perso2
+L51D15
+ Hope it'll hang together. XXX
+// Arkhan3 G (examining his handiwork)perso3
+L51D16
+ Let's hope it holds. XXX
+// Arkhan2 G perso2
+L51D113
+ The platform's completely destroyed. XXX
+// Arkhan3 L perso3
+L51D114
+ The platform... destroyed. XXX
+// Arkhan2 G perso2
+L51D103
+ Nothing but rubble... XXX
+// Arkhan3 G perso3
+L51D104
+ Ahhhh...Rubble... XXX
+// Arkhan2 G perso2
+L51D105
+ Ruins. XXX
+// Arkhan3 G perso3
+L51D106
+ Totally demolished. XXX

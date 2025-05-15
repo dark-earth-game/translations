@@ -1,0 +1,61 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\IT\NWDIAL42.TXT
+ // Arkhan3 G perso3
+L42D01
+Non c'è possibilità di tornare indietro... XXX
+// Arkhan3 G perso3
+L42D05
+Ed è la fine del viaggio, si direbbe... XXX
+// Arkhan3 G perso3
+L42D02A
+L'esterno... La scogliera... XXX
+// Arkhan3 G perso3
+L42D02B
+L'ingresso del Sepolcro doveva essere qui... Ma il Grande Cataclisma l'ha travolto! XXX
+// Arkhan3 G perso3
+L42D02C
+Ecco perché mio padre non l'ha mai trovato! XXX
+// Arkhan3 L perso3
+L42D08
+È bruciante... E questa luce... Come nella cripta. XXX
+// Arkhan3 O perso3
+L42D09
+Accidenti! Mi sono bruciato la mano! XXX
+// Arkhan3 L perso3
+L42D10
+Non lo tocco più... XXX
+// Arkhan3 O perso3
+L42D11
+Non tocco più qui! XXX
+// Arkhan3 G (ha tirato la leva per aprire la porta) perso3
+L42D07A
+Non si sposta di un pollice. XXX
+// Arkhan3 G perso3
+L42D07B
+Non si sposta. XXX
+// Arkhan3 G perso3
+L42D07C
+Niente. XXX
+// Arkhan3 G perso3
+L42D06
+Il meccanismo è bloccato. XXX
+// Arkhan3 G perso3
+L42D12
+La pietra è leggermente calda... XXX
+// Arkhan3 G perso3
+L42D13A
+Degli smottamenti... XXX
+// Arkhan3 G perso3
+L42D13B
+È talmente antico... cade tutto in rovina... XXX
+// Arkhan3 L (guarda in giù) perso3
+L42D03
+Il resto della grotta è sprofondato nel mare. XXX
+// Arkhan3 O (guarda in giù) perso3
+L42D04
+Un tuffo da qui è la morte sicura! XXX
+// Arkhan3 G perso3
+L42D14
+Una ruota gigantesca... e un'apertura, là in alto. XXX
+// Arkhan3 G perso3
+L42D15
+Devo trovare un modo per farla scendere... XXX

@@ -1,0 +1,70 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL09.TXT
+ // Hüter des Feuers8 (von Arkhan überrascht, wird auf ihn schießen) perso48
+L09D31A
+ Verdammt! XXX
+// Hüter des Feuers8 perso48
+L09D31B
+ Mich kriegst Du nicht! XXX
+// Arkhan1 L perso1
+L09D04A
+ Diese Maschine stellt Munition für Bleispucker her. XXX
+// Arkhan1 L perso1
+L09D04B
+ Ich brauch' aber Schmelzmetall. XXX
+// Arkhan2 L perso2
+L09D05
+ Ich brauch' Schmelzmetall, um mit dieser Maschine Munition für Bleispucker herzustellen. XXX
+// Arkhan3 L perso3
+L09D06
+ Ich brauch' Schmelzmetall, um Munition herzustellen. XXX
+// Arkhan1 O perso1
+L09D01
+  Verflucht, wie funktioniert diese Maschine bloß? XXX
+// Arkhan2 O perso2
+L09D02
+  Ich begreif' diese Maschine nicht! XXX
+// Arkhan3 O perso3
+L09D03
+  Seltsame Maschine! XXX
+//Arkhan1 L perso1
+L09D13
+ Alte Fässer, völlig unbrauchbar. XXX
+//Arkhan2 L perso2
+L09D14
+ Nichts als leere Fässer. XXX
+//Arkhan3 L perso3
+L09D15
+ Leere ... Fässer. XXX
+// Arkhan2 G perso2
+L04D44
+ Das ist nicht der richtige Schlüssel! XXX
+// Arkhan3 G perso3
+L04D45
+ Der falsche Schlüssel! XXX
+//Arkhan1 G perso1
+L09D20
+ Das Wasserreservoir ist leer. XXX
+//Arkhan2 L perso2
+L09D22
+ Ein Wasserreservoir. Leer. XXX
+//Arkhan3 L perso3
+L09D24
+ Ein Reservoir. Leer. XXX
+//Arkhan1 L perso1
+L09D25
+ Ich glaub', jetzt ist nicht der richtige Moment, sich hinzusetzen! XXX
+//Arkhan1 O perso1
+L09D26
+ Ich hab' keine Lust, mich hinzusetzen! XXX
+//Arkhan2 L perso2
+L09D27
+ Jetzt ist vielleicht nicht der richtige Moment, um sich hinzusetzen! XXX
+//Arkhan2 O perso2
+L09D28
+ Keine Lust, mich hinzusetzen! XXX
+//Arkhan3 L perso3
+L09D29
+ Ich setz' mich nicht hin! XXX
+//Arkhan3 O perso3
+L09D30
+ Setz' mich nicht hin! XXX

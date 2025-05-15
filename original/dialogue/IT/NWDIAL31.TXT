@@ -1,0 +1,364 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\IT\NWDIAL31.TXT
+// Arkhan2 L perso2
+L31D85A
+Troppo profondo. XXX
+// Arkhan2 L perso2
+L31D85B
+Se salto così, annegherò! XXX
+ // Sordos perso23
+L34D04A
+Hmmm... (sputa) XXX
+// Konkalite8 (à Konkalite10) perso78
+L31D500
+Ehi, chi è quello là? XXX
+// Konkalite8 (grida ad Arkhan) perso78
+L31D35
+Ehi tu, laggiù! Vieni un po' qua! XXX
+// Konkalite8 perso78
+L31D36
+Oh! Spicciati! XXX
+// Konkalite8 perso78
+L31D37
+Avvicinati un po', ti voglio vedere in faccia! XXX
+// Konkalite8 (grida)perso78
+L31D38
+Addosso! XXX
+// Konkalite8 (grida verso Arkhan che se ne va)perso78
+L31D39
+Ehi! Non te la caverai così! XXX
+// Bork perso30
+L31D501
+Ehi! Chi sei tu?! XXX
+// Konkalite11 perso81
+L31D502
+Ehi Bork! Lo conosci? XXX
+// Bork perso30
+L31D503
+No! XXX
+// Konkalite11 perso81
+L31D507
+Dì le tue preghiere! XXX
+// Bork (mugghia)perso30
+L31D504
+Là, dove stai andando! XXX
+// Konkalite11 perso81
+L31D89
+Allerta! XXX
+// Konkalite8 (attaccato da Arkhan)perso78
+L31D53
+Cerchi le botte, eh! XXX
+// Konkalite8 perso78
+L31D01
+Chi sei, tu? XXX
+// Arkhan3 L perso3
+L31D22
+Non voglio farti male, spostati! XXX
+// Konkalite8 perso78
+L31D25A
+Dì un po', faccia di... di... di una facciaccia mostruosa! XXX
+// Konkalite8 perso78
+L31D25B
+Nessuno mi parla così, nessuno! XXX
+// Konkalite8 perso78
+L31D27
+T'insegnerò io ad aprire la tua boccaccia! XXX
+// Arkhan2 L perso2
+L31D02
+Non ti arrabbiare, amico. Sono uno dei vostri. XXX
+// Konkalite8 perso78
+L31D03A
+Sei sicuro? Io non t'ho mai visto! XXX
+// Konkalite8 perso78
+L31D03B
+E qui non amiamo molto le facce nuove! XXX
+// Konkalite8 perso78
+L31D21C
+Piuttosto rifilami un po' del tuo Stohll! XXX
+// Arkhan2 O (sicuro di sé)perso2
+L31D04A
+Sono io, imbecille! XXX
+// Arkhan2 O (sicuro di sé)perso2
+L31D04B
+Schiodati di lì o dirò a Sordos che m'hai fatto perdere tempo! XXX
+// Konkalite8 perso78
+L31D05
+Cosa? Chi tratti da imbecille, faccia nera? XXX
+// Arkhan2 L perso2
+L31D06
+Senti, tu hai l'aria ragionevole. Discutiamo... XXX
+// Konkalite8 perso78
+L31D07
+Discutere il mio culo! Io ti faccio la pelle, oh sì! XXX
+// Arkhan2 O perso2
+L31D08
+Fermo là, povero illuso! E lasciami passare! XXX
+// Konkalite8 perso78
+L31D09
+Cosa?!? Ma io ti faccio fuori, parassita! XXX
+// Arkhan2 G perso2
+L31D10
+Allora, va tutto bene? XXX
+// Konkalite8 perso78
+L31D11A
+Non direi... Quattro morti dal sorgere del sole! XXX
+// Konkalite8 perso78
+L31D11B
+È colpa di quel vecchio melmoso, sì! XXX
+// Konkalite8 (a voce bassa) perso78
+L31D11C
+Quella specie di Predicatore con cui Sordos s'è alleato. XXX
+// Konkalite8 (a voce bassa) perso78
+L31D11D
+Ci porta sfortuna! XXX
+// Konkalite8 perso78
+L31D11E
+Ma siamo sempre noi i padroni della Città Bassa. XXX
+// Konkalite8 perso78
+L31D11F
+Si saccheggia, si ruba, si violenta, che bella vita! XXX
+// Konkalite8 perso78
+L31D11G
+E non sarà la banda di Armal Sadak a fermarci! XXX
+// Arkhan2 G perso2
+L31D12
+E i Custodi del Fuoco? XXX
+// Konkalite8 perso78
+L31D13A
+Quelli là! Non preoccupartene ragazzo mio, non c'è pericolo! XXX
+// Konkalite8 perso78
+L31D13B
+Sordos s'è messo in tasca il loro capo! XXX
+// Konkalite8 perso78
+L31D13C
+Gioca a fare il duro, ma Sordos l'ha in pugno, credimi! XXX
+// Konkalite8 perso78
+L31D13D
+Quanto a quel fesso di Zed, non gli resta poi molto da vivere! XXX
+// Arkhan2 G perso2
+L31D14
+Dici che Sordos s'è alleato con il Preposto dei Custodi del Fuoco? XXX
+// Konkalite8 perso78
+L31D15A
+Te lo dico, ragazzo mio, Sordos è un duro, è proprio astuto. XXX
+// Konkalite8 perso78
+L31D15B
+È già un bel po' che tiene Dhorkan per le palle. XXX
+// Konkalite8 perso78
+L31D15C
+E Sordos ha promesso che ben presto l'intero Stallite sarà nostro. XXX
+// Konkalite8 perso78
+L31D15D
+Passeremo le nostre giornate a bere, ad abbuffarci e a scopare tutte le femmine che troveremo. XXX
+// Konkalite8 perso78
+L31D15E
+E i Predicatori ci leccheranno i piedi e il... resto! XXX
+// Arkhan2 G (sussurra per se stesso) perso2
+L31D16
+(sussurrando) Non penso che andrà come credi... XXX
+// Arkhan2 G perso2
+L31D17
+Chi è il Predicatore di cui hai parlato? XXX
+// Konkalite8 (sussurra)perso78
+L31D18A
+Non so il suo nome e non voglio saperlo. Si respira odore di morte a pieni polmoni! XXX
+// Konkalite8 (sussurra)perso78
+L31D18B
+Comunque, Sordos dice che grazie a lui ci si burlerà di tutti i Predicatori. XXX
+// Konkalite8 perso78
+L31D18C
+E ti dirò, io mi voglio proprio fare la Grande Predicatrice.  XXX
+// Konkalite8 perso78
+L31D18D
+Credi che sia ancora scopabile? XXX
+// Konkalite8 perso78
+L31D18E
+Un po' vecchia forse, ma io ho sempre preferito le donne minute come lei... XXX
+// Arkhan2 L perso2
+L31D19
+Non puoi dirmi qualcosa di più? XXX
+// Arkhan2 O perso2
+L31D20
+Dai, forza, racconta! XXX
+// Konkalite8 perso78
+L31D21A
+Basta con le tue domande! XXX
+// Konkalite8 perso78
+L31D21B
+Cominci a farmi cacare! XXX
+// Arkhan3 G perso3
+L31D42
+Prendi qua e lasciami passare. XXX
+// Konkalite8 perso78
+L31D43A
+Chi ti credi, faccia da topo! XXX
+// Konkalite8 perso78
+L31D43B
+Ti puniremo! XXX
+// Arkhan2 L perso2
+L31D40
+Ehm, hai voglia di un sorso di Stohll, è di quello buono! XXX
+// Arkhan2 O perso2
+L31D41
+Dì un po', un piccolo tignoso come te deve apprezzare lo Stohll! XXX
+// Konkalite8 perso78
+L31D44
+Dello Stohll? Ah sì, dà qua! XXX
+// Konkalite8 perso78
+L31D45
+Aaah! Fa bene al gargarozzo! XXX
+// Arkhan2 G perso2
+L31D46
+Ancora un sorsetto? XXX
+// Konkalite8 perso78
+L31D48
+Ah sì! Non dico di no! XXX
+// Konkalite8 perso78
+L31D47
+Ahhh! Risveglia i miei istinti! XXX
+// Konkalite8 (sul punto di venire meno)perso78
+L31D49
+È... buono... XXX
+// Arkhan2 G perso2
+L31D50
+Questo ti dice qualcosa? XXX
+// Konkalite8 perso78
+L31D51
+Non m'interessa il tuo aggeggio. XXX
+// Konkalite10 perso80
+L31D82
+Ti faccio cadere i denti! XXX
+// Konkalite10 perso80
+L31D54
+Ti conosco? XXX
+// Arkhan3 L perso3
+L31D90
+Calma! Non ho niente contro di te! XXX
+// Konkalite10 perso80
+L31D70
+Tu non hai niente contro di me, ma io ho del rancore verso di te! XXX
+// Konkalite10 perso80
+L31D71
+Non mi fai paura! XXX
+// Konkalite10 perso80
+L31D55
+Uno dei nostri? Guardati allo specchio! Mi prendi per fesso o cosa?!? XXX
+// Arkhan2 L perso2
+L31D56
+Ma no, stai calmo amico. XXX
+// Konkalite10 (falsamente impressionato)perso80
+L31D57
+Tu? E chi sei tu, "mio signore"? XXX
+// Arkhan2 L perso2
+L31D58
+Calma, ti dico. Sono venuto per parlare. XXX
+// Konkalite10 perso80
+L31D59
+Sei venuto a discutere, eh? Ebbene hai sbagliato indirizzo! XXX
+// Konkalite10 perso80
+L31D60
+Va a farti fottere! XXX
+// Konkalite10 perso80
+L31D61A
+Ah sì, Sordos dice che ben presto saremo i padroni dello Stallite. XXX
+// Konkalite10 perso80
+L31D61B
+Ma se vuoi la mia opinione, prenderà un bel po' di botte...  XXX
+// Konkalite10 perso80
+L31D61C
+Io non mi fido dei Custodi del Fuoco. Sordos ha fatto un patto col loro capo, ma quei ragazzi non giurano che per il Sole-Dio. XXX
+// Konkalite10 perso80
+L31D61D
+Non credo che la nuova situazione verrà accettata da tutti. XXX
+// Konkalite10 perso80
+L31D61E
+Basta vedere Zed: durante l'attacco contro la Grande Predicatrice, ha ucciso tutti i nostri fratelli! XXX
+// Konkalite10 perso80
+L31D61F
+Sordos era infuriato! XXX
+// Arkhan2 G perso2
+L31D62
+Il Preposto Dhorkan è in combutta con Sordos? XXX
+// Konkalite10 perso80
+L31D63A
+Ah sì, hanno firmato un patto.  XXX
+// Konkalite10 perso80
+L31D63B
+Dhorkan... abbiamo eliminato qualche tipo che lo imbarazzava e da allora fa in modo che i Custodi del Fuoco ci lascino tranquilli. XXX
+// Arkhan2 L perso2
+L31D64
+Sordos è veramente un dritto... Ha degli altri alleati oltre Dhorkan? XXX
+// Arkhan2 O perso2
+L31D65
+Oltre Dhorkan, ci sono altri traditori fra i Custodi del Fuoco? XXX
+// Konkalite10 perso80
+L31D66A
+Dhorkan non è nessuno. Il suo cadavere marcirà presto nel canale. XXX
+// Konkalite10 perso80
+L31D66B
+Per contro, c'è un Predicatore che lavora per Sordos.  XXX
+// Konkalite10 perso80
+L31D66C
+Grazie a lui, diventeremo i padroni di Sparta! XXX
+// Konkalite10 perso80
+L31D67
+Non ne so niente! Mi stai scocciando con tutte queste domande! Vattene. Alza i tacchi! XXX
+// Arkhan2 O perso2
+L31D68
+Non farti pregare come una donnetta, racconta ancora! XXX
+// Konkalite10 perso80
+L31D69
+T'avevo avvertito, idiota! A furia di cercarmi mi si trova! XXX
+// Konkalite10 perso80
+L31D75A
+Credi di impressionarmi?!? XXX
+// Konkalite10 perso80
+L31D75B
+Io ti crivello! XXX
+// Konkalite10 perso80
+L31D76
+Dello Stohll, dici? Dai, versa! XXX
+// Konkalite10 perso80
+L31D77
+Aaah! Ti illumina il gozzo questa roba! XXX
+// Konkalite10 perso80
+L31D72
+Finché c'è dello Stohll, risparmio le pillole! XXX
+// Konkalite10 perso80
+L31D78
+Ah! È gustoso! XXX
+// Konkalite10 (sta per venire meno)perso80
+L31D79
+È... forte... XXX
+// Konkalite10 perso80
+L31D80
+Non me ne faccio niente di quello che trascini! XXX
+// Bork perso30
+L31D506
+Crepa! XXX
+// Arkhan2 O perso2
+L31D505
+Scostati o divento cattivo! XXX
+// Arkhan2 G perso2
+L31D900
+Delle botti vuote, impilate. XXX
+// Arkhan3 G perso3
+L31D901
+Una pila di botti. XXX
+// Arkhan2 L perso2
+L31D902
+Questo canale s'inoltra lontano sotto lo Stallite. XXX
+// Arkhan3 L perso3
+L31D904
+Il canale è profondo. S'inoltra sotto terra. XXX
+// Arkhan2 O perso2
+L31D903
+Quest'acqua puzza di carogna! XXX
+// Arkhan3 O perso3
+L31D905
+Quest'acqua puzza di carogna! XXX
+// Arkhan2 G perso2
+L31D906
+Questi tubi devono portare l'aria dalla superficie. XXX
+// Arkhan3 G perso3
+L31D907
+Dell'aria viene dall'alto, per di là. XXX

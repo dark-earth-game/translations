@@ -1,0 +1,1012 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL18.TXT
+ // Armal Sadak perso62
+L18D138
+ Das hättest Du nicht tun sollen! XXX
+// Malrot2 perso6
+L18D02
+ Da bist Du ja schon wieder! XXX
+// Malrot2 perso6
+L18D01A
+ Hey, Du! Hier kannst Du nicht bleiben! XXX
+// Malrot2 perso6
+L18D01B
+ Das ist verboten für Fremde! XXX
+// Malrot2 perso62
+L18D05
+ Hey, Armal, da ist Dein Kumpel von eben schon wieder! XXX
+// Armal Sadak perso6
+L18D133
+ Sei gegrüßt, Kamerad. XXX
+// Malrot2 perso62
+L18D03
+ Chef! Da ist das Furzgesicht schon wieder! XXX
+// Armal Sadak perso6
+L18D04A
+ Achtung Jianu, unser Freund kommt aus der Oberen Stadt, sei etwas höflicher zu ihm. XXX
+// Armal Sadak perso6
+L18D04B
+ Er nennt Dich glaub' ich nicht Schwachkopf, soweit ich weiß... XXX
+// Malrot6 (erzählt, daß A. ihm geholfen hat) perso66
+L18D191A
+ ...und da ist er reingekommen ... ein Typ mit einem seltsamen Gesicht wie ... wie ...  XXX
+// Malrot6 (sieht Arkhan) perso66
+L18D191B
+ Der da war's! XXX
+// Armal Sadak perso6
+L18D192A
+ Du bist ein Freund, Arkhan, und ein Ehrenmann. XXX
+// Armal Sadak perso6
+L18D192B
+ Das werden wir Dir nicht vergessen! XXX
+// Armal Sadak perso6
+L18D193A
+ So hast Du also einen von uns gerettet! XXX
+// Armal Sadak perso6
+L18D193B
+ Mein Name ist Armal Sadak. Und der Schwachkopf da hinten ist Jianu. XXX
+// Armal Sadak perso6
+L18D193C
+ Sieh uns von nun an als Deine Freunde an. XXX
+// Armal Sadak (bietet A. eine Waffe an) perso6
+L18D194
+ Dieses Geschenk soll der Beweis meiner Dankbarkeit sein. XXX
+// Armal Sadak perso6
+L18D265A
+ Du machst mir keine Angst ...  XXX
+// Malrot2 (A. holt seine Waffe heraus) perso62
+L18D134
+ Hey! Ganz ruhig! XXX
+// Malrot2 perso62
+L18D190A
+ Sei willkommen, Freund. XXX
+// Malrot2 perso62
+L18D190B
+ Falls Du eine trockene Kehle hast, schenk Dir zu trinken ein. XXX
+// Armal Sadak perso6
+L18D10
+ Aha! Unser Gast zeigt seine Krallen! XXX
+// Armal Sadak (A. packt seine Waffe weg) perso6
+L18D11
+ So ist es besser! XXX
+// Malrot2 (A. packt seine Waffe weg) perso62
+L18D135
+ So gefällst Du mir schon besser. XXX
+// Armal Sadak perso6
+L18D118
+ Tu das nochmal, und Du bist ein toter Mann! XXX
+// Armal Sadak perso6
+L18D117
+ Jianu! Stell Dich vor die Tür! XXX
+// Armal Sadak (macht sich gefechtsbereit) perso6
+L18D06
+ Lassen wir die Waffen sprechen! XXX
+// Malrot2 perso62
+L18D160
+ Chef! Das Furzgesicht spielt den starken Mann! XXX
+// Armal Sadak perso6
+L18D161
+ Wenn er das noch mal tut, bring ihn um! XXX
+// Malrot2 (drohend) perso62
+L18D136
+ Hast Du gehört, Du mieser kleiner Aufschneider? XXX
+// Malrot2 (warnt Armal Sadak) perso62
+L18D137
+ Chef! XXX
+// Armal Sadak perso6
+L18D120A
+ Pech gehabt, mein Freund.  XXX
+// Armal Sadak perso6
+L18D120B
+ Wenn Du wissen willst, wie's weitergeht, mußt Du weiterspielen.  XXX
+// Armal Sadak perso6
+L18D121
+ Du kennst den Preis: eine Waffe! XXX
+// Armal Sadak perso6
+L18D132
+ Man kann nicht jedesmal gewinnen! XXX
+// Armal Sadak perso6
+L18D122A
+ Bravo! Ein schöner Sieg! XXX
+// Arkhan2 G perso2
+L18D250
+ Also, hilfst Du mir oder hilfst Du mir nicht? XXX
+// Arkhan3 G perso3
+L18D278
+ Hilf mir jetzt... XXX
+// Armal Sadak perso6
+L18D122B
+ Gut, ich werd' Dir ein bißchen mehr erzählen. XXX
+// Armal Sadak perso6
+L18D122C
+ In der Unteren Stadt arbeiten die Lumpensammler und die Ernährer zusammen. XXX
+// Armal Sadak perso6
+L18D122D
+ Zusammen schlagen wir uns ganz gut durch. XXX
+// Armal Sadak perso6
+L18D122E
+ Lory, die Große Predigerin, ist nicht dumm. XXX
+// Armal Sadak perso6
+L18D122F
+ Sie achtet uns, wir achten sie. XXX
+// Armal Sadak perso6
+L18D122G
+ Und solange sich die Hüter des Feuers nicht in unsere Angelegenheiten einmischen ... XXX
+// Armal Sadak perso6
+L18D122H
+ haben wir eigentlich nur mit den Konkaliten Probleme, dafür aber gewaltige. XXX
+// Armal Sadak perso6
+L18D122I
+ Das sind Schweinehunde der schlimmsten Art, Blut vergießen, das ist alles, was ihnen Spaß macht! XXX
+// Armal Sadak perso6
+L18D122J
+ Sie waren es, die die Große Predigerin angegriffen haben! XXX
+// Armal Sadak perso6
+L18D122K
+ Das haben sie aber nicht alleine gemacht, dazu sind sie zu dumm. XXX
+// Armal Sadak perso6
+L18D122L
+ Da ist noch jemand anderes, der eigentliche Drahtzieher ... XXX
+// Armal Sadak perso6
+L18D122M
+ Ich bin sicher, daß es nicht Dhorkan ist. XXX
+// Armal Sadak perso6
+L18D122N
+ Aber ich gäbe einiges, um zu wissen, wer es ist! XXX
+// Armal Sadak perso6
+L18D123A
+ Na schön, Du bist eindeutig ein guter Spieler. XXX
+// Armal Sadak perso6
+L18D123B
+ Du willst wissen, was ich über Profos Dhorkan weiß, nicht wahr? XXX
+// Armal Sadak perso6
+L18D123C
+ Vor den Predigern und den Hütern des Feuers spielt er den Unschuldigen, aber in Wirklichkeit ist er ein echter Halunke. XXX
+// Armal Sadak perso6
+L18D123D
+ Er träumt davon, den Stalliten ganz allein zu regieren, und sich die Prediger vom Hals zu schaffen. XXX
+// Armal Sadak perso6
+L18D123E
+ Und um dies zu erreichen, hat dieser Dummkopf einen Pakt mit Sordos geschlossen. XXX
+// Armal Sadak perso6
+L18D123F
+ Dhorkan denkt bestimmt, er könne die Konkaliten für seine Zwecke ausnutzen und sie sich dann vom Hals schaffen. XXX
+// Arkhan2 G perso2
+L18D251A
+ Warum nicht? XXX
+// Arkhan2 G perso2
+L18D251B
+ Du hast doch gerade gesagt, daß die Konkaliten Dummköpfe sind, oder? XXX
+// Arkhan3 G perso3
+L18D252
+ Die Rechnung geht auf, wenn die Konkaliten so dumm sind, wie Du sagst. XXX
+// Armal Sadak perso6
+L18D253A
+ Genau. Aber ich weiß, daß Sordos noch von jemand anderem manipuliert wird. XXX
+// Armal Sadak perso6
+L18D253B
+ Von der Person, die den Angriff auf Lory befohlen hat. XXX
+// Armal Sadak perso6
+L18D253C
+ Und wenn Dhorkan endlich begriffen haben wird, was los ist, wird es zu spät sein! XXX
+// Arkhan2 G perso2
+L18D279A
+ Ich hab' eine gute Neuigkeit für Dich, Armal Sadak. XXX
+// Arkhan2 G perso2
+L18D279B
+ Du kannst aufhören, Dir über Sordos Sorgen zu machen. XXX
+// Arkhan2 G perso2
+L18D279C
+ Ich hab' mit ihm abgerechnet ... und zwar endgültig. XXX
+// Arkhan3 G perso3
+L18D280A
+ Eine gute Neuigkeit für Dich! XXX
+// Arkhan3 G perso3
+L18D280B
+ Ich hab' mir Sordos vorgenommen... Endgültig! XXX
+// Armal Sadak (überrascht) perso6
+L18D281A
+ Verdammt! Was sagst Du da? XXX
+// Armal Sadak perso6
+L18D281B
+ Du hast Sordos umgebracht? XXX
+// Armal Sadak perso6
+L18D281C
+ Ah! Arkhan, mein Freund! Der Lichtvater soll Dich segnen, wenn Du die Wahrheit sagst! XXX
+// Armal Sadak perso6
+L18D281D
+ Wenn ich aber erfahre, daß Du mich angelogen hast, wirst Du noch von mir hören. XXX
+// Arkhan2 G perso2
+L18D282
+ Ich hab' Dich nicht belogen, Du kannst mir glauben. XXX
+// Arkhan3 G perso3
+L18D283
+ Ich hab' nicht gelogen. XXX
+// Armal Sadak perso6
+L18D254A
+ Hey, das machst Du wirklich gut. XXX
+// Armal Sadak perso6
+L18D254B
+ Hier ist Munition für die Blitze vom Vorher. XXX
+// Armal Sadak perso6
+L18D254C
+ Vergeude sie nicht, sie ist wertvoll! XXX
+// Malrot2 perso62
+L18D175
+ Falls Du Stohll trinken willst, kannst Du Dir eine Flasche nehmen. XXX
+// Malrot6 (sehr dankbar) perso66
+L18D195A
+ Danke Dir, meine Freund! XXX
+// Malrot6 (enthusiastisch) perso66
+L18D195B
+ Ich werd' ihnen zeigen, was passiert, wenn ein Lumpensammler ihr Versteck in Feuer und Asche legt! XXX
+// Armal Sadak (schreiend) perso6
+L18D196
+ Aber paß auf, daß Du Dir dabei nicht den Arsch verbrennst! XXX
+// Armal Sadak (amüsiert, zu Arkhan) perso6
+L18D197
+ Wenn er sie findet, hat ihr letztes Stündlein geschlagen! XXX
+// Arkhan2 G perso2
+L18D08
+ Spielen wir eine Partie? XXX
+// Arkhan3 G perso3
+L18D09
+Spielen wir eine Partie? XXX
+// Armal Sadak perso6
+L18D07A
+ Wer oder was Du auch immer bist, laß mich Dir eines sagen. XXX
+// Armal Sadak perso6
+L18D07B
+ Ich spiele nur mit meinen Gästen. Und Dich kenne ich nicht! XXX
+// Armal Sadak perso6
+L18D07C
+ Wenn Du also keinen Ärger willst, verzieh Dich, verstanden? XXX
+// Armal Sadak perso6
+L18D119
+ Ich fange an, ich habe Heimvorteil! XXX
+// Armal Sadak perso6
+L18D202
+ Sag mir zuerst, was Du eigentlich willst. XXX
+// Armal Sadak perso6
+L18D203A
+ Vielleicht später. Meinst Du nicht, Du solltest erst einmal versuchen zu retten, was noch zu retten ist? XXX
+// Armal Sadak perso6
+L18D203B
+ Ich glaub', im Moment solltest lieber Du versuchen, Deine Haut zu retten! XXX
+// Arkhan2 G perso2
+L18D204
+ So, spielen wir nun oder spielen wir nicht? XXX
+// Arkhan3 G perso3
+L18D205
+ So, spielen wir oder spielen wir nicht? XXX
+// Armal Sadak perso6
+L18D206
+ Ja, wenn Du eine gute Waffe als Einsatz hast. XXX
+// Arkhan2 L perso2
+L18D139A
+ Reg Dich nicht auf! XXX
+// Arkhan2 L perso2
+L18D139B
+ Ich bin ein Freund der Lumpensammler. XXX
+// Arkhan3 L perso3
+L18D140
+ Immer mit der Ruhe. XXX
+// Malrot2 perso62
+L18D141A
+ Hör mal, ich kenne Dich nicht und ich hab' Dir nichts zu sagen. XXX
+// Malrot2 perso62
+L18D141B
+ Verstanden? XXX
+// Arkhan2 O perso2
+L18D142
+ Wer ist hier der Chef? XXX
+// Arkhan3 O perso3
+L18D143
+ Wer ist hier der Chef? XXX
+// Malrot2 perso62
+L18D144
+ Niemand! Verzieh Dich, Drecksack! XXX
+// Arkhan2 O perso2
+L18D145
+ Wer bist Du denn eigentlich? XXX
+// Arkhan3 O perso3
+L18D146
+ Wer bist Du denn eigentlich? XXX
+// Malrot2 perso62
+L18D147
+ Das geht Dich nichts an. Zieh Leine! XXX
+// Arkhan2 G perso2
+L18D23A
+ Ich hab' eine Nachricht für Dich: XXX
+// Arkhan2 G perso2
+L18D23B
+ "Der Mensch ist nichts als ein Spielstein, den die Hand des Schicksals mal in den Schatten, mal in das Licht taucht." XXX
+// Arkhan3 G perso3
+L18D24A
+ Ich hab' eine Nachricht für Dich: XXX
+// Arkhan3 G perso3
+L18D24B
+ " Der Mensch ist ... nichts als ein Spielstein, den die Hand des Schicksals mal in den Schatten ... mal in das Licht taucht." XXX
+// Malrot2 perso62
+L18D274A
+ Unser Poet übt sich im Gedichtaufsagen? Ha ha ha! XXX
+// Malrot2 perso62
+L18D274B
+ Komm schon, verschwinde oder ich tauch' Dich endgültig in den Schatten! XXX
+// Arkhan2 L perso2
+L18D148
+ Dein Chef ist ein Teufelskerl! XXX
+// Arkhan3 L perso3
+L18D149
+ Dein Chef ist ein Teufelskerl! XXX
+// Malrot2 perso62
+L18D150
+ Klar. Ist besser, sein Freund zu sein als sein Feind, das kannst Du mir glauben. XXX
+// Arkhan2 O perso2
+L18D154
+ Du bist Armal Sadaks Diener, stimmt's? XXX
+// Arkhan3 O perso3
+L18D155
+ Du bist Armal Sadaks Diener, stimmt's? XXX
+// Malrot2 perso62
+L18D156
+ Denk, was Du willst, ist mir egal ... XXX
+// Arkhan2 O perso2
+L18D151
+ Wer ist die Jammergestalt, die da hinten in der Ecke schnarcht? XXX
+// Arkhan3 O perso3
+L18D152
+ Und wer ist der Saufkopf da hinten? XXX
+// Malrot2 perso62
+L18D153A
+ Weißt Du, wir trinken und essen gern. XXX
+// Malrot2 perso62
+L18D153B
+ Und wenn wir uns ausruhen wollen, lassen wir uns vom Schlingern des Bootes in den Schlaf wiegen ... XXX
+// Malrot2 perso62
+L18D159
+ Nein, mach Deinen Kram allein. XXX
+// Arkhan2 G perso2
+L18D184
+ Willst Du einen Schluck Stohll? XXX
+// Arkhan3 G perso3
+L18D185
+ Willst Du was trinken? XXX
+// Malrot2 perso62
+L18D186
+ Nein, wenn ich Deine Fresse sehe, wird mir schlecht! XXX
+// Malrot2 perso62
+L18D187
+ Ein bißchen Stohll, da sag ich nicht nein. XXX
+// Malrot2 (rülpst) perso62
+L18D188
+ ... Danke. XXX
+// Malrot2 (hat getrunken) perso62
+L18D189
+ Aaahhh... davon bekommt man Durst! XXX
+// Arkhan2 L perso2
+L18D12
+ Was spielst Du da? XXX
+// Arkhan3 L perso3
+L18D13
+ Was spielst Du da? XXX
+// Arkhan2 O perso2
+L18D15
+ Was ist das für ein Spiel, ein Spiel für Weibsbilder? XXX
+// Arkhan3 O perso3
+L18D16
+ Was ist das für ein Spiel, ein Spiel für Weibsbilder?  XXX
+// Armal Sadak perso6
+L18D14A
+ Dieses Spiel heißt Yong. XXX
+// Armal Sadak perso6
+L18D14B
+ Du bist nicht von hier, wie ich sehe. XXX
+// Arkhan2 L perso2
+L18D18
+ Wie spielt man dieses Spiel? XXX
+// Arkhan3 L perso3
+L18D19
+ Wie spielt man das? XXX
+// Arkhan2 O perso2
+L18D21
+ Ich bin sicher, ich würde mit geschlossenen Augen gewinnen! XXX
+// Arkhan3 O perso3
+L18D22
+ Ich würde mit geschlossenen Augen gewinnen! XXX
+// Armal Sadak perso6
+L18D20A
+ Sei vorsichtig, was Du sagst! XXX
+// Armal Sadak perso6
+L18D20B
+ Ich hab' keine Zeit, mir Dein dummes Gerede anzuhören ... XXX
+// Armal Sadak perso6
+L18D20C
+ (Seufzen) XXX
+// Armal Sadak perso6
+L18D25
+ Wie ich sehe, schickt Dich eine Vertrauensperson. XXX
+// Arkhan2 G perso2
+L18D255
+ Ja, ich hab' mit... XXX
+// Arkhan3 G perso3
+L18D256
+ Ja, es ist... XXX
+// Armal Sadak perso6
+L18D25A
+ Nein, ich brauch' nicht mehr zu wissen. XXX
+// Armal Sadak perso6
+L18D25B
+ Du bist hier willkommen, das ist alles. XXX
+// Armal Sadak perso6
+L18D25C
+ Und es hat keinen Sinn, Fragen zu stellen  ... XXX
+// Armal Sadak perso6
+L18D257
+ Ich hab' Dir doch gesagt, ich trinke' nicht. XXX
+// Armal Sadak perso6
+L18D258
+ Nimm's mir nicht übel, aber ich trinke nie. XXX
+// Armal Sadak perso6
+L18D28A
+ Ich bin nicht hier, um mit Dir Tauschgeschäfte zu machen, mein Freund. XXX
+// Armal Sadak perso6
+L18D28B
+ Aber wenn Du als Einsatz eine schöne Waffe auf den Tisch legen kannst, können wir Yong spielen. XXX
+// Armal Sadak perso6
+L18D116A
+ Graue Pest! XXX
+// Armal Sadak perso6
+L18D116B
+ Das ist Alteisen, keine Waffe! XXX
+// Armal Sadak perso6
+L18D115B
+ Gib mir was anderes! XXX
+// Arkhan2 G perso2
+L18D29
+ Erklär mir die Spielregeln noch mal. XXX
+// Arkhan3 G perso3
+L18D30
+ Sag mir die Spielregeln noch mal. XXX
+// Armal Sadak perso6
+L18D31A
+ Ganz einfach! Du bist weiß, ich bin schwarz. XXX
+// Armal Sadak perso6
+L18D31B
+ Wir setzen abwechselnd einen Spielstein auf das Spielbrett. Es muß dabei mindestens ein gegnerischer Spielstein umgedreht werden. XXX
+// Armal Sadak perso6
+L18D31C
+ Damit Du einen oder mehrere meiner Spielsteine umdrehen kannst, mußt Du sie mit Deinen Spielsteinen umzingeln.  XXX
+// Armal Sadak perso6
+L18D31D
+ Wenn Du sie umdrehst, wechseln sie ihren Besitzer und damit auch die Farbe. XXX
+// Armal Sadak perso6
+L18D31E
+ Gewonnen hat derjenige, der die meisten Spielsteine auf dem Spielbrett hat, wenn alle Felder besetzt sind.  XXX
+// Armal Sadak perso6
+L18D31F
+ Also, gib mir eine schöne Waffe, und wir fangen an! XXX
+// Arkhan2 G perso2
+L18D129
+ Müssen wir wirklich um eine Waffe spielen? XXX
+// Arkhan3 G perso3
+L18D130
+ Müssen wir wirklich um eine Waffe spielen? XXX
+// Armal Sadak perso6
+L18D131
+ Das ist die Spielregel! XXX
+// Arkhan2 G perso2
+L18D32
+ Spielen wir? XXX
+// Arkhan3 G perso3
+L18D33
+ Spielen wir? XXX
+// Armal Sadak perso6
+L18D34
+ Setz Dich mir gegenüber und wir fangen an! XXX
+// Arkhan2 L perso2
+L18D35
+ Das machst Du gut! XXX
+// Arkhan3 L perso3
+L18D36
+ Hervorragend! XXX
+// Arkhan2 O perso2
+L18D37
+ Da hast Du Glück gehabt, das ist alles! XXX
+// Arkhan3 O perso3
+L18D38
+ Reine Glückssache! XXX
+// Armal Sadak perso6
+L18D39
+ Man sagt, ich sei der beste Spieler des Stalliten. XXX
+// Armal Sadak perso6
+L18D40
+ Danke. XXX
+// Arkhan2 L perso2
+L18D259
+ Das war eine schöne Partie. XXX
+// Arkhan3 L perso3
+L18D260
+ Eine schöne Partie. XXX
+// Arkhan2 O (freut sich) perso2
+L18D261
+ Ha ha, ich hab' Dich besiegt! XXX
+// Arkhan3 O (freut sich) perso3
+L18D262
+ Ich hab' Dich besiegt!  XXX
+// Armal Sadak perso6
+L18D263A
+ Du hast Glück gehabt ... und Du bist kein schlechter Spieler. XXX
+// Armal Sadak perso6
+L18D263B
+ Es ist mir immer eine Freude, mit Dir Waffen und Informationen auszutauschen. XXX
+// Armal Sadak perso6
+L18D264A
+ Du hast gut gespielt, das ist wahr. XXX
+// Armal Sadak perso6
+L18D264B
+ Aber ich behalte Deine Waffe als Gegenleistung für die Informationen, die ich Dir gegeben habe.  XXX
+// Arkhan2 L perso2
+L18D43
+ Hör mir zu, Armal Sadak, ich brauch' wirklich Deine Hilfe. XXX
+// Arkhan3 L perso3
+L18D44
+ Armal Sadak, Du mußt mir helfen. Und zwar sofort! XXX
+// Armal Sadak perso6
+L18D45A
+ Diese Welt ist nichts für Schwächlinge, Arkhan. XXX
+// Armal Sadak perso6
+L18D45B
+ Nichts kommt von nichts, vor allem hier. XXX
+// Armal Sadak perso6
+L18D45C
+ Wenn Du wirklich willst, daß ich Dir helfe, mußt Du beweisen, daß Du was taugst. XXX
+// Armal Sadak perso6
+L18D45D
+ Du mußt mich im Yong besiegen. Schluß aus. XXX
+// Arkhan2 O perso2
+L18D102A
+ Du gehst mir auf die Nerven mit Deinem Spiel! XXX
+// Arkhan2 O perso2
+L18D102B
+ Gib mir, was ich will, Du Dieb! XXX
+// Arkhan3 O perso3
+L18D103A
+ Jetzt reicht's mir mit diesem dummen Spiel! XXX
+// Arkhan3 O perso3
+L18D103B
+ Gib mir, was ich will, Dieb! XXX
+// Armal Sadak perso6
+L18D104A
+ Dieb?! Wer glaubst Du eigentlich, wer Du bist, um mich Dieb zu nennen - Du, der Du aus der Oberen Stadt kommst? XXX
+// Armal Sadak perso6
+L18D104B
+ Diejenigen, die mich beleidigt haben, sind nicht mehr da, um sich dessen zu rühmen! XXX
+// Arkhan2 L perso2
+L18D49
+ Hast Du Deine Meinung geändert? XXX
+// Arkhan3 L perso3
+L18D50
+ Hast Du Deine Meinung geändert?  XXX
+// Armal Sadak perso6
+L18D51A
+ Hast Du mich nicht verstanden? XXX
+// Armal Sadak perso6
+L18D51B
+ Wenn Du willst, daß ich Dir helfe, mußt Du mir beweisen, daß Du dazu in der Lage  bist, mich zu besiegen! XXX
+// Armal Sadak perso6
+L18D54A
+ Aber ich geb' Dir einen Tip: XXX
+// Armal Sadak perso6
+L18D54B
+ Der Yong-Spieler, der die Ecken des Spielfeldes besetzt, hat die besten Chancen, die Partie zu gewinnen. XXX
+// Arkhan2 O perso2
+L18D52
+ Wenn Du mir nicht hilfst, könnte ich sehr unangenehm werden! XXX
+// Arkhan3 O perso3
+L18D53
+ Hilf mir oder ich werde sehr unangenehm! XXX
+// Armal Sadak perso6
+L18D265B
+ Die wirkliche Kraft sitzt im Kopf, nicht in den Muskeln! XXX
+// Arkhan2 L perso2
+L18D55
+ Ich muß wissen, wer hier über was befiehlt. Sag es mir! XXX
+// Arkhan3 L perso3
+L18D56
+ Sag mir, wen ich hier treffen muß! XXX
+// Arkhan2 O perso2
+L18D57
+ Wenn Du wirklich so schlau bist, wie man mir gesagt hat, kannst Du mir bestimmt sagen, wen ich hier treffen muß. XXX
+// Arkhan3 O perso3
+L18D58
+ Wenn Du so schlau bist, kannst Du mir doch sicher erklären, wer hier was macht. XXX
+// Armal Sadak perso6
+L18D59A
+ Immer langsam, Freundchen. XXX
+// Armal Sadak perso6
+L18D59B
+ Ich fordere Dich zu einer Partie Yong heraus.  XXX
+// Armal Sadak perso6
+L18D59C
+ Wenn Du mich besiegst, sag' ich Dir, was Du wissen willst. XXX
+// Arkhan2 G perso2
+L18D60
+ Dafür müßte ich erstmal wissen, wie man das spielt! XXX
+// Arkhan3 G perso3
+L18D61
+ Wie spielt man das? XXX
+// Arkhan2 G perso2
+L18D90A
+ Ich suche jemanden. Einen Hüter des Feuers namens Zed ... XXX
+// Arkhan2 G perso2
+L18D90B
+ Hast Du oder hat einer Deiner Männer ihn gesehen? XXX
+// Arkhan3 G perso3
+L18D91A
+ Ich suche einen Typen namens Zed. XXX
+// Arkhan3 G perso3
+L18D91B
+ Hat einer Deiner Männer ihn gesehen? XXX
+// Armal Sadak perso6
+L18D92A
+ Ich kenne Zed, wer kennt ihn nicht? XXX
+// Armal Sadak perso6
+L18D92B
+ Seinen Mut könnte er eines Tages teuer bezahlen. XXX
+// Armal Sadak perso6
+L18D92C
+ Man hat mir erzählt, er sei nach dem Angriff auf die Große Predigerin zur Unteren Stadt hinuntergefahren. XXX
+// Armal Sadak perso6
+L18D92D
+ Man hat aber seine Spur verloren. XXX
+// Arkhan2 G perso2
+L18D105
+ Spielen wir eine Partie? XXX
+// Arkhan3 G perso3
+L18D106
+ Spielen wir eine Partie? XXX
+// Armal Sadak perso6
+L18D107A
+ Beim Sonnengott, Du findest offenbar Geschmack an diesem Spiel! XXX
+// Armal Sadak perso6
+L18D107B
+ Du kennst den Einsatz: eine Waffe. XXX
+// Arkhan2 L perso2
+L18D63
+ Ich suche ein Mittel gegen das Gift, das mich zerstört. XXX
+// Arkhan3 L perso3
+L18D64
+ Ich such' nach einem Mittel, um wieder gesund zu werden. XXX
+// Armal Sadak perso6
+L18D65A
+ Ich nehme an, daß Du nicht zu den Heilern gehen willst ... XXX
+// Armal Sadak perso6
+L18D65B
+ Du solltest mit Leona sprechen, falls Du sie findest. XXX
+// Arkhan2 L perso2
+L18D266
+ Leona? XXX
+// Arkhan3 L perso3
+L18D267
+ Leona? XXX
+// Armal Sadak perso6
+L18D666A
+ Das ist eine Einsiedlerin, die lebt außerhalb des Stalliten, im Reich der Finsternis. XXX
+// Armal Sadak perso6
+L18D666B
+ Aber niemand weiß, wo genau. XXX
+// Arkhan2 O perso2
+L18D66
+ Ich hab' gewonnen! Sag mir, wie ich wieder gesund werde, und zwar sofort! XXX
+// Arkhan3 O perso3
+L18D67
+ Ich hab' gewonnen! Gib mir etwas, um gesund zu werden. Sofort! XXX
+// Armal Sadak perso6
+L18D68A
+ Du hast gewonnen, das stimmt.  XXX
+// Armal Sadak perso6
+L18D68B
+ Aber vergiß nicht, daß viele Männer ihr Leben gelassen haben, weil sie so mit mir gesprochen haben. XXX
+// Armal Sadak perso6
+L18D68C
+ Reiß Dich also zusammen, mein Freund, oder verlaß sofort mein Versteck! XXX
+// Arkhan2 G perso2
+L18D69
+ Diese Leona, wie finde ich sie? XXX
+// Arkhan3 G perso3
+L18D70
+ Wie find' ich Leona? XXX
+// Armal Sadak perso6
+L18D71A
+ Man sagt, daß sie es ist, die Dich findet, nicht umgekehrt. XXX
+// Armal Sadak perso6
+L18D71B
+ Aber es wäre bereits eine große Leistung, den Stalliten überhaupt zu verlassen: Die Hüter des Feuers haben die Türen verschlossen. XXX
+// Arkhan2 G perso2
+L18D72A
+ Du hast von den Konkaliten gesprochen? XXX
+// Arkhan2 G perso2
+L18D72B
+ Wo ist ihr Versteck? XXX
+// Arkhan3 G perso3
+L18D73
+ Wo verstecken sich die Konkaliten? XXX
+// Armal Sadak perso6
+L18D74
+ Sie verstecken sich irgendwo unten in der Kanalisation! XXX
+// Arkhan2 G perso2
+L18D75
+ Haben die Konkaliten eine schwache Stelle? XXX
+// Arkhan3 G perso3
+L18D76
+ Die Konkaliten, haben sie eine schwache Stelle? XXX
+// Armal Sadak perso6
+L18D77A
+ Sicher! Ihr Chef ist ein widerliches Scheusal! XXX
+// Armal Sadak perso6
+L18D77B
+ Er heißt Sordos. Früher hat er einmal zu uns gehört. XXX
+// Armal Sadak perso6
+L18D77C
+ Er stellt sich bereits vor, wie er den Stalliten regiert, mit Waffengewalt und Feuer. XXX
+// Armal Sadak perso6
+L18D77D
+ In Wirklichkeit ist er aber ein erbärmlicher Kerl! XXX
+// Arkhan2 G perso2
+L18D78
+ Und ich versteh' nicht, warum Du von Dhorkan gesprochen hast. XXX
+// Arkhan3 G perso3
+L18D79
+ Und warum hast Du von Dhorkan gesprochen? XXX
+// Armal Sadak perso6
+L18D80A
+ Oh, das ist eine andere Geschichte, mein Freund. XXX
+// Armal Sadak perso6
+L18D80B
+ Gegen eine gute Waffe sag' ich Dir mehr darüber ... XXX
+// Armal Sadak perso6
+L18D80C
+ Natürlich nur, wenn Du mich beim Yong besiegst! XXX
+// Arkhan2 G perso2
+L18D81
+ Dhorkan kommt in die Untere Stadt hinunter und alle wissen es? XXX
+// Arkhan3 G perso3
+L18D82
+ Dhorkan kommt hier so ohne weiteres herunter? XXX
+// Armal Sadak perso6
+L18D83A
+ Nein, er ist vorsichtig, er versteckt sich. XXX
+// Armal Sadak perso6
+L18D83B
+ Aber meine Männer sind überall, sie halten die Augen offen. XXX
+// Armal Sadak perso6
+L18D83C
+ Wir nehmen an, daß er seit dem letzten Mond mindestens zehnmal bei den Konkaliten gewesen ist. XXX
+// Armal Sadak perso6
+L18D83D
+ Und einige sagen, sie hätten gesehen, wie er die Verwunschene Tür geöffnet hat und hineingegangen ist. XXX
+// Arkhan2 G perso2
+L18D268
+ Die Verwunschene Tür? XXX
+// Arkhan3 G perso3
+L18D269
+ Die Verwunschene Tür? XXX
+// Armal Sadak perso6
+L18D270A
+ Das ist die Tür einen Gebäudes vom Vorher, nicht weit von hier. XXX
+// Armal Sadak perso6
+L18D270B
+ Niemand hat sie je öffnen können.  XXX
+// Armal Sadak perso6
+L18D270C
+ Und man sagt, daß diejenigen, die es versucht haben, kurze Zeit später auf geheimnisvolle Weise umgekommen sind ... XXX
+// Arkhan2 G perso2
+L18D271
+ Ist das eine wahre Geschichte? XXX
+// Arkhan3 G perso3
+L18D272
+ Und ist das wahr? XXX
+// Armal Sadak perso6
+L18D273A
+ Keine Ahnung, aber man findet in der Gegend oft tote Tiere. XXX
+// Armal Sadak perso6
+L18D273B
+ Die Lumpensammler aus der Gegend haben daher ein paar Schädel vor die Tür gelegt. XXX
+// Armal Sadak perso6
+L18D273C
+ Damit die Leute die Finger davon lassen. XXX
+// Arkhan2 G perso2
+L18D84A
+ Ich suche eine Gruft, einen geheimen Ort, den nur die Prediger kennen. XXX
+// Arkhan2 G perso2
+L18D84B
+ Sagt Dir das was? XXX
+// Arkhan3 G perso3
+L18D85
+ Eine geheime Gruft, die nur die Prediger kennen, sagt Dir das was? XXX
+// Armal Sadak perso6
+L18D86A
+ Ja ... Darüber gibt es einige Gerüchte. XXX
+// Armal Sadak perso6
+L18D86B
+ Ein unterirdischer Ort, eine Energiequelle ... XXX
+// Armal Sadak perso6
+L18D86C
+ Der Eingang soll sich irgendwo in der Oberen Stadt befinden. XXX
+// Armal Sadak perso6
+L18D86D
+ Genaueres weiß ich auch nicht ... XXX
+// Arkhan2 G perso2
+L18D87A
+ Ich such' geschliffene Kristalle. XXX
+// Arkhan2 G perso2
+L18D87B
+ Hast Du oder hat einer Deiner Männer etwas in der Richtung gesehen? XXX
+// Arkhan3 G perso3
+L18D88A
+ Ich such' Kristalle. Geschliffene. XXX
+// Arkhan3 G perso3
+L18D88B
+ Hast Du sowas gesehen, Du oder Deine Männer? XXX
+// Armal Sadak perso6
+L18D89A
+ Nein, sowas hab' ich nicht gesehen. XXX
+// Armal Sadak perso6
+L18D89B
+ Aber falls ich sowas seh', sag' ich Dir Bescheid. XXX
+// Armal Sadak perso6
+L18D107C
+ Wenn Du gewinnst, schenke ich Dir die Munition für die Blitze vom Vorher. XXX
+// Arkhan2 G perso2
+L18D275
+ Was meinst Du dazu? XXX
+// Arkhan3 G perso3
+L18D276
+ Was meinst Du dazu? XXX
+// Armal Sadak perso6
+L18D277A
+ Zeig mal... XXX
+// Armal Sadak perso6
+L18D277B
+ Der Pakt zwischen Dhorkan und Sordos! Diese Dummköpfe haben einen schriftlichen Pakt aufgesetzt! XXX
+// Armal Sadak perso6
+L18D277C
+ Sicher eine Idee des Profos. XXX
+// Armal Sadak perso6
+L18D277D
+ Sordos kann nicht einmal lesen, dem ist das doch egal! XXX
+// Arkhan2 L perso2
+L18D93A
+ Ich hab' die Leiche eines Wanderers der Finsternis auf der Festungsmauer des Stalliten gefunden. XXX
+// Arkhan2 L perso2
+L18D93B
+ Er hatte diesen Yong-Spielstein bei sich. XXX
+// Arkhan2 L perso2
+L18D93C
+ Ich dachte, das könnte Dich interessieren ... XXX
+// Arkhan3 L perso3
+L18D94A
+ Auf der Festungsmauer hab' ich einen Wanderer der Finsternis gesehen. XXX
+// Arkhan3 L perso3
+L18D94B
+ Der hatte das hier bei sich. XXX
+// Arkhan3 L perso3
+L18D94C
+ Da hab' ich an Dich gedacht ... XXX
+// Arkhan2 O perso2
+L18D96A
+ Auf der Festungsmauer liegt ein Wanderer der Finsternis ... tot. XXX
+// Arkhan2 O perso2
+L18D96B
+ Ich hab' diesen Spielstein bei ihm gefunden. XXX
+// Arkhan2 O perso2
+L18D96C
+ Ist das nicht einer von Deinen? XXX
+// Arkhan3 O perso3
+L18D97A
+ Auf der Festungsmauer, da liegt ein Wanderer der Finsternis ... verreckt. XXX
+// Arkhan3 O perso3
+L18D97B
+ Hab' das da gefunden, als ich ihn durchsucht hab'. XXX
+// Arkhan3 O perso3
+L18D97C
+ Er gehört Dir, oder? XXX
+// Armal Sadak (düster) perso6
+L18D95A
+ Diesen Spielstein ... hatte ich Lodar gegeben! XXX
+// Armal Sadak perso6
+L18D95B
+ Was ist mit ihm passiert, sprich! XXX
+// Arkhan2 G perso2
+L18D284
+ Hmm ... Eine Bauchverletzung, er war nicht zu retten.  XXX
+// Arkhan3 G perso3
+L18D285
+ Hmm ... Eine Verletzung... Tödlich. XXX
+// Arkhan2 G perso2
+L18D286
+ Ein Konkalit. Er hat ihn grausam getötet. XXX
+// Arkhan3 G perso3
+L18D287
+ Ein Konkalit. Er hat ihm keine Chance gelassen. XXX
+// Armal Sadak perso6
+L18D95C
+ Lodar war mein Freund ... und ein hervorragender Yong-Spieler. XXX
+// Armal Sadak perso6
+L18D95D
+ Ich danke Dir, daß Du mir diesen Spielstein zurückgebracht hast. XXX
+// Armal Sadak perso6
+L18D95E
+ Ich will Dir meine Dankbarkeit beweisen. Nimm diesen Helm, als Erinnerung an einen mutigen Wanderer der Finsternis. XXX
+// Arkhan2 G perso2
+L18D111
+ Ist Dir diese Waffe recht? XXX
+// Arkhan3 G perso3
+L18D112
+ Ist Dir das recht? XXX
+// Armal Sadak perso6
+L18D113
+ Hervorragend. XXX
+// Armal Sadak perso6
+L18D114
+ Setz' Dich mir gegenüber, und laß uns anfangen! XXX
+// Armal Sadak perso6
+L18D115A
+ Sie ist nicht gerade neu! XXX
+// Arkhan2 L perso2
+L18D162
+ Ist Dir das recht? XXX
+// Arkhan3 L perso3
+L18D163
+ Geht das? XXX
+// Arkhan2 O perso2
+L18D164
+ Hey, hoch mit Dir! XXX
+// Malrot 4 perso64
+L18D166A
+ (lautes Schnaufen) XXX
+// Malrot 4 perso64
+L18D166B
+ (verschlafenes Grunzen) XXX
+// Arkhan2 G perso2
+L18D167
+ Oh, schau Dir das an! XXX
+// Arkhan3 G perso3
+L18D168
+ Hey, schau nur... XXX
+// Arkhan2 G perso2
+L18D169
+ Da ist nichts zu holen! XXX
+// Arkhan3 G perso3
+L18D170
+ Nichts zu holen! XXX
+// Arkhan2 G (durchsucht die Sachen) perso2
+L18D173
+ Seemannssachen... XXX
+// Arkhan3 G (durchsucht die Sachen) perso3
+L18D174
+ Seemannssachen... XXX
+// Malrot2 (regt sich auf) perso62
+L18D183A
+ Du hast mich wohl nicht richtig verstanden! XXX
+// Malrot2 perso62
+L18D183B
+ Rühr meinen Stohll nicht an! XXX
+// Malrot2 perso62
+L18D182A
+ Du bist hier nicht bei Dir zu Hause! XXX
+// Malrot2 perso62
+L18D182B
+ Deswegen geb' ich Dir einen guten Rat: Rühr meinen Stohll-Vorrat nicht an. XXX
+// Malrot2 perso62
+L18D176
+ Hier, nimm nur! XXX
+// Arkhan2 G perso2
+L08D71
+ Nein, die Flasche ist schon voll. XXX
+// Arkhan3 G perso3
+L08D72
+ Die Flasche ist voll! XXX
+// Malrot2 (heiter) perso62
+L18D181
+ Hey, falls Deine Flasche zu voll ist, kann ich Dir gerne helfen, sie zu leeren! XXX

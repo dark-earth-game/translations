@@ -1,0 +1,202 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL03.TXT
+ // Kalhi perso33
+L03D14
+ Jesli sie zgubimy, spotkajmy sie na zewnatrz centralnego placu. XXX
+// Kalhi (stunned, confused) perso13
+L03D500A
+ Arkhan! dlaczego to zrobiles? XXX
+// Kalhi (crippled) perso13
+L03D500B
+ To trucizna... to ona odbiera ci rozum! XXX
+// Kalhi (has just slipped on her clothes) perso33
+L03D501A
+ Niezle pasuja! XXX
+// Kalhi perso33
+L03D501B
+ Jestem pewna, ze Gwardzisci Ognia nie rozpoznaja mnie, jesli nie beda patrzec z bliska na moja twarz. XXX
+// Kalhi (impatient) perso13
+L03D601
+ Arkhan, musimy stad isc! XXX
+// Kalhi (impatient) perso13
+L03D602
+ Szybciej Arkhan, zostawanie tutaj jest niebezpieczne. XXX
+// Kalhi (surprised that Arkhan doesn't react) perso13
+L03D603
+ Arkhan? Gotow do drogi? XXX
+// Arkhan2 G perso2
+L03D01
+ Czekaj na mnie! XXX
+// Arkhan3 G perso3
+L03D02
+ Czekaj! XXX
+// Kalhi perso13
+L03D03
+ Zaczekam tutaj! XXX
+// Kalhi (afraid) perso33
+L04D41
+ Arkhan! Co cie napadlo? XXX
+// Arkhan2 G perso2
+L03D503
+ Jak wyladowalas w wiezieniu? XXX
+// Arkhan3 G perso3
+L03D504
+ Dlaczego wrzucili cie do wiezienia? XXX
+// Kalhi perso13
+L03D505
+ Gwardzisci Ognia...znalezli mnie w komnacie Rylsadhara.  XXX
+// Arkhan2 G perso2
+L03D506A
+ I pozwolili ci zatrzymac noz? XXX
+// Arkhan2 G perso2
+L03D506B
+ Nie wiedza co robia!  XXX
+// Arkhan3 G perso3
+L03D507
+ Nie zabrali nawet twojego noza?! Dobra robota! XXX
+// Kalhi perso13
+L03D508A
+ Jesli dobrze zrozumialam, Rylsadhar i Zed znikli. XXX
+// Kalhi perso13
+L03D508B
+ A ja rzekomo bylam podejrzana! XXX
+// Arkhan2 G perso2
+L03D509
+ O co w tym chodzi? XXX
+// Arkhan3 G perso3
+L03D510
+ Zed i moj ojciec... znikli? XXX
+// Kalhi perso13
+L03D511
+ Nie wiem. I nie rozumiem tego lepiej od ciebie.. XXX
+// Arkhan2 G perso2
+L03D512
+ Okej. Musimy przedostac sie do Nizszego Miasta bez zwracania na siebie uwagi.  XXX
+// Arkhan3 G perso3
+L03D513
+ Okej. Sprobujemy dostac sie do Nizszego Miasta... niepostrzezenie.  XXX
+// Kalhi perso13
+L03D514
+ Ciezko bedzie sie przeslizgnac niepostrzezenie! XXX
+// Arkhan2 G perso2
+L03D515
+ Za mna, ruszamy. XXX
+// Arkhan3 G perso3
+L03D516
+ Chodzmy. XXX
+// Kalhi perso13
+L03D517
+OK, ide za toba. XXX
+// Arkhan2 G perso2
+L03D518
+ Spojrz! Jeden ze starych uniformow Bogdarana... XXX
+// Arkhan2 G perso2
+L03D519
+ Zanim nabral sadelka! XXX
+// Arkhan3 G perso3
+L03D520
+ Zaloz to. XXX
+// Kalhi perso13
+L03D521
+ W porzadku, przymierze to... XXX
+// Kalhi perso13
+L03D522
+ Arkhan nie mamy na to czasu! XXX
+// Arkhan2 O perso2
+L03D523
+ Juz ja ci dam lekcje! XXX
+// Arkhan2 L perso2
+L03D524
+ Jestes prawdziwym gwardzista! XXX
+// Arkhan3 O perso3
+L03D525
+ Juz ja ci dam! XXX
+// Kalhi (forced to defend herself) perso33
+L04D43
+ Arkhan nie! XXX
+// Kalhi (frightened) perso33
+L04D42
+ Nie Arkhan! Musisz to zwalczyc! XXX
+// Kalhi perso33
+L03D530A
+ Gwardzisci Ognia czuwaja.  XXX
+// Kalhi perso33
+L03D530B
+ Z tym przebraniem moze nam sie udac ich oszukac.  XXX
+// Arkhan2 G perso2
+L03D531A
+ Ty w uniformie! Co za widok! XXX
+// Arkhan2 G perso2
+L03D531B
+ Jesli Phedorii sie to nie spodoba, bedzie wiedziala co z tym zrobic! XXX
+// Arkhan3 G (amused to see Kalhi in uniform) perso3
+L03D532
+ Oh Ho! Spojrz na siebie... nawet Phedoria bylaby pod wrazeniem!  XXX
+// Kalhi perso33
+L03D533
+ Jesli juz skonczyles sie ze mnie natrzasac, moze bysmy ruszyli!?! XXX
+// Arkhan2 G perso2
+L03D534
+ Musimy przejsc przez hol, a potem w dol.  XXX
+// Arkhan3 G perso3
+L03D535
+ Przekraczamy hol, a potem w dol. XXX
+// Kalhi perso33
+L03D536
+ Ty dowodzisz! XXX
+// Kalhi perso13
+L03D528
+ Nie zmuszaj mnie do... XXX
+// Kalhi perso13
+L03D526
+ Arkhan przestan! XXX
+// Kalhi perso13
+L03D527
+ To ta trucizna, ona odbiera ci rozum! XXX
+// Arkhan1 L perso1
+L03D04A
+ Stare beczki po oliwie.  XXX
+// Arkhan1 L perso1
+L03D04B
+ Mistrz Oliwnik musial je tu zostawic.  XXX
+// Arkhan1 O (firing into the cans) perso1
+L03D05
+ Ha! Sprobujcie tego podle pojemniki! XXX
+// Arkhan2 L perso2
+L03D06
+ Stare beczulki pozostawione przez Oliwnikow. XXX
+// Arkhan2 O (firing in the cans) perso2
+L03D07
+ Huh! Stare pojemniki na smieci Bogdarana! XXX
+// Arkhan3 L perso3
+L03D08
+ Stare beczulki....sa bezuzyteczne. XXX
+// Arkhan2 G perso2
+L03D10
+ Laboratorium Oliwnikow jest tutaj. XXX
+// Arkhan3 G perso3
+L03D11
+ Oto jest laboratorium Oliwnikow.  XXX
+// Delia perso10
+L03D12
+ Szybko, wejdzmy do srodka.  Chce zobaczyc Bogdarana.  XXX
+// Delia perso10
+L03D13
+ Arkhan, blagam, nie tracmy wiecej czasu! XXX
+// Arkhan3 G (fighting Delia) perso3
+L03D16
+ Wystarczy szmato! XXX
+// Delia (attacked by Arkhan) perso10
+L03D09
+ Kompletnie odebralo ci rozum! XXX
+// Arkhan1 G perso1
+L03D17A
+ Jestesmy na szczycie klifu. Ponizej... nic poza oceanem jak daleko oczy widza. XXX
+// Arkhan1 G perso1
+L03D17B
+ Podczas Wielkiego Kataklizmu cale pasma gorskie runely do morza. XXX
+// Arkhan2 G perso2
+L03D18
+ Dalej nic poza morzem i ciemnoscia... XXX
+// Arkhan3 G perso3
+L03D19
+ Morze i ciemnosc... az po horyzont... XXX

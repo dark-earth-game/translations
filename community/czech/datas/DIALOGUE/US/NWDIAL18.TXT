@@ -1,0 +1,1012 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL18.TXT
+ // Armal Sadak perso62
+L18D138
+ Nemel bys to delat! XXX
+// Malrot2 perso6
+L18D02
+ Ty jsi tu jiz opet! XXX
+// Malrot2 perso6
+L18D01A
+ Hej, Ty! Zde nemùzeš zùstávat! XXX
+// Malrot2 perso6
+L18D01B
+ To je zakázane pro cizince! XXX
+// Malrot2 perso62
+L18D05
+ Hej, Armali, tvùj kumpán je jiz opet tu! XXX
+// Armal Sadak perso6
+L18D133
+ Bud zdráv, Kamaráde. XXX
+// Malrot2 perso62
+L18D03
+ šefe! Ten krysí ksicht je jiz zde opet! XXX
+// Armal Sadak perso6
+L18D04A
+ Pozor Jianu, náš prítel prichází z Horního mesta, bud trochu zdvorilejší k nemu. XXX
+// Armal Sadak perso6
+L18D04B
+ On nenazýval te jako já slabomyslným, jak já vím... XXX
+// Malrot6 (erzählt, daß A. ihm geholfen hat) perso66
+L18D191A
+ ...a tu prišel ... s takovým ksichtem jako ... jako ...  XXX
+// Malrot6 (sieht Arkhan) perso66
+L18D191B
+ To byl on! XXX
+// Armal Sadak perso6
+L18D192A
+ Jseš prítel, Arkhane, a cestný muz. XXX
+// Armal Sadak perso6
+L18D192B
+ To ti nezapomeneme! XXX
+// Armal Sadak perso6
+L18D193A
+ Ty jsi jednoho z nás zachránil! XXX
+// Armal Sadak perso6
+L18D193B
+ Me jmeno je Armal Sadak. A slabomysl vzadu je Jianu. XXX
+// Armal Sadak perso6
+L18D193C
+ Dívej se na nás jako na prátele. XXX
+// Armal Sadak (bietet A. eine Waffe an) perso6
+L18D194
+ Tento dárek má být jako dùkaz mých díkù. XXX
+// Armal Sadak perso6
+L18D265A
+ Nenaháníš mi strach ...  XXX
+// Malrot2 (A. holt seine Waffe heraus) perso62
+L18D134
+ Hej! Uklidni se! XXX
+// Malrot2 perso62
+L18D190A
+ Bud vítán, príteli. XXX
+// Malrot2 perso62
+L18D190B
+ Máš suchý hrdlo, nacepuj si pití. XXX
+// Armal Sadak perso6
+L18D10
+ Aha! Náš host ukazuje jeho drápy! XXX
+// Armal Sadak (A. packt seine Waffe weg) perso6
+L18D11
+ Tak je to lepší! XXX
+// Malrot2 (A. packt seine Waffe weg) perso62
+L18D135
+ Tak líbíš se mi jiz lepe. XXX
+// Armal Sadak perso6
+L18D118
+ Udelej to ješte jednou, a jseš mrtvý muz! XXX
+// Armal Sadak perso6
+L18D117
+ Jianu! Zapni dvere! XXX
+// Armal Sadak (macht sich gefechtsbereit) perso6
+L18D06
+ Nechme zbrane mluvit! XXX
+// Malrot2 perso62
+L18D160
+ Sefe! Ten krysí ksicht hraje si na silneho muze! XXX
+// Armal Sadak perso6
+L18D161
+ Pokud to ješte jednou uciní, zabij ho! XXX
+// Malrot2 (drohend) perso62
+L18D136
+ Mel bys poslechnout, ty chvástale? XXX
+// Malrot2 (warnt Armal Sadak) perso62
+L18D137
+ Sefe! XXX
+// Armal Sadak perso6
+L18D120A
+ Máš smùlu, mùj príteli.  XXX
+// Armal Sadak perso6
+L18D120B
+ Pokud chceš vedet, jak pokracovat, musíš pokracovat.  XXX
+// Armal Sadak perso6
+L18D121
+ Znáš cenu: nejakou zbran! XXX
+// Armal Sadak perso6
+L18D132
+ Pokazde se nedá vyhrát! XXX
+// Armal Sadak perso6
+L18D122A
+ Bravo! Krásná hra! XXX
+// Arkhan2 G perso2
+L18D250
+ Tedy, pomùzeš mi nebo ne? XXX
+// Arkhan3 G perso3
+L18D278
+ Pomoz mi nyní... XXX
+// Armal Sadak perso6
+L18D122B
+ Dobre, já ti budu trochu více vyprávet. XXX
+// Armal Sadak perso6
+L18D122C
+ Ve Spodním meste pracují smetáci a zivitele spolecne. XXX
+// Armal Sadak perso6
+L18D122D
+ Spolecne tluceme my to spolu docela dobre dál. XXX
+// Armal Sadak perso6
+L18D122E
+ Lory, Velká knezka, není hloupá. XXX
+// Armal Sadak perso6
+L18D122F
+ Ona si vází nás, my si vázíme jí. XXX
+// Armal Sadak perso6
+L18D122G
+ A dokud se strázci ohnù nemýchali do našich zálezitostí ... XXX
+// Armal Sadak perso6
+L18D122H
+ meli jsme vlastne problemy jen s Konkality, s temi ale mocne. XXX
+// Armal Sadak perso6
+L18D122I
+ To jsou prasecí psy nejhoršího druhu, prolevají krev, to je všechno, co jim delá radost! XXX
+// Armal Sadak perso6
+L18D122J
+ Oni byli temi, kterí Velkou knezku napadli! XXX
+// Armal Sadak perso6
+L18D122K
+ To ale oni sami neudelai, na to jsou príliš hloupý. XXX
+// Armal Sadak perso6
+L18D122L
+ Je tu ješte nekdo jiný, který tahá drátky ... XXX
+// Armal Sadak perso6
+L18D122M
+ Jsem si jistý, ze to není Dhorkan. XXX
+// Armal Sadak perso6
+L18D122N
+ Ale dal bych cokoli, k zjištení, kdo je to! XXX
+// Armal Sadak perso6
+L18D123A
+ No pekne, ty jsi jednoznacne dobrý hrác. XXX
+// Armal Sadak perso6
+L18D123B
+ Chceš vedet, co já o Profosi Dhorkanovi vím, nemám pravdu? XXX
+// Armal Sadak perso6
+L18D123C
+ Pred knezími a Strázci ohnù je on nevinátko, ale ve skutecnosti je pravým darebákem. XXX
+// Armal Sadak perso6
+L18D123D
+ On sní o tom, rezírovat sám Stallit, a kneze krkù zbavit. XXX
+// Armal Sadak perso6
+L18D123E
+ Aby toho dosáhl, uzavrela tato hloupá hlava pakt se Sordosem. XXX
+// Armal Sadak perso6
+L18D123F
+ Dhorkan si myslí jiste, ze by mohl Konkality pro sve ucely vyuzít a pak jim tela o hlavu zkrátit. XXX
+// Arkhan2 G perso2
+L18D251A
+ Proc ne? XXX
+// Arkhan2 G perso2
+L18D251B
+ Ríkal jsi prece práve, ze jsou Konkaliti príliš hloupý, nebo? XXX
+// Arkhan3 G perso3
+L18D252
+ Výpocty vyjdou, pokud jsou Konkaliti tak príliš hloupý, jak ríkáš. XXX
+// Armal Sadak perso6
+L18D253A
+ Presne. Ale já vím, ze je Sordos ješte nekým jiným manipulován. XXX
+// Armal Sadak perso6
+L18D253B
+ Od osoby, která nakázala ùtok na Lory. XXX
+// Armal Sadak perso6
+L18D253C
+ A kdyz Dhorkan konecne pochopí, co se deje, bude uz príliš pozde! XXX
+// Arkhan2 G perso2
+L18D279A
+ Mám dobrou novinku pro tebe, Armale Sadaku. XXX
+// Arkhan2 G perso2
+L18D279B
+ Mùzeš prestat, starosti o Sordosovi si delat. XXX
+// Arkhan2 G perso2
+L18D279C
+ Promluvil jsem si s ním ... a to dùkladne. XXX
+// Arkhan3 G perso3
+L18D280A
+ Dobrá novinka pro tebe! XXX
+// Arkhan3 G perso3
+L18D280B
+ Podal jsem si Sordose... Dùkladne! XXX
+// Armal Sadak (überrascht) perso6
+L18D281A
+ Proklate! Co ty tu ríkáš? XXX
+// Armal Sadak perso6
+L18D281B
+ Ty jsi zabil Sordose? XXX
+// Armal Sadak perso6
+L18D281C
+ Ah! Arkhane, mùj príteli! Slunecní otec te posílá, pokud ty mluvíš pravdu! XXX
+// Armal Sadak perso6
+L18D281D
+ Pokud se ale dozvím, ze jsi mi lhal, ješte o mne uslyšíš. XXX
+// Arkhan2 G perso2
+L18D282
+ Nelzu ti, mùzeš mi verit. XXX
+// Arkhan3 G perso3
+L18D283
+ Já nelzu. XXX
+// Armal Sadak perso6
+L18D254A
+ Hej, ty jsi skutecne dobrej. XXX
+// Armal Sadak perso6
+L18D254B
+ Zde je munice pro laser od predkù. XXX
+// Armal Sadak perso6
+L18D254C
+ Neplýtvej, ona je velmi hodnotná! XXX
+// Malrot2 perso62
+L18D175
+ Pokud se chceš alkoholu napít, mùzeš si vzít flašku. XXX
+// Malrot6 (sehr dankbar) perso66
+L18D195A
+ Díky ti, mùj príteli! XXX
+// Malrot6 (enthusiastisch) perso66
+L18D195B
+ Ukázu Vám, co se stane, pokud smeták ùkryt v ohni a popelu polozí! XXX
+// Armal Sadak (schreiend) perso6
+L18D196
+ Ale dávej pozor, aby sis prdel nespálil! XXX
+// Armal Sadak (amüsiert, zu Arkhan) perso6
+L18D197
+ Pokud on jí najde, pak její poslední hodinka uhodila! XXX
+// Arkhan2 G perso2
+L18D08
+ Hrajme ješte partii? XXX
+// Arkhan3 G perso3
+L18D09
+Budem hrát ješte jednu partii? XXX
+// Armal Sadak perso6
+L18D07A
+ Kdo nebo co ty jsi, nech mne neco ríci. XXX
+// Armal Sadak perso6
+L18D07B
+ Já hraju pouze s mými hosty. A tebe já neznám! XXX
+// Armal Sadak perso6
+L18D07C
+ Pokud nechceš zádnou podlost, odpouštím ti, rozumíš? XXX
+// Armal Sadak perso6
+L18D119
+ Zacnu, mám výhodu domácího prostredí! XXX
+// Armal Sadak perso6
+L18D202
+ Rekni mi nejprve, co vlastne chceš. XXX
+// Armal Sadak perso6
+L18D203A
+ Snad pozdeji. Nemyslíš, ze by ses mel pokusit zachránit, co ješte zachránit jde? XXX
+// Armal Sadak perso6
+L18D203B
+ Myslím, v tomto momente mel by ses radeji pokusit, tvojí kùzi zachránit! XXX
+// Arkhan2 G perso2
+L18D204
+ Tak, hrajeme my nebo nehrajeme? XXX
+// Arkhan3 G perso3
+L18D205
+ Tak, hrajeme my nebo nehrajeme? XXX
+// Armal Sadak perso6
+L18D206
+ Ano, pokud ty máš dobrou zbran jako zástavu. XXX
+// Arkhan2 L perso2
+L18D139A
+ Nerozciluj se! XXX
+// Arkhan2 L perso2
+L18D139B
+ Jsem prítel smetákù. XXX
+// Arkhan3 L perso3
+L18D140
+ V klidu. XXX
+// Malrot2 perso62
+L18D141A
+ Poslouchej, neznám te a nic ti nereknu. XXX
+// Malrot2 perso62
+L18D141B
+ Rozumíš? XXX
+// Arkhan2 O perso2
+L18D142
+ Kdo je zde šef? XXX
+// Arkhan3 O perso3
+L18D143
+ Kdo je zde šef? XXX
+// Malrot2 perso62
+L18D144
+ Nikdo! vypal, sracko! XXX
+// Arkhan2 O perso2
+L18D145
+ Kdopak jsi vlastne? XXX
+// Arkhan3 O perso3
+L18D146
+ Kdo pak jsi vlastne? XXX
+// Malrot2 perso62
+L18D147
+ Do toho ti nic není. Táhni! XXX
+// Arkhan2 G perso2
+L18D23A
+ Mám zprávu pro tebe: XXX
+// Arkhan2 G perso2
+L18D23B
+ "Der Mensch ist nichts als ein Spielstein, den die Hand des Schicksals mal in den Schatten, mal in das Licht taucht." XXX
+// Arkhan3 G perso3
+L18D24A
+ Mám zprávu pro tebe: XXX
+// Arkhan3 G perso3
+L18D24B
+ " Der Mensch ist ... nichts als ein Spielstein, den die Hand des Schicksals mal in den Schatten ... mal in das Licht taucht." XXX
+// Malrot2 perso62
+L18D274A
+ Náš poeta cvicí si ve vyprávení príbehù? Ha ha ha! XXX
+// Malrot2 perso62
+L18D274B
+ Jdi jiz, zmizni nebo te ponorím do chládku! XXX
+// Arkhan2 L perso2
+L18D148
+ Tvùj šef je dábelský satan! XXX
+// Arkhan3 L perso3
+L18D149
+ Tvùj šef je dábelský satan!  XXX
+// Malrot2 perso62
+L18D150
+ Jiste. Je lepší, být jeho prítelem nez jeho protivníkem, to mùzeš mi verit. XXX
+// Arkhan2 O perso2
+L18D154
+ Ty jsi slouzící Armala Sadaka, souhlasí? XXX
+// Arkhan3 O perso3
+L18D155
+ Ty jsi slouzící Armala Sadaka, souhlasí? XXX
+// Malrot2 perso62
+L18D156
+ Myslím, co ty chceš, je mi lhostejne ... XXX
+// Arkhan2 O perso2
+L18D151
+ Kdo je to za sikmookáce, který se v rohu válí? XXX
+// Arkhan3 O perso3
+L18D152
+ A kdo je ta ozralá hlava vzadu? XXX
+// Malrot2 perso62
+L18D153A
+ Víš, rádi pijeme a jíme. XXX
+// Malrot2 perso62
+L18D153B
+ A kdyz si chcem odpocinout, necháme se ukolebat kymácením lode ... XXX
+// Malrot2 perso62
+L18D159
+ Ne, nech si svoje harampádí. XXX
+// Arkhan2 G perso2
+L18D184
+ Chceš lok alkoholu? XXX
+// Arkhan3 G perso3
+L18D185
+ Chceš se napít? XXX
+// Malrot2 perso62
+L18D186
+ Ne, pokud já tvojí hubu vidím, je mi špatne! XXX
+// Malrot2 perso62
+L18D187
+ Trochu alkoholu, neríkám ze ne. XXX
+// Malrot2 (rülpst) perso62
+L18D188
+ ... Díky. XXX
+// Malrot2 (hat getrunken) perso62
+L18D189
+ Aaahhh... z toho dostávám zízen! XXX
+// Arkhan2 L perso2
+L18D12
+ Co hraješ? XXX
+// Arkhan3 L perso3
+L18D13
+ co ty tu hraješ? XXX
+// Arkhan2 O perso2
+L18D15
+ Co je to za hru, hra pro zenušky? XXX
+// Arkhan3 O perso3
+L18D16
+ Co je to za hru, hra pro holcicky?  XXX
+// Armal Sadak perso6
+L18D14A
+ Tato hra se jmenuje Yong. XXX
+// Armal Sadak perso6
+L18D14B
+ Nejsi odsud, jak já vidím. XXX
+// Arkhan2 L perso2
+L18D18
+ Jak se hraje tato hra? XXX
+// Arkhan3 L perso3
+L18D19
+ Jak se hraje tato hra? XXX
+// Arkhan2 O perso2
+L18D21
+ Jsem si jistý, ze bych se zavrenýma ocima vyhrál! XXX
+// Arkhan3 O perso3
+L18D22
+ Vyhraju se zavrenýma ocima! XXX
+// Armal Sadak perso6
+L18D20A
+ Bud opatrný na to, co ty ríkáš! XXX
+// Armal Sadak perso6
+L18D20B
+ Nemám cas, tve hloupe reci poslouchat ... XXX
+// Armal Sadak perso6
+L18D20C
+ (Seufzen) XXX
+// Armal Sadak perso6
+L18D25
+ Jak vidím, posílá te dùverná osoba. XXX
+// Arkhan2 G perso2
+L18D255
+ Ano, já mám s... XXX
+// Arkhan3 G perso3
+L18D256
+ Ano, to je... XXX
+// Armal Sadak perso6
+L18D25A
+ Ne, nepotrebuju více vedet. XXX
+// Armal Sadak perso6
+L18D25B
+ Ty jsi sem prišel, to je všechno. XXX
+// Armal Sadak perso6
+L18D25C
+ A nemá to smysl, otázky dávat  ... XXX
+// Armal Sadak perso6
+L18D257
+ Rekl jsem ti prece, nepiju. XXX
+// Armal Sadak perso6
+L18D258
+ Neber si to tak, ale nepiju. XXX
+// Armal Sadak perso6
+L18D28A
+ Já nejsem od toho, abych s tebou delal obchùdky, mùj príteli. XXX
+// Armal Sadak perso6
+L18D28B
+ Ale pokud ty jako vklad peknou zbran na stùl polozíš, mùzeme Yong hrát. XXX
+// Armal Sadak perso6
+L18D116A
+ Sedý mor! XXX
+// Armal Sadak perso6
+L18D116B
+ To je stare zelezo, zádná zbran! XXX
+// Armal Sadak perso6
+L18D115B
+ Nabídni neco jineho! XXX
+// Arkhan2 G perso2
+L18D29
+ Vysvetli mi pravidla ješte jednou. XXX
+// Arkhan3 G perso3
+L18D30
+ Rekni mi pravidla ješte jednou. XXX
+// Armal Sadak perso6
+L18D31A
+ Docela jednoduche! Ty jsi bílý, já jsem cerný. XXX
+// Armal Sadak perso6
+L18D31B
+ My strídave dáváme hrací kameny na plochu. Musí se u toho alespon jeden neprátelský kámen otocit. XXX
+// Armal Sadak perso6
+L18D31C
+ Abys jeden nebo více mých kamenù mohl otocit, musíš je se svými kameny obklícit.  XXX
+// Armal Sadak perso6
+L18D31D
+ Pokud ty je otocíš, zmení se jejich vlastník a tím i barva. XXX
+// Armal Sadak perso6
+L18D31E
+ Vyhrál ten, kteremu nejvíce kamenù na ploše zùstalo, po te co je pole plne obsazeno.  XXX
+// Armal Sadak perso6
+L18D31F
+ Tedy, dej mi peknou zbran, a zacnem! XXX
+// Arkhan2 G perso2
+L18D129
+ Musíme skutecne hrát o zbrane? XXX
+// Arkhan3 G perso3
+L18D130
+ Musíme hrát skutecne o zbrane? XXX
+// Armal Sadak perso6
+L18D131
+ To je hrací pravidlo! XXX
+// Arkhan2 G perso2
+L18D32
+ Hrajeme? XXX
+// Arkhan3 G perso3
+L18D33
+ Hrajeme? XXX
+// Armal Sadak perso6
+L18D34
+ Posad se naproti a zacínáme! XXX
+// Arkhan2 L perso2
+L18D35
+ To deláš dobre! XXX
+// Arkhan3 L perso3
+L18D36
+ Vynikající! XXX
+// Arkhan2 O perso2
+L18D37
+ Mel jsi štestí, to je všechno! XXX
+// Arkhan3 O perso3
+L18D38
+ Cistá náhoda! XXX
+// Armal Sadak perso6
+L18D39
+ Ríká se, ze já jsem nejlepší hrác Stallitu. XXX
+// Armal Sadak perso6
+L18D40
+ Díky. XXX
+// Arkhan2 L perso2
+L18D259
+ To byla pekná partie. XXX
+// Arkhan3 L perso3
+L18D260
+ Krásná partie. XXX
+// Arkhan2 O (freut sich) perso2
+L18D261
+ Ha ha, smetl jsem te! XXX
+// Arkhan3 O (freut sich) perso3
+L18D262
+ Smetl jsme te!  XXX
+// Armal Sadak perso6
+L18D263A
+ Mel jsi štestí ... ty nejsi špatný hrác. XXX
+// Armal Sadak perso6
+L18D263B
+ Je mi vzdy potešením, s tebou zbrane a informace menit. XXX
+// Armal Sadak perso6
+L18D264A
+ Hrál si dobre, to je pravda. XXX
+// Armal Sadak perso6
+L18D264B
+ Ale já vymením tvojí zbran jako protisluzbu za informace, ktere ti dám.  XXX
+// Arkhan2 L perso2
+L18D43
+ Poslouchej mne, Armale Sadaku, potrebuju skutecne tvojí pomoc. XXX
+// Arkhan3 L perso3
+L18D44
+ Armale Sadaku, musíš mi pomoci. A to hned! XXX
+// Armal Sadak perso6
+L18D45A
+ Tento svet není pro slabochy, Arkhane. XXX
+// Armal Sadak perso6
+L18D45B
+ Nic neprichází zadarmo, predevším zde. XXX
+// Armal Sadak perso6
+L18D45C
+ Pokud skutecne chceš, abych ti pomohl, musíš dokázat, ze jsi schopný. XXX
+// Armal Sadak perso6
+L18D45D
+ Musíš mne premoci v Yongu. Vyrízeno. XXX
+// Arkhan2 O perso2
+L18D102A
+ Jdeš mi na nervi s tvojí hrou! XXX
+// Arkhan2 O perso2
+L18D102B
+ Dej mi, co já chci, ty zlodeji! XXX
+// Arkhan3 O perso3
+L18D103A
+ To uz mi stacilo s tou tvou hloupou hrou! XXX
+// Arkhan3 O perso3
+L18D103B
+ Dej mi, co já chci, zlodeji! XXX
+// Armal Sadak perso6
+L18D104A
+ Zlodeji?! Kdo si myslíš ze jsi, abys mne zlodejem nazýval - ty, který z Horního mesta prichází? XXX
+// Armal Sadak perso6
+L18D104B
+ Ti, kterí mne urází, nejsou uz odsud, s temi uz se zatocilo! XXX
+// Arkhan2 L perso2
+L18D49
+ Zmenil si svùj názor? XXX
+// Arkhan3 L perso3
+L18D50
+ Zmenil jsi svùj názor?  XXX
+// Armal Sadak perso6
+L18D51A
+ Nerozumel jsi mi? XXX
+// Armal Sadak perso6
+L18D51B
+ Pokud chceš, abych ti pomohl, musíš mi dokázat, ze jsi schopen, mne porazit! XXX
+// Armal Sadak perso6
+L18D54A
+ Ale dám ti jeden tip: XXX
+// Armal Sadak perso6
+L18D54B
+ Hrác Yongu, který rohy hrací plochy obsadí, má nejlepší šance partii vyhrát. XXX
+// Arkhan2 O perso2
+L18D52
+ Pokud ty mi nepomùzeš, mohl bych být velmi nepríjemný! XXX
+// Arkhan3 O perso3
+L18D53
+ Pomoz mi nebo budu velmi nepríjemný! XXX
+// Armal Sadak perso6
+L18D265B
+ Skutecná síla je v hlave, ne ve svalech! XXX
+// Arkhan2 L perso2
+L18D55
+ Musím vedet, kdo zde o všem rozkazuje. Rekni to! XXX
+// Arkhan3 L perso3
+L18D56
+ Rekni mi, s kým já zde musím setkat! XXX
+// Arkhan2 O perso2
+L18D57
+ Kdyz jsi tak lstivý, jak se o tobe vypráví, mùzeš mi jiste ríct, s kým se musím setkat. XXX
+// Arkhan3 O perso3
+L18D58
+ Pokud jseš opravdu tak chytrý, mùzeš mi jiste vysvetlit, kdo to zde všechno delá. XXX
+// Armal Sadak perso6
+L18D59A
+ Pomalu, prítelícku. XXX
+// Armal Sadak perso6
+L18D59B
+ Já vyzívám te k jedne partii Yongu.  XXX
+// Armal Sadak perso6
+L18D59C
+ Pokud mne porazíš, reknu ti, co chceš vedet. XXX
+// Arkhan2 G perso2
+L18D60
+ Nejprve musím ale vedet, jak se to hraje! XXX
+// Arkhan3 G perso3
+L18D61
+ Jak se to hraje? XXX
+// Arkhan2 G perso2
+L18D90A
+ Hledám nekoho. Strázce ohne se jmenem Zed ... XXX
+// Arkhan2 G perso2
+L18D90B
+ Videl jsi nebo nekdo z tvých muzù tohoto muze? XXX
+// Arkhan3 G perso3
+L18D91A
+ Hledám cloveka se jmenem Zed. XXX
+// Arkhan3 G perso3
+L18D91B
+ Videl ho nekdo z tvých muzù? XXX
+// Armal Sadak perso6
+L18D92A
+ Znám Zeda, kdo by ho neznal? XXX
+// Armal Sadak perso6
+L18D92B
+ Na jeho odvahu mohl by on tezce doplatit. XXX
+// Armal Sadak perso6
+L18D92C
+ Doneslo se mi, ze se on po ùtoku na Velkou Knezku do Spdního mesta vydal. XXX
+// Armal Sadak perso6
+L18D92D
+ Ale jeho stopa byla ztracena. XXX
+// Arkhan2 G perso2
+L18D105
+ Zahrajeme si partii? XXX
+// Arkhan3 G perso3
+L18D106
+ Dáme si jednu partii? XXX
+// Armal Sadak perso6
+L18D107A
+ U Boha, ty dostáváš zrejme chut na tuto hru! XXX
+// Armal Sadak perso6
+L18D107B
+ Znáš vklad: nejakou zbran. XXX
+// Arkhan2 L perso2
+L18D63
+ Hledám prostredek proti jedu, který mne nicí. XXX
+// Arkhan3 L perso3
+L18D64
+ Hledám prostredek, abych se opet uzdravil. XXX
+// Armal Sadak perso6
+L18D65A
+ Já myslím, ze bys nemel k leciteli jít ... XXX
+// Armal Sadak perso6
+L18D65B
+ Mel bys mluvit s Leonou, pokud jí najdeš. XXX
+// Arkhan2 L perso2
+L18D266
+ Leona? XXX
+// Arkhan3 L perso3
+L18D267
+ Leona? XXX
+// Armal Sadak perso6
+L18D666A
+ To je jedna osadnice, která zije mimo Stallit, v ríši Temne Zeme. XXX
+// Armal Sadak perso6
+L18D666B
+ Ale nikdo neví, kde presne. XXX
+// Arkhan2 O perso2
+L18D66
+ Vyhrál jsem! Rekni mi jak se hned uzdravím, a to hned! XXX
+// Arkhan3 O perso3
+L18D67
+ Vyhrál jsem! Dej mi neco, na uzdravení. Hned! XXX
+// Armal Sadak perso6
+L18D68A
+ Vyhrál jsi, to souhlasí.  XXX
+// Armal Sadak perso6
+L18D68B
+ Ale nezapomen, ze mnoho muzù jejich zivot ukoncilo, protoze oni se mnou tak mluvili. XXX
+// Armal Sadak perso6
+L18D68C
+ Uklidni se proto, mùj príteli, nebo opustíš mùj ùkryt! XXX
+// Arkhan2 G perso2
+L18D69
+ Ta Leona, kde jí najdu? XXX
+// Arkhan3 G perso3
+L18D70
+ Jak najdu já Leonu? XXX
+// Armal Sadak perso6
+L18D71A
+ Ríká se, ze ona, te najde, ne obrácene. XXX
+// Armal Sadak perso6
+L18D71B
+ Ale to bude chtít velký výkon, vùbec Stallit opustit: Strázci ohnù dvere zamkli. XXX
+// Arkhan2 G perso2
+L18D72A
+ Mluvil jsi o Konkalitech? XXX
+// Arkhan2 G perso2
+L18D72B
+ Kde je jejich skrýš? XXX
+// Arkhan3 G perso3
+L18D73
+ Kde se skrývají Konkaliti? XXX
+// Armal Sadak perso6
+L18D74
+ Oni skrývají se nekde dole v kanalizaci! XXX
+// Arkhan2 G perso2
+L18D75
+ Mají Konkaliti nejakou slabou stránku? XXX
+// Arkhan3 G perso3
+L18D76
+ Konkaliti, mají slabe místo? XXX
+// Armal Sadak perso6
+L18D77A
+ Jiste! Jejich šefem je odporná ohava! XXX
+// Armal Sadak perso6
+L18D77B
+ Jmenuje se Sordos. Dríve on k nám patril. XXX
+// Armal Sadak perso6
+L18D77C
+ On si predstavuje, jak by vládl Stallitu, se zbraní a ohnem. XXX
+// Armal Sadak perso6
+L18D77D
+ Ve skutecnosti je ale zalostný ubozák! XXX
+// Arkhan2 G perso2
+L18D78
+ Nerozumím ale tomu, proc jsi o Dhorkanovi mluvil. XXX
+// Arkhan3 G perso3
+L18D79
+ A proc jsi o Dhorkanovi mluvil? XXX
+// Armal Sadak perso6
+L18D80A
+ Oh, to je jiný príbeh, mùj príteli. XXX
+// Armal Sadak perso6
+L18D80B
+ Za dobrou zbran reknu ti o tom více ... XXX
+// Armal Sadak perso6
+L18D80C
+ Prirozene pouze, pokud mne v Yongu porazíš! XXX
+// Arkhan2 G perso2
+L18D81
+ Dhorkan prijde sem aby to všechno zjednal na správnou míru? XXX
+// Arkhan3 G perso3
+L18D82
+ Dhorkan prijde sem dolù? XXX
+// Armal Sadak perso6
+L18D83A
+ Ne, on je opatrný, on se ukrývá. XXX
+// Armal Sadak perso6
+L18D83B
+ Ale moji muzi jsou všude, oni drzí oci otevrene. XXX
+// Armal Sadak perso6
+L18D83C
+ Zjistily jsme, ze on za poslední mesíc minimálne desetkrát u konkalitù byl. XXX
+// Armal Sadak perso6
+L18D83D
+ A nekterí ríkají, ze ho videli, jak on zaklete dvere otevrel a šel dovnitr. XXX
+// Arkhan2 G perso2
+L18D268
+ Zaklete dvere? XXX
+// Arkhan3 G perso3
+L18D269
+ Zaklete dvere? XXX
+// Armal Sadak perso6
+L18D270A
+ To jsou dvere budovy od predkù, nedaleko odsud. XXX
+// Armal Sadak perso6
+L18D270B
+ Nikdo je nemohl otevrít.  XXX
+// Armal Sadak perso6
+L18D270C
+ A ríká se, ze ti, kterí se o to pokusí, krátce na to pozdeji zvláštním zpùsobem zhynou ... XXX
+// Arkhan2 G perso2
+L18D271
+ Je to pravdivý príbeh? XXX
+// Arkhan3 G perso3
+L18D272
+ A je to pravda? XXX
+// Armal Sadak perso6
+L18D273A
+ Nemám tušení, ale v okolí se nachází casto mrtvá zvírata. XXX
+// Armal Sadak perso6
+L18D273B
+ Smetáci z okolí tam pár lebek polozily. XXX
+// Armal Sadak perso6
+L18D273C
+ Z toho tam ti lide o prsty prišly. XXX
+// Arkhan2 G perso2
+L18D84A
+ Hledám hrobku, tajemne místo, ktere pouze knezí znají. XXX
+// Arkhan2 G perso2
+L18D84B
+ Ríká ti to neco? XXX
+// Arkhan3 G perso3
+L18D85
+ Tajemnou hrobku, kterou pouze knezí znají, ríká ti to neco? XXX
+// Armal Sadak perso6
+L18D86A
+ Ano ... O tom je nekolik fám. XXX
+// Armal Sadak perso6
+L18D86B
+ Podivne místo, pramen energie ... XXX
+// Armal Sadak perso6
+L18D86C
+ Vchod se má nekde v Horním meste nacházet. XXX
+// Armal Sadak perso6
+L18D86D
+ Presneji to já take nevím ... XXX
+// Arkhan2 G perso2
+L18D87A
+ Hledám broušene krystaly. XXX
+// Arkhan2 G perso2
+L18D87B
+ Videl jsi nebo tvý muzi neco v tomto smeru? XXX
+// Arkhan3 G perso3
+L18D88A
+ Hledám kristalli. Broušene. XXX
+// Arkhan3 G perso3
+L18D88B
+ Videl jsi je, ty nebo tví muzi? XXX
+// Armal Sadak perso6
+L18D89A
+ Ne, ty já nikdy nevidel. XXX
+// Armal Sadak perso6
+L18D89B
+ Ale pokud já neco uvidím, dám ti zprávu. XXX
+// Armal Sadak perso6
+L18D107C
+ Pokud vyhraješ, dám ti munici pro laser od predkù. XXX
+// Arkhan2 G perso2
+L18D275
+ Co myslíš? XXX
+// Arkhan3 G perso3
+L18D276
+ Co myslíš? XXX
+// Armal Sadak perso6
+L18D277A
+ Podívej se... XXX
+// Armal Sadak perso6
+L18D277B
+ Pakt mezi Dhorkanem a Sordosem! Tyto hloupe hlavy meli podepsat Pakt! XXX
+// Armal Sadak perso6
+L18D277C
+ Jiste nejaká Idea Profose. XXX
+// Armal Sadak perso6
+L18D277D
+ Sordos neumí ani císt, tomu je to prece lhostejne! XXX
+// Arkhan2 L perso2
+L18D93A
+ Našel jsem mrtvolu tuláka z Temne Zeme na hradbách. XXX
+// Arkhan2 L perso2
+L18D93B
+ On mel tento Yong-kamen u sebe. XXX
+// Arkhan2 L perso2
+L18D93C
+ Myslel jsem, ze by te to mohlo zajímat ... XXX
+// Arkhan3 L perso3
+L18D94A
+ Na hradbách jsem jednoho tuláka Temne Zeme videl. XXX
+// Arkhan3 L perso3
+L18D94B
+ To mel u sebe. XXX
+// Arkhan3 L perso3
+L18D94C
+ Vzpomnel jsem si na tebe ... XXX
+// Arkhan2 O perso2
+L18D96A
+ Na hradbách lezí tulák z Temne Zeme ... mrtvý. XXX
+// Arkhan2 O perso2
+L18D96B
+ Našel jsem tento hrací kámen u nej. XXX
+// Arkhan2 O perso2
+L18D96C
+ Není to jeden z tvých? XXX
+// Arkhan3 O perso3
+L18D97A
+ Na hradbách, lezí tulák z Temne Zeme ... hotový. XXX
+// Arkhan3 O perso3
+L18D97B
+ Tohle jsem našel, kdyz jsem ho prohledával. XXX
+// Arkhan3 O perso3
+L18D97C
+ To patrí tobe, nebo? XXX
+// Armal Sadak (düster) perso6
+L18D95A
+ Tento hrací kámen ... dal já Lodarovi! XXX
+// Armal Sadak perso6
+L18D95B
+ Co se s ním stalo, povídej! XXX
+// Arkhan2 G perso2
+L18D284
+ Hmm ... Brišní zranení, nešel zachránit.  XXX
+// Arkhan3 G perso3
+L18D285
+ Hmm ... Nejake zranení... Smrtelne. XXX
+// Arkhan2 G perso2
+L18D286
+ Nejaký Konkalit. On ho hrozne usmrtil. XXX
+// Arkhan3 G perso3
+L18D287
+ Nejaký Konkalit. Nedal mu zádnou šanci. XXX
+// Armal Sadak perso6
+L18D95C
+ Lodar byl mým prítelem ... a vynikající Yong-hrác. XXX
+// Armal Sadak perso6
+L18D95D
+ Dekuji ti, ze jsi mi ten hrací kámen prinesl. XXX
+// Armal Sadak perso6
+L18D95E
+ Chci ti moje díky dokázat. Vezmi si tuto helmu, jako vzpomínku na statecneho tuláka Temne Zeme. XXX
+// Arkhan2 G perso2
+L18D111
+ Stací ti tato zbran? XXX
+// Arkhan3 G perso3
+L18D112
+ Je správná? XXX
+// Armal Sadak perso6
+L18D113
+ Perfektní. XXX
+// Armal Sadak perso6
+L18D114
+ Posad se naproti, a mùzeme zacít! XXX
+// Armal Sadak perso6
+L18D115A
+ Ona není práve nová! XXX
+// Arkhan2 L perso2
+L18D162
+ stací ti? XXX
+// Arkhan3 L perso3
+L18D163
+ Ujde? XXX
+// Arkhan2 O perso2
+L18D164
+ Hej, hoch mit Dir! XXX
+// Malrot 4 perso64
+L18D166A
+ (lautes Schnaufen) XXX
+// Malrot 4 perso64
+L18D166B
+ (verschlafenes Grunzen) XXX
+// Arkhan2 G perso2
+L18D167
+ Oh, prohledni si to! XXX
+// Arkhan3 G perso3
+L18D168
+ Hej, podívej se... XXX
+// Arkhan2 G perso2
+L18D169
+ Tu není nic k sebrání! XXX
+// Arkhan3 G perso3
+L18D170
+ Nic k sebrání! XXX
+// Arkhan2 G (durchsucht die Sachen) perso2
+L18D173
+ Seemannssachen... XXX
+// Arkhan3 G (durchsucht die Sachen) perso3
+L18D174
+ Seemannssachen... XXX
+// Malrot2 (regt sich auf) perso62
+L18D183A
+ Ty jsi mi jiste správne nerozumel! XXX
+// Malrot2 perso62
+L18D183B
+ Nedotýkej se meho alkoholu! XXX
+// Malrot2 perso62
+L18D182A
+ Nejsi zde jako doma! XXX
+// Malrot2 perso62
+L18D182B
+ Dám já ti dobrou radu: Nedotýkej se meho alkoholu. XXX
+// Malrot2 perso62
+L18D176
+ Zde, vezmi si! XXX
+// Arkhan2 G perso2
+L08D71
+ Ne, flaška je plná. XXX
+// Arkhan3 G perso3
+L08D72
+ Flaška je plná! XXX
+// Malrot2 (heiter) perso62
+L18D181
+ Hej, pokud je tvoje flaška plná, rád ti pomohu, jí vyprázdnit! XXX

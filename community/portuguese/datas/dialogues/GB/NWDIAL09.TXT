@@ -1,0 +1,70 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\GB\NWDIAL09.TXT
+// Gardien8 (surpreendido por Arkhan, vai disparar sobre ele) perso48
+L09D31A
+Fogo Bendito! XXX
+// Gardien8 perso48
+L09D31B
+Não me apanharás! XXX
+// Arkhan1 L perso1
+L09D04A
+Esta máquina fabrica as munições do cuspidor. XXX
+// Arkhan1 L perso1
+L09D04B
+Mas preciso de metal para fundir. XXX
+// Arkhan2 L perso2
+L09D05
+Precisaria de metal para fundir para fazer as munições do cuspidor com esta máquina. XXX
+// Arkhan3 L perso3
+L09D06
+Precisaria de metal para fundir para fazer munições. XXX
+// Arkhan1 O perso1
+L09D01
+Sangue Negro! Como funciona este artefacto? XXX
+// Arkhan2 O perso2
+L09D02
+Não percebo nada deste artefacto! XXX
+// Arkhan3 O perso3
+L09D03
+Escura máquina! XXX
+//Arkhan1 L perso1
+L09D13
+Velhos barris sem interesse. XXX
+//Arkhan2 L perso2
+L09D14
+Nada mais que uns barris vazios. XXX
+//Arkhan3 L perso3
+L09D15
+Uns barris... vazios. XXX
+// Arkhan2 G perso2
+L04D44
+Esta não é a chave correta! XXX
+// Arkhan3 G perso3
+L04D45
+Chave incorreta! XXX
+//Arkhan1 G perso1
+L09D20
+O depósito de água está vazio. XXX
+//Arkhan2 L perso2
+L09D22
+Um depósito de água. Vazio. XXX
+//Arkhan3 L perso3
+L09D24
+Um depósito. Vazio. XXX
+//Arkhan1 L perso1
+L09D25
+Acho que não é altura de se sentar! XXX
+//Arkhan1 O perso1
+L09D26
+Não desejo sentar-me! XXX
+//Arkhan2 L perso2
+L09D27
+Talvez não seja altura de se sentar! XXX
+//Arkhan2 O perso2
+L09D28
+Não desejo sentar-me! XXX
+//Arkhan3 L perso3
+L09D29
+Não me sento! XXX
+//Arkhan3 O perso3
+L09D30
+Não me sento! XXX

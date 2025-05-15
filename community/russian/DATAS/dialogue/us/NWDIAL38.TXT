@@ -1,0 +1,175 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL38.TXT
+ // Arkhan2 G (stupefied to discover Eden) perso2
+L38D01A
+ P~ln ]jcxhd!.. XXX
+// Arkhan2 G perso2
+L38D01B
+ Pnj... Pnj ynj c_amx?! XXX
+// Arkhan3 G (stupefied to discover Eden) perso3
+L38D02A
+ P~ln ]jcxhd!.. XXX
+// Arkhan3 G perso3
+L38D02B
+ Pnj... Pnj ynj?! XXX
+// Arkhan2 G (bending down to drink) perso2
+L38D03A
+ VnZ ]j_Z... CZf bd_fja kgZh|... XXX
+// Arkhan2 G perso2
+L38D03B
+ GiZ... jsduZan hai|... ij |... mgZ[az... XXX
+// Arkhan3 G perso3
+L38D04A
+ &j_Z... fZf kgZh|... XXX
+// Arkhan3 G perso3
+L38D04B
+ GsduZan hai|... Fj j[bd^Zan ]m~ nagj... XXX
+// Arkhan2 G perso2
+L38D05
+ Fan, amgd ]wkxz au~, | kj^d[io. XXX
+// Arkhan3 G perso3
+L38D06
+ Fan-ian. &wkxz au~ - kj^d[io! XXX
+// Arkhan2 G perso2
+L38D07
+ Ijmmwkx ^jlij^j qlomnZg|. XXX
+// Arkhan2 G perso2
+L38D08
+ Gnrj]mfde fgzs, _jgbij [wnx, m_agZi dc fZhi| nj^j ba mjlnZ. XXX
+// Arkhan3 G perso3
+L38D09
+ *jliwe qlomnZgx. XXX
+// Arkhan3 G perso3
+L38D10
+ &jn dc sa^j jnrj]mfde fgzs [wg m_agZi. XXX
+// Arkhan2 G perso2
+L38D11
+ Fo _Z, ]jn yndh hjbij jnfjgjnx fomjsaf fldmnZggZ. XXX
+// Arkhan2 G perso2
+L38D12
+ L]w! FjlhZgxij^j fldmnZggZ [jgxta ian. XXX
+// Arkhan3 G perso3
+L38D13
+ &jn sah | jnfjgz fomjsaf. XXX
+// Arkhan3 G perso3
+L38D14
+ Fan... Fa jmnZgjmx flokiwq fldmnZggj]. XXX
+// Arkhan2 G perso2
+L38D15A
+ FZkjhdiZzn lZmnaid| _j[wnsdfj], snj | ]d_ag o idq ] nakgdrZq. XXX
+// Arkhan2 G perso2
+L38D15B
+ Fj c_amx [jgxtda, cag~iwa, kjgiwa bdcid... XXX
+// Arkhan2 G perso2
+L38D15C
+ IZixta nZfj^j ia ]d_ag! XXX
+// Arkhan2 G perso2
+L38D16
+ Vnj kljmnj pZinZmndfZ! XXX
+// Arkhan2 G perso2
+L38D17
+ +ala]x|, nlZ]w, fjlid... Vnj lZe _g| _j[wnsdfj] d _g| hZmgj_agj]. XXX
+// Arkhan2 G perso2
+L38D18
+ +Zba amgd | j[ ynjh mhj^o kj]a_Znx fjho-id[o_x, hia ] mnZggZena kljmnj ia kj]al|n. XXX
+// Arkhan3 G perso3
+L38D19A
+ Hl|hj fZf ] nakgdrZq _j[wnsdfj]... XXX
+// Arkhan3 G perso3
+L38D19B
+ Fj c_amx... kldlj_Z... bdcix... [al~n m]j~. XXX
+// Arkhan3 G perso3
+L38D19C
+ Fahwmgdhj! XXX
+// Arkhan3 G perso3
+L38D20
+ IZmnaid|... pZinZmndfZ... XXX
+// Arkhan3 G perso3
+L38D21
+ +ala]x|, nlZ]w, fjlid... jid non ]mz_o! XXX
+// Arkhan3 G perso3
+L38D22
+ Fdsa^j ia ]mnlasZg kj_j[ij^j ] mnZggZena... XXX
+// Arkhan2 L perso2
+L38D23
+ CZhid, kjflwnwa hqjh. XXX
+// Arkhan2 O (hitting/shoving the rocks) perso2
+L38D24
+ Fa-a... Jgdtfjh c_jlj]w... XXX
+// Arkhan3 L perso3
+L38D25
+ G^ljhiwa fZhid, kjflwnwa hqjh. XXX
+// Arkhan3 O (hitting/shoving the rocks) perso3
+L38D26
+ I-l-Z-Z-l-l! *l-l-l... K|b~gwe! XXX
+// Arkhan2 G perso2
+L38D27
+ Vnd fjlid j^ljhiw... XXX
+// Arkhan3 G perso3
+L38D28
+ Cjlid... j^ljhiw... XXX
+// Arkhan2 G perso2
+L38D29
+ Cjiar nljkdifd. XXX
+// Arkhan3 G perso3
+L38D30
+ Cjiar nljkw. XXX
+// Arkhan2 G perso2
+L38D31
+ G^ljhiwa _ala]x|... XXX
+// Arkhan3 G perso3
+L38D32
+ G^ljhiwa _ala]x|... XXX
+// Arkhan2 G perso2
+L38D33
+ X ia ]mnlasZg lZmnaide iZmnjgxfj [jgxtdq! XXX
+// Arkhan3 G perso3
+L38D34
+ Fa ]mnlasZg iZmnjgxfj [jgxtdq! XXX
+// Arkhan2 G perso2
+L38D35
+ CZfje [jgxtje mn]jg. XXX
+// Arkhan3 G perso3
+L38D36
+ &jn nZf mn]jg! XXX
+// Arkhan2 L (pensively, by pond)perso2
+L38D37
+ JnlZiij, ] ]j_a fZf [o_nj halrZida. XXX
+// Arkhan2 L perso2
+L38D38
+ Kon ]lj_a [w ia^go[jfj... XXX
+// Arkhan2 O perso2
+L38D39
+ Jij]Z ] ]j_o! X mlj_o mnjgxfj ]Zii ia kldidhZg au~! XXX
+// Arkhan3 L perso3
+L38D40
+ &j_Z... ] iae... halrZida... XXX
+// Arkhan3 L perso3
+L38D41
+ Fa^go[jfj. XXX
+// Arkhan3 O perso3
+L38D42
+ & ]j_o! Jij]Z ] ]j_o! XXX
+// Arkhan2 G (touching the Mystic Guardian)perso2
+L38D43A
+ Vnjn fZhaix ^gZ_fde d n~kgwe... XXX
+// Arkhan2 G (touching the Mystic Guardian)perso2
+L38D43B
+ X so]mn]oz... ]d[lZrdd. XXX
+// Arkhan3 G (touching the Mystic Guardian)perso3
+L38D44A
+ Vnjn fZhaix ^jl|sde... XXX
+// Arkhan3 G (touching the Mystic Guardian)perso3
+L38D44B
+ X so]mn]oz... _ljbx ] i~h... XXX
+// Arkhan2 G perso2
+L38D45
+ >_amx gamnidrZ... ij]Z| mj]mah... XXX
+// Arkhan2 G perso2
+L38D46
+ VnZ gamnidrZ nal|anm| ] ]an]|q. XXX
+// Arkhan3 G perso3
+L38D47
+ >_amx gamnidrZ... ia mnZlZ|... XXX
+// Arkhan3 G perso3
+L38D48
+ Kal|anm| ] ]an]|q... XXX

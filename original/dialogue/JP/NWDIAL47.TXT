@@ -1,0 +1,52 @@
+Début du fichier F:\DEV\DKE\DATAS\DIALOGUE\US\NWDIAL47.TXT
+ // Arkhan3 G perso3
+L24D11
+ Thanandar! XXX
+// Thanandar (impatient) perso24
+L24D13
+ So, what about the crypt? XXX
+// Arkhan2 L perso2
+L24D25
+ Do you know what's happening to me? Who are you? XXX
+// Arkhan2 O perso2
+L24D26
+ Whoever you are, stay away or you'll end up like that maggot over there! XXX
+// Thanandar (to someone on the other side of the door) perso24
+L24D17
+ It's all right Captain Phedoria! Everything's just fine! XXX
+// Thanandar perso24
+L24D27A
+ Come on, take it easy. I'm only here to help you. XXX
+// Thanandar perso24
+L24D27B
+ That superstitious fool didn't know what he was doing. XXX
+// Arkhan2 O perso2
+L24D28
+ Then tell me who you are... and what's happening to me?! XXX
+// Thanandar perso24
+L24D29A
+ I am Thanandar, a Sunseer like your father. But above all, I am a healer. XXX
+// Thanandar perso24
+L24D29B
+ And I know what's wrong with you, Arkhan. I know only too well. XXX
+// Arkhan2 L perso2
+L24D30
+ Is there any way to be cured? XXX
+// Arkhan2 O perso2
+L24D31
+ You say you're a healer. So heal me! XXX
+// Thanandar perso24
+L24D20
+ Enough! I'm here to help you! XXX
+// Arkhan2 L perso2
+L24D05
+ Sorry Guardian of Fire, you gave me no choice... XXX
+// Arkhan2 O perso2
+L24D06
+ Stupid jerk! You shouldn't have asked for it like that! XXX
+// Thanandar (admiring) perso24
+L24D07A
+ Incredible! You're on your feet, alive! XXX
+// Thanandar perso24
+L24D07B
+ How do you feel? Looks like you took it all right... XXX

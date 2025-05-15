@@ -1,0 +1,160 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\fr\NWDIAL26.TXT
+ // Arkhan2 L perso2
+L26D01
+ Le foyer est allumé, mon père comptait revenir. XXX
+// Arkhan3 L perso3
+L26D02
+ Un feu... Mon père devait revenir. XXX
+// Arkhan2 G (regarde un livre)perso2
+L26D03
+ Voyons ça... XXX
+// Arkhan2 G (lisant)perso2
+L26D03A
+ "Les fils de la lumière, ceux que les anciens appelaient 'Runka,' sommeillent aujourd'hui dans les profondeurs. XXX
+// Arkhan2 G perso2
+L26D03B
+ Les Tombeaux à Rêve sont leur retraite, sous la garde des guetteurs de pierre et la vigilance de ceux-qui-savent : leurs élus parmi les humains. XXX
+// Arkhan2 G perso2
+L26D03C
+ Le jour de leur éveil changera à jamais le visage de l'humanité. Ainsi l'ont prédit Thorgrad et les autres fondateurs. XXX
+// Arkhan2 G perso2
+L26D03D
+ Mais les lois de l'univers opposent à la force de lumière son contraire. XXX
+// Arkhan2 G perso2
+L26D03E
+ Le sang des ténèbres, le sang des 'Shankr,' a coulé sur la Terre avant et après le Grand Cataclysme. XXX
+// Arkhan2 G perso2
+L26D03F
+ Toute vie touchée par la noirceur est corrompue et devient à son tour outil de corruption. XXX
+// Arkhan2 G perso2
+L26D03G
+ Ceux-qui-savent ont fait le serment sur leur descendance de combattre ce mal et de le détruire partout où il se trouve, par le feu et la lumière sacrée." XXX
+// Arkhan2 G perso2
+L26D03H
+ Et c'est signé "Thelen Khron, Elu de la Maison Thorgrad." XXX
+// Arkhan2 G (à lui-même) perso2
+L26D03I
+ Lory avait raison, mon père en savait plus que je pensais. XXX
+// Arkhan3 G (regarde un livre)perso3
+L26D04
+ Ca, je peux lire... XXX
+// Arkhan3 G (lisant)perso3
+L26D04A
+ "Les fils de la lumière, ceux que les anciens appelaient 'Runka,' sommeillent aujourd'hui dans les profondeurs. XXX
+// Arkhan3 G perso3
+L26D04B
+ Les Tombeaux à Rêve sont leur retraite, sous la garde des guetteurs de pierre et la vigilance de ceux-qui-savent : leurs élus parmi les humains. XXX
+// Arkhan3 G perso3
+L26D04C
+ Le jour de leur éveil changera à jamais le visage de l'humanité. Ainsi l'ont prédit Thorgrad et les autres fondateurs. XXX
+// Arkhan3 G perso3
+L26D04D
+ Mais les lois de l'univers opposent à la force de lumière son contraire. XXX
+// Arkhan3 G perso3
+L26D04E
+ Le sang des ténèbres, le sang des 'Shankr,' a coulé sur la Terre avant et après le Grand Cataclysme. XXX
+// Arkhan3 G perso3
+L26D04F
+ Toute vie touchée par la noirceur est corrompue et devient à son tour outil de corruption. XXX
+// Arkhan3 G perso3
+L26D04G
+ Ceux-qui-savent ont fait le serment sur leur descendance de combattre ce mal et de le détruire partout où il se trouve, par le feu et la lumière sacrée." XXX
+// Arkhan3 G perso3
+L26D04H
+ Signé "Thelen Khron, Elu de la Maison Thorgrad." XXX
+// Arkhan3 G (à lui-même) perso3
+L26D04I
+ Mon père cachait beaucoup de choses... XXX
+// Arkhan2 G (fouille) perso2
+L26D05
+ Voyons ce qu'il y a par là... XXX
+// Arkhan2 G (a trouvé quelque chose) perso2
+L26D06
+ Oui... XXX
+// Arkhan3 G (fouille) perso3
+L26D07
+ Voyons là... XXX
+// Arkhan3 G (a trouvé quelque chose) perso3
+L26D08
+ Oui... XXX
+// Arkhan2 G perso2
+L26D09
+ Rien. XXX
+// Arkhan2 G perso2
+L26D10
+ Ni sur le lutrin ni sur la table... XXX
+// Arkhan3 G perso3
+L26D11
+ Rien là-dessus. XXX
+// Arkhan2 G perso2
+L26D12
+ Non, c'est juste un vieux livre de l'Avant. XXX
+// Arkhan3 G perso3
+L26D13
+ Rien qu'un vieux livre de l'Avant. XXX
+// Arkhan2 L perso2
+L26D14A
+ Je me souviens de ça...  XXX
+// Arkhan2 L (ému) perso2
+L26D14B
+ Mon père l'utilisait pour compter les étoiles dans le ciel... XXX
+// Arkhan2 O perso2
+L26D15
+ Y a quelque chose dessous! XXX
+// Arkhan2 G perso2
+L26D16
+ Une clef. XXX
+// Arkhan3 L perso3
+L26D19A
+ Je me souviens... XXX
+// Arkhan3 L (ému) perso3
+L26D19B
+ Mon père disait qu'il comptait les étoiles avec ça... XXX
+// Arkhan3 O perso3
+L26D20
+ Quelque chose en dessous. XXX
+// Arkhan3 G perso3
+L26D21
+ Une clef. XXX
+// Arkhan2 G perso2
+L26D23
+ Il y a quelque chose sous le livre... XXX
+// Arkhan3 G perso3
+L26D25
+ Quelque chose sous le livre... XXX
+// Arkhan2 G perso2
+L26D27A
+ Ca doit ouvrir la porte... mais je peux pas partir maintenant. XXX
+// Arkhan2 G perso2
+L26D27B
+ Lory m'a dit que je trouverais la solution ici! XXX
+// Arkhan3 G perso3
+L26D28A
+ Ca doit ouvrir la porte... mais je peux pas partir. XXX
+// Arkhan3 G perso3
+L26D28B
+ Lory a dit que la solution était ici... XXX
+// Arkhan2 G perso2
+L26D300
+ Non, je ne peux pas partir. XXX
+// Arkhan3 G perso3
+L26D301
+ Je peux pas partir. XXX
+//Arkhan2 G perso2
+L26D32
+ C'est bon, ça s'ouvre. XXX
+//Arkhan3 G perso3
+L26D33
+ Ouvert. XXX
+// Arkhan2 L (regarde par le mauvais coté du telescope) perso2
+L26D34
+ Je vois qu'un puits noir sans fond. XXX
+// Arkhan3 L perso3
+L26D35
+ J'vois rien... XXX
+// Arkhan2 G perso2
+L26D36
+ Pour ouvrir, il doit y avoir un mécanisme quelque part. XXX
+// Arkhan3 G perso3
+L26D38
+ Pour ouvrir, y'a sûrement un mécanisme... XXX

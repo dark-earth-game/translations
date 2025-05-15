@@ -1,0 +1,43 @@
+00:52:00	00:53:04		{Starozytna ziemia,}
+00:53:06	00:54:22		{zlote dni Starego Swiata,}
+00:54:24	00:57:10		{dobiegly konca wraz z Wielkim Kataklizmem.}
+00:58:06	01:01:26		{Czarny ogien spadl z niebios i ogarnal planete,}
+01:01:28	01:06:02		{ziemia rozwarla sie, a morza zalaly lady.}
+01:08:12	01:10:26		{Miasta Swiatlosci wzniesione przez starozytnych}
+01:10:28	01:13:00		{obrocily sie w pyl, a swiat}
+01:13:02	01:16:06		{pograzyl sie w wiecznym mroku.}
+01:16:24	01:18:06		{A gdy boski gniew }
+01:18:08	01:20:12		{odszedl z naszego swiata,}
+01:20:14	01:22:28		{Wtajemniczeni, oszczedzeni przez Boskie Slonce}
+01:23:00	01:25:00		{wzniesli sie ponad chaos.}
+01:25:02	01:26:14		{Prowadzeni swa wiara,}
+01:26:16	01:28:12		{wyruszyli na poszukiwanie ziemi}
+01:28:14	01:30:04		{wolnej od Calunu Mroku,}
+01:30:06	01:32:18		{gdzie zycie ponownie mogloby rozkwitnac.}
+01:33:08	01:35:10		{Byli "Wedrowcami"-mezczyzni i kobiety}
+01:35:12	01:36:24		{poszukujacy swiatlosci i nadziei}
+01:36:26	01:39:16		{posrod zagrozen Mrocznych Ziem.}
+02:03:24	02:06:08		{Ich podroz trwala wiele ksiezycow,}
+02:06:10	02:07:26		{az do chwalebnego dnia gdy}
+02:07:28	02:10:06		{ojcowie ojcow naszych ojcow}
+02:10:08	02:12:24		{wreszcie przestali wedrowac.}
+02:16:10	02:17:18		{Odkryli ziemie poblogoslawiona}
+02:17:20	02:21:02		{przez Swiatlo Boskiego Slonca, Stallite.}
+02:22:22	02:25:14		{Wzniesli tam miasto oraz Swiatynie}
+02:25:16	02:27:19		{ku czci Ojca Swiatla. }
+02:28:00	02:30:02		{Nazwali je Sparta.}
+02:31:14	02:33:16		{Dzis straszliwe niebezpieczenstwo}
+02:33:18	02:34:20		{zawislo nad Sparta.}
+02:36:02	02:37:22		{Przyszlosc calego miasta}
+02:37:24	02:40:00		{jest w rekach jednego czlowieka.}
+02:41:02	02:43:18		{Arkhan, Gwardzista Ognia.}
+02:44:24	02:47:28		{By przetrwac straszliwe proby jakim stawi czola}
+02:48:10	02:50:16		{musi szukac pomocy tych, ktorzy go otaczaja.}
+02:51:20	02:53:04		{Jego ukochana Kalhi...}
+02:55:20	02:57:22		{Zed, jego towarzysz broni...}
+02:59:02	03:01:14		{Jego ojciec Rylsadhar...}
+03:02:28	03:05:28		{Lory, Wielka Patrzaca...}
+03:07:00	03:09:04		{Danrys, Lupiezca...}
+03:09:10	03:11:02		{Jesli zawioda,}
+03:11:04	03:12:20		{Swiatlosc Boskiego Slonca}
+03:12:22	03:17:00		{juz nigdy nie splynie na Sparte!}     

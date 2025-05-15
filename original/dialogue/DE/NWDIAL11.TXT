@@ -1,0 +1,181 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL11.TXT
+ // Palastwächter (nervös) perso32
+L11D01
+ Komm nicht näher, Du Dreckskerl! Kehr ins Reich der Finsternis zurück! XXX
+// Palastwächter (wird A. schlagen) perso32
+L11D02
+ Ich hab' Dich gewarnt! XXX
+// Palastwächter (nervös) perso32
+L11D03
+ Halt! Keinen Schritt näher, der Turm der Erbauer ist geschlossen! XXX
+// Palastwächter (nervös) perso32
+L11D04
+ Hey, Du! Verschwinde! Hier ist geschlossen! XXX
+// Palastwächter (greift A. an) perso32
+L11D05
+ Hier, das ist für Dich! XXX
+// Palastwächter (zu A., der flüchtet) perso32
+L11D45
+ Falls Du zurückkommst, mach' ich Dich um einen Kopf kürzer! XXX
+//Arkhan2 G perso2
+L11D06
+ Nein, da kommt der Wächter! XXX
+//Arkhan3 G perso3
+L11D07
+ Nein, da kommt er! XXX
+// Arkhan2 L perso2
+L11D08
+ Laß mich durch! Ich muß mit dem Meister der Erbauer sprechen, es ist sehr wichtig! XXX
+// Palastwächter perso32
+L11D09
+ Unmöglich! Ich habe meine Befehle: Hier darf niemand hinein! XXX
+// Arkhan2 L perso2
+L11D10A
+ So glaub mir doch, ich muß mit dem Meister der Erbauer sprechen. XXX
+// Arkhan2 L perso2
+L11D10B
+ Das ist vielleicht ein Mittel, um uns alle zu retten! XXX
+// Palastwächter perso32
+L11D11A
+ Bist Du taub? Kein Fremder darf hier rein. XXX
+// Palastwächter perso32
+L11D11B
+ Vor allem niemand mit Deiner Fresse! XXX
+// Arkhan2 L perso2
+L11D12
+ Hör mir zu, ich weiß, daß hier Alarm geschlagen wurde, aber ich schwör Dir, ich will dem Meister der Erbauer nichts tun. XXX
+// Palastwächter perso32
+L11D13A
+ Es reicht jetzt! Meister Bandor hat Besseres zu tun, als mit Dir zu sprechen! XXX
+// Palastwächter perso32
+L11D13B
+ Geh mir aus den Augen oder ich spieß' Dich auf! XXX
+// Arkhan2 L perso2
+L11D14
+ Wir könnten uns doch arrangieren, oder? XXX
+// Palastwächter perso32
+L11D14A
+ Nein, wir können uns nicht arrangieren! XXX
+// Palastwächter perso32
+L11D14B
+ Ich bleib' hier und sterbe Hungers, und Du verschwindest! XXX
+// Arkhan2 L perso2
+L11D15A
+ Ich verstehe, Du gehorchst den Befehlen.  XXX
+// Arkhan2 L perso2
+L11D15B
+ Aber Du siehst völlig erschöpft und ausgehungert aus. Ich kann Dir vielleicht helfen ... XXX
+// Palastwächter perso32
+L11D16A
+ Ja, mein Magen knurrt so laut, daß man es bis ins Reich der Finsternis hört. XXX
+// Palastwächter perso32
+L11D16B
+ Glaub aber nicht, daß ich deshalb meinen Posten verlasse! XXX
+// Arkhan2 L perso2
+L11D17A
+ Mach Dir keine Sorgen, ich hab' nicht die Absicht, da hineinzugehen, wenn Du es mir nicht erlaubst.   XXX
+// Arkhan2 L perso2
+L11D17B
+ Aber bei all dem, was hier passiert, sollte man seine Kräfte schonen, oder was meinst Du?   XXX
+// Arkhan2 L perso2
+L11D17C
+ Wenn Du zum Beispiel nicht ißt, wirst Du unaufmerksam werden. XXX
+// Palastwächter perso32
+L11D18A
+ Da hast Du recht. Ich hab' seit Anfang des Tages nichts zu mir genommen. XXX
+// Palastwächter perso32
+L11D18B
+ Hast Du nicht zufällig was zu beißen bei Dir? XXX
+// Arkhan2 L perso2
+L11D19
+ Ich schau' mal, ob ich was da hab' ... XXX
+// Arkhan2 L perso2
+L11D20
+ Läßt Du mich jetzt durch? XXX
+// Palastwächter perso32
+L11D21A
+ Leidest Du an Gehirnverdunkelung, oder was? Nein hab' ich gesagt! XXX
+// Palastwächter (spuckend) perso32
+L11D21B
+ Arhhh, Dein Fraß hat mir die Kehle ausgetrocknet! XXX
+// Arkhan2 O perso2
+L11D22
+ Geh zur Seite, ich muß mit dem Meister der Erbauer reden! XXX
+// Palastwächter perso32
+L11D23A
+ Friß doch den Schlamm der Finsternis, Rattengesicht! XXX
+// Palastwächter perso32
+L11D23B
+ Hier kommt niemand durch! Verschwinde! XXX
+// Arkhan2 O (spielt den starken Mann) perso2
+L11D24A
+ Ich glaub', Du hast mich nicht verstanden, Freundchen. XXX
+// Arkhan2 O (spielt den starken Mann) perso2
+L11D24B
+ Du verschwindest jetzt und ich geh' hoch! XXX
+// Palastwächter perso32
+L11D25
+ Das werden wir ja sehen! XXX
+// Arkhan2 G perso2
+L11D26
+ Läßt Du mich rein, wenn ich Dir das hier geb'? XXX
+// Palastwächter perso32
+L11D27
+ Ah, das ist ja zum Kotzen! Verschwinde oder ich polier' Dir die Fresse! XXX
+// Palastwächter perso32
+L11D28
+ Gib's auf, hier kommt niemand rein, nichts zu machen! XXX
+// Arkhan2 G perso2
+L11D29
+ Hier, das wird Deinen Hunger stillen. XXX
+// Palastwächter perso32
+L11D30
+ Ja, gib her! XXX
+// Palastwächter (kauend) perso32
+L11D31
+ Bei den Tausend Sonnen, mein Freund! Das tut gut.  XXX
+// Palastwächter (kauend) perso32
+L11D32
+ Hmm, ja, das schmeckt! XXX
+// Palastwächter (kauend) perso32
+L11D33
+ Davon wird ja ein Frauenzimmer kaum satt! XXX
+// Palastwächter (kauend) perso32
+L11D34
+ Das Zeug hier bringt meinen Magen zum Leuchten! XXX
+// Palastwächter (hat heruntergeschluckt) perso32
+L11D35
+ Das ist aber salzig ... XXX
+// Arkhan2 G perso2
+L11D36
+ Hier, ich hab' das hier gefunden. Möchtest Du das essen? XXX
+// Palastwächter perso32
+L11D37A
+ Bastard der Finsternis, Du machst Dich über mich lustig! XXX
+// Palastwächter perso32
+L11D37B
+ Ich werd' Dich auf Trab bringen! XXX
+// Arkhan2 G perso2
+L11D38
+ Hier, nimm doch einen Schluck aus der Flasche. XXX
+// Palastwächter perso32
+L11D39
+ Da sag' ich nicht nein! XXX
+// Palastwächter perso32
+L11D40A
+ Aber sie ist leer! XXX
+// Palastwächter perso32
+L11D40B
+ Du hast mich an der Nase herumgeführt! XXX
+// Palastwächter perso32
+L11D42A
+ Beim Sonnengott, Du bist wirklich ein Dreckskerl! XXX
+// Palastwächter perso32
+L11D42B
+ Ich hab' keinen Durst, ich hab' Hunger! XXX
+// Arkhan2 G perso2
+L11D43
+ Seine Hellebarde ist kaputt!  XXX
+// Arkhan3 G perso3
+L11D44
+ Seine Waffe ist kaputt! XXX

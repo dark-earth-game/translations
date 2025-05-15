@@ -1,0 +1,1012 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL18.TXT
+ // Armal Sadak perso62
+L18D138
+ Kw mj]altdg [jgxtoz jtd[fo! XXX
+// Malrot2 perso6
+L18D02
+ Jij]Z nw! XXX
+// Malrot2 perso6
+L18D01A
+ Ve, nw! Hlj]Zgd]Ze jnmz_Z! XXX
+// Malrot2 perso6
+L18D01B
+ Hjmnjljiidh ]qj_ ]jmklau~i! XXX
+// Malrot2 perso62
+L18D05
+ Ve, #lhZg, ji ]aliogm|! XXX
+// Armal Sadak perso6
+L18D133
+ Edgjmnd kljmdh, _lo^. XXX
+// Malrot2 perso62
+L18D03
+ $jmm! Ejl_j]jljn, |]gaida ]njlja! XXX
+// Armal Sadak perso6
+L18D04A
+ *_a n]jd hZialw, +bdZio! FZt _lo^ dc &alqia^j ^jlj_Z. XXX
+// Armal Sadak perso6
+L18D04B
+ A | ia mgwtZg, snj[ ji iZc]Zg na[| "kgatd]wh"... XXX
+// Malrot6 (recounts how A. came to his aid) perso66
+L18D191A
+ ...d non kj|]dgm| ji... njn kZlaix m _dfdh gdrjh fZf o... fZf o... XXX
+// Malrot6 (seeing Arkhan) perso66
+L18D191B
+ Ve... &jn njn kZlaix! XXX
+// Armal Sadak perso6
+L18D192A
+ Kw iZmnj|ude _lo^, #lqZi, d qjljtde sagj]af. XXX
+// Armal Sadak perso6
+L18D192B
+ Ew ynj^j ia cZ[o_ah! XXX
+// Armal Sadak perso6
+L18D193A
+ Kw mkZm j_ij^j dc iZm! XXX
+// Armal Sadak perso6
+L18D193B
+ Eai| cj]on #lhZg JZ_Zf. # ]ji njn kgatd]we - +bdZio. XXX
+// Armal Sadak perso6
+L18D193C
+ Kakalx hw _locx|. XXX
+// Armal Sadak (offers a weapon to A.) perso6
+L18D194
+ &jcxhd ] ciZf hjae [gZ^j_Zlijmnd. XXX
+// Armal Sadak perso6
+L18D265A
+ Kw ia ko^Zatx hai|... XXX
+// Malrot2 (A. draws his weapon) perso62
+L18D134
+ Ve, kjga^sa! Fa fdk|ndmx! XXX
+// Malrot2 perso62
+L18D190A
+ +j[lj kjbZgj]Znx, _lo^. XXX
+// Malrot2 perso62
+L18D190B
+ <mgd kalamjqgj ] ^jlga, iZgae ma[a ]wkdnx. XXX
+// Armal Sadak perso6
+L18D10
+ #! FZt ^jmnx kjfZcZg fj^nd! XXX
+// Armal Sadak (A. puts away his weapon) perso6
+L18D11
+ KZf-nj gosta! XXX
+// Malrot2 (A. puts away his weapon) perso62
+L18D135
+ Kj-nj. KZf-nj gosta. XXX
+// Armal Sadak perso6
+L18D118
+ <u~ j_di lZc, d nw nlok! XXX
+// Armal Sadak perso6
+L18D117
+ +bdZio! >Zkld _]alx! XXX
+// Armal Sadak (preparing to fight) perso6
+L18D06
+ Hj^j]jldh malx~cij! XXX
+// Malrot2 perso62
+L18D160
+ $jmm! Ejl_j]jljn latdg ^lo[dnx! XXX
+// Armal Sadak perso6
+L18D161
+ Hjklj[oan au~ lZc, hjsd a^j! XXX
+// Malrot2 (menacingly) perso62
+L18D136
+ Kw mgwqZg, flonje? XXX
+// Malrot2 (alerting Armal Sadak) perso62
+L18D137
+ $jmm! XXX
+// Armal Sadak perso6
+L18D120A
+ Ka[a ia kj]acgj, hje _lo^. XXX
+// Armal Sadak perso6
+L18D120B
+ >Z dipjlhZrdz kld_~nm| mw^lZnx au~ kZlndz. XXX
+// Armal Sadak perso6
+L18D121
+ Kw ciZatx hjz raio: jlobda! XXX
+// Armal Sadak perso6
+L18D132
+ &maq [dn] ia ]wd^lZnx! XXX
+// Armal Sadak perso6
+L18D122A
+ Hjc_lZ]g|z! Kw ]wd^lZg! XXX
+// Arkhan2 G perso2
+L18D250
+ Fo nZf nw hia kjhjbatx? XXX
+// Arkhan3 G perso3
+L18D278
+ Hjhj^d... mfjlae... XXX
+// Armal Sadak perso6
+L18D122B
+ DZ_ij, | lZmmfZbo fja-snj au~. XXX
+// Armal Sadak perso6
+L18D122C
+ & Fdbiah ^jlj_a homjludfd d _j[wnsdfd lZ[jnZzn ]hamna. XXX
+// Armal Sadak perso6
+L18D122D
+ Ew kla]jmqj_ij gZ_dh. XXX
+// Armal Sadak perso6
+L18D122E
+ &agdfZ| klj]d_drZ Djld ia ]salZ lj_dgZmx. XXX
+// Armal Sadak perso6
+L18D122F
+ GiZ ia nlj^Zan iZm, hw ia nlj^Zah a~. XXX
+// Armal Sadak perso6
+L18D122G
+ Hjfo_Z mnlZbd j^i| ia ]hatd]Zznm| ] iZtd _agZ... XXX
+// Armal Sadak perso6
+L18D122H
+ FZmnj|uZ| klj[gahZ - ynj fjifZgdnw. XXX
+// Armal Sadak perso6
+L18D122I
+ Hj_jifd, nw kjidhZatx, j s~h |? &m~, snj dh iobij, ynj lafd flj]d. XXX
+// Armal Sadak perso6
+L18D122J
+ Vnj jid iZkZgd iZ &agdfoz Hlj]d_dro! XXX
+// Armal Sadak perso6
+L18D122K
+ Fj o idq ia q]Zndn hjc^j], snj[w _j_ohZnxm| _j nZfj^j mZhdh. XXX
+// Armal Sadak perso6
+L18D122L
+ Cnj-nj au~ mnjdn cZ ]mah yndh... XXX
+// Armal Sadak perso6
+L18D122M
+ X o]alai, ynj ia +jlfZi. XXX
+// Armal Sadak perso6
+L18D122N
+ Fj | [w hij^ja jn_Zg, snj[w ociZnx, fnj! XXX
+// Armal Sadak perso6
+L18D123A
+ $lZ]j! Kw qjljtde d^ljf. XXX
+// Armal Sadak perso6
+L18D123B
+ >iZsdn, nw qjsatx ociZnx, snj | ciZz j fjhai_Zina +jlfZia? XXX
+// Armal Sadak perso6
+L18D123C
+ Gi [agwe d kotdmnwe m klj]d_rZhd d mnlZbZhd j^i|, ij ji - ^idgje kla_Znagx. XXX
+// Armal Sadak perso6
+L18D123D
+ Gi qjsan dc[Z]dnxm| jn klj]d_ra], snj[w ] j_dijsfo oklZ]g|nx mnZggZenjh. XXX
+// Armal Sadak perso6
+L18D123E
+ A kjnjho ynjn [jg]Zi cZfgzsdg kZfn m Jjl_jmjh. XXX
+// Armal Sadak perso6
+L18D123F
+ +jlfZi, ]d_ij, _ohZan, snj hjban dmkjgxcj]Znx fjifZgdnj] ] m]jdq rag|q d lZc_Z]dnx dq, fj^_Z jid mnZion [jgxta ia iobiw. XXX
+// Arkhan2 G perso2
+L18D251A
+ # kjsaho ian? XXX
+// Arkhan2 G perso2
+L18D251B
+ Kw ba mfZcZg, fjifZgdnw nokwa, nZf? XXX
+// Arkhan3 G perso3
+L18D252
+ +Z, amgd... fjifZgdnw... nZf ^gokw, fZf nw ^j]jldtx. XXX
+// Armal Sadak perso6
+L18D253A
+ &alij. Fj | ciZz, snj cZ Jjl_jmjh mnjdn au~ fnj-nj. XXX
+// Armal Sadak perso6
+L18D253B
+ Kjn, fnj kldfZcZg iZkZmnx iZ Djld. XXX
+// Armal Sadak perso6
+L18D253C
+ A fj^_Z +jlfZi ynj kjeh~n, [o_an oba kjc_ij! XXX
+// Arkhan2 G perso2
+L18D279A
+ L hai| _g| na[| qjljtZ| ij]jmnx. XXX
+// Arkhan2 G perso2
+L18D279B
+ Ejbatx j Jjl_jma ia ]jgij]Znxm| . XXX
+// Arkhan2 G perso2
+L18D279C
+ X lZcj[lZgm| m idh... CZf iZ_j. XXX
+// Arkhan3 G perso3
+L18D280A
+ Njljtda ]amnd _g| na[|! XXX
+// Arkhan3 G perso3
+L18D280B
+ X lZcj[lZgm| m Jjl_jmjh... fZf iZ_j. XXX
+// Armal Sadak (surprised) perso6
+L18D281A
+ Fa hjban [wnx! Pnj nw mfZcZg? XXX
+// Armal Sadak perso6
+L18D281B
+ Kw o[dg Jjl_jmZ? XXX
+// Armal Sadak perso6
+L18D281C
+ #q, #lqZi, hje _j[lwe _lo^! <mgd ]m~ ynj nZf, _Z idmkjtg~n &agdfde JjgZZl iZ na[| [gZ^jmgj]aida! XXX
+// Armal Sadak perso6
+L18D281D
+ Fj amgd ociZz, snj nw g^Zg, nw ]mkjhidtx hai|! XXX
+// Arkhan2 G perso2
+L18D282
+ X ia g^o, kj]alx hia. XXX
+// Arkhan3 G perso3
+L18D283
+ X ia ]lo. XXX
+// Armal Sadak perso6
+L18D254A
+ Ve, nw d klZ]_Z mdg~i. XXX
+// Armal Sadak perso6
+L18D254B
+ &jn. >_amx iahij^j cZl|_j] _g| ^ljhj[j| dc $wgj^j. XXX
+// Armal Sadak perso6
+L18D254C
+ >l| ia nlZnx dq, ynj la_fjmnx. XXX
+// Malrot2 perso62
+L18D175
+ <mgd qjsatx tnjggZ, ]jcxhd pg|^o. XXX
+// Malrot6 (very grateful) perso66
+L18D195A
+ JkZmd[j, [lZn! XXX
+// Malrot6 (enraged) perso66
+L18D195B
+ Hjmhjnldh, kld_~nm| gd dh kj _ota, fj^_Z fja-fnj kj_kZgdn dq jmdija ^iac_j! XXX
+// Armal Sadak (shouting) perso6
+L18D196
+ Kjgxfj [ala^d m]jz cZ_idro! XXX
+// Armal Sadak (amused, to Arkhan) perso6
+L18D197
+ Fa qjnag [w | [wnx iZ dq hamna, fj^_Z ji iZe_~n dq! XXX
+// Arkhan2 G perso2
+L18D08
+ Fa qjsatx gd mw^lZnx? XXX
+// Arkhan3 G perso3
+L18D09
+ Jw^lZah? XXX
+// Armal Sadak perso6
+L18D07A
+ Fa ciZz ob, fnj nw dgd snj nw, ij | na[a ]jn snj mfZbo. XXX
+// Armal Sadak perso6
+L18D07B
+ X d^lZz njgxfj mj m]jdhd ^jmn|hd. # na[| | idfj^_Z lZixta ia ]mnlasZg! XXX
+// Armal Sadak perso6
+L18D07C
+ A amgd na[a bdcix _jlj^Z, ia mnjdn [jgnZnxm| c_amx, ]idfZatx? XXX
+// Armal Sadak perso6
+L18D119
+ X qjbo kal]wh. Hj klZ]o mnZlta^j! XXX
+// Armal Sadak perso6
+L18D202
+ JgotZe, miZsZgZ mfZbd, snj dhaiij nw duatx. XXX
+// Armal Sadak perso6
+L18D203A
+ &jchjbij, kjcba. XXX
+// Armal Sadak perso6
+L18D203B
+ # kjfZ kj[ala^d tfolo, io, dgd nj, snj jmnZgjmx jn ia~. XXX
+// Arkhan2 G perso2
+L18D204
+ CZf iZms~n kZlndd? XXX
+// Arkhan3 G perso3
+L18D205
+ A^lZah? XXX
+// Armal Sadak perso6
+L18D206
+ Ejbij, amgd kjmnZ]dtx kldgdsija jlobda iZ fji. XXX
+// Malrot2 perso62
+L18D159
+ Fan, jmnZ]x m]jd klj[gahw kld ma[a. XXX
+// Arkhan2 L perso2
+L18D139A
+ Lmkjfjem|! XXX
+// Arkhan2 L perso2
+L18D139B
+ X _lo^ homjludfj]. XXX
+// Arkhan3 L perso3
+L18D140
+ Gmnwix. XXX
+// Malrot2 perso62
+L18D141A
+ Ve, mgotZe. X ia ciZz na[|, d hia iasa^j mfZcZnx na[a. XXX
+// Malrot2 perso62
+L18D141B
+ Hji|g? XXX
+// Arkhan2 O perso2
+L18D142
+ Cnj c_amx ^gZ]iwe? XXX
+// Arkhan3 O perso3
+L18D143
+ Cnj ^gZ]iwe? XXX
+// Malrot2 perso62
+L18D144
+ Fdfnj! KZf snj kjfZcw]Ze m]j~ olj_mn]j ^_a-id[o_x au~! XXX
+// Arkhan2 O perso2
+L18D145
+ Kw fnj? XXX
+// Arkhan3 O perso3
+L18D146
+ Kw... fnj? XXX
+// Malrot2 perso62
+L18D147
+ Fa n]j~ _agj! Hlj]Zgd]Ze jnmz_Z! XXX
+// Arkhan2 G perso2
+L18D23A
+ L hai| kjmgZida _g| na[|: XXX
+// Arkhan2 G perso2
+L18D23B
+ Ij_ gz_mfje ]ma^j gdtx katfZ, snj ]jgaz lofd Jo_x[w nj _]dbanm| iZ kjga J]anZ, Z nj iZ kjga Kxhw. XXX
+// Arkhan3 G perso3
+L18D24A
+ Kon... kjmgZida na[a: XXX
+// Arkhan3 G perso3
+L18D24B
+ Ij_ gz_mfje... njgxfj katfZ... snj lofZ Jo_x[w _]d^Zan... nj iZ kjga J]anZ... nj iZ kjga Kxhw. XXX
+// Malrot2 perso62
+L18D274A
+ Ve, m fZfdq ynj kjl bd]jniwa ]lj_a na[| kdton mndqd? NZ-qZ-qZ! XXX
+// Malrot2 perso62
+L18D274B
+ # io, ]whanZe m]jz bonfoz cZ_idro, bd]j, kjfZ | ia ]wnjgfZg a~ ] >ahgd ElZfZ f saln|h! XXX
+// Arkhan2 L perso2
+L18D148
+ K]je [jmm - mgZ]iwe hZgwe! XXX
+// Arkhan3 L perso3
+L18D149
+ $jmm... mgZ]iwe hZgwe! XXX
+// Malrot2 perso62
+L18D150
+ +Z. Kjgxfj ia ^gZ_x a^j kljnd] talmnd! XXX
+// Arkhan2 O perso2
+L18D154
+ >iZsdn, nw o JZ_ZfZ kldq]jmnaix, Z? XXX
+// Arkhan3 O perso3
+L18D155
+ DZfae #lhZgZ JZ_ZfZ? XXX
+// Malrot2 perso62
+L18D156
+ +ohZe snj qjsatx, hia iZkga]Znx... XXX
+// Arkhan2 O perso2
+L18D151
+ # ynj snj cZ hatjf [gjq qlZkdn ] o^go? XXX
+// Arkhan3 O perso3
+L18D152
+ Pnj ynj cZ kx|ix nZh ] o^go? XXX
+// Malrot2 perso62
+L18D153A
+ Ve, hw non, ciZatx gd, gz[dh kjfotZnx d ]wkdnx. XXX
+// Malrot2 perso62
+L18D153B
+ # ob amgd omnZiah, ]jgiw [ZzfZzn iZm... XXX
+// Arkhan2 G perso2
+L18D184
+ Fa qjsatx qga[ionx tnjggZ? XXX
+// Arkhan3 G perso3
+L18D185
+ &wkxatx? XXX
+// Malrot2 perso62
+L18D186
+ Fan, j_di n]je b[Zi ]mz jqjno jnj[x~n! XXX
+// Malrot2 perso62
+L18D187
+ *gjnjf tnjggZ? Fa jnfZbomx. XXX
+// Malrot2 (burping) perso62
+L18D188
+ ...JkZmd[j. XXX
+// Malrot2 (after drinking) perso62
+L18D189
+ #q-q... HjbZgoe, hjbij au~ lZcjf! XXX
+// Arkhan2 L perso2
+L18D12
+ Pnj ynj cZ d^lZ? XXX
+// Arkhan3 L perso3
+L18D13
+ Pnj cZ d^lZ? XXX
+// Arkhan2 O perso2
+L18D15
+ Pnj ynj cZ _anmfZ| d^lZ o na[|? XXX
+// Arkhan3 O perso3
+L18D16
+ +anmfZ| d^lZ? XXX
+// Armal Sadak perso6
+L18D14A
+ Vnj d^lZ ] eji^. XXX
+// Armal Sadak perso6
+L18D14B
+ X ]dbo, snj nw ia c_atide, ]alij? XXX
+// Arkhan2 L perso2
+L18D18
+ CZfj]w klZ]dgZ ] ynje d^la? XXX
+// Arkhan3 L perso3
+L18D19
+ HjfZbatx... CZf d^lZnx ] ia~? XXX
+// Arkhan2 O perso2
+L18D21
+ X j[w^lZz na[| m cZflwnwhd ^gZcZhd! XXX
+// Arkhan3 O perso3
+L18D22
+ G[w^lZz na[|, ia ^g|_|! XXX
+// Armal Sadak perso6
+L18D20A
+ PohZ [jgjniZ|. XXX
+// Armal Sadak perso6
+L18D20B
+ L hai| ian ]lahaid iZ komnoz [jgnj]iz... XXX
+// Armal Sadak perso6
+L18D20C
+ (&c_wqZan) XXX
+// Armal Sadak perso6
+L18D25
+ X ]dbo, o iZm m nj[je amnx j[ude _lo^. XXX
+// Arkhan2 G perso2
+L18D255
+ +Z, | ^j]jldg... XXX
+// Arkhan3 G perso3
+L18D256
+ +Z, ynj... XXX
+// Armal Sadak perso6
+L18D25A
+ +j]jgxij. Fa iZ_j gdtidq mgj]. XXX
+// Armal Sadak perso6
+L18D25B
+ Ka[a c_amx lZ_w, nZf snj cZ[o_x j[ jmnZgxijh. XXX
+// Armal Sadak perso6
+L18D25C
+ A ia cZ_Z]Ze idfZfdq ]jkljmj]... XXX
+// Armal Sadak perso6
+L18D257
+ X oba mfZcZg na[a, | ia kxz. XXX
+// Armal Sadak perso6
+L18D258
+ Kw ia j[dbZem|, ij | ]jj[ua ia kxz. XXX
+// Armal Sadak perso6
+L18D28A
+ Ew ia iZ [ZcZla, hje _lo^. XXX
+// Armal Sadak perso6
+L18D28B
+ Fj amgd kjmnZ]dtx iZ fji snj-id[o_x dc jlobd|, hw hj^gd [w mw^lZnx ] eji^. XXX
+// Armal Sadak perso6
+L18D116A
+ PohZ [jgjniZ|! XXX
+// Armal Sadak perso6
+L18D116B
+ Vnj fomjf hanZggjgjhZ, Z ia jlobda! XXX
+// Armal Sadak perso6
+L18D115B
+ FZe_d snj-id[o_x au~! XXX
+// Arkhan2 G perso2
+L18D29
+ IZmmfZbd klZ]dgZ au~ lZc. XXX
+// Arkhan3 G perso3
+L18D30
+ IZmmfZbd klZ]dgZ... au~. XXX
+// Armal Sadak perso6
+L18D31A
+ &m~ kljmnj! L na[| [agwa, o hai| s~liwa. XXX
+// Armal Sadak perso6
+L18D31B
+ Ew kjjsal~_ij ]wmnZ]g|ah pdtfd iZ _jmfo nZf, snj[w j[lZndnx qjn| [w j_io pdtfo kljnd]idfZ. XXX
+// Armal Sadak perso6
+L18D31C
+ Pnj[w j[lZndnx j_io dgd iamfjgxfj hjdq pdtaf, nw _jgbai jflobdnx dq m]jdhd. XXX
+// Armal Sadak perso6
+L18D31D
+ Cj^_Z nw j[lZuZatx pdtfd, jid hai|zn qjc|diZ d r]an. XXX
+// Armal Sadak perso6
+L18D31E
+ Hj[ab_Zan njn, o fj^j [jgxta pdtaf iZ _jmfa, fj^_Z ]ma kjg| cZi|nw. XXX
+// Armal Sadak perso6
+L18D31F
+ AnZf. &wfgZ_w]Ze jlobda, d iZsi~h! XXX
+// Arkhan2 G perso2
+L18D129
+ X _jgbai kjmnZ]dnx iZ fji jlobda? XXX
+// Arkhan3 G perso3
+L18D130
+ Fobij kjmnZ]dnx jlobda? XXX
+// Armal Sadak perso6
+L18D131
+ KZfj]w klZ]dgZ! XXX
+// Arkhan2 G perso2
+L18D32
+ Fo, nZf hw iZsi~h d^lo? XXX
+// Arkhan3 G perso3
+L18D33
+ FZsi~h d^lo? XXX
+// Armal Sadak perso6
+L18D34
+ JZ_dmx iZkljnd], d iZsi~h! XXX
+// Arkhan2 L perso2
+L18D35
+ # nw mdg~i! XXX
+// Arkhan3 L perso3
+L18D36
+ Jdg~i! XXX
+// Arkhan2 O perso2
+L18D37
+ Ka[a kljmnj kj]acgj, ]jn d ]m~! XXX
+// Arkhan3 O perso3
+L18D38
+ Hljmnj kj]acgj! XXX
+// Armal Sadak perso6
+L18D39
+ X msdnZzmx mdgxiaetdh d^ljfjh ] mnZggZena. XXX
+// Armal Sadak perso6
+L18D40
+ JkZmd[j. XXX
+// Arkhan2 L perso2
+L18D259
+ Vnj [wgZ qjljtZ| d^lZ. XXX
+// Arkhan3 L perso3
+L18D260
+ NjljtZ| d^lZ. XXX
+// Arkhan2 O (exulting) perso2
+L18D261
+ #q-qZ-qZ-qZ, | na[| m_agZg! XXX
+// Arkhan3 O (exulting) perso3
+L18D262
+ Jk~fm|, [lZn! XXX
+// Armal Sadak perso6
+L18D263A
+ Hj_pZlndgj... ij nw iakgjq. XXX
+// Armal Sadak perso6
+L18D263B
+ &ma^_Z lZ_ kla_jmnZ]dnx na[a jlobda d dipjlhZrdz. XXX
+// Armal Sadak perso6
+L18D264A
+ +jgbai kldciZnx, nw jngdsij d^lZg. XXX
+// Armal Sadak perso6
+L18D264B
+ Fj | ]m~ ba jmnZ]gz n]j~ jlobda - ] ms~n dipjlhZrdd, fjnjloz | kla_jmnZ]dg. XXX
+// Arkhan2 L perso2
+L18D43
+ JgotZe, JZ_Zf, hia iobij, snj[ nw kjhj^. XXX
+// Arkhan3 L perso3
+L18D44
+ JZ_Zf, kjhj^d. Jljsij! XXX
+// Armal Sadak perso6
+L18D45A
+ & ynjh hdla mgZ[ZfZh ian hamnZ, #lqZi. XXX
+// Armal Sadak perso6
+L18D45B
+ >Z nZf nw idsa^j ia kjgosdtx, io, ]j ]m|fjh mgosZa ia c_amx. XXX
+// Armal Sadak perso6
+L18D45C
+ <mgd na[a d klZ]_Z iobiZ hj| kjhjux, nZf klj|]d ma[|. XXX
+// Armal Sadak perso6
+L18D45D
+ Ka[a kld_~nm| kj[a_dnx hai| ] eji^. A njsfZ. XXX
+// Arkhan2 O perso2
+L18D102A
+ J hai| _j]jgxij n]jdq _olZrfdq d^l! XXX
+// Arkhan2 O perso2
+L18D102B
+ +Ze hia, snj kljto, ]jl! XXX
+// Arkhan3 O perso3
+L18D103A
+ N]Zndn ^gokwq d^l! XXX
+// Arkhan3 O perso3
+L18D103B
+ &jl! +Ze hia... XXX
+// Armal Sadak perso6
+L18D104A
+ &jl?! Hj fZfjho klZ]o nw ^j]jldtx hia "]jl", sdmnzg| dc &alqia^j ^jlj_Z? XXX
+// Armal Sadak perso6
+L18D104B
+ Cnj hai| nZf jmfjl[dg, oba ia mhj^ j njh lZmmfZcZnx! XXX
+// Arkhan2 L perso2
+L18D49
+ Kw ia kala_ohZg au~? XXX
+// Arkhan3 L perso3
+L18D50
+ Fa kala_ohZg? XXX
+// Armal Sadak perso6
+L18D51A
+ Kw, fZbanm|, m kal]j^j lZcZ ia kji|g, klZ]_Z? XXX
+// Armal Sadak perso6
+L18D51B
+ <mgd na[a iobiZ kjhjux, nj _jfZbd, snj nw mdgxiaa! XXX
+// Armal Sadak perso6
+L18D54A
+ Fj | sonx-sonx na[a kj_mfZbo: XXX
+// Armal Sadak perso6
+L18D54B
+ L nj^j, fnj kal]wh cZeh~n o^gw d^lj]je _jmfd, [jgxta tZimj] iZ kj[a_o. XXX
+// Arkhan2 O perso2
+L18D52
+ Dosta kjhj^d hia, amgd ia qjsatx, o]d_anx hai| ] ^ia]a! XXX
+// Arkhan3 O perso3
+L18D53
+ Hjhj^d, dgd [o_on klj[gahw! XXX
+// Armal Sadak perso6
+L18D265B
+ AmndiiZ| mdgZ ] hwmg|q, Z ia ] hwtrZq! XXX
+// Arkhan2 L perso2
+L18D55
+ Eia iobij ciZnx, fnj c_amx cZklZ]g|an. JfZbd hia. XXX
+// Arkhan3 L perso3
+L18D56
+ JfZbd, f fjho | _jgbai j[lZndnxm|. XXX
+// Arkhan2 O perso2
+L18D57
+ <mgd o na[| nZfja ]gd|ida, fZf ]ma ^j]jl|n, nj^_Z nw [w hj^ kj_mfZcZnx hia, f fjho hia mga_oan c_amx j[lZndnxm|. XXX
+// Arkhan3 O perso3
+L18D58
+ <mgd nw nZfje ohiwe, mfZbd, fnj c_amx cZklZ]g|an. XXX
+// Armal Sadak perso6
+L18D59A
+ Fa nZf [wmnlj, _lo^. XXX
+// Armal Sadak perso6
+L18D59B
+ X kla_gZ^Zz na[a kZlndz ] eji^. XXX
+// Armal Sadak perso6
+L18D59C
+ <mgd ]wd^lZatx, nj ociZatx nj, snj qjsatx. XXX
+// Arkhan2 G perso2
+L18D60
+ LciZnx [w klZ]dgZ d^lw, _g| iZsZgZ! XXX
+// Arkhan3 G perso3
+L18D61
+ CZf ] ynj d^lZnx? XXX
+// Arkhan2 G perso2
+L18D90A
+ X duo fja-fj^j. JnlZbZ j^i| kj dhaid >a_... XXX
+// Arkhan2 G perso2
+L18D90B
+ Ejban, nw dgd fnj-nj dc n]jdq gz_ae a^j ]d_ag? XXX
+// Arkhan3 G perso3
+L18D91A
+ X duo kZli| kj dhaid >a_. XXX
+// Arkhan3 G perso3
+L18D91B
+ K]jd gz_d a^j ]d_agd? XXX
+// Armal Sadak perso6
+L18D92A
+ Cjiasij, | ciZz >a_Z. Cnj ia ciZan >a_Z? XXX
+// Armal Sadak perso6
+L18D92B
+ <^j qlZ[ljmnx kj^o[dn a^j. XXX
+// Armal Sadak perso6
+L18D92C
+ X mgwtZg, ji mkomndgm| ] Fdbide ^jlj_ kjmga kjfotaid| iZ &agdfoz klj]d_dro. XXX
+// Armal Sadak perso6
+L18D92D
+ Fj hw kjnal|gd a^j mga_. XXX
+// Arkhan2 G perso2
+L18D105
+ Jw^lZah kZlnaefo? XXX
+// Arkhan3 G perso3
+L18D106
+ Jw^lZah? XXX
+// Armal Sadak perso6
+L18D107A
+ &agdfde $j^ JjgirZ, ] na[a kljmiogm| ZcZln! XXX
+// Armal Sadak perso6
+L18D107B
+ Kw ciZatx j raia: jlobda. XXX
+// Armal Sadak perso6
+L18D107C
+ <mgd kj[a_dtx, | _Zh na[a kZnljiw f ^ljhj[jz dc $wgj^j. XXX
+// Arkhan2 L perso2
+L18D63
+ X duo kljnd]j|_da jn nje cZlZcw, snj kjbdlZan hai|. XXX
+// Arkhan3 L perso3
+L18D64
+ X duo gafZlmn]j. XXX
+// Armal Sadak perso6
+L18D65A
+ Kw latdg ia j[lZuZnxm| f ragdnag|h, | ]dbo... XXX
+// Armal Sadak perso6
+L18D65B
+ Ejban, na[a kj^j]jldnx m Dajije, amgd jnwuatx. XXX
+// Arkhan2 L perso2
+L18D266
+ DajiZ? XXX
+// Arkhan3 L perso3
+L18D267
+ DajiZ? XXX
+// Armal Sadak perso6
+L18D666A
+ GiZ - jntagxidrZ. =d]~n cZ kla_agZhd mnZggZenZ, ] >ahg|q ElZfZ. XXX
+// Armal Sadak perso6
+L18D666B
+ Fj idfnj ia ciZan, ^_a dhaiij. XXX
+// Arkhan2 O perso2
+L18D66
+ *jnj]! Kakalx bd]j! *j]jld, fZf hia dcgasdnxm|! XXX
+// Arkhan3 O perso3
+L18D67
+ *jnj]! +Z]Ze gafZlmn]j. =d]j! XXX
+// Armal Sadak perso6
+L18D68A
+ Kw klZ]. Kw kj[a_dg. XXX
+// Armal Sadak perso6
+L18D68B
+ Fdfnj bd]wh ia ot~g dc naq, fnj hia nZf _alcdg! XXX
+// Armal Sadak perso6
+L18D68C
+ <mgd ^j]jldnx kldgdsiwh |cwfjh ia ohaatx, nj^_Z kjt~g ]ji. $wmnlj! XXX
+// Arkhan2 G perso2
+L18D69
+ VnZ DajiZ, fZf hia iZend a~? XXX
+// Arkhan3 G perso3
+L18D70
+ CZf iZend Dajio? XXX
+// Armal Sadak perso6
+L18D71A
+ <mgd nj, snj ^j]jl|n, klZ]_Z, ia nw iZe_~tx a~, Z jiZ na[|. XXX
+// Armal Sadak perso6
+L18D71B
+ &jn njgxfj ]w[lZnxm| dc mnZggZenZ [o_an _Zgafj ia kljmnj. &ma ]jljnZ kalaflwnw mnlZbZhd j^i|. XXX
+// Arkhan2 G perso2
+L18D72A
+ CjifZgdnw? XXX
+// Arkhan2 G perso2
+L18D72B
+ *_a dq o[abdua? XXX
+// Arkhan3 G perso3
+L18D73
+ *_a o[abdua fjifZgdnj]? XXX
+// Armal Sadak perso6
+L18D74
+ *_a-nj ]idco, ] fZiZgdcZrdd! XXX
+// Arkhan2 G perso2
+L18D75
+ # mgZ[ja hamnj o fjifZgdnj] amnx? XXX
+// Arkhan3 G perso3
+L18D76
+ CjifZgdnw. *_a... mgZ[ja hamnj? XXX
+// Armal Sadak perso6
+L18D77A
+ Cjiasij! Aq ^gZ]Zlx - ynj kjgcosde ^Z_! XXX
+// Armal Sadak perso6
+L18D77B
+ <^j cj]on Jjl_jm. A ji [wg j_idh dc iZm. XXX
+// Armal Sadak perso6
+L18D77C
+ Gi mkdn d ]d_dn, snj [o_an klZ]dnx mnZggZenjh j^i~h d hasjh. XXX
+// Armal Sadak perso6
+L18D77D
+ Fj ji idsnjbamn]j! XXX
+// Arkhan2 G perso2
+L18D78
+ # kld s~h non +jlfZi? X ia kjidhZz, kjsaho nw a^j kldkg~g. XXX
+// Arkhan3 G perso3
+L18D79
+ # +jlfZi? XXX
+// Armal Sadak perso6
+L18D80A
+ Vnj, hje hZgxsdf, _lo^Z| dmnjld|. XXX
+// Armal Sadak perso6
+L18D80B
+ X hj^ [w - cZ qjljtaa jlobda - [jgxta lZmmfZcZnx... XXX
+// Armal Sadak perso6
+L18D80C
+ <mgd j[w^lZatx hai| ] eji^, fjiasij! XXX
+// Arkhan2 G perso2
+L18D81
+ +jlfZi jnflwnj mz_Z mkomfZanm|? XXX
+// Arkhan3 G perso3
+L18D82
+ +jlfZi kldqj_dn jnflwnj? XXX
+// Armal Sadak perso6
+L18D83A
+ Fan, ji qdnlwe. Nj_dn iacZhanij. XXX
+// Armal Sadak perso6
+L18D83B
+ Fj o hai| gz_d kj]mz_o, d jid idfj^_Z ia _lahgzn. XXX
+// Armal Sadak perso6
+L18D83C
+ Ew _ohZah, ji iZ]auZg fjifZgdnj] ia haiaa _am|nd lZc m kjmga_iae goiw. XXX
+// Armal Sadak perso6
+L18D83D
+ A fja-fnj ^j]jldn, snj ji jnflwg >Zklanioz _]alx d ]jt~g ]ionlx. XXX
+// Arkhan2 G perso2
+L18D268
+ >ZklaniZ| _]alx? XXX
+// Arkhan3 G perso3
+L18D269
+ >ZklaniZ| _]alx? XXX
+// Armal Sadak perso6
+L18D270A
+ &jj[ua-nj, ynj _]alx ] c_Zida dc $wgj^j. Fa_Zgafj jnmz_Z. XXX
+// Armal Sadak perso6
+L18D270B
+ Fdfjho au~ ia o_Z]Zgjmx jnflwnx a~. XXX
+// Armal Sadak perso6
+L18D270C
+ A ^j]jl|n, snj ]ma, fnj kwnZgm|, kjcba ohalgd nZdimn]aiije mhalnxz... XXX
+// Arkhan2 G perso2
+L18D271
+ Vnj klZ]_Z? XXX
+// Arkhan3 G perso3
+L18D272
+ Vnj klZ]_Z? XXX
+// Armal Sadak perso6
+L18D273A
+ Kon | ia ciZz. Fj l|_jh iZqj_|n h~ln]wq bd]jniwq, _j]jgxij sZmnj. XXX
+// Armal Sadak perso6
+L18D273B
+ Hjynjho hamniwa homjludfd mgjbdgd salakZ o nje _]ald, snj nZf ]jgioan ]maq. XXX
+// Armal Sadak perso6
+L18D273C
+ Hljmnj snj[w jnko^ionx noldmnj]. XXX
+// Arkhan2 G perso2
+L18D84A
+ X lZcwmfd]Zz mfgak. KZeija hamnj, dc]amnija njgxfj klj]d_rZh. XXX
+// Arkhan2 G perso2
+L18D84B
+ Pnj-id[o_x mgwqZg? XXX
+// Arkhan3 G perso3
+L18D85
+ # nZeiwe mfgak, dc]amniwe njgxfj klj]d_rZh? >iZatx snj-id[o_x j i~h? XXX
+// Armal Sadak perso6
+L18D86A
+ +Z... G i~h | fja-snj mgwqZg. XXX
+// Armal Sadak perso6
+L18D86B
+ Hj_cahagxa, dmnjsidf yial^dd... XXX
+// Armal Sadak perso6
+L18D86C
+ &qj_, fZf kjgZ^Zzn, lZmkjgjbai ^_a-nj ] &alqiah ^jlj_a. XXX
+// Armal Sadak perso6
+L18D86D
+ Fo, Z _anZgae | ia ciZz... XXX
+// Arkhan2 G perso2
+L18D87A
+ X duo ^lZi~iwa fldmnZggw. XXX
+// Arkhan2 G perso2
+L18D87B
+ Fdfnj dc n]jdq gz_ae ia cZhasZg nZfdq ]auae ] jflo^a? XXX
+// Arkhan3 G perso3
+L18D88A
+ Auo fldmnZggw. *lZi~iwa. XXX
+// Arkhan3 G perso3
+L18D88B
+ Fdfnj dc ]Zm ia ]d_ag dq? XXX
+// Armal Sadak perso6
+L18D89A
+ Fan. Eia idsa^j kj_j[ij^j c_amx ia ]mnlasZgjmx. XXX
+// Armal Sadak perso6
+L18D89B
+ Fj amgd o]dbo, _Zh na[a ciZnx. XXX
+// Arkhan2 G perso2
+L18D275
+ Pnj nw _ohZatx j[ ynjh? XXX
+// Arkhan3 G perso3
+L18D276
+ Pnj nw _ohZatx? XXX
+// Armal Sadak perso6
+L18D277A
+ HjfZbd... XXX
+// Armal Sadak perso6
+L18D277B
+ +j^j]jl hab_o +jlfZijh d Jjl_jmjh. Vnd [jg]Ziw cZfgzsdgd kdmxhaiija mj^gZtaida! XXX
+// Armal Sadak perso6
+L18D277C
+ Vnj, _jgbij [wnx, d_a| fjhai_ZinZ. XXX
+// Armal Sadak perso6
+L18D277D
+ Jjl_jm _Zba ia ohaan sdnZnx. +g| ia^j ynj kljmnj fZlZfogd! XXX
+// Arkhan2 L perso2
+L18D93A
+ X iZt~g nagj mnlZiidfZ iZ flakjmnije mnaia mnZggZenZ. XXX
+// Arkhan2 L perso2
+L18D93B
+ Hld i~h [wgZ pdtfZ _g| d^lw ] eji^. XXX
+// Arkhan2 L perso2
+L18D93C
+ X kj_ohZg, hjban, na[| ynj cZdinalamoan... XXX
+// Arkhan3 L perso3
+L18D94A
+ FZ flakjmnije mnaia. &d_ag... JnlZiidfZ. XXX
+// Arkhan3 L perso3
+L18D94B
+ Vnj [wgj kld i~h. XXX
+// Arkhan3 L perso3
+L18D94C
+ &mkjhidg j na[a... XXX
+// Arkhan2 O perso2
+L18D96A
+ KZh, iZ flakjmnije mnaia mnlZiidf... h~ln]we. XXX
+// Arkhan2 O perso2
+L18D96B
+ X iZt~g o ia^j yno pdtfo _g| eji^Z. XXX
+// Arkhan2 O perso2
+L18D96C
+ Pnj, ciZfjhj? XXX
+// Arkhan3 O perso3
+L18D97A
+ FZ flakjmnije mnaia, nZh mnlZiidf... Gi h~ln]. XXX
+// Arkhan3 O perso3
+L18D97B
+ X iZt~g ynj o ia^j. XXX
+// Arkhan3 O perso3
+L18D97C
+ Vnj n]j~, ia nZf gd? XXX
+// Armal Sadak (subdued) perso6
+L18D95A
+ VnZ pdtfZ... KZ, snj | _Zg Dj_Zlo! XXX
+// Armal Sadak perso6
+L18D95B
+ Pnj m idh mgosdgjmx, mfZbd hia! XXX
+// Arkhan2 G perso2
+L18D284
+ E-h... IZiaida ] bd]jn. Jhalnagxij. XXX
+// Arkhan3 G perso3
+L18D285
+ E-h-h... lZiai... JhalnagxiZ| lZiZ. XXX
+// Arkhan2 G perso2
+L18D286
+ Vnj _agj lof fjifZgdnZ. HjlacZg a^j ] gjmfonw. XXX
+// Arkhan3 G perso3
+L18D287
+ CjifZgdn. Fa jmnZ]dg aho tZimZ. XXX
+// Armal Sadak perso6
+L18D95C
+ Dj_Zl [wg hjdh _lo^jh... d ]agdfdh d^ljfjh ] eji^. XXX
+// Armal Sadak perso6
+L18D95D
+ X kldciZnagai na[a cZ nj, snj nw ]aliog pdtfo. XXX
+// Armal Sadak perso6
+L18D95E
+ Njso jn[gZ^j_Zldnx na[| cZ mj_a|iija. &jcxhd ynjn tgah ] kZh|nx j qlZ[ljh mnlZiidfa. XXX
+// Arkhan2 G perso2
+L18D111
+ CZf iZms~n ]jn ynj^j jlobd|? XXX
+// Arkhan3 G perso3
+L18D112
+ CZf iZms~n ynj^j? XXX
+// Armal Sadak perso6
+L18D113
+ Gngdsij. XXX
+// Armal Sadak perso6
+L18D114
+ JZ_dmx, d iZsi~h d^lo! XXX
+// Armal Sadak perso6
+L18D115A
+ &audrZ ia ij]Z! XXX
+// Arkhan2 L perso2
+L18D162
+ Ve! &mnZ]Ze! XXX
+// Arkhan3 L perso3
+L18D163
+ #, f s~lno! XXX
+// Arkhan2 O perso2
+L18D164
+ Ve! &mnZ]Ze! XXX
+// Malrot 4 perso64
+L18D166A
+ (^ljhfj mjkdn) XXX
+// Malrot 4 perso64
+L18D166B
+ (mjiij ]jlsdn) XXX
+// Arkhan2 G perso2
+L18D167
+ Ve! Kjgxfj kj^g|_d! XXX
+// Arkhan3 G perso3
+L18D168
+ Ve, ^g|_d-fZ... XXX
+// Arkhan2 G perso2
+L18D169
+ +Z o ia^j iasa^j ]c|nx! XXX
+// Arkhan3 G perso3
+L18D170
+ Fasa^j ]c|nx! XXX
+// Arkhan2 G (searching among the objects) perso2
+L18D173
+ Hjqjba iZ ]aud hjl|fZ... XXX
+// Arkhan3 G (searching among the objects) perso3
+L18D174
+ &aud hjl|fZ... XXX
+// Malrot2 (irritated) perso62
+L18D183A
+ Kw ia mgwtZg, snj | mfZcZg? XXX
+// Malrot2 perso62
+L18D183B
+ L[ald lofd jn tnjggZ! XXX
+// Malrot2 perso62
+L18D182A
+ Vnj ia n]j| gZso^Z, kld|nagx! XXX
+// Malrot2 perso62
+L18D182B
+ KZf snj _albd m]jd gZkw kj_Zgxta jn hja^j tnjggZ. XXX
+// Malrot2 perso62
+L18D176
+ Ve, ]kal~_, o^juZem|! XXX
+// Arkhan2 G perso2
+L08D71
+ Fan, pg|^Z oba kjgiZ. XXX
+// Arkhan3 G perso3
+L08D72
+ Mg|^Z kjgiZ! XXX
+// Malrot2 (jovial) perso62
+L18D181
+ Ve, amgd n]j| pg|^Z mgdtfjh n|bagZ, | hj^o kjhjsx j[ga^sdnx a~! XXX

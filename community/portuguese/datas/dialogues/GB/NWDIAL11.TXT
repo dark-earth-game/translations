@@ -1,0 +1,181 @@
+Début du fichier F:\DEV\DKE\DATAS\DIALOGUE\SP\NWDIAL11.TXT
+// Guarda (nervoso) perso32
+L11D01
+Não te aproximes, cara de fuligem! Volta para a Escuridão! XXX
+// Guarda (vai golpear Arkhan) perso32
+L11D02
+Estavas avisado! XXX
+// Guarda (nervoso) perso32
+L11D03
+Alto! Não te aproximes, a Torre dos Construtores está fechada! XXX
+// Guarda (nervoso) perso32
+L11D04
+Eh, tu! Fora daqui! Está fechado! XXX
+// Guarda (ataca Arkhan) perso32
+L11D05
+Toma lá isto! XXX
+// Guarda (a Arkhan que foge) perso32
+L11D45
+Se voltares, arranco-te a cabeça dos ombros! XXX
+//Arkhan2 G perso2
+L11D06
+Não, chega a guarda! XXX
+//Arkhan3 G perso3
+L11D07
+Não, já chega! XXX
+// Arkhan2 L perso2
+L11D08
+Deixa-me passar! Tenho de falar com o Mestre Construtor, é muito importante! XXX
+// Guarda perso32
+L11D09
+Impossível! Tenho ordens: ninguém pode passar! XXX
+// Arkhan2 L perso2
+L11D10A
+Acredita em mim, tenho de falar com o Mestre Construtor. XXX
+// Arkhan2 L perso2
+L11D10B
+Pode ser a única forma de nos salvarmos a todos! XXX
+// Guarda perso32
+L11D11A
+És surdo ou quê? Nenhum estranho tem direito de entrar. XXX
+// Guarda perso32
+L11D11B
+Sobretudo com uma cara como a tua! XXX
+// Arkhan2 L perso2
+L11D12
+Escuta, sei que aqui estão em alerta, mas juro-te que não quero fazer mal ao Mestre Construtor. XXX
+// Guarda perso32
+L11D13A
+Basta! O Mestre Bandor não tem nada que fazer contigo! XXX
+// Guarda perso32
+L11D13B
+Fora da minha vista ou furo-te as banhas! XXX
+// Arkhan2 L perso2
+L11D14
+Talvez se possa arranjar, não? XXX
+// Guarda perso32
+L11D14A
+Não, não se pode arranjar! XXX
+// Guarda perso32
+L11D14B
+Eu vou ficar aqui a morrer de fome e tu vais desaparecer! XXX
+// Arkhan2 L perso2
+L11D15A
+Está bem, obedeces a ordens, compreendo. XXX
+// Arkhan2 L perso2
+L11D15B
+Mas tens aspeto cansado e esfomeado. Talvez possa ajudar-te... XXX
+// Guarda perso32
+L11D16A
+Sim, tenho a impressão de ouvir o meu estômago a gritar-me nos ouvidos. XXX
+// Guarda perso32
+L11D16B
+Mas não esperes que isso me faça abandonar o meu posto! XXX
+// Arkhan2 L perso2
+L11D17A
+Não te preocupes, não tenho intenção de entrar se mo proíbes. XXX
+// Arkhan2 L perso2
+L11D17B
+Mas com tudo o que se passa, devemos preservar as nossas forças, não? XXX
+// Arkhan2 L perso2
+L11D17C
+Tu, por exemplo, se não comeres vais perder a tua concentração. XXX
+// Guarda perso32
+L11D18A
+Tens razão. Não comi nada desde o início do dia. XXX
+// Guarda perso32
+L11D18B
+Não terias algo para pôr à boca? XXX
+// Arkhan2 L perso2
+L11D19
+Vou ver se consigo encontrar algo... XXX
+// Arkhan2 L perso2
+L11D20
+Bem, então deixas-me passar? XXX
+// Guarda perso32
+L11D21A
+Tens o cérebro nublado ou quê? Disse que não! XXX
+// Guarda (cuspindo) perso32
+L11D21B
+Arhhh, a tua conversa secou-me a garganta! XXX
+// Arkhan2 O perso2
+L11D22
+Tira-te daí, tenho de ver o Mestre Construtor! XXX
+// Guarda perso32
+L11D23A
+Vai comer lama, cara de rato! XXX
+// Guarda perso32
+L11D23B
+Ninguém pode passar! Afasta-te! XXX
+// Arkhan2 O (fazendo-se de duro) perso2
+L11D24A
+Não percebeste, amigo. XXX
+// Arkhan2 O (fazendo-se de duro) perso2
+L11D24B
+TU vais-te embora e EU passo! XXX
+// Guarda perso32
+L11D25
+Isso é que havemos de ver! XXX
+// Arkhan2 G perso2
+L11D26
+Deixas-me entrar se te der isto? XXX
+// Guarda perso32
+L11D27
+Ah, é repugnante! Vai-te embora ou arranjo-te o perfil! XXX
+// Guarda perso32
+L11D28
+Deixa lá, ninguém pode entrar, e é tudo! XXX
+// Arkhan2 G perso2
+L11D29
+Vá, aqui está o que vai acalmar a tua fome. XXX
+// Guarda perso32
+L11D30
+Sim! Dá-me isso! XXX
+// Guarda (mastigando) perso32
+L11D31
+Mil Sóis, amigo! Que bem que isto sabe. XXX
+// Guarda (mastigando) perso32
+L11D32
+Hum, sim, isto está bom! XXX
+// Guarda (mastigando) perso32
+L11D33
+Com isto quase se pode cevar uma porca! XXX
+// Guarda (mastigando) perso32
+L11D34
+Isto ilumina as entranhas, adoro! XXX
+// Guarda (termina de engolir) perso32
+L11D35
+Mas estava verdadeiramente muito salgado... XXX
+// Arkhan2 G perso2
+L11D36
+Vá, encontrei isto. Diz-te alguma coisa? XXX
+// Guarda perso32
+L11D37A
+Bastardo da Escuridão, estás a gozar comigo! XXX
+// Guarda perso32
+L11D37B
+Vou arejar-te as tripas! XXX
+// Arkhan2 G perso2
+L11D38
+Vá, bebe um golinho. XXX
+// Guarda perso32
+L11D39
+Não é de recusar! XXX
+// Guarda perso32
+L11D40A
+Mas, está vazio! XXX
+// Guarda perso32
+L11D40B
+Estás a gozar comigo! XXX
+// Guarda perso32
+L11D42A
+Deus Sol, és mesmo imbecil! XXX
+// Guarda perso32
+L11D42B
+Não tenho sede, tenho fome! XXX
+// Arkhan2 G perso2
+L11D43
+A sua alabarda está partida! XXX
+// Arkhan3 G perso3
+L11D44
+A sua arma está partida! XXX

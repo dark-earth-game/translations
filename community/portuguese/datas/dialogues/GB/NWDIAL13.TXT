@@ -1,0 +1,82 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\GB\NWDIAL13.TXT
+// Arkhan2 G (estupefacto) perso2
+L13D01
+Incrível... Um... Um santuário de Antes... XXX
+// Arkhan3 G (estupefacto) perso3
+L13D02
+Incrível... Um... Um santuário de Antes... XXX
+// Arkhan2 G (descobre um mecanismo) perso2
+L13D07
+Isto move-se... XXX
+// Arkhan3 G (descobre um mecanismo) perso3
+L13D08
+Isto move-se... XXX
+// Arkhan2 G (diante de uma consola inoperante) perso2
+L13D09
+Não... a máquina está morta. XXX
+// Arkhan3 G (diante de uma consola inoperante) perso3
+L13D10
+A máquina está morta. XXX
+// Arkhan2 G (examina o arcão criogénico) perso2
+L13D11A
+Uma cama que se fecha como uma caixa. XXX
+// Arkhan2 G perso2
+L13D11B
+O homem lá dentro é tão velho como o Grande Cataclismo. XXX
+// Arkhan3 G perso3
+L13D12A
+Estranha, esta cama... XXX
+// Arkhan3 G perso3
+L13D12B
+E estes restos... um ancião tão velho como o Grande Cataclismo. XXX
+// Arkhan2 G (examina o arcão criogénico) perso2
+L13D13A
+Havia um homem lá dentro... XXX
+// Arkhan2 G perso2
+L13D13B
+Agora não há mais que vidro e sujidade. XXX
+// Arkhan3 G (examina arcão criogénico)perso3
+L13D14
+Não resta mais que sujidade... XXX
+// Arkhan2 L perso2
+L13D15
+Basta, faz demasiado mal! XXX
+// Arkhan2 O perso2
+L13D23
+Acenderam-se umas pequenas luzes verdes! XXX
+// Arkhan3 L perso3
+L13D16
+Não, muito mal! XXX
+// Arkhan3 O perso2
+L13D24
+Acenderam-se umas luzes verdes! XXX
+// Arkhan2 L (examina a consola) perso2
+L13D17
+Que luzes tão belas... nunca as tinha visto antes. XXX
+// Arkhan3 L perso3
+L13D18
+Que são estes pequenos fogos? XXX
+// Arkhan2 O (examina umas ruínas) perso2
+L13D19
+Está tudo destruído! XXX
+// Arkhan3 O (examina umas ruínas)perso2
+L13D20
+Está tudo feito em pedaços! XXX
+// Arkhan2 G perso2
+L13D03
+Nada mais que ruínas... XXX
+// Arkhan3 G perso3
+L13D04
+Umas ruínas... XXX
+// Arkhan2 G perso2
+L13D05
+Tudo desmoronou... XXX
+// Arkhan3 G perso3
+L13D06
+Está tudo desmoronado... XXX
+// Arkhan2 G (examina arcão criogénico)perso2
+L13D21
+Esta cama está partida... Quem repousava aqui não é agora mais que pó... XXX
+// Arkhan3 G (examina arcão criogénico)perso3
+L13D22
+Um antigo de Antes... reduzido a pó... XXX

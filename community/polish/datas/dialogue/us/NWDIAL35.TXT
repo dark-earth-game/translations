@@ -1,0 +1,91 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL35.TXT
+ // Arkhan2 G (discovering the underwater tunnel) perso2
+L35D01
+ Na swietego Rahala, moge chodzic pod woda! XXX
+// Arkhan3 G (discovering the underwater tunnel) perso3
+L35D02
+ Wielki Solaarze, chodze pod woda! XXX
+// Arkhan2 G (inside helmet) perso2
+L35D27
+ Nie ma powietrza... Nie! XXX
+// Arkhan3 G (inside helmet) perso3
+L35D28
+ Brak powietrza... Nie! XXX
+// Arkhan2 G (coming across a drowned body) perso2
+L35D03
+ Biedaczysko... Konkalici zatopili go z kamieniami u butow! XXX
+// Arkhan3 G (coming across a drowned body) perso3
+L35D04
+ Ostatnia ofiara Konkalitow. XXX
+// Arkhan2 G perso2
+L35D100
+ Nie ma tu nic interesujacego. XXX
+// Arkhan3 G perso3
+L35D101
+ Nic tu nie ma. XXX
+// Arkhan2 G perso2
+L35D102
+ Nic nie ma. XXX
+// Arkhan3 G perso3
+L35D103
+ Nic. XXX
+// Arkhan2 G perso2
+L35D104
+ Nic szczegolnego. XXX
+// Arkhan3 G perso3
+L35D105
+ Niczego nie widze. XXX
+// Arkhan2 G (looking at a skeleton) perso2
+L35D07
+ Tak sie wszystko konczy gdy Konkalici posylaja cie na diete... XXX
+// Arkhan3 G (looking at a skeleton) perso3
+L35D08
+ Kolejna ofiara Konkalitow. XXX
+// Arkhan2 L perso2
+L35D09
+ Komnaty tortur Konkalitow. XXX
+// Arkhan3 L perso3
+L35D10
+ Komnata tortur Konkalitow. XXX
+// Arkhan2 O (hitting a cell) perso2
+L35D11
+ Obrzydliwa komnata tortur! XXX
+// Arkhan3 O (hitting a cell) perso3
+L35D12
+ Obrzydliwi Konkalici! XXX
+// Arkhan2 L perso2
+L35D15
+ Stara beczulka. XXX
+// Arkhan2 O (crashing around) perso2
+L35D16
+ Tylko nie kolejna glupia beczka! XXX
+// Arkhan3 L perso3
+L35D17
+ Stara beczka. XXX
+// Arkhan3 O (crashing around) perso3
+L35D18
+ Parszywe beczulki! XXX
+// Arkhan2 G (searching skeleton) perso2
+L35D19
+ Nic poza koscmi... XXX
+// Arkhan3 G (searching skeleton) perso3
+L35D20
+ Kosci! XXX
+// Arkhan2 G (finding object under skeleton) perso2
+L35D21
+ Hej, moge to pozyczyc?... chyba, ze nadal tego potrzebujesz. XXX
+// Arkhan3 G (finding object under skeleton) perso3
+L35D22
+Kurcze....Dzieki kolego! XXX
+// Arkhan2 G perso2
+L35D23
+ Ruiny ze Starego Swiata... XXX
+// Arkhan3 G perso3
+L35D24
+ Ruiny ze Starego Swiata... XXX
+// Arkhan2 G (sea monster) perso2
+L35D25
+ Nieee, zbyt twarde do jedzenia! XXX
+// Arkhan3 G ("searching" the sea monster) perso3
+L35D26
+ Nie... nic do przegryzienia! XXX

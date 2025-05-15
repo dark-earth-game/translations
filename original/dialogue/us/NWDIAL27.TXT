@@ -1,0 +1,265 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL27.TXT
+ // Arkhan2 G perso2
+L51D111
+ It's too hot, I can't go on. XXX
+// Arkhan3 G perso3
+L51D112
+ The heat! I can't go any closer... XXX
+// Konkalite4 perso74
+L27D01
+ Your turn, scum! XXX
+// Phedoria perso26
+L20D38
+ You just signed your death warrant, Arkhan! XXX
+// Arkhan2 L perso2
+L20D30
+ Why don't we settle this right now? XXX
+// Arkhan2 O perso2
+L20D31
+ Let's settle this right now! XXX
+// Arkhan3 L perso3
+L20D32
+ Settle this, now! XXX
+// Arkhan3 O perso3
+L20D33
+ You talk! XXX
+// Lory perso15
+L20D34
+ We can't stay here. Come on. XXX
+// Arkhan2 G perso2
+L20D35
+ But... Great Sunseer... XXX
+// Arkhan3 G perso3
+L20D36
+ Great Sunseer... XXX
+// Lory perso15
+L20D37
+ Listen to me! Come on, lets go! XXX
+// Arkhan2 L perso2
+L20D39
+ Phedoria, what's going on? XXX
+// Arkhan2 O perso2
+L20D40
+ Hey..what's going on? XXX
+// Arkhan3 L perso3
+L20D41
+ Phedoria, tell me! XXX
+// Arkhan3 O perso3
+L20D42
+ Tell me! XXX
+// Phedoria perso26
+L20D43
+ Lory will explain! XXX
+// Arkhan2 G perso2
+L20D44
+ But... Captain... XXX
+// Arkhan3 G perso3
+L20D45
+ Captain... XXX
+// Phedoria perso26
+L20D46
+ Follow us! XXX
+// Arkhan2 G perso2
+L27D01A
+ That represents the combat waged by the founders before they made it to the Stallite. XXX
+// Arkhan2 G perso2
+L27D01B
+ I always thought this monster was just a legend... XXX
+// Arkhan2 G perso2
+L27D01C
+ After what's happened to me, I've changed my mind! XXX
+// Arkhan3 G perso3
+L27D02A
+ The combat waged by the founders before they made it to the Stallite. XXX
+// Arkhan3 G perso3
+L27D02B
+ I wonder which I want to be, man or monster! XXX
+// Arkhan2 G perso2
+L27D03A
+ The building of the Stallite. XXX
+// Arkhan2 G perso2
+L27D03B
+ They say the first men born under the light didn't live to see the construction completed. XXX
+// Arkhan3 G perso3
+L27D04A
+ The building of the Stallite. XXX
+// Arkhan3 G perso3
+L27D04B
+ Hundreds of men lost their lives. XXX
+// Arkhan2 G perso2
+L27D05A
+ The completed Stallite. XXX
+// Arkhan2 G perso2
+L27D05B
+ Not a day went by without prayers imploring the Sun God to continue shining. XXX
+// Arkhan2 G perso3
+L27D05C
+ This time, prayers won't be enough! XXX
+// Arkhan3 G perso3
+L27D06A
+ The Stallite. XXX
+// Arkhan3 G perso3
+L27D06B
+ Blessed by the light of the Sun God. XXX
+// Arkhan3 G perso3
+L27D06C
+You'd like to think so! XXX
+// Arkhan2 G perso2
+L27D07A
+ This represents the great light that shines on top of the temple. XXX
+// Arkhan2 G perso2
+L27D07B
+ It sends the Sun God's rays deep into the Darklands. It's the pride of the Sunseers. XXX
+// Arkhan3 G perso3
+L27D08A
+ This represents the great light that shines on top of the temple. XXX
+// Arkhan3 G perso3
+L27D08B
+ It casts the rays of the Sun God deep, deep into the Darklands. XXX
+// Arkhan2 G perso2
+L27D09A
+ I can't figure out what this is. XXX
+// Arkhan2 G perso2
+L27D09B
+ Maybe it's a statue, a relic from Before... XXX
+// Arkhan3 G perso3
+L27D10
+ I don't know what that is. XXX
+// Arkhan2 G perso2
+L27D11
+ It's the huge luminous stone statue that's in the grotto! XXX
+// Arkhan3 G perso3
+L27D12
+ It's the statue in the grotto! XXX
+// Arkhan2 G perso2
+L27D13A
+ The Scavengers. XXX
+// Arkhan2 G perso2
+L27D13B
+ People always say they're the lazy good-for-nothings of the Stallite. XXX
+// Arkhan2 G perso2
+L27D13C
+ That all they know how to do is rummage through debris from Before and comb the muck for something to eat. XXX
+// Arkhan2 G (smiling to himself) perso2
+L27D13D
+ But the people who say that never met Danrys or Kalhi or the others... XXX
+// Arkhan3 G perso3
+L27D14A
+ The Scavengers. XXX
+// Arkhan3 G perso3
+L27D14B
+ They live by scavenging, recycling, bartering. XXX
+// Arkhan3 G perso3
+L27D14C
+ But not all of them are lazy good-for-nothings. XXX
+// Arkhan3 G (smiling to himself) perso3
+L27D14D
+ Just take a look at Kalhi and Danrys... XXX
+// Arkhan2 G perso2
+L27D15A
+ The Providers. XXX
+// Arkhan2 G perso2
+L27D15B
+ They live in the Lower City with the Scavengers. XXX
+// Arkhan2 G perso2
+L27D15C
+ Fishing, hunting, planting crops. They feed the Stallite. XXX
+// Arkhan3 G perso3
+L27D16A
+ The Providers. XXX
+// Arkhan3 G perso3
+L27D16B
+ They live in the Lower City with the Scavengers. XXX
+// Arkhan3 G perso3
+L27D16C
+ Fishing, hunting, planting crops. They feed us. XXX
+// Arkhan2 G perso2
+L27D23A
+ The Builders. XXX
+// Arkhan2 G perso2
+L27D23B
+ They built the Stallite the way the Sunseers told them to. XXX
+// Arkhan2 G perso2
+L27D23C
+ They make everything: buildings, tools, furniture... XXX
+// Arkhan3 G perso3
+L27D24A
+ The Builders. XXX
+// Arkhan3 G perso3
+L27D24B
+ They built the Stallite for the Sunseers. XXX
+// Arkhan3 G perso3
+L27D24C
+ Buildings, tools, furniture: they make everything. XXX
+// Arkhan2 G perso2
+L27D17A
+ The Guardians of Fire. XXX
+// Arkhan2 G perso2
+L27D17B
+ Serving the population of the Stallite day and night, offering protection, fire and light. XXX
+// Arkhan2 O perso2
+L27D17C
+ Yeah, sure! XXX
+// Arkhan3 G perso3
+L27D18A
+ The Guardians of Fire. XXX
+// Arkhan3 G perso3
+L27D18B
+ Protectors of the Stallite and its people. XXX
+// Arkhan3 O perso3
+L27D18C
+ Lies! XXX
+// Arkhan2 G perso2
+L27D19A
+ The Sunseers. XXX
+// Arkhan2 G perso2
+L27D19B
+ The Initiates of the Sun God, keepers of the faith. XXX
+// Arkhan2 G perso2
+L27D19C
+ They guide us and protect us from heresy. XXX
+// Arkhan2 O perso2
+L27D19D
+ When they're not busy hunting down the people who help them! XXX
+// Arkhan3 G perso3
+L27D20A
+ The Sunseers. XXX
+// Arkhan3 G perso3
+L27D20B
+ Initiates of the Sun God, our guides. XXX
+// Arkhan3 O perso3
+L27D20C
+ Blind, superstitious guides! XXX
+// Arkhan2 G perso2
+L27D21A
+ The council. XXX
+// Arkhan2 G perso2
+L27D21B
+ The engraving represents this chamber. XXX
+// Arkhan2 G perso2
+L27D21C
+ This is where Lory and her advisors make their decisions. XXX
+// Arkhan3 G perso3
+L27D22A
+ The council. Right here. XXX
+// Arkhan3 G perso3
+L27D22B
+  Here's where Lory and her advisors make their decisions. XXX
+// Arkhan2 G perso2
+L27D25A
+ The statue of Thelen Khron, founder of  the Stallite. XXX
+// Arkhan2 O perso2
+L27D25B
+ The Sunseers are living in the past! XXX
+// Arkhan3 G perso3
+L27D26
+ The founder of the Stallite XXX
+// Arkhan1 G perso1
+L27D27
+ What do you want? XXX
+// Konkalite4 perso74
+L27D28
+ Your life! XXX
+// Konkalite4 perso74
+L27D29
+ Die! XXX

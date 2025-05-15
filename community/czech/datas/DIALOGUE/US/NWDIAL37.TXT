@@ -1,0 +1,145 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL37.TXT
+ // Arkhan2 G perso2  (spricht unter seinem Helm)
+L37D01A
+ Já jsem venku! XXX
+// Arkhan2 G perso2  (spricht unter seinem Helm)
+L37D01B
+ Opustil jsem Stallit. XXX
+// Arkhan3 G perso3 (spricht unter seinem Helm)
+L37D02A
+ Jsem venku! XXX
+// Arkhan3 G perso3 (spricht unter seinem Helm)
+L37D02B
+ Opustil jsem Stallit. XXX
+// Arkhan2 G perso2 (spricht unter seinem Helm)
+L37D03
+ Ta vec zde je príliš tezká. Musím ji zanechat. XXX
+// Arkhan3 G perso3
+L37D04
+ Tato vec je príliš tezká. Ach, já ji jednoduše odhodím! XXX
+// Arkhan2 G (sieht eine Kreatur)perso2
+L37D01C
+ Vypadáš, jak já ocekával! XXX
+// Arkhan3 G (sieht eine Kreatur)perso3
+L37D02C
+ Vypadá to, jako bych mnel spolecnost! XXX
+// Arkhan2 G perso2
+L37D05
+ Je to hluboký ... Je to lepší, já nepùjdu príliš daleko. XXX
+// Arkhan3 G perso3
+L37D06
+ Hluboký ... Nedá se moc daleko. XXX
+// Arkhan2 G perso2
+L37D07
+ Odsud to vypadá jako pevnostní val a kasárna Strázcù ohnù. XXX
+// Arkhan3 G perso3
+L37D08
+ Vypadá to jako pevnost a kasárna. XXX
+// Arkhan2 G perso2
+L37D09
+ Vchod do jeskyne! XXX
+// Arkhan3 G perso3
+L37D10
+ Jeskyne! XXX
+// Arkhan2 G (taucht ins Wasser)perso2
+L37D11
+ Musím si helmu opet nasadit ... XXX
+// Arkhan3 G (taucht ins Wasser)perso3
+L37D12
+ Musím nasadit helmu ... XXX
+// Arkhan2 L perso2
+L37D13A
+ Co je, ty se jiz vzdáš?! XXX
+// Arkhan2 L perso2
+L37D13B
+ Máš strach z jeskyne? XXX
+// Arkhan2 O perso2
+L37D14
+ Nedùveruješ si jít dál, souhlasí, posraná Kreaturo? XXX
+// Arkhan3 L perso3
+L37D15A
+ Máš strach, mám pravdu? XXX
+// Arkhan3 L perso3
+L37D15B
+ Strach pred jeskyní!? XXX
+// Arkhan3 O (wütend) perso3
+L37D16
+ Pojd prece blíz! Bojuj o svùj zivot! XXX
+// Arkhan2 G perso2
+L37D17
+ Pojd! Já mám drápy! XXX
+// Arkhan3 G perso3
+L37D18
+ Pojd blíze, nestvùro! XXX
+// Arkhan2 L perso2
+L37D19A
+ Co z tebe predtím bylo? Clovek, zvíre? XXX
+// Arkhan2 L perso2
+L37D19B
+ Já musím prostredek najít, dríve já take bytostí byl! XXX
+// Arkhan3 L perso3
+L37D20A
+ Co dríve z tebe bylo ... clovek? Zvíre? XXX
+// Arkhan3 L perso3
+L37D20B
+ Musím se opet uzdravit ... nicht so werden ... XXX
+// Arkhan2 O perso2
+L37D21
+ Proklatá Kreaturo! XXX
+// Arkhan3 O perso3
+L37D22
+ Proklatá Kreaturo! XXX
+// Arkhan2 L perso2
+L37D23
+ Rekni jiz, máš strach pred vodou? Proto chceš trochu ocistit? XXX
+// Arkhan3 L perso3
+L37D24
+ Strach pred vodou, souhlasí? XXX
+// Arkhan2 L perso2
+L37D25A
+ Tento kousek mel docela pekne zuby! XXX
+// Arkhan2 L perso2
+L37D25B
+ Pokud já hrobku nenajdu, veškere obyvatelstvo Stallitù zemrou! XXX
+// Arkhan3 L perso3
+L37D26A
+ Docela pekne zuby! XXX
+// Arkhan3 L perso3
+L37D26B
+ Musím rychle pracovat nebo nestvùry dobudou Stallit. XXX
+// Arkhan2 G perso2
+L37D27
+ Nic nez stare zrezivele trosky ... XXX
+// Arkhan3 G perso3
+L37D28
+ Stare zrezivele trosky ... XXX
+// Arkhan2 G perso2
+L37D29
+ Sám Danrys by s tím nic neudelal. XXX
+// Arkhan2 G perso2
+L37D31
+ Která Kreatura má tak velký kosti? XXX
+// Arkhan3 G perso3
+L37D32
+ Kosti nejakeho zvírete ... nejakeho obrovskeho zvírete ... XXX
+// Arkhan2 G perso2
+L37D33A
+ Urinspuren auf der Erde ... XXX
+// Arkhan2 G perso2
+L37D33B
+ Und ein Tiergeruch. XXX
+// Arkhan3 G perso3
+L37D34
+ Mocová stopa ... a odporný smrad! XXX
+// Arkhan2 G (findet Fischgräten)perso2
+L37D35
+ Zbytky jídla ... XXX
+// Arkhan3 G (findet Fischgräten)perso3
+L37D36
+ Zbytky ... XXX
+// Arkhan2 G perso2
+L37D37
+ Zvláštní, zde je teplá stena ... XXX
+// Arkhan3 G perso3
+L37D38
+ Cítím teplo. XXX

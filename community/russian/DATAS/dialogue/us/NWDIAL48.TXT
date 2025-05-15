@@ -1,0 +1,229 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL48.TXT
+ // Konkalite5 perso75
+L48D01
+ Hldkl~txm| au~ lZc - ]wkouo fdtfd! XXX
+// Kalhi perso13
+L48D04
+ +Ze dq mz_Z, nw... iamsZmniwe mnZlwe qlws! XXX
+// Malrot3 perso63
+L48D05
+ &jlj]fZ! Kw idsa^j ia kjgosdtx! XXX
+// Kalhi (afraid) perso33
+L04D41
+ #lqZi! Pnj iZtgj iZ na[|? XXX
+// Malrot3 perso63
+L48D35
+ Fdfj^_Z ia kjnZfZg ]jlZh d ia qjso m]jdq klZ]dg hai|nx! XXX
+// Malrot3 (fearful) perso63
+L48D106
+ Ve, ye, ia fdk|ndmx, qjljtj? XXX
+// Kalhi (having killed the Malrot) perso13
+L48D13
+ X ]j]ma ia qjnagZ... XXX
+// Kalhi perso13
+L48D14
+ Fj ji ia jmnZ]dg iZh ]w[jlZ... XXX
+// Kalhi perso13
+L48D15
+ <mgd kjiZ_j[gzmx, | [o_o o +ZildmZ. XXX
+// Kalhi perso13
+L48D16
+ &jcxhd qjnx kZnljiw... sagj]af cZ idq bdcix jn_Zg. XXX
+// Malrot3 perso63
+L48D51
+ L hai| au~ jmnZgZmx lofZ! XXX
+// Kalhi perso13
+L48D46
+ +Ze dq mz_Z! XXX
+// Malrot3 perso63
+L48D47
+ Fan! Kw ba homjludrZ. Kw ciZatx, snj | dhd njl^oz. XXX
+// Kalhi perso13
+L48D48
+ Kw _jgbai dq hia! XXX
+// Malrot3 perso63
+L48D49
+ JgotZe, _jmnZgZ oba... X kjgjbo fjiar n]jdh hosaid|h. XXX
+// Kalhi perso13
+L48D50
+ Kw? JnZlwe j_ijlofde [Zi_dn? +Z snj nw m_agZatx hia?! XXX
+// Kalhi perso13
+L48D52
+ Kw mgwtZg, jn_Ze hia kZnljiw! XXX
+// Malrot3 perso63
+L48D53
+ +Z, _Z. X mgwtZg. XXX
+// Kalhi perso13
+L48D54
+ FZklZtd]Zatxm|, ohidf! XXX
+// Malrot3 perso63
+L48D55
+ X _jgbai dmko^Znxm|? XXX
+// Kalhi perso13
+L48D06
+ #lqZi! CZf | na[a lZ_Z! Vnjn kj_jijf hai| oba ] fjiar _jmnZg! XXX
+// Malrot3 perso63
+L48D07A
+ GiZ kwnZanm| oflZmnx hjd kZnljiw f ^ljhj[jz! XXX
+// Malrot3 perso63
+L48D07B
+ # | ]a_x sonx ia kjkgZndgm| cZ idq kjmga_iae lofjz! XXX
+// Kalhi perso13
+L48D08A
+ Gi _jgbai dq hia m iacZkZh|niwq ]lah~i. XXX
+// Kalhi perso13
+L48D08B
+ A kjlZ kgZndnx kj msanZh. Njso kZnljiw! XXX
+// Kalhi perso13
+L48D08C
+ &a_x na[a kld^j_|nm|. XXX
+// Malrot3 perso63
+L48D09
+ Hldfjmidmx fj hia - d nw kjbZgaatx, snj lj_dgZmx! XXX
+// Kalhi perso13
+L48D43
+ +Z]Ze, kjhj^d hia! XXX
+// Malrot3 perso63
+L48D44
+ Ka[a iobij, hZgwtfZ, snj[w na[| cZ losfo _albZgd ] [jz? XXX
+// Malrot3 perso63
+L48D45
+ Kw ia kjgosdtx kZnljij]. <mgd njgxfj salac hje nlok! XXX
+// Kalhi perso13
+L48D10
+ Hjhj^d, #lqZi! XXX
+// Malrot3 perso63
+L48D11A
+ Vnj hab_o iae d hije! XXX
+// Malrot3 perso63
+L48D11B
+ Fa gacx ia ] m]j~ _agj, ia nj kjciZfjhdtxm| fja m fah dc hjdq _locae! XXX
+// Kalhi perso13
+L48D12
+ #lqZi, snj nw _agZatx? Hjhj^d hia? XXX
+// Malrot7 perso67
+L48D02
+ Kw kjbZgaatx j[ ynjh! XXX
+// Malrot7 perso67
+L48D03
+ &aliogm| - ynj cl|! XXX
+// Kalhi (calling) perso13
+L48D103
+ #lqZi! #lqZi! XXX
+// Kalhi perso13
+L48D104
+ Kakalx nw [o_atx mZh kj ma[a. Eai| [jgxta ian! XXX
+// Arkhan2 L perso2
+L48D17
+ CZgd, ia mnjdgj na[a [wgj nlj^Znx ynj^j mnZldfZ. XXX
+// Arkhan2 O perso2
+L48D18
+ +Z [ljmx, CZgd, ji ]a_x mj]mah mnZldf! XXX
+// Arkhan3 L perso3
+L48D19
+ CZgd, ji mj]mah mnZldf. XXX
+// Arkhan3 O perso3
+L48D20
+ CZgd, ia nlj^Ze a^j! XXX
+// Kalhi perso13
+L48D21A
+ Gi fja-snj _jgbai, d iZmnZgj ]lah| kgZndnx. Hji|nij?! XXX
+// Kalhi perso13
+L48D21B
+ &m~ ynj lZ_d na[|! XXX
+// Arkhan2 L perso2
+L48D22
+ Fo, [ljmx, ia [o_atx ba nw _lZnxm| dc-cZ nZfje hagjsd, klZ]_Z? XXX
+// Arkhan2 O perso2
+L48D23
+ Vnj ]ma^j gdtx _la]ide qgZh! *jnj]Z cZ ynj o[dnx?! XXX
+// Arkhan3 L perso3
+L48D24
+ Vnj ia mnjdn nj^j, snj[ _lZnxm|... XXX
+// Arkhan3 O perso3
+L48D25
+ Gnrakdmx! XXX
+// Kalhi perso13
+L48D26
+ +j ia^j kljmnj ia _jqj_dn malx~cijmnx hjdq iZhalaide! XXX
+// Arkhan2 L perso2
+L48D27
+ CZgd, kj[ala^d m]jz bdcix! XXX
+// Arkhan2 O perso2
+L48D28
+ Ve, njgxfj | jn]aliomx, fZf nw duatx klj[gahw! X ia hj^o na[| jmnZ]dnx iZ _]a hdionw! XXX
+// Arkhan3 L perso3
+L48D29
+ CZgd! N]Zndn! XXX
+// Arkhan3 O perso3
+L48D30
+ Kw qjsatx hai| cZmnZ]dnx kldfjisdnx mnZldfZ! XXX
+// Kalhi perso13
+L48D31
+ Gi kal]we! XXX
+// Kalhi (A. showing her an object during the fight)perso13
+L48D32
+ #lqZi, maesZm ia ]lah| ] "o^Z_Zefo" d^lZnx! XXX
+// Arkhan2 G perso2
+L48D100
+ Kw mjtgZ m ohZ! XXX
+// Arkhan3 G perso3
+L48D101
+ JjtgZ m ohZ! XXX
+// Kalhi (forced to defend herself) perso13
+L48D102
+ #lqZi! Kw snj?! XXX
+// Malrot3 perso63
+L48D105
+ Kjsij! $gamf! IZc[aldnamx hab_o mj[je! $ac hai|! XXX
+// Arkhan2 L perso2
+L48D33A
+ Kw [ gosta _Zg iZh kZnljiw... XXX
+// Arkhan2 L perso2
+L48D33B
+ JgotZe, jid ia mnj|n flj]jkljgdnd|... XXX
+// Arkhan3 L perso3
+L48D34
+ Gn_Ze iZh kZnljiw... Fa mnjdn ohdlZnx cZ idq. XXX
+// Arkhan2 L perso2
+L48D36A
+ Fj CZgd ^j]jldn, nw _jgbai ae! XXX
+// Arkhan2 L perso2
+L48D36B
+ Jhdldmx oba... XXX
+// Arkhan3 L perso3
+L48D37
+ Kw ba _jgbidf... Jhdldmx oba... XXX
+// Malrot3 perso63
+L48D38
+ JZh mhdldmx oba! Gncj]d m]jz tZ]fo, kjfZ | mZh ae kZmnx ia cZnfiog! XXX
+// Arkhan2 O (menacingly)perso2
+L48D39
+ +Zz kjmga_ide tZim! *jid kZnljiw! XXX
+// Arkhan3 O (menacingly)perso3
+L48D40
+ Hjmga_ide tZim! HZnljiw dgd bdcix! XXX
+// Malrot3 (overwhelmed)perso63
+L48D41
+ Fo,  qjljtj, qjljtj... XXX
+// Malrot3 perso63
+L48D42
+ Fj ]w au~ ]mkjhidna j[j hia, udkZsd! XXX
+// Kalhi perso13
+L48D56
+ Ejgj_ar, #lqZi. $gZ^j_Zl| na[a, o iZm nj, snj iZh iobij. XXX
+// Malrot3 (attacked by A. and Kalhi)perso63
+L48D57
+ +]ja iZ j_ij^j! Pnj cZ nlomw! XXX
+// Arkhan2 G perso2
+L48D668
+ Jz_Z mgd]Zan jnqj_w ]amx Fdbide ^jlj_... XXX
+// Arkhan3 G perso3
+L48D669
+ &m| ^jlj_mfZ| ^l|cx... XXX
+// Arkhan2 G perso2
+L48D666
+ &j_w hjlmfj^j cZgd]Z nafon salac Fdbide ^jlj_. XXX
+// Arkhan3 G perso3
+L48D667
+ Vnj ]j_w hjlmfj^j cZgd]Z... XXX

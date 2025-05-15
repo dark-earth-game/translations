@@ -1,0 +1,41 @@
+00:28:08	00:29:20		{Automatyczna projekcja z Holotreku}
+00:29:24	00:31:18		{26 grudnia 2054.}
+00:32:16	00:33:14		{Nagrywamy te wiadomosc}
+00:33:16	00:35:20		{w podziemnym bunkrze Odrodzenie A-1}
+00:36:12	00:37:08		{okolo szesc godzin po tym jak}
+00:37:10	00:39:04		{pierwszy meteoryt uderzyl}
+00:39:06	00:40:06		{na Bliskim Wschodzie.}
+00:40:28	00:41:20		{Tak jak sie obawialismy,}
+00:41:22	00:42:18		{wysilki Aniola Stroza}
+00:42:20	00:43:20		{majace na celu zmienienie toru lotu meteorytu}
+00:43:22	00:45:24		{spelzly na niczym.}
+00:46:02	00:47:00		{Trajektoria lotu komety}
+00:47:02	00:47:22		{minela nasza planete}
+00:47:24	00:49:18		{o kilka tysiecy mil.}
+00:49:26	00:51:26		{Zgodnie z doniesieniami przychodzacymi z calego swiata,}
+00:51:28	00:53:06		{ponad tysiac piecset meteorytow}
+00:53:08	00:54:16		{uderzylo juz w powierzchnie Ziemi,}
+00:54:18	00:56:24		{a najwieksze uderza w nasza planete}
+00:56:26	00:58:20		{w przeciagu nastepnych dwunastu godzin...}
+00:59:00	00:59:26		{Nasz kontynent juz jest}
+00:59:28	01:01:00		{targany pozarami,}
+01:01:02	01:02:02		{erupcjami wulkanicznymi}
+01:02:04	01:03:20		{i powodziami.}
+01:04:16	01:06:04		{30% atmosfery juz zostalo}
+01:06:06	01:08:08		{zanieczyszczone gigantycznymi chmurami pylu}
+01:08:10	01:10:02		{wznieconymi przez sile zderzenia z meteorytami,}
+01:10:04	01:11:06		{zas caly glob}
+01:11:08	01:13:12		{stoi w obliczu nuklearnej zimy.}
+01:13:20	01:15:16		{Termin "katastrofa srodowiska naturalnego"}
+01:15:18	01:16:28		{stracil na znaczeniu.}
+01:17:00	01:18:24		{Nasze najbardziej optymistyczne przewidywania}
+01:18:26	01:20:16		{zakladaja, ze 87.3%}
+01:20:18	01:21:20		{calego ziemskiego zycia}
+01:21:22	01:22:28		{stoi w obliczu zaglady.}
+01:23:06	01:24:10		{Projekt Odrodzenie}
+01:24:12	01:25:28		{to ostatnia proba uratowania...}
+01:26:18	01:28:20		{...Rozne technologie beda przechowane...}
+01:30:14	01:32:00		{...Uzywamy pojemnikow kriogenicznych,}
+01:32:18	01:33:24		{ktore pozwola nam...}
+01:34:12	01:35:28		{odbudowac cywilizacje...}
+01:36:08	01:38:18		{Oto procedury reaktywujace...}

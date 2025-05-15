@@ -1,0 +1,637 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL39.TXT
+ // Arkhan2 G perso2
+L39D110
+ Trzeba sporo odwagi, zeby tam spac. XXX
+// Arkhan3 G perso3
+L39D111
+ Spac tam... Trzeba by sporo odwagi... XXX
+// Leona (imperiously) perso14
+L39D01A
+ Kim jestes? XXX
+// Leona (imperiously) perso14
+L39D01B
+ Co robisz na moim terenie? XXX
+// Leona (angry) perso14
+L39D107
+ Jak smiesz wracac?! XXX
+// Leona perso14
+L39D03A
+ Arkhan. XXX
+// Leona perso14
+L39D03B
+ Czego chcesz ode mnie? XXX
+// Leona perso14
+L39D02
+ Znowu ty? XXX
+// Leona (warily) perso14
+L39D04
+ Spokojnie! Nie musisz sie mnie obawiac. XXX
+// Leona (attacked by A.) perso14
+L39D108
+ Stales sie niewolnikiem ciemnosci! XXX
+// Leona (relaxing) perso14
+L39D05
+ Tak lepiej. Uspokoj sie, a wtedy mozemy porozmawiac. XXX
+// Arkhan2 L perso2
+L39D06A
+ Nazywam sie Arkhan, jestem synem Rylsadhara.  XXX
+// Arkhan2 L perso2
+L39D06B
+ Przybywam w pokoju.  XXX
+// Arkhan2 O perso2
+L39D07A
+ Jestem Arkhan, syn Rylsadhara.  XXX
+// Arkhan2 O perso2
+L39D07B
+ Czy ty jestes czarownica Leona? XXX
+// Leona (on the defensive) perso14
+L39D08A
+ Arkhan powiadasz. Znam twojego ojca. XXX
+// Leona perso14
+L39D08B
+ Ale nigdy przedtem cie nie widzialam. XXX
+// Leona perso14
+L39D08C
+ Skad mam wiedziec, ze mowisz prawde? XXX
+// Arkhan2 L perso2
+L39D09A
+ Dowod?  XXX
+// Arkhan2 L perso2
+L39D09B
+ Nie moge ci zaoferowac nic poza moim slowem! XXX
+// Arkhan2 O perso2
+L39D10A
+ Nic. XXX
+// Arkhan2 O perso2
+L39D10B
+ Ale jesli chcesz przezyc lepiej mi uwierz! XXX
+// Leona perso14
+L39D11A
+ To niewiele... XXX
+// Leona perso14
+L39D11B
+ Ale twoje slowa nie sa skazone klamstwami. XXX
+// Leona perso14
+L39D11C
+ Czuje, ze moge ci zaufac. XXX
+// Arkhan2 L perso2
+L39D18A
+ Sytuacja jest powazna.  XXX
+// Arkhan2 L perso2
+L39D18B
+ Stallite zostala owladniete Mrokiem. XXX
+// Arkhan2 O perso2
+L39D19A
+ Hej paniusiu, gdybys przypadkiem nie zauwazyla, wszyscy tam powariowali! XXX
+// Arkhan2 O perso2
+L39D19B
+ Stallite zostalo owladniete przez Mrok. XXX
+// Leona (alarmed) perso14
+L39D20A
+ Studnia Swietej Swiatlosci! XXX
+// Leona (alarmed) perso14
+L39D20B
+ Kto mogl uczynic cos takiego? XXX
+// Arkhan2 G perso2
+L39D21A
+ Wydaje sie, ze wiele wiesz. XXX
+// Arkhan2 G perso2
+L39D21B
+ Patrzacy w Slonce renegat o imieniu Thanandar. XXX
+// Leona (stupefied) perso14
+L39D22
+ Thanandar uzdrowiciel?! XXX
+// Arkhan2 G perso2
+L39D23A
+ Niegdys byl uzdrowicielem...  XXX
+// Arkhan2 G perso2
+L39D23B
+ Teraz nie jest nawet czlowiekiem. XXX
+// Arkhan2 G perso2
+L39D23C
+ Odpowiada za smierc Zeda i mojego ojca! XXX
+// Arkhan2 G perso2
+L39D24
+ Thanandar zarazil mojego ojca w taki sam sposob jak zrobil to ze mna. XXX
+// Arkhan2 G perso2
+L39D25
+ Thanandar zarazil Zeda w taki sam sposob jak zrobil to ze mna. XXX
+// Arkhan2 G perso2
+L39D26A
+ Nie byl juz soba... oszalaly z bolu... oslepiony... XXX
+// Arkhan2 G perso2
+L39D26B
+ Thanandar zmusil go by dotknal Studni Swietej Swiatlosci. XXX
+// Arkhan2 G perso2
+L39D26C
+ Byly blyski piorunow, a Studnia Swiatlosci przestala lsnic, tak jakby wypelnila sie tym czarnym paskudztwem. XXX
+// Arkhan2 G perso2
+L39D26D
+ Zaraz potem Calun Mroku ogarnal Stallite. XXX
+// Arkhan2 L perso2
+L39D33A
+ Szukam pewnego miejsca. Wielka Patrzaca nazywa je Krypta. XXX
+// Arkhan2 L perso2
+L39D33B
+ To tajemne miejsce, ktorego moj ojciec szukal przez wiele lat. XXX
+// Arkhan2 L perso2
+L39D34A
+ Musze znalezc jego zapiski. Ukryto je w jakims tajnym miejscu. XXX
+// Arkhan2 L perso2
+L39D34B
+ Potrzebuje krysztalowego klucza zrobionego z wielu czesci. XXX
+// Arkhan2 O perso2
+L39D35A
+ Lory powiedziala mi o pewnym miejscu, o "Krypcie". XXX
+// Arkhan2 O perso2
+L39D35B
+ To nasza ostatnia nadzieja, ale moj ojciec jest jedyna osoba, ktora wie jak sie tam dostac... prawdopodobnie! XXX
+// Arkhan2 O perso2
+L39D36A
+ Musze miec klucz aby dostac sie do miejsca, w ktorym ukryl swoje zapiski. XXX
+// Arkhan2 O perso2
+L39D36B
+ Klucz, klucz.. Krysztalowy klucz skladajacy sie z wielu czesci! XXX
+// Leona perso14
+L39D37A
+ Masz racje. Nadeszla pora by dzialac. XXX
+// Leona perso14
+L39D37B
+ Lory to madra kobieta. Wiem, ze nigdy nie ujawnilaby tych rzeczy gdyby nie bylo to wazne. XXX
+// Leona perso14
+L39D37C
+ Pomoge ci Arkhan.  XXX
+// Arkhan2 G perso2
+L39D40A
+ Czy moj ojciec nie odwiedzil cie ostatnio? XXX
+// Leona perso14
+L39D41A
+ Nie, nie widzialam Rylsadhara od wielu, wielu ksiezycow. XXX
+// Leona perso14
+L39D41B
+ Wiem, ze martwil sie. Sadze, ze przeczuwal nadejscie tych mrocznych wydarzen. XXX
+// Leona perso14
+L39D41C
+ Twoj ojciec nalezal do Wtajemniczonych, byl jednym z niewielu, ktorzy wiedzieli o Krypcie i Studni Swiatlosci. XXX
+// Leona perso14
+L39D41D
+ Byl takze jednym z nielicznych dysponujacych moca dotkniecia Studni Swiatlosci. XXX
+// Leona perso14
+L39D41E
+ Dlatego Thanandar schwytal go! XXX
+// Arkhan2 L perso2
+L39D43A
+ Niczego mi to wszystko nie mowi. XXX
+// Arkhan2 L perso2
+L39D43B
+ Co to jest ta "Studnia Swiatlosci"? XXX
+// Arkhan2 O perso2
+L39D44A
+ Po uszy mam tych wszystkich tajemnic! XXX
+// Arkhan2 O perso2
+L39D44B
+ Niech ktos mi powie co tu tak naprawde sie dzieje?! XXX
+// Leona perso14
+L39D45A
+ Jak sie domysliles Studnia Swiatlosci i... Krypta... sa ze soba powiazane. XXX
+// Leona perso14
+L39D45B
+ Studnia Swiatlosci byla darem. Czerpie moc z Krypty by bronic nas przed Mrokiem. XXX
+// Leona perso14
+L39D45C
+ Ta moc, niewidzialna dla ludzkich oczu, wypelnia ziemie dokola Stallite. XXX
+// Leona perso14
+L39D45D
+ Broni nas przed Calunem Mroku i jego slugusami. XXX
+// Leona perso14
+L39D45E
+ Przyciaga tez promienie Boskiego Slonca, ktore daja nam sile i oslabiaja naszych wrogow. XXX
+// Leona perso14
+L39D45F
+ Ale bez Studni Swiatlosci jestesmy skazani na Mrok. XXX
+// Arkhan2 G perso2
+L39D46A
+ Czemu nikt inny nie wiedzial o tych miejscach swiatlosci? XXX
+// Arkhan2 G perso2
+L39D46B
+ I co Zed, Lory i moj ojciec maja z tym wszystkim wspolnego? XXX
+// Leona perso14
+L39D47A
+ Zed, Rylsadhar oraz Wielka Patrzaca - jak rowniez ja i kilku innych - byli powiazani... paktem. XXX
+// Leona perso14
+L39D47B
+ Paktem, ktory swych poczatkow siega pradawnych czasow jeszcze sprzed Wielkiego Kataklizmu. XXX
+// Leona perso14
+L39D47C
+ Paktem zawiazanym przez przodkow, przodkow naszych przodkow i Tych, ktorzy drzemia w Krypcie. XXX
+// Leona perso14
+L39D47D
+ Przysieglismy chronic Studnie Swiatlosci i Krypte, utrzymujac ich istnienie w tajemnicy do czasu przebudzenia tych, ktorzy drzemia we wnetrzu ziemi. XXX
+// Leona perso14
+L39D47E
+ W zamian za to niektorzy z naszych przodkow zostali obdarowani czastka mocy. XXX
+// Leona perso14
+L39D47F
+ Mocy zycia, ktora mogli czerpac ze Studni Swiatlosci i oddawac ja tam wedle zyczenia. XXX
+// Leona perso14
+L39D47G
+ Mocy pozwalajacej im dokonywac czynow, na ktore nie moglby sobie pozwolic zwykly smiertelnik. XXX
+// Leona perso14
+L39D47H
+ Tam moc zycia przekazywana byla przez wieki i zachowala sie w Zedzie, Rylsadharze i Lory - Wtajemniczonych. XXX
+// Arkhan2 G perso2
+L39D48
+ Moc, ktora Zed mi przekazal zanim zostal odmieniony! XXX
+// Arkhan2 G perso2
+L39D49
+ Moc, ktora Zed mi przekazal zanim umarl! XXX
+// Arkhan2 G perso2
+L39D50
+ A wiec to bylo to! XXX
+// Arkhan2 L perso2
+L39D55A
+ Jesli moc swiatlosci istnieje... XXX
+// Arkhan2 L perso2
+L39D55B
+ W takim razie zlo - trucizna, ktora skazil nas Thanandar... to przeciwna moc! XXX
+// Arkhan2 O perso2
+L39D56A
+ A ta potworna substancja, ktora zakazil nas Thanandar? XXX
+// Arkhan2 O perso2
+L39D56B
+ To przeciwienstwo mocy Swiatlosci, czy to prawda? XXX
+// Leona perso14
+L39D57A
+ Tak. XXX
+// Leona perso14
+L39D57B
+ Ta Mroczna trucizna zeruje na energii zywych istot. XXX
+// Leona perso14
+L39D57C
+ Ci, ktorzy nie umra, zostaja odmienieni... jak ty. XXX
+// Leona perso14
+L39D57D
+ Pomalu zapominaja kim i czym byli. XXX
+// Leona perso14
+L39D57E
+ Staja sie spragnionymi krwi, nienasyconymi, zadnymi mordu potworami. XXX
+// Arkhan2 G perso2
+L39D58
+ Ale moc z Krypty moze pokonac trucizne, nieprawdaz? XXX
+// Leona perso14
+L39D59A
+ Tak, dwie moce pochlona sie nawzajem. XXX
+// Leona perso14
+L39D59B
+ Ale jesli trucizna wniknela w ciebie zbyt gleboko, szok dla twojego organizmu bedzie potworny... XXX
+// Leona perso14
+L39D59C
+ A wtedy ty rowniez przepadniesz! XXX
+// Leona perso14
+L39D60
+ To stalo sie z Rylsadharem gdy dotknal Studni Swiatlosci. XXX
+// Leona perso14
+L39D61
+ Tak stalo sie z Zedem gdy dotknal Studni Swiatlosci. XXX
+// Arkhan2 L perso2
+L39D64A
+ A Thanandar?  XXX
+// Arkhan2 L perso2
+L39D64B
+ Czego on szuka? XXX
+// Arkhan2 O perso2
+L39D65A
+ A ten zaklamany Thanandar? XXX
+// Arkhan2 O perso2
+L39D65B
+ Czego on chce?! XXX
+// Leona perso14
+L39D66A
+ Thanandar byl Wtajemniczonym, tak jak my. XXX
+// Leona perso14
+L39D66B
+ Jako uzdrowiciela, fascynowaly go moce Mroku. XXX
+// Leona perso14
+L39D66C
+ Chcial je zrozumiec by znalezc lek. XXX
+// Leona perso14
+L39D66D
+ Nie wiem kto naklonil go by zdradzil nasza sprawe i popelnic te szalone czyny. XXX
+// Leona perso14
+L39D66E
+ Byc moze zarazil sie przypadkowo... XXX
+// Leona perso14
+L39D66F
+ Jesli jest w nim trucizna, jego umysl i dusza mogly przejsc najbardziej niewyobrazalne transformacje. XXX
+// Leona perso14
+L39D66G
+ Jedno jest pewne: jesli go nie powstrzymamy, poprowadzi nas ku zagladzie! XXX
+// Leona perso14
+L39D66H
+ Czy wiesz gdzie jest teraz? XXX
+// Arkhan2 G perso2
+L39D67A
+ Nie. Ale sadze, ze nadal jest w Stallite, z innymi kreaturami... XXX
+// Arkhan2 G perso2
+L39D67B
+ Jestem pewien, ze zostanie az do samego konca! XXX
+// Leona perso14
+L39D68
+ Musisz go powstrzymac, zniszcz go. XXX
+// Arkhan2 L perso2
+L39D69A
+ Juz probowalem. XXX
+// Arkhan2 L perso2
+L39D69B
+ Mroczne zlo uczynilo go zbyt silnym. XXX
+// Arkhan2 L perso2
+L39D69C
+Ja... nie sadze bym mogl go pokonac. XXX
+// Arkhan2 O perso2
+L39D70A
+ Latwizna! XXX
+// Arkhan2 O perso2
+L39D70B
+Hej, najwyrazniej nigdy nie probowalas sie z nim zmierzyc! XXX
+// Arkhan2 O perso2
+L39D70C
+ Jesli jestes taka twarda, moze ty sprobujesz z nim powalczyc?! XXX
+// Leona perso14
+L39D71A
+ A wiec pozostaje jedno rozwiazanie: znalezc Krypte i przywrocic Swiatlosc w Stallite! XXX
+// Leona perso14
+L39D71B
+ Zanim Thanandar i jego potwory dokoncza swego dziela! XXX
+// Arkhan2 L perso2
+L39D75A
+ Wygladasz na osobe, ktora wiele wie. XXX
+// Arkhan2 L perso2
+L39D75B
+ Masz moze pojecie jak dostac sie do Krypty? XXX
+// Arkhan2 O perso2
+L39D76
+ Skoro jestes taka madra, mozesz mi na pewno powiedziec jak dostac sie do Krypty, racja? XXX
+// Leona perso14
+L39D77A
+ Nie. Sekret przepadl podczas Wielkiego Kataklizmu. XXX
+// Leona perso14
+L39D77B
+ Krypta zaginela gdzies pod Stallite. XXX
+// Leona perso14
+L39D77C
+ A starozytni twierdza, ze droga don jest dluga i niebezpieczna. XXX
+// Leona perso14
+L39D77D
+ Nawet jesli odnajdziesz ukryte wejscie, bedziesz musial stawic czola wielu probom zanim dotrzesz do serca Krypty. XXX
+// Arkhan2 G perso2
+L39D78
+ Jakim probom? XXX
+// Leona perso14
+L39D79A
+ Tego nie wiem. XXX
+// Leona perso14
+L39D79B
+ Byc moze Rylsadhar cos odkryl, ale nigdy mi o tym nie powiedzial. XXX
+// Arkhan2 L perso2
+L39D82
+ Czy mozesz zrobic cos by ugasic trawiacy mnie ogien trucizny? XXX
+// Arkhan2 O perso2
+L39D83
+ Co powiesz na to abysmy pogadali o leczeniu? XXX
+// Leona (suddenly recalling that Arkhan is suffering) perso14
+L39D84A
+ Tak oczywiscie! XXX
+// Leona perso14
+L39D84B
+ Nie moge wyleczyc cie calkowicie ze zla, ktore trzyma cie w garsci. XXX
+// Leona perso14
+L39D84C
+ Ale sily Zycia i Swiatlosci drzemia w tym miejscu. XXX
+// Leona perso14
+L39D84D
+ To dlatego natura tak tu prosperuje. XXX
+// Leona perso14
+L39D84E
+ Ten kamienny kolos posrodku groty... XXX
+// Leona perso14
+L39D84F
+ Moc ze Studni Swiatlosci przeniknela go. XXX
+// Leona perso14
+L39D84G
+ Jesli napijesz sie otaczajacej go wody, doznasz oczyszczenia. XXX
+// Leona perso14
+L39D84H
+ Ale wypij tylko troche, bowiem trucizna zmieszana jest z zywymi tkankami twojego ciala. XXX
+// Leona perso14
+L39D84I
+ Mozesz zagrozic wlasnemu zyciu! XXX
+// Arkhan2 L perso2
+L39D86A
+ Dziekuje Leona. XXX
+// Arkhan2 L perso2
+L39D86B
+ Mam nadzieje, ze mi sie uda! XXX
+// Arkhan2 O perso2
+L39D87A
+Milo bylo, ale musze znikac! XXX
+// Arkhan2 O perso2
+L39D87B
+ Musze ocalic pare istnien... XXX
+// Arkhan2 O perso2
+L39D87C
+ A zwlaszcza siebie samego! XXX
+// Leona perso14
+L39D88
+ Powodzenia Arkhan. XXX
+// Leona perso14
+L39D89
+ Uwazaj na siebie. XXX
+// Leona perso14
+L39D90
+ Wiem, ze mozesz tego dokonac synu Rylsadhara! XXX
+// Arkhan2 G perso2
+L39D95
+ Rozpoznajesz to? XXX
+// Leona (wary) perso14
+L39D96
+ Najpierw powiedz mi kim jestes i czego chcesz. XXX
+// Arkhan2 G perso2
+L39D97
+ Oto czesc klucza mojego ojca. XXX
+// Leona perso14
+L39D98
+ Przykro mi, nie mam niczego podobnego. XXX
+// Arkhan2 G perso2
+L39D99
+ Co to jest? XXX
+// Leona perso14
+L39D100
+ Kawalek krysztalowej skaly. XXX
+// Leona perso14
+L39D101
+ Nieobrobiony. Nie sadze abys tego wlasnie szukal. XXX
+// Arkhan2 G perso2
+L39D102
+ Co mozesz mi na ten temat powiedziec? XXX
+// Leona perso14
+L39D103
+ Nic szczegolnego, przykro mi. XXX
+// Arkhan3 L perso3
+L39D12
+ Szukam Leony. XXX
+// Arkhan3 O perso3
+L39D13
+ Leona? XXX
+// Leona (alarmed) perso14
+L39D014A
+ Wielki Solaarze, wcielenie Mrocznego Zla! XXX
+// Leona (prudent) perso14
+L39D014B
+ Pozera cie mroczna esencja Shankr. XXX
+// Leona (wary) perso14
+L39D014C
+ Kim jestes? XXX
+// Arkhan3 L perso3
+L39D15
+ Jestem Arkhan, syn Rylsadhara. XXX
+// Arkhan3 O perso3
+L39D16
+ Arkhan! XXX
+// Leona perso14
+L39D17A
+ Syn Rylsadhara! XXX
+// Leona perso14
+L39D17B
+ Ale co dzieje sie w Stallite? XXX
+// Arkhan3 L perso3
+L39D27
+ Stallite... zostalo.. ogarniete przez Calun Mroku. XXX
+// Arkhan3 L perso3
+L39D28A
+ Tak, Studnia Swiatlosci. XXX
+// Arkhan3 L perso3
+L39D28B
+ To Thanandar, Patrzacy w Slonce. XXX
+// Arkhan3 L perso3
+L39D28C
+ To wszystko jego wina. XXX
+// Arkhan3 L perso3
+L39D29A
+ Nie, nie, nie! To juz nie uzdrowiciel! XXX
+// Arkhan3 L perso3
+L39D29B
+ Nawet nie czlowiek! XXX
+// Arkhan3 L perso3
+L39D29C
+ Skazal Zeda i mojego ojca na smierc! XXX
+// Arkhan3 L perso3
+L39D30
+ Thanandar zarazil mnie i mojego ojca. XXX
+// Arkhan3 L perso3
+L39D31
+ Thanandar mnie i Zeda. XXX
+// Arkhan3 L perso3
+L39D32A
+ Byl rozbity... przez bol... XXX
+// Arkhan3 L perso3
+L39D32B
+ Thanandar zmusil go by dotknal swiatla. XXX
+// Arkhan3 L perso3
+L39D32C
+ Byly blyskawice... Studnia Swiatlosci zrobila sie mroczna... XXX
+// Arkhan3 L perso3
+L39D32D
+ Tak jakby absorbowala sily Mroku... XXX
+// Arkhan3 L perso3
+L39D32E
+A wtedy zstapil Calun Mroku. XXX
+// Arkhan3 L perso3
+L39D38A
+ Lory powiedziala mi o miejscu zwanym "Krypta". XXX
+// Arkhan3 L perso3
+L39D38B
+ Naszej ostatniej nadziei... XXX
+// Arkhan3 L perso3
+L39D38C
+ Moj ojciec mogl wiedziec gdzie to jest. XXX
+// Arkhan3 L perso3
+L39D39A
+ Ale dobrze ukryl swoje tajemnice. XXX
+// Arkhan3 L perso3
+L39D39B
+ Szukam krysztalowego klucza o kilku czesciach. XXX
+// Arkhan3 L perso3
+L39D42A
+ Czy moj ojciec dal ci krysztal? XXX
+// Arkhan3 L perso3
+L39D109
+ Studnia Swiatlosci... Krypta... Wyjasnij mi to. XXX
+// Arkhan3 L perso3
+L39D51A
+ Po co ta cala konspiracja? XXX
+// Arkhan3 L perso3
+L39D51B
+ I dlaczego Zed, moj ojciec i Lory? XXX
+// Arkhan3 L perso3
+L39D52
+ Zed przekazal mi moc zanim skonal! XXX
+// Arkhan3 L perso3
+L39D53
+ Zed przekazal mi moc zanim zawladnelo nim Zlo. XXX
+// Arkhan3 L perso3
+L39D54
+ A wiec to bylo to! XXX
+// Arkhan3 L perso3
+L39D62A
+ Sila Mroku... XXX
+// Arkhan3 L perso3
+L39D62B
+ A wiec to przeciwienstwo tego? XXX
+// Arkhan3 L perso3
+L39D63
+ Moc z Krypty zniszczy trucizne! XXX
+// Arkhan3 L perso3
+L39D72
+ A Thanandar?  XXX
+// Arkhan3 L perso3
+L39D73A
+ Nadal jest w Stallite z innymi Kreaturami. XXX
+// Arkhan3 L perso3
+L39D73B
+ Jestem pewien, ze zostanie tam dopoki nie dokonczy swego potwornego dziela! XXX
+// Arkhan3 L perso3
+L39D74A
+ Juz probowalem. XXX
+// Arkhan3 L perso3
+L39D74B
+ Zlo go odmienilo, jest zbyt silny. XXX
+// Arkhan3 L perso3
+L39D80A
+ Wiele wiesz. XXX
+// Arkhan3 L perso3
+L39D80B
+ Czy wiesz jak odnalezc Krypte? XXX
+// Arkhan3 L perso3
+L39D81
+ Jakie proby? XXX
+// Arkhan3 L perso3
+L39D85
+ Czy mozesz mi pomoc uleczyc chorobe? XXX
+// Arkhan3 O (as if getting ready to devour Leona) perso3
+L39D92
+ Leonaaaa... XXX
+// Leona perso14
+L39D93
+ Arkhan! Nie, nie pozwol opetac sie Mrokowi! XXX
+// Leona perso14
+L39D94
+ Nie! Arkhan, panuj nad soba! XXX
+// Arkhan3 G perso3
+L39D104
+ Widzialas to kiedys? XXX
+// Arkhan3 L perso3
+L39D105
+ To fragment klucza mojego ojca. XXX
+// Arkhan3 L perso3
+L39D106
+ Co to jest? XXX

@@ -1,0 +1,907 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL14.TXT
+ // Kalhi1 perso13
+L14D108
+Come on, we're going to see Danrys! XXX
+// Arkhan2 Gperso2
+L14D45
+ About time! XXX
+// Arkhan3 G perso3
+L14D46
+ Bandor, at last! XXX
+// Malrot4 (A. is yelling at him) perso64
+L14D235
+Hey Sicko, I'm going to make you calm down! XXX
+// Provider Woman (A. is yelling at her) perso16
+L14D236
+Faith be gotten ! He's crazy! XXX
+// Malrot1 perso6
+L14D237
+I'll give you something to yell about! XXX
+// Delia perso10
+L16D122
+ Stop! You're scaring me! XXX
+// Provider Woman perso16
+L14D263
+ Ah, our friend is back. XXX
+// Malrot1 perso61
+L14D171
+ If you come near me, I'll slit you in two! XXX
+// Arkhan2 L perso2
+L14D139A
+ Relax. I'm not looking for a fight! XXX
+// Arkhan2 O perso2
+L14D139B
+ Go ahead, but you only have yourself to blame! XXX
+// Malrot1 perso61
+L14D140
+ Hmm... Okay, but no dirty tricks! XXX
+// Malrot1 (alarmed) perso61
+L14D172
+ A Shankreature! Raise the alarm! XXX
+// Provider Woman perso16
+L14D167
+ Whoa! Hold on a minute, will ya! XXX
+// Provider Woman perso26
+L14D168
+ Relaxed? Good! XXX
+// Malrot4 (A. menacing him with a gun) perso64
+L14D169
+ Hey, watch where you point that thing! XXX
+// Malrot4 (A. putting away his gun) perso64
+L14D170A
+ That's better! XXX
+// Malrot4 perso64
+L14D170B
+ Blasting off a few rounds isn't the best way to make friends around here! XXX
+// Malrot1 perso2
+L14D203
+ Hey...Hey Hey! Watch it ! XXX
+// Malrot1 perso61
+L14D204
+ Good. That's better! XXX
+// Arkhan2 L perso2
+L14D05
+Light be with you, Scavenger. XXX
+// Malrot4 perso64
+L14D07A
+ Look what the cat dragged in. Never seen "Your Ugliness" around here before. XXX
+// Malrot4 perso64
+L14D07B
+ If I'd seen you I wouldn't have forgotten. A face like yours is enough to give anyone nightmares! XXX
+// Arkhan2 L perso2
+L14D177
+ My name is Arkhan, I'm an old friend of Danrys. XXX
+// Malrot4 perso64
+L14D178A
+ My name is Kubert.  XXX
+// Malrot4 (half joking, half serious) perso64
+L14D178B
+ Forgive me if we don't shake hands, but I might slice off one of your fingers! XXX
+// Malrot4 perso64
+L14D178C
+ (laughs) XXX
+// Arkhan2 O perso2
+L14D08
+ Hey, I don't mind taking chances! XXX
+// Malrot4 (irritated) perso64
+L14D09A
+ What's the matter with you? XXX
+// Malrot4 (irritated) perso64
+L14D09B
+ Need someone to help pop your zits? XXX
+// Arkhan2 O perso2
+L14D179A
+ Think you're funny, don't you? I'll make a joke of your face !XXX
+// Arkhan2 O perso2
+L14D179B
+ I'm Arkhan. An old buddy of Danrys. XXX
+// Malrot4 perso64
+L14D180
+ "Arkhan," eh? I'd have thought your name is "pus-face"! XXX
+// Arkhan2 L perso2
+L14D10
+ Maybe you can help me, Kubert. XXX
+// Malrot4 perso64
+L14D11A
+ It depends. I'm a busy man, you know! XXX
+// Malrot4 perso64
+L14D11B
+ A Scavenger's gotta make a living, you dig?! XXX
+// Malrot4 perso64
+L14D11C
+ I'm no Sunseer. Can't live on light alone! XXX
+// Arkhan2 O perso2
+L14D12A
+ I was wondering... XXX
+// Arkhan2 O perso2
+L14D12B
+ Who're you hiding from, with a disguise like that? Your mother? XXX
+// Arkhan2 O perso2
+L14D12C
+ Bet she regretted the day she gave birth to a freak like you! XXX
+// Malrot4 (angry) perso64
+L14D13A
+ Come to think of it, I need a new soup bowl... XXX
+// Malrot4 (angry) perso64
+L14D13B
+ And your hollowed-out skull oughta do the trick! XXX
+// Arkhan2 L perso2
+L14D34A
+ It's important. XXX
+// Arkhan2 L perso2
+L14D34B
+ I must find a way to heal myself.  XXX
+// Malrot4 perso64
+L14D35A
+ Ain't that the truth! It takes a lot of work to turn you into a nice, neat Scavenger. XXX
+// Malrot4 perso64
+L14D35B
+ Why don't you try washing once and a while? XXX
+// Malrot4 perso64
+L14D35C
+ Do you stink! XXX
+// Malrot4 perso64
+L14D35D
+ A dead rat left to rot for a few hundred cycles don't stink as bad as you do! XXX
+// Arkhan2 L perso2
+L14D36A
+ I'm looking for a local healer. XXX
+// Malrot4 perso64
+L14D37A
+ What Stallite do you come from? The only folk that can heal are up there, with the Sunseers! XXX
+// Malrot4 perso64
+L14D37B
+ But if we go up there, the Guardians of Fire will kick our butts off. XXX
+// Arkhan2 L perso2
+L14D36B
+ If they kicked yours off they'd break their feet! XXX
+// Malrot4 (liking the joke) perso64
+L14D37C
+ Yeah, damn right, turd face! XXX
+// Arkhan2 L perso2
+L14D38
+ Who's your chief? XXX
+// Malrot4 perso64
+L14D39A
+ There's only one chief around here. He's called Armal Sadak. XXX
+// Malrot4 perso64
+L14D39B
+ If there's one person who could help you, he's the man. XXX
+// Malrot4 perso64
+L14D39C
+ But I oughta tell you right away, he ain't gonna like that mug of yours! XXX
+// Arkhan2 L perso2
+L14D181
+ Who else, then? XXX
+// Malrot4 perso64
+L14D182A
+ The "others," the Konkalites.  XXX
+// Malrot4 perso64
+L14D182B
+ But believe you me. You'd rather have a pack of rats chewing on your ass than deal with them. XXX
+// Malrot4 perso64
+L14D182C
+ Sordos is a real sickie! XXX
+// Arkhan2 L perso2
+L14D183
+ Sordos? XXX
+// Malrot4 perso64
+L14D184
+ Their chief! He went up against Armal Sadak. Now he's disappeared with his gang. They're plotting some serious trouble. XXX
+// Arkhan2 L perso2
+L14D40
+ Tell me more... XXX
+// Malrot4 perso64
+L14D41A
+ Whoa, that's enough! XXX
+// Malrot4 perso64
+L14D41B
+ I'm no wandering storyteller! XXX
+// Arkhan2 O (menacingly) perso2
+L14D42
+ Cut the crap and answer me! XXX
+// Malrot4 (preparing to hit A.) perso64
+L14D43
+ Sure, fine. I'll give you answers, all right! Right in the kisser! XXX
+// Arkhan2 L perso2
+L14D00
+ Hey, Scavenger... XXX
+// Malrot4 (menacingly) perso64
+L14D01A
+ First put your piece away, you're making me nervous! XXX
+// Malrot4 (menacingly) perso64
+L14D01B
+ Then we'll see... XXX
+// Arkhan2 L perso2
+L14D04
+ Take it easy, I don't want to hurt you! XXX
+// Malrot4 perso64
+L14D06
+ I told you to put that thing away! XXX
+// Arkhan2 O perso2
+L14D02
+ What's the problem creep, scared? XXX
+// Malrot4 perso64
+L14D03
+ You're gonna see who's scared! XXX
+// Malrot4 perso64
+L14D13
+ I'm gonna gut you! XXX
+// Arkhan2 G perso2
+L14D44
+ Interested? XXX
+// Malrot4 perso64
+L14D45A
+ No, forget it. XXX
+// Malrot4 perso64
+L14D45B
+ My mother always told me, "don't take candy from men with a sewer for face "! XXX
+// Arkhan3 L perso3
+L14D18
+ Hey, you! XXX
+// Malrot4 (awed by Arkhan3) perso64
+L14D19A
+ Hey, er, listen, buddy. Let's just keep our cool, okay?. XXX
+// Malrot4 (awed by Arkhan3) perso64
+L14D19B
+ Let's just say you never saw me and everything'll be fine. XXX
+// Malrot4 (overawed by Arkhan3) perso64
+L14D15
+ Okay, okay. Everyone stay cool. I haven't done anything wrong, right?! XXX
+// Arkhan3 L perso3
+L14D20
+ Wait, I have to tell you something! XXX
+// Malrot4 perso64
+L14D21A
+ Don't touch me! XXX
+// Malrot4 (preparing to hit A.) perso64
+L14D21B
+ I've got claws too, see?! XXX
+// Malrot4 (preparing to hit A.) perso64
+L14D185
+ This one's got your name on it! XXX
+// Malrot4 (mocking) perso64
+L14D206A
+ "Light be with you," eh? XXX
+// Malrot4 perso64
+L14D206B
+ In case you haven't noticed, there hasn't been any light down here for a long time.! XXX
+// Malrot4 perso64
+L14D207A
+ The Sun God don't come around here much anymore, friend! XXX
+// Malrot4 perso64
+L14D207B
+ If you know what's healthy, you'd better get your hide outta here. XXX
+// Arkhan2 O perso2
+L14D214
+ Then what are you doing here? XXX
+// Malrot4 perso64
+L14D223
+ I like it, cozier than other places, if you know what I mean! XXX
+// Arkhan2 L perso2
+L14D208
+ What's going on down here? XXX
+// Malrot4 perso64
+L14D209
+ It's been this way ever since the Black Shroud came down on us! XXX
+// Malrot4 perso64
+L14D210A
+ Some say "things" from the Darklands have entered the city.. XXX
+// Malrot4 perso64
+L14D210B
+ And what they want for lunch is us, the Scavengers! XXX
+// Malrot4 perso64
+L14D210C
+ The ones they don't kill... get "changed"...  XXX
+// Malrot4 perso64
+L14D210D
+ They become...like those creatures. XXX
+// Malrot4 perso64
+L14D213
+ But if they ever come near me, they'll get a taste of my claws! XXX
+// Arkhan2 L perso2
+L14D211
+ Do you know anything more about the creatures from the Darklands? XXX
+// Malrot4 perso64
+L14D212
+ No. Ignorance is bliss, as far as I'm concerned! XXX
+// Arkhan2 O perso2
+L14D215
+ Oh! What's that stink? Man, smells like an open sewer. Whew! XXX
+// Arkhan3 L perso3
+L14D217
+ Greetings, Scavenger. XXX
+// Malrot4 (scared) perso64
+L14D218A
+ Get away from me! XXX
+// Malrot4 (scared) perso64
+L14D218B
+ I know what you are, but you won't transform me! XXX
+// Arkhan3 L perso3
+L14D219
+ Relax, I don't want to hurt you! XXX
+// Malrot4 (wary) perso64
+L14D220
+ Oh, yeah? In that case, do me a favor. Get lost! XXX
+// Arkhan2 G perso2
+L14D165
+ This miserable worm doesn't have anything on him. XXX
+// Arkhan3 G perso3
+L14D166
+ Nothing on this miserable worm. XXX
+// Arkhan2 L perso2
+L14D49
+ Light be with you, Provider Woman. XXX
+// Arkhan2 O perso3
+L14D59
+ Hey, Provider Woman! XXX
+// Provider Woman perso16
+L14D50A
+ Light be with you. XXX
+// Provider Woman perso16
+L14D50B
+ Doesn't look like you're very popular in the Upper City! XXX
+// Provider Woman perso16
+L14D50C
+ Don't tell me the Guardians of Fire have blocked off the platform because of you! XXX
+// Arkhan2 L perso2
+L14D186
+No. That's got nothing to do with me. XXX
+// Arkhan2 O perso3
+L14D187
+If anyone asks, you've never seen me. Got it?! XXX
+// Arkhan2 L perso2
+L14D51
+ My name is Arkhan. I'm a friend of Danrys the Scavenger. XXX
+// Arkhan2 O perso2
+L14D60
+My name is Arkhan, I'm a friend of Danrys. XXX
+// Provider Woman perso16
+L14D52A
+ All right. All right.  What do you want, Arkhan? XXX
+// Provider Woman perso16
+L14D52B
+ If you're hungry, we can barter for some vittles!  XXX
+// Arkhan2 L perso2
+L14D53
+ Can you tell me more about this place? XXX
+// Arkhan2 O perso2
+L14D61
+ Alright. Tell me what you know about this part of the Stallite. XXX
+// Provider Woman (surprised) perso16
+L14D54A
+ What do you want to know? XXX
+// Provider Woman perso16
+L14D54B
+ This is the Lower City you're in. XXX
+// Provider Woman perso16
+L14D54C
+ Its full of Scavengers and Providers who don't have time to jaw with the likes of you. XXX
+// Provider Woman perso16
+L14D54D
+ If you don't want to barter, there ain't much I can do for you. XXX
+// Arkhan2 G perso2
+L14D55
+ Barter? XXX
+// Provider Woman perso16
+L14D56A
+ Yes. So what do you want to swap? XXX
+// Provider Woman perso16
+L14D56B
+ And I'll see what I can trade for it. XXX
+// Arkhan2 L perso2
+L14D57
+ Listen, I'm not here to barter. XXX
+// Provider Woman perso16
+L14D58
+ In that case, I can't do much for you... XXX
+// Arkhan2 O perso2
+L14D63
+ Bartering doesn't interest me! XXX
+// Provider Woman perso16
+L14D188A
+Alright... fine. XXX
+// Provider Woman perso16
+L14D188B
+ But if you ever want a little snack, come back and see me... XXX
+// Arkhan2 G perso2
+L14D28
+ Maybe you can help me. XXX
+// Provider Woman perso16
+L14D29
+ More than likely...but you don't need that thing to get my attention... XXX
+// Arkhan2 G perso2
+L14D30
+ Listen, Provider Woman... XXX
+// Provider Woman perso16
+L14D31A
+ If I told you once, I told it twice. Put your piece away.  XXX
+// Provider Woman perso16
+L14D31B
+ You won't needing that with me... XXX
+// Arkhan2 G perso2
+L14D77
+ I have this object... XXX
+// Provider Woman perso16
+L14D78A
+ Hold everything! I don't do business with strangers. XXX
+// Provider Woman perso16
+L14D78B
+ What's your name? XXX
+// Arkhan2 G perso2
+L14D74A
+ What do you think of this mirror from Before? XXX
+// Arkhan2 G perso2
+L14D74B
+ Look at this light! XXX
+// Provider Woman perso16
+L14D152A
+ Yeah! I like it! XXX
+// Provider Woman perso16
+L14D152B
+ I'll trade you this metal box. XXX
+// Provider Woman perso16
+L14D152D
+ It's a gift from Danrys the Scavenger.  XXX
+// Provider Woman perso16
+L14D152E
+ He's the only one who knows how to make things like this. XXX
+// Arkhan2 G perso2
+L14D76A
+ Okay. XXX
+// Arkhan2 L perso2
+L14D76B
+ Thanks. XXX
+// Arkhan2 G perso2
+L14D82
+ What would you give me for this flask? XXX
+// Provider Woman perso16
+L14D83A
+ Not bad. XXX
+// Provider Woman perso16
+L14D83B
+ I'll swap a slice of salted meat for it. XXX
+// Arkhan2 G perso2
+L14D85
+ How about a glass goblet? XXX
+// Provider Woman (thinking) perso16
+L14D86
+ Hmm...for that I'll give you some fish. XXX
+// Arkhan2 G perso2
+L14D225
+ Would you swap some food for this mortar? XXX
+// Provider Woman perso16
+L14D226A
+Yes, yes. I'll give you this big root. XXX
+// Provider Woman perso16
+L14D226B
+ You'll like it. It tastes better than it looks. XXX
+// Arkhan2 G perso2
+L14D227
+ What'll you give me for this plate? XXX
+// Provider Woman perso16
+L14D228A
+ For that, a big vegetable... almost whole! XXX
+// Provider Woman perso16
+L14D228B
+ Don't choke on the seeds! XXX
+// Arkhan2 G perso2
+L14D229
+ I've got a pestle. XXX
+// Provider Woman perso16
+L14D230A
+ Yes... that's useful. XXX
+// Provider Woman perso16
+L14D230B
+ I'll swap you a sun-apple for that. XXX
+// Arkhan2 G perso2
+L14D231
+ Would you give me something for this bowl? XXX
+// Provider Woman perso16
+L14D232
+ Yes, some leftover roast bird from the Silver Reed. XXX
+// Arkhan2 G perso2
+L14D233
+ Interested in this vial? XXX
+// Provider Woman perso16
+L14D234
+ Yes, I'll swap it for a gourd full of Stohll. XXX
+// Arkhan2 G perso2
+L14D157
+ Are you interested in that? XXX
+// Provider Woman perso16
+L14D191
+ That? No. Got anything else? XXX
+// Provider Woman perso16
+L14D192
+ No, I don't want it. XXX
+// Provider Woman perso16
+L14D193
+ I've got nothing to swap with that. XXX
+// Arkhan2 L perso2
+L14D243
+ Did you see anyone come through here? XXX
+// Provider Woman perso16
+L14D244A
+ Oh yes, a fellow with a sword. He whizzed through here like a little arrow! XXX
+// Provider Woman perso16
+L14D244B
+ Looked like a Guardian of Fire, but I can't be sure. XXX
+// Arkhan2 L perso2
+L14D245
+ Which way did he go? XXX
+// Provider Woman perso16
+L14D246
+ I couldn't say... XXX
+// Arkhan2 L perso2
+L14D247
+ Okay, thanks anyway. XXX
+// Arkhan2 O perso2
+L14D248
+ Hey! Did you see anyone come through here?! XXX
+// Arkhan2 O perso2
+L14D249
+ Which way did he go? XXX
+// Provider Woman (uneasily)perso16
+L14D250
+ Er...  ah... XXX
+// Arkhan2 O perso2
+L14D251
+ Well! Which way? XXX
+// Provider Woman (uneasily)perso16
+L14D252
+ I don't know, I was hiding behind my wagon. XXX
+// Arkhan2 O perso2
+L14D253
+ Sure you were! XXX
+// Arkhan3 L perso3
+L14D64
+ Provider Woman... XXX
+// Provider Woman (frightened) perso16
+L14D65
+ What do you want? XXX
+// Arkhan3 L perso3
+L14D66
+ Don't worry. I'm Arkhan. I'm not going to hurt you! XXX
+// Provider Woman (not reassured) perso16
+L14D67A
+ Well... XXX
+// Provider Woman (not reassured) perso16
+L14D67B
+ Hmm... take this. XXX
+// Provider Woman (not reassured) perso16
+L14D67C
+ Danrys the Scavenger made it. XXX
+// Provider Woman (not reassured) perso16
+L14D67D
+ Eat it. You'll see, it tastes good! XXX
+// Arkhan3 L perso3
+L14D68
+ Anything else for me? XXX
+// Provider Woman (not reassured) perso16
+L14D69
+ No, sorry... XXX
+// Provider Woman (frightened) perso16
+L14D48
+Oh my dear! Help me, Help, Scavengers! XXX
+// Arkhan3 L perso3
+L14D254
+ Have you seen anyone around here? XXX
+// Arkhan3 L perso3
+L14D255
+ So! You know where he is! XXX
+// Arkhan3 L perso2
+L14D256
+ So? XXX
+// Arkhan3 L perso2
+L14D257
+ Aargh... forget it. XXX
+// Arkhan2 L perso3
+L14D149
+ Hey, tell him to back off! XXX
+// Provider Woman perso16
+L14D150
+ I couldn't care less about your little Scavenger skirmishes! XXX
+// Arkhan3 O perso3
+L14D189
+ Hey you! Help me! XXX
+// Provider Woman perso16
+L14D190
+ No! It... It's got nothing to do with me! XXX
+// Arkhan2 O perso2
+L14D194
+ Huh! You think you can beat me?! XXX
+// Provider Woman perso16
+L14D195
+ Oh, I'll show you, you filthy monster! XXX
+// Arkhan2 G perso2
+L03D01
+ Wait for me! XXX
+// Arkhan3 G perso3
+L03D02
+ Wait! XXX
+// Arkhan2 G perso2
+L14D105
+ Old pieces of machines from Before collected by the Scavengers. XXX
+// Arkhan3 G perso3
+L14D106
+ Piles of metal from Before collected by the Scavengers. XXX
+//Arkhan2 G perso2
+L14D95
+ Nothing but old hunks of metal... XXX
+//Arkhan3 G perso3
+L14D96
+ Metal. XXX
+// Arkhan2 G perso2
+L14D97
+ An old oil cart... XXX
+// Arkhan2 G perso2
+L14D100
+ Old sheets of metal! XXX
+// Arkhan3 G perso3
+L14D101
+ Rusty sheets of metal! XXX
+// Malrot1 perso61
+L14D137
+ Hey! If you lay a hand on that you'll hear from me! XXX
+// Malrot1 perso61
+L14D138A
+ Help yourself, buddy. XXX
+// Malrot1 perso61
+L14D138B
+ If you find something you like, it's yours! XXX
+// Arkhan2 G perso2
+L14D89
+ Useless sheets of metal! XXX
+// Arkhan3 G perso3
+L14D90
+ Nothing but sheets of metal. XXX
+// Arkhan2 G perso2
+L14D265
+ Danrys puts the oil in there to run the machine. XXX
+// Arkhan3 G perso3
+L14D266
+ That's the oil tank. XXX
+// Arkhan2 G perso2
+L14D267
+ Look's like it's empty. XXX
+// Arkhan3 G perso3
+L14D268
+ It's empty. XXX
+// Arkhan2 G perso2
+L14D269
+ There we go. It oughta work now. XXX
+// Arkhan3 G perso3
+L14D270
+ There we go. It'll work now... XXX
+// Arkhan2 G perso2
+L14D271
+ No, the tank's already full. XXX
+// Arkhan3 G perso3
+L14D272
+ There's plenty in the tank. XXX
+// Arkhan2 G perso2
+L14D273
+ The tank's full. XXX
+// Arkhan3 G perso3
+L14D274
+ Brimming over. XXX
+// Arkhan2 L perso2
+L14D104A
+ It's a wreck from Before. XXX
+// Arkhan2 L perso2
+L14D104B
+ Looks like a big machine. XXX
+// Arkhan2 O perso2
+L14D196
+ Too heavy! XXX
+// Arkhan3 L perso3
+L14D107
+ A hunk of machine from Before... XXX
+// Arkhan3 O perso3
+L14D197
+ Too heavy! XXX
+// Arkhan2 L perso2
+L14D113
+ Don't get excited, I'm a friend. XXX
+// Malrot1 perso61
+L14D114A
+ That's easy for you to say!  XXX
+// Malrot1 perso61
+L14D114B
+ In the dark, it's hard to tell friend from fake. XXX
+// Arkhan2 O perso2
+L14D109
+ What are you doing here? XXX
+// Malrot1 perso61
+L14D110A
+ What are you doing here! XXX
+// Malrot1 perso61
+L14D110B
+ Take a powder, before my knife gets twitchy! XXX
+// Arkhan2 L perso2
+L14D115
+ You know what's going on! XXX
+// Malrot1 (frightened and aggressive) perso61
+L14D116A
+ The Sun God has abandoned us, that's what's going on! XXX
+// Malrot1 (frightened and aggressive) perso61
+L14D116B
+ The Darkness is on us. It swallows men up and turns them into weird creatures! XXX
+// Malrot1 (frightened and aggressive) perso61
+L14D116C
+ And to look at you, I'd say you're next on the list! XXX
+// Malrot1 (defiant) perso61
+L14D116D
+ You'd better take a chill! XXX
+// Arkhan2 O (menacing) perso2
+L14D111
+ Want a piece of advice? Don't mess with me! XXX
+// Malrot1 (aggressive) perso61
+L14D112
+ You know what you can do with your advice! XXX
+// Arkhan2 L perso2
+L14D118A
+ Never mind what I look like, I'm on your side. XXX
+// Arkhan2 L perso2
+L14D118B
+ The Konkalites, it's all their fault.  XXX
+// Arkhan2 L perso2
+L14D118C
+ Them and a... ahh... a Sunseer... named Thanandar. XXX
+// Malrot1 perso61
+L14D119A
+ The Konkalites! It's got to be them! XXX
+// Malrot1 (vengeful) perso61
+L14D119B
+ We'll make them pay for it! XXX
+// Arkhan2 L perso2
+L14D121
+ I think Thanandar is somewhere in the Stallite. XXX
+// Malrot1 perso61
+L14D122A
+ The Sunseer who's in league with the Konkalites? XXX
+// Malrot1 perso61
+L14D122B
+ A Sunseer, here? He's got the wrong address! XXX
+// Arkhan2 L perso2
+L14D198A
+ Don't you believe it! He's not human any more. XXX
+// Arkhan2 L perso2
+L14D198B
+ Shankr Archessence has invaded his body. Now he lurks the Darklands the way a rat prowls the sewers. XXX
+// Arkhan2 L perso2
+L14D198C
+ And he's out to get us! XXX
+// Malrot1 perso61
+L14D199
+ What's he look like, this walking nightmare of yours? XXX
+// Arkhan2 L perso2
+L14D198D
+ Huge, with a kind of jet-black steel armor. XXX
+// Arkhan2 L perso2
+L14D198E
+ Believe me, you'd rather fight off a hundred Konkalites with your bare hands than tangle with Thanandar! XXX
+// Arkhan2 L perso2
+L14D200
+ Watch out for Thanandar. XXX
+// Arkhan2 L perso2
+L14D242
+ Watch your back! XXX
+// Malrot1 perso61
+L14D201
+ Don't worry your ugly head about me, I can take care of myself! XXX
+// Arkhan2 O perso2
+L14D277
+ Take it easy. If you're such a tough guy, how come you're shaking like a leaf? XXX
+// Malrot1 perso61
+L14D278
+ You're gonna be sorry you said that! XXX
+// Arkhan2 G perso2
+L14D123
+ Listen to me, Scavenger... XXX
+// Malrot1 perso61
+L14D124
+ We can't do business unless you put that thing away! XXX
+// Arkhan2 L perso2
+L14D125A
+ Relax, friend! XXX
+// Arkhan2 L perso2
+L14D125B
+ I carry a weapon so I can defend myself, just like you XXX
+// Malrot1 perso61
+L14D126
+ I'll relax when you stick it back in your pants, okay?!! XXX
+// Arkhan2 O perso2
+L14D127
+ Listen, slime. Who's gonna make me put it away? XXX
+// Malrot1 perso61
+L14D130
+ Hey, whatever. Keep it, if you want. XXX
+// Arkhan2 G perso2
+L14D129
+ Hey, do you know what this is? XXX
+// Malrot1 perso61
+L14D131
+ No, and I don't know who you are, either! XXX
+// Arkhan2 G perso2
+L14D144
+ Want a little drink? XXX
+// Malrot1 perso61
+L14D133
+ Whadya got? XXX
+// Malrot1 perso61
+L14D135
+ Now you're talking! XXX
+// Malrot1 (after tasting something disgusting) perso61
+L14D175A
+ Yuck, what is this piss!? XXX
+// Malrot1 perso61
+L14D175B
+ Put it away! Yuck... XXX
+// Arkhan2 G perso2
+L14D134
+ Want another taste? XXX
+// Malrot1 perso61
+L14D136
+ No thanks, no. I'd rather drink a gallon of warm rat piss than that stuff! XXX
+// Arkhan2 L perso2
+L14D162
+ Water, mud, ashes... a Scavenger cocktail! XXX
+// Arkhan3 L perso3
+L14D279
+ Muddy water... XXX
+// Arkhan2 G perso2
+L14D258
+ If I touch it, I'll lose my hand! XXX
+// Arkhan3 G perso3
+L14D259
+ No! If I touch it, I lose my hand! XXX
+// Arkhan2 G perso2
+L14D260
+ It's stopped working. XXX
+// Arkhan3 G perso3
+L14D261
+ Not working anymore. XXX
+// Arkhan2 G perso2
+L14D262
+ It's working again! XXX
+// Arkhan3 G perso3
+L14D264
+ It's working! XXX
+// Arkhan2 G perso2
+L14D275A
+ Danrys used these gear-boxes and cables to make the machines work XXX
+// Arkhan2 G perso2
+L14D275B
+ I never understood exactly how it works... XXX
+// Arkhan3 G perso3
+L14D276A
+ Danrys used this to make the machines work. XXX
+// Arkhan3 G perso3
+L14D276B
+ I never understood how... XXX
+// Arkhan2 G perso2
+L14D238
+ Let's take the platform and get up there.  XXX
+// Arkhan3 G perso3
+L14D239
+ Let's go to the Upper City. XXX
+// Delia perso10
+L14D240
+ Let's go. I'm right behind you. XXX
+// Delia (Arkhan shows her an object) perso10
+L14D241A
+ Arkhan, first we'd better hide out in the Upper City. XXX
+// Delia perso10
+L14D241B
+ It's too hot for us here! XXX
+// Arkhan2 G (Delia or Kalhi hits him) perso2
+L10D93
+ You don't stand a chance, honey! XXX
+// Arkhan3 G (Delia or Kalhi hits him) perso3
+L10D94
+ You're history, babe! XXX
+// Delia (hit by Arkhan) perso10
+L10D95
+ No! Are you mad? Stop it! XXX

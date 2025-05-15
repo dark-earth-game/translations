@@ -1,0 +1,181 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL11.TXT
+ // Guard (nervously) perso32
+L11D01
+ Nie podchodz do mnie, nieczysty! Wracaj do Mrocznych Ziem! XXX
+// Guard (going to hit A.) perso32
+L11D02
+ Ostrzegalem cie!! XXX
+// Guard (nervously) perso32
+L11D03
+ Stop! Nie ruszaj sie. Do Palacu Budowniczych nie wolno wchodzic! XXX
+// Guard (nervously) perso32
+L11D04
+ Hej, ty! Odejdz stad! Tu nie wolno wchodzic! XXX
+// Guard (attacks A.) perso32
+L11D05
+ A masz, nieczysty! XXX
+// Guard (to A., who is running way) perso32
+L11D45
+ Jeszcze raz sprobujesz zbrukac te drzwi swa osoba, a podam twoj smierdzacy leb na talerzu! XXX
+//Arkhan2 G perso2
+L11D06
+ O nie! Nadchodzi straznik! XXX
+//Arkhan3 G perso3
+L11D07
+ Nie! On tu idzie! XXX
+// Arkhan2 L perso2
+L11D08
+ Pozwol mi przejsc! Musze sie rozmowic z Mistrzem Budowniczym. To nieslychanie wazna sprawa! XXX
+// Guard perso32
+L11D09
+ To niemozliwe! Mam swoje rozkazy! Nikt tedy nie przejdzie! XXX
+// Arkhan2 L perso2
+L11D10A
+ Musisz mi uwierzyc. Ja musze porozmawiac z Mistrzem Budowniczym. XXX
+// Arkhan2 L perso2
+L11D10B
+ To byc moze jedyny sposob na uratowanie nas wszystkich! XXX
+// Guard perso32
+L11D11A
+ Masz jakis problem? Gluchys? Jak mowie, ze nikt tedy nie przejdzie, to dokladnie to mam na mysli: nikt! XXX
+// Guard perso32
+L11D11B
+ A juz szczegolnie ktos z taka facjata, jak ty! XXX
+// Arkhan2 L perso2
+L11D12
+ Posluchaj, wiem, ze jest stan wyjatkowy, ale przysiegam, ze nie mam zamiaru wyrzadzic szefowi zadnej krzywdy. XXX
+// Guard perso32
+L11D13A
+ Dosyc tego dobrego! Pan Bandor ma gdzies ciebie razem z twoim problemem! XXX
+// Guard perso32
+L11D13B
+ Precz mi stad, albo zmienie twoj tylek w zarcie dla psow! XXX
+// Arkhan2 L perso2
+L11D14
+ Hola, moze moglibysmy sie jakos dogadac. XXX
+// Guard perso32
+L11D14A
+ Nie, nie moglibysmy! XXX
+// Guard perso32
+L11D14B
+ Posluchaj, zmywaj sie stad i pozwol mi spokojnie umrzec z glodu, dobra? XXX
+// Arkhan2 L perso2
+L11D15A
+ Okej, Okej. Rozumiem, ty tylko wykonujesz rozkazy.  XXX
+// Arkhan2 L perso2
+L11D15B
+ Wygladasz mi na zmeczonego i glodnego. Moze moge jakos pomoc... XXX
+// Guard perso32
+L11D16A
+ No pewnie, ze jestem. Moj brzuch jest pusty jak sakiewka zebraka. XXX
+// Guard perso32
+L11D16B
+ Tylko niech ci nie przyjdzie do glowy, ze z tego powodu opuszcze swoje stanowisko! XXX
+// Arkhan2 L perso2
+L11D17A
+ Wiem, ze tego nie zrobisz! A ja nawet bym nie pomyslal o wejsciu tam bez twojego pozwolenia. XXX
+// Arkhan2 L perso2
+L11D17B
+ W ciezkich zyjemy czasach, trzeba jednak jakos zachowac sily, mam racje? XXX
+// Arkhan2 L perso2
+L11D17C
+ Wezmy na przyklad ciebie. Jesli zaraz czegos nie zjesz, to zemdlejesz. XXX
+// Guard perso32
+L11D18A
+ Masz calkowita racje. Od switu nic nie mialem w ustach. XXX
+// Guard perso32
+L11D18B
+ Nie mialbys dla mnie choc okruszka, co? XXX
+// Arkhan2 L perso2
+L11D19
+ Zobacze, co da sie zrobic... XXX
+// Arkhan2 L perso2
+L11D20
+ A wiec mnie wpuscisz? XXX
+// Guard perso32
+L11D21A
+ Cos ty, zmysly postradales, czy jak? Przecie juz powiedzialem, ze nie! XXX
+// Guard (spitting) perso32
+L11D21B
+ Agrhh, przez to obrzydliwe zarcie zaschlo mi w gardle. XXX
+// Arkhan2 O perso2
+L11D22
+ Zejdz mi z drogi! Musze zobaczyc Mistrza Budowniczego! XXX
+// Guard perso32
+L11D23A
+ Idz sobie pospacerowac po Mrocznych Ziemiach, szczurzy ryjku! XXX
+// Guard perso32
+L11D23B
+ Nikt tu nie wejdzie! Wynocha! XXX
+// Arkhan2 O (playing the tough guy) perso2
+L11D24A
+ Posluchaj mnie, przyjacielu. Zdaje sie nie rozumiesz bledu, jaki wlasnie popelniasz. XXX
+// Arkhan2 O (playing the tough guy) perso2
+L11D24B
+ TY zejdz mi z oczu ALBO przejade po tobie niczym walec! XXX
+// Guard perso32
+L11D25
+ To sie jeszcze okaze! XXX
+// Arkhan2 G perso2
+L11D26
+ Wpuscisz mnie, jesli ci to dam? XXX
+// Guard perso32
+L11D27
+ Ha! To jest chore! Zjezdzaj, bo inaczej wygraweruje swoje inicjaly na twojej gebie! XXX
+// Guard perso32
+L11D28
+ Zapomnij o tym. Nikt nie moze tu wejsc, to decyzja ostateczna. XXX
+// Arkhan2 G perso2
+L11D29
+ Prosze, to rozweseli twoje trzewia. XXX
+// Guard perso32
+L11D30
+ O tak! Dawaj! XXX
+// Guard (chewing) perso32
+L11D31
+ O Panie na wysokosciach, dzieki przyjacielu! Potrzebowalem tego.  XXX
+// Guard (chewing) perso32
+L11D32
+ O tak, to jest naprawde dobre! XXX
+// Guard (chewing) perso32
+L11D33
+ Zartujesz sobie? Tym czyms nie zdolalbys nawet udlawic zmutowanej myszy! XXX
+// Guard (chewing) perso32
+L11D34
+ To pozywienie z pewnoscia rozjasni twoj dzien, nieprawdaz! XXX
+// Guard (finishing his snack) perso32
+L11D35
+ Ale troszke to slonawe. Rozumiesz, co mam na mysli? XXX
+// Arkhan2 G perso2
+L11D36
+ Prosze, znalazlem cos takiego. Chcesz? XXX
+// Guard perso32
+L11D37A
+ Ty mrocznoziemny smieciu, to ma byc dowcip? XXX
+// Guard perso32
+L11D37B
+ Krew z ciebie wytocze! XXX
+// Arkhan2 G perso2
+L11D38
+ Prosze. Posmakuj tego. XXX
+// Guard perso32
+L11D39
+ Nie masz nic przeciw? XXX
+// Guard perso32
+L11D40A
+ Ej, to jest puste! XXX
+// Guard perso32
+L11D40B
+ Oszukales mnie! XXX
+// Guard perso32
+L11D42A
+ Na Wielkiego Solaara! Jestes glupszy niz przypuszczalem! XXX
+// Guard perso32
+L11D42B
+ Nie chce mi sie pic, jestem glodny! XXX
+// Arkhan2 G perso2
+L11D43
+ Jego halabarda jest zlamana!  XXX
+// Arkhan3 G perso3
+L11D44
+ Jego bron jest zlamana! XXX

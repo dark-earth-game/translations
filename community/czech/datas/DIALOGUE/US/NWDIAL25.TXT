@@ -1,0 +1,388 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL25.TXT
+ // Kalhi (erschrocken) perso13
+L25D106
+ Arkhane, Ty jsi se vrátil? Co se stalo? XXX
+// Arkhan2 G perso2
+L25D200A
+ Nikdo! XXX
+// Arkhan2 G perso2
+L25D200B
+ Kde jsou Kalhi a mùj otec?! XXX
+// Arkhan3 G perso3
+L25D201A
+ Nikdo! XXX
+// Arkhan3 G perso3
+L25D201B
+ Kde jsou Kalhi a mùj otec?! XXX
+// Kalhi (kommt schreiend angelaufen, verstummt dann) perso13
+L25D15
+ Knezi Rylsadhare, co ... XXX
+// Kalhi (erschrocken) perso13
+L25D16A
+ U Boha Slunce! A... Arkhane? XXX
+// Kalhi (erschrocken) perso13
+L25D16B
+ Jsi ... Jsi to ty? XXX
+// Rylsadhar perso20
+L25D100A
+ Ano, to je Arkhan. XXX
+// Rylsadhar perso20
+L25D100B
+ Byl kontaminován, kdyz zabránil smrti Loryny. XXX
+// Rylsadhar (durch Kalhis Gegenwart verlegen) perso20
+L25D17A
+ Arkhane, já ... já vyvedu te odsud, jak jsme ujednali.  XXX
+// Rylsadhar (durch Kalhis Gegenwart verlegen) perso20
+L25D17B
+ Ale musím si nejprve s Profosem  Dhorkanem promluvit a od nej dostat souhlas, ze nám dává volne rucen. XXX
+// Rylsadhar (durch Kalhis Gegenwart verlegen) perso20
+L25D17C
+ Pockej na mne u Sesekhana toho Archivisty na mne, potkáme se pak tam. XXX
+// Kalhi (mit weinerlicher Stimme) perso13
+L25D18A
+ Arkhane, oh mùj milácku, co se ti to stalo? XXX
+// Kalhi (mit weinerlicher Stimme) perso13
+L25D18B
+ Tvùj oblicej, tvoje ruce ...  XXX
+// Kalhi (mit weinerlicher Stimme) perso13
+L25D18C
+ Musíš jít k lecitely do nemocnice! XXX
+// Rylsadhar1 perso20
+L25D93
+ Arkhane, nezapomen: Potkáme se v chrámu, u archivisty! XXX
+// Rylsadhar (A. hat ihn geschlagen) perso20
+L25D26
+ Dábel Temne Zeme ti zasáhl mysl! XXX
+// Rylsadhar (A. hat ihn geschlagen) perso20
+L25D55
+ Ne, mùj synu! Odolávej jedu, který ti tvojí duši nicí! XXX
+// Rylsadhar (durch Arkhans Aussehen erschrocken) perso20
+L25D07A
+ Arkhane! U Boha Slunce, jseš to ty? XXX
+// Rylsadhar (durch Arkhans Aussehen erschrocken) perso20
+L25D07B
+ Lory mela pravdu, ze te kontaminovali. To je dábel Temne Zeme! XXX
+// Rylsadhar perso20
+L25D27
+ Prosím te, mùj synu, uklidni se! XXX
+// Arkhan1 L perso1
+L25D01A
+ Svetlo s tebou, otce.  XXX
+// Arkhan1 L perso1
+L25D01B
+ Je všechno v porádku? Vypadáte ustarane  ...  XXX
+// Arkhan1 O perso1
+L25D106A
+ Bud pozdraven, otce! XXX
+// Arkhan1 O perso1
+L25D106B
+ Ríkám jenom, ze vypadáte, jako byste s levou nohou vstal! XXX
+// Rylsadhar perso20
+L25D02A
+ Svetlo s tebou, Arkhane.  XXX
+// Rylsadhar perso20
+L25D02B
+ Moje mysl je díky problemùm ztmavlá, pro ktere musím najít rešení. XXX
+// Arkhan1 L perso1
+L25D03
+ Jste si jistý, ze je všechno v porádku? XXX
+// Arkhan1 O perso1
+L25D06
+ Co se stalo? Velká knezka zatemnila ti zivot? XXX
+// Rylsadhar perso20
+L25D04A
+ Dost, Arkhane.  XXX
+// Rylsadhar (überdrüssig)perso20
+L25D04B
+ Prosím te, mùj synu, udelej mi tu laskavost a vrat se zpátky k tvým povinnostem. XXX
+// Rylsadhar perso20
+L25D04C
+ Profos delá pravidelne kontroly, nez abys ty pricházel príliš pozde! XXX
+// Arkhan2 G perso1
+L25D104
+ Znáte to, otce? XXX
+// Rylsadhar perso20
+L25D105A
+ Prestan, Arkhane, mám spoustu jiných vecí v hlave. XXX
+// Rylsadhar perso20
+L25D105B
+ A bylo by lepší kdybys neco lepšího delal! XXX
+// Arkhan2 L perso2
+L25D08
+ Otce, co se se mnou stalo? Pod kterým dáblem trpým?  XXX
+// Rylsadhar (durch das Schicksal seines Sohnes gerührt) perso20
+L25D09A
+ Arkhane ... Mùj synu, tvou odvahou jsi Velkou Knezku zachránil. XXX
+// Rylsadhar perso20
+L25D09B
+ Ale nevím, co by tebe mohlo vylecit. XXX
+// Rylsadhar perso20
+L25D09C
+ Udeláme všechno, abychom te vylecili.  XXX
+// Rylsadhar perso20
+L25D09D
+ Thanandar, náš nejlepší lekar, postará se jiz o to. XXX
+// Arkhan2 L perso2
+L25D10A
+ Thanandar mi rekl, ze nemùze nic pro mne udelat. XXX
+// Arkhan2 L perso2
+L25D10B
+ Ríkal, ze se jediný spolehlivý prostredek v nejake hrobce nachází. XXX
+// Rylsadhar (überrascht) perso20
+L25D11
+ Co? Thanandar ti o ... o tomto míste vyprável?  XXX
+// Arkhan2 G perso2
+L25D12A
+ Ano, on ríkal, ze jste jediná osoba, která mne tam mùze dovest ...  XXX
+// Arkhan2 G perso2
+L25D12B
+ Otce, potrebuju vaší pomoc!  XXX
+// Rylsadhar (trifft eine Entscheidung) perso20
+L25D13A
+ Kdybych jen vedel, ze tento den prijde ... XXX
+// Rylsadhar perso20
+L25D13B
+ Tvoje odvaha a tvoje oddanost dávají ti právo, všechno vyzkoušet! XXX
+// Rylsadhar perso20
+L25D13C
+ Mel bys take vedet, ze je mi vlastne zakázáno, te k svatemu místu dovest. XXX
+// Rylsadhar perso20
+L25D13D
+ Ale aby si se uzdravil, zlomím mojí prísahu. XXX
+// Rylsadhar perso20
+L25D13E
+ Musíš mi slíbit, ze nic o tom, co já ti ukázu, nekomu nebudeš vyprávet. XXX
+// Arkhan2 L perso2
+L25D14
+ Slibuju. XXX
+// Arkhan2 O perso2
+L25D19
+ Otce, co se se mnou stalo?! Proklate, mám bolesti! XXX
+// Arkhan2 O perso2
+L25D20A
+ Thanandar! On nemùze nic delat! XXX
+// Arkhan2 O perso2
+L25D20B
+ On tvrdí, ze se protilek v nejake tajemne hrobce nachází! XXX
+// Arkhan2 O perso2
+L25D21
+ Já slíbím vše, co chcete, ale pomozte mi!  XXX
+// Arkhan3 G perso3
+L25D22
+ Otce, mám bolesti! XXX
+// Arkhan3 G perso3
+L25D23A
+ Thanandar ... mi nemùze pomoci! XXX
+// Arkhan3 G perso3
+L25D23B
+ On ríkal, ze se protilek v tajemne hrobce nachází. XXX
+// Arkhan3 G perso3
+L25D24
+ Ríkal, ze mne tam mùzete zavest!  XXX
+// Arkhan3 G perso3
+L25D25
+ Souhlas. XXX
+// Kalhi perso13
+L25D85
+ Arkhane, ne! XXX
+// Kalhi perso13
+L25D86
+ Tak je to dobre. Klid. XXX
+// Kalhi (beunruhigt) perso33
+L04D41
+ Arkhane! Co se s tebou stalo? XXX
+// Arkhan2 L perso2
+L25D62
+ Zádne starosti, Kalhi, stihneme to. XXX
+// Arkhan2 O perso2
+L25D64
+ Zacínám dostávat bolesti. Musím za mým otcem! XXX
+// Kalhi (gerührt) perso13
+L25D63A
+ Ano, dùveruju Rylsadharovi. XXX
+// Kalhi (gerührt) perso13
+L25D63B
+ Mel bys hned za ním jít. XXX
+// Arkhan2 L perso2
+L25D58
+ Mùj otec nám pomùze, nedelej si starosti! XXX
+// Arkhan2 O perso2
+L25D61
+ Zádne starosti, mùj otec se postará o všechno! XXX
+// Kalhi (gerührt) perso13
+L25D59A
+ Oh, já v to doufám, ze te mùze vylecit.  XXX
+// Kalhi (gerührt) perso13
+L25D59B
+ Mám strach o tebe, Arkhane. XXX
+// Kalhi (gerührt) perso13
+L25D59C
+ A co reknou knezí, pokud te tak uvidí ... tak zmenenýho. XXX
+// Kalhi (gerührt) perso13
+L25D59D
+ Dostanou z tebe strach, mohli by te do Temne Zeme poslat! XXX
+// Arkhan2 L (beruhigend) perso2
+L25D56A
+ Kalhi ... Jen zádnou paniku ... XXX
+// Arkhan2 L perso2
+L25D56B
+ Poslouchej, musel jsem nemocnici opustit ...  XXX
+// Arkhan2 L perso2
+L25D56C
+ Jeden Strázce ohne mne tam napadl. XXX
+// Arkhan2 L perso2
+L25D56D 
+ On mne nepoznal, on si myslel ze jde o kreaturu Temne Zeme. XXX
+// Arkhan2 O perso2
+L25D60A
+ Klid! A zádne reci! XXX
+// Arkhan2 O perso2
+L25D60B
+ Nemohu jít do nemocnice.  XXX
+// Arkhan2 O perso2
+L25D60C
+ Byl jsem tam, ale sotva jsem procitnul, napadl mne Strázce ohne. XXX
+// Arkhan2 O perso2
+L25D60D
+ Kricel, jako bych byl nejaká Kreatura z Temne Zeme! Nemel jsem jinou moznost, musel jsem se bránit! XXX
+// Kalhi (gerührt) perso13
+L25D57A
+ Pote, co se zde v poslední dobe deje, vládne nahore panika.  XXX
+// Kalhi (gerührt) perso13
+L25D57B
+ Profos získal moc nad celým Stallitem. Všechny brány jsou zamceny. XXX
+// Kalhi (gerührt) perso13
+L25D57C
+ Plošina ke Spodnímu mestu je zablokována, nemohu jít dolu. XXX
+// Kalhi (gerührt) perso13
+L25D57D
+ A Strázci ohnù hledají všude škodnou.  XXX
+// Kalhi (gerührt) perso13
+L25D57E
+ Mám strach z toho, co se stane, kdyz mne najdou! XXX
+// Arkhan2 G perso2
+L25D94A
+ To muselo memu otci patrit. XXX
+// Arkhan2 G perso2
+L25D94B
+ Víš ty co to je? XXX
+// Kalhi perso13
+L25D95
+ Ne, ty víš velmi dobre, ze já neumím císt ... XXX
+// Kalhi perso13
+L25D101A
+ Ne, nic. XXX
+// Kalhi perso13
+L25D101B
+ Arkhane, vyzen to z hlavy! XXX
+// Kalhi perso13
+L25D101C
+ Musíme neco udelat, aby si se uzdravil. To je to jedine, co nyní udeláme! XXX
+// Arkhan3 G perso3
+L25D66
+ Musím k mýmu otci. XXX
+// Arkhan3 G perso3
+L25D67
+ Mej dùveru k Rylsadharovi. XXX
+// Arkhan3 G perso3
+L25D68A
+ Kalhi ... Uklidni se ...  XXX
+// Arkhan3 G perso3
+L25D68B
+ Zapomen na nemocnici. Jeden Strázce ohne mne tam napadl. XXX
+// Arkhan3 G perso3
+L25D68C
+ Musel jsem se bránit ... Zabil jsem ho. XXX
+// Arkhan3 G perso3
+L25D102A
+ To patrilo memu otci ... XXX
+// Arkhan3 G perso3
+L25D102B
+ Víš ty, co to je? XXX
+// Arkhan2 O perso2
+L04D37
+ Dávej pozor, bojuješ jako zacátecník! XXX
+// Arkhan2 L perso2
+L04D38
+ Sag bloß, Du hast ja direkt was drauf! XXX
+// Arkhan3 O perso3
+L04D39
+ A to nazýváš bojování! XXX
+// Arkhan3 L perso3
+L04D40
+ Tomu ríkáš boj! XXX
+// Kalhi (muß sich wehren) perso33
+L04D43
+ Arkhane, ne! XXX
+// Kalhi (verängstigt) perso33
+L04D42
+ Ne, Arkhane! Musíš bojovat jinde! XXX
+// Arkhan1 G perso1
+L25D28
+ Copak je to nahore? XXX
+// Arkhan1 G perso1
+L25D29
+ Nic nez nevyuzitý cas! XXX
+// Arkhan1 G perso1
+L25D30
+ Co je to za neporádek na techto regálech! XXX
+// Arkhan2 G perso1
+L25D31
+ Nahore není nic. XXX
+// Arkhan2 G perso1
+L25D33
+ Pfff! Nic. XXX
+// Arkhan3 G perso1
+L25D35
+ Ztráta casu. XXX
+// Arkhan1 L perso1
+L25D43
+ To je pracovna meho otce. XXX
+// Arkhan1 O perso1
+L25D44
+ Finger weg vom Schreibtisch meines Vaters. XXX
+// Arkhan1 L (vor einem Globus) perso1
+L25D49
+ Mùj otec tvrdí, ze tato koule náš svet predstavuje.  XXX
+// Arkhan1 O (vor einem Globus) perso1
+L25D50
+ Jiz opet jedna z nepotrebných vecí od predkù! XXX
+// Arkhan1 G perso1
+L25D76
+ Vypadá to jako zámek. XXX
+// Arkhan2 G perso2
+L25D77
+ Vypadá to jako zámek. XXX
+// Arkhan2 L perso2
+L25D81
+ S tím to nemohu odemknout. XXX
+// Arkhan3 G perso3
+L25D78
+ Jeden zvláštní zámek. XXX
+// Arkhan3 L perso3
+L25D84
+ Tak se nedostanu dále! XXX
+// Arkhan2 L perso2
+L25D79
+ Ne, klíc není ùplný. XXX
+// Arkhan2 O perso2
+L25D80
+ Proklate! On se nehodí! XXX
+// Arkhan3 L perso3
+L25D82
+ Klíc není ùplný! XXX
+// Arkhan3 O perso3
+L25D83
+ Nefunguje! XXX
+// Arkhan2 O (frustriert) perso2
+L25D74
+ Kdepak je mùj otec!? XXX
+// Arkhan3 O (frustriert) perso3
+L25D75
+ Otce! Kde jste!? XXX
+// Arkhan2 G perso1
+L25D87
+ Copak je zde? XXX
+// Arkhan3 G perso1
+L25D88
+ Copak je zde? XXX

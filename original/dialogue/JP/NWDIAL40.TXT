@@ -1,0 +1,37 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL40.TXT
+ // Arkhan3 G (groggy) perso3
+L40D07A
+ Huh... What a fall... XXX
+// Arkhan3 G (groggy) perso3
+L40D07B
+ My bones... are shattered... XXX
+// Arkhan3 G perso3
+L40D04A
+ There it is... the... the Tomb... XXX
+// Arkhan3 G perso3
+L40D04B
+ I made it... I found it! XXX
+// Arkhan3 G perso3
+L40D05A
+ The Evil... My body... is burning... XXX
+// Arkhan3 G perso3
+L40D05B
+ Got to hurry... fast! XXX
+// Arkhan3 G perso3
+L40D01
+ Carvings... Done by human hand... long ago... XXX
+// Arkhan3 G perso3
+L40D02
+ A huge chain carved in stone. XXX
+// Arkhan3 G perso3
+L40D03
+ The stone's hot... XXX
+// Arkhan3 G perso3
+L40D06A
+ Rubble... XXX
+// Arkhan3 G perso3
+L40D06B
+ Just rubble... XXX
+// Arkhan3 G perso3
+L40D08
+ Remains of pulley... XXX

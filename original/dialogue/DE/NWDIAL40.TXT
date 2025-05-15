@@ -1,0 +1,37 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL40.TXT
+ // Arkhan3 G (angeschlagen) perso3
+L40D07A
+ Ah ... Das war ein harter Fall ... XXX
+// Arkhan3 G (angeschlagen) perso3
+L40D07B
+ Ich fühl' mich ... wie zerschlagen ... XXX
+// Arkhan3 G perso3
+L40D04A
+ Da ist ... die ... Grabstätte ... XXX
+// Arkhan3 G perso3
+L40D04B
+ Ich bin da ... Ich hab' sie gefunden! XXX
+// Arkhan3 G perso3
+L40D05A
+ Das Böse ... Mein Körper ... brennt ... XXX
+// Arkhan3 G perso3
+L40D05B
+ Ich muß ... schnell machen! XXX
+// Arkhan3 G perso3
+L40D01
+ Reliefs ... Die haben Menschen geschaffen  ... Vor sehr langer Zeit ... XXX
+// Arkhan3 G perso3
+L40D02
+ Eine riesige Kette, in Stein gehauen. XXX
+// Arkhan3 G perso3
+L40D03
+ Der Stein ist warm ... XXX
+// Arkhan3 G perso3
+L40D06A
+ Geröll ... XXX
+// Arkhan3 G perso3
+L40D06B
+ Nichts als Geröll ... XXX
+// Arkhan3 G perso3
+L40D08
+ Die Überreste des Propellers ... XXX

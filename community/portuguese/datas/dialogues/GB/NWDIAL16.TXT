@@ -1,0 +1,490 @@
+Début du fichier F:\DEV\DKE\DATAS\DIALOGUE\SP\NWDIAL16.TXT
+// Delia (a Mahor) perso10
+L16D200
+Então, Mahor? XXX
+// Mahor perso17
+L16D201A
+Um espetáculo soberbo, Delia... como de costume. XXX
+// Mahor perso17
+L16D201B
+O Armal Sadak e os seus homens vão ficar enfeitiçados! XXX
+// Delia (a Mahor) perso10
+L16D202
+Bem, volto à minha cabana... Estou cansada. XXX
+// Mahor (carrancudo) perso17
+L16D666
+Incomodas-me! XXX
+// Mahor (carrancudo) perso17
+L16D667
+Não tenho tempo para jogos, afasta-te! XXX
+// Mahor (enervado) perso17
+L16D668
+Retira-te do caminho, ou vais lamentá-lo! XXX
+// Mahor (vai atacar) perso17
+L16D669
+Pela minha tocha, tu procuraste-a! XXX
+// Mahor (assustado, ataca) perso17
+L16D670
+Não terás a minha pele, monstro! XXX
+// Delia (magoada) perso10
+L16D125
+Já não era o Mahor, era uma besta! XXX
+// Arkhan2 L perso2
+L16D203
+Confia em mim, eu ainda sou humano. XXX
+// Arkhan2 O perso2
+L16D204
+Vá, vem depressa... antes que eu também me transforme! (riso) XXX
+// Arkhan3 G perso3
+L16D205
+Vá, vem! XXX
+// Mahor (furioso) perso17
+L16D998
+Aproxima-te escória, vou ensinar-te a incomodar as mulheres! XXX
+// Delia (reconhece Mahor horrorosamente transformado) perso10
+L16D25
+Deus Sol, Mahor! XXX
+// Delia (surpreendida e assustada por Arkhan) perso10
+L16D49
+Quem... Quem és tu? Que queres? XXX
+// Delia perso10
+L16D51
+Outra vez tu! XXX
+// Delia perso10
+L16D50
+És tu. Espero que tenhas algo para mim. XXX
+// Delia (assustada) perso10
+L16D52
+Não! Não te aproximes! XXX
+// Delia perso10
+L16D122
+Pára! Metes-me medo! XXX
+// Delia (amedrontada, chama) perso10
+L16D906
+Mahor! Mahor! XXX
+// Mahor (de longe, encolerizado) perso1
+L16D999
+Eh, cara de peido! Sai daqui! XXX
+// Mahor perso17
+L16D350
+Eh, o concurso de mau hálito é amanhã! XXX
+// Mahor perso17
+L16D351
+Está bem monstro, já vou! XXX
+// Mahor (Arkhan aproxima-se) perso17
+L16D127
+Que queres? XXX
+// Arkhan2 L perso2
+L16D206
+Eh, Mahor... XXX
+// Arkhan2 O perso2
+L16D207
+Eh, tenho de falar contigo! XXX
+// Mahor (carrancudo) perso17
+L16D208
+Espera-me ao balcão, que já vou... XXX
+// Arkhan3 L perso3
+L16D209
+Eh! XXX
+// Mahor perso17
+L16D210
+Calma! Já vou, vai para o balcão! XXX
+// Arkhan2 L perso2
+L16D500
+Não tenhas medo, o Bogdaran envia-me. XXX
+// Delia perso10
+L16D501
+Bogdaran? Onde está? XXX
+// Arkhan2 L perso2
+L16D502
+Lá em cima na Cidade Alta. Vou guiar-te até ele. XXX
+// Delia perso10
+L16D503
+Está bem, vou contigo. XXX
+// Arkhan2 O perso2
+L16D504A
+O Bogdaran envia-me buscar-te! XXX
+// Arkhan2 O perso2
+L16D504B
+Segue-me sem armar escândalo. XXX
+// Delia (intimidada) perso10
+L16D505
+Bogdaran? XXX
+// Arkhan2 O perso2
+L16D506
+Sim, e eu devolvo-te aos seus braços. XXX
+// Arkhan2 L perso2
+L16D507
+Não te preocupes, será muito em breve. XXX
+// Delia perso10
+L16D508
+Dou-te tudo o que quiseres desde que me tires daqui! XXX
+// Arkhan2 O perso2
+L16D509
+E não resistas, não tenho tempo a perder! XXX
+// Arkhan2 O perso2
+L16D510
+Tudo o que eu quiser, eh? Não vou esquecer isso... XXX
+// Arkhan2 G (mostra uma rata morta) perso2
+L16D888
+Gostas disto? XXX
+// Delia (enojada) perso10
+L16D889
+Ah! Tira isso da minha vista! XXX
+// Delia perso10
+L16D700
+Não, isso não me interessa. XXX
+// Arkhan3 L perso3
+L16D402
+Calma! Não te farei nada. XXX
+// Delia perso10
+L16D409
+Afasta-te, monstro! XXX
+// Arkhan3 L perso3
+L16D407
+Escuta-me! XXX
+// Delia perso10
+L16D410
+Toca-me e morrerás como uma rata! XXX
+// Arkhan3 G perso3
+L16D511
+Vem comigo! XXX
+// Delia perso10
+L16D512
+Sigo-te. XXX
+// Arkhan2 L perso2
+L16D513A
+Que se passa aqui? XXX
+// Arkhan2 L perso2
+L16D513B
+Não há mais ninguém por perto. XXX
+// Delia (temerosa) perso10
+L16D514A
+Eu... Estava escondida. Ouvi uns gritos, uns ruídos de luta. XXX
+// Delia perso10
+L16D514B
+Tenho medo. XXX
+// Arkhan2 L perso2
+L16D515C
+Não te mexas, fica aqui! XXX
+// Arkhan2 O perso2
+L16D516A
+Então, esconde-se na sua cabana! XXX
+// Arkhan2 O perso2
+L16D516B
+Estás sozinha aqui? XXX
+// Arkhan2 O perso2
+L16D517
+Não te preocupes, comigo aqui não tens nada a temer! XXX
+// Arkhan2 L perso2
+L16D518
+Fica aqui, esconde-te. XXX
+// Arkhan2 O perso2
+L16D519
+Não te mexas daqui. Lá fora conseguirão matar-te! XXX
+// Delia perso10
+L16D520
+Sim... Prefiro não ir embora. XXX
+// Arkhan2 G perso2
+L16D521
+Não te preocupes, eu trato disto! XXX
+// Delia perso10
+L16D522
+Tem cuidado! XXX
+// Arkhan2 L perso2
+L16D100
+Não tenhas medo! Não te quero fazer mal! XXX
+// Delia (amedrontada) perso10
+L16D101
+Então, que... que queres? XXX
+// Arkhan2 L (tranquilizador) perso2
+L16D102A
+Calma... Chamo-me Arkhan, e sou amigo dos Buscadores. XXX
+// Arkhan2 L perso2
+L16D102B
+Sei que não sou agradável à vista, mas não te quero fazer mal nenhum. XXX
+// Arkhan2 L perso2
+L16D102C
+Não tenhas medo, está bem? XXX
+// Delia (tranquila mas prudente) perso10
+L16D103
+Hm... está bem. Mas se te aproximares demasiado, chamo o Mahor! XXX
+// Arkhan2 L (tentando ser simpático) perso2
+L16D104
+Eh... Vi-te dançar, e estava verdadeiramente bem. XXX
+// Delia perso10
+L16D105A
+Obrigada, és muito amável... (silêncio incómodo) XXX
+// Delia perso10
+L16D105B
+Ouve, que queres de mim? XXX
+// Arkhan2 L perso2
+L16D106
+Preciso de ajuda. Os Guardiões do Fogo perseguem-me. Podes ajudar-me? XXX
+// Delia perso10
+L16D107
+Aqui em baixo se precisas de um favor, tens de falar com o Armal Sadak. XXX
+// Arkhan2 L perso2
+L16D108
+Armal Sadak? XXX
+// Delia perso10
+L16D109A
+Sim! É o maior Buscador da cidade baixa. Aqui toda a gente o respeita. XXX
+// Delia perso10
+L16D109B
+Se alguém pode ajudar-te, é ele! Mas não sei se quererá... XXX
+// Arkhan2 L perso2
+L16D110
+Onde posso encontrá-lo? XXX
+// Delia perso10
+L16D111
+Isso não é assim tão fácil... Eu não posso levar-te até ele assim sem mais nem menos. Precisaria de uma prova da tua boa fé. XXX
+// Arkhan2 L perso2
+L16D112
+Conheço o Armal Sadak. Mas não sei se poderá ajudar-me. XXX
+// Delia perso10
+L16D113
+Se o Armal Sadak não pode ajudar-te, não vejo o que eu poderia fazer. XXX
+// Arkhan2 L perso2
+L16D114
+Que queres que faça? XXX
+// Delia perso10
+L16D115A
+Dá-me uma prenda, algo bonito, brilhante... XXX
+// Delia perso10
+L16D115B
+Não sei o que posso fazer em comparação com o que poderia o Armal Sadak... XXX
+// Arkhan2 G perso2
+L16D116
+Não tens mais nada para me dizer? XXX
+// Delia perso10
+L16D117
+Não, não creio. XXX
+// Arkhan2 O perso2
+L16D118
+Silêncio! Pára de gritar! XXX
+// Delia (amedrontada) perso10
+L16D119
+Peço-te, não me faças mal! XXX
+// Arkhan2 O (ameaçador) perso2
+L16D120A
+Basta, chorona! XXX
+// Arkhan2 O perso2
+L16D120B
+Se não te ocorre nada mais útil, vou fazer-te dançar uma pequena dança à minha escolha! XXX
+// Delia (ganha medo) perso10
+L16D121
+Não! Mahor, socorro! XXX
+// Delia perso10
+L16D886A
+Vieste para trocar? XXX
+// Delia perso10
+L16D886B
+Isso não me interessa, os meus protetores dão-me tudo o que quero... XXX
+// Delia perso10
+L16D887
+Já te disse que não fazia trocas! XXX
+// Arkhan2 O perso2
+L16D66
+Vais ajudar-me agora ou arranjo-te a cara! XXX
+// Delia perso10
+L16D67
+Não, não me batas! XXX
+// Arkhan2 L perso2
+L16D68
+Não tenho prendas para te oferecer, mas realmente preciso da tua ajuda! XXX
+// Delia perso10
+L16D69
+Lamento, não posso levar-te a ver o Armal Sadak assim sem mais nem menos... XXX
+// Arkhan2 G perso2
+L16D70
+Talvez tenha o que queres. Convence-te? XXX
+// Delia perso10
+L16D71
+Não. Isso não me interessa... XXX
+// Delia (Arkhan dá-lhe um CD)perso10
+L16D72
+Um espelho de luz de Antes! Sim, isso agrada-me! XXX
+// Delia perso10
+L16D74A
+Encontrarás o Armal Sadak não muito longe daqui, numa construção em forma de navio. XXX
+// Delia perso10
+L16D74B
+Quando o vires, diz-lhe a seguinte frase: XXX
+// Delia perso10
+L16D74C
+"O Homem não é mais que um peão que a mão do Destino mergulha umas vezes na Sombra e outras na Luz". XXX
+// Delia perso10
+L16D75
+É uma palavra-passe. XXX
+// Arkhan2 G perso2
+L16D76
+É tudo? XXX
+// Delia perso10
+L16D77
+Para lhe falar, sim. Mas se queres mesmo que te ajude, terás de vencê-lo no jogo de Yong. XXX
+// Arkhan2 G perso2
+L16D78
+O que é o jogo de Yong? XXX
+// Delia perso10
+L16D79A
+É o jogo preferido do Armal Sadak. Joga o tempo todo. XXX
+// Delia perso10
+L16D79B
+Diz que a vida é uma longa partida de Yong, ou algo assim. XXX
+// Arkhan2 G perso2
+L16D80
+Como posso fazer para vencê-lo? XXX
+// Delia perso10
+L16D81A
+Eu não sei grande coisa... XXX
+// Delia perso10
+L16D81B
+Isso joga-se sobre um tabuleiro com uns peões de sombra e outros de luz. XXX
+// Delia perso10
+L16D82
+E o Armal diz-me sempre que para ganhar, é preciso pôr os teus peões sobre os cantos do tabuleiro. XXX
+// Arkhan2 G perso2
+L16D83
+Não tens mais nada para me dizer? XXX
+// Delia perso10
+L16D84
+Não, disse-te tudo o que sabia. XXX
+// Delia perso10
+L16D85
+Deves ir-te embora agora... XXX
+// Delia perso10
+L16D885A
+Já me fizeste uma prenda, e é suficiente. XXX
+// Arkhan2 L perso2
+L16D400
+Não tenhas medo! Não te farei nada. XXX
+// Arkhan2 O perso2
+L16D401
+Pára de chorar ou faço-te calar à pancada! XXX
+// Delia perso10
+L16D404A
+Bruto! Pagarás pelo que fizeste ao Mahor. XXX
+// Delia perso10
+L16D404B
+E se me tocares, o Armal Sadak arranca-te o coração! XXX
+// Arkhan2 L perso2
+L16D405
+Eu não quero matar ninguém, preciso de ajuda. XXX
+// Arkhan2 O perso2
+L16D406
+Tudo o que quero é ajuda! XXX
+// Delia perso10
+L16D408
+Sai daqui! Não tenho nada para te dizer! XXX
+// Delia (golpeada por Arkhan) perso10
+L16D403
+Pára, bruto sujo! XXX
+// Arkhan2 L perso2
+L16D300A
+Saudações... Mahor, não é isso? XXX
+// Arkhan2 L perso2
+L16D300B
+Bonito espetáculo... XXX
+// Mahor perso17
+L16D301
+Hmm... Que queres? XXX
+// Arkhan2 O perso2
+L16D302A
+Apetecível, a bailarina. XXX
+// Arkhan2 O perso2
+L16D302B
+Estarias de acordo em partilhá-la comigo? XXX
+// Mahor perso17
+L16D303A
+Esquece lá isso, homem. A Delia já tem os seus... protetores. XXX
+// Mahor perso17
+L16D303B
+E de qualquer maneira, tu não és o tipo dela! XXX
+// Arkhan2 L perso2
+L16D304A
+Sou o Arkhan, amigo dos Buscadores. XXX
+// Arkhan2 L perso2
+L16D304B
+Tenho alguns problemas com os Guardiões do Fogo... e preciso de apoio. XXX
+// Arkhan2 O perso2
+L16D306A
+Chamo-me Arkhan. Tenho os Guardiões do Fogo no cu, e estou a morrer... XXX
+// Arkhan2 O perso2
+L16D306B
+E se queres saber tudo, tenta sondar os brutos tatuados que frequentam este lugar! XXX
+// Mahor perso17
+L16D305
+Já vejo... Mas não está aqui o que procuras. XXX
+// Mahor (carrancudo mas generoso) perso17
+L16D307A
+Por outro lado, há um frasco de Stohll sobre a mesa. XXX
+// Mahor perso17
+L16D307B
+Pega nele, ofereço-to. XXX
+// Mahor (carrancudo mas generoso) perso17
+L16D308A
+Guarda o cantil que pegaste de cima da mesa. XXX
+// Mahor perso17
+L16D308B
+É tudo o que posso fazer por ti. XXX
+// Arkhan2 L perso2
+L16D309
+Se tu não podes ajudar-me, onde posso ir? XXX
+// Mahor perso17
+L16D310A
+Hmm... Suponho que não te vais render aos Guardiões do Fogo... XXX
+// Mahor perso17
+L16D310B
+Se não tens nada a perder, podes ir ver o Armal Sadak. XXX
+// Mahor perso17
+L16D310C
+Mas faças o que fizeres, não te metas com os Konkalites! Só te trará problemas! XXX
+// Arkhan2 O perso2
+L16D311A
+Uma pergunta: isso faz-te sorrir? XXX
+// Arkhan2 O perso2
+L16D311B
+Ou fazes isso para te armares em durão? XXX
+// Mahor perso17
+L16D312A
+Eu só sorrio para as mulheres bonitas, que te parece? XXX
+// Mahor perso17
+L16D312B
+Vai arrastar-te para outro lado, eu tenho coisas para fazer... XXX
+// Arkhan2 L perso2
+L16D313
+Podes talvez dizer-me mais alguma coisa? XXX
+// Mahor perso17
+L16D314
+Lamento, ando escasso de bons conselhos. XXX
+// Arkhan2 L perso2
+L16D315
+A sério que não tens mais nada para me dizer? XXX
+// Mahor perso17
+L16D316A
+Não... XXX
+// Mahor perso17
+L16D316B
+Mas se queres conversar um pouco, o melhor é ires ver a Delia. XXX
+// Arkhan2 O perso2
+L16D317A
+Fazes-te de durão, hein?! Mas sabes o que acho? XXX
+// Arkhan2 O perso2
+L16D317B
+Acho que atrás do teu balcão apertas as nádegas para não sujares as calças! XXX
+// Mahor (encolerizado) perso17
+L16D318A
+Está bem, amigo! Precisas de uma boa sova. XXX
+// Mahor perso17
+L16D318B
+Vem cá, que vou dar-te esse serviço! XXX
+// Arkhan3 L perso3
+L16D320
+Saudações, homem. XXX
+// Mahor (impressionado) perso17
+L16D321
+Deus Sol... Quem és tu? XXX
+// Arkhan3 L perso3
+L16D322
+Calma. Procuro... apoio. XXX

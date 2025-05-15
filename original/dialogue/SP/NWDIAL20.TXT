@@ -1,0 +1,440 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\SP\NWDIAL20.TXT
+ // Zed84 perso84
+L20D01
+ ¡Arkhan! ¡Que pasa ahí! XXX
+// Arkhan1 G perso1
+L20D02
+ ¡Están matando a la Gran Predicadora! ¡Huyamos! XXX
+// Zed84 (furioso) perso84
+L20D03
+ ¿¡Huir!? ¡Cobarde innoble! XXX
+// Arkhan2 G perso2
+L20D85
+ ¡Sí! XXX
+// Arkhan2 G perso2
+L20D93
+ Ya lo he accionado. XXX
+// Arkhan3 G perso3
+L20D86
+ ¡Sí! XXX
+// Arkhan3 G perso3
+L20D94
+ ¡Ya está accionado! XXX
+// Thanandar25 (echa a Arkhan al suelo)perso25
+L20D95
+ ¿Creías que ibas a escaparte? XXX
+// Gardien1 perso41
+L20D121
+ ¡Ah! ¡Al fin te encuentro! Ven a ocupar tu puesto... XXX
+// Zed84 (furioso) perso84
+L20D04
+ ¡Arkhan! XXX
+// Arkhan1 G (voiendo llegar a Zed furioso) perso1
+L20D05
+ No, Zed, no es... XXX
+// Zed84 (se prepara a matar a Arkhan) perso84
+L20D06
+ ¡Maldito traidor! XXX
+// Gardien1 (refunfuñando) perso41
+L20D07A
+ Yo no sé demasiado sobre el objeto de esta asamblea. XXX
+// Gardien1 (refunfuñando) perso41
+L20D07B
+ Espero que esto no dure demasiado tiempo... XXX
+// Gardien1 perso41
+L20D08A
+ ¡Eh, Arkhan! XXX
+// Gardien1 perso41
+L20D08B
+ ¿Piensas montar guardia sin tu sable? XXX
+// Gardien1 perso41
+L20D08C
+ ¿Piensas montar guardia con este hacha? XXX
+// Gardien1 perso41
+L20D09A
+ ¡Si Dhorkan te ve aquí sin tu arma, tu vida no valdrá nada! XXX
+// Gardien1 perso41
+L20D09B
+ ¡Si Dhorkan te ve aquí sin tu sable de Guardián, tu vida no valdrá nada! XXX
+// Gardien1 perso41
+L20D10A
+ ¡Venga, Arkhan, no te quedes ahí plantado! XXX
+// Gardien1 perso41
+L20D10B
+ ¡Ve a buscar tu sable, en nombre del Dios Sol! XXX
+// Gardien1 (exasperado) perso41
+L20D11A
+ ¡Arkhan, te estás buscando problemas! XXX
+// Gardien1 perso41
+L20D11B
+ ¡No puedes montar guardia sin tu sable! XXX
+// Gardien1 perso41
+L20D12
+ ¡¿Has oído?! ¡Pasa algo! XXX
+// Arkhan1 G perso1
+L20D13
+ ¡Vamos a ver! XXX
+// Gardien1 perso41
+L20D14
+ ¡Que la luz esté con usted, Gran Predicadora! XXX
+// Phedoria perso26
+L20D38
+ ¡Estás firmando tu detención de por vida, Arkhan! XXX
+// Gardien9 perso49
+L20D96
+ ¡Alto! ¿Quién eres tú? XXX
+// Gardien10 perso50
+L20D97
+ Arkhan... ¿Dios Sol, eres tú? XXX
+// Gardien9 perso49
+L20D99
+ ¿Quién eres tú? ¡Habla o disparo! XXX
+// Gardien9 perso49
+L20D112
+ ¡A muerte! XXX
+// Gardien11 perso51
+L20D120
+ ¡Una criatura! ¡Alerta! XXX
+// Gardien1 perso41
+L20D28
+ ¡Eh! ¡Descarga tus nervios sobre otro, amigo! XXX
+// Arkhan1 L perso1
+L20D15A
+ Que la luz esté contigo, Jedar. XXX
+// Gardien1 perso41
+L20D16A
+ ¡Fuego bendito, Arkhan! ¡Llegas tarde, como de costumbre! XXX
+// Gardien1 perso41
+L20D16B
+ ¡Llegar después de la Gran Predicadora! ¡Qué vergüenza! XXX
+// Arkhan1 L perso1
+L20D15B
+ Perdóname. Estaba... eh... ocupado en la sala de guardia. XXX
+// Gardien1 (enfadado) perso41
+L20D16C
+ Mmmm. Ya veo en qué... XXX
+// Arkhan1 L perso1
+L20D17A
+ ¿No somos más que nosotros dos para montar guardia? XXX
+// Arkhan1 L perso1
+L20D17B
+ Me parece insuficiente como escolta para la Gran Predicadora y sus consejeros. XXX
+// Gardien1 (subiendo los hombros) perso41
+L20D18A
+ ¡Sí! ¡Sobre todo cuando uno de los dos no viene! XXX
+// Gardien1 perso41
+L20D18B
+ En fin, no estaba previsto, supongo que el Preboste no ha podido reunir a la guardia. XXX
+// Gardien1 (amargamente) perso41
+L20D18C
+ ¡De todas maneras, siempre hay dos imbéciles disponibles! XXX
+// Gardien1 (burlón) perso41
+L20D18D
+ Seguro que ha debido ser por sorpresa, o se ha hecho expresamente. XXX
+// Gardien1 (burlón) perso41
+L20D18E
+ ¡Con tus retrasos, estaba seguro de que la guardia sería limitada! XXX
+// Arkhan1 L perso1
+L20D19
+ Hoy tienes un humor un tanto oscuro. XXX
+// Gardien1 perso41
+L20D20A
+ Vamos, ocupa tu lugar al otro lado de la puerta. XXX
+// Gardien1 perso41
+L20D20B
+ ¡No está permitido discutir! XXX
+// Gardien1 (exasperado) perso41
+L20D21
+ Cállate y ocupa tu puesto, ¿de acuerdo? XXX
+// Arkhan1 O perso1
+L20D22
+ Saludos, Jedar. ¿Te lo pasas bien? XXX
+// Gardien1 perso41
+L20D23A
+ Si yo fuera tú, no lo volvería a hacer.  XXX
+// Gardien1 perso41
+L20D23B
+ ¡Si Dhorkan se entera de que no estabas aquí para recibir a la Gran Predicadora, te enviará a que te 
+pudras en el calabozo! XXX
+// Arkhan1 O perso1
+L20D24A
+ ¿Que hacemos aquí plantados delante de una puerta esperando que pase el tiempo? XXX
+// Arkhan1 O perso1
+L20D24B
+ ¿Puedes decírmelo, eh? XXX
+// Arkhan1 O perso1
+L20D25
+ Estoy realmente divertido. ¡Mejor deberías haber sido Predicador, como mi padre! XXX
+// Gardien1 perso41
+L20D26A
+ ¿Predicador? ¿Estás chalado? XXX
+// Gardien1 (un poco azorado) perso41
+L20D26B
+ He... Quiero decir... ¡Predicador, ahí es nada! XXX
+// Gardien1 perso41
+L20D26C
+ Yo también doy gracias cada día al Dios Sol que nos aporta luz y calor. XXX
+// Gardien1 perso41
+L20D26D
+ Pero de ahí a pasar el tiempo rezando ahí al lado, delante del cristal de la sala del Rahal... XXX
+// Gardien1 perso41
+L20D26E
+ ¡Ah no, eso no es para mí! XXX
+// Arkhan1 O perso1
+L20D27
+ ¡Qué incordio! XXX
+// Gardien1 perso41
+L20D29
+ ¡Especie de enfermo! XXX
+// Arkhan2 L perso2
+L20D30
+ ¿Por qué no hablas aquí y ahora? XXX
+// Arkhan2 O perso2
+L20D31
+ ¡Explícate aquí y ahora! XXX
+// Arkhan3 L perso3
+L20D32
+ ¡Explícate, aquí! XXX
+// Arkhan3 O perso3
+L20D33
+ ¡Habla! XXX
+// Lory perso15
+L20D34
+ No debemos quedarnos aquí. Vamos. XXX
+// Arkhan2 G perso2
+L20D35
+ Pero... Gran Predicadora... XXX
+// Arkhan3 G perso3
+L20D36
+ Gran Predicadora... XXX
+// Lory perso15
+L20D37
+ ¡Escucha lo que te digo, sígueme! XXX
+// Arkhan2 L perso2
+L20D39
+ Phedoria, ¿qué es lo que pasa aquí? XXX
+// Arkhan2 O perso2
+L20D40
+ ¿Qué es lo que pasa aquí? XXX
+// Arkhan3 L perso3
+L20D41
+ ¡Phedoria, explícate! XXX
+// Arkhan3 O perso3
+L20D42
+ ¡Explícate! XXX
+// Phedoria perso26
+L20D43
+ ¡Lory te aclarará la situación! XXX
+// Arkhan2 G perso2
+L20D44
+ Pero... Capitana... XXX
+// Arkhan3 G perso3
+L20D45
+ Capitana... XXX
+// Phedoria perso26
+L20D46
+ ¡Síguenos! XXX
+// Arkhan2 L perso2
+L20D100
+ ¡Jezda! ¡Soy yo, Arkhan! ¿Me reconoces? XXX
+// Gardien9 perso49
+L20D101A
+ Arkhan... Sí, eres tú... XXX
+// Gardien9 perso49
+L20D101B
+ Dios Sol, la capitana Phedoria ya nos había prevenido. XXX
+// Gardien9 perso49
+L20D101C
+ Pero yo no pensaba que fuera tan grave. XXX
+// Arkhan2 L perso2
+L20D102
+ Déjame pasar, es Lory en persona quien me envía. XXX
+// Gardien9 perso49
+L20D103
+ Puedes pasar, estamos avisados. XXX
+// Gardien9 perso49
+L20D105
+ Para dejar pasar a Arkhan, Guardián del Fuego. XXX
+// Arkhan2 O (desagradable) perso2
+L20D106
+ ¡Retiraos de ahí u os destripo! XXX
+// Gardien9 (furioso y asustado) perso49
+L20D107
+ ¡Eso se va a ver! XXX
+// Arkhan3 L perso3
+L20D108
+ ¡Soy yo... Arkhan! XXX
+// Gardien9 (intranquilo) perso49
+L20D111
+ Está bien, vamos... XXX
+// Arkhan2 L perso2
+L20D113
+ ¡Soy yo, Arkhan! XXX
+// Gardien10 perso50
+L20D114
+ Tú... ¡Tú ya no eres un hombre! XXX
+// Gardien10 perso50
+L20D115A
+ Me pregunto por qué te protege la Gran Predicadora. ¡Ya no eres de los nuestros! XXX
+// Gardien10 perso50
+L20D115B
+ ¡Si fuera por mí, estarías ya desterrado en la Oscuridad! XXX
+// Arkhan2 L perso2
+L20D116
+ Cálmate, amigo. XXX
+// Gardien10 (agresivo) perso50
+L20D117
+ ¡Fuera de mi vista antes de que nos libremos de ti de una vez por todas! XXX
+// Gardien10 perso50
+L20D118
+ ¡Estaba seguro! ¡Ya no eres Arkhan! XXX
+// Gardien10 (intranquilo) perso50
+L20D109
+ Estamos avisados... vamos... XXX
+// Gardien10 perso50
+L20D119
+ ¡Vamos! ¡No te quedes ahí! XXX
+// Arkhan2 G (quería marcharse, pero cambia de opinión) perso2
+L20D122A
+ No, a lo que vengo es demasiado importante.  XXX
+// Arkhan2 G (quería marcharse, pero cambia de opinión) perso2
+L20D122B
+ ¡Debo ir a ver a Lory! XXX
+// Arkhan3 G (quería marcharse, pero cambia de opinión) perso3
+L20D123
+ No, es demasiado importante. ¡Debo ver a Lory! XXX
+// Arkhan1 L perso1
+L20D48
+ Muy justo... No puedo hacer eso. XXX
+// Arkhan1 O perso1
+L20D50
+ Sí, tienes razón... XXX
+// Gardien1 perso41
+L20D47
+ ¡No! ¡Vas a molestar al Consejo en plena sesión! XXX
+// Arkhan1 G perso1
+L20D51
+ Hay una grieta. XXX
+// Arkhan2 G perso2
+L20D52
+ Una grieta. XXX
+// Arkhan3 G perso3
+L20D53
+ Una grieta. XXX
+// Arkhan1 G perso1
+L20D57
+ Siento como un mecanismo en el interior. XXX
+// Arkhan2 G perso2
+L20D58
+ Hay un mecanismo en el interior. XXX
+// Arkhan3 G perso3
+L20D59
+ Hay un mecanismo dentro. XXX
+// Arkhan2 L perso2
+L20D63
+ Debo encontrar la placa de metal que activa el mecanismo. XXX
+// Arkhan3 L perso3
+L20D64
+ Me hace falta la placa de metal para deslizarla dentro. XXX
+// Arkhan2 O perso2
+L20D65
+ ¡Esto no funciona!  XXX
+// Arkhan3 O perso3
+L20D66
+ ¡Sangre negra! XXX
+// Arkhan2 L perso2
+L20D67
+ Ya está, está en su sitio. XXX
+// Arkhan3 L perso3
+L20D68
+ En su sitio. XXX
+// Arkhan2 G perso2
+L20D71
+ Ya... Esto debería funcionar. XXX
+// Arkhan2 G perso2
+L20D87
+ Hay algo en la grieta. XXX
+// Arkhan3 G perso3
+L20D88
+ Hay algo ahí dentro. XXX
+// Arkhan2 G perso2
+L20D89
+ ¡Qué extraño, ya ha estado puesta una ficha! XXX
+// Arkhan3 G perso3
+L20D90
+ Vaya, ya hay una ficha. XXX
+// Arkhan2 G perso2
+L20D81A
+ Nada de resistencia.  XXX
+// Arkhan2 G perso2
+L20D81B
+ El mecanismo no funciona. XXX
+// Arkhan3 G perso3
+L20D82
+ Falta algo. XXX
+// Arkhan2 G perso2
+L20D91
+ ¡Alguien lo ha accionado antes que yo! XXX
+// Arkhan3 G perso3
+L20D92
+ ¡Alguien lo ha accionado ya! XXX
+// Arkhan2 O perso2
+L08D251B
+ ¡Para de presionarme con esa boca de estúpido! XXX
+// Arkhan1 G perso1
+L20D124A
+ Las trompas musicales del Gran Luminoso. XXX
+// Arkhan1 G perso1
+L20D124B
+ Los Predicadores las utilizan para las ceremonias más importantes. XXX
+// Arkhan1 L perso1
+L20D125
+ Su música es magnífica. XXX
+// Arkhan1 O perso1
+L20D126
+ ¡Arman un ruido increíble! XXX
+// Arkhan2 G perso2
+L20D127A
+ Las trompas musicales del Gran Luminoso. XXX
+// Arkhan2 G perso2
+L20D127B
+ Los Predicadores las emplean durante las ceremonias más importantes. XXX
+// Arkhan2 L perso2
+L20D128
+ Una música magnífica. XXX
+// Arkhan2 O perso2
+L20D129
+ ¡Maldito estrépito! XXX
+// Arkhan3 G perso3
+L20D130A
+ Las trompas musicales del Gran Luminoso. XXX
+// Arkhan3 G perso3
+L20D130B
+ Los Predicadores las utilizan para las ceremonias. XXX
+// Arkhan3 L perso3
+L20D131
+ La música del Dios Sol. XXX
+// Arkhan3 O perso3
+L20D132
+ ¡Maldito ruido! XXX
+// Arkhan1 G perso1
+L20D133
+ Un árbol de acero hecho por los Alimentadores en honor del Dios Sol. XXX
+// Arkhan2 G perso2
+L20D134A
+ Un árbol de acero creado por los Constructores. XXX
+// Arkhan2 G perso2
+L20D134B
+ Un homenaje al Dios Sol. XXX
+// Arkhan3 G perso3
+L20D135
+ Un árbol de acero. Homenaje al Dios Sol. XXX
+// Arkhan1 G perso1
+L20D136
+ Otro de esos árboles de acero. XXX
+// Arkhan2 G perso2
+L20D137
+ Otro de esos árboles de acero. XXX
+// Arkhan3 G perso3
+L20D138
+ Otro árbol metálico. XXX

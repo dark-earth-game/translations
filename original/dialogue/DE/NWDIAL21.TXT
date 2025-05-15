@@ -1,0 +1,391 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL21.TXT
+ // Arkhan2 G (verzweifelt) perso2
+L21D202
+ Große Predigerin! XXX
+// Arkhan3 G (verzweifelt) perso3
+L21D203
+ Lory! XXX
+// Lory (empfängt Arkhan oben) perso15
+L21D26A
+ Arkhan! Ich komme zu spät.  XXX
+// Lory (empfängt Arkhan oben) perso15
+L21D26B
+ Phedoria hat mir erzählt, was passiert ist... XXX
+// Lory perso15
+L21D26C
+ Der Sonnengott gibt uns in seiner Güte noch eine Chance, Arkhan! Eine Chance, unseren Brüdern Gerechtigkeit widerfahren zu lassen ... XXX
+// Lory perso15
+L21D26D
+ ...eine Chance, den Stalliten zu retten. XXX
+// Lory perso15
+L21D26E
+ Folge mir, wir haben nur wenig Zeit! XXX
+// Thanandar25 perso25
+L21D45A
+ Arkhan! Du lebst! Nicht schlecht! XXX
+// Arkhan2 G (erstaunt) perso2
+L21D200
+ Thanandar! XXX
+// Arkhan3 G (erstaunt) perso3
+L21D201
+ Thanandar! XXX
+// Thanandar25 perso25
+L21D45B
+ Du kommst zu spät! Die Zukunft des Stalliten liegt in meinen Händen! XXX
+// Thanandar25 perso25
+L21D46A
+ Allerdings konnte ich durch Deine Schuld Lory nicht bekommen.  XXX
+// Thanandar25 perso25
+L21D46B
+ Aber ich hab' was Besseres: Deinen Vater, Rylsadhar! XXX
+// Thanandar25 perso25
+L21D46C
+ Er hat meine Finsternis getrunken, er ist mein Instrument.  XXX
+// Thanandar25 perso25
+L21D46D
+ Er, der Eingeweihte, der Beschützer des Lichts, wird die Welt in Dunkelheit tauchen! XXX
+// Thanandar25 perso25
+L21D47
+ Aber ich hab' was Besseres: Deinen Freund Zed! XXX
+// Arkhan1 G perso1
+L21D90
+ Ich hab' schon immer davon geträumt, da hinaufzusteigen! XXX
+// Arkhan2 G perso2
+L21D91
+ Ich hab' schon immer davon geträumt, da hinaufzusteigen! XXX
+// Arkhan3 G perso3
+L21D92
+ Hab' immer davon geträumt, da hinaufzusteigen! XXX
+// Thanandar25 perso25
+L21D71
+ Armer Wurm..... XXX
+// Phedoria perso26
+L20D38
+ Du unterschreibst Dein Todesurteil, Arkhan! XXX
+// Prediger1 (durch Arkhans Aussehen verschreckt) perso18
+L21D19
+ Aaah! Bleib' wo Du bist, Ungläubiger! XXX
+// Prediger1 perso18
+L21D20A
+ Ganz ruhig, mein Freund. XXX
+// Prediger1 perso18
+L21D20B
+ Dieser Ort ist ein Ort des Friedens. XXX
+// Prediger1 perso18
+L21D88
+ Nein! Zurück, Dämon der Finsternis! XXX
+// Zed84 perso84
+L21D22
+ Ah, Arkhan, ich hab' Dich gesucht. Warum bist Du nicht auf Deinem Posten? Du mußt ... XXX
+// Zed84 perso84
+L21D23
+ Aber ... Was ist denn hier los? Arkhan, was hast Du getan? Der Prediger ... XXX
+// Arkhan 1 G perso1
+L21D24
+ Warte! Ich kann Dir alles erklären! XXX
+// Zed84 perso84
+L21D25A
+ Da gibt es nichts zu erklären! Du hast einen Prediger getötet! XXX
+// Zed84 (will A. töten) perso84
+L21D25B
+ Du kennst die Strafe genauso gut wie ich! XXX
+// Zed84 (niedergeschlagen, weil er Arkhan töten mußte) perso84
+L21D44
+ Arkhan, wir waren wie Brüder ... XXX
+// Prediger2 (verängstigt)perso19
+L21D89
+ Aaah! Nein! XXX
+// Prediger 19 perso19
+L21D73
+ Aaah! Du kommst, um auch mich zu töten! Zurück, Kreatur der Finsternis! XXX
+// Prediger2 perso19
+L21D84B
+ Nur zu, beende Dein teuflisches Werk! XXX
+// Arkhan1 L perso1
+L21D01
+ Licht sei über Dir, Prediger. XXX
+// Prediger1 perso18
+L21D02A
+ Und über Dir, Freund. XXX
+// Prediger1 perso18
+L21D02B
+ Du bist gekommen, Dich vor dem Rahal, dem Symbol des Sonnengottes, zu sammeln.  XXX
+// Prediger1 perso18
+L21D02C
+ Das ist gut, denn so wirst Du den Weg zu Deinem inneren Licht finden. XXX
+// Arkhan1 L perso1
+L21D03
+ Bist Du ein Vertreter des Sonnengottes? XXX
+// Prediger1(dogmatisch) perso18
+L21D04A
+ Ja, mein Freund. Dieses Symbol auf meiner Stirn, das Rahal, macht mich zum Boten des Sonnengottes. XXX
+// Prediger1(dogmatisch) perso18
+L21D04B
+ Er lebt in meinem Geist, Er sieht mit meinen Augen und spricht durch meinen Mund ...  XXX
+// Prediger1(dogmatisch) perso18
+L21D04C
+ Glaub mir, wenn ich Dir sage, daß Sein heiliges Licht unsere Herzen erleuchtet und daß Er die Gerechten vor der Finsternis beschützt.  XXX
+// Prediger1(dogmatisch) perso18
+L21D04D
+ Und wenn die Nacht kommt, brauchen die Gerechten, die durch ihren Glauben erleuchtet sind, nicht zu fürchten, daß sie Sein göttliches Licht verläßt. XXX
+// Prediger1(dogmatisch) perso18
+L21D04E
+ Denn dies ist eine Prüfung, die nur die unreinen Wesen zu fürchten haben. XXX
+// Prediger1(dogmatisch) perso18
+L21D04F
+ Wie unseren Ahnen vom Vorher wird auch ihnen Sein Licht auf immer versagt sein. XXX
+// Prediger1(dogmatisch) perso18
+L21D04G
+ Vergiß nicht, daß sich nur die Gerechten den Strahlen des Lichtvaters aussetzen können, ohne den Tod fürchten zu müssen. XXX
+// Prediger1 perso18
+L21D06
+ Geh in Frieden, Hüter des Feuers. XXX
+// Arkhan 1 O perso1
+L21D07
+ Sei gegrüßt, Prediger. XXX
+// Prediger1 (betont höflich) perso18
+L21D08
+ Licht sei über Dir, Freund. XXX
+// Arkhan 1 O (spöttisch) perso1
+L21D09
+ Also, noch immer dem Sonnengott treu? XXX
+// Arkhan 1 O perso1
+L21D10
+ Ich glaub', jetzt hab' ich genug gehört... XXX
+// Arkhan2 G perso2
+L21D11
+ Prediger, hilf mir! XXX
+// Prediger1 (durch A. Aussehen verängstigt.) perso18
+L21D12
+ Lichtvater! Die Finsternis ... die Finsternis ist in Dir! XXX
+// Arkhan2 L perso2
+L21D13A
+ Prediger, ich brauche dringend Hilfe! XXX
+// Arkhan2 L perso2
+L21D13B
+ Als ich Lory gerettet habe, wurde ich vergiftet   XXX
+// Arkhan2 L perso2
+L21D13C
+ Aber ich bin noch immer ein Hüter des Feuers, ein treuer Diener des Sonnengottes. XXX
+// Arkhan2 L perso2
+L21D13D
+ Hilf mir, die anderen davon zu überzeugen, daß sie mich nicht zu fürchten brauchen! XXX
+// Arkhan2 O perso2
+L21D14A
+ Hör mir zu, Prediger, es reicht! Ich bin doch kein Verbrecher, nur weil ich häßlich bin! XXX
+// Arkhan2 O perso2
+L21D14B
+ Das Gift zerstört mich! XXX
+// Arkhan2 O perso2
+L21D14C
+ Anstatt mit Deinen Reden alle gegen mich aufzubringen, solltest Du lieber versuchen, mich zu heilen! XXX
+// Prediger1 (fanatisch) perso18
+L21D15A
+ Nein! Du kannst mich nicht täuschen! XXX
+// Prediger1 perso18
+L21D15B
+ Das Symbol des Sonnengottes erleuchtet mein Gesicht. XXX
+// Prediger1 perso18
+L21D15C
+ Meine Augen durchschauen die Lüge! XXX
+// Prediger1 perso18
+L21D15D
+ Und durch meinen Mund spricht der Lichtvater selbst! XXX
+// Prediger1 perso18
+L21D15E
+ Wenn Dich die Finsternis befallen hat, bist Du nicht mehr würdig, unter Seinem Licht zu dienen! XXX
+// Arkhan2 G perso2
+L21D16
+ Aber ich habe doch Lory das Leben gerettet! XXX
+// Prediger1 perso18
+L21D72A
+ Deine dunklen Tricks kannst Du Dir schenken! XXX
+// Prediger1 perso18
+L21D72B
+ Wenn die Große Predigerin zurückkommt, wird sie Dich vom Stalliten verbannen! XXX
+// Prediger1 perso18
+L21D72C
+ Und wenn Profos Dhorkan es vermeiden will, daß ihn das gleiche Schicksal ereilt, sollte er alles tun, um die Ungläubigen zu finden! XXX
+// Prediger1 perso18
+L21D72D
+ Raus jetzt oder ich rufe die Wache! XXX
+// Arkhan2 G (bitter enttäuscht) perso2
+L21D17
+ Du bist nichts weiter als ein armer, verrückter Fanatiker! XXX
+// Prediger1 perso18
+L21D18
+ Versuch nicht, mich anzugreifen, oder der Sonnengott wird Dich auf der Stelle zerstören! XXX
+// Arkhan3 G perso3
+L21D100
+ Prediger! XXX
+// Prediger1 perso18
+L21D101A
+ Komm keinen Schritt näher, Kreatur der Finsternis! XXX
+// Prediger1 perso18
+L21D101B
+ Raus hier! Du befindest Dich an einem heiligen Ort! XXX
+// Arkhan3 L perso3
+L21D102
+ Ganz ruhig, Prediger, ich bin ein Mensch! XXX
+// Arkhan3 O perso3
+L21D103
+ Ich bin kein Ungeheuer! XXX
+// Prediger1 perso18
+L21D104
+ Zurück, hab' ich gesagt! XXX
+// Prediger1 perso18
+L21D21
+ Sonnengott, beschütze mich! XXX
+// Arkhan2 L perso2
+L20D30
+ Warum sagst Du nicht hier und jetzt, was Du mir zu sagen hast? XXX
+// Arkhan2 O perso2
+L20D31
+ Sag hier und jetzt, was los ist! XXX
+// Arkhan3 L perso3
+L20D32
+ Sag sofort, was los ist! XXX
+// Arkhan3 O perso3
+L20D33
+ Sprich! XXX
+// Lory perso15
+L20D34
+ Wir dürfen hier nicht bleiben. Komm. XXX
+// Arkhan2 G perso2
+L20D35
+ Aber... Große Predigerin... XXX
+// Arkhan3 G perso3
+L20D36
+ Große Predigerin... XXX
+// Lory perso15
+L20D37
+ Hör mir zu, komm mit! XXX
+// Arkhan2 L perso2
+L20D39
+ Phedoria, was ist hier los? XXX
+// Arkhan2 O perso2
+L20D40
+ Was ist hier los? XXX
+// Arkhan3 L perso3
+L20D41
+ Phedoria, erklär mir, was hier los ist! XXX
+// Arkhan3 O perso3
+L20D42
+ Erklär mir, was hier los ist! XXX
+// Phedoria perso26
+L20D43
+ Lory wird Dir erklären, was los ist! XXX
+// Arkhan2 G perso2
+L20D44
+ Aber ... Kommandantin ... XXX
+// Arkhan3 G perso3
+L20D45
+ Kommandantin ... XXX
+// Phedoria perso26
+L20D46
+ Komm mit uns! XXX
+// Arkhan2 G perso2
+L21D74
+ Beruhig Dich doch, ich werde Dir nichts tun! XXX
+// Arkhan3 G perso3
+L21D75
+ Ruhe! XXX
+// Prediger2 (verängstigt) perso19
+L21D76
+ Du kommst, um mich zu töten, da bin ich sicher, wie einer von Euch die Große Predigerin getötet hat! XXX
+// Arkhan2 L perso2
+L21D77
+ Erzähl mir, was Du gesehen hast, es ist sehr wichtig! XXX
+// Arkhan2 O perso2
+L21D78
+ Sag mir, was Du gesehen hast, oder ich bring Dich um! XXX
+// Arkhan2 O perso3
+L21D79
+ Was hast Du gesehen? Sprich! XXX
+// Prediger2 (verängstigt) perso19
+L21D80A
+ Es war ein Schatten! Riesig, dunkel! Der Tod selbst! XXX
+// Prediger2 perso19
+L21D80B
+ Er bewegte sich mit unmenschlich schneller Geschwindigkeit. XXX
+// Prediger2 perso19
+L21D80C
+ Er ist in den Ratssaal geschossen ... Ich habe schreckliche Schreie gehört ... XXX
+// Prediger2 (mit gebrochener Stimme) perso19
+L21D80D
+ Die Große Predigerin... XXX
+// Arkhan2 G perso2
+L21D81
+ Thanandar! Er hat Lory getötet! XXX
+// Arkhan2 G perso2
+L21D82
+ Thanandar! Er ist der Mörder! XXX
+// Arkhan3 G perso3
+L21D83
+ Thanandar! Schon wieder er! XXX
+// Prediger2 perso19
+L21D84A
+ Er hat Dich geschickt, um mich zu töten, ich weiß es! XXX
+// Prediger2 perso19
+L21D84C
+ Aber das Licht wird wiedergeboren, da bin ich sicher! XXX
+// Arkhan2 G perso2
+L21D85
+ Erhebe Dich! XXX
+// Arkhan2 O perso2
+L21D86
+ Steh auf! XXX
+// Arkhan 1 G perso1
+L21D48
+ Da ist eine kleine Öffnung im Fußboden. XXX
+// Arkhan2 G perso2
+L21D57
+ Nichts zu machen! Dabei ist das der richtige Schlüssel! XXX
+// Arkhan2 G perso2
+L21D58
+ Das ist der richtige Schlüssel ... aber es funktioniert nicht. XXX
+// Arkhan2 G perso2
+L21D59
+ Das ist der Schlüssel, aber der Mechanismus wird offenbar woanders in Gang gesetzt. XXX
+// Arkhan2 G perso2
+L21D60
+ Da, eine kleine Öffnung im Fußboden. XXX
+// Arkhan2 G perso2
+L21D61
+ Ich wußte es! XXX
+// Arkhan2 G perso2
+L21D62
+ Mir fehlt etwas! XXX
+// Arkhan2 G perso2
+L21D63
+ Sie schließt sich wieder! XXX
+// Arkhan3 G perso3
+L21D64
+ Das ist der richtige Schlüssel ... aber es passiert nichts! XXX
+// Arkhan3 G perso3
+L21D65
+Das ist der richtige Schlüssel... Aber ich brauch' was anderes! XXX
+// Arkhan3 G perso3
+L21D66
+ Der richtige Schlüssel ... aber man muß den Mechanismus woanders in Gang setzen ... XXX
+// Arkhan3 G perso3
+L21D67
+ Da, eine Öffnung im Fußboden. XXX
+// Arkhan3 G perso3
+L21D68
+ Ich wußte es! XXX
+// Arkhan3 G perso3
+L21D69
+ Fehlt was! XXX
+// Arkhan3 G perso3
+L21D70
+ Es schließt sich! XXX
+// Arkhan1 G perso1
+L21D49
+ Der Rahal. Die Ikone des Sonnengottes. XXX
+// Arkhan2 G perso2
+L21D50
+Ich hab' jetzt keine Zeit zum Beten. XXX
+// Arkhan3 G perso3
+L21D51
+ Keine Zeit zum Beten. XXX

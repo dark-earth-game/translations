@@ -1,0 +1,91 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL35.TXT
+ // Arkhan2 G (entdeckt den unterseeischen Tunnel) perso2
+L35D01
+ Beim Rahal, ich laufe im Wasser! XXX
+// Arkhan3 G (entdeckt den unterseeischen Tunnel) perso3
+L35D02
+ Beim Heiligen Licht, ich laufe im Wasser! XXX
+// Arkhan2 G (unter dem Helm) perso2
+L35D27
+ Keine Luft mehr ... Nein! XXX
+// Arkhan3 G (unter dem Helm) perso3
+L35D28
+ Keine Luft mehr ... Nein! XXX
+// Arkhan2 G (findet einen Ertrunkenen) perso2
+L35D03
+ Armer Kerl ... die Konkaliten haben ihn an einen Stein gebunden und hier hereingeworfen! XXX
+// Arkhan3 G (findet einen Ertrunkenen) perso3
+L35D04
+ Das letzte Opfer der Konkaliten. XXX
+// Arkhan2 G perso2
+L35D100
+ Hier ist nichts Interessantes. XXX
+// Arkhan3 G perso3
+L35D101
+ Nichts. XXX
+// Arkhan2 G perso2
+L35D102
+ Da ist nichts. XXX
+// Arkhan3 G perso3
+L35D103
+ Nein, nichts. XXX
+// Arkhan2 G perso2
+L35D104
+ Nichts Besonderes. XXX
+// Arkhan3 G perso3
+L35D105
+ Ich seh' nichts. XXX
+// Arkhan2 G (vor einem Skelett) perso2
+L35D07
+ Das ist alles, was übrigbleibt, wenn die Konkaliten sich jemanden vorgenommen haben ... XXX
+// Arkhan3 G (vor einem Skelett) perso3
+L35D08
+ Noch ein Opfer der Konkaliten. XXX
+// Arkhan2 L perso2
+L35D09
+ Die Folterkäfige der Konkaliten. XXX
+// Arkhan3 L perso3
+L35D10
+ Ein Folterkäfig der Konkaliten. XXX
+// Arkhan2 O (schlägt auf den Käfig ein) perso2
+L35D11
+ Verdammter Folterkäfig! XXX
+// Arkhan3 O (schlägt auf den Käfig ein) perso3
+L35D12
+ Verdammter Käfig! XXX
+// Arkhan2 L perso2
+L35D15
+ Ein altes Faß. XXX
+// Arkhan2 O (tritt mit den Füßen in die Kanister) perso2
+L35D16
+ Noch so ein blödes Faß! XXX
+// Arkhan3 L perso3
+L35D17
+ Ein altes Faß. XXX
+// Arkhan3 O (tritt mit den Füßen in die Kanister) perso3
+L35D18
+ Ah, diese Fässer! XXX
+// Arkhan2 G (durchsucht das Skelett) perso2
+L35D19
+ Nichts als alte Knochen ... XXX
+// Arkhan3 G (durchsucht das Skelett) perso3
+L35D20
+ Nichts als Knochen! XXX
+// Arkhan2 G (findet etwas unter dem Skelett) perso2
+L35D21
+ Das borg' ich mir aus ... Hattest Du das verschluckt? XXX
+// Arkhan3 G (findet etwas unter dem Skelett) perso3
+L35D22
+ Danke, mein Freund! XXX
+// Arkhan2 G perso2
+L35D23
+ Ruinen vom Vorher... XXX
+// Arkhan3 G perso3
+L35D24
+ Ruinen vom Vorher... XXX
+// Arkhan2 G (Seeungeheuer) perso2
+L35D25
+ Nein, das ist nicht eßbar! XXX
+// Arkhan3 G ("durchsucht" das Seeungeheuer) perso3
+L35D26
+ Nein ... da ist nichts zu essen! XXX

@@ -1,0 +1,390 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL31.TXT
+L31D83A
+ Nie moge nurkowac. XXX
+// Arkhan2 G perso2
+L31D83B
+ W zbiorniku skonczylo sie powietrze. XXX
+// Arkhan2 G perso2
+L31D83C
+ Musze odnalezc sposob na napelnienie go... XXX
+// Arkhan3 G (speaking inside helmet)perso3
+L31D84A
+ Nie da rady zanurkowac... XXX
+// Arkhan3 G perso3
+L31D84B
+ Brak powietrza w zbiorniku. XXX
+// Arkhan3 G perso3
+L31D84C
+ Trzeba go napelnic... XXX
+// Arkhan2 L perso2
+L31D85A
+ Za gleboko. XXX
+// Arkhan2 L perso2
+L31D85B
+ Jesli wskocze, utone! XXX
+// Arkhan2 O perso2
+L31D86
+ Nie! Z miejsca pojde na dno! XXX
+// Arkhan3 L perso3
+L31D87
+ Nie, jest zbyt gleboko...  XXX
+// Arkhan3 O perso3
+L31D88
+ Utone! XXX
+ // Sordos perso23
+L34D04A
+ Hrrrrh... (pluje) XXX
+// Konkalite8 (to Konkalite10) perso78
+L31D500
+ Hej, kto tam? XXX
+// Konkalite8 (shouting at Arkhan) perso78
+L31D35
+ Ty, ty tam! Chodz no tu blizej! XXX
+// Konkalite8 perso78
+L31D36
+ Hej! Zwawiej! XXX
+// Konkalite8 perso78
+L31D37
+ Podejdz blizej tak, bysmy mogli zobaczyc twoja twarz! XXX
+// Konkalite8 (shouting)perso78
+L31D38
+ Lap go! XXX
+// Konkalite8 (shouts at A. who is leaving)perso78
+L31D39
+ Hej! Wracaj tu natychmiast! XXX
+// Bork perso30
+L31D501
+ Hej! A ty kto?! XXX
+// Konkalite11 perso81
+L31D502
+ Hej Bork! Znasz tego czlowieka? XXX
+// Bork perso30
+L31D503
+ Nie! XXX
+// Konkalite11 perso81
+L31D507
+ Pora na ostatni paciorek! XXX
+// Bork (roaring)perso30
+L31D504
+ A ty dokad, co?! XXX
+// Konkalite11 perso81
+L31D89
+ Podnies alarm! XXX
+// Konkalite8 (attacked by A.)perso78
+L31D53
+ Szukasz klopotow, tak? XXX
+// Konkalite8 perso78
+L31D01
+ Kim jestes? XXX
+// Arkhan3 L perso3
+L31D22
+ Nie chce cie skrzywdzic, zejdz mi z drogi! XXX
+// Konkalite8 perso78
+L31D25A
+ Hej, ty...ty, ty obrzydliwy paszczurze! XXX
+// Konkalite8 perso78
+L31D25B
+ Nikt tak do mnie nie bedzie mowic! XXX
+// Konkalite8 perso78
+L31D27
+ Juz ja cie naucze trzymac gebe na klodke! XXX
+// Arkhan2 L perso2
+L31D02
+ Nie szalej, przyjacielu. Jestem po twojej stronie. XXX
+// Konkalite8 perso78
+L31D03A
+ Jestes pewien? Nigdy cie dotad nie widzialem! XXX
+// Konkalite8 perso78
+L31D03B
+ W tych okolicach nie pala sie wielkim afektem w stosunku do nieznajomych! XXX
+// Konkalite8 perso78
+L31D21C
+ To moze popijemy troche twojego Stohlla! XXX
+// Arkhan2 O (sure of himself)perso2
+L31D04A
+ To ja, idioto jeden! XXX
+// Arkhan2 O (sure of himself)perso2
+L31D04B
+ Zjezdzaj, albo powiem Sordosowi, jak zmarnowales moj cenny czas! XXX
+// Konkalite8 perso78
+L31D05
+ Co? kogo nazywasz idiota, pryszczolu? XXX
+// Arkhan2 L perso2
+L31D06
+ Czekaj, wygladasz mi na rozsadnego faceta. Przedyskutujmy to... XXX
+// Konkalite8 perso78
+L31D07
+ Nic nie bede omawial, wstretna beko loju! Zaraz ci przyloze! XXX
+// Arkhan2 O perso2
+L31D08
+ Morda w kubel, marna larwo i pozwol mi przejsc! XXX
+// Konkalite8 perso78
+L31D09
+ Co?! Zaraz ci przeoram twarz, paskudo! XXX
+// Arkhan2 G perso2
+L31D10
+ Wszystko w porzadku? XXX
+// Konkalite8 perso78
+L31D11A
+ W porzadku! Cztery trupy od wschodu slonca! XXX
+// Konkalite8 perso78
+L31D11B
+ Prawdziwy wrzod na tylku! XXX
+// Konkalite8 (in a low voice) perso78
+L31D11C
+ To ten dziwny Patrzacy, z ktorym Sordos sie zbratal. XXX
+// Konkalite8 (in a low voice) perso78
+L31D11D
+  On przyniesie nam niechybna zgube! XXX
+// Konkalite8 perso78
+L31D11E
+ Ale nadal to my rzadzimy Nizszym Miastem XXX
+// Konkalite8 perso78
+L31D11F
+ Kradzieze, demolka, uprzykrzanie ludziom zycia. Ciekawe zycie, jesli rozumiesz, o co mi chodzi... XXX
+// Konkalite8 perso78
+L31D11G
+ Gang Armala Sadaka, ktory niejednemu skopal tylek, nawet nie probuje nas niepokoic! XXX
+// Arkhan2 G perso2
+L31D12
+ A Gwardzisci Ognia? XXX
+// Konkalite8 perso78
+L31D13A
+ Oni? A kto by tam sie przejmowal takimi mieczakami! XXX
+// Konkalite8 perso78
+L31D13B
+ Ich szef je Sordosowi z reki! XXX
+// Konkalite8 perso78
+L31D13C
+ Zgrywa twardziela, ale Sordos owinal go sobie wokol palca! XXX
+// Konkalite8 perso78
+L31D13D
+ A ten mieczak Zed dlugo juz tu nie zostanie! XXX
+// Arkhan2 G perso2
+L31D14
+ Chcesz mi wmowic, ze Sordos trzyma sie z komendantem Gwardzistow Ognia? XXX
+// Konkalite8 perso78
+L31D15A
+ Tak jak powiedzialem, kolezko, Sordos gra twardo, przy tym jest bardzo sprytny. XXX
+// Konkalite8 perso78
+L31D15B
+ Od dluzszego czasu trzyma Dhorkana na krotkiej smyczy. XXX
+// Konkalite8 perso78
+L31D15C
+ Sordos twierdzi, ze juz wkrotce cale Stallite bedzie nasze. XXX
+// Konkalite8 perso78
+L31D15D
+ Cale dnie spedzac bedziemy na piciu, zarciu i zabawianiu sie z tymi wszystkimi slicznymi paniusiami z Wyzszego Miasta. XXX
+// Konkalite8 perso78
+L31D15E
+ A Patrzacy w Slonce beda w unizeniu lizac nasze stopy! XXX
+// Arkhan2 G (whispering to himself) perso2
+L31D16
+ (szepczac) Tak ci sie tylko wydaje... XXX
+// Arkhan2 G perso2
+L31D17
+ O ktorym to Patrzacym wczesniej mowiles? XXX
+// Konkalite8 (whispering)perso78
+L31D18A
+ Nie znam jego imienia i wcale nie chce. Kojarzy mi sie z zapachem smierci! XXX
+// Konkalite8 (whispering)perso78
+L31D18B
+ Ale coz, Sordos uwaza, ze dzieki niemu dorwiemy Patrzacych w Slonce. XXX
+// Konkalite8 perso78
+L31D18C
+ Pozwol, ze cos ci powiem, sam bym z checia dorwal te Wielka Patrzaca, rozumiesz po co, nie?  XXX
+// Konkalite8 perso78
+L31D18D
+ Myslisz, ze juz jest za stara, he he? XXX
+// Konkalite8 perso78
+L31D18E
+ Troszeczke moze, ale ja... zawsze jakos tak wolalem te nizsze. XXX
+// Arkhan2 L perso2
+L31D19
+ Powiedz mi cos wiecej! XXX
+// Arkhan2 O perso2
+L31D20
+ No dalej, powiedz mi cos wiecej! XXX
+// Konkalite8 perso78
+L31D21A
+ Wystarczy juz tych twoich pytan! XXX
+// Konkalite8 perso78
+L31D21B
+ Zaczynasz mi dzialac na nerwy! XXX
+// Arkhan3 G perso3
+L31D42
+ Wez to i przepusc mnie. XXX
+// Konkalite8 perso78
+L31D43A
+ Myslisz, ze kim jestes, szczurzy ryju?! XXX
+// Konkalite8 perso78
+L31D43B
+ Pokazemy ci, gdzie raki zimuja! XXX
+// Arkhan2 L perso2
+L31D40
+ Ej, chcesz sie napic odrobinki Stohlla? Jest naprawde dobry! XXX
+// Arkhan2 O perso2
+L31D41
+ Hej, taki gosc jak ty musi lubic Stohlla! XXX
+// Konkalite8 perso78
+L31D44
+ Stohll? Proste, dawaj! XXX
+// Konkalite8 perso78
+L31D45
+ Aaah! O rety, ale gladko poszlo! XXX
+// Arkhan2 G perso2
+L31D46
+ Jeszcze troche? XXX
+// Konkalite8 perso78
+L31D48
+ Tak! Nie powiem "nie"! XXX
+// Konkalite8 perso78
+L31D47
+ Ahhh! To mnie rozpala! XXX
+// Konkalite8 (about to pass out)perso78
+L31D49
+ To... to dobre... XXX
+// Arkhan2 G perso2
+L31D50
+ Co o tym sadzisz? XXX
+// Konkalite8 perso78
+L31D51
+ Twoje cos-tam-w-kubku w ogole mnie nie interesuje. XXX
+// Konkalite10 perso80
+L31D82
+ Zobaczmy, czy koles ma jeszcze w gebie jakies mleczaki! XXX
+// Konkalite10 perso80
+L31D54
+ Znamy sie? XXX
+// Arkhan3 L perso3
+L31D90
+ Spoko! Nie chce sie z toba bic! XXX
+// Konkalite10 perso80
+L31D70
+ Widze, ze kilka z twoich kosci wyraznie prosi sie o polamanie! XXX
+// Konkalite10 perso80
+L31D71
+ Nie boje sie ciebie! XXX
+// Konkalite10 perso80
+L31D55
+ Jednym z nas? Z taka morda! Masz mnie za glupka, czy co?! XXX
+// Arkhan2 L perso2
+L31D56
+ Nie, nie, nie. Nie podniecaj sie. XXX
+// Konkalite10 (with exaggerated deference)perso80
+L31D57
+ A kimze ty jestes, panie Smieszne-portki? XXX
+// Arkhan2 L perso2
+L31D58
+ Spokojnie powiedzialem. Ja tylko chce z toba pogadac. XXX
+// Konkalite10 perso80
+L31D59
+ Pogadac, tak? No to przyszedles pod zly adres! XXX
+// Konkalite10 perso80
+L31D60
+ Zjezdzaj! XXX
+// Konkalite10 perso80
+L31D61A
+ Tak, Sordos obiecal, ze bedziemy rzadzic Stallite. XXX
+// Konkalite10 perso80
+L31D61B
+ Jak chcesz znac moja opinie, to wydaje mi sie, ze zapowiada sie porzadne przetrzepanie czyichs lepetynek...  XXX
+// Konkalite10 perso80
+L31D61C
+ Nie lubie tych Gwardzistow Ognia. Sordos sie kumpluje z ich szefem, ale ci chlopcy nie przyjmuja rozkazow od nikogo innego, poza Boskim Sloncem. XXX
+// Konkalite10 perso80
+L31D61D
+ Nie wiem, czy aby na pewno wszyscy oni nadaja na tej samej fali. XXX
+// Konkalite10 perso80
+L31D61E
+ Popatrz, co sie stalo: podczas gdy atakowano Wielka Patrzaca, Zed zabijal naszych braci! XXX
+// Konkalite10 perso80
+L31D61F
+ Sordos odchodzil od zmyslow! XXX
+// Arkhan2 G perso2
+L31D62
+ Komendant Dhorkan jest w koalicji z Sordosem? XXX
+// Konkalite10 perso80
+L31D63A
+ Tak, podpisali jakis pakt.  XXX
+// Konkalite10 perso80
+L31D63B
+ Zalatwilismy paru gosci, ktorzy zagrazali Dhorkanowi, a on dopilnowal, by Gwardzisci Ognia juz nas wiecej nie przesladowali. XXX
+// Arkhan2 L perso2
+L31D64
+ Tak, tak. Sordos faktycznie jest sprytny... a czy ma jeszcze jakichs sprzymierzencow poza Dhorkanem? XXX
+// Arkhan2 O perso2
+L31D65
+ Poza Dhorkanem, czy wsrod Gwardzistow Ognia sa jeszcze jacys zdrajcy? XXX
+// Konkalite10 perso80
+L31D66A
+ Dhorkan to plotka. Wkrotce wyladuje w kanale spelniajac role pokarmu dla rybek. XXX
+// Konkalite10 perso80
+L31D66B
+ Jednak wsrod Patrzacych w Slonce jeden pracuje dla Sordosa.  XXX
+// Konkalite10 perso80
+L31D66C
+ To on uczyni nas krolami Sparty! XXX
+// Konkalite10 perso80
+L31D67
+ Nie wiem! Dzialasz mi na nerwy tymi swoimi pytaniami! No juz, spadaj stad! XXX
+// Arkhan2 O perso2
+L31D68
+ Dalej, nie kaz sie prosic, powiedz mi cos wiecej! XXX
+// Konkalite10 perso80
+L31D69
+ Ostrzegalem cie, tumanie! Dzialanie mi na nerwy sprowadzi na ciebie klopoty! XXX
+// Konkalite10 perso80
+L31D75A
+ Myslisz, ze sie ciebie przestrasze?! XXX
+// Konkalite10 perso80
+L31D75B
+ Rozerwe cie na strzepy golymi rekami! XXX
+// Konkalite10 perso80
+L31D76
+ Stohll, powiadasz? Pewno, zabawmy sie troche! XXX
+// Konkalite10 perso80
+L31D77
+ Aaah! Rozgrzewa jak nalezy. XXX
+// Konkalite10 perso80
+L31D72
+ Jak tylko w poblizu pojawia sie Stohll, zawsze u mnie znajdzie sie szklaneczka! XXX
+// Konkalite10 perso80
+L31D78
+ Ah! O to chodzilo! XXX
+// Konkalite10 (going to pass out)perso80
+L31D79
+ Tio, tooo, jezd trroszku moccne... XXX
+// Konkalite10 perso80
+L31D80
+ Nie obchodzi mnie, co tam masz! XXX
+// Bork perso30
+L31D506
+ Gin! XXX
+// Arkhan2 O perso2
+L31D505
+ Zejdz mi z oczu, albo zmiote cie z powierzchni ziemi! XXX
+// Arkhan2 G perso2
+L31D900
+ Sterta pustych pojemnikow. XXX
+// Arkhan3 G perso3
+L31D901
+ Sterta pojemnikow. XXX
+// Arkhan2 L perso2
+L31D902
+ Ten kanal prowadzi gleboko pod Stallite. XXX
+// Arkhan3 L perso3
+L31D904
+ Ten kanal jest gleboki. Przeprowadzony jest gleboko pod ziemia. XXX
+// Arkhan2 O perso2
+L31D903
+ Ta woda cuchnie jak gnijace zwloki! XXX
+// Arkhan3 O perso3
+L31D905
+ Ta woda cuchnie jak gnijace zwloki! XXX
+// Arkhan2 G perso2
+L31D906
+ Te rury doprowadzaja powietrze z powierzchni ziemi. XXX
+// Arkhan3 G perso3
+L31D907
+ Tedy - z gory - dostaje sie powietrze. XXX

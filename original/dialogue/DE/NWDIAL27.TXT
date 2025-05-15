@@ -1,0 +1,265 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL27.TXT
+ // Arkhan2 G perso2
+L51D111
+ Es wird zu heiß, ich kann nicht weiter. XXX
+// Arkhan3 G perso3
+L51D112
+ Welche Hitze! Weiter kann ich nicht ... XXX
+// Konkalit4 perso74
+L27D01
+ Jetzt bist Du dran, Mistkerl! XXX
+// Phedoria perso26
+L20D38
+ Du unterschreibst Dein Todesurteil, Arkhan! XXX
+// Arkhan2 L perso2
+L20D30
+ Warum sagst Du nicht hier und jetzt, was Du mir zu sagen hast? XXX
+// Arkhan2 O perso2
+L20D31
+ Sag hier und jetzt, was los ist! XXX
+// Arkhan3 L perso3
+L20D32
+ Sag sofort, was los ist! XXX
+// Arkhan3 O perso3
+L20D33
+ Sprich! XXX
+// Lory perso15
+L20D34
+ Wir dürfen hier nicht bleiben. Komm. XXX
+// Arkhan2 G perso2
+L20D35
+ Aber... Große Predigerin... XXX
+// Arkhan3 G perso3
+L20D36
+ Große Predigerin... XXX
+// Lory perso15
+L20D37
+ Hör mir zu, komm mit! XXX
+// Arkhan2 L perso2
+L20D39
+ Phedoria, was ist hier los? XXX
+// Arkhan2 O perso2
+L20D40
+ Was ist hier los? XXX
+// Arkhan3 L perso3
+L20D41
+ Phedoria, erklär mir, was hier los ist! XXX
+// Arkhan3 O perso3
+L20D42
+ Erklär mir, was hier los ist! XXX
+// Phedoria perso26
+L20D43
+ Lory wird Dir erklären, was los ist! XXX
+// Arkhan2 G perso2
+L20D44
+ Aber ... Kommandantin ... XXX
+// Arkhan3 G perso3
+L20D45
+ Kommandantin ... XXX
+// Phedoria perso26
+L20D46
+ Komm mit uns! XXX
+// Arkhan2 G perso2
+L27D01A
+ Das ist eine Darstellung des Kampfes, den die Gründer bestehen mußten, bevor sie den Stalliten erreichten. XXX
+// Arkhan2 G perso2
+L27D01B
+ Ich dachte immer, dieses Ungeheuer sei eine Legende ... XXX
+// Arkhan2 G perso2
+L27D01C
+ Nachdem was mir passiert ist, bin ich jetzt aber anderer Meinung! XXX
+// Arkhan3 G perso3
+L27D02A
+ Der Kampf der Gründer, bevor sie den Stalliten erreichten. XXX
+// Arkhan3 G perso3
+L27D02B
+ Ich frage mich, wer ich sein möchte, Mensch oder Ungeheuer! XXX
+// Arkhan2 G perso2
+L27D03A
+ Der Bau des Stalliten. XXX
+// Arkhan2 G perso2
+L27D03B
+ Man sagt, daß die ersten Menschen, die unter dem Licht geboren wurden, das Ende der Baustelle nicht erlebten. XXX
+// Arkhan3 G perso3
+L27D04A
+ Der Bau des Stalliten. XXX
+// Arkhan3 G perso3
+L27D04B
+ Hunderte von Männern haben dafür ihr Leben gelassen. XXX
+// Arkhan2 G perso2
+L27D05A
+ Der Stallit, als er fertig war. XXX
+// Arkhan2 G perso2
+L27D05B
+ Es vergeht kein Tag, ohne daß jeder der Bewohner zum Sonnengott betet und ihn bittet, weiter zu scheinen. XXX
+// Arkhan2 G perso3
+L27D05C
+ Diesmal werden die Gebete nicht ausreichen! XXX
+// Arkhan3 G perso3
+L27D06A
+ Der Stallit. XXX
+// Arkhan3 G perso3
+L27D06B
+ Gesegnet vom Licht des Sonnengottes. XXX
+// Arkhan3 G perso3
+L27D06C
+ Ja, bis heute! XXX
+// Arkhan2 G perso2
+L27D07A
+ Das ist eine Darstellung des Großen Lichterfüllten, der auf der Spitze des Tempels thront. XXX
+// Arkhan2 G perso2
+L27D07B
+ Er schickt die Strahlen des Sonnengottes weit hinaus in das Reich der Finsternis, er ist der Stolz der Prediger. XXX
+// Arkhan3 G perso3
+L27D08A
+ Das ist der Große Lichterfüllte, auf der Spitze des Tempels. XXX
+// Arkhan3 G perso3
+L27D08B
+ Er hat die Strahlen des Sonnengottes weit hinaus in das Reich der Finsternis geschickt. XXX
+// Arkhan2 G perso2
+L27D09A
+ Ich weiß nicht, was das ist. XXX
+// Arkhan2 G perso2
+L27D09B
+ Vielleicht eine Statue, ein alter Gegenstand vom Vorher ... XXX
+// Arkhan3 G perso3
+L27D10
+ Was das ist, weiß ich nicht ... XXX
+// Arkhan2 G perso2
+L27D11
+ Das ist die riesige leuchtende Steinstatue in der Grotte! XXX
+// Arkhan3 G perso3
+L27D12
+ Das ist die Statue in der Grotte! XXX
+// Arkhan2 G perso2
+L27D13A
+ Die Lumpensammler. XXX
+// Arkhan2 G perso2
+L27D13B
+ Man sagt, daß sie die Faulpelze und Nichtsnutze des Stalliten sind. XXX
+// Arkhan2 G perso2
+L27D13C
+ Daß sie für ihr Überleben nichts anderes tun können, als die Überreste vom Vorher zu durchwühlen und Dreck zusammenzuklauben. XXX
+// Arkhan2 G (mit einem Lächeln) perso2
+L27D13D
+ Aber diejenigen, die das sagen, kennen weder Danrys noch Kalhi noch all die anderen ... XXX
+// Arkhan3 G perso3
+L27D14A
+ Die Lumpensammler. XXX
+// Arkhan3 G perso3
+L27D14B
+ Sie durchwühlen Abfälle, reparieren alte Dinge und tauschen - davon leben sie. XXX
+// Arkhan3 G perso3
+L27D14C
+ Sie sind aber nicht alle Nichtsnutze und Faulpelze. XXX
+// Arkhan3 G (mit einem Lächeln) perso3
+L27D14D
+ Da braucht man sich nur Kalhi und Danrys anzuschauen ... XXX
+// Arkhan2 G perso2
+L27D15A
+ Die Ernährer. XXX
+// Arkhan2 G perso2
+L27D15B
+ Sie leben mit den Lumpensammlern in der Unteren Stadt. XXX
+// Arkhan2 G perso2
+L27D15C
+ Sie fischen, jagen und bauen an: Sie ernähren die Bewohner des Stalliten. XXX
+// Arkhan3 G perso3
+L27D16A
+ Die Ernährer. XXX
+// Arkhan3 G perso3
+L27D16B
+ Sie leben wie die Lumpensammler in der Unteren Stadt. XXX
+// Arkhan3 G perso3
+L27D16C
+ Sie fischen, jagen und bauen an: Sie ernähren die Bewohner des Stalliten. XXX
+// Arkhan2 G perso2
+L27D23A
+ Die Erbauer. XXX
+// Arkhan2 G perso2
+L27D23B
+ Sie haben den Stalliten unter der Herrschaft der Prediger erbaut. XXX
+// Arkhan2 G perso2
+L27D23C
+ Sie bauen alle Arten von Gebäuden, stellen aber auch Werkzeuge und Möbel her ... XXX
+// Arkhan3 G perso3
+L27D24A
+ Die Erbauer. XXX
+// Arkhan3 G perso3
+L27D24B
+ Sie haben den Stalliten für die Prediger erbaut. XXX
+// Arkhan3 G perso3
+L27D24C
+ Gebäude, Werkzeuge, Möbel: Sie bauen einfach alles. XXX
+// Arkhan2 G perso2
+L27D17A
+ Die Hüter des Feuers. XXX
+// Arkhan2 G perso2
+L27D17B
+ Sie stehen der Bevölkerung des Stalliten zu Diensten und bieten ihr Schutz, Feuer und Licht, Tag und Nacht. XXX
+// Arkhan2 O perso2
+L27D17C
+ Wenn es doch so wäre! XXX
+// Arkhan3 G perso3
+L27D18A
+ Die Hüter des Feuers. XXX
+// Arkhan3 G perso3
+L27D18B
+ Beschützer des Stalliten und seiner Bevölkerung. XXX
+// Arkhan3 O perso3
+L27D18C
+ Lügengeschichten! XXX
+// Arkhan2 G perso2
+L27D19A
+ Die Prediger. XXX
+// Arkhan2 G perso2
+L27D19B
+ Die Auserwählten des Sonnengottes, Treuhänder des Glaubens. XXX
+// Arkhan2 G perso2
+L27D19C
+ Sie führen uns und schützen uns vor Ketzerei. XXX
+// Arkhan2 O perso2
+L27D19D
+ Wenn sie nicht gerade damit beschäftigt sind, diejenigen zu verfolgen, die ihnen helfen wollen! XXX
+// Arkhan3 G perso3
+L27D20A
+ Die Prediger. XXX
+// Arkhan3 G perso3
+L27D20B
+ Die Auserwählten des Sonnengottes, unsere geistigen Führer. XXX
+// Arkhan3 O perso3
+L27D20C
+ Blinde und abergläubische geistige Führer! XXX
+// Arkhan2 G perso2
+L27D21A
+ Der Rat. XXX
+// Arkhan2 G perso2
+L27D21B
+ Auf diesem Druck sieht man diesen Saal hier. XXX
+// Arkhan2 G perso2
+L27D21C
+ Hier haben Lory und ihre Berater ihre Entscheidungen getroffen. XXX
+// Arkhan3 G perso3
+L27D22A
+ Der Rat. Er versammelt sich hier. XXX
+// Arkhan3 G perso3
+L27D22B
+ In diesem Raum haben Lory und ihre Berater ihre Entscheidungen getroffen. XXX
+// Arkhan2 G perso2
+L27D25A
+ Die Statue von Thelen Khron, dem Gründer des Stalliten. XXX
+// Arkhan2 O perso2
+L27D25B
+ Die Prediger leben in der Vergangenheit! XXX
+// Arkhan3 G perso3
+L27D26
+ Der Gründer des Stalliten. XXX
+// Arkhan1 G perso1
+L27D27
+ Was willst Du? XXX
+// Konkalit4 perso74
+L27D28
+ Dich umbringen! XXX
+// Konkalit4 perso74
+L27D29
+ Du sollst verrecken! XXX

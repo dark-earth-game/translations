@@ -1,0 +1,736 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL01.TXT
+ // Kalhi (zu Arkhan, der in Unterwäsche zurückkommt) perso12
+L01D17A
+ Arkhane! Co je s tebou? XXX
+// Kalhi (amüsiert) perso12
+L01D17B
+Jdi uz, tvoje uniforma visí na vešáku ... XXX
+// Hüter des Feuers23 perso88
+L01D147
+ Patríš k nim, vím to! XXX
+// Zed (ruft durch die Tür hindurch) perso1
+L01D01A
+ (z venka) Arkhane, tady Zed!Pojd rychle ven! XXX
+// Zed (ruft durch die Tür hindurch) perso1
+L01D01B
+ (z venka) Arkhane, jseš objednanı u Profose. Pokud ty k nemu rychle neprijdeš, budeš mít problemy! XXX
+// Kalhi (wacht auf) perso12
+L01D03
+ Arkhane ... Ty jsi jiz vstal ... Vypadáš, jako kdyby ses špatne vyspal ... XXX
+// Phedoria (Arkhan schlägt Kalhi) perso26
+L01D45A
+ Arkhane! Nedotıkej se jí! XXX
+// Arkhan0 O (wütend) perso0
+L01D99
+ Kommandantko Phedorie! Chceš srovnat jako jí, posraná kurvo? Pockej chvíli! XXX
+// Phedoria (schießt kaltblütig) perso26
+L01D45B
+ Nedáváš mi jinou moznost! XXX
+// Kalhi (das Herz gebrochen durch Arkhans Tod) perso12
+L01D44
+ Arkhane... Oh ne! XXX
+// Kabak (greift an) perso87
+L01D148
+ Arkhane! ty hnusnı zrádce! XXX
+// Arkhan1 G (geht zu Kabak) perso1
+L01D66A
+ Hej, Kabaku! XXX
+// Kabak (schimpfend) perso87
+L01D67
+Svetlo s tebou, Arkhane. XXX
+// Arkhan2 L perso2
+L01D60A
+ Ty nemej zádnı strach ze mne, Kabaku! XXX
+// Arkhan2 O perso2
+L01D60B
+ Nechoï pryc! XXX
+// Arkhan3 L perso3
+L01D61A
+ Nemej strach! XXX
+// Arkhan3 O perso3
+L01D61B
+ (aggressives Knurren) XXX
+// Kabak (steht verblüfft vor Arkhan) perso87
+L01D30A
+ Arkhane! Jsi to ty? XXX
+// Kabak perso87
+L01D30B
+ U Slunecního Boha, tebe neco zle zrídílo! XXX
+// Kabak (sieht Arkhan2/3 wieder) perso87
+L01D139
+ Arkhane! Vypadáš, jako kdybys byl ješte horší ... XXX
+// Arkhan2 G (geht zu Kabak) perso2
+L01D66B
+ Kabaku! XXX
+// Arkhan3 G (geht zu Kabak) perso3
+L01D66C
+ Kabaku! XXX
+// Kabak (gegenüber Arkhan1, der aggressiv ist) perso87
+L01D81
+ Co se s tebou deje? XXX
+// Kabak (gegenüber Arkhan2/3, der aggressiv ist) perso87
+L01D82
+ Klid! XXX
+// Kabak (Arkhan kommt zurück, nachdem er den Kampf geflüchtet ist) perso87
+L01D87
+ To jsi ty, ty prasecí pse! XXX
+// Kabak (Arkhan packt die Waffen weg) perso87
+L01D80
+ Tak se mi líbíš jiz lépe! XXX
+// Kabak (wird von Arkhan1 geschlagen) perso87
+L01D137
+ Uz nikdy více, nebo budeš mít problemy! XXX
+// Kabak (wird von Arkhan2/3 geschlagen) perso87
+L01D138A
+ To souhlasí, ze jsi ošklivı, ale oci starıho Kabaka jiz videli horší veci! XXX
+// Hüter des Feuers23 (geschockt, als er Arkhan sieht) perso88
+L01D121
+ Kabaku! Zatracene, to je pred tebou Kreatura! XXX
+// Kabak (zu Lars, dem verletzten Hüter des Feuers) perso87
+L01D31A
+ Zádnou paniku, Larsi! XXX
+// Kabak (beruhigend) perso87
+L01D31B
+ Larsi, uklidni se! Tento Netvor je Arkhan.  XXX
+// Kabak perso87
+L01D31C
+ Dnes ráno byl on Strázcem ohne jako my všichni. On není náš neprítel. XXX
+// Hüter des Feuers23 (nicht überzeugt, daß Arkhan harmlos ist) perso88
+L01D122
+ I kdyz jsi to ty, nechod blíze, "Arkhane"! XXX
+// Hüter des Feuers23 (nicht überzeugt, daß Arkhan harmlos ist) perso88
+L01D123
+ Dávej pozor "Arkhane"!Já mohu ješte bojovat! XXX
+// Hüter des Feuers23 (geschockt, als er Arkhan sieht) perso88
+L01D124
+ Kabaku! Ty mluvíš s touto nestvùrou ... tato vec je Bozí rouhání! XXX
+// Kabak (mißtrauisch) perso87
+L01D171
+ On ti nechce nic udelat ... Souhlasí, Arkhane? XXX
+// Hüter des Feuers23 (will Arkhan nicht sehen) perso88
+L01D94
+ Kabaku, odvolej tuto príšeru pryc! XXX
+// Hüter des Feuers23 (weigert sich, Arkhan zu sehen) perso88
+L01D95
+ Kabaku, mne se to nelíbí! On má oci Temne Zeme! XXX
+// Kabak perso87
+L01D96
+ Dost, Larsi! On je pouze obetí, tak jako Ty. XXX
+// Kabak perso87
+L01D172
+ On není pomatenı! On nám nechce nic ucinit zleho! XXX
+// Hüter des Feuers23 (greift Arkhan an) perso88
+L01D127
+ Smrt demonùm! XXX
+// Arkhan1 L (vor einem Bett) perso1
+L01D21A
+ Já jsem tak unavenı... Ale já musím nyní jít. XXX
+// Kalhi (ein wenig ungeduldig) perso12
+L01D29A
+ Arkhane, pospeš si, Zed ceká na tebe ...  XXX
+// Kalhi (ein wenig ungeduldig) perso12
+L01D29B
+ Arkhane, máš jiz svoji uniformu, jdi k Zedovi ... XXX
+// Arkhan2 G (vor einem Bett) perso2
+L01D21B
+ Já nemám nyní cas spát! XXX
+// Arkhan3 G (vor einem Bett) perso3
+L01D21C
+ Já nemám nyní cas ... XXX
+// Arkhan1 O (vor einem Bett) perso1
+L01D21D
+ Zatracene! Mne by se nevyplatilo, vyspat se. XXX
+// Kalhi (ungeduldig) perso12
+L01D29C
+ Arkhane, prestan naríkat! XXX
+// Arkhan0 L perso0
+L01D119
+ To je moje uniforma. XXX
+// Arkhan0 O (murmelt) perso0
+L01D120
+ To je moje uniforma. XXX
+// Kalhi (Arkhan kommt in Unterwäsche zurück) perso12
+L01D32
+ Arkhane, ty nechceš jít ven!? XXX
+// Arkhan1 G (ironisch) perso0
+L01D33
+ Ne, kdybych já šel tak ven, mel bych prùser ... XXX
+// Arkhan1 L perso1
+L01D34A
+ Kalhi, az odejdeš, dávaj pozor, aby te nikdo nevidel.  XXX
+// Arkhan1 L perso1
+L01D34B
+ Nechci, aby te Profos Dhorkan lapil. Víš, jak prísnı je na prítelkyne v kasárnách. XXX
+// Kalhi perso12
+L01D36
+ Nedelej si starosti, Arkhane, já budu nenápadná, jak jsem prišla, tak take zmizím. XXX
+// Arkhan1 O (vorwurfsvoll) perso1
+L01D35A
+ Hej, Kalhi, pospeš si prece! XXX
+// Arkhan1 O perso1
+L01D35B
+ Ty víš jiste, ze smetáci nemeli pravdu, Strázce ohne nenavštívit. XXX
+// Arkhan1 O perso1
+L01D35C
+ Kdyby Tebe Profos Dhorkan zde našel, mohl bych mesíce hajzly drhnout!  XXX
+// Kalhi (beleidigt) perso12
+L01D37
+Tedy, pokud nechceš, abych já te navštívila, potrebuju ti pouze neco ríct! XXX
+// Kalhi perso12
+L01D41
+ Hej, v klidu! Ty máš se Zodem v boji cvièit, ne se mnou! XXX
+// Arkhan1 G (sanft) perso0
+L01D02
+ Kalhi, spíš? XXX
+// Arkhan1 L perso0
+L01D04A
+ Já te nechtel vzbudit. Ale první svetelné paprsky Slunecního Bohat jiz pricházejí ... XXX
+// Kalhi perso12
+L01D05A
+ Jiz jsem dobrá, já mela jiz pouze zavrene oci. XXX
+// Arkhan1 L perso0
+L01D04B
+ Víš, já zrídka mám sny. Já mel sen, ze jsem videl Velkou katastrofu a naše predky , poutníky Temne Zeme, kterí naše mesto postavili ... XXX
+// Kalhi perso12
+L01D05B
+ Tobe se zdálo o zakladatelích Sparty? XXX
+// Kalhi perso12
+L01D05C
+ Tento sen by se líbil Rylsadharovi.  XXX
+// Kalhi perso12
+L01D05D
+ Tvùj otec, knez, má skutecne zálibu pro dejiny! XXX
+// Arkhan1 L perso0
+L01D06A
+ Predstav si, take tebe jsem ve snu videl! S mım otcem, Zedem a velkou knezkou Lory ...  XXX
+// Arkhan1 L perso0
+L01D06B
+ Take tam byl náš pøítel Danrys, ten starı smeták. XXX
+// Kalhi perso12
+L01D07
+ Myslíš, ze ti Slunecní Bùh tento sen poslal? XXX
+// Arkhan1 L perso0
+L01D08A
+ To si já nemyslím! XXX
+// Arkhan1 L perso0
+L01D08B
+ Já ti ríkám: Pokud se Slunecním Bohem my budem dobre vycházet, on nás ochrání, a my budem moci v klidu dele spát!  XXX
+// Kalhi perso12
+L01D09A
+ Arkhane! Kdyby te tvùj otec slyšel! XXX
+// Kalhi perso12
+L01D09Z
+ Pokud budeš na Boha dál lašterit, skonciš ty ješte v exilu, v ríší Temné Zeme! XXX
+// Arkhan1 L perso0
+L01D10
+ Tak, já si myslím, ze musíme nyní jít! Kdyby nás zde našli, budeme v nemilosti. XXX
+// Kalhi perso12
+L01D11
+ Ano, máš pravdu, clovek si nemá s ohnem hrát. XXX
+// Arkhan1 O (schlecht gelaunt) perso0
+L01D13A
+ Poslouchej Kalhi, já nyní nemám zádnou chu! XXX
+// Kalhi (beleidigt) perso12
+L01D14
+ Tedy dobre, pokud tak to je, nereknu ti jiz nic... XXX
+// Arkhan1 O perso0
+L01D13B
+Já mel nocní mùru... Zdálo se mi o predcích, z našeho mesta ... XXX
+// Arkhan1 O perso0
+L01D15
+ Nyní mi to staèí, já nejsem zádnı Bùh - proc mám já se Slunecním otcem soucasne vstávat?! XXX
+// Arkhan1 O perso0
+L01D16
+ Dobrım Strázcem ohne bıt. Slunecnímu Bohu slouzit - knezí nenapadlo take nic jineho! XXX
+// Kalhi perso12
+L01D09B
+ A ver mi, zivot smetákù nebo  mùj nebo starıho Danryse není práve prátelskı! XXX
+// Arkhan1 O perso1
+L01D18
+ Já mám chut, se opet vedle tebe polozit ... XXX
+// Kalhi (verärgert) perso12
+L01D19
+ Arkhane, ne! Bylo by to jiz nebezpecne, v noci zde spolecne zùstávat! Oni nemeli by nás spolu najít ... XXX
+// Arkhan1 L perso0
+L01D46A
+ Zed mne volá, já musím nyní jít. XXX
+// Kalhi perso12
+L01D20A
+ Obejmi ho za mne, kdyz ho uvidíš. Bez jeho pomoci nemohli bychom se jiste tuto noc videt ... XXX
+// Arkhan1 L (macht ein angeekeltes Gesicht) perso0
+L01D46B
+ On není mım typem muze! XXX
+// Arkhan1 L perso0
+L01D46C
+ Skutecne, já nevím, co vy všechny na Zodovi vidíte ... XXX
+// Kalhi (amüsiert) perso12
+L01D20B
+ No jdi jiz, nedelej si z toho nic, víš prece, jak já te miluju! XXX
+// Arkhan1 O perso0
+L01D47
+ Zed ... Já mám dojem, ze je on dokonce na mne zlı! XXX
+// Kalhi (aufgebracht) perso12
+L01D26A
+ Ty si nedelej o Zedovi zádne špatne predstavy! On je tvùj prítel a velkı hrdina Stallitu! XXX
+// Kalhi perso12
+L01D26B
+ A bez jeho pomoci nemohli bychom se v noci videt... XXX
+// Arkhan1 L perso0
+L01D88A
+ Je nejvyšší cas, já musím nyní jít. XXX
+// Kalhi perso12
+L01D89A
+ Brzo opet, milácku. XXX
+// Arkhan1 O perso0
+L01D88B
+ (povzdech) Já musím pryc ... XXX
+// Kalhi perso12
+L01D89B
+ Jdi jiz, mnoho štestí! XXX
+// Arkhan1 L perso1
+L01D24A
+ Já jsem Zeda videl. On byl znamenite na boj pripravenı. XXX
+// Kalhi perso12
+L01D25A
+ Ale on se práve z cesty z ríše Temne Zeme zpet vrátil! Odpocine si on nekdy? XXX
+// Arkhan1 O perso1
+L01D83
+Já videl Zeda. On byl pripravenı k boji ... a plne zamestnanı, na mne pouze koukl. A to se nazıvá prátelství! XXX
+// Kalhi perso12
+L01D84A
+ Nebuï nevdecnı, Arkhane! Zed tráví príliš casu venku, to víš, tam kazdá duše ztemní. Ale já ho nikdy neslyšela, aby on s tebou tvrde mluvil. XXX
+// Kalhi perso12
+L01D25B
+ Mel by ses pokusit, ho premluvit - aby se nekolik dnù nevracel do Temne Zeme. Bylo by lepší, kdyby on zùstal u nás. On je vıbornım Strázcem ohne! XXX
+// Arkhan1 G perso1
+L01D24B
+ On tvrdí, ze se ve Stallitu nudí. Mela bys videt jeho oci, jakmile on vyrází do Temne ríše vyrází. Já neverím, ze ho nekdo odvrátí! XXX
+// Kalhi perso12
+L01D25C
+ A mu Bùh Slunce vecnou ochranu poskytuje! XXX
+// Arkhan1 L perso1
+L01D27A
+ Já musím nyní jít. Svetlo s tebou, Kalhi. XXX
+// Kalhi perso12
+L01D28
+ A s tebou, milácku. XXX
+// Arkhan1 O perso1
+L01D85A
+ Tak, to stací, já jdu. XXX
+// Arkhan1 O (schimpfend) perso1
+L01D85B
+ Ano... Svetlo buï nad tebou... XXX
+// Kalhi (unsicher) perso12
+L01D42
+ Poslouchej, Arkhane! Naháníš mi strach! XXX
+// Kalhi (erschrocken)  perso12
+L01D43A
+ U Boha Slunce, Arkhane! Já te prosím, nedelej mi nic! XXX
+// Arkhan0 G (schnauzt Kalhi an) perso0
+L01D98
+ Zasraná kurvo, já ti ukázu, kde ty se touláš! XXX
+// Kalhi (schreiend vor Angst) perso12
+L01D43B
+ Ne! Ne! Pomoc! XXX
+// Arkhan0 G (besprengt sich das Gesicht) perso0
+L01D23A
+ Ah ... to mi delá dobre! XXX
+// Arkhan2 G (besprengt sich das Gesicht) perso2
+L01D23B
+ Ah ... XXX
+// Arkhan3 G (besprengt sich das Gesicht) perso3
+L01D23C
+ Ah ... XXX
+// Arkhan1 L perso1
+L01D48
+ Svetlo buï nad tebou, Kabaku! XXX
+// Kabak perso87
+L01D49A
+ Ver mi, mùj synu, Otec svetla myslí to dnes s náma dobre! XXX
+// Kabak perso87
+L01D49B
+ Já videl práve tak mladou vec s ohnivıma ocima... Mmm, jednoduše k nakousnutí! XXX
+// Arkhan1 L (peinlich berührt) perso1
+L01D50
+ Hmmm... Ach skutecne...? XXX
+// Kabak (verträumt)perso87
+L01D51A
+ Ríkám prece! Já se zasnil na okamzik, moje stará kùze se opet vyrovnala a opet zivot vdechovala. XXX
+// Kabak perso87
+L01D51B
+ Co to bylo za plnokrevnou samicku! XXX
+// Kabak perso87
+L01D51C
+ A náhle byla ona pryc - pffft - rychleji nez vítr z Temné Zeme! XXX
+// Arkhan1 O perso1
+L01D52
+ Kabaku! Musíš ty v tvém stárí ješte porád mladé dívky honit! XXX
+// Arkhan1 O (böswillig) perso1
+L01D53
+ Ty jsi se prece tuto noc pravdepodobne opet s této hrozne koralky ozral! XXX
+// Kabak perso87
+L01D54A
+ Ne ... já jí skutecne videl, já prísahám Ti! XXX
+// Kabak (schimpfend) perso87
+L01D54B
+ Pfff! Mne neuverí stejne nikdo ... XXX
+// Arkhan1 G perso1
+L01D128
+ Je neco noveho krome dívek tvıch snù? XXX
+// Kabak perso87
+L01D129A
+ Ve velkem chrámu Slunecního Boha koná se shromázdení, ktere nebylo oznámeno. Já myslím, ze velká knezka prijme smetáky. XXX
+// Kabak perso87
+L01D129B
+ Ale to se nezdá bıt moc dùlezite, konecne poslalt Dhorkan pouze  dva z nás tam. XXX
+// Arkhan1 G perso1
+L01D130
+ Co to má bıt za podivnou schùzku? XXX
+// Kabak perso87
+L01D131A
+ Já myslím, typuji, ze nekdo ze Spodního mesta neco objevil a chtejí to velke knezce ukázat. XXX
+// Kabak perso87
+L01D131B
+ Nebo jakısi druh... XXX
+// Arkhan1 L perso1
+L01D132
+ Jinak nic? XXX
+// Kabak perso87
+L01D133
+ Ne skutecne, více já nevím... XXX
+// Arkhan1 O perso1
+L01D134
+ Ty nemáš skutecne o nicem rozhled! XXX
+// Kabak perso87
+L01D135
+ Pokud ty nejsi spokojenı, mùzeš jít za Profosem! XXX
+// Arkhan2 L perso2
+L01D55A
+ Kabaku ... Já hledám prostredek, kterı by mne opet uzdravil.  XXX
+// Arkhan2 L perso2
+L01D55B
+ Nekdo mi o jakesi hrobce vyprável, tajemnem míste nekde ve Stallitu. XXX
+// Arkhan2 L perso2
+L01D55C
+ Ty jsi prece zde nejstarší, ty víš prece jiste  kdeco? XXX
+// Arkhan2 O perso2
+L01D56A
+ Kabaku! Já potrebuju prostredek proti certove nemoci, co mne nicí! XXX
+// Arkhan2 O perso2
+L01D56B
+ Já o hrobce slyšel, nejakem tajemnem míste, kde se já opet mohu uzdravit. XXX
+// Arkhan2 O perso2
+L01D56C
+ Ty jsi prece nejstarší zde. Pokud to víš, rekni mi to! XXX
+// Arkhan3 G perso3
+L01D57A
+ Kabaku, já musím to místo najít, kde se já mohu opet uzdravit. XXX
+// Arkhan3 G perso3
+L01D57B
+ Nejaká tajemná hrobka. Slyšel jsi o tom? XXX
+// Kabak (überlegt) perso87
+L01D59A
+ Nejaká tajemná hrobka ... ehm ... ne, o ní já nic nevím.  XXX
+// Kabak perso87
+L01D59B
+ Nekterı ríkají, ze celı Stallit plnı podivnıch chodeb a vstupù je, prece já si myslím, ze je to hloupá cesta. XXX
+// Kabak perso87
+L01D59C
+ Pokud chceš mùj názor znát, Synu: Mel bys jít k svatému knezímu. XXX
+// Arkhan2 G perso2
+L01D62A
+ Knez nemohl nic pro mne ucinit ... XXX
+// Arkhan3 G perso3
+L01D62B
+ Oni nemohou nic pro mne ucinit ... XXX
+// Kabak perso87
+L01D63A
+ Pak nemáš jinı vıber, nez Boha Slunce prosit, Temnou sílu, v tobe znicit. XXX
+// Kabak (zögernd) perso87
+L01D63B
+ Ješte je jiná moznost ... XXX
+// Kabak perso87
+L01D63C
+ Nekterı ríkají, ze v ríši Temne Zeme je paní, která nejhorší nemoci vylecit umí. XXX
+// Kabak perso87
+L01D63D
+ Ale to jsou asi pohádky ...  XXX
+// Kabak perso87
+L01D63E
+ A je vyhlášeno stanne právo, nikdo se stejne ven nedostane! XXX
+// Arkhan2 G perso2
+L01D64A
+ Nevíš ty skutecne více? XXX
+// Arkhan3 G perso3
+L01D64B
+ Je to všechno? XXX
+// Kabak perso87
+L01D65A
+ Ne, mùj chlapce, více já nevím, já prísahám. XXX
+// Kabak perso87
+L01D65B
+ Jedno chci ti ale ríct: Dej pozor na sebe.  XXX
+// Kabak perso87
+L01D65C
+ Jsou nekterí Strázci ohne, kterı by te rádi pod zem dostali! XXX
+// Arkhan2 G perso2
+L01D173A
+ Knez Thanandar mne ošálil.  XXX
+// Arkhan2 G perso2
+L01D173B
+ Zlost je ješte ve mne.  XXX
+// Arkhan3 G perso3
+L01D174
+ Já potrebuju rychle prostredek, wo immer es ist, was auch immer es ist! XXX
+// Kabak perso87
+L01D175A
+ Nesmíš zoufat! XXX
+// Kabak perso87
+L01D175B
+ Je urcite nejaké rozluštení. XXX
+// Kabak perso87
+L01D175C
+ Slunecní Bùh tebe neopustí! XXX
+// Arkhan2 L perso2
+L01D68
+ Kabaku. Ty jsi rozumnı ... Co se prihodilo? XXX
+// Arkhan2 O perso2
+L01D69
+ Kabaku! Ty neco porád skrıváš! Víš ty neco, co se deje? XXX
+// Arkhan3 L perso3
+L01D70
+ Kabaku! Co se zde deje?  XXX
+// Arkhan3 O perso3
+L01D71
+ Co se zde deje? XXX
+// Kabak perso87
+L01D72A
+ Je tu chaos. Spodní mesto se bourí. Ríká se, ze tu je mnoho obetí. XXX
+// Kabak perso87
+L01D72B
+ A nekterí mluví o tom, ze príšery Temne Zeme vnikly do Stallitu.XXX
+// Arkhan2 G perso2
+L01D73
+ Jak to vypadá s bojem? XXX
+// Arkhan3 G perso3
+L01D74
+ Kdo má velení? XXX
+// Kabak perso87
+L01D75A
+ Neví se. Dhorkan zmizel ... nebo je mrtvı. Všude je smrt, v obou táborech.  XXX
+// Kabak perso87
+L01D75B
+ Slunecní Bùh nás proklel, Arkhane. To je to! XXX
+// Arkhan2 L perso2
+L01D76
+ Hlavu vzhùru, Kabaku! Hra ješte neskoncila! XXX
+// Arkhan2 O perso2
+L01D77
+ Odstav tvoje trauma, my jiz pracujeme! XXX
+// Arkhan3 L perso2
+L01D78
+ Hlavu vzhùru, Kabaku! XXX
+// Arkhan3 O perso2
+L01D79
+ Zbabelce! XXX
+// Kabak perso87
+L01D146
+ Mel bys radeji jít, Arkhane! XXX
+// Arkhan2 G perso2
+L01D108
+ Kabaku, jak to vypadá? XXX
+// Arkhan3 G perso3
+L01D109
+ Jak to vypadá? XXX
+// Kabak perso87
+L01D110A
+ Podívej se na toho chudáka chlapíka vzadu ... on je jedinı prezivší z jeho skupiny.  XXX
+// Kabak perso87
+L01D110B
+ Neprátelé, ktere my meli dole, nejsou lide. To je ješte cosi jineho ... XXX
+// Kabak perso87
+L01D110C
+ Mut ... Mutanti Temne Zeme. Oni jsou pod náma, máš pravdu! XXX
+// Arkhan2 G perso2
+L01D111
+ Kdyby byl zde Zed - on by vedel, co cinit! XXX
+// Arkhan3 G perso3
+L01D112
+ Kdyby Zed byl zde! XXX
+// Arkhan2 G perso2
+L01D200
+ Co ty deláš tu? XXX
+// Arkhan3 G perso3
+L01D201
+ Co deláš ty zde? XXX
+// Kabak perso87
+L01D202A
+ Co já delám? Já delám to, co Strázci neciní! ? XXX
+// Kabak perso87
+L01D202B
+ Já varím nápoj, k uzdravení, u kterıch to ješte mozne je ... XXX
+// Arkhan2 G perso2
+L01D203
+ Mùzeš mne tento nápoj lecit? XXX
+// Arkhan3 G perso3
+L01D204
+ Mùzeš mi tento nápoj dát? XXX
+// Kabak perso87
+L01D205
+ Ne, Arkhane, je mi líto, ale já mám príliš málo, a já nemyslím, ze tobe mùze pomoci. XXX
+// Arkhan2 L perso2
+L01D206
+ Prece, Kabaku, tento nápoj mùze mi docela jiste pomoct. XXX
+// Arkhan2 0 perso2
+L01D207
+ Já chci tento nápoj! XXX
+// Arkhan3 L perso3
+L01D208
+ Já potrebuju tento nápoj! XXX
+// Arkhan3 0 perso3
+L01D209
+ Dej ho! XXX
+// Kabak perso87
+L01D210
+ Ne já ti rekl. Já musím mnoho vojáku lecit! XXX
+// Arkhan1 G (zeigt den Gegenstand, den er in der Hand hält) perso1
+L01D105
+ Rekneš neco k teto veci? XXX
+// Arkhan2 G (zeigt den Gegenstand, den er in der Hand hält) perso2
+L01D106
+ Rekneš neco? XXX
+// Arkhan3 G (zeigt den Gegenstand, den er in der Hand hält) perso3
+L01D107
+ Znáš ty to zde? XXX
+// Kabak perso87
+L01D92A
+ Ne ... já nevím, co já bych ti k tomu rekl... XXX
+// Kabak perso87
+L01D92B
+ Co tohle? Ne, já nemùzu ti k tomu nic ríct... XXX
+// Kabak perso87
+L01D92C
+ Je mi líto, já nemohu ti nic ríct... XXX
+// Arkhan1 G (verspottet den alten Kabak) perso1
+L01D38
+ Ty nejsi špatnı bojovník...  pro tvoje stárí! XXX
+// Arkhan2 G (verspottet den alten Kabak) perso2
+L01D39
+ Ty nejsi špatnı bojovník...  na tve stárí! XXX
+// Arkhan3 G (verspottet den alten Kabak) perso3
+L01D40
+ Smùla, starce! XXX
+// Kabak (wütend) perso87
+L01D93
+ Pse! XXX
+// Kabak (provoziert Arkhan) perso87
+L01D86
+ Dávej si pozor, Arkhane! XXX
+// Hüter des Feuers23 perso88
+L01D136
+ Kabaku, já jdu! XXX
+// Arkhan1 O perso0
+L01D176
+ Mluv pouze ! XXX
+//Arkhan2 O perso2
+L01D177
+ Mluv pouze ! XXX
+//Arkhan3 O perso3
+L01D178
+ Mluv pouze! XXX
+// Arkhan2 G perso2
+L01D159
+ Jdeš do boje do Spodního mesta zpet? XXX
+// Arkhan3 G perso2
+L01D160
+ Bojoval jsi ve Spodním meste? XXX
+// Hüter des Feuers23 perso88
+L01D97A
+ Boj? Ne, já jsem sbíral houby, varil koralku! XXX
+// Hüter des Feuers23 perso88
+L01D97B
+ Copak si myslíš, Idiote? XXX
+// Arkhan2 L perso2
+L01D161
+ Mnoho mrtvıch? XXX
+// Arkhan2 O perso2
+L01D162
+ Ješte nejaká urázka a roztrhnu ti hubu! XXX
+// Arkhan3 L perso3
+L01D163
+ Mrtví? XXX
+// Arkhan3 O perso3
+L01D164
+ (aggressives Knurren) XXX
+// Hüter des Feuers23 perso88
+L01D165A
+ To nebyla vùbec krásná hra. Všichni ti, kterí se neschovali, byli zmasakrováni! XXX
+// Hüter des Feuers23 perso88
+L01D165B
+ Ty prasecí psy od Konkalittù! XXX
+// Hüter des Feuers23 perso88
+L01D165C
+ Oni to byli, ty ktere Temná Zeme do Stalitu prinesla. XXX
+// Hüter des Feuers23 perso88
+L01D165D
+ A s nimi tyto odporne kreatury! XXX
+// Hüter des Feuers23 perso88
+L01D165E
+ Tyto dáblove! Meli by všichni chcípnout! XXX
+// Hüter des Feuers23 (provoziert Arkhan) perso88
+L01D166
+ Umíš ty jenom štekat nebo take kousáš? XXX
+// Kabak perso87
+L01D167
+ To uz stací, vy dva! Vy stojíte na hlavní strane, nezapomínejte na to! XXX
+// Arkhan2 G perso2
+L01D168
+ Delejte si co chcete! Jdu nyní nás všechny z toho bláta vytáhnout! XXX
+// Arkhan3 G (entschieden) perso3
+L01D169
+ Odcházím. Nepokoušejte se mne zadrzet! XXX
+// Hüter des Feuers23 (aggressiv) perso88
+L01D170
+ To je mi ùplne jedno. XXX
+// Arkhan2 G perso2
+L01D150
+ Co pak se s tebou deje? XXX
+// Arkhan3 G perso3
+L01D151
+ Ty jsi trpel. XXX
+// Hüter des Feuers24 (geschwächt) perso89
+L01D152A
+Ve dverích ... Kreatura ... obrovská, cerná ... XXX
+// Hüter des Feuers24 (geschwächt) perso89
+L01D152B
+ My byli prekvapenı ... Všichni mrtvı, kromne mne ... XXX
+// Arkhan2 G perso2
+L01D153
+ Tato kreatura, odkud prišla sem? XXX
+// Arkhan3 G perso3
+L01D154
+ Odkud prichází tyto kreatury sem? XXX
+// Hüter des Feuers24 (geschwächt) perso89
+L01D155A
+ Z Temne Zeme ... Vypadají jako zvírata, jsou lidmi ... ale ... promenenımi ... XXX
+// Hüter des Feuers24 (geschwächt) perso89
+L01D155B
+ Oni poslouchají nejakıho demona ... nejakıho demona Temne Zeme ... XXX
+// Hüter des Feuers24 (geschwächt) perso89
+L01D155C
+ Toho musíte chytit! XXX
+// Arkhan2 G perso2
+L01D156
+ Já doufám, ze se opet uzdravíš. XXX
+// Arkhan3 G perso3
+L01D157
+ Nyní odvahu! XXX
+// Arkhan2 G (auf einen Gegenstand zeigend) perso2
+L01D117
+Znáš to? XXX
+// Arkhan3 G (einen Gegenstand zeigend) perso3
+L01D118
+ Poznáváš ty to? XXX
+// Hüter des Feuers24 (schwach) perso89
+L01D149
+ Ne. Já ... já to ješte nevidel. XXX

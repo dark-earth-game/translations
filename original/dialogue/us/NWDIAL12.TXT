@@ -1,0 +1,523 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL12.TXT
+ // Bandor perso7
+L12D03
+ What are you doing here? XXX
+// Bandor perso7
+L12D04
+ Why have you come back? XXX
+// Bandor perso7
+L12D05
+ We can do nothing more for you. XXX
+// Bandor perso7
+L12D01
+ Stand back! You have no right to be here! XXX
+// Khorad perso83
+L12D02
+ Leave now or we'll summon the Guardians of Fire! XXX
+// Arkhan2 G perso2
+L12D108
+ A secret compartment! XXX
+// Arkhan3 G perso2
+L12D109
+ A hiding-place! XXX
+// Bandor (scared)perso7
+L12D128
+ No! I beg you! XXX
+// Khorad (scared)perso83
+L12D129
+ Help me! XXX
+// Bandor perso7
+L12D112
+ No, No. Don't hurt us! XXX
+// Bandor perso7
+L12D113
+ Look, let's be reasonable. XXX
+// Arkhan2 L perso2
+L12D06A
+ Fear not. I do not want to hurt you.  XXX
+// Arkhan2 L perso2
+L12D06B
+ I'm looking for Bandor, the Master Builder. XXX
+// Khorad (over-anxious) perso83
+L12D10
+ Bandor's not here!  XXX
+// Bandor (trying to disguise his fear) perso7
+L12D11
+ He...he's down in the Darklands, on a new building site. XXX
+// Khorad perso83
+L12D12
+ Yes. We came back, but he stayed down there. XXX
+// Arkhan2 O (impatient) perso2
+L12D07
+ Where is Bandor, the Master Builder? XXX
+// Arkhan2 L perso2
+L12D13A
+ The Great Sunseer personally instructed me to seek your help. XXX
+// Arkhan2 L perso2
+L12D13B
+ She described Bandor from head to toe. One of you has to be him. XXX
+// Arkhan2 L perso2
+L12D13C
+ The Stallite is in peril. We must act fast!  XXX
+// Bandor perso7
+L12D24
+ No. The Great Sunseer would never have said such a thing!  XXX
+// Khorad (appeasingly) perso83
+L12D25
+ Or perhaps she made a mistake... XXX
+// Bandor perso7
+L12D26
+ In any case Bandor isn't here. XXX
+// Khorad perso83
+L12D27
+ And we don't know where he is! XXX
+// Arkhan2 O (impatient) perso2
+L12D14A
+ Don't get funny with me! XXX
+// Arkhan2 O perso2
+L12D14B
+ Lory told me personally about Bandor, and I'm sure one of you two is him! XXX
+// Arkhan2 O perso2
+L12D14C
+ There's no time to waste.  Which one of you is Bandor? XXX
+// Arkhan2 L perso2
+L12D19A
+ I told you. I'm not going to hurt you! XXX
+// Arkhan2 L perso2
+L12D19B
+ I have to know if Rylsadhar gave you a special object...a crystal.  XXX
+// Arkhan2 O (annoyed) perso2
+L12D20A
+ You think I'm stupid enough to believe that all Stallite builders have dark skin and only one leg?! XXX
+// Arkhan2 O perso2
+L12D20B
+ I've had enough! Which one of you is Bandor? XXX
+// Bandor (conciliatory) perso7
+L12D22
+ I'm sorry. We don't know. XXX
+// Khorad (bluffing) perso83
+L12D23A
+ You'd better leave, the Guardians of Fire will be here soon. XXX
+// Khorad perso83
+L12D23B
+ And they'll really rough you up! XXX
+// Arkhan2 L perso2
+L12D200
+ Listen to me. I need your help. XXX
+// Bandor perso7
+L12D202
+ I'm sorry, we don't know anything. XXX
+// Khorad perso83
+L12D203
+ We can't help you! XXX
+// Arkhan2 O (annoyed) perso2
+L12D201
+ I'm going to lose my temper! XXX
+// Arkhan3 L perso3
+L12D08
+ Relax! I'm looking for Bandor! XXX
+// Arkhan3 O perso3
+L12D09
+ Bandor! XXX
+// Arkhan3 L perso3
+L12D15A
+ Lory told me to look for a man with dark skin and a metal leg! XXX
+// Arkhan3 L perso3
+L12D15B
+ Which one of you is Bandor? XXX
+// Arkhan3 L perso3
+L12D21A
+ I'm on your side.  XXX
+// Arkhan3 L perso3
+L12D21B
+ I'm looking for a crystal given to Bandor by Rylsadhar. XXX
+// Arkhan3 L perso3
+L12D300
+ I need your help! XXX
+// Khorad (frightened) perso83
+L12D17
+ No. Hands off! XXX
+// Bandor (frightened) perso7
+L12D18A
+ Stand back, creature! XXX
+// Bandor perso7
+L12D18B
+ If you lay a finger on us, you'll be sorry! XXX
+// Arkhan2 G perso2
+L12D32
+ I've got your wonderful diagram. Now tell me, which one of you is Bandor? XXX
+// Arkhan3 G perso3
+L12D34
+ I've got the diagram. Now tell me, which one of you is Bandor?! XXX
+// Khorad (bluffing) perso83
+L12D33A
+ That diagram is useless.  XXX
+// Khorad perso83
+L12D33B
+ And neither of us is Bandor... XXX
+// Arkhan2 G perso2
+L12D121
+ And this? Does this mean anything to you? XXX
+// Arkhan3 G perso3
+L12D122
+ What about this? XXX
+// Bandor perso7
+L12D123
+ No, sorry. XXX
+// Khorad perso83
+L12D124
+ No. It doesn't ring a bell. XXX
+// Arkhan2 G perso2
+L12D40
+ Hah! I'm on to your little game! XXX
+// Bandor perso07
+L12D43
+ Okay. Now give me the diagram! XXX
+// Arkhan3 G perso3
+L12D42
+ Fun's over! XXX
+// Arkhan2 L perso2
+L12D47A
+ Master Builder, I didn't mean you any harm. XXX
+// Arkhan2 L perso2
+L12D47B
+ Shankr Archessence runs cold and fast through my veins. But I am still Arkhan, Guardian of Fire and son of Rylsadhar. XXX
+// Arkhan2 L perso2
+L12D47C
+ I have sworn to avenge the Stallite and save it from peril. XXX
+// Bandor (prudent) perso7
+L12D50A
+ Mere words! How do I know I can trust you? XXX
+// Bandor perso7
+L12D50B
+ Prove to me that you are the son of Rylsadhar and then we'll see if I can help you. XXX
+// Arkhan2 O perso2
+L12D48
+ There's no time to waste. I'm Arkhan, son of Rylsadhar, and I'm looking for the crystals hidden by my father.  XXX
+// Arkhan3 L perso3
+L12D49A
+ I am the son of Rylsadhar.  XXX
+// Arkhan3 L perso3
+L12D49B
+ I'm looking for the crystals he hid. XXX
+// Arkhan2 L perso2
+L12D51A
+ I have no time for games, Bandor.  XXX
+// Arkhan2 L perso2
+L12D51B
+ Lory sent me. You must believe me! XXX
+// Bandor (firmly) perso7
+L12D54A
+ No. Rylsadhar would never have allowed me to speak with a... a... XXX
+// Bandor perso7
+L12D54B
+ ... a creature like you with no token of your good faith. XXX
+// Arkhan2 O perso2
+L12D52A
+ This is no time to argue about details! XXX
+// Arkhan2 O perso2
+L12D52B
+ If you have the crystal, give it up! XXX
+// Arkhan3 L perso3
+L12D53
+ Trust me! XXX
+// Arkhan2 G perso2
+L12D55A
+ You want to see proof? Look, I have the crystal bow to the key. XXX
+// Arkhan2 G perso2
+L12D55B
+ I need to find the other pieces in order to enter my father's vault.  XXX
+// Arkhan2 G perso2
+L12D55C
+ Lory thinks the vault may contain secrets that can save us. XXX
+// Bandor (suddenly determined) perso7
+L12D57A
+ All right. I am willing to believe you. XXX
+// Bandor perso7
+L12D57B
+ Yes, Rylsadhar did give me one of the crystals. I now give it to you. XXX
+// Bandor perso7
+L12D57C
+ But beware! If you use it for evil purposes, may you be triply cursed! XXX
+// Arkhan2 L perso2
+L12D58
+ Thank you, Master Bandor. XXX
+// Arkhan2 O perso2
+L12D59A
+ Mmm... XXX
+// Arkhan2 O (echoing Bandor's sentence) perso2
+L12D59B
+ And if your suspicions have cost me precious time, you will pay with your life and your soul! XXX
+// Arkhan3 G perso3
+L12D56A
+ Proof? Behold! XXX
+// Arkhan3 G perso3
+L12D56B
+ I have the crystal bow! XXX
+// Arkhan3 L perso3
+L12D60
+ Thank you. XXX
+// Arkhan3 O perso3
+L12D61
+ (vaguely friendly growl) XXX
+// Arkhan2 G perso2
+L12D125
+ Is that proof enough for you? XXX
+// Arkhan3 G perso2
+L12D126
+ Here's the proof you seek! XXX
+// Bandor perso7
+L12D127
+ No. That proves nothing! XXX
+// Arkhan2 L perso2
+L12D62A
+ Who else would my father have given the bow to? XXX
+// Arkhan2 L perso2
+L12D62B
+ Any ideas? XXX
+// Arkhan2 O perso2
+L12D63A
+ Besides you, who else did my father give a crystal to? XXX
+// Arkhan2 O perso2
+L12D63B
+ Answer me! XXX
+// Bandor (thinking quickly) perso7
+L12D65
+ Euh... The High Priestess Lory, for sure. And of course the great Zed. XXX
+// Arkhan2 G perso2
+L12D66
+ Hmm... who else? XXX
+// Bandor (hesitating) perso7
+L12D68A
+ Well... maybe Rylsadhar had enough time to visit Leona. XXX
+// Bandor perso7
+L12D68B
+ She's a strange woman who lives in the Darklands. Few people would trust her... XXX
+// Bandor perso7
+L12D68C
+ But your father seemed to be friends with her. XXX
+// Arkhan2 G perso2
+L12D69
+ I've seen Leona. My father didn't give her anything. XXX
+// Bandor perso7
+L12D71
+ In that case, I can't think of anyone else... sorry... XXX
+// Arkhan2 L perso2
+L12D72
+ Where would I find Leona? XXX
+// Arkhan2 O perso2
+L12D73
+ This Leona you mentioned, how can I find her? XXX
+// Bandor perso7
+L12D75A
+ She lives far from the Stallite, in the Darklands. No one really knows where... XXX
+// Bandor perso7
+L12D75B
+ Some say she dwells in hiding near the shore. XXX
+// Bandor perso7
+L12D75C
+ But others say you will find her only if she wants you to. XXX
+// Khorad perso83
+L12D76A
+ In any case, it would be crazy to go outside...  XXX
+// Khorad perso83
+L12D76B
+ And don't forget. The streets are blocked off and the Stallite gates are closed! XXX
+// Arkhan2 G perso2
+L12D77A
+ In the name of Rahal, I thought you were the Master Builder! XXX
+// Arkhan2 G perso2
+L12D77B
+ You must know another way out of the Stallite! XXX
+// Bandor perso7
+L12D78
+ No. There used to be tunnels, but they caved in and were flooded during the earthquake. XXX
+// Khorad perso83
+L12D79
+ Yes. And that was many cycles ago... XXX
+// Arkhan2 L perso2
+L12D81A
+ Lory told me about a special underground place, a Tomb. I must reach this place. XXX
+// Arkhan2 L perso2
+L12D81B
+ Do you know anything? XXX
+// Bandor perso7
+L12D84
+ "Tomb". No. I've never heard of such a place. XXX
+// Khorad perso83
+L12D85A
+ The Stallite was built very long ago.  XXX
+// Khorad perso83
+L12D85B
+ Even Master Bandor doesn't know all the secrets. XXX
+// Arkhan2 O perso2
+L12D82A
+ Lory told me about a Tomb. And you and your builders erected the Stallite. XXX
+// Arkhan2 O perso2
+L12D82B
+ So where is this Tomb? XXX
+// Arkhan2 L perso2
+L12D91A
+ I saw the entrance to a bunker in the Darklands. It looked like a door from Before.  XXX
+// Arkhan2 L perso2
+L12D91B
+ You who know everything about the Stallite, can you tell me how to get in? XXX
+// Bandor perso7
+L12D92
+ That place is a mystery, even for me. XXX
+// Khorad perso83
+L12D93A
+ People say that one of the scavengers claimed to have been inside. But Dhorkan had him arrested. XXX
+// Khorad perso83
+L12D93B
+ And since then, no one has ever made the same claim. XXX
+// Arkhan2 O perso2
+L12D94A
+ There's a strange door down below, a door from Before. XXX
+// Arkhan2 O perso2
+L12D94B
+ I want to go through that door, and you're going to tell me how to do it! XXX
+// Khorad perso83
+L12D95
+ It's condemned. No one can enter. XXX
+// Arkhan2 L perso2
+L12D86A
+ Well, thank you for your help. XXX
+// Arkhan2 L perso2
+L12D86B
+ I won't waste any more of your time. Light be with you! XXX
+// Bandor perso7
+L12D87
+ Good luck, son of Rylsadhar. XXX
+// Khorad perso83
+L12D88
+ And be careful... XXX
+// Arkhan2 O perso2
+L12D89A
+ All right, let's not waste any more time. XXX
+// Arkhan2 O perso2
+L12D89B
+ Out of my way, I'm in a hurry! XXX
+// Arkhan3 L perso3
+L12D64A
+ Where can I find the other crystals? XXX
+// Arkhan3 L perso3
+L12D64B
+ Do you know? XXX
+// Arkhan3 L perso3
+L12D67
+ Hmm... who else? XXX
+// Arkhan3 L perso3
+L12D70
+ I saw Leona. No luck. XXX
+// Arkhan3 L perso3
+L12D74
+ Where can I find Leona? XXX
+// Arkhan3 L perso3
+L12D80
+ There must be another way... XXX
+// Arkhan3 L perso3
+L12D83
+ I'm looking for a special place, a Tomb. Where is it? XXX
+// Arkhan3 L perso3
+L12D96A
+ In the Darklands there's a door. It must belong to a building from Before. XXX
+// Arkhan3 L perso3
+L12D96B
+ I must get inside. Can you help me? XXX
+// Arkhan3 L perso3
+L12D90
+ Thank you. Light be with you. XXX
+// Bandor perso7
+L12D105A
+ You're crazy! Stop! XXX
+// Bandor perso7
+L12D105B
+ We can do no more for you, let us be! XXX
+// Bandor (forced to fight) perso7
+L12D107
+ Khorad, get him! XXX
+// Khorad perso83
+L12D41
+ Give that diagram back to Master Bandor, and do it NOW! XXX
+// Arkhan2 G perso2
+L12D110
+ There's nothing in his pockets! XXX
+// Arkhan3 G perso3
+L12D111
+ O evil blood! Nothing! XXX
+// Khorad perso83
+L12D30
+ Don't touch that diagram. It's a very valuable document! XXX
+// Bandor perso7
+L12D31
+ It belongs to the Master Builder! XXX
+// Arkhan2 G perso2
+L12D28
+ There's nothing left to take! XXX
+// Arkhan3 perso3
+L12D29
+ Nothing more here. XXX
+// Arkhan2 G (turning his head towards Bandor & Khorad) perso2
+L12D35A
+ If neither of you is Bandor...  XXX
+// Arkhan2 G (turning his head towards Bandor & Khorad) perso2
+L12D35B
+ You won't mind if I set fire to his wonderful diagram! XXX
+// Bandor (panicked) perso7
+L12D38
+ NO! XXX
+// Bandor (moving towards Arkhan) perso7
+L12D39
+ All right ... Yes. I am Bandor. Give me back the diagram. XXX
+// Arkhan2 Gperso2
+L14D45
+ About time! XXX
+// Arkhan3 G perso3
+L12D36
+ This is your last chance. Which of you is Bandor? XXX
+// Arkhan3 G perso3
+L12D37
+ Or I torch the diagram! XXX
+// Arkhan3 G perso3
+L14D46
+ Bandor, at last! XXX
+// Arkhan2 G perso2
+L12D45
+ If I know which one is Bandor, I won't burn the diagram! XXX
+// Arkhan3 G perso3
+L12D46
+ If I can deal with Bandor, I won't burn the diagram! XXX
+// Arkhan2 G perso2
+L12D103
+ Nothing useful on the desk... XXX
+// Arkhan3 G perso3
+L12D104
+ Nothing on the desk... XXX
+// Arkhan2 G perso2
+L12D97
+ Nothing on the desk! XXX
+// Arkhan3 perso3
+L12D98
+ Nothing here! XXX
+// Arkhan2 G perso2
+L12D99
+ Nothing on the lectern. XXX
+// Arkhan2 G perso2
+L12D101
+ One of those relics from Before. XXX
+// Arkhan3 G perso3
+L12D102
+ A relic from Before. XXX
+// Khorad (whispering) perso83
+L12D119
+ He touched the snake! XXX
+// Bandor (whispering) perso7
+L12D120
+ Don't worry. Let him do what he wants. XXX
+// Arkhan2 G perso2
+L12D117
+ I've already pulled the lever. XXX
+// Arkhan3 G perso3
+L12D118
+ I've already pulled the lever. XXX

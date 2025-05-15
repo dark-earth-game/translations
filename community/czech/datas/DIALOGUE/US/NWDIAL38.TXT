@@ -1,0 +1,175 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL38.TXT
+ // Arkhan2 G (erstaunt, als er den Garten Eden entdeckt) perso2
+L38D01A
+ Proklate!... XXX
+// Arkhan2 G perso2
+L38D01B
+ Co je ... Copak to je?! XXX
+// Arkhan3 G (erstaunt, als er den Garten Eden entdeckt) perso3
+L38D02A
+ Zatracene!... XXX
+// Arkhan3 G perso3
+L38D02B
+ Co je ... Copak je to?!? XXX
+// Arkhan2 G (beugt sich hinunter und trinkt) perso2
+L38D03A
+ Tato voda ... Jak tekutý ohen ... XXX
+// Arkhan2 G perso2
+L38D03B
+ To ... cistí mne ... ale cítím se ... slabší ... XXX
+// Arkhan3 G perso3
+L38D04A
+ Voda ... Jak ohen ...  XXX
+// Arkhan3 G perso3
+L38D04B
+ To mne cistí ... Ale moje cele telo horí ... XXX
+// Arkhan2 G perso2
+L38D05
+ Ne, pokud se více napiju, budu plne vycerpán. XXX
+// Arkhan3 G perso3
+L38D06
+ Ne, pokud já se ješte napiju, zabije mne to! XXX
+// Arkhan2 G perso2
+L38D07
+ Kristal z kremene. XXX
+// Arkhan2 G perso2
+L38D08
+ Klíc meho otce musí být vybroušený z tohoto druhu krystalu. XXX
+// Arkhan3 G perso3
+L38D09
+ Kristal. XXX
+// Arkhan3 G perso3
+L38D10
+ Z toho se udelá klíc od meho otce. XXX
+// Arkhan2 G perso2
+L38D11
+ S tím musí jít cást z kristalù udelat. XXX
+// Arkhan2 G perso2
+L38D12
+ To se nehodí na nic jineho nez na lamelu. XXX
+// Arkhan3 G perso3
+L38D13
+ S tímto já lamelu z krystalu udelám. XXX
+// Arkhan3 G perso3
+L38D14
+ Ne ... to byla by vlastní lamela. XXX
+// Arkhan2 G perso2
+L38D15A
+ To mi pripomíná domácí sazenice od zivitelù. XXX
+// Arkhan2 G perso2
+L38D15B
+ Ale tyto zde jsou obrovske, zelene, plne zivota ...  XXX
+// Arkhan2 G perso2
+L38D15C
+ Takoveho neco jsem ješte nikdy nevidel! XXX
+// Arkhan2 G perso2
+L38D16
+ Tyto sazenice jsou skutecne fantasticke! XXX
+// Arkhan2 G perso2
+L38D17
+ Stromy, kvetiny, korení ... Sen zivitelù, obchodníkù s olejem. XXX
+// Arkhan2 G perso2
+L38D18
+ Kdybych já mohl dosti dlouho zít, vyprávet o tom ve Stallitu, neuverí mi to nikdo. XXX
+// Arkhan3 G perso3
+L38D19A
+ Jak pùvodní domy ... zivitelù ... XXX
+// Arkhan3 G perso3
+L38D19B
+ Ale zde ... v prírode ... jsou volne. XXX
+// Arkhan3 G perso3
+L38D19C
+ Neuveritelne. XXX
+// Arkhan3 G perso3
+L38D20
+ Tyto kytky ... fantasticke ... XXX
+// Arkhan3 G perso3
+L38D21
+ Kytky, nat, korení ... všude! XXX
+// Arkhan3 G perso3
+L38D22
+ Neco takoveho jsem ve Stallitu nikdy nevidel ... XXX
+// Arkhan2 L perso2
+L38D23
+ Obrostlá skála. XXX
+// Arkhan2 O (schlägt auf die Felsen ein/versucht, sie zu bewegen) perso2
+L38D24
+ Príliš veliká, nejde se dále pohybovat ... XXX
+// Arkhan3 L perso3
+L38D25
+ Obrovská mechem obrostlá skála. XXX
+// Arkhan3 O (schlägt auf die Felsen ein/versucht, sie zu bewegen) perso3
+L38D26
+ Rah! Ne, príliš tezke! XXX
+// Arkhan2 G perso2
+L38D27
+ Tyto koreny jsou obrovske ... XXX
+// Arkhan3 G perso3
+L38D28
+ Koreny ... obrovske ... XXX
+// Arkhan2 G perso2
+L38D29
+ Cesta zde koncí. XXX
+// Arkhan3 G perso3
+L38D30
+ Cesta nepokracuje dále. XXX
+// Arkhan2 G perso2
+L38D31
+ Obrovske stromy... XXX
+// Arkhan3 G perso3
+L38D32
+ Obrovske stromy ... XXX
+// Arkhan2 G perso2
+L38D33
+ Já ješte nikdy tak velike kytky nevidel! XXX
+// Arkhan3 G perso3
+L38D34
+ Já ješte nikdy tak velike koreny nevidel! XXX
+// Arkhan2 G perso2
+L38D35
+ Mocný kmen. XXX
+// Arkhan3 G perso3
+L38D36
+ Kmen! XXX
+// Arkhan2 L (nachdenklich am Ufer des Teichs)perso2
+L38D37
+ Zajímave, to vypadá, jako trpytící se voda. XXX
+// Arkhan2 L perso2
+L38D38
+ Nezdá se to být príliš hluboke ... XXX
+// Arkhan2 O perso2
+L38D39
+ Opet voda! Tak casto jsem se v mým celým zivote nekoupal! XXX
+// Arkhan3 L perso3
+L38D40
+ Voda ... trpytící se ... XXX
+// Arkhan3 L perso3
+L38D41
+ Není hluboká. XXX
+// Arkhan3 O perso3
+L38D42
+ Voda! Jiz opet! XXX
+// Arkhan2 G (berührt den Geheimnisvollen Wächter)perso2
+L38D43A
+ Kámen je hladký a horký ... XXX
+// Arkhan2 G (berührt den Geheimnisvollen Wächter)perso2
+L38D43B
+ Me prsty ... jako by usnuly. XXX
+// Arkhan3 G (berührt den Geheimnisvollen Wächter)perso3
+L38D44A
+ Kámen je teplý ...  XXX
+// Arkhan3 G (berührt den Geheimnisvollen Wächter)perso3
+L38D44B
+ Moje prsty ... ùplne unavene ... XXX
+// Arkhan2 G perso2
+L38D45
+ Schody ... docela nove ... XXX
+// Arkhan2 G perso2
+L38D46
+ Schody se ztrácejí nahore v liánách. XXX
+// Arkhan3 G perso3
+L38D47
+ Nejake schody ... ne stare ... XXX
+// Arkhan3 G perso3
+L38D48
+ Oni vedou vysoko do stromù... XXX

@@ -1,0 +1,523 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\fr\NWDIAL12.TXT
+ // Bandor perso7
+L12D03
+ Que viens-tu faire ici? XXX
+// Bandor perso7
+L12D04
+ Pourquoi reviens-tu nous voir? XXX
+// Bandor perso7
+L12D05
+ Nous ne pouvons plus rien pour toi. XXX
+// Bandor perso7
+L12D01
+ Arrière! Vous n'avez nul droit d'être ici! XXX
+// Keul perso83
+L12D02
+ Sortez ou nous appelons les Gardiens du Feu! XXX
+// Arkhan2 G perso2
+L12D108
+ Une cache secrète! XXX
+// Arkhan3 G perso2
+L12D109
+ Une cache! XXX
+// Bandor (apeuré)perso7
+L12D128
+ Non! Je t'en supplie! XXX
+// Keul (apeuré)perso83
+L12D129
+ A l'aide! XXX
+// Bandor perso7
+L12D112
+ Non non, ne nous frappe pas! XXX
+// Bandor perso7
+L12D113
+ Voilà, il faut être raisonnable. XXX
+// Arkhan2 L perso2
+L12D06A
+ N'ayez crainte, je ne vous veux pas de mal.  XXX
+// Arkhan2 L perso2
+L12D06B
+ Je cherche Bandor, le Maître-Bâtisseur. XXX
+// Keul (empressé) perso83
+L12D10
+ Bandor n'est pas là!  XXX
+// Bandor (essayant de ne pas montrer sa peur) perso7
+L12D11
+ Il... il est dans la ville basse, sur un nouveau chantier. XXX
+// Keul perso83
+L12D12
+ Oui. Nous, nous sommes remontés mais lui est resté en bas. XXX
+// Arkhan2 O (impatient) perso2
+L12D07
+ Où est Bandor, le Maître-Bâtisseur? XXX
+// Arkhan2 L perso2
+L12D13A
+ C'est la Grande Prôneuse en personne qui m'envoit chercher votre aide. XXX
+// Arkhan2 L perso2
+L12D13B
+ Elle m'a fort bien décrit Bandor : c'est forcément l'un d'entre vous.  XXX
+// Arkhan2 L perso2
+L12D13C
+ Le Stallite tout entier est en danger et il faut faire vite!  XXX
+// Bandor perso7
+L12D24
+ Non, la Grande Prôneuse n'aurait jamais dit ça!  XXX
+// Keul (apaisant) perso83
+L12D25
+ Ou alors elle s'est trompée... XXX
+// Bandor perso7
+L12D26
+ De toutes façons, Bandor n'est pas là. XXX
+// Keul perso83
+L12D27
+ Et nous ne savons pas où il est! XXX
+// Arkhan2 O (impatient) perso2
+L12D14A
+ Ne jouez pas aux plus malins avec moi! XXX
+// Arkhan2 O perso2
+L12D14B
+ Lory en personne m'a parlé de Bandor. Je suis sûr que c'est l'un de vous deux! XXX
+// Arkhan2 O perso2
+L12D14C
+ Je n'ai pas de temps à perdre : lequel est Bandor?! XXX
+// Arkhan2 L perso2
+L12D19A
+ Je vous dis que je ne vous veux aucun mal! XXX
+// Arkhan2 L perso2
+L12D19B
+ Je dois savoir si Rylsadhar vous a remis un objet... un cristal.  XXX
+// Arkhan2 O (s'énerve) perso2
+L12D20A
+ Vous voulez me faire croire que tous les bâtisseurs sont noirs avec une jambe en moins?! XXX
+// Arkhan2 O perso2
+L12D20B
+ Ca suffit! Lequel d'entre vous est Bandor?! XXX
+// Bandor (conciliant) perso7
+L12D22
+ Désolé, nous ne savons rien. XXX
+// Keul (bluffant) perso83
+L12D23A
+ Vous feriez mieux de partir, des Gardiens du Feu vont bientôt arriver. XXX
+// Keul perso83
+L12D23B
+ Et eux, ils seront pas tendres avec vous! XXX
+// Arkhan2 L perso2
+L12D200
+ Ecoutez, j'ai besoin de votre aide. XXX
+// Bandor perso7
+L12D202
+ Désolé, on ne sait rien. XXX
+// Keul perso83
+L12D203
+ On ne peut rien pour vous! XXX
+// Arkhan2 O (s'énerve) perso2
+L12D201
+ Je vais me mettre en colère! XXX
+// Arkhan3 L perso3
+L12D08
+ Calme! Je cherche Bandor! XXX
+// Arkhan3 O perso3
+L12D09
+ Bandor! XXX
+// Arkhan3 L perso3
+L12D15A
+ Lory m'a dit : un homme à la peau noire avec une jambe de métal! XXX
+// Arkhan3 L perso3
+L12D15B
+ Lequel de vous est Bandor? XXX
+// Arkhan3 L perso3
+L12D21A
+ Je ne suis pas un ennemi.  XXX
+// Arkhan3 L perso3
+L12D21B
+ Je cherche un cristal. Donné par Rylsadhar. XXX
+// Arkhan3 L perso3
+L12D300
+ J'ai besoin de vous! XXX
+// Keul (effrayé) perso83
+L12D17
+ Non! Nous touchez pas! XXX
+// Bandor (effrayé) perso7
+L12D18A
+ Arrière, créature! XXX
+// Bandor perso7
+L12D18B
+ N'aggrave pas ton cas en levant la main sur nous! XXX
+// Arkhan2 G perso2
+L12D32
+ J'ai votre précieux plan. Alors, qui est Bandor? XXX
+// Arkhan3 G perso3
+L12D34
+ J'ai votre plan. Alors, qui est Bandor?! XXX
+// Keul (bluffant) perso83
+L12D33A
+ Ce plan ne te sert à rien.  XXX
+// Keul perso83
+L12D33B
+ Et aucun de nous n'est Bandor... XXX
+// Arkhan2 G perso2
+L12D121
+ Ca, ça vous dit quelque chose? XXX
+// Arkhan3 G perso3
+L12D122
+ Ca, vous connaissez? XXX
+// Bandor perso7
+L12D123
+ Désolé, non. XXX
+// Keul perso83
+L12D124
+ Non, ça ne nous dit rien. XXX
+// Arkhan2 G perso2
+L12D40
+ Ah, ah, fini votre petit jeu! XXX
+// Bandor perso07
+L12D43
+ D'accord. Maintenant, donne moi le plan! XXX
+// Arkhan3 G perso3
+L12D42
+ Terminé les gamineries! XXX
+// Arkhan2 L perso2
+L12D47A
+ Maître-Bâtisseur. Je ne voulais pas m'en prendre à vous. XXX
+// Arkhan2 L perso2
+L12D47B
+ Le poison de l'Obscur coule dans mes veines mais je reste Arkhan, Gardien du Feu et fils de Rylsadhar. XXX
+// Arkhan2 L perso2
+L12D47C
+ J'ai juré de tout faire pour le venger et sauver le Stallite. XXX
+// Bandor (prudent) perso7
+L12D50A
+ Ce ne sont que des paroles. Comment te faire confiance? XXX
+// Bandor perso7
+L12D50B
+ Prouve-moi ta parenté avec Rylsadhar et alors je verrai si je peux t'aider. XXX
+// Arkhan2 O perso2
+L12D48
+ Nous n'avons pas de temps à perdre. Je suis Arkhan, le fils de Rylsadhar et je cherche les cristaux que mon père a cachés.  XXX
+// Arkhan3 L perso3
+L12D49A
+ Je suis le fils de Rylsadhar.  XXX
+// Arkhan3 L perso3
+L12D49B
+ Je cherche les cristaux qu'il a caché. XXX
+// Arkhan2 L perso2
+L12D51A
+ Je n'ai pas le temps de jouer, Bandor.  XXX
+// Arkhan2 L perso2
+L12D51B
+ Lory m'envoit, vous devez me croire! XXX
+// Bandor (ferme) perso7
+L12D54A
+ Non. Rylsadhar ne me laisserait pas parler à... à... XXX
+// Bandor perso7
+L12D54B
+ ... une créature comme toi sans preuve de sa bonne foi. XXX
+// Arkhan2 O perso2
+L12D52A
+ L'heure n'est pas à la méfiance! XXX
+// Arkhan2 O perso2
+L12D52B
+ Si vous avez un cristal, donnez-le moi tout de suite! XXX
+// Arkhan3 L perso3
+L12D53
+ Faites-moi confiance! XXX
+// Arkhan2 G perso2
+L12D55A
+ Tu veux une preuve? Regarde, j'ai l'anneau de cristal. XXX
+// Arkhan2 G perso2
+L12D55B
+ Il me faut retrouver les autres morceaux afin d'accéder à la cave de mon père.  XXX
+// Arkhan2 G perso2
+L12D55C
+ Lory pense qu'elle renferme peut-être des connaissances qui peuvent nous sauver. XXX
+// Bandor (soudain résolu) perso7
+L12D57A
+ D'accord. Je veux bien te croire. XXX
+// Bandor perso7
+L12D57B
+ En effet, Rylsadhar m'a remis l'un des cristaux. Je te le donne. XXX
+// Bandor perso7
+L12D57C
+ Mais s'il s'avère que tu l'utilises à des fins mauvaises, tu seras cent fois maudit! XXX
+// Arkhan2 L perso2
+L12D58
+ Merci à toi, Maître Bandor. XXX
+// Arkhan2 O perso2
+L12D59A
+ Mmm... XXX
+// Arkhan2 O (reprend la phrase de Bandor)perso2
+L12D59B
+ Et s'il s'avère que ta méfiance m'a fait perdre mon temps, je reviendrai m'occuper de toi! XXX
+// Arkhan3 G perso3
+L12D56A
+ Une preuve? Regarde! XXX
+// Arkhan3 G perso3
+L12D56B
+ Je détiens l'anneau de cristal! XXX
+// Arkhan3 L perso3
+L12D60
+ Merci. XXX
+// Arkhan3 O perso3
+L12D61
+ (Grognement vaguement aimable) XXX
+// Arkhan2 G perso2
+L12D125
+ Ca te va ça, comme preuve?! XXX
+// Arkhan3 G perso2
+L12D126
+ Voilà ta preuve! XXX
+// Bandor perso7
+L12D127
+ Non, ça n'a rien d'une preuve! XXX
+// Arkhan2 L perso2
+L12D62A
+ A qui d'autre mon père aurait-il pu remettre un cristal? XXX
+// Arkhan2 L perso2
+L12D62B
+ Vous avez une idée? XXX
+// Arkhan2 O perso2
+L12D63A
+ A part toi, à qui mon père a donné un cristal? XXX
+// Arkhan2 O perso2
+L12D63B
+ Répond! XXX
+// Bandor (réflechissant vite) perso7
+L12D65
+ Heu... La Grande Prôneuse Lory, certainement. Et sûrement le grand Zed. XXX
+// Arkhan2 G perso2
+L12D66
+ Hmm... Qui d'autre? XXX
+// Bandor (hésitant) perso7
+L12D68A
+ Eh bien... peut-être que Rylsadhar a eu le temps de se rendre auprès de Leona. XXX
+// Bandor perso7
+L12D68B
+ C'est une femme étrange qui vit dans l'Obscur. Peu de gens lui auraient fait confiance... XXX
+// Bandor perso7
+L12D68C
+ Mais ton père semblait la traiter en amie. XXX
+// Arkhan2 G perso2
+L12D69
+ J'ai trouvé Leona. Mon père ne lui a rien donné. XXX
+// Bandor perso7
+L12D71
+ Dans ce cas, je ne vois personne d'autre... Désolé... XXX
+// Arkhan2 L perso2
+L12D72
+ Où puisse-je trouver Leona? XXX
+// Arkhan2 O perso2
+L12D73
+ Cette Leona dont tu parles, comment la trouver? XXX
+// Bandor perso7
+L12D75A
+ Elle vit à l'extérieur du Stallite, dans l'Obscur. Nul ne sait bien où... XXX
+// Bandor perso7
+L12D75B
+ Certains disent qu'elle se cache près du rivage... XXX
+// Bandor perso7
+L12D75C
+ Mais d'autres affirment qu'on ne peut la trouver que si elle le veut bien. XXX
+// Keul perso83
+L12D76A
+ De toutes façons, ce serait folie de sortir...  XXX
+// Keul perso83
+L12D76B
+ Et puis les rues sont barricadées et les portes du Stallite fermées! XXX
+// Arkhan2 G perso2
+L12D77A
+ Par le Rahal, tu es quand même le Maître-Bâtisseur! XXX
+// Arkhan2 G perso2
+L12D77B
+ Tu connais sûrement un autre moyen de quitter le Stallite! XXX
+// Bandor perso7
+L12D78
+ Non. Il y avait des tunnels autrefois mais ils ont été ensevelis ou inondés lorsque la terre a tremblé. XXX
+// Keul perso83
+L12D79
+ Oui. Et c'était il y a bien des cycles... XXX
+// Arkhan2 L perso2
+L12D81A
+ Lory m'a parlé d'un lieu souterrain, un Tombeau. C'est ce lieu que je dois atteindre. XXX
+// Arkhan2 L perso2
+L12D81B
+ Savez-vous quelque chose? XXX
+// Bandor perso7
+L12D84
+ "Tombeau". Non. Je ne connais pas de tel lieu. XXX
+// Keul perso83
+L12D85A
+ Le Stallite a été bâti il y a fort longtemps.  XXX
+// Keul perso83
+L12D85B
+ Même Maître Bandor n'en connaît pas tous les secrets. XXX
+// Arkhan2 O perso2
+L12D82A
+ Lory a parlé d'un Tombeau. C'est vous et les vôtres qui ont construit le Stallite. XXX
+// Arkhan2 O perso2
+L12D82B
+ Où est ce Tombeau? XXX
+// Arkhan2 L perso2
+L12D91A
+ J'ai vu l'entrée d'une bâtisse dans la ville basse. On dirait une porte de l'Avant.  XXX
+// Arkhan2 L perso2
+L12D91B
+ Vous qui savez tout sur le Stallite, pouvez-vous me dire comment y pénétrer? XXX
+// Bandor perso7
+L12D92
+ Cet endroit est un mystère, même pour moi. XXX
+// Keul perso83
+L12D93A
+ On raconte qu'un fouineur prétendait y être entré. Mais Dhorkan l'a fait arrêté. XXX
+// Keul perso83
+L12D93B
+ Et personne ne s'est jamais plus vanté de cet exploit. XXX
+// Arkhan2 O perso2
+L12D94A
+ En bas il y a une porte bizarre, une porte de l'Avant. XXX
+// Arkhan2 O perso2
+L12D94B
+ Je veux y entrer et vous allez me dire comment! XXX
+// Keul perso83
+L12D95
+ C'est abandonné, personne ne peut y entrer. XXX
+// Arkhan2 L perso2
+L12D86A
+ Bien, merci de votre aide. XXX
+// Arkhan2 L perso2
+L12D86B
+ Je ne vous ennuierai plus. Lumière sur vous! XXX
+// Bandor perso7
+L12D87
+ Bonne chance, fils de Rylsadhar. XXX
+// Keul perso83
+L12D88
+ Et prudence... XXX
+// Arkhan2 O perso2
+L12D89A
+ Bon, assez perdu de temps. XXX
+// Arkhan2 O perso2
+L12D89B
+ Faites place, j'ai à faire! XXX
+// Arkhan3 L perso3
+L12D64A
+ Où trouver les autres cristaux? XXX
+// Arkhan3 L perso3
+L12D64B
+ Vous le savez? XXX
+// Arkhan3 L perso3
+L12D67
+ Hmm... Qui d'autre? XXX
+// Arkhan3 L perso3
+L12D70
+ J'ai vu Leona. En vain. XXX
+// Arkhan3 L perso3
+L12D74
+ Où trouver Leona? XXX
+// Arkhan3 L perso3
+L12D80
+ Il doit y avoir un autre chemin... XXX
+// Arkhan3 L perso3
+L12D83
+ Je cherche un endroit, le Tombeau. Où est-il? XXX
+// Arkhan3 L perso3
+L12D96A
+ Dans la ville basse, il y a une porte. Sûrement un bâtiment de l'Avant. XXX
+// Arkhan3 L perso3
+L12D96B
+ Je veux y pénétrer. Pouvez m'aider? XXX
+// Arkhan3 L perso3
+L12D90
+ Merci. Lumière sur vous. XXX
+// Bandor perso7
+L12D105A
+ Tu es fou! Arrête! XXX
+// Bandor perso7
+L12D105B
+ Nous ne pouvons rien pour toi, laisse nous! XXX
+// Bandor (bien obligé de se battre) perso7
+L12D107
+ Sur lui! XXX
+// Keul perso83
+L12D41
+ Rendez le plan à Maître Bandor à présent! XXX
+// Arkhan2 G perso2
+L12D110
+ Il n'a rien dans ses poches! XXX
+// Arkhan3 G perso3
+L12D111
+ Sang noir, rien! XXX
+// Keul perso83
+L12D30
+ Ne touchez pas ce plan, c'est un document de grande valeur! XXX
+// Bandor perso7
+L12D31
+ Il appartient au Maître-Bâtisseur! XXX
+// Arkhan2 perso2
+L12D28
+ Il n'y a plus rien a prendre! XXX
+// Arkhan3 perso3
+L12D29
+ Y'a plus rien. XXX
+// Arkhan2 G (tournant la tête vers Bandor & Keul) perso2
+L12D35A
+ Si aucun de vous n'est Bandor.  XXX
+// Arkhan2 G (tournant la tête vers Bandor & Keul) perso2
+L12D35B
+ Ca ne vous gênera pas que je brûle son précieux plan! XXX
+// Bandor (paniqué) perso7
+L12D38
+ NON! XXX
+// Bandor (va vers Arkhan) perso7
+L12D39
+ D'accord... d'accord, je suis Bandor. Rendez-moi le plan. XXX
+// Arkhan2 G perso2
+L14D45
+ Pas trop tôt! XXX
+// Arkhan3 G perso3
+L12D36
+ Une dernière fois : lequel est Bandor? XXX
+// Arkhan3 G perso3
+L12D37
+ Ou je fais flamber ce plan! XXX
+// Arkhan3 G perso3
+L14D46
+ Bandor, enfin! XXX
+// Arkhan2 G perso2
+L12D45
+ Je sais qui est Bandor, je ne vais pas brûler le plan! XXX
+// Arkhan3 G perso3
+L12D46
+ Je connais Bandor, je ne vais pas brûler le plan! XXX
+// Arkhan2 G perso2
+L12D103
+ Rien d'utile sur ce bureau... XXX
+// Arkhan3 G perso3
+L12D104
+ Rien sur ce bureau... XXX
+// Arkhan2 perso2
+L12D97
+ Rien sur ce bureau. XXX
+// Arkhan3 perso3
+L12D98
+ Y'a rien ici! XXX
+// Arkhan2 G perso2
+L12D99
+ Rien sur ce pupitre. XXX
+// Arkhan2 G perso2
+L12D101
+ Une de ces reliques de l'Avant. XXX
+// Arkhan3 G perso3
+L12D102
+ Une relique de l'Avant. XXX
+// Keul (chuchotant) perso83
+L12D119
+ Il touche au serpent! XXX
+// Bandor (chuchotant) perso7
+L12D120
+ Tant pis. Mieux vaut le laisser faire. XXX
+// Arkhan2 G perso2
+L12D117
+ J'ai déja tiré le levier. XXX
+// Arkhan3 G perso3
+L12D118
+ J'ai déjà tiré le levier. XXX

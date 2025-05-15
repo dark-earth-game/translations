@@ -1,0 +1,607 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL06.TXT
+ // Dhorkan (A. had left after hitting him) perso11
+L06D03A
+ How dare you show your face here again! XXX
+// Dhorkan perso11
+L06D03B
+ Don't ever threaten me like that again!  XXX
+// Dhorkan perso11
+L06D43A
+ What do you think you're doing... barging in here like that?! XXX
+// Dhorkan (unpleasantly surprised to see Arkhan) perso11
+L06D43B
+ Arkhan? You?! Still... hanging in there? XXX
+// Dhorkan perso11
+L06D43C
+ Not you again!  XXX
+// Dhorkan perso11
+L06D44A
+ Stop barging in and out like this! XXX
+// Dhorkan perso11
+L06D44B
+ Have you at least done what I ordered you to do? XXX
+// Dhorkan (threatening) perso11
+L06D44C
+ You're back? You can't say I didn't warn you! XXX
+// Dhorkan (threatening) perso11
+L06D44D
+ Get out, or by my sword I'll remind you who's in charge here! XXX
+// Dhorkan (Arkhan attacks him) perso11
+L06D32
+ Guardians of Fire! Help! XXX
+// Arkhan1 L perso1
+L06D42A
+ Light be with you, Provost Dhorkan! XXX
+// Dhorkan perso11
+L06D05A
+ Ah, Arkhan, it's you. XXX
+// Arkhan1 L (apologizing) perso1
+L06D42B
+ Provost Dhorkan, I'm sorry, I... I was... uh... XXX
+// Arkhan1 O  (offhand)perso1
+L06D42C
+ Hello, Provost! XXX
+// Arkhan1 O (making excuses/with girlfriend) perso1
+L06D42D
+ Provost Dhorkan, It was Zed... Uh....he kept me... XXX
+// Dhorkan perso11
+L06D05B
+ Save your arrogance and your lame excuses.  I'm not in the mood! XXX
+// Dhorkan perso11
+L06D05C
+ The Great Sunseer Lory has called an important meeting at the temple of the Sun God. XXX
+// Dhorkan perso11
+L06D05D
+ You've been designated to guard the door to the Council Chamber. XXX
+// Dhorkan perso11
+L06D05E
+Guardian  Jedar has been waiting for you. XXX
+// Dhorkan perso11
+L06D05F
+ Go down and take up your post before the Great Sunseer arrives.  XXX
+// Dhorkan (irritated) perso11
+L06D04
+ What are you doing here? Return to your post immediately! XXX
+// Dhorkan perso11
+L06D06A
+ Guardian of Fire, go down and take up your post immediately! XXX
+// Dhorkan perso11
+L06D06B
+ Arkhan! When I give an order, I expect it to be obeyed! XXX
+// Dhorkan perso11
+L06D06C
+ Leave the barracks and go join Jedar before the Great Sunseer arrives! XXX
+// Dhorkan perso11
+L06D06D
+ That's insubordination! XXX
+// Dhorkan (preparing to unsheathe his sword) perso11
+L06D06E
+ Return to your post, or I'll teach you a lesson you'll never forget!  XXX
+// Dhorkan perso11
+L06D06F
+ This time, you've won the privilege of tasting my sword!  XXX
+// Dhorkan perso11
+L06D28Z
+ Thy cup runneth over!  Prepare to die! XXX
+// Phedoria (alarmed) perso26
+L06D84
+ The Provost! XXX
+// Phedoria perso26
+L06D07
+ Arkhan! Murderer! XXX
+// Phedoria perso26
+L06D62
+ Freeze, Dhorkan. You're my prisoner! XXX
+// Dhorkan perso11
+L06D39
+ Dark-souled idiots! You'll never get me! XXX
+// Phedoria (fires at Dhorkan and misses) perso26
+L06D40
+ Blasted fire! I missed! XXX
+// Arkhan2 G perso2
+L06D35A
+ Don't let him get away! XXX
+// Arkhan3 G perso3
+L06D35B
+ We've got to stop him! XXX
+// Phedoria perso26
+L06D41
+ You go after him, I'll go warn Lory! XXX
+// Arkhan2 O (furious) perso2
+L06D33B
+ I'd swear by my torch.... you missed him on purpose! XXX
+// Arkhan3 O (furious) perso3
+L06D33D
+ Miserable scum! He's getting away! XXX
+// Arkhan2 G perso2
+L06D82
+ Dhorkan's vanished! XXX
+// Arkhan3 G perso3
+L06D83
+ Dhorkan's gone! XXX
+// Dhorkan (commanding) perso11
+L06D77B
+ Very well, you may leave me now. XXX
+// Dhorkan perso11
+L06D214B
+ Don't hang around here, get out! XXX
+// Dhorkan (domineering) perso11
+L06D16A
+ Oh... you're forgetting yourself, Arkhan! XXX
+// Dhorkan perso11
+L06D53B
+ Get out before something bad happens to you! XXX
+// Dhorkan perso11
+L06D16F
+ Now, get out! XXX
+// Dhorkan perso11
+L06D80C
+ Come on, get out! XXX
+// Dhorkan perso11
+L06D18C
+ Oh, get out of my sight, you're stinking up the room! XXX
+// Dhorkan perso11
+L06D20
+ Get out, you twisted wreck, or I'll run my sword straight through you! XXX
+// Dhorkan (arrogant) perso11
+L06D26A
+ Do you really think you can get me? You're nothing but a decaying wreck of a man! XXX
+// Dhorkan (arrogant) perso11
+L06D26H
+ You... you're nothing but a pitiful wreck. You don't scare me! XXX
+// Dhorkan perso11
+L06D05G
+ Arkhan! Wait, don't go! XXX
+// Dhorkan perso11
+L06D54A
+ Arkhan! XXX
+// Dhorkan perso11
+L06D54B
+ Let me make myself perfectly clear: I'll do you a favor, but don't come back here until you have some information for me! XXX
+// Dhorkan perso11
+L06D54C
+ From now on, I'm the one who runs this Stallite.  XXX
+// Dhorkan perso11
+L06D54D
+ And don't you forget it, or you'll spend the rest of your days languishing in a dank prison-cell. XXX
+// Dhorkan perso11
+L06D54E
+ That's the fate that awaits anyone who dares rise up against me!  XXX
+// Arkhan1 G perso1
+L06D09A
+ A mechanism. XXX
+// Arkhan2 G perso2
+L06D09B
+ A mechanism, like a lock. XXX
+// Arkhan3 G perso3
+L06D09C
+ A mechanism. XXX
+// Arkhan2G perso2
+L06D669
+ Dhorkan must have fled through here.... XXX
+// Arkhan3G perso3
+L06D670
+ Dhorkan must have fled through here.... XXX
+// Arkhan1 L (not happy about being put on guard duty) perso1
+L06D10A
+ Provost Dhorkan, perhaps I could be more useful... uh...  XXX
+// Arkhan1 O (not happy about being put on guard duty) perso1
+L06D10B
+ Guard duty with Jedar? Oh, no! Don't you need me somewhere else? XXX
+// Dhorkan (irritated) perso11
+L06D10C
+ That's enough, Arkhan! The orders came directly from the Great Sunseer Lory herself!  XXX
+// Dhorkan (irritated) perso11
+L06D10D
+  Go down and report to your post immediately! XXX
+// Arkhan1 L perso1
+L06D11A
+ A meeting with the Great Sunseer?  Who wants to see her? XXX
+// Arkhan1 O perso1
+L06D11B
+ Who managed to get the Great Sunseer out of bed at the crack of dawn?  XXX
+// Dhorkan (surprised by A's arrogance, then catches himself) perso11
+L06D12A
+ Who? Now... Watch your tongue, Guardian... just obey orders! XXX
+// Dhorkan perso11
+L06D12B
+ Take your weapons and hurry down to welcome the Great Sunseer. XXX
+// Arkhan1 L perso1
+L06D01A
+ I... XXX
+// Arkhan1 O perso1
+L06D01B
+ But... XXX
+// Dhorkan perso11
+L06D666
+ Go on, report to your post! XXX
+// Arkhan2 L perso2
+L06D13A
+ Dhorkan, I'm sick!  XXX
+// Arkhan2 L perso2
+L06D13B
+ The Great Sunseer's attackers... poisoned me with this black filth!  XXX
+// Arkhan2 L perso2
+L06D13C
+ They say I'm one of the enemy.  It's not true: I did my duty, that's all!  XXX
+// Arkhan2 O perso2
+L06D14A
+ Dhorkan, by all that's Dark, call off the Guardians of Fire! XXX
+// Arkhan2 O perso2
+L06D14B
+ The scum who attacked Lory poisoned me... and now the Guardians themselves are trying to kill me! XXX
+// Arkhan2 O perso2
+L06D14C
+ I carried out my duty... I'm on your side.  You have to protect me!  XXX
+// Arkhan3 L perso2
+L06D63
+ Lory's attackers poisoned me... Everyone is out to get me.  I need your help!  XXX
+// Arkhan3 O (irritated) perso2
+L06D64
+ Dhorkan, I'm sick... my life is in danger. You have to help me! XXX
+// Dhorkan perso11
+L06D45A
+ Calm down, calm down... XXX
+// Dhorkan perso11
+L06D45B
+ What did Thanandar the healer, have to say? XXX
+// Arkhan2 G perso2
+L06D46A
+ He told me about a crypt, and a remedy it's supposed to hold....  XXX
+// Arkhan2 G perso2
+L06D46B
+ He told me to see my father.... that my father could take me there.  XXX
+// Arkhan3 G perso3
+L06D47A
+ He talked about a crypt, a cure.  Said my father could take me.  XXX
+// Dhorkan perso11
+L06D65A
+ Nonsense! Thanandar lied to you to give you hope. XXX
+// Dhorkan perso11
+L06D65B
+ The truth is... the Sunseers no longer control the situation.  XXX
+// Dhorkan (bragging) perso11
+L06D65C
+ That's why I was forced to take command of the Stallite!  XXX
+// Dhorkan (suddenly affable) perso11
+L06D65D
+ You know how much respect I have for your father and the Great Sunseer Lory.  XXX
+// Dhorkan perso11
+L06D65E
+ I declared martial law in order to protect them more efficiently. XXX
+// Dhorkan perso11
+L06D65F
+ As for you... You were definitely a good Guardian of Fire. XXX
+// Dhorkan perso11
+L06D65G
+ But now, who could swear you can still be trusted? XXX
+// Arkhan2 L perso2
+L06D72A
+ Dhorkan, I swear by the Sun God....I have done no evil. XXX
+// Arkhan2 L perso2
+L06D72B
+ May Thanandar the healer be my witness... I'm still a man. XXX
+// Arkhan2 O perso2
+L06D73A
+ I haven't done anything! It's everyone else... they're all afraid of me! XXX
+// Arkhan2 O perso2
+L06D73B
+ I'm still a man. Ask the healer! XXX
+// Arkhan3 L perso3
+L06D74
+ I'm no traitor! But now nobody trusts me! XXX
+// Arkhan3 O perso3
+L06D75
+ But I've done nothing wrong! XXX
+// Dhorkan perso11
+L06D76A
+ Maybe not, but Thanandar should never have let you go... XXX
+// Dhorkan perso11
+L06D76B
+ He should stick to healing. Giving advice is beyond his competence! XXX
+// Dhorkan perso11
+L06D76C
+ I don't trust him.  If you want to return to your own people, you must prove your loyalty to me. XXX
+// Dhorkan perso11
+L06D76D
+ Go back to Thanandar, then come tell me everything he says and does. XXX
+// Dhorkan perso11
+L06D76E
+ Go! XXX
+// Arkhan2 G perso2
+L06D48A
+ I couldn't find Thanandar... XXX
+// Arkhan3 G perso2
+L06D48B
+ I couldn't find Thanandar... XXX
+// Dhorkan perso11
+L06D51A
+ Then get out of here.  I've got things to do! XXX
+// Dhorkan perso11
+L06D51B
+ Anyone else would already have clapped you in irons!  XXX
+// Dhorkan perso11
+L06D51C
+ I have great respect for you, but don't try to take advantage of my generosity! XXX
+// Arkhan2 L perso2
+L06D204A
+ I went back to see Thanandar. XXX
+// Arkhan2 L perso2
+L06D204B
+ He's busy healing someone. XXX
+// Arkhan3 L perso2
+L06D205A
+ I saw Thanandar again. XXX
+// Arkhan3 L perso2
+L06D205B
+ He's... healing someone. XXX
+// Dhorkan perso11
+L06D206A
+ H'm... very well... XXX
+// Dhorkan perso11
+L06D206B
+ If anything happens, inform me immediately. XXX
+// Dhorkan perso11
+L06D206C
+ Until then, keep a low profile... the other Guardians aren't as charitable as I am. XXX
+// Arkhan2 O perso2
+L06D207A
+ I saw Thanandar. XXX
+// Arkhan2 O perso2
+L06D207B
+ He's trying to fix Dulnys's face. XXX
+// Arkhan2 O perso2
+L06D207C
+ After what I did to him, it won't be easy!  XXX
+// Arkhan3 O perso3
+L06D208A
+ I saw Thanandar. XXX
+// Arkhan3 O perso3
+L06D208B
+ He's wasting time trying to save Dulnys! XXX
+// Arkhan3 O perso3
+L06D208C
+ After what I gave him... it'll take a miracle from the Sun God! XXX
+// Dhorkan (angry) perso11
+L06D209A
+ Arkhan, don't forget to whom you are speaking! XXX
+// Dhorkan perso11
+L06D209B
+ And if I were you, I wouldn't come here bragging about having roughed up a Guardian of Fire. XXX
+// Dhorkan perso11
+L06D209C
+ Get out of here, before I forget how much I like you!  XXX
+// Arkhan2 L perso2
+L06D210
+ Thanandar is still at Dulnys' bedside. XXX
+// Arkhan2 O perso2
+L06D211
+ Thanandar is still busy stitching up Dulnys. XXX
+// Arkhan3 L perso3
+L06D212
+ Thanandar is still taking care of Dulnys. XXX
+// Arkhan3 O perso3
+L06D213
+ Thanandar's busy stitching up Dulnys! XXX
+// Dhorkan perso11
+L06D214A
+ You needn't have bothered to come back just to tell me that.  XXX
+// Arkhan2 G perso2
+L06D49A
+ I had to kill Thanandar! XXX
+// Arkhan2 G perso2
+L06D49B
+ I didn't have any choice... He attacked me first! XXX
+// Arkhan2 G perso2
+L06D49C
+ And there was someone else with him... XXX
+// Arkhan3 G perso3
+L06D50A
+ I killed Thanandar, him and another guy... XXX
+// Dhorkan perso11
+L06D77A
+ Thanandar's dead? Excellent! My fears were groundless.  XXX
+// Arkhan2 G perso2
+L06D78
+ Yes, but wait.. XXX
+// Arkhan3 G perso3
+L06D79
+ Wait... XXX
+// Dhorkan (interrupting Arkhan) perso11
+L06D80A
+ Arkhan, I'm a man of my word.  I'm going to let you go... XXX
+// Dhorkan perso11
+L06D80B
+ But don't ever try to cross me! XXX
+// Arkhan2 L perso2
+L06D21A
+ My father told me he was going to pay you a visit... where is he?  XXX
+// Arkhan2 O perso2
+L06D21B
+ My father came to see you... Tell me where he is! XXX
+// Arkhan3 L perso3
+L06D21C
+ Where is my father? XXX
+// Arkhan3 O perso3
+L06D21D
+ You're gonna tell me where my father is! XXX
+// Dhorkan (pretending not to know where Rylsadhar is) perso11
+L06D22A
+ Your father? Well, how should I know? I imagine he's gone into hiding somewhere...  somewhere safe. XXX
+// Dhorkan perso11
+L06D22B
+ Now make yourself scarce... if you want to keep out of the stockade! XXX
+// Arkhan2 G perso2
+L06D52A
+ But, shouldn't we... XXX
+// Arkhan3 G perso3
+L06D52B
+ Dhorkan, wait... XXX
+// Dhorkan perso11
+L06D53A
+ Arkhan! The Sunseers are not nearly as charitable as I am.  XXX
+// Arkhan2 L perso2
+L06D15A
+ Dhorkan, I need your help. XXX
+// Arkhan2 O perso2
+L06D81A
+ So that's it, then!  You don't need me anymore, so you get rid of me! XXX
+// Arkhan2 O perso2
+L06D81B
+ Dhorkan, you're not worthy of your rank. You disgust me! XXX
+// Arkhan3 L perso3
+L06D15C
+ Dhorkan, please. If you don't help me, I haven't got a chance! XXX
+// Arkhan3 O perso3
+L06D15D
+ You stinking pus-bag, you're throwing me out! XXX
+// Dhorkan perso11
+L06D16B
+ You attacked the Guardians of Fire... That alone merits banishment!  XXX
+// Dhorkan perso11
+L06D16C
+ I used to respect you, so I'm going to let you go.  XXX
+// Dhorkan perso11
+L06D16D
+ If it's help you're looking for, go whine to the Sunseers! XXX
+// Dhorkan perso11
+L06D16E
+ They're responsible for your sad fate!  XXX
+// Arkhan2 L perso2
+L06D17A
+ And the crypt Thanandar mentioned to me... XXX
+// Arkhan2 O perso2
+L06D17B
+ At least tell me what you know about the crypt! XXX
+// Arkhan3 G perso3
+L06D17C
+ What do you know about the crypt? XXX
+// Dhorkan (scornful) perso11
+L06D18A
+ The crypt... something else the Sunseers invented to fool you.  XXX
+// Dhorkan perso11
+L06D18B
+ Take my advice: forget all those lies. XXX
+// Arkhan2 L perso2
+L06D19A
+ You disappoint me, Dhorkan.  XXX
+// Arkhan2 L perso2
+L06D19B
+ You call yourself a master, but you're nothing but a coward! XXX
+// Arkhan2 O perso2
+L06D19C
+ I swear by my torch... you're nothing but a coward!  XXX
+// Arkhan3 L perso3
+L06D19D
+ You're throwing me out! XXX
+// Arkhan3 O perso3
+L06D19E
+ Traitor! XXX
+// Arkhan2 G (plays his trump) perso2
+L06D23A
+ Listen... let's talk about... SORDOS! XXX
+// Arkhan3 G (plays his trump) perso3
+L06D23B
+ Mmm... Let's talk about... SORDOS! XXX
+// Dhorkan (caught off-balance) perso11
+L06D24
+ What? What... What are you insinuating? XXX
+// Arkhan2 L perso2
+L06D25A
+ I know everything. And I want an explanation! XXX
+// Arkhan2 O perso2
+L06D25B
+ I know everything!  XXX
+// Arkhan3 G (threatening) perso3
+L06D25D
+ I know everything, you madman. XXX
+// Dhorkan (arrogant) perso11
+L06D26B
+ You think you know everything, but your diseased mind understands nothing.  XXX
+// Dhorkan (arrogant) perso11
+L06D26C
+ I have great plans for this Stallite.  XXX
+// Dhorkan (arrogant) perso11
+L06D26D
+ The Sunseers are weak... they're incapable of making the necessary decisions.  XXX
+// Dhorkan (arrogant) perso11
+L06D26E
+ My reign will usher in a new era! XXX
+// Dhorkan (arrogant) perso11
+L06D26F
+ And if I have to work with a slime like Sordos in order to impose my grand designs on the miserable maggots populating Sparta, then... XXX
+// Dhorkan (arrogant) perso11
+L06D26G
+ I'll do it in a flash! XXX
+// Dhorkan (disdainful) perso11
+L06D26I
+ Tell me, who would believe a fungus like you is still human?  XXX
+// Dhorkan (disdainful) perso11
+L06D26J
+ Your own friends have turned against you!  XXX
+// Arkhan2 G (threatening) perso2
+L06D27
+ I swear by the light of the Sun God, I'll expose your real face to the entire world!  XXX
+// Arkhan3 G perso3
+L06D667A
+ Where ever you go, whatever it takes... I'll get you! XXX
+// Arkhan3 G perso3
+L06D667B
+ They'll all know who the real monster is!  XXX
+// Dhorkan perso11
+L06D28A
+ No one will believe you. You need proof. XXX
+// Dhorkan perso11
+L06D28B
+ And you don't have any! XXX
+// Arkhan1 G perso1
+L06D200
+ Provost, do you know what this is? XXX
+// Dhorkan (dry) perso11
+L06D203
+ Enough! What do I care?! XXX
+// Arkhan1 G perso1
+L06D66
+ Watch your step, Dhorkan! XXX
+// Arkhan2 G perso2
+L06D67
+ Die, Dhorkan! XXX
+// Arkhan3 G perso3
+L06D68
+ Die! XXX
+// Arkhan2 G perso2
+L06D69
+ Your hour has come, traitor! XXX
+// Arkhan3 G perso3
+L06D70
+ Die, traitor! XXX
+// Arkhan2 L perso2
+L06D33A
+ A secret passage! Let's go after him! XXX
+// Arkhan3 L perso3
+L06D33C
+ Get him! XXX
+// Phedoria (to herself) perso26
+L06D34A
+ I didn't know there was a passage here. XXX
+// Phedoria perso26
+L06D34B
+ Don't just stand there, go after him! XXX
+// Phedoria (furious) perso26
+L06D60
+ That's enough! Get Dhorkan! XXX
+// Phedoria perso26
+L23D107
+ You've sealed your fate! XXX
+// Arkhan2 G perso2
+L06D55C
+ Not a trace. XXX
+// Arkhan3 G perso3
+L06D55D
+ No trace. XXX
+// Phedoria perso26
+L06D61A
+ You go that way! XXX
+// Phedoria perso26
+L06D61B
+ I'll try to open the passage! XXX

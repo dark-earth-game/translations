@@ -1,0 +1,409 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL19.TXT
+ // Malrot5 (wird A. gegenübertreten) perso65
+L19D88
+ Je to ono, co chceš? Jseš pripravený na potycku! XXX
+// Kalhi perso13
+L19D01
+ Já ti dekuju, Jenno. To je presne to, co já potrebuju. XXX
+// Malrot5 perso65
+L19D02
+ Pro dobrou vec jsem ti vzdy sluzebníkem. XXX
+// Kalhi perso13
+L19D03A
+ Arkhane!  XXX
+// Kalhi perso13
+L19D03B
+ Podívej se, co já pro tebe sehnala. XXX
+// Kalhi perso13
+L19D03C
+ To sice mnoho není, ale já doufám, ze ti to pomùze, k výdrzi. XXX
+// Arkhan2 G perso2
+L19D04
+ Dekuji, Kalhi. To mne teší. XXX
+// Kalhi perso13
+L19D06A
+ Já se pokusím, lecitele pro tebe najít. XXX
+// Kalhi perso13
+L19D06B
+ Pouze odvahu, milý! XXX
+// Arkhan2 G (stolz auf Kalhi) perso2
+L19D07
+ Tato dívka je jednoduše nemozná! XXX
+// Arkhan3 G (stolz auf Kalhi) perso3
+L19D08
+ Ona je jednoduše fantastická! XXX
+// Delia perso10
+L16D122
+ Stùj! Naháníš mi strach! XXX
+// Malrot5 (A. macht sich gefechtsbereit) perso65
+L19D94
+ Hej, prestan, pozíraci bahna! XXX
+// Malrot5 perso65
+L19D95
+ Na tvem míste bych se tak nerozciloval! XXX
+// Malrot5 perso65
+L19D89
+ Ani krok blíze, Promeno! XXX
+// Arkhan2 L perso2
+L19D09
+ Svetlo s tebou, smetáku. XXX
+// Malrot5 perso65
+L19D10A
+ Zabloudil jsi? XXX
+// Malrot5 perso65
+L19D10B
+ Pak jsi zde správne, u smetáka. XXX
+// Arkhan2 O (mustert die Malrot-Frau von Kopf bis Fuß)perso2
+L19D10
+ Proklate! Co je to za nohy! XXX
+// Malrot5 (ironisch, tut so, als erinnere sie sich an Arkhans Namen) perso65
+L19D11
+ Bud pozdraven ... krysí ksichte, to je prece tvoje jmeno, nebo? XXX
+// Arkhan2 O perso2
+L19D12
+ Ne, dríve mne nazývali nejlepším milovníkem Stallitu. XXX
+// Malrot5 (amüsiert, geht darauf ein) perso2
+L19D13
+ Já to nezapomenu, krásný muzi. XXX
+// Arkhan2 G perso2
+L19D15
+ Jmenuji se Arkhan, prítel smetákù. XXX
+// Malrot5 (ironisch) perso65
+L19D16A
+ Tak líbíš se mi jiz lepe!  XXX
+// Malrot5 (ironisch) perso65
+L19D16B
+ Krásný ty práve nejsi. XXX
+// Malrot5 (ironisch) perso65
+L19D16C
+ Kdybys pak ješte "Arkhan, zabiják smetákù" se chtel jmenovat, napadlo by mne, delat si starosti. XXX
+// Arkhan2 L perso2
+L19D17A
+ Já tak vypadám, protoze jsem nemocný. XXX
+// Arkhan2 L perso2
+L19D17B
+ Ale nedelej si starosti, já nekoušu. XXX
+// Arkhan2 O perso2
+L19D18
+ Jsem nemocný, a proto jsem já tak strašidelný! XXX
+// Malrot5 perso65
+L19D19
+ Pokud jseš ty nemocný, mel by ses obrátit na lecitele Horního mesta. XXX
+// Arkhan2 L perso2
+L19D20A
+ Do horního mesta se já nechci vrátit. XXX
+// Arkhan2 L perso2
+L19D20B
+ Strázci ohne jdou po mne. XXX
+// Malrot5 perso65
+L19D21A
+ Strázci ohne? XXX
+// Malrot5 perso65
+L19D21B
+ Ty prece nemáš strach pred temito slabochama!? XXX
+// Arkhan2 L (vergißt nicht, daß er ein ehemaliger Hüter des Feuers ist) perso2
+L19D22A
+ Ehm ... Ne, ale je lepší ucinit, s nima se nesetkat! XXX
+// Arkhan2 L perso2
+L19D22B
+ Na pomoc Lecitele nemohu se spolehnout. XXX
+// Arkhan2 L perso2
+L19D22C
+ Pokud se chci uzdravit, musím protilek sám najít! XXX
+// Arkhan2 O perso2
+L19D23A
+ V Horním meste nedostanu já zádnou pomoc. XXX
+// Arkhan2 O perso2
+L19D23B
+ Strázci ohne prísahali, mne usmrtit! XXX
+// Arkhan2 O (vergißt nicht, daß er ein ehemaliger Hüter des Feuers ist) perso2
+L19D24A
+ Oni nejsou všichni slaboši ... XXX
+// Arkhan2 O perso2
+L19D24B
+ Ale diskutovat nemohu s nima v zádnem prípade. XXX
+// Arkhan2 O perso2
+L19D24C
+ To hlavne platí pro kneze a Strázce. XXX
+// Arkhan2 O perso2
+L19D24D
+ Zkrátka, já mohu se pouze na sebe spolehnout ...  XXX
+// Arkhan2 O perso2
+L19D24E
+ A prirozene na dobre smetáky ve Spodním meste! XXX
+// Arkhan2 L perso2
+L19D25
+ Znáš ty nekoho, kdo by mi zde mohl pomoci? XXX
+// Arkhan2 O perso2
+L19D26
+ Rekni mi, kdo by mi v techto bídných koncinách mohl pomoci! XXX
+// Malrot5 perso65
+L19D27A
+ Pro takovýho, který je skutecne hluboko ve srackách strcený, je Armal Sadak poslední šancí. XXX
+// Malrot5 perso65
+L19D27B
+ Já ale neverím, ze on by ti pomohl. XXX
+// Arkhan2 G perso2
+L19D28
+ Procpak ne? XXX
+// Malrot5 perso65
+L19D29
+ Rekneme to tak: Smrad, který s sebou nosíš, mohl by ho rušit, pokud víš, co já myslím! XXX
+// Arkhan2 G (kennt Armal Sadak) perso2
+L19D30
+ Nedelej si zádne starosti, on má lepší vkus nez si myslíš ... XXX
+// Arkhan2 L perso2
+L19D31
+ Kde najdu já toho Armala Sadaka? XXX
+// Malrot5 perso65
+L19D32A
+ Vytluc si to z hlavy.  XXX
+// Malrot5 perso65
+L19D32B
+ Pokud ty ho chceš potkat, skrátí ti tvoje neduhy. XXX
+// Arkhan2 L perso2
+L19D33A
+ Poslouchej mne dobre, myslím to vázne. Chci s Armalem Sadakem mluvit. XXX
+// Arkhan2 L perso2
+L19D33B
+ Je to otázka zivota a smrti! XXX
+// Malrot5 perso65
+L19D34A
+ Tedy dobre. Armal Sadak zije trochu dále vzadu. XXX
+// Malrot5 perso65
+L19D34B
+ On zije ve stare lodi. XXX
+// Malrot5 perso65
+L19D34C
+ Ale pokud chceš tam jít, musíš být od nekoho doporucený. XXX
+// Arkhan2 L perso2
+L19D35
+ Od koho? Od Danryse? XXX
+// Malrot5 perso65
+L19D36A
+ Ne, od Delii. Je to tanecnice, která zde vystupuje. XXX
+// Malrot5 perso65
+L19D36B
+ Maor, majitel, není práve výrecný, ale on zná Armala Sadaka. XXX
+// Malrot5 perso65
+L19D36C
+ Pokud ty jí presvedcíš, ona ti snad pomùze. XXX
+// Malrot5 (zu sich selbst) perso65
+L19D36D
+ Ale s tvou vyzází nedávám ti zádnou garanci ... XXX
+// Arkhan2 L perso2
+L19D37
+ Je to všechno, co mi mùzeš ríci? XXX
+// Malrot5 perso65
+L19D38
+ Já ti rekla príliš mnoho! XXX
+// Malrot5 perso65
+L19D39
+ Zbytek musíš jiz sám udelat! XXX
+// Arkhan2 O perso2
+L19D40A
+ Poslouchej mne dobre, couro! XXX
+// Arkhan2 O perso2
+L19D40B
+ Ty Armalovi Sadakovi rekneš, ze mi má pomoci, jinak ... XXX
+// Malrot5 (wütend) perso65
+L19D41
+ Já se o to postarám, aby ses v tvých urázkách udusil, hajzle! XXX
+// Arkhan3 L perso3
+L19D42
+ Svetlo s tebou... XXX
+// Malrot5 (hat Angst) perso65
+L19D43A
+ Zùstan kde jsi! XXX
+// Malrot5 (hat Angst) perso65
+L19D43B
+ Kdo jsi? Co chceš ty ode mne? XXX
+// Arkhan3 L perso3
+L19D44
+ Moje jmeno je Arkhan. XXX
+// Malrot5 (mißtrauisch) perso65
+L19D45A
+ Já te zde ješte nikdy nevidela. XXX
+// Malrot5 (mißtrauisch) perso65
+L19D45B
+ Co se s tebou deje? XXX
+// Arkhan3 L perso3
+L19D46A
+ Jedna nemoc.  XXX
+// Arkhan3 L perso3
+L19D46B
+ Hledám protilek. XXX
+// Malrot5 (mißtrauisch) perso65
+L19D47
+ Zde ty nic nenajdeš ... XXX
+// Arkhan3 L perso3
+L19D48
+ Znáš nekoho, kdo by mi mohl pomoci? XXX
+// Malrot5 perso65
+L19D49A
+ Armal Sadak snad... XXX
+// Malrot5 perso65
+L19D49B
+ Udivilo by mne ale, ze on to udelá! XXX
+// Arkhan3 L perso3
+L19D50
+ Kde najdu Armala Sadaka? XXX
+// Malrot5 perso65
+L19D51A
+ On bydlí vzadu ... v jeho lodi z kovu... XXX
+// Malrot5 perso65
+L19D51B
+ Není to ale naprosto dobrá idea, tam jít ... XXX
+// Arkhan3 L perso3
+L19D52
+ Kdo mi mùze pomoci? XXX
+// Malrot5 perso65
+L19D53A
+ Ach, zapomen na to, to já prece jiz rekla! XXX
+// Malrot5 perso65
+L19D53B
+ Táhni! Já ti nic více nereknu! XXX
+// Malrot5 (wird A. angreifen) perso65
+L19D54
+ Hned te udelám! XXX
+// Arkhan2 L perso2
+L19D55
+ Jen zádný strach. XXX
+// Arkhan2 O perso2
+L19D56
+ Nevzrušuj se, nemlátím zeny! XXX
+// Malrot5 perso65
+L19D57
+ Dobre, ale já te v príštím špatným pohybu zabiju! XXX
+// Arkhan2 L perso2
+L19D58
+ Proc se rozciluješ? XXX
+// Arkhan2 O perso2
+L19D59
+ Procpak ty se vlastne rozciluješ? XXX
+// Malrot5 perso65
+L19D60A
+ Hodily by se veci, ktere nejsou normální! XXX
+// Malrot5 perso65
+L19D60B
+ Nejsem zena, která by strach z nejake myši mela.  XXX
+// Malrot5 perso65
+L19D60C
+ Ale já v ulici vedle nás stín videla, který se pohyboval. XXX
+// Malrot5 perso65
+L19D60D
+ Stín ... zádný lidský ... tak trochu jako ty.  XXX
+// Malrot5 perso65
+L19D60E
+ Ale tato nejdrív kousala a pak mluvila ... XXX
+// Malrot5 perso65
+L19D60F
+ Ty víš, co myslím! XXX
+// Arkhan2 L perso2
+L19D61
+ Zádný strach, ochráním te. XXX
+// Arkhan2 O (provozierend) perso2
+L19D62
+ So sollen sie doch kommen, Deine Schatten, die knöpf' ich mir vor! XXX
+// Arkhan2 G perso2
+L19D63
+ Co jsi ješte jineho videla? XXX
+// Malrot5 perso65
+L19D64
+ Ne, ale to mi stací! XXX
+// Arkhan3 L perso3
+L19D65
+ Zádný strach... XXX
+// Malrot5 (gewalttätig vor Angst) perso65
+L19D66A
+ Hledej si jinou obet, nesvùro! XXX
+// Malrot5 perso65
+L19D66B
+ Chceš ty ocel meho mece okusit? XXX
+// Arkhan3 L perso3
+L19D67
+ Z ceho máš strach? XXX
+// Malrot5 perso65
+L19D68
+ Od Kreatur jako jseš ty! XXX
+// Arkhan3 L perso3
+L19D69
+ Co jsi videla? XXX
+// Malrot5 perso65
+L19D70
+ Drz hubu a drz se stranou! XXX
+// Malrot5 (A. zeigt ihm einen Gegenstand) perso65
+L19D97
+ To je pro tebe. XXX
+// Arkhan2 G perso2
+L19D99
+ Rekni mi, smetacko ... XXX
+// Malrot5 (unterbricht Arkhan) perso65
+L19D100
+ Nejdrív schovej zbran, znervoznuje! XXX
+// Arkhan3 L perso3
+L19D101
+ Já chci vedet, zda... XXX
+// Arkhan2 G perso2
+L19D93
+ Zádný pohyb! XXX
+// Arkhan2 L perso2
+L19D90
+ Musíme nahoru do Horního mesta. Pojd! XXX
+// Delia (unruhig) perso10
+L19D91
+ Následuju te, Arkhane. XXX
+// Arkhan2 O perso2
+L19D92A
+ Vystoupáme do Horního mesta.  XXX
+// Arkhan2 O perso2
+L19D92B
+ Zùstan pekne za mnou, nemám chut, te po ceste ztratit! XXX
+// Arkhan3 G perso3
+L14D239
+ Jedeme do Horního mesta. XXX
+// Delia perso10
+L14D240
+ Jdi, následuju te. XXX
+// Delia (von Arkhan geschlagen) perso10
+L10D95
+ Ne, ty jsi se zbláznil, dej pozor! XXX
+// Arkhan2 G perso2
+L19D73
+ Nic nez odpad ... XXX
+// Arkhan3 G perso3
+L19D74
+ Odpad ... XXX
+// Arkhan2 G perso2
+L19D75
+ Hej, to je dívka, která tanzuje uvnitr. XXX
+// Arkhan3 G perso3
+L19D76
+ Hmmm... To je dívka, která tanzuje... XXX
+// Arkhan2 G perso2
+L19D77
+ Clovek toho nevidí práve mnoho! XXX
+// Arkhan3 G perso3
+L19D78
+ To je všechno prázdný ... XXX
+// Arkhan2 G perso2
+L19D79
+ Starý vodní mlýn. Plne znicený. XXX
+// Arkhan3 G perso3
+L19D80
+ Nejaký starý mlýn. XXX
+// Malrot5 perso65
+L19D81
+ Co chceš ty ješte? XXX
+// Arkhan2 G perso3
+L19D83
+ Odsud se nic nevidí ... škoda ... XXX
+// Arkhan3 G perso3
+L19D84
+ Já nevidím nic... XXX
+// Arkhan2 G perso2
+L19D85
+ Zrezavelý sud ... XXX
+// Arkhan3 G perso3
+L19D86
+ Zrezavelý sud... XXX

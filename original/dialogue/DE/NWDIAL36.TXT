@@ -1,0 +1,481 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL36.TXT
+ // Lodar perso86
+L36D85
+ Immer mit der Ruhe, ich bin kein Feind! XXX
+// Konkalit12 perso82
+L36D01A
+ Du weißt, wie man kämpft! XXX
+// Lodar perso86
+L36D146
+ So einfach kriegst Du mich nicht! XXX
+// Konkalit12 perso82
+L36D01B
+ Los, Du hast ihn umgebracht, die Beute gehört Dir. XXX
+// Konkalit12 perso82
+L36D02
+ Du bist der Stärkere! Nimm' Dir, was Du willst, die Beute gehört Dir. XXX
+// Lodar (unruhig, als er Arkhan sieht)perso86
+L36D04
+ Ich werd' jetzt meinen Weg fortsetzen ... einverstanden? XXX
+// Hüter20 perso60
+L36D147
+ Halt! XXX
+// Hüter20 (von Arkhan3 erschreckt) perso60
+L36D148
+ Sonnengott ... Führe meinen Arm! XXX
+// Hüter20 perso60
+L36D08
+ Hey, wohin so schnell?! XXX
+// Hüter20 (provoziert Arkhan)perso60
+L36D144
+ Hast Du noch nicht genug?! XXX
+// Konkalit12 perso82
+L36D145
+ Du schon wieder! XXX
+// Hüter23 (spricht laut, weit von Arkhan entfernt)  perso1
+L36D05A
+ (unten) Habt Ihr die Befehle des Profos Dhorkan verstanden? XXX
+// Hüter23 perso1
+L36D05B
+ (unten) Bleibt zusammen und haltet die Augen offen! XXX
+// Hüter23 perso1
+L36D05C
+ (unten) Nehmt alle verdächtigen oder gefährlichen Individuen fest. XXX
+// Hüter23 perso1
+L36D05D
+ (unten) Aber was auch immer passiert - entfernt Euch nicht mehr als hundert Ellen von Eurem Posten. XXX
+// Hüter22 (spricht laut, weit von Arkhan entfernt)  perso1
+L36D06A
+ (unten) Habt Ihr Eure Befehle erhalten? XXX
+// Hüter24 (erschöpft) perso1
+L36D06B
+ (unten) Ja, wenn wir sie jetzt nicht begriffen haben, dann weiß ich auch nicht ... ! XXX
+// Hüter22 perso1
+L36D06C
+ (unten) Ich wollte nur sicher sein! XXX
+// Hüter23 (spricht laut, weit von Arkhan entfernt) perso1
+L36D07A
+ (unten) Haltet vor allem die Augen offen! Der Angriff kann von überall kommen! XXX
+// Hüter24 perso1
+L36D07B
+ (unten) Verstanden! XXX
+// Arkhan2 L perso2
+L36D87
+ Was ist hier los!? XXX
+// Arkhan3 L perso3
+L36D88
+ Was ist hier los?! XXX
+// Arkhan2 O perso2
+L36D89
+ Dich hat es ganz schön erwischt! XXX
+// Arkhan3 O perso3
+L36D90
+ Eine schöne Wunde! XXX
+// Lodar perso86
+L36D91A
+ Hilf mir und ich belohne Dich reichlich! XXX
+// Konkalit12 perso82
+L36D92A
+ Das ist ein Problem zwischen ihm und mir, Du mieser Dreckskerl! XXX
+// Konkalit12 perso82
+L36D92B
+ Misch Dich da nicht ein! XXX
+// Arkhan2 G perso2
+L36D78
+ Gib nicht auf. XXX
+// Arkhan3 G perso3
+L36D79
+ Nur nicht den Mut verlieren! XXX
+// Lodar perso86
+L36D99
+ Wer auch immer Du bist, hilf mir! XXX
+// Arkhan2 G perso2
+L36D93
+ Wie geht's Dir? XXX
+// Arkhan3 G perso3
+L36D94
+ Wie geht's Dir? XXX
+// Arkhan2 O perso2
+L36D55
+ Hast Du Schmerzen, mein Freund? XXX
+// Arkhan3 O perso3
+L36D56
+ Dir geht's offenbar nicht gut! XXX
+// Lodar perso86
+L36D03
+ Danke ... Ich verdanke Dir mein Leben. XXX
+// Lodar perso86
+L36D57C
+ Hier, nimm das ... Das nützt mir nichts mehr. XXX
+// Arkhan2 L perso2
+L36D58
+ Du bist Wanderer der Finsternis? Wie bist Du hier hereingekommen? XXX
+// Arkhan3 L perso3
+L36D59
+ Woher kommst Du? XXX
+// Arkhan2 O perso2
+L36D60
+ Woher kommst Du? Wie bist Du hierher gekommen? XXX
+// Arkhan3 O (aggressif) perso3
+L36D61
+ Wer bist Du denn? XXX
+// Lodar perso86
+L36D62A
+ Ich bin Lodar, Aufklärer einer Wandererkarawane, in einigen Tagen Entfernung von hier. XXX
+// Lodar perso86
+L36D62B
+ Ich bin gerade erst angekommen  ... sie haben die Tore hinter mir geschlossen. XXX
+// Lodar (bitter)perso86
+L36D62C
+ Und ich dachte, ich sei im Stalliten in Sicherheit ... XXX
+// Arkhan2 L perso2
+L36D63
+ Hast Du da draußen was gesehen? XXX
+// Arkhan3 L perso3
+L36D64
+ Hast Du was gesehen im Reich der Finsternis? XXX
+// Lodar perso86
+L36D65A
+ Ja ... Seltsame Dinge ... Wesen, die innen genauso finster sind wie außen ... XXX
+// Lodar perso86
+L36D65B
+ Ich habe Glück gehabt, unversehrt hier anzukommen. XXX
+// Lodar perso86
+L36D65C
+ Unten, in der Nähe des Wassers, habe ich eine Frau gesehen. XXX
+// Arkhan2 L perso2
+L36D66
+ Eine Frau? XXX
+// Arkhan3 L perso3
+L36D67
+ Eine Frau? XXX
+// Lodar perso86
+L36D68A
+ Alles, was ich weiß, ist, daß sie nicht aus meiner Karawane ist. XXX
+// Lodar perso86
+L36D68B
+ Sie ist verschwunden, bevor ich mich ihr nähern konnte. XXX
+// Arkhan2 O perso2
+L36D69
+ Ich frage mich, wie jemand wie Du im Reich der Finsternis überleben konnte! XXX
+// Arkhan3 O perso3
+L36D70
+ Für einen Wanderer siehst Du nicht gerade rüstig aus. XXX
+// Lodar (durch A. genervt) perso86
+L36D71A
+ Hör zu, mein Freund. Ich bin erschöpft. XXX
+// Lodar perso86
+L36D71B
+ Ich danke Dir für Deine Hilfe, aber mehr kann ich Dir nicht sagen. XXX
+// Lodar perso86
+L36D71C
+ Ich gehe meiner Wege und Du Deiner, einverstanden? XXX
+// Arkhan2 L perso2
+L36D72
+ Kannst Du mir mehr darüber sagen, was Du im Reich der Finsternis gesehen hast? XXX
+// Arkhan3 L perso3
+L36D73
+ Kannst Du mir mehr über das Reich der Finsternis erzählen? XXX
+// Lodar perso86
+L36D74A
+ Dort wurde ich geboren ... Dort habe ich gelebt ... XXX
+// Lodar perso86
+L36D74B
+ Und es ist das Letzte, was ich sehen möchte, bevor ich sterbe. XXX
+// Arkhan2 O perso2
+L36D75
+ Ein Wanderer wie Du hat sicher viel zu erzählen! XXX
+// Arkhan3 O perso3
+L36D76
+ Kannst Du mir mehr über das Reich der Finsternis erzählen? XXX
+// Lodar perso86
+L36D77A
+ Nein, ich habe nichts hinzuzufügen. XXX
+// Lodar (zum Abschied) perso86
+L36D77B
+ Setz Deinen Weg fort, mein Freund. Auf daß Dich jeder Deiner Schritte zum Licht führe. XXX
+// Arkhan2 G perso2
+L36D998
+ Was ist das für ein Helm? XXX
+// Arkhan3 G perso3
+L36D999
+ Was ist das? XXX
+// Lodar perso86
+L36D82A
+ Dieses Stück kommt vom fernen Stalliten Phönizia. XXX
+// Lodar perso86
+L36D82B
+ Das ist ein guter Schutz gegen Staubstürme.  XXX
+// Lodar perso86
+L36D82C
+ Und er hat Luftlöcher an den Seiten. XXX
+// Arkhan2 G perso2
+L36D124
+ Hast Du schon einmal solche Kristalle gesehen? XXX
+// Arkhan3 G perso3
+L36D125
+ Kennst Du diese Art von Kristall? XXX
+// Lodar perso86
+L36D83
+ Nein, so etwa hab' ich noch nie gesehen. Tut mir leid. XXX
+// Lodar perso86
+L36D81
+ Jetzt ist nicht der richtige Zeitpunkt zum Tauschen, mein Freund. XXX
+// Lodar perso86
+L36D84
+ Warum mußtest Du mich auch provozieren! XXX
+//  Lodar perso86
+L36D86
+ Du läßt mir keine andere Wahl! XXX
+// Konkalit12 perso82
+L36D105
+ Verschwinde hier! XXX
+// Arkhan2 L perso2
+L36D103
+ Oho, immer mit der Ruhe! XXX
+// Arkhan3 L perso3
+L36D104
+ Hör auf damit! XXX
+// Arkhan2 O (aggressif) perso2
+L36D106
+ Das wirst Du bedauern! XXX
+// Arkhan3 O (aggressif) perso3
+L36D107
+ Das wirst Du bedauern! XXX
+// Konkalit12 (brüllt vor Wut)perso82
+L36D108
+ Raaaah! XXX
+// Arkhan2 L perso2
+L36D96
+ Hör auf damit, Du Dreckskerl! XXX
+// Arkhan3 L perso3
+L36D97
+ Genug! Hör auf! XXX
+// Konkalit12 perso82
+L36D98
+ Komm nicht näher, oder ich bring' Euch beide um! XXX
+// Arkhan2 O perso2
+L36D100
+ Laß ihn los oder ich bring' Dich um! XXX
+// Arkhan3 O (bedrohlich) perso3
+L36D101
+ Laß ihn los! XXX
+// Konkalit12 perso82
+L36D102
+ Misch Dich da nicht ein! XXX
+// Arkhan2 G perso2
+L36D110
+ Ein Toter mehr ... XXX
+// Arkhan3 G perso3
+L36D111
+ Ein Toter mehr ... XXX
+// Konkalit12 perso82
+L36D112
+ Ja! Etwas anderes hat er auch nicht verdient! XXX
+// Arkhan2 G perso2
+L36D113
+ Du durchsuchst die Taschen der Toten? XXX
+// Arkhan3 G perso3
+L36D114
+ Durchsuchst Du ihm die Taschen? XXX
+// Konkalit12 perso82
+L36D115A
+ Na und? XXX
+// Konkalit12 perso82
+L36D115B
+ Schau doch weg, wenn es Dir nicht gefällt! XXX
+// Arkhan2 G (aggressif) perso2
+L36D119
+ Du bist nichts anderes als ein widerlicher Aasgeier! XXX
+// Arkhan3 G (aggressif) perso3
+L36D120
+ Du bist nichts anderes als ein widerlicher Aasgeier! XXX
+// Konkalit12 perso82
+L36D121
+ Ja! Und Du bist das Aas! XXX
+// Konkalit12 perso82
+L36D109
+ Behalt' es, ich hab' alles, was ich brauche! XXX
+// Konkalit12 perso82
+L36D200
+ Ich werd' Dir die Fresse polieren, Mistkerl! XXX
+// Arkhan2 Gperso2
+L36D149
+ Immer mit der Ruhe, Hüter des Feuers, ich will keinen Ärger. XXX
+// Arkhan2 Gperso2
+L36D150
+ Ich suche nichts anderes als ein Heilmittel. XXX
+// Hüter20 perso60
+L36D151A
+ Ich hab's Dir doch gesagt, hier findest Du nichts. XXX
+// Hüter20 perso60
+L36D151B
+Wenn ich Du wäre, würde ich hier verschwinden. XXX
+// Hüter20 perso60
+L36D251A
+ Hier findest Du auf keinen Fall, was Du suchst. XXX
+// Hüter20 perso60
+L36D251B
+ Willst Du einen guten Rat? Kehr dahin zurück, wo Du herkommst! XXX
+// Arkhan2 L perso2
+L36D135A
+ Ich suche ein Mittel gegen meine Krankheit. XXX
+// Arkhan2 L perso2
+L36D135B
+ Ich bitte Dich nur, mich durchzulassen. XXX
+// Hüter20 perso60
+L36D137A
+ Falls Du es noch nicht wissen solltest: Im Stalliten wurde das Standrecht verhängt. XXX
+// Hüter20 perso60
+L36D137B
+ Das Große Tor ist geschlossen, die meisten Straßen sind blockiert. XXX
+// Hüter20 perso60
+L36D137C
+ ... Und jemand wie ... jemand wie Du hat hier nichts zu suchen! XXX
+// Hüter20 perso60
+L36D137D
+ An Deiner Stelle würde ich mich hier verziehen. XXX
+// Arkhan2 O perso2
+L36D138A
+ Es reicht jetzt! XXX
+// Arkhan2 O perso2
+L36D138B
+ Geh' mir aus dem Weg oder ich werfe Dich in die Finsternis hinaus! XXX
+// Hüter20 perso60
+L36D140
+ Dann fallen wir zusammen, Ungeheuer! XXX
+// Arkhan2 L perso2
+L36D123A
+ Immer langsam, mein Freund. Ich bin Arkhan, Hüter des Feuers wie Du. XXX
+// Arkhan2 L perso2
+L36D123B
+ Ich wurde vergiftet, als ich die Große Predigerin beschützen wollte. XXX
+// Hüter20 (beeindruckt) perso60
+L36D136
+ Vergiftet! Sowas hab ich noch nie gesehen! XXX
+// Arkhan2 O perso2
+L36D126
+ Geh' zur Seite oder ich werfe Dich in die Finsternis hinaus! XXX
+// Hüter20 perso60
+L36D141A
+ Ich steh' hier nicht, um zu verhandeln! XXX
+// Hüter20 perso60
+L36D141B
+ Verlaß sofort den Festungswall. XXX
+// Hüter20 perso60
+L36D142
+ Du vergeudest Deine Spucke, Mistkerl! XXX
+// Hüter20 perso60
+L36D143
+ Ich wußte es! XXX
+// Arkhan2 L perso2
+L36D32
+ Die Kanone, mit der die Hüter des Feuers zusammengetrommelt werden, oder für den Fall eines Angriffs. XXX
+// Arkhan2 O perso2
+L36D33
+ Eine Kanone. Schade, daß sie keine Lunte hat, sonst hätte ich denen hier mal richtig eingeheizt! XXX
+// Arkhan3 L perso3
+L36D34
+ Diese Kanone nützt uns jedenfalls nichts gegen die Mächte aus der Finsternis ... XXX
+// Arkhan3 O perso3
+L36D35
+ Wir haben keine Waffe, um uns gegen die Finsternis zur Wehr zu setzen! XXX
+// Arkhan2 G perso2
+L36D36
+ Nein, das ist zu schwer! XXX
+// Arkhan3 G perso3
+L36D37
+ Nein, das ist zu schwer! XXX
+// Arkhan2 L perso2
+L36D38
+ Das Große Tor wird mit diesen Ketten geöffnet. XXX
+// Arkhan2 O (zieht an der Kette, vergeblich) perso2
+L36D39
+ Nein, die bewegt sich keinen Zoll! XXX
+// Arkhan3 L perso3
+L36D40
+ Arkhan3 L: Die Ketten, um die Tür zu öffnen. XXX
+// Arkhan3 O (zieht an der Kette, vergeblich) perso3
+L36D41
+ Nein! Da bewegt sich nichts! XXX
+// Arkhan2 L perso2
+L36D46
+ Die Gegengewichte des Großen Tors sind durch diese Federn blockiert.  XXX
+// Arkhan3 L perso3
+L36D48
+ Federn ... Sie blockieren die Gegengewichte des Großen Tors. XXX
+// Arkhan2 L perso2
+L36D49
+ Dieser Durchgang ist blockiert. Hier komme ich nicht weiter. XXX
+// Arkhan2 O (schlägt auf die Barrikade ein) perso2
+L36D50
+ Diese Dummköpfe! Sie haben alles verbarrikadiert! XXX
+// Arkhan3 O (schlägt auf die Barrikade ein) perso3
+L36D52
+ Verdammt, hier komm ich nicht weiter! XXX
+// Arkhan2 G perso2
+L36D24
+ Von hier aus kann man den ganzen Stalliten überblicken. XXX
+// Arkhan3 G perso3
+L36D25
+ Man sieht den ganzen Stalliten.. XXX
+// Arkhan2 G perso2
+L36D26
+ Der Stallit bildet jetzt mit der Finsternis eine Einheit. XXX
+// Arkhan3 G perso3
+L36D27
+ Die Finsternis ist überall ... XXX
+// Arkhan2 G perso2
+L36D28
+ Staub und Finsternis am ganzen Horizont. XXX
+// Arkhan3 G perso3
+L36D29
+ Die Finsternis ist unser Horizont ... XXX
+// Arkhan2 G perso2
+L36D30
+ Sparta kennt nichts anderes mehr als Finsternis ... XXX
+// Arkhan2 L perso2
+L36D09
+ Das Große Tor des Stalliten ... Wegen des Standrechts haben es die Hüter des Feuers geschlossen. XXX
+// Arkhan2 O perso2
+L36D10
+ Dhorkan, dieser Dreckskerl, hat das Große Tor des Stalliten schließen lassen! XXX
+// Arkhan3 L perso3
+L36D11
+ Das ist das Standrecht: Sie haben das Große Tor des Stalliten geschlossen.  XXX
+// Arkhan3 O perso3
+L36D12
+ Das Große Tor ist geschlossen ... Dhorkan und sein Standrecht! XXX
+// Arkhan2 L perso2
+L36D13
+ Geschlossen oder nicht - das Große Tor wird uns nicht vor der Finsternis schützen! XXX
+// Arkhan2 O perso2
+L36D14
+ Und sie glauben, sie könnten sich schützen, indem sie das Große Tor schließen. Die sind doch wahnsinnig! XXX
+// Arkhan3 O perso3
+L36D16A
+ Arme Irre! XXX
+// Arkhan3 G perso3
+L36D16B
+ Sie haben das Große Tor geschlossen ... zu spät! XXX
+// Arkhan2 G perso2
+L36D17
+ Nichts als diese Mauer trennt uns von der Finsternis. XXX
+// Arkhan2 G perso2
+L36D18
+ Dahinter gibt es nichts als Finsternis, Kälte und Tod ... XXX
+// Arkhan3 G perso3
+L36D19
+ Finsternis, Kälte und Tod ... Sonst gibt es da draußen nichts ... XXX
+// Arkhan2 L (düster) perso2
+L36D20
+ Ich spür', daß da draußen Dinge lauern, sich verstecken, warten ... XXX
+// Arkhan2 O (ein herausfordernder Schrei) perso2
+L36D21
+ Kommt, Kreaturen der Finsternis, kommt aus dem Schatten heraus, ich erwarte euch! XXX
+// Arkhan3 L perso3
+L36D22
+ Die Kreaturen der Finsternis ... sie sind nicht weit, ich spüre es ... XXX
+// Arkhan3 O (mit einem herausfordernden Schrei) perso3
+L36D23
+ Kommt, Ungeheuer! Ich erwarte Euch! XXX

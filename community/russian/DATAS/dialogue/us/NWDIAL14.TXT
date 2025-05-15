@@ -1,0 +1,907 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL14.TXT
+ // Kalhi1 perso13
+L14D108
+ A_~h, kjlZ iZ]amndnx +ZildmZ! XXX
+// Arkhan2 Gperso2
+L14D45
+ JZhja ]lah|! XXX
+// Arkhan3 G perso3
+L14D46
+ $Zi_jl, iZfjiar! XXX
+// Malrot4 (A. is yelling at him) perso64
+L14D235
+ Ve, kmdq, maesZm | na[| omkjfjz! XXX
+// Provider Woman (A. is yelling at her) perso16
+L14D236
+ +Zz mgj]j! Gi mohZmta_tde! XXX
+// Malrot1 perso6
+L14D237
+ JaesZm o na[| [o_an kj]j_ _g| fldfj]! XXX
+// Delia perso10
+L16D122
+ N]Zndn! Kw ko^Zatx hai|! XXX
+// Provider Woman perso16
+L14D263
+ #, iZt _lo^ kldt~g. XXX
+// Malrot1 perso61
+L14D171
+ Kjgxfj kj_je_d fj hia, kjkjgZh lZclo[gz! XXX
+// Arkhan2 L perso2
+L14D139A
+ IZmmgZ[xm|. X ia duo _lZfd! XXX
+// Arkhan2 O perso2
+L14D139B
+ Hjklj[oe, ij njgxfj kai|e iZ ma[| kjnjh! XXX
+// Malrot1 perso61
+L14D140
+ Nh... DZ_ij, ij [ac ^l|ciwq pjfomj]! XXX
+// Malrot1 (alarmed) perso61
+L14D172
+ QZifljijmar! Hj_i|nx nla]j^o! XXX
+// Provider Woman perso16
+L14D167
+ Ve-ye! +Z kj^j_d nw, mgwtdtx?! XXX
+// Provider Woman perso26
+L14D168
+ Gmnwg? Ejgj_ar! XXX
+// Malrot4 (A. menacing him with a gun) perso64
+L14D169
+ Ve, ia iZklZ]g|e iZ gz_ae! XXX
+// Malrot4 (A. putting away his gun) perso64
+L14D170A
+ KZf-nj gosta! XXX
+// Malrot4 perso64
+L14D170B
+ Fa gostde mkjmj[ cZ]j_dnx _locae, kZg| iZga]j d iZklZ]j! XXX
+// Malrot1 perso2
+L14D203
+ Ve... Ve, ye! $o_an! XXX
+// Malrot1 perso61
+L14D204
+ Fo, _lo^ja _agj! XXX
+// Arkhan2 L perso2
+L14D05
+ +Z kla[o_an m nj[je J]an, homjludf. XXX
+// Malrot4 perso64
+L14D07A
+ *g|ixna, snj f iZh cZ]Zgdgjmx. X ]Zm, "&Zta [acj[lZcda", non lZixta ia ]mnlasZg. XXX
+// Malrot4 perso64
+L14D07B
+ CZ[w ]mnlandg, ob ia kjcZ[wg [w. KZfZ| ljbZ, fZf o na[|, d ] mnlZtijh mia ia kldmidnm|! XXX
+// Arkhan2 L perso2
+L14D177
+ Eai| cj]on #lqZi, | mnZlwe _lo^ +ZildmZ. XXX
+// Malrot4 perso64
+L14D178A
+ Eai| cj]on Co[aln. XXX
+// Malrot4 (half joking, half serious) perso64
+L14D178B
+ G[je_~hm| [ac lofjkjbZnde - hj^o mgosZeij jnn|kZnx na[a kZgxrw! XXX
+// Malrot4 perso64
+L14D178C
+ (mha~nm|) XXX
+// Arkhan2 O perso2
+L14D08
+ Ve, | ia kljnd] ldmfionx! XXX
+// Malrot4 (irritated) perso64
+L14D09A
+ Kw sa^j nZfje cgje? XXX
+// Malrot4 (irritated) perso64
+L14D09B
+ Fafjho kj]w_Z]gd]Znx na[a klwud? XXX
+// Arkhan2 O perso2
+L14D179A
+ Dz[dtx tonfo, ]alij? JaesZm [o_atx mha|nxm| _j otae! XXX
+// Arkhan2 O perso2
+L14D179B
+ X #lqZi. JnZlwe kld|nagx +ZildmZ. XXX
+// Malrot4 perso64
+L14D180
+ "#lqZi", _Z? X [w kj_ohZg, snj n]j~ dh| "NZlfZg"! XXX
+// Arkhan2 L perso2
+L14D10
+ Kw [w hj^ kjhjsx hia, Co[aln. XXX
+// Malrot4 perso64
+L14D11A
+ CZf mfZcZnx. X sagj]af cZi|nje, kjidhZatx! XXX
+// Malrot4 perso64
+L14D11B
+ Eomjludfo iZ_j iZ snj-nj bdnx, om~f?! XXX
+// Malrot4 perso64
+L14D11C
+ X ia klj]d_ar. Fa hj^o bdnx m]anjh a_diwh! XXX
+// Arkhan2 O perso2
+L14D12A
+ Fa kjeho idfZf... XXX
+// Arkhan2 O perso2
+L14D12B
+ Gn fj^j nw latdg mkl|nZnxm|, iZk|gd] ynjn qgZh? Gn hZhjsfd? XXX
+// Arkhan2 O perso2
+L14D12C
+ Cg|iomx, jiZ kljfg|gZ njn _aix, fj^_Z o ia~ lj_dgm| nZfje olj_! XXX
+// Malrot4 (angry) perso64
+L14D13A
+ <mgd kj_ohZnx, hia mok ]Zldnx ia ] sah... XXX
+// Malrot4 (angry) perso64
+L14D13B
+ # n]je ]wmfj[gaiiwe salak kj_je_~n fZf lZc! XXX
+// Arkhan2 L perso2
+L14D34A
+ Vnj ]Zbij. XXX
+// Arkhan2 L perso2
+L14D34B
+ Eia iobij iZend mkjmj[ dcgasdnxm|. XXX
+// Malrot4 perso64
+L14D35A
+ K]j| klZ]_Z! Hjnla[oanm| qjljtj kjnlo_dnxm|, snj[w m_agZnx dc na[| jkl|nij^j, sdmnj^j homjludfZ. XXX
+// Malrot4 perso64
+L14D35B
+ Hjsaho [w na[a ia kjhwnxm| qjn| [w lZcjf? XXX
+// Malrot4 perso64
+L14D35C
+ Fo d ]jix! XXX
+// Malrot4 perso64
+L14D35D
+ GmnZ]x _jqgoz flwmo ^idnx mjniz rdfgj], jiZ nZf ]ji|nx ia [o_an! XXX
+// Arkhan2 L perso2
+L14D36A
+ Eia iobai hamniwe ragdnagx. XXX
+// Malrot4 perso64
+L14D37A
+ Kw dc fZfj^j mnZggZenZ? +Z ]ma, fnj hjban gasdnx, - jid iZ]alqo, o klj]d_ra]! XXX
+// Malrot4 perso64
+L14D37B
+ Fj mnjdn no_Z kj_i|nxm|, jn mnlZbae j^i| kjgosdtx kdijf kj_ cZ_. XXX
+// Arkhan2 L perso2
+L14D36B
+ <mgd jid kion n]je cZ_, nj jmnZionm| [ac ij^! XXX
+// Malrot4 (liking the joke) perso64
+L14D37C
+ Palnj]mfd ]alij, iZ]jciZ| hjl_Z! XXX
+// Arkhan2 L perso2
+L14D38
+ Cnj n]je [jmm? XXX
+// Malrot4 perso64
+L14D39A
+ >_amx o iZm njgxfj j_di [jmm. <^j cj]on #lhZg JZ_Zf. XXX
+// Malrot4 perso64
+L14D39B
+ <mgd d amnx sagj]af, fjnjlwe hj^ [w kjhjsx na[a, nj ynj ji. XXX
+// Malrot4 perso64
+L14D39C
+ Fj | _jgbai mlZco kla_okla_dnx, aho ia kjilZ]dnm| n]je b[Zi! XXX
+// Arkhan2 L perso2
+L14D181
+ Ejban, au~ fnj? XXX
+// Malrot4 perso64
+L14D182A
+ "+lo^da" - ynj fjifZgdnw. XXX
+// Malrot4 perso64
+L14D182B
+ Fj kj]alx hia. Lb gosta amgd mnZ| flwm [o_an ^lwcnx n]je cZ_, sah m idhd _agj dhanx. XXX
+// Malrot4 perso64
+L14D182C
+ Jjl_jm - iZmnj|ude kmdq! XXX
+// Arkhan2 L perso2
+L14D183
+ Jjl_jm? XXX
+// Malrot4 perso64
+L14D184
+ Aq ^gZ]Zlx! Gi kjt~g kljnd] #lhZgZ JZ_ZfZ. JaesZm ji mj m]jae [Zi_je dmsac. Gid ^jnj]|n malx~cioz [oso. XXX
+// Arkhan2 L perso2
+L14D40
+ IZmmfZbd hia au~... XXX
+// Malrot4 perso64
+L14D41A
+ Ve, ynj ]m~! XXX
+// Malrot4 perso64
+L14D41B
+ X na[a ia [lj_|sde lZmmfZcsdf! XXX
+// Arkhan2 O (menacingly) perso2
+L14D42
+ $ljmx nlakZnxm|, jn]asZe! XXX
+// Malrot4 (preparing to hit A.) perso64
+L14D43
+ +Z, maesZm. Kw kjgosdtx jn]anw, ia _laepx! +Z kj ]mae hjl_a! XXX
+// Arkhan2 L perso2
+L14D00
+ Ve, homjludf... XXX
+// Malrot4 (menacingly) perso64
+L14D01A
+ JiZsZgZ jlobda mkl|sx, | jn ynj^j _~l^Zzmx! XXX
+// Malrot4 (menacingly) perso64
+L14D01B
+ # nZh kj^g|_dh... XXX
+// Arkhan2 L perso2
+L14D04
+ Lmkjfjem|, | ia mj[dlZzmx na[| nlj^Znx! XXX
+// Malrot4 perso64
+L14D06
+ JfZcZg ba, jlobda o[ald! XXX
+// Arkhan2 O perso2
+L14D02
+ & s~h klj[gahZ, ^Z_, mnlZtij? XXX
+// Malrot4 perso64
+L14D03
+ JaesZm o]d_dh, fjho mnlZtij! XXX
+// Malrot4 perso64
+L14D13
+ X na[a fdtfd ]wkouo! XXX
+// Arkhan2 G perso2
+L14D44
+ Ainalamoan? XXX
+// Malrot4 perso64
+L14D45A
+ Fan, cZ[o_x. XXX
+// Malrot4 perso64
+L14D45B
+ Eia hZhZ ia ]agagZ [lZnx fjipanw o gz_ae m nZfje hjl_je gdrZ! XXX
+// Arkhan3 L perso3
+L14D18
+ Ve, nw! XXX
+// Malrot4 (awed by Arkhan3) perso64
+L14D19A
+ Ve... mgotZe, kld|nagx. Fa [o_ah ^jl|sdnxm|, gZ_w? XXX
+// Malrot4 (awed by Arkhan3) perso64
+L14D19B
+ $o_ah msdnZnx, nw hai| ia ]d_ag, d ]mah [o_an qjljtj. XXX
+// Malrot4 (overawed by Arkhan3) perso64
+L14D15
+ DZ_ij, gZ_ij. Kjgxfj mkjfjeij. X ]a_x ia m_agZg na[a idsa^j, nZf?! XXX
+// Arkhan3 L perso3
+L14D20
+ Hjmnje, | _jgbai mfZcZnx na[a snj-nj! XXX
+// Malrot4 perso64
+L14D21A
+ Fa nlj^Ze hai|! XXX
+// Malrot4 (preparing to hit A.) perso64
+L14D21B
+ L hai| njba fj^nd amnx, ]d_Zg?! XXX
+// Malrot4 (preparing to hit A.) perso64
+L14D185
+ A n]j~ dh| iZ j_ijh dc idq! XXX
+// Malrot4 (mocking) perso64
+L14D206A
+ "+Z kla[o_an m nj[je J]an", Z? XXX
+// Malrot4 perso64
+L14D206B
+ <mgd nw ia cZhandg, c_amx, ]idco, ia [wgj idfZfj^j m]anZ oba jsaix _Z]ij! XXX
+// Malrot4 perso64
+L14D207A
+ $j^ JjgirZ mz_Z cZ^g|_w]Zan ia mgdtfjh sZmnj, _lobjf! XXX
+// Malrot4 perso64
+L14D207B
+ <mgd na[a _jlj^Z tfolZ, nj gosta oijmd jnmz_Z ij^d. XXX
+// Arkhan2 O perso2
+L14D214
+ Kj^_Z kjsaho nw au~ c_amx? XXX
+// Malrot4 perso64
+L14D223
+ # hia c_amx ^jlZc_j ozniae, amgd kjidhZatx, j s~h |! XXX
+// Arkhan2 L perso2
+L14D208
+ Pnj o ]Zm non kljdmqj_dn? XXX
+// Malrot4 perso64
+L14D209
+ KZf mnZgj m naq kjl, fZf P~liwe mZ]Zi _j[lZgm| _j iZm! XXX
+// Malrot4 perso64
+L14D210A
+ *j]jl|n, "n]Zld" dc ElZfZ kljidfgd ] iZt ^jlj_... XXX
+// Malrot4 perso64
+L14D210B
+ # snj o idq iZ j[a_, nZf ynj hw, homjludfd! XXX
+// Malrot4 perso64
+L14D210C
+ # na, fnj oragag... "hai|znm|"... XXX
+// Malrot4 perso64
+L14D210D
+ Gid mnZij]|nm|... nZfdhd ba n]Zl|hd... XXX
+// Malrot4 perso64
+L14D213
+ Fj amgd jid _j[alonm| _j hai|, nj jn]a_Zzn hjdq fj^nae! XXX
+// Arkhan2 L perso2
+L14D211
+ Kw ciZatx snj-id[o_x au~ j[ yndq mjc_Zid|q dc ElZfZ? XXX
+// Malrot4 perso64
+L14D212
+ Fan. Fa]a_aida - [gZ^j, amgd hai| mkljmdxn! XXX
+// Arkhan2 O perso2
+L14D215
+ G! Pnj cZ ]jix? Ve, iam~n, kl|hj fZf dc kjhjefd. Mo-o! XXX
+// Arkhan3 L perso3
+L14D217
+ Hld]anmn]oz, homjludf. XXX
+// Malrot4 (scared) perso64
+L14D218A
+ Gn]Zgd jn hai|! XXX
+// Malrot4 (scared) perso64
+L14D218B
+ X ciZz, snj nw nZfja, ij na[a ia j[lZndnx hai|! XXX
+// Arkhan3 L perso3
+L14D219
+ IZmmgZ[xm|, | na[a cgZ ia bagZz! XXX
+// Malrot4 (wary) perso64
+L14D220
+ +Z io? Kj^_Z m_agZe hia j_jgbaida. J]Zgd! XXX
+// Arkhan2 G perso2
+L14D165
+ L ynj^j bZgfj^j sal]|fZ idsa^j ian kld ma[a. XXX
+// Arkhan3 G perso3
+L14D166
+ L ynj^j bZgfj^j sal]|fZ idsa^j ian. XXX
+// Arkhan2 L perso2
+L14D49
+ +Z kla[o_an m nj[je J]an, _j[wnsdrZ. XXX
+// Arkhan2 O perso3
+L14D59
+ Ve, _j[wnsdrZ! XXX
+// Provider Woman perso16
+L14D50A
+ +Z kla[o_an m nj[je J]an. XXX
+// Provider Woman perso16
+L14D50B
+ Hjqjba, nw ia jmj[j kjkog|lai ] &alqiah ^jlj_a. XXX
+// Provider Woman perso16
+L14D50C
+ Kjgxfj ia mfZbd, snj mnlZbd j^i| kalaflwgd _jmnok f kgZnpjlha dc-cZ na[|! XXX
+// Arkhan2 L perso2
+L14D186
+ Fan. Vnj idfZf ia m]|cZij mj hije. XXX
+// Arkhan2 O perso3
+L14D187
+ <mgd fnj mkljmdn, nw hai| ia ]d_agZ. Xmij?! XXX
+// Arkhan2 L perso2
+L14D51
+ Eai| cj]on #lqZi. X _lo^ homjludfZ +ZildmZ. XXX
+// Arkhan2 O perso2
+L14D60
+ Eai| cj]on #lqZi, | _lo^ +ZildmZ. XXX
+// Provider Woman perso16
+L14D52A
+ Njljtj. Njljtj. Pnj na[a iobij, #lqZi? XXX
+// Provider Woman perso16
+L14D52B
+ <mgd ^jgj_ai, | _Zh a_o ] j[hai iZ ]aud! XXX
+// Arkhan2 L perso2
+L14D53
+ Ejbatx snj-id[o_x lZmmfZcZnx j[ ynjh hamna? XXX
+// Arkhan2 O perso2
+L14D61
+ Njljtj. IZmmfZbd, snj nw ciZatx j[ ynje sZmnd mnZggZenZ. XXX
+// Provider Woman (surprised) perso16
+L14D54A
+ Pnj ba nw qjsatx ciZnx? XXX
+// Provider Woman perso16
+L14D54B
+ Vnj Fdbide ^jlj_, _lobjf. XXX
+// Provider Woman perso16
+L14D54C
+ Gi kjgji homjludfj] d _j[wnsdfj], fjnjlwh ia _jmo^ [jgnZnx m nZfdhd, fZf nw. XXX
+// Provider Woman perso16
+L14D54D
+ <mgd ia qjsatx hai|nxm|, hia [jgxta iasah kjhjsx na[a. XXX
+// Arkhan2 G perso2
+L14D55
+ Eai|nxm|? XXX
+// Provider Woman perso16
+L14D56A
+ +Z. KZf snj [ nw qjnag hZqionx? XXX
+// Provider Woman perso16
+L14D56B
+ # | kjmhjnlz, snj na[a ]cZhai _Znx. XXX
+// Arkhan2 L perso2
+L14D57
+ JgotZe, | kldt~g ia hai|nxm|. XXX
+// Provider Woman perso16
+L14D58
+ & nZfjh mgosZa idsah ia hj^o kjhjsx... XXX
+// Arkhan2 O perso2
+L14D63
+ Eai| ia dinalamoan j[hai! XXX
+// Provider Woman perso16
+L14D188A
+ Njljtj... gZ_ij. XXX
+// Provider Woman perso16
+L14D188B
+ Fj amgd ]_lo^ latdtx kalafomdnx, nj j[lZuZem|... XXX
+// Arkhan2 G perso2
+L14D28
+ Ejban, nw hia kjhjbatx. XXX
+// Provider Woman perso16
+L14D29
+ &kjgia ]jchjbij... Fj ynZ tnofZ ia iobiZ, snj[w kld]gasx hj~ ]idhZida... XXX
+// Arkhan2 G perso2
+L14D30
+ JgotZe, _j[wnsdrZ... XXX
+// Provider Woman perso16
+L14D31A
+ X mfZcZgZ lZc, d ia qjso kj]njl|nx. Globda mkl|sx. XXX
+// Provider Woman perso16
+L14D31B
+ Gij na[a ia kjiZ_j[dnm| mj hije... XXX
+// Arkhan2 G perso2
+L14D77
+ L hai| amnx ]jn ynj... XXX
+// Provider Woman perso16
+L14D78A
+ GmnZ]x ma[a! X ia ]a_o _ag m iaciZfjhrZhd. XXX
+// Provider Woman perso16
+L14D78B
+ CZf na[| cj]on? XXX
+// Arkhan2 G perso2
+L14D74A
+ Pnj nw _ohZatx j[ ynjh calfZga dc $wgj^j? XXX
+// Arkhan2 G perso2
+L14D74B
+ Jhjnld, fZfje m]an! XXX
+// Provider Woman perso16
+L14D152A
+ +Z! Fdsa^j nZf! XXX
+// Provider Woman perso16
+L14D152B
+ X jn_Zh na[a yno fjlj[fo. XXX
+// Provider Woman perso16
+L14D152D
+ Vnj kj_Zljf homjludfZ +ZildmZ. XXX
+// Provider Woman perso16
+L14D152E
+ Gi a_dimn]aiiwe, fnj ohaan _agZnx kj_j[iwa ]aud. XXX
+// Arkhan2 G perso2
+L14D76A
+ A_~n. XXX
+// Arkhan2 L perso2
+L14D76B
+ JkZmd[j. XXX
+// Arkhan2 G perso2
+L14D82
+ Pnj [w nw _ZgZ hia cZ ynjn mjmo_? XXX
+// Provider Woman perso16
+L14D83A
+ Fakgjqj. XXX
+// Provider Woman perso16
+L14D83B
+ >Z ynj | _Zh fomjf mjgjidiw. XXX
+// Arkhan2 G perso2
+L14D85
+ CZf iZms~n nZfj^j fo]tdiZ? XXX
+// Provider Woman (thinking) perso16
+L14D86
+ Nh... cZ ynj | _Zh na[a iahij^j lw[w. XXX
+// Arkhan2 G perso2
+L14D225
+ +Ztx hia iahij^j a_w iZ yno mnokfo? XXX
+// Provider Woman perso16
+L14D226A
+ +Z, _Z. X _Zh ynjn [jgxtje fjlaix. XXX
+// Provider Woman perso16
+L14D226B
+ $o_atx _j]jgai. FZ ]fom ji gosta, sah iZ ]d_. XXX
+// Arkhan2 G perso2
+L14D227
+ Pnj nw _Ztx hia cZ nZlagfo? XXX
+// Provider Woman perso16
+L14D228A
+ >Z ynj - [jgxtje j]ju... kjsnd ragwe! XXX
+// Provider Woman perso16
+L14D228B
+ Fa kj_Z]dmx mahaiZhd! XXX
+// Arkhan2 G perso2
+L14D229
+ L hai| amnx kamndf. XXX
+// Provider Woman perso16
+L14D230A
+ +Z... ]aux iobiZ|. XXX
+// Provider Woman perso16
+L14D230B
+ X _Zh cZ ia^j mjgiasija |[gjfj. XXX
+// Arkhan2 G perso2
+L14D231
+ +Ztx hia snj-id[o_x cZ yno hdmfo? XXX
+// Provider Woman perso16
+L14D232
+ +Z, j[va_fd bZlaije kndrw dc "Jala[l|ije Mgaenw". XXX
+// Arkhan2 G perso2
+L14D233
+ Ainalamoan ynjn kocwl~f? XXX
+// Provider Woman perso16
+L14D234
+ +Z, | j[hai|z ynj iZ kjgioz pg|^o tnjggZ. XXX
+// Arkhan2 G perso2
+L14D157
+ Ainalamoan nZfZ| ]aux? XXX
+// Provider Woman perso16
+L14D191
+ Vnj? Fan. E-h... au~ snj-id[o_x amnx? XXX
+// Provider Woman perso16
+L14D192
+ Fan, hia ynj ia iobij. XXX
+// Provider Woman perso16
+L14D193
+ >Z ynj hia iasa^j _Znx ]cZhai. XXX
+// Arkhan2 L perso2
+L14D243
+ Kw ]d_agZ, snj[w fnj-nj ]wqj_dg jnmz_Z? XXX
+// Provider Woman perso16
+L14D244A
+ G, _Z, fZfje-nj kZlaix m hasjh. Gi ]wganag jnno_Z mnlagjz! XXX
+// Provider Woman perso16
+L14D244B
+ FZ ]d_ ]lj_a mnlZb j^i|, ij | ia o]alaiZ. XXX
+// Arkhan2 L perso2
+L14D245
+ Co_Z ji iZklZ]dgm|? XXX
+// Provider Woman perso16
+L14D246
+ Kjsij ia mfZbo... XXX
+// Arkhan2 L perso2
+L14D247
+ DZ_ij, ]m~ lZ]ij mkZmd[j. XXX
+// Arkhan2 O perso2
+L14D248
+ Ve! Kw ]d_agZ, snj[w fnj-nj ]wqj_dg jnmz_Z?! XXX
+// Arkhan2 O perso2
+L14D249
+ Co_Z ji iZklZ]dgm|? XXX
+// Provider Woman (uneasily)perso16
+L14D250
+ V-y... Z-Z...XXX
+// Arkhan2 O perso2
+L14D251
+ Fo! Co_Z? XXX
+// Provider Woman (uneasily)perso16
+L14D252
+ X ia ciZz, | kl|nZgZmx cZ m]jae nagabfje. XXX
+// Arkhan2 O perso2
+L14D253
+ Fo Z nj! XXX
+// Arkhan3 L perso3
+L14D64
+ +j[wnsdrZ... XXX
+// Provider Woman (frightened) perso16
+L14D65
+ Pa^j nw qjsatx? XXX
+// Arkhan3 L perso3
+L14D66
+ Fa [jem|. X #lqZi. X na[| ia nljio! XXX
+// Provider Woman (not reassured) perso16
+L14D67A
+ Fo... XXX
+// Provider Woman (not reassured) perso16
+L14D67B
+ Nh-h... ]jcxhd ynj. XXX
+// Provider Woman (not reassured) perso16
+L14D67C
+ Vnj m_agZg homjludf +Zildm. XXX
+// Provider Woman (not reassured) perso16
+L14D67D
+ Jvatx-fZ. L]d_dtx, ynj ]fomij! XXX
+// Arkhan3 L perso3
+L14D68
+ Ejban, au~ snj-id[o_x? XXX
+// Provider Woman (not reassured) perso16
+L14D69
+ Fan, dc]did... XXX
+// Provider Woman (frightened) perso16
+L14D48
+ $jba klZ]we! FZ kjhjux, mkZmdna, homjludfd! XXX
+// Arkhan3 L perso3
+L14D254
+ Kw idfj^j non ia ]d_agZ? XXX
+// Arkhan3 L perso3
+L14D255
+ Fo ba! Kw ciZatx, ^_a ji! XXX
+// Arkhan3 L perso2
+L14D256
+ AnZf? XXX
+// Arkhan3 L perso2
+L14D257
+ #-Z... cZ[o_x. XXX
+// Arkhan2 L perso3
+L14D149
+ Ve, mfZbd, snj[ ji jnmnZg! XXX
+// Provider Woman perso16
+L14D150
+ Eai| Z[mjgznij ia ]jgiozn ]Ztd hagfda ^gokwa mnwsfd! XXX
+// Arkhan3 O perso3
+L14D189
+ Ve, nw! Hjhj^d hia! XXX
+// Provider Woman perso16
+L14D190
+ Fan! Vnj... ynj idfZf hai| ia fZmanm|! XXX
+// Arkhan2 O perso2
+L14D194
+ NZ! +ohZatx, mklZ]dtxm| mj hije?! XXX
+// Provider Woman perso16
+L14D195
+ G, | na[a kjfZbo, halcfja so_j]dua! XXX
+// Arkhan2 G perso2
+L03D01
+ Hj_jb_d hai|! XXX
+// Arkhan3 G perso3
+L03D02
+ Hj_jb_d! XXX
+// Arkhan2 G perso2
+L14D105
+ JnZlwa sZmnd hZtdi dc $wgj^j, mj[lZiiwa homjludfZhd. XXX
+// Arkhan3 G perso3
+L14D106
+ *lo_w hanZggZ dc $wgj^j, mj[lZiiwa homjludfZhd. XXX
+//Arkhan2 G perso2
+L14D95
+ Fdsa^j, fljha mnZlj^j hanZggZ... XXX
+//Arkhan3 G perso3
+L14D96
+ EanZgg. XXX
+// Arkhan2 G perso2
+L14D97
+ JnZlZ| rdmnaliZ... XXX
+// Arkhan2 G perso2
+L14D100
+ JnZlwa gdmnw hanZggZ! XXX
+// Arkhan3 G perso3
+L14D101
+ IbZ]wa gdmnw hanZggZ! XXX
+// Malrot1 perso61
+L14D137
+ Ve! Kjgxfj kldnljixm|, d kjgosdtx o hai|! XXX
+// Malrot1 perso61
+L14D138A
+ L^juZem|, kld|nagx. XXX
+// Malrot1 perso61
+L14D138B
+ <mgd na[a snj-nj kjilZ]dnm|, cZ[dlZe! XXX
+// Arkhan2 G perso2
+L14D89
+ $amkjgaciwa gdmnw hanZggZ! XXX
+// Arkhan3 G perso3
+L14D90
+ Fdsa^j fljha gdmnj] hanZggZ. XXX
+// Arkhan2 G perso2
+L14D265
+ +Zildm cZgd]Zan mz_Z hZmgj, snj[w cZkomndnx hZtdio. XXX
+// Arkhan3 G perso3
+L14D266
+ Vnj hZmg|iwe [Zf. XXX
+// Arkhan2 G perso2
+L14D267
+ Hjqjba, ] i~h komnj. XXX
+// Arkhan3 G perso3
+L14D268
+ KZh komnj. XXX
+// Arkhan2 G perso2
+L14D269
+ *jnj]j. Kakalx _jgbij lZ[jnZnx. XXX
+// Arkhan3 G perso3
+L14D270
+ *jnj]j. Kakalx cZlZ[jnZan... XXX
+// Arkhan2 G perso2
+L14D271
+ Fan, [Zf oba kjgji. XXX
+// Arkhan3 G perso3
+L14D272
+ & [Zfa oba q]ZnZan. XXX
+// Arkhan2 G perso2
+L14D273
+ $Zf kjgji. XXX
+// Arkhan3 G perso3
+L14D274
+ Palac flZe. XXX
+// Arkhan2 L perso2
+L14D104A
+ IZc]ZgzqZ dc $wgj^j. XXX
+// Arkhan2 L perso2
+L14D104B
+ Hjqjba iZ [jgxtoz hZtdio. XXX
+// Arkhan2 O perso2
+L14D196
+ K|bagj]Znj! XXX
+// Arkhan3 L perso3
+L14D107
+ GmnZifd hZtdiw dc $wgj^j! XXX
+// Arkhan3 O perso3
+L14D197
+ K|bagj]Znj! XXX
+// Arkhan2 L perso2
+L14D113
+ Fa ]jgioem|, | _lo^. XXX
+// Malrot1 perso61
+L14D114A
+ Vnj fZb_we hjban mfZcZnx! XXX
+// Malrot1 perso61
+L14D114B
+ & nahijna mgjbij kji|nx, fnj _lo^, Z fnj ian. XXX
+// Arkhan2 O perso2
+L14D109
+ Pnj nw c_amx _agZatx? XXX
+// Malrot1 perso61
+L14D110A
+ Pnj | c_amx _agZz! XXX
+// Malrot1 perso61
+L14D110B
+ # io klj]Zgd]Ze, kjfZ ia iZkljmdgm|! XXX
+// Arkhan2 L perso2
+L14D115
+ Kw ciZatx, snj kljdmqj_dn! XXX
+// Malrot1 (frightened and aggressive) perso61
+L14D116A
+ $j^ JjgirZ kjfdiog iZm, ]jn snj kljdmqj_dn! XXX
+// Malrot1 (frightened and aggressive) perso61
+L14D116B
+ ElZf mjt~g iZ iZm. Gi kj^gjuZan gz_ae, kla]lZuZ| ] iaj[wsiwq n]Zlae! XXX
+// Malrot1 (frightened and aggressive) perso61
+L14D116C
+ # ^g|_| iZ na[|, | [w mfZcZg, nw iZ jsala_d! XXX
+// Malrot1 (defiant) perso61
+L14D116D
+ Kw [ gosta kjjmnwg! XXX
+// Arkhan2 O (menacing) perso2
+L14D111
+ Njsatx _j[lwe mj]an? Fa tond mj hije! XXX
+// Malrot1 (aggressive) perso61
+L14D112
+ >Zmoix ma[a ] j_ij hamnj m]je mj]an! XXX
+// Arkhan2 L perso2
+L14D118A
+ Fa mhjnld iZ iZlobijmnx - | ba m ]Zhd. XXX
+// Arkhan2 L perso2
+L14D118B
+ CjifZgdnw, ynj ]m~ dq ]diZ. XXX
+// Arkhan2 L perso2
+L14D118C
+ Aq d... y... j_ij^j klj]d_rZ... kj dhaid KZiZi_Zl. XXX
+// Malrot1 perso61
+L14D119A
+ CjifZgdnw! Vnj njsij jid! XXX
+// Malrot1 (vengeful) perso61
+L14D119B
+ Gid cZkgZn|n mkjgiZ! XXX
+// Arkhan2 L perso2
+L14D121
+ X _ohZz, KZiZi_Zl maesZm ^_a-nj ] mnZggZena. XXX
+// Malrot1 perso61
+L14D122A
+ Hlj]d_ar? A cZj_ij m fjifZgdnZhd? XXX
+// Malrot1 perso61
+L14D122B
+ Hlj]d_ar, c_amx? Gi jtd[m| Z_lamjh! XXX
+// Arkhan2 L perso2
+L14D198A
+ Kw ia kj]aldtx! Gi [jgxta ia sagj]af. XXX
+// Arkhan2 L perso2
+L14D198B
+ #lqdmouijmnx QZiflZ cZ[lZgZ a^j nagj. JaesZm ji lwuan ]j ElZfa kj_j[ij flwma ] fZiZgdcZrdd. XXX
+// Arkhan2 L perso2
+L14D198C
+ A ji qjsan m^o[dnx iZm! XXX
+// Malrot1 perso61
+L14D199
+ CZf ji ]w^g|_dn, ynjn n]je qj_|sde fjthZl? XXX
+// Arkhan2 L perso2
+L14D198D
+ G^ljhiwe, ] o^jgxij-s~lije mnZgxije [ljia. XXX
+// Arkhan2 L perso2
+L14D198E
+ Hj]alx hia, ob gosta _lZnxm| m mjniae fjifZgdnj] ^jgwhd lofZhd, sah dhanx _agj m KZiZi_Zljh! XXX
+// Arkhan2 L perso2
+L14D200
+ $ala^dmx KZiZi_ZlZ! XXX
+// Arkhan2 L perso2
+L14D242
+ $o_x iZsafo! XXX
+// Malrot1 perso61
+L14D201
+ Homnx n]j| olj_gd]Z| ^jgj]Z cZ hai| ia [jgdn, | kjcZ[jsomx j ma[a mZh. XXX
+// Arkhan2 O perso2
+L14D277
+ Fa alakaixm|. <mgd nw nZfje flonje, nj kjsaho _ljbdtx, fZf gdmn? XXX
+// Malrot1 perso61
+L14D278
+ Kw kjbZgaatx, snj mfZcZg ynj! XXX
+// Arkhan2 G perso2
+L14D123
+ HjmgotZe hai|, homjludf... XXX
+// Malrot1 perso61
+L14D124
+ FZh ia j sah ^j]jldnx, kjfZ yno tnofo ia o[al~tx! XXX
+// Arkhan2 L perso2
+L14D125A
+ IZmmgZ[xm|, _lo^! XXX
+// Arkhan2 L perso2
+L14D125B
+ X ijto jlobda, snj[w cZudndnx ma[|. CZf d nw. XXX
+// Malrot1 perso61
+L14D126
+ X lZmmgZ[gzmx, fj^_Z nw o[al~tx yno tnofo ] tnZiw, om~f?! XXX
+// Arkhan2 O perso2
+L14D127
+ JgotZe, hlZcx. A fnj cZmnZ]dn hai| ynj o[lZnx? XXX
+// Malrot1 perso61
+L14D130
+ Ve, fZf qjsatx. Ejbatx ia o[dlZnx. XXX
+// Arkhan2 G perso2
+L14D129
+ Ve, ciZatx, snj ynj nZfja? XXX
+// Malrot1 perso61
+L14D131
+ Fan, d fnj nw nZfje, | njba ia ciZz! XXX
+// Arkhan2 G perso2
+L14D144
+ Njsatx kljhjsdnx ^jlgj? XXX
+// Malrot1 perso61
+L14D133
+ Pnj o na[| non? XXX
+// Malrot1 perso61
+L14D135
+ &jn ynj oba lZc^j]jl! XXX
+// Malrot1 (after tasting something disgusting) perso61
+L14D175A
+ Mo, snj ynj cZ hjsZ?! XXX
+// Malrot1 perso61
+L14D175B
+ L[ald ynj! Mo... XXX
+// Arkhan2 G perso2
+L14D134
+ Njsatx kjklj[j]Znx au~? XXX
+// Malrot1 perso61
+L14D136
+ JkZmd[j, ia iZ_j. X mfjlaa ]wkxz [jsfo flwmdije hjsd, sah yno _l|ix! XXX
+// Arkhan2 L perso2
+L14D162
+ &j_Z, ^l|cx, kakag... fjfnaegx homjludfZ! XXX
+// Arkhan3 L perso3
+L14D279
+ EoniZ| ]j_Z... XXX
+// Arkhan2 G perso2
+L14D258
+ <mgd _jnljiomx, kjnal|z lofo! XXX
+// Arkhan3 G perso3
+L14D259
+ Fan! <mgd nljio, kjnal|z lofo! XXX
+// Arkhan2 G perso2
+L14D260
+ GiZ cZ^gjqgZ. XXX
+// Arkhan3 G perso3
+L14D261
+ Fa lZ[jnZan [jgxta. XXX
+// Arkhan2 G perso2
+L14D262
+ >ZlZ[jnZgZ ]ij]x! XXX
+// Arkhan3 G perso3
+L14D264
+ IZ[jnZan! XXX
+// Arkhan2 G perso2
+L14D275A
+ J kjhjuxz yndq haqZidchj] d nljmj] +Zildm cZkomfZg hZtdiw. XXX
+// Arkhan2 G perso2
+L14D275B
+ X idfj^_Z ia kjidhZg, fZf ]m~ ynj lZ[jnZan... XXX
+// Arkhan3 G perso3
+L14D276A
+ J kjhjuxz ynj^j +Zildm cZkomfZg hZtdiw. XXX
+// Arkhan3 G perso3
+L14D276B
+ X idfj^_Z ia kjidhZg, fZf... XXX
+// Arkhan2 G perso2
+L14D238
+ A_~h, kj_idhahm| iZ kgZnpjlha. XXX
+// Arkhan3 G perso3
+L14D239
+ A_~h ] &alqide ^jlj_. XXX
+// Delia perso10
+L14D240
+ Hje_~h. X cZ nj[je mga_jh. XXX
+// Delia (Arkhan shows her an object) perso10
+L14D241A
+ #lqZi, _Z]Ze miZsZgZ ofljahm| ] &alqiah ^jlj_a. XXX
+// Delia perso10
+L14D241B
+ >_amx mnZgj bZlfj]Znj! XXX
+// Arkhan2 G (Delia or Kalhi hits him) perso2
+L10D93
+ L na[| id a_dij^j tZimZ, _anfZ! XXX
+// Arkhan3 G (Delia or Kalhi hits him) perso3
+L10D94
+ Kw oba dmnjld|, _anfZ! XXX
+// Delia (hit by Arkhan) perso10
+L10D95
+ Fan! Kw mk|ndg? N]Zndn! XXX

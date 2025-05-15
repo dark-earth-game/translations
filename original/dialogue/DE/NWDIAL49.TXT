@@ -1,0 +1,196 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL49.TXT
+ // Arkhan2 O perso2
+L03D523
+ Ich werd' Dir zeigen, wo's lang geht! XXX
+// Arkhan3 O perso3
+L03D525
+ Ich werd' Dir schon zeigen, wo's lang geht! XXX
+// Kalhi perso13
+L49D01
+ Laß mich los! Ich hab' Dich nicht bestohlen! XXX
+// Malrot8 (zieht seinen Dolch aus der Scheide) perso68
+L49D02A
+ Mit dem werd' ich Dich gleich mal ein bißchen kitzeln! XXX
+// Malrot8 (vor Kalhis Leiche) perso68
+L49D03A
+ Jetzt mußt Du kleinbei geben, miese Schlampe! XXX
+// Malrot8 perso68
+L49D03B
+ Du kommst zu spät, Rattengesicht: Ich hab' sie schon kaltgemacht! XXX
+// Malrot8 perso68
+L49D03C
+ Kommt näher, es juckt mir in den Fingern! XXX
+// Malrot8 perso68
+L49D04
+ Da bist Du ja schon wieder! Kämpf um Dein Leben, mieser Feigling! XXX
+// Dhorkan perso11
+L49D05
+ Komm näher, Arkhan! Beenden wir diese Angelegenheit ein für allemal! XXX
+// Dhorkan (streitsüchtig) perso11
+L49D06A
+ Nur Du und ich, Arkhan! XXX
+// Dhorkan perso11
+L49D06B
+ Komm näher, regeln wir diese Angelegenheit ein für allemal! XXX
+// Arkhan2 G perso2
+L49D38
+ Dhorkan hatte den Schlüssel! XXX
+// Arkhan3 G perso2
+L49D39
+ Dhorkan hatte den Schlüssel! XXX
+// Malrot8 perso68
+L49D02B
+ Gleich wirst Du nicht mehr umsonst schreien, das kannst Du mir glauben! XXX
+// Malrot8 (hat sich mit K. geschlagen und sieht A. ankommen) perso68
+L49D40
+ Das Tier eilt der Schönen zu Hilfe! XXX
+// Arkhan2 G (sieht Dhorkan) perso2
+L49D07
+ Dhorkan! XXX
+// Arkhan3 G (sieht Dhorkan) perso3
+L49D08
+ Dhorkan! XXX
+// Dhorkan (überrascht und wütend) perso11
+L49D09
+ Arkhan! Gibst Du denn nie auf!? XXX
+// Arkhan2 G perso2
+L49D10
+ Beruhige Dich, das ist das letzte Mal! Du wirst sterben, elender Verräter! XXX
+// Arkhan3 G perso3
+L49D11
+ Ich mache Dich fertig! XXX
+// Dhorkan perso11
+L49D12A
+ Mich willst Du umbringen, Du Dreckskerl? XXX
+// Dhorkan (zieht die Waffe aus der Scheide)perso11
+L49D12B
+ Dann komm doch und hol mich! XXX
+// Kalhi perso13
+L49D14
+ Danke, Arkhan, jetzt stehe ich wirklich in Deiner Schuld! XXX
+// Arkhan2 L (besorgt)perso2
+L49D15
+ Kalhi! Warum hast Du Dein Leben aufs Spiel gesetzt? XXX
+// Arkhan2 O (wütend)perso2
+L49D16
+ Du bist völlig verrückt! Du hättest sterben können! XXX
+// Arkhan3 L (besorgt)perso3
+L49D17
+ Du hättest sterben können! XXX
+// Arkhan3 O (wütend)perso3
+L49D18
+ Verdammt, Du bist völlig verrückt! XXX
+// Kalhi perso13
+L49D19A
+ Ich wollte etwas mit ihm tauschen! XXX
+// Kalhi perso13
+L49D19B
+ Ich konnte doch nicht ahnen, daß er versuchen würde, mich zu bestehlen. XXX
+// Arkhan2 G perso2
+L49D20
+ Und was wolltest Du eintauschen? XXX
+// Arkhan3 G perso3
+L49D21
+ Was wolltest Du tauschen? XXX
+// Kalhi perso13
+L49D22A
+ Einen kleinen Blitz ... Er funktioniert noch. XXX
+// Kalhi perso13
+L49D22B
+ Er war für Dich, ich schenk' ihn Dir! XXX
+// Arkhan2 L perso2
+L49D23A
+ Danke. Er wird mir sicher sehr nützlich sein. XXX
+// Arkhan2 L perso2
+L49D23B
+ Aber in Zukunft setzt Du Dein Leben nicht mehr aufs Spiel wie Du es eben getan hast! XXX
+// Arkhan2 O perso2
+L49D24A
+ Und dafür hast Du unser beider Leben aufs Spiel gesetzt! XXX
+// Arkhan2 O perso2
+L49D24B
+ Beim nächsten Mal bleibst Du brav bei Danrys, hast Du verstanden? XXX
+// Arkhan3 L perso3
+L49D25
+ Danke. Aber paß auf Dich auf ... XXX
+// Arkhan3 O perso3
+L49D26
+ Dafür? Beim Sonnengott, er hätte Dich umbringen können ... Für so eine Kleinigkeit?! XXX
+// Kalhi perso13
+L49D27
+ Verstanden! Ich gehe jetzt brav wie ein Lamm nach Hause. XXX
+// Kalhi (verärgert, weint beinahe) perso13
+L49D28
+ Wie schön, daß Du Dir solche Sorgen um mich machst! XXX
+// Arkhan2 G (hat Dhorkan getötet) perso2
+L49D42
+ Das war Dein letzter Fehler, Dhorkan! XXX
+// Arkhan3 G (hat Dhorkan getötet) perso3
+L49D43
+ Es ist aus, Dhorkan! XXX
+// Malrot8 (A. hat Kalhi getötet) perso68
+L49D41A
+ Ich hätte der Kleinen gerne selbst die Kehle durchgeschnitten! XXX
+// Malrot8 perso68
+L49D41B
+ Da werd' ich wohl mit Dir Vorlieb nehmen müssen! XXX
+// Arkhan2 G perso2
+L49D29
+ Kalhi, ist alles in Ordnung? XXX
+// Arkhan3 G perso3
+L49D30
+ Kalhi? XXX
+// Kalhi (alarmiert)perso13
+L49D31
+ Arkhan, paß auf! XXX
+// Arkhan2 G perso2
+L49D47A
+ Kalhi, nein ... XXX
+// Arkhan2 G perso2
+L49D47B
+ Aber warum nur?! XXX
+// Arkhan3 L perso3
+L49D48
+ Kalhi, nein ... XXX
+// Kalhi (verängstigt) perso13
+L10D107
+ Hör auf! XXX
+// Kalhi (unruhig) perso13
+L10D106
+ Arkhan! Beruhig Dich doch! XXX
+// Dhorkan (Arkhan flüchtet) perso11
+L49D46
+ Erbärmlicher Feigling! XXX
+// Arkhan2 L perso2
+L49D32A
+ Nein, ich bin auch nicht besser als die anderen! XXX
+// Arkhan2 L perso2
+L49D32B
+ Es ist noch nie jemandem gelungen, diese Tür zu öffnen. XXX
+// Arkhan2 O perso2
+L49D33
+ Die Verwunschene Tür! Niemand hat sie je aufbekommen! XXX
+// Arkhan3 L perso3
+L49D34
+ Nein ... Niemand hat sie je aufbekommen ... XXX
+// Arkhan3 O perso3
+L49D35
+ Sie geht nicht auf! XXX
+// Arkhan2 G perso2
+L49D36
+ In der Büchse ist eine Art Schlitz. XXX
+// Arkhan3 G perso3
+L49D37
+ Da ist ein Schlitz in der Büchse ... XXX
+// Arkhan2 G perso2
+L49D44
+ Nichts zu machen, die Tür ist zu! XXX
+// Arkhan3 G perso3
+L49D45
+ Die ist zu! XXX
+// Arkhan2 G perso2
+L49D49
+ Nichts als Rohrleitungen ! XXX
+// Arkhan3 G perso3
+L49D50
+ Rohrleitungen! XXX

@@ -1,0 +1,73 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL30.TXT
+ // Arkhan2 G (hearing someone sneeze)perso2
+L30D05
+ What was that? XXX
+// Arkhan3 G (hearing someone sneeze)perso3
+L30D06
+ Huh? XXX
+// Konkalite5 (going to attack Arkhan) perso75
+L30D01
+ Walkies are over! XXX
+// Konkalite2 (attacking A.) perso72
+L30D02
+ Lost your way? Come to papa! XXX
+// Arkhan2 G (speaking inside helmet)perso2
+L30D16
+ This contraption is too heavy, gotta take it off! XXX
+// Arkhan3 G (speaking inside helmet)perso3
+L30D17
+ Too heavy, gotta take it off. XXX
+// Arkhan2 G (speaking inside helmet)perso2
+L31D83A
+ I can't dive. XXX
+// Arkhan2 G perso2
+L31D83B
+ No more air in the tank. XXX
+// Arkhan2 G perso2
+L31D83C
+ Need to find a way to fill it... XXX
+// Arkhan3 G (speaking inside helmet)perso3
+L31D84A
+ Can't dive... XXX
+// Arkhan3 G perso3
+L31D84B
+ No air in tank. XXX
+// Arkhan3 G perso3
+L31D84C
+ Have to fill it... XXX
+// Arkhan2 L perso2
+L31D85A
+ Too deep. XXX
+// Arkhan2 L perso2
+L31D85B
+ If I jump in, I'll drown! XXX
+// Arkhan2 O perso2
+L31D86
+ No! I'm gonna sink like a rock! XXX
+// Arkhan3 L perso3
+L31D87
+ No, it's too deep...  XXX
+// Arkhan3 O perso3
+L31D88
+ I'll drown! XXX
+// Arkhan2 L perso2
+L30D11
+ Take it easy, I'm a friend! XXX
+// Arkhan2 O perso2
+L30D12
+ Let me past or I'm gonna rip your head off! XXX
+// Arkhan3 G perso3
+L30D13
+ Stand aside or die! XXX
+// Arkhan2 G perso2
+L30D07
+ Nothing... and the water's really cold. XXX
+// Arkhan3 G perso3
+L30D08
+ Nothing... and it's cold! XXX
+// Arkhan2 G perso2
+L30D09
+ It's cold and slimy. XXX
+// Arkhan3 G perso3
+L30D10
+ Cold and slimy. XXX

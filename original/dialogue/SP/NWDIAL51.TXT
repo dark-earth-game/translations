@@ -1,0 +1,97 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\SP\NWDIAL51.TXT
+ // Arkhan2 G (acaba de escapar de una explosión) perso2
+L51D17
+ ¡Guau! XXX
+// Arkhan3 G (acaba de escapar de una explosión) perso3
+L51D18
+ ¡Guau! XXX
+// Arkhan2 G (estupefacto) perso2
+L51D01A
+ Increíble... XXX
+// Arkhan2 G (estupefacto) perso2
+L51D01B
+ El pozo ha desaparecido... XXX
+// Arkhan3 G (estupefacto) perso3
+L51D02A
+ Increíble... XXX
+// Arkhan3 G perso3
+L51D02B
+ El pozo... arrasado... XXX
+// Arkhan2 G perso2
+L51D107
+ EL pórtico entero ha sido arrasado. XXX
+// Arkhan3 G perso3
+L51D108
+ Todo el pórtico... arrasado... XXX
+// Arkhan2 L perso2
+L51D03
+ Falta una pala... Es inútil... XXX
+// Arkhan3 L perso3
+L51D04
+ Falta una pala... Inutilizable... XXX
+// Arkhan2 G perso2
+L51D100A
+ La hélice que coronaba el pozo...     XXX
+// Arkhan2 G perso2
+L51D100B
+ La explosión la ha arrancado. XXX
+// Arkhan3 G perso3
+L51D101A
+ La hélice de encima del pozo... XXX
+// Arkhan3 G perso3
+L51D101B
+ Arrancada por la explosión... XXX
+// Arkhan2 O perso2
+L51D05
+ ¡Está destruida, inutilizada! XXX
+// Arkhan3 O perso3
+L51D06
+ ¡Inutilizada! XXX
+// Arkhan2 L (vacila como un paracaidista principiante) perso2
+L51D07
+ ¡No...! ¡Si salto, voy a matarme! XXX
+// Arkhan3 L (vacila como un paracaidista principiante) perso3
+L51D08
+ ¡No...! ¡Salto, y estoy muerto! XXX
+// Arkhan2 O (decide saltar) perso2
+L51D09
+ ¡Después de todo, no tengo nada que perder! XXX
+// Arkhan3 O (decide saltar) perso3
+L51D10
+ ¡Algún día hay que morir! XXX
+// Arkhan2 G perso2
+L51D111
+ El calor es demasiado fuerte, no puedo avanzar. XXX
+// Arkhan3 G perso3
+L51D112
+ ¡Qué calor! No puedo acercarme... XXX
+// Arkhan2 G (ha arreglado la hélice) perso2
+L51D13
+ Lo he conseguido, está reparada. XXX
+// Arkhan3 G (ha reparado la hélice) perso3
+L51D14
+ Está arreglada. XXX
+// Arkhan2 G (examina su reparación) perso2
+L51D15
+ Espero que esto resista. XXX
+// Arkhan3 G (examina su reparación) perso3
+L51D16
+ Ojalá resista. XXX
+// Arkhan2 G perso2
+L51D113
+ La plataforma está totalmente destruida. XXX
+// Arkhan3 L perso3
+L51D114
+ La plataforma... destruida. XXX
+// Arkhan2 G perso2
+L51D103
+ Nada más que piedras... XXX
+// Arkhan3 G perso3
+L51D104
+ Nada más que un montón de piedras... XXX
+// Arkhan2 G perso2
+L51D105
+ Está completamente en ruinas. XXX
+// Arkhan3 G perso3
+L51D106
+ Completamente demolido. XXX

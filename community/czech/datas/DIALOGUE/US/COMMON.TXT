@@ -1,0 +1,811 @@
+// DIALOGUES COMMON.TXT
+// Dial libre : LCOD96
+
+	// Dialogues trouvés dans le dispache.c
+// Arkhan2 L perso2
+L25D79
+ Ne, klíc není ùplný. XXX
+
+// Arkhan3 L perso3
+L25D82
+ Klíc není ùplný! XXX
+
+// Arkhan2 G (spricht unter seinem Helm)perso2
+L31D83A
+ Já se nemohu potopit. XXX
+
+// Arkhan2 G perso2
+L31D83B
+ Není zádný vzduch v kyslíkove flašce. XXX
+
+// Arkhan2 G perso2
+L31D83C
+ Musím nejaký prostredek najít, k naplnení... XXX
+
+
+				// VERSUCHT, AUS EINEM LEEREN BEHÄLTER ZU TRINKEN //
+
+// Arkhan1 G
+LCOD41
+Ani jeden hlupák navíc! XXX
+
+// Arkhan2 G
+LCOD42
+Uvnitr není nic! XXX
+
+// Arkhan3 G
+LCOD43
+Prázdný! XXX
+
+
+				// TAUCHERANZUG (WILL IHN NICHT ANZIEHEN) //
+
+// Arkhan2 G
+LCOD666
+Zde se neobleknu! XXX
+
+// Arkhan3 G
+LCOD667
+Zde ne! XXX
+
+				// TAUCHERANZUG (ZIEHT IHN AUS DEM WASSER) //
+
+// Arkhan2 G (holt tief Luft)
+LCOD668
+Ach, vzduch, konecne! XXX
+
+// Arkhan3 G (holt tief Luft)
+LCOD669
+Ach, vzduch! XXX
+
+
+				// TAUCHERANZUG (WILL IHN IM WASSER AUSZIEHEN) //
+
+// Arkhan2 G 
+LCOD670
+Ne, pod vodou se nesvleknu ... XXX
+
+// Arkhan3 G
+LCOD671
+Ne, ne pod vodou. XXX
+
+
+				// TAUCHERANZUG (ARKHAN SETZT DEN HELM NICHT AUF) //
+
+// Arkhan2 G 
+LCOD672
+Ne, to já nepotøebuji ... S tím já uvnitø nic neuvidím. XXX
+
+// Arkhan3 G
+LCOD673
+Ne... príliš tezke... A krome toho já nic neuvidím... XXX
+
+
+				// TAUCHERANZUG (ARKHAN LEGT DEN BRUSTHARNISCH NICHT AN) //
+
+// Arkhan2 G 
+LCOD674
+Ne, to je príliš velke ... S tím já pùjdu pomalu. XXX
+
+// Arkhan3 G
+LCOD675
+Ne... Príliš velke ... XXX
+
+
+
+
+
+						// OBJEKT 49 - VERTRAG DHORKAN-SORDOS //
+// Arkhan2 G
+LCOD02A
+Já, Dhorkan, skládám u ohne, zeleza a u krve prísahu, smeákovi Sordosovi a jeho Muzùm, Konkalitùm, mojí ochranu poskytnout. XXX
+
+// Arkhan2 G
+LCOD02B
+Já budu tajemství skrýše Konkalitù uchovávat a starat se o to, aby Strázci ohne jej neobjevili. XXX
+
+// Arkhan2 G
+LCOD02C
+Konkaliti mohou se ve Spodním meste  volne pohybovat a obchodovat, ovšem nesmí zádnou krev prolevat, nebo knezí napadat. XXX
+
+// Arkhan2 G
+LCOD02D
+Já, Sordos, prísahám u ohne, zeleza a krve, moje muze do sluzeb Profosta Dhorkana postavit. XXX
+
+// Arkhan2 G
+LCOD02E
+Konkaliti jsou povinni jemu, hlavne zavázaností tak jako my, rušící se, kdyz jemu nebo Stallitu uškodí. XXX
+
+// Arkhan2 G
+LCOD02F
+Oni nebudou zádnou jinou krev prolévat, než pouze jejich neprátel a neprátel Stalittu. XXX
+
+// Arkhan2 G (er sagt es nur einmal)
+LCOD02G
+To je pece Profose! XXX
+
+// Arkhan2 G (er sagt es nur einmal)
+LCOD02H
+Tato šílenost mne s Konkality spojuje. On nás zradil! XXX
+
+// Arkhan3 G
+LCOD03A
+Já, Dhorkan, skládám u ohne, zeleza a u krve prísahu, smeákovi Sordosovi a jeho Muzùm, Konkalitùm, mojí ochranu poskytnout. XXX
+
+// Arkhan3 G
+LCOD03B
+Já budu tajemství skrýše Konkalitù uchovávat a starat se o to, aby Strázci ohne jej neobjevili. XXX
+
+// Arkhan3 G
+LCOD03C
+Konkaliti mohou se ve spodním meste volne pohybovat a obchodovat, nesmí ale zádnou krev prolévat nebo knezí napadnat. XXX
+
+// Arkhan3 G
+LCOD03D
+Já, Sordos,prísahám u ohne, zeleza a krve, moje muze do sluzeb Profosta Dhorkana postavit. XXX
+
+// Arkhan3 G
+LCOD03E
+Konkaliti jsou povinni jemu hlavne zavázaností tak jako my, rušící se, když jemu nebo Stallitu uškodí. XXX
+
+// Arkhan3 G
+LCOD03F
+Oni nebudou zádnou jinou krev prolévat, nez pouze jejich nepøátel a nepøátel Stalittu. XXX
+
+
+// Arkhan3 G (er sagt es nur einmal)
+LCOD03G
+To je pece Dhorkana! XXX
+
+// Arkhan3 G (er sagt es nur einmal)
+LCOD03H
+Tato šílenost nás spojuje! XXX
+
+
+						// OBJEKT 50 - PLAN DES FEUERWERFERS - //
+
+Arkhan2 G
+LCOD88
+To je plán nejaké velké zbranì, druh velké ohòové pušky. XXX
+
+Arkhan3 G
+LCOD89
+Vypadá jako plán nejaké zbrane. XXX
+
+
+
+						// OBJEKT 52 - STANDORT DER GRABSTÄTTE //
+
+// Die ersten drei Einsätze entsprechend Arkhans Zustand auswählen (100A-100D oder 101A-101D)
+// Dann geht es mit Rylsadhars Stimme weiter (102A-102D)
+// Schließlich beendet Arkhan einen Satz entsprechend seines Zustandes (103 oder 104)
+
+// Arkhan2 G (lesend)
+LCOD100A
+"Bádání po stanovišti a vchodu k vysnené hrobce rumište Stallitu Sparta, od Rylsadhara, zasvecené domu Thorgradovu ..." XXX
+
+// Arkhan2 G (zu sich selbst)
+LCOD100B
+Copak je to za nesmysl? XXX
+
+// Arkhan2 G (lesend)
+LCOD100C
+"Tajemství vchodu hrobky Runka se od velke katastrofy zapomnelo. XXX
+
+// Arkhan2 G (lesend - seine Stimme wird mit LCOD999 vermischt, d.h. demselben Satz, von Rylsadhar gesprochen)
+LCOD100D
+Všechno bylo zpustošeno, dokonce Zeme sama. XXX
+
+// Arkhan3 G (lesend)
+LCOD101A
+"Bádání po stanovišti a vchodu k vysnené hrobce rumište Stallitu Sparta, od Rylsadhara, zasvecené domu Thorgradovu ..." XXX
+
+// Arkhan3 G (zu sich selbst)
+LCOD101B
+Copak je to za nesmysl? XXX
+
+// Arkhan3 G (lesend)
+LCOD101C
+"Tajemství vchodu hrobky Runka se od velké katastrofy zapomnelo. XXX
+
+// Arkhan3 G (lesend - seine Stimme wird mit LCOD999 vermischt, d.h. demselben Satz, von Rylsadhar gesprochen)
+LCOD101D
+Všechno bylo zpustošeno, dokonce Zeme sama. XXX
+// Rylsadhar (vermischt mit Arkhans Stimme in LCOD100D oder LCOD101D)
+LCOD999
+Všechno bylo zpustošeno, dokonce Zeme sama. XXX
+
+// Rylsadhar
+LCOD102A
+Našel jsem rukopis od Thelena Khrona, který jako zakladatel Sparty, stavbu Stallitu na stanovišti hrobky nechal provest. XXX
+
+// Rylsadhar
+LCOD102B
+Na základe rozhodnutí z jeho tajemne knihy a meho vlastního pátrání myslím já dnes, ze se hrobka u našich nohou nachází, prímo pod Spartou. XXX
+
+// Rylsadhar
+LCOD102C
+Thelen Khron ríká, ze zasvecený, který do hrobky v krocí, Runkovi musí dokázatjeho vernost, zatím co on rituální Mantru recituje. XXX
+
+// Rylsadhar
+LCOD102D
+Mùj preklad vydává následující: " Runka/Syn svetla prichází od Slunce/z hvezdy, aby ohrozil Shankr/znicí svet k záchrane". XXX
+
+// Rylsadhar
+LCOD102E
+Prece je prístup ke dverím hrobky ješte neznámý. Strachuju se, ze se za velke katastrofy zasypal a ze nám vchod k hrobce Syna svetla je zapovezen ... XXX
+
+// Rylsadhar
+LCOD102F
+V tomto prípade by melo být,  ze budeme hodinu procitnutí ocekávat, pozorovat posla svetla, který bdí nad nocí sveta". XXX
+
+// Arkhan2 G (zu sich selbst)
+LCOD103
+To je hrobka, o ktere mi Lory vyprávela! XXX
+
+// Arkhan3 G (zu sich selbst)
+LCOD104
+Hrobka, o ktere mi Lory vyprávela! XXX
+
+
+
+					// OBJEKT 70 - BANDORS PLAN - //
+
+Arkhan2 G
+LCOD90
+Karta stavitelù, s plány vysoke veze. XXX
+
+Arkhan3 G
+LCOD91
+Plán stavitelù s nejakým typem veze. XXX
+
+
+
+					// OBJEKT 81 - RYLSADHARS CODE//
+// Arkhan2 G
+LCOD23A
+Podívejme se, co tu stojí ... XXX
+
+// Arkhan2 G
+LCOD23B
+"Pokud ty cestu k nebeske hudbe hledáš." XXX
+
+// Arkhan2 G
+LCOD23C
+"Jdi trikrát vpravo ve smeru Slunecního Boha." XXX
+
+// Arkhan2 G
+LCOD23D
+"Pak dvakrát doprava, k mesíci, jeho vyslance, ctít." XXX
+
+// Arkhan2 G
+LCOD23E
+"A konecne jednou doprava, Temne Zemi v noci se vyvarovat." XXX
+
+// Arkhan2 G
+LCOD23F
+"Tak ty cestu najdeš, která te k svatemu místu vecných dnù zavede." XXX
+
+// Arkhan2 G
+LCOD23G
+Pfff, kdyz napadne kneze psát nesmysly ... XXX
+
+
+// Arkhan3 G
+LCOD24A
+Podívejme my se na to ... XXX
+
+// Arkhan3 G
+LCOD24B
+"Pokud ty cestu k nebeske hudbe hledáš." XXX
+
+// Arkhan3 G
+LCOD24C
+"Jdi trikrát vpravo ve smeru Slunecního Boha." XXX
+
+// Arkhan 3 G
+LCOD24D
+"Pak dvakrát doprava, k mesíci, jeho vyslance, ctít." XXX
+
+// Arkhan3 G
+LCOD24E
+" A konecne jednou doprava, Temne Zemi v noci se vyvarovat." XXX
+
+// Arkhan3 G
+LCOD24F
+"Tak ty cestu najdeš, která te k svatemu místu vecných dnù zavede." XXX
+
+// Arkhan3 G
+LCOD24G
+Já tomu nerozumím ... XXX
+
+
+
+					// ORTSERKUNDUNG //
+
+// Arkhan1 G (vor einem leeren Möbelstück/einer leeren Truhe)
+LCOD06
+Nic zajímaveho. XXX
+
+// Arkhan1 G (vor einem leeren Möbelstück/einer leeren Truhe)
+LCOD06A
+To není nic zajímaveho. XXX
+
+// Arkhan2 G (vor einem leeren Möbelstück/einer leeren Truhe)
+LCOD07
+Nic zajímaveho. XXX
+
+// Arkhan2 G (vor einem leeren Möbelstück/einer leeren Truhe)
+LCOD07A
+Nic zajímaveho. XXX
+
+// Arkhan3 G (vor einem leeren Möbelstück/einer leeren Truhe)
+LCOD08
+Nic. XXX
+
+
+
+// Arkhan1 G (vor einem leeren Container)
+LCOD09
+Zde není nic zajímaveho. XXX
+
+// Arkhan1 G (vor einem leeren Container)
+LCOD09A
+Tu není nic zajímaveho. XXX
+
+// Arkhan2 G (vor einem leeren Container)
+LCOD10
+Nic potrebneho. XXX
+
+// Arkhan2 G (vor einem leeren Container)
+LCOD10A
+Nic potrebneho. XXX
+
+// Arkhan3 G (vor einem leeren Container)
+LCOD11
+Nic. XXX
+
+
+
+// Arkhan1 G (vor einer Truhe/einer verschlossenen Tür)
+LCOD12
+Zamceno. XXX
+
+// Arkhan1 G (vor einer Truhe/einer verschlossenen Tür)
+LCOD12A
+Zamceno. XXX
+
+// Arkhan2 G (vor einer Truhe/einer verschlossenen Tür)
+LCOD13
+Zamceno! XXX
+
+// Arkhan2 G (vor einer Truhe/einer verschlossenen Tür)
+LCOD13A
+Zamceno! XXX
+
+// Arkhan3 G (vor einer Truhe/einer verschlossenen Tür)
+LCOD14
+Zamceno! XXX
+
+// Arkhan1 G (versucht ärgerlich, die Truhe/Tür zu öffnen)
+LCOD15
+Nic se nedá delat, zamceno! XXX
+
+// Arkhan2 G (versucht ärgerlich, die Truhe/Tür zu öffnen)
+LCOD16
+Proklate, zamceno! XXX
+
+// Arkhan3 G (versucht ärgerlich, die Truhe/Tür zu öffnen)
+LCOD17
+(Knurren) Zamceno! XXX
+
+
+				// FINDET NICHTS (AUF GEGENSTAND) //
+
+Arkhan1 G
+LCOD75
+Zde nic není k vyzvednutí. XXX
+
+Arkhan1 G
+LCOD75A
+Zde nic není k vyzvednutí. XXX
+
+Arkhan2 G
+LCOD76
+Zde nic není k vyzvednutí. XXX
+
+Arkhan2 G
+LCOD76A
+Zde nic není k vyzvednutí. XXX
+
+Arkhan3 G
+LCOD77
+Nic potrebneho. XXX
+
+
+				// NICHTS MEHR ZU HOLEN //
+
+Arkhan1 G
+LCOD78
+Nic více k vyzvednutí. XXX
+
+Arkhan1 G
+LCOD78A
+Nic více k vyzvednutí. XXX
+
+Arkhan2 G
+LCOD79
+Nic více k vyzvednutí. XXX
+
+Arkhan2 G
+LCOD79A
+Nic více k vyzvednutí. XXX
+
+Arkhan3 G
+LCOD80
+Nic. XXX
+
+
+
+
+
+					// INTERAKTION MIT PERSONEN //
+
+
+// Arkhan2 G (zeigt auf einen Gegenstand)
+LCOD18
+Jseš ty s tím seznámen? XXX
+
+// Arkhan2 G (zeigt auf einen Gegenstand)
+LCOD18A
+Jseš ty s tím seznámen? XXX
+
+// Arkhan3 G (zeigt auf einen Gegenstand)
+LCOD19
+Znáš to? XXX
+
+					// BEDANKT SICH (im allgemeinen im LICHTMODUS) //
+
+// Arkhan2 G
+LCOD64
+Dekuji. XXX
+
+// Arkhan3 G
+LCOD65
+Dekuji. XXX
+
+
+					// SPRICHT WÄHREND DES KAMPFES, LICHTMODUS //
+
+// Arkhan2 L (versucht, einen Gegner zu beruhigen)
+LCOD20
+Hej, v klidu! XXX
+
+// Arkhan2 L (versucht, einen Gegner zu beruhigen)
+LCOD20A
+Hej, v klidu! XXX
+
+// Arkhan3 L (versucht, einen Gegener zu beruhigen)
+LCOD21
+Klídek! XXX
+
+// Arkhan3 G (knurrt)
+LCOD22A
+(aggressives Knurren) XXX
+
+// Arkhan3 G (knurrt)
+LCOD22B
+(Knurren) XXX
+
+// Arkhan3 G (knurrt)
+LCOD22C
+(wütendes Knurren) XXX
+
+// Arkhan3 G (knurrt)
+LCOD22D
+(herausforderndes Knurren) XXX
+
+
+
+
+					// SPRICHT WÄHREND DES KAMPFES, SCHATTENMODUS //
+
+// Arkhan2 O (beleidigt seinen Gegner)
+LCOD61
+Nauc se nejprve bojovat, bídný cerve! XXX
+
+// Arkhan2 O (beleidigt seinen Gegner)
+LCOD62
+To je všechno, co ty znáš? XXX
+
+// Arkhan3 O (beleidigt seinen Gegner)
+LCOD63
+Kouká ti smrt z obliceje! XXX
+
+
+
+					// INTERAKTION MIT DEM DEKOR //
+
+
+// Arkhan1 G (vor einem Gegenstand, den er nicht benutzen möchte)
+LCOD25
+Nemám cas, s tím se zabývat! XXX
+
+// Arkhan2 G (vor einem Gegenstand, den er nicht benutzen möchte)
+LCOD26
+Nemám cas na ztrácení! XXX
+
+// Arkhan2 G (vor einem Gegenstand, den er nicht benutzen möchte)
+LCOD26A
+Nemohu ztrácet cas! XXX
+
+// Arkhan3 G (vor einem Gegenstand, den er nicht benutzen möchte)
+LCOD27
+Nesmím ztrácet cas! XXX
+
+
+
+// Arkhan1 G (hat keine Zeit, sich zu setzen, hinzulegen usw.)
+LCOD28
+Myslím, ze jsem jiz dlouho odpocíval! XXX
+
+// Arkhan2 G (hat keine Zeit, sich zu setzen, hinzulegen usw.)
+LCOD29
+Ne, nemám cas odpocívat. XXX
+
+// Arkhan3 G (hat keine Zeit, sich zu setzen, hinzulegen usw.)
+LCOD30
+Nemám cas, si odpocinout! XXX
+
+
+
+// Arkhan1 G (schafft es nicht, eine Handlung auszuführen)
+LCOD31
+To já neudelám. XXX
+
+// Arkhan2 G (schafft es nicht, eine Handlung auszuführen)
+LCOD32
+To já neudelám. XXX
+
+// Arkhan3 G (schafft es nicht, eine Handlung auszuführen)
+LCOD33
+To já neudelám. XXX
+
+
+// Arkhan1 G (bastelt an etwas herum, das nicht funktioniert)
+LCOD38
+Není to funkcní. XXX
+
+// Arkhan2 G (bastelt an etwas herum, das nicht funktioniert)
+LCOD39
+To se nehodí... XXX
+
+// Arkhan3 G (bastelt an etwas herum, das nicht funktioniert)
+LCOD40
+Nic. XXX
+
+
+
+							// KONTAMINATION //
+
+// Arkhan2 G (fühlt sich elend und zittert - vorübergehend)
+LCOD34
+Ah, ... není mi dobre ... XXX
+
+// Arkhan2 G (wird sich in Arkhan3 verwandeln - leidet)
+LCOD35
+Aaaaah... To zlo... Aaaaah! XXX
+
+// Arkhan3 G (fühlt sich elend, wird bald zum Tier werden)
+LCOD36
+Aaah... To zlo...prichází na mne... rychle... XXX
+
+// Arkhan3 G (teilweise geheilt, wird wieder zu Arkhan2)
+LCOD37
+Uh... To zlo... uklidni se... XXX
+
+
+
+				// ARKHAN VERWANDELT (Ark2->Ark3) GEHT ZU DELIA oder KALHI //
+
+// Delia (ängstlich)
+LCOD44
+Jsi ... jsi to ty? Ale co se s tebou deje? XXX
+
+// Kalhi (ängstlich)
+LCOD45
+Arkhane... U boha Slunce, je to horší! XXX
+
+// Arkhan3 L
+LCOD46
+Zlost cinila svojí práci... Ale nedelej si starosti, já to jiz udelal! XXX
+
+// Arkhan3 O
+LCOD47
+Drz hubu a pojd se mnou! XXX
+
+
+
+				// ARKHAN IST WIEDER ARK2 UND GEHT ZU DELIA oder KALHI //
+
+// Delia (ängstlich)
+LCOD48
+Jsi ... Jít s tebou bude lepší? XXX
+
+// Kalhi (besorgt)
+LCOD49
+Arkhane ... Cítíš se lepe? XXX
+
+// Arkhan2 L
+LCOD50
+Ano, pojd, jdeme! XXX
+
+// Arkhan2 O (unfreundlich)
+LCOD51
+Nevypadá to? Pojd nyní, nesmíme ztrácet cas! XXX
+
+
+				// BESCHÜTZEN //
+
+// Arkhan1 G (kurzes Gebet)
+LCOD52
+Boze Slunce, ochran mne tvým svetlem. XXX
+
+// Arkhan2 G (kurzes Gebet)
+LCOD53
+Boze Slunce, doprej mi tvojí pomoc. XXX
+
+// Arkhan3 G (kurzes Gebet)
+LCOD54
+Boze Slunce, pomoz mi. XXX
+
+
+				// DOK. UNLESERLICH //
+
+// Arkhan2 G (schaut sich ein Dokument an)
+LCOD55
+To nerozluštím... XXX
+
+// Arkhan3 G (schaut sich ein Dokument an)
+LCOD56
+Nerozluštitelný... XXX
+
+				// KAPUTTER ODER UNBRAUCHBARER GEGENSTAND //
+
+// Arkhan2 G 
+LCOD59
+To je k neupotrebení ... XXX
+
+// Arkhan3 G 
+LCOD60
+Konec ... XXX
+
+
+				// NIMMT DIE MASCHINENPISTOLE //
+					// NUR DAS ERSTE MAL //
+
+// Arkhan2 G (posiert mit seiner Pistole in der Hand)
+LCOD57
+Kdo je príští? XXX
+
+// Arkhan3 G (posiert mit seiner Pistole in der Hand)
+LCOD58
+(befriedigtes Lachen) XXX
+
+
+				// ARKHAN FÄLLT BEINAHE HIN //
+
+Arkhan1 G (fällt beinahe hin)
+LCOD66
+Hopla! XXX
+
+Arkhan2 G (fällt beinahe hin)
+LCOD67
+Oooh! XXX
+
+Arkhan3 G (fällt beinahe hin)
+LCOD68
+Oh! XXX
+
+
+				// KOMMT NICHT WEITER (durch ein Gitter, einen Gegenstand blockiert) //
+
+Arkhan1 G
+LCOD69
+Zde já dále neprojdu. XXX
+
+Arkhan2 G
+LCOD70
+Dále já neprojdu. XXX
+
+Arkhan3 G
+LCOD71
+Dále já neprojdu. XXX
+
+
+				// RUFT EINE PERSON //
+
+Arkhan1 G
+LCOD72
+Hej, ty! XXX
+
+Arkhan2 G
+LCOD73
+Hej! XXX
+
+Arkhan3 G
+LCOD74
+Hej! XXX
+
+
+				// DURCHSUCHT EINE PERSON //
+
+Arkhan1 G
+LCOD81
+Nic u nej. XXX
+
+Arkhan2 L
+LCOD82
+Nic u nej. XXX
+
+Arkhan2 O
+LCOD83
+Nic u nej! XXX
+
+Arkhan3 L
+LCOD84
+Nic u nej. XXX
+
+Arkhan3 O
+LCOD85
+Nic! XXX
+
+
+				// WILL DAS NATRIUM INS WASSER WERFEN //
+
+Arkhan2 G
+LCOD86
+Ne, pokud já to zde odhodím, pak je to ztracený! XXX
+
+Arkhan3 G
+LCOD87
+Pokud já to odhodím, je to ztracený! XXX
+
+
+				// LACHEN //
+
+Arkhan2 L
+LCOD92
+(fröhliches Lachen) XXX
+
+Arkhan3 L
+LCOD93
+(fröhliches Lachen) XXX
+
+Arkhan2 O
+LCOD94
+(höhnisches Lachen) XXX
+
+Arkhan3 O
+LCOD95
+(höhnisches Lachen) XXX
+
+
+			// VOR EINER LEITER, WAND, FELSEN usw. //
+
+Arkhan1 G
+LCOD96
+Ne. šplhání nebyla moje silná stránka. XXX
+
+Arkhan2 L
+LCOD97
+Nemám cas, ke šplhání. XXX
+
+Arkhan2 O
+LCOD98
+Nemohu nahoru, oklamali mne! XXX
+
+Arkhan3 G
+LCOD99
+Ne. Oklamali mne! XXX
+

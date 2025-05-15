@@ -1,0 +1,229 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL48.TXT
+ // Konkalite5 perso75
+L48D01
+ Don't come back again, or I'll split your gut! XXX
+// Kalhi perso13
+L48D04
+ Give them to me, you... you pathetic old jerk! XXX
+// Malrot3 perso63
+L48D05
+ Thief! You are getting nothing! XXX
+// Kalhi (afraid) perso33
+L04D41
+ Arkhan! What's come over you? XXX
+// Malrot3 perso63
+L48D35
+ I've never given in to thieves, and I don't feel like starting today! XXX
+// Malrot3 (fearful) perso63
+L48D106
+ Hey, hey, keep your shirt on, okay? XXX
+// Kalhi (having killed the Malrot) perso13
+L48D13
+ I didn't want to do it... XXX
+// Kalhi perso13
+L48D14
+ But he didn't leave us any choice... XXX
+// Kalhi perso13
+L48D15
+ If you need me, I'll be at Danrys's. XXX
+// Kalhi perso13
+L48D16
+ At least take the ammo... a man died for it. XXX
+// Malrot3 perso63
+L48D51
+ I've still got one good arm! XXX
+// Kalhi perso13
+L48D46
+ Give it to me! XXX
+// Malrot3 perso63
+L48D47
+ No! You're a Scavenger, you know I need it to trade with! XXX
+// Kalhi perso13
+L48D48
+ You owe it to me! XXX
+// Malrot3 perso63
+L48D49
+ Look, give it a rest... I'll have to put you out of your misery. XXX
+// Kalhi perso13
+L48D50
+ You? An old, one-armed bandit like you? What could you do to me?! XXX
+// Kalhi perso13
+L48D52
+ I told you, give me the ammo! XXX
+// Malrot3 perso63
+L48D53
+ Yeah, yeah. Keep talking! XXX
+// Kalhi perso13
+L48D54
+ You're asking for it buddy! XXX
+// Malrot3 perso63
+L48D55
+ You tryin' to scare me!? XXX
+// Kalhi perso13
+L48D06
+ Arkhan! Am I glad to see you! This old toad is giving me a hard time! XXX
+// Malrot3 perso63
+L48D07A
+ She's trying to steal my Thunderbolt ammo! XXX
+// Malrot3 perso63
+L48D07B
+ Ammo I almost lost my one good arm getting hold of! XXX
+// Kalhi perso13
+L48D08A
+ He's owed it to me for a long time. XXX
+// Kalhi perso13
+L48D08B
+ And today's the day to pay up. I want the ammo! XXX
+// Kalhi perso13
+L48D08C
+ I knew you could use it. XXX
+// Malrot3 perso63
+L48D09
+ Lay a hand on me and I'll show you something you won't like! XXX
+// Kalhi perso13
+L48D43
+ Come on! Help me! XXX
+// Malrot3 perso63
+L48D44
+ You need someone to hold your hand while you fight, little girl? XXX
+// Malrot3 perso63
+L48D45
+ I wouldn't give you that ammo if my life depended on it! XXX
+// Kalhi perso13
+L48D10
+ Help me Arkhan! XXX
+// Malrot3 perso63
+L48D11A
+ This is between her and me! XXX
+// Malrot3 perso63
+L48D11B
+ Mind your own business, or you'll be hearing from some friends of mine! XXX
+// Kalhi perso13
+L48D12
+ Arkhan. What are you doing? Help me! XXX
+// Malrot7 perso67
+L48D02
+ You're going to pay for that! XXX
+// Malrot7 perso67
+L48D03
+ You shouldn't have come back! XXX
+// Kalhi (calling) perso13
+L48D103
+ Arkhan! Arkhan! XXX
+// Kalhi perso13
+L48D104
+ You're flying solo from now on. I'm out of here! XXX
+// Arkhan2 L perso2
+L48D17
+ Kalhi you shouldn't pick on an old Scavenger like him. XXX
+// Arkhan2 O perso2
+L48D18
+ Come on Kalhi, he's just an old guy! XXX
+// Arkhan3 L perso3
+L48D19
+ Kalhi, he's an old guy. XXX
+// Arkhan3 O perso3
+L48D20
+ Kalhi, leave him alone! XXX
+// Kalhi perso13
+L48D21A
+ He owes me something, and today's payday. Okay?! XXX
+// Kalhi perso13
+L48D21B
+ I'm doing this for you! XXX
+// Arkhan2 L perso2
+L48D22
+ Come on, you're not going to fight over little stuff like that, are you? XXX
+// Arkhan2 O perso2
+L48D23
+ It's just an old piece of junk! You're gonna kill him for that ?! XXX
+// Arkhan3 L perso3
+L48D24
+ It's not important enough to fight for... XXX
+// Arkhan3 O perso3
+L48D25
+ Knock it off! XXX
+// Kalhi perso13
+L48D26
+ He just doesn't understand what I'm getting at! XXX
+// Arkhan2 L perso2
+L48D27
+ Kalhi! Don't risk your life like that! XXX
+// Arkhan2 O perso2
+L48D28
+ Jeez, the moment I turn my back, you get into trouble! I can't leave you alone for two minutes. XXX
+// Arkhan3 L perso3
+L48D29
+ Kalhi! Stop it! XXX
+// Arkhan3 O perso3
+L48D30
+ You're going to force me to kill this poor jerk! XXX
+// Kalhi perso13
+L48D31
+ He jumped me! XXX
+// Kalhi (A. showing her an object during the fight)perso13
+L48D32
+ Arkhan! This is no time for "Show-and-Tell"! XXX
+// Arkhan2 G perso2
+L48D100
+ You've gone insane! XXX
+// Arkhan3 G perso3
+L48D101
+ You're insane! XXX
+// Kalhi (forced to defend herself) perso13
+L48D102
+ Arkhan! You're sick! XXX
+// Malrot3 perso63
+L48D105
+ That's it! Great! Kill each other off! I've had enough! XXX
+// Arkhan2 L perso2
+L48D33A
+ You'd better give us the ammo... XXX
+// Arkhan2 L perso2
+L48D33B
+ Look, It's not worth spilling blood over... XXX
+// Arkhan3 L perso3
+L48D34
+ Hand over the ammo... It's not worth dying for. XXX
+// Arkhan2 L perso2
+L48D36A
+ But Kalhi says you owe her one! XXX
+// Arkhan2 L perso2
+L48D36B
+ Be reasonable... XXX
+// Arkhan3 L perso3
+L48D37
+ Think of your debt... be reasonable... XXX
+// Malrot3 perso63
+L48D38
+ You be reasonable! Call off your attack bitch before I shut her up for good! XXX
+// Arkhan2 O (menacingly)perso2
+L48D39
+ This is your last chance! Cough up the ammo! XXX
+// Arkhan3 O (menacingly)perso3
+L48D40
+ Last chance! Cough it up or die! XXX
+// Malrot3 (overwhelmed)perso63
+L48D41
+ Oh, okay, okay... XXX
+// Malrot3 perso63
+L48D42
+ But you'll be hearing from me again, you thieves! XXX
+// Kalhi perso13
+L48D56
+ Well done, Arkhan. Thanks to you, we got what we wanted. XXX
+// Malrot3 (attacked by A. and Kalhi)perso63
+L48D57
+ Two against one! Yellow-bellies! XXX
+// Arkhan2 G perso2
+L48D668
+ Filled with muddy water from the Lower City... XXX
+// Arkhan3 G perso3
+L48D669
+ Lower-City muck... XXX
+// Arkhan2 G perso2
+L48D666
+ An inlet flowing from the sea through the Lower City. XXX
+// Arkhan3 G perso3
+L48D667
+ This water, it's an inlet... XXX

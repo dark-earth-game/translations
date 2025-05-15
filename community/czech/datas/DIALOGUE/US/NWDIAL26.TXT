@@ -1,0 +1,160 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL26.TXT
+ // Arkhan2 L perso2
+L26D01
+ Ohen horí, mùj otec mel by v ùmyslu, vrátit se zpet. XXX
+// Arkhan3 L perso3
+L26D02
+ Ohen ... Otec chtel by se vrátit. XXX
+// Arkhan2 G (schaut sich ein Buch an)perso2
+L26D03
+ Prohledneme my si to ... XXX
+// Arkhan2 G (liest)perso2
+L26D03A
+ "Synove svetla, ty, ktere starý 'Runka' nazýval, spí dnes v hloubce v zemi. XXX
+// Arkhan2 G perso2
+L26D03B
+ Oni našli ùtocište ve spací síni, pod ochranou skal si vedomi, co znamená jejich volba pod lidmi. XXX
+// Arkhan2 G perso2
+L26D03C
+ Ten den, v kterem mají procitnout, se obliceje lidstva mají na vzdy zmenit. To bylo predpovezenos Thorgradem a jinými zakladateli. XXX
+// Arkhan2 G perso2
+L26D03D
+ Ale zákony vesmíru konfrontují sílu svetla s jejím opakem. XXX
+// Arkhan2 G perso2
+L26D03E
+ Krev Temne Zeme, ta krev 'Shankru', protekala pred a po velke katastrofe na Zemi. XXX
+// Arkhan2 G perso2
+L26D03F
+ Všechen zivot, který je od teto cerne substance dotknut, je zkazený a od tohoto casu se stává instrumentem zkázy. XXX
+// Arkhan2 G perso2
+L26D03G
+ Znalý prísahali na jejich potomky, proti zlu bojovat a to nicit, kde se všude nachází, skrze ohen a svate svetlo." XXX
+// Arkhan2 G perso2
+L26D03H
+ A to podepsal: "Thelen Khron, vyvolenec domu Thorgradu." XXX
+// Arkhan2 G (zu sich selbst) perso2
+L26D03I
+ Lory mela pravdu, mùj otec vedel o tom více, nez jsem si myslel. XXX
+// Arkhan3 G (schaut sich ein Buch an)perso3
+L26D04
+ To já mùzu rozluštit ... XXX
+// Arkhan3 G (liest)perso3
+L26D04A
+ "Synove svetla, ty, ktere starý 'Runka' nazýval, spí dnes v hloubce v zemi.. XXX
+// Arkhan3 G perso3
+L26D04B
+ Oni našli ùtocište ve spací síni, pod ochranou skal si vedomi, co znamená jejich volba pod lidmi. XXX
+// Arkhan3 G perso3
+L26D04C
+ Ten den, v kterem mají procitnout, se obliceje lidstva mají na vzdy zmenit. To bylo predpovezenos Thorgradem a jinými zakladateli. XXX
+// Arkhan3 G perso3
+L26D04D
+ Ale zákony vesmíru konfrontují sílu svetla s jejím opakem. XXX
+// Arkhan3 G perso3
+L26D04E
+  Krev Temne Zeme, ta krev 'Shankru', protekala pred a po velke katastrofe na Zemi. XXX
+// Arkhan3 G perso3
+L26D04F
+  Všechen zivot, který je od teto cerne substance dotknut, je zkazený a od tohoto casu se stává instrumentem zkázy. XXX
+// Arkhan3 G perso3
+L26D04G
+ Znalý prísahali na jejich potomky, proti zlu bojovat a to nicit, kde se všude nachází, skrze ohen a svate svetlo." XXX
+// Arkhan3 G perso3
+L26D04H
+ A to podepsal: "Thelen Khron, vyvolenec domu Thorgradu." XXX
+// Arkhan3 G (zu sich selbst) perso3
+L26D04I
+ Mùj otec mnoho vecí o svete skrýval ... XXX
+// Arkhan2 G (sucht) perso2
+L26D05
+ Podívejme se, co my zde máme ... XXX
+// Arkhan2 G (hat was gefunden) perso2
+L26D06
+ Ano ... XXX
+// Arkhan3 G (sucht) perso3
+L26D07
+ Podívejme se ... XXX
+// Arkhan3 G (hat was gefunden) perso3
+L26D08
+ Ano ... XXX
+// Arkhan2 G perso2
+L26D09
+ Nic. XXX
+// Arkhan2 G perso2
+L26D10
+ Ani na pultu ani na stole ... XXX
+// Arkhan3 G perso3
+L26D11
+ Tu nelezí nic. XXX
+// Arkhan2 G perso2
+L26D12
+ Ne, pouze stará kniha od predkù. XXX
+// Arkhan3 G perso3
+L26D13
+ Pouze stará kniha od predkù. XXX
+// Arkhan2 L perso2
+L26D14A
+ Vzpomínám si na to ...  XXX
+// Arkhan2 L (gerührt) perso2
+L26D14B
+ Mùj otec to pouzíval, kdyz pocítal hvezdy na obloze ... XXX
+// Arkhan2 O perso2
+L26D15
+ Tam lezí cosi dole! XXX
+// Arkhan2 G perso2
+L26D16
+ Klíc. XXX
+// Arkhan3 L perso3
+L26D19A
+ Vzpomínám si ... XXX
+// Arkhan3 L (gerührt) perso3
+L26D19B
+ Mùj otec ríkal, ze s tím pocítal hvezdy ... XXX
+// Arkhan3 O perso3
+L26D20
+ Tam lezí cosi dole. XXX
+// Arkhan3 G perso3
+L26D21
+ Nejaký klíc. XXX
+// Arkhan2 G perso2
+L26D23
+ Tam lezí cosi pod knihou ... XXX
+// Arkhan3 G perso3
+L26D25
+ Tam je cosi pod knihou ... XXX
+// Arkhan2 G perso2
+L26D27A
+ To je urcite klíc od dverí ... ale já nemohu ješte nyní jít. XXX
+// Arkhan2 G perso2
+L26D27B
+ Lory mi rekla, abych zde rozluštení našel! XXX
+// Arkhan3 G perso3
+L26D28A
+ To je urcite od dverí ... ale nemohu ješte jít. XXX
+// Arkhan3 G perso3
+L26D28B
+ Lory rekla, abych zde našel rozluštení... XXX
+// Arkhan2 G perso2
+L26D300
+ Ne, nemohu ješte odejít. XXX
+// Arkhan3 G perso3
+L26D301
+ Nemohu nyní ješte jít. XXX
+//Arkhan2 G perso2
+L26D32
+ To funguje, ze se to rozestoupí. XXX
+//Arkhan3 G perso3
+L26D33
+ Nyní je to. XXX
+// Arkhan2 L (schaut von der falschen Seite aus in das Teleskop) perso2
+L26D34
+ Já nevidím nic nez cernou studnu bez pùdy. XXX
+// Arkhan3 L perso3
+L26D35
+ Nevidím nic ... XXX
+// Arkhan2 G perso2
+L26D36
+ Musím nejaký mechanismus nekde dát, s kterým se to otevre. XXX
+// Arkhan3 G perso3
+L26D38
+ Je jiste nekde nejaký mechanismus, s kterým se to otevírá ... XXX

@@ -1,0 +1,637 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL39.TXT
+ // Arkhan2 G perso2
+L39D110
+ Nemùze to být vùbec jednoduche, se na tom vyspat. XXX
+// Arkhan3 G perso3
+L39D111
+ Na tom spát ... nemùze být vùbec jednoduche ... XXX
+// Leona (gebieterisch) perso14
+L39D01A
+ Kdo jsi ty? XXX
+// Leona (gebieterisch) perso14
+L39D01B
+ Co deláš zde v me ríši? XXX
+// Leona (wütend) perso14
+L39D107
+ Jak se odvazuješ, sem se vracet! XXX
+// Leona perso14
+L39D03A
+ Arkhane. XXX
+// Leona perso14
+L39D03B
+ Co chceš ode mne? XXX
+// Leona perso14
+L39D02
+ Ty opet? XXX
+// Leona (macht sich kampfbereit) perso14
+L39D04
+ V klidu! Nepotrebuješ mít strach ze mne. XXX
+// Leona (von A. angegriffen) perso14
+L39D108
+ Temná Zeme te ovládla! XXX
+// Leona (entspannt sich) perso14
+L39D05
+ Tak je to v porádku. Uvolni se a budeme si mluvit. XXX
+// Arkhan2 L perso2
+L39D06A
+ Jsem Arkhan, syn Rylsadharùv.  XXX
+// Arkhan2 L perso2
+L39D06B
+ Pricházím v míru.  XXX
+// Arkhan2 O perso2
+L39D07A
+ Jsem Arkhan, syn Rylsadhara. XXX
+// Arkhan2 O perso2
+L39D07B
+ Jseš carodejnice Leona? XXX
+// Leona (in der Defensive) perso14
+L39D08A
+ Arkhan, ríkáš. Znám tveho otce. XXX
+// Leona perso14
+L39D08B
+ Ale tebe já ješte nikdy nevidela. XXX
+// Leona perso14
+L39D08C
+ Jak mi dokázeš, ze mluvíš pravdu? XXX
+// Arkhan2 L perso2
+L39D09A
+ Chceš dùkaz?  XXX
+// Arkhan2 L perso2
+L39D09B
+ Nemám jiný dùkaz nez me dobre ùmysly! XXX
+// Arkhan2 O perso2
+L39D10A
+ Nic. XXX
+// Arkhan2 O perso2
+L39D10B
+ Ale pokud ti zálezí na tom, abychom my všichni prezily, mela bys uverit! XXX
+// Leona perso14
+L39D11A
+ To není mnoho,abys mne presvedcil ... XXX
+// Leona perso14
+L39D11B
+ Ale tvá slova nejsou lzí. XXX
+// Leona perso14
+L39D11C
+ Cítím, ze ti mohu dùverovat. XXX
+// Arkhan2 L perso2
+L39D18A
+ Naše situace je vázná.  XXX
+// Arkhan2 L perso2
+L39D18B
+ Celý Stallit je ponoren do Temne Zeme. XXX
+// Arkhan2 O perso2
+L39D19A
+ Nebudeš tomu verit - ale venku vládne panika! XXX
+// Arkhan2 O perso2
+L39D19B
+ Stallit je Temnou Zemí zasazen. XXX
+// Leona (alarmiert) perso14
+L39D20A
+ Srdce svetla! XXX
+// Leona (alarmiert) perso14
+L39D20B
+ Kdo to mohl udelat? XXX
+// Arkhan2 G perso2
+L39D21A
+ Zdá se, ze mnoho vecí víš. XXX
+// Arkhan2 G perso2
+L39D21B
+ Skodnou ve všem je knez se jmenem Thanandar. XXX
+// Leona (erstaunt) perso14
+L39D22
+ Thanandar, ten lecitel! XXX
+// Arkhan2 G perso2
+L39D23A
+ On byl lecitel ...  XXX
+// Arkhan2 G perso2
+L39D23B
+ Nyní na nem není nic lidskeho. XXX
+// Arkhan2 G perso2
+L39D23C
+ Zed a mùj oetc jsou mrtvý - díky nemu! XXX
+// Arkhan2 G perso2
+L39D24
+ Thanandar meho otce nakazil, jako on nakazil mne. XXX
+// Arkhan2 G perso2
+L39D25
+ Thanandar nakazil Zeda, jak nakazil i mne. XXX
+// Arkhan2 G perso2
+L39D26A
+ On nebyl sám sebou ... pomátl se bolestí. XXX
+// Arkhan2 G perso2
+L39D26B
+ Thanandar ho prinutil, srdce svetla znicit. XXX
+// Arkhan2 G perso2
+L39D26C
+ Ztracený záblesky, ve všech smerech, a srdce prestalo svítit, jak se plnilo cernou substancí. XXX
+// Arkhan2 G perso2
+L39D26D
+ A krátký cas pozdeji oblaka Temne Zeme celý Stallit zahalily. XXX
+// Arkhan2 L perso2
+L39D33A
+ Hledám jedno místo. Velká Knezka nazvala ho "hrobkou". XXX
+// Arkhan2 L perso2
+L39D33B
+ Je to tajemne místo, po kterem mùj otec dlouhá leta pátral. XXX
+// Arkhan2 L perso2
+L39D34A
+ Já musím jeho tajemný nákres najít. XXX
+// Arkhan2 L perso2
+L39D34B
+ Proto hledám kristalový klíc, který je zvíce cástí slozený. XXX
+// Arkhan2 O perso2
+L39D35A
+ Lory mi o tom míste vyprávela, "hrobka". XXX
+// Arkhan2 O perso2
+L39D35B
+ Ríkala, ze je to naše poslední šance, a pouze mùj otec vedel, jak se tam dojde ... und auch das sei nicht sicher! XXX
+// Arkhan2 O perso2
+L39D36A
+ Potrebuju klíc, se kterým bych jeho nákresy našel. XXX
+// Arkhan2 O perso2
+L39D36B
+ To je klíc z kristalù, který se z více cástí skládá! XXX
+// Leona perso14
+L39D37A
+ Je cas k výmene. XXX
+// Leona perso14
+L39D37B
+ Lory je moudrá zena. Vím, ze by ti nikdy tuto vec nesverila, pokud by nešlo o zivoty a smrt. XXX
+// Leona perso14
+L39D37C
+ Mùzeš s mojí pomocí pocítat, Arkhane.  XXX
+// Arkhan2 G perso2
+L39D40A
+ Mùj otec te náhodou pred nedávnem nenavštívil? XXX
+// Leona perso14
+L39D41A
+ Ne, Rylsadhara jsem více mesícù nevidela. XXX
+// Leona perso14
+L39D41B
+ Vím, ze byl zneklidnen, myslím, ze cítil, jake strašne ùdálosti na nás pricházejí. XXX
+// Leona perso14
+L39D41C
+ Tvùj otec byl vyvolenec, jeden z mála, který o hrobce srdce svetla vedel. XXX
+// Leona perso14
+L39D41D
+ A byl z mála, který se srdce mohl dotýkat. XXX
+// Leona perso14
+L39D41E
+ Proto se Thanandar jeho zmocnil! XXX
+// Arkhan2 L perso2
+L39D43A
+ Mluvíš o vecech, ktere já neznám. XXX
+// Arkhan2 L perso2
+L39D43B
+ Co je vlastne toto srdce svetla? XXX
+// Arkhan2 O perso2
+L39D44A
+ Uz mám dost tecto tajemství! XXX
+// Arkhan2 O perso2
+L39D44B
+ Mohl by mi vlastne nekdo konecne vysvetlit, co se zde deje? XXX
+// Leona perso14
+L39D45A
+ Ty rozumíš, srdce svetla a ta ... hrobka jsou spolu ve spojení. XXX
+// Leona perso14
+L39D45B
+ Srdce svetla byl dar, dárek; který vyzvedával svojí energii z hrobky, aby nás pred Temnou Zemí ochranoval. XXX
+// Leona perso14
+L39D45C
+ Tato energie cirkuluje, neviditelne do oci lidí, na celou Zemi, v okolí Stallitu. XXX
+// Leona perso14
+L39D45D
+ Ona nás ochranuje pred Temnou Zemí, která by stála o její sluzby. XXX
+// Leona perso14
+L39D45E
+ Ona umoznuje paprskùm Slunecního otce, aby na nás dosáhli, a naše neprátele oslabije. XXX
+// Leona perso14
+L39D45F
+ Ale bez tohoto srdce svetla jsme my do Temen Zeme zavrzeny. XXX
+// Arkhan2 G perso2
+L39D46A
+ Proc nezná nikdo toto místo? XXX
+// Arkhan2 G perso2
+L39D46B
+ A kterou roli hraje Zed, Lory a mùj otec v tomto príbehu? XXX
+// Leona perso14
+L39D47A
+ Zed, Rylsadhar a Velká Knezka byli - jako take já a nekterý z nás - skrz ... jeden druh paktu spolceny. XXX
+// Leona perso14
+L39D47B
+ Tento pakt, který je tak starý jako tento svet, ješte starší nez pred velkou katastrofou. XXX
+// Leona perso14
+L39D47C
+ On byl našimi prapredky našich prapredkù uzavren se silami mocností, ktere v hrobce spí. XXX
+// Leona perso14
+L39D47D
+ Prísahali jsme, srdce a hrobku ochranovat, zatímco my budeme drzet tajemství, dokud nerpocitnou, ti kterí v teto hloubce spí. XXX
+// Leona perso14
+L39D47E
+ Proto obdrzeli nekterí naši predci málo z teto energie. XXX
+// Leona perso14
+L39D47F
+ To je zivotní energie, která se podle libosti srdce vybírá a opet se mùze zpet vracet.  XXX
+// Leona perso14
+L39D47G
+ Eine Energie, mit der Dinge vollbracht werden können, die über das hinausgehen, was in der Macht normal Sterblicher steht. XXX
+// Leona perso14
+L39D47H
+ Tato energie zivota- a svetla všechny epochy prezila a zije dále v Zedovi, Rylsadharovi a Lory -  ve vybraných. XXX
+// Arkhan2 G perso2
+L39D48
+ Síla, kterou Zed mi poskytoval, dríve nez se zmenil! XXX
+// Arkhan2 G perso2
+L39D49
+ Síla, kterou mi Zed predával, dríve nez zemrel! XXX
+// Arkhan2 G perso2
+L39D50
+ Tak to tedy bylo! XXX
+// Arkhan2 L perso2
+L39D55A
+ Pokud tato energie skutecne je ... XXX
+// Arkhan2 L perso2
+L39D55B
+ Pak je zlost, jed, s kterým Thanandar nás nakazil ... opacnou silou. XXX
+// Arkhan2 O perso2
+L39D56A
+ A tato dábelská vec, se kterou nás Thanandar nakazil? XXX
+// Arkhan2 O perso2
+L39D56B
+ Je v protipolu s touto energií, mám pravdu? XXX
+// Leona perso14
+L39D57A
+ Ano. XXX
+// Leona perso14
+L39D57B
+ Tento jed Temne Zeme zivý se z energie zivých vecí. XXX
+// Leona perso14
+L39D57C
+ Nekterí, kterí na to nezemrou, zmení se ... jako ty. XXX
+// Leona perso14
+L39D57D
+ Oni zapomenou po te, co jsou, kdo jsou. XXX
+// Leona perso14
+L39D57E
+ Oni stanou se krvelacnými, neklidnými Kreaturami. XXX
+// Arkhan2 G perso2
+L39D58
+ Ale Energie hrobky mùze tento jed prece porazit, nebo ne? XXX
+// Leona perso14
+L39D59A
+ Ano, obe energie se navzájem nicí. XXX
+// Leona perso14
+L39D59B
+ Ale pokud jed príliš hluboko do tebe vnikl, dojde k otresu ... XXX
+// Leona perso14
+L39D59C
+ A tím se znièíš! XXX
+// Leona perso14
+L39D60
+ To se prihodilo Rylsadharovi, kdyz se dotkl svetla srdce. XXX
+// Leona perso14
+L39D61
+ To se prihodilo Zedovi, kdyz se dotkl svetla srdce. XXX
+// Arkhan2 L perso2
+L39D64A
+ A Thanandar?  XXX
+// Arkhan2 L perso2
+L39D64B
+ Co on hledá? XXX
+// Arkhan2 O perso2
+L39D65A
+ A ten prasecí pes Thanandarùv? XXX
+// Arkhan2 O perso2
+L39D65B
+ Co on chce?! XXX
+// Leona perso14
+L39D66A
+ Thanandar byl zasvenec, jako my. XXX
+// Leona perso14
+L39D66B
+ Jako lecitel byl on vzdy nemocí Temne Zeme fascinován. XXX
+// Leona perso14
+L39D66C
+ On chtel jí porozumet, najít protilek. XXX
+// Leona perso14
+L39D66D
+ Nevím, co ho privedlo k tomu, naše veci zradit a tyto nesmysly cinit. XXX
+// Leona perso14
+L39D66E
+ Snad se náhodne kontaminoval ... XXX
+// Leona perso14
+L39D66F
+ Pokud jed je v nem, delala jeho duše a mysl pomalou premenu. XXX
+// Leona perso14
+L39D66G
+ Jedno je jistý: Pokud my ho nezadrzíme, privede on na nás zkázu! XXX
+// Leona perso14
+L39D66H
+ Nevíš, kde se nalezá? XXX
+// Arkhan2 G perso2
+L39D67A
+ Ne. Ale mám pocit, ze on je ješte ve Stallitu, s jinými Kreaturami ... XXX
+// Arkhan2 G perso2
+L39D67B
+ Jsem si jistý, ze opustí Stallit teprve, az bude všechno ukonceno! XXX
+// Leona perso14
+L39D68
+ Musíme ho zadrzet, znicit ho. XXX
+// Arkhan2 L perso2
+L39D69A
+ Já se o to jiz pokusil. XXX
+// Arkhan2 L perso2
+L39D69B
+ Dábel Temne Zeme ho príliš silným udelal. XXX
+// Arkhan2 L perso2
+L39D69C
+ Neverím tomu, ze ho mohu porazit. XXX
+// Arkhan2 O perso2
+L39D70A
+ Detská hra! XXX
+// Arkhan2 O perso2
+L39D70B
+ Zdá se, ze jsi proti nemu ješte nikdy nestála! XXX
+// Arkhan2 O perso2
+L39D70C
+ Jdi prece k nemu, kdyz jsi tak silná! XXX
+// Leona perso14
+L39D71A
+ Pak zùstává nám pouze jedno rešení: najít hrobku a svetlo do Stallitu prinest zpet! XXX
+// Leona perso14
+L39D71B
+ Dríve nez Thanandar a jeho kreatury jejich zle dílo dokoncí! XXX
+// Arkhan2 L perso2
+L39D75A
+ Vypadá to, jako bys vedela mnoho vecí. XXX
+// Arkhan2 L perso2
+L39D75B
+ Znáš vchod ke hrobce? XXX
+// Arkhan2 O perso2
+L39D76
+ Ty jsi prece tak chytrá ... tak mi rekni, jak se dostanu ke hrobce! XXX
+// Leona perso14
+L39D77A
+ Ne, toto tajemství se behem velke katastrofy ztratilo. XXX
+// Leona perso14
+L39D77B
+ Hrobka je hluboko pod Stallitem v Zemi skrytá. XXX
+// Leona perso14
+L39D77C
+ Ale výsledky našich predkù nám ríkají, ze cesta k ní je dlouhá a tocitá. XXX
+// Leona perso14
+L39D77D
+ Pokud sám tento tajemný vchod najdeš, musíš mnoho zkoušek prestát, aby ses k srdci hrobky dostal. XXX
+// Arkhan2 G perso2
+L39D78
+ Jake zkoušky? XXX
+// Leona perso14
+L39D79A
+ To já nevím. XXX
+// Leona perso14
+L39D79B
+ Snad objevil neco Rylsadhar, ale o tom mi nikdy nevyprável. XXX
+// Arkhan2 L perso2
+L39D82
+ Muzeš neco udelat, abys ohen jedu, který mne spaluje, uklidnila? XXX
+// Arkhan2 O perso2
+L39D83
+ A pokud my o tom nyní mluvíme, MNE vylecit?! XXX
+// Leona (erinnert sich daran, daß Arkhan Schmerzen hat) perso14
+L39D84A
+ Ano! XXX
+// Leona perso14
+L39D84B
+ Já nemohu te z dabla, v jehoz moci jsi, ne plne vylecit. XXX
+// Leona perso14
+L39D84C
+ Ale zivot- a energii svetla je k dispozici na tomto míste. XXX
+// Leona perso14
+L39D84D
+ Proto príroda zde je opet tak silná. XXX
+// Leona perso14
+L39D84E
+ Kamenný kolos uprostred jeskyne ... XXX
+// Leona perso14
+L39D84F
+ Energie srdce svetla jím prochází. XXX
+// Leona perso14
+L39D84G
+ Pokud se napiješ vody, která v nem lezí, budeš od jedu, který je v tobe, ocišten. XXX
+// Leona perso14
+L39D84H
+ Pij ale málo, nebot jed je v tve smrtelne schránce promíchán. XXX
+// Leona perso14
+L39D84I
+ Vsáziš svùj zivot ve hru! XXX
+// Arkhan2 L perso2
+L39D86A
+ Dekuji ti, Leono. XXX
+// Arkhan2 L perso2
+L39D86B
+ Doufám, ze to stihnu! XXX
+// Arkhan2 O perso2
+L39D87A
+ Skonceme nyní s tlacháním! XXX
+// Arkhan2 O perso2
+L39D87B
+ Já musím ješte s nekolika zivoty pocítat ... XXX
+// Arkhan2 O perso2
+L39D87C
+ Predevším s mým! XXX
+// Leona perso14
+L39D88
+ Mnoho štestí, Arkhane. XXX
+// Leona perso14
+L39D89
+ Bud opatrný. XXX
+// Leona perso14
+L39D90
+ Dùveruju ti, synu Rylsadharovo! XXX
+// Arkhan2 G perso2
+L39D95
+ Znáš toto? XXX
+// Leona (mißtrauisch) perso14
+L39D96
+ Rekni mi nejprve, kdo jsi a co chceš. XXX
+// Arkhan2 G perso2
+L39D97
+ Zde je cást klícù meho otce. XXX
+// Leona perso14
+L39D98
+ Je mi líto, nemám nic z tohoto druhu. XXX
+// Arkhan2 G perso2
+L39D99
+ Co je to? XXX
+// Leona perso14
+L39D100
+ Kus krystalu ze skály. XXX
+// Leona perso14
+L39D101
+ On není zbroušený, nemyslím si tedy, ze je to, co ty hledáš. XXX
+// Arkhan2 G perso2
+L39D102
+ Co my mùzeš o tom ríci? XXX
+// Leona perso14
+L39D103
+ Nic zvláštního, je mi líto. XXX
+// Arkhan3 L perso3
+L39D12
+ Hledám Leonu. XXX
+// Arkhan3 O perso3
+L39D13
+ Leona? XXX
+// Leona (alarmiert) perso14
+L39D014A
+ U Slunecního Boha, to je príšera! XXX
+// Leona (vorsichtig) perso14
+L39D014B
+ Jseš od moci Shankry strávený. XXX
+// Leona (vorsichtig) perso14
+L39D014C
+ Kdo jsi? XXX
+// Arkhan3 L perso3
+L39D15
+ Jsem Arkhan, syn Rylsadharùv. XXX
+// Arkhan3 O perso3
+L39D16
+ Arkhan! XXX
+// Leona perso14
+L39D17A
+ Syn Rylsadhara! XXX
+// Leona perso14
+L39D17B
+ Ale co se hrozneho ve Stallitu stalo? XXX
+// Arkhan3 L perso3
+L39D27
+ Temná Zeme ... napadla Stallit. XXX
+// Arkhan3 L perso3
+L39D28A
+ Ano, srdce svetla. XXX
+// Arkhan3 L perso3
+L39D28B
+ Thanandar, knez. XXX
+// Arkhan3 L perso3
+L39D28C
+ On je vším viným. XXX
+// Arkhan3 L perso3
+L39D29A
+ Ne, on uz není zádný lecitel! XXX
+// Arkhan3 L perso3
+L39D29B
+ Uz není více clovekem! XXX
+// Arkhan3 L perso3
+L39D29C
+ A temer on Zeda a meho otce usmrtil! XXX
+// Arkhan3 L perso3
+L39D30
+ Thanandar meho otce kontaminoval, presne jako mne. XXX
+// Arkhan3 L perso3
+L39D31
+ Thanandar kontaminoval Zeda, tak jako mne. XXX
+// Arkhan3 L perso3
+L39D32A
+ On se pomátl ... pod strašnou bolestí ... XXX
+// Arkhan3 L perso3
+L39D32B
+ Thanandar ho prinutil, znicit svetlo. XXX
+// Arkhan3 L perso3
+L39D32C
+ Tu se ztratily výboje ... a srdce svetla ztmavlo ... XXX
+// Arkhan3 L perso3
+L39D32D
+ Jakmile se temnou energií nasákne ... XXX
+// Arkhan3 L perso3
+L39D32E
+ Pak ovládne Temná Zeme Stallit. XXX
+// Arkhan3 L perso3
+L39D38A
+ Lory mi o nejakem míste vyprávela, "hrobce". XXX
+// Arkhan3 L perso3
+L39D38B
+ Naší poslední šancí ... XXX
+// Arkhan3 L perso3
+L39D38C
+ Mùj otec snad vedel, kde se nachází. XXX
+// Arkhan3 L perso3
+L39D39A
+ Prece jsou jeho tajemství dobre schována. XXX
+// Arkhan3 L perso3
+L39D39B
+ Hledám klíc z krystalu, který je z více kouskù slozen. XXX
+// Arkhan3 L perso3
+L39D42A
+ Videla jsi meho otce v poslední dobe? XXX
+// Arkhan3 L perso3
+L39D109
+ Srdce ... Hrobka ... Vysvetlil mi všechno. XXX
+// Arkhan3 L perso3
+L39D51A
+ Proc tato tajemství? XXX
+// Arkhan3 L perso3
+L39D51B
+ A proc Zed, mùj otec a Lory? XXX
+// Arkhan3 L perso3
+L39D52
+ Zed mi predával energii, dríve nez zemrel! XXX
+// Arkhan3 L perso3
+L39D53
+ Zed mi dával sílu, dríve nez byl nakazen. XXX
+// Arkhan3 L perso3
+L39D54
+ To bylo ono! XXX
+// Arkhan3 L perso3
+L39D62A
+ Dábel z Temnoty ... XXX
+// Arkhan3 L perso3
+L39D62B
+ Je opak teto síly? XXX
+// Arkhan3 L perso3
+L39D63
+ Energie v hrobce jed znicí! XXX
+// Arkhan3 L perso3
+L39D72
+ A Thanandar?  XXX
+// Arkhan3 L perso3
+L39D73A
+ On je jiz ve Stallitu, s ostatnímy Kreaturamy. XXX
+// Arkhan3 L perso3
+L39D73B
+ On vyckává, dokud nebude konec, tím jsem si jist! XXX
+// Arkhan3 L perso3
+L39D74A
+ Já to jiz vyzloušel. XXX
+// Arkhan3 L perso3
+L39D74B
+ Dábel ho promenil, on je príliš silný. XXX
+// Arkhan3 L perso3
+L39D80A
+ Víš mnoho o tom. XXX
+// Arkhan3 L perso3
+L39D80B
+ Víš ty, jak já hrobku najdu? XXX
+// Arkhan3 L perso3
+L39D81
+ Jake zkoušky? XXX
+// Arkhan3 L perso3
+L39D85
+ Mùzeš mi pomoci, tohota dábla odstranit? XXX
+// Arkhan3 O (als wenn er Leona verschlingen wolle) perso3
+L39D92
+ Leonaaaa... XXX
+// Leona perso14
+L39D93
+ Arkhane! Ne, nenech se od Temne Zeme ovládnout! XXX
+// Leona perso14
+L39D94
+ Ne! Arkhane, ovládej se! XXX
+// Arkhan3 G perso3
+L39D104
+ Nevíš, co je to? XXX
+// Arkhan3 L perso3
+L39D105
+ To je cást z klíce meho otce. XXX
+// Arkhan3 L perso3
+L39D106
+ Co je to? XXX

@@ -1,0 +1,38 @@
+00:23:08	00:25:24		{Automatische Holotrek-Projektion}
+00:25:26	00:28:22		{vom 26. Dezember 2054.}
+00:28:24	00:29:28		{Wir nehmen diese Nachricht}
+00:30:00	00:32:18		{im unterirdischen Bunker Renaissance A-1 auf,}
+00:33:06	00:34:06		{knapp sechs Stunden}
+00:34:08	00:36:08		{nach dem ersten Meteoriteneinschlag}
+00:36:10	00:37:06		{im Mittleren Osten.}
+00:37:08	00:38:00		{Wie befürchtet ist}
+00:38:02	00:39:12		{der Guardian-Angels-Plan,}
+00:39:20	00:41:26		{der den Kometen ablenken sollte, gescheitert.}
+00:42:00	00:43:12		{Die Flugbahn des Kometen}
+00:43:14	00:45:10		{führt nur einige Tausend Kilometer}
+00:45:12	00:47:00		{an unserem Planeten vorbei.}
+00:47:08	00:49:08		{Wir verzeichnen bereits mehr als}
+00:49:10	00:51:16		{eintausendfünfhundert Meteoriteneinschläge}
+00:51:18	00:53:28		{auf der Erdoberfläche und rechnen damit,}
+00:54:00	00:55:24		{daß die größten Meteorsteine}
+00:55:26	00:58:06		{in den nächsten zwölf Stunden einschlagen werden.}
+00:58:10	00:59:24		{Der Kontinent ist bereits}
+00:59:26	01:01:02		{durch Feuersbrünste,}
+01:01:04	01:04:08		{Vulkanausbrüche und Sturmfluten verwüstet.}
+01:04:10	01:06:20		{Dreißig Prozent der Atmosphäre sind bereits}
+01:06:22	01:08:22		{durch riesige Staubwolken verdunkelt,}
+01:08:24	01:10:28		{die sich bei den Meteoriteneinschlägen bilden.}
+01:11:02	01:12:20		{Der gesamte Erdball wird durch}
+01:12:22	01:14:20		{einen nuklearen Winter bedroht.}
+01:15:02	01:17:00		{Der Begriff "ökologische Katastrophe"}
+01:17:02	01:18:04		{ist sinnlos geworden.}
+01:18:08	01:20:02		{Die optimistischsten Prognosen}
+01:20:04	01:22:18		{sprechen davon, daß  87,3 Prozent}
+01:22:20	01:24:00		{allen Lebens auf der Erde}
+01:24:02	01:25:24		{von der Auslöschung bedroht ist.}
+01:26:06	01:27:14		{Mit dem Renaissance-Projekt}
+01:27:16	01:29:02		{versuchen wir, den Schutz ...}
+01:30:10	01:32:02		{Wir verwenden Kältesärge,}
+01:32:04	01:33:22		{um eine Rekonstruktion}
+01:33:24	01:35:12		{unserer Zivilisation...}
+01:35:20	01:38:12		{Die Vorgehensweise zur Reaktivierung der...}

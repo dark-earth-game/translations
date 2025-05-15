@@ -1,0 +1,82 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\IT\NWDIAL13.TXT
+ // Arkhan2 G (stupefatto)perso2
+L13D01
+Incredibile... Un... Un santuario del Prima... XXX
+// Arkhan3 G (stupefatto)perso3
+L13D02
+Incredibile... Un... Un santuario del Prima... XXX
+// Arkhan2 G (scopre un meccanismo)perso2
+L13D07
+Questo si muove... XXX
+// Arkhan3 G (scopre un meccanismo)perso3
+L13D08
+Questo si muove... XXX
+// Arkhan2 G (davanti a una console inattiva)perso2
+L13D09
+No... la macchina è morta. XXX
+// Arkhan3 G (davanti a una console inattiva)perso3
+L13D10
+La macchina è morta. XXX
+// Arkhan2 G (esamina cassone cryo)perso2
+L13D11A
+Un letto che si chiude come una scatola. XXX
+// Arkhan2 G perso2
+L13D11B
+L'uomo là dentro è vecchio come il Grande Cataclisma. XXX
+// Arkhan3 G perso3
+L13D12A
+Strano, questo letto... XXX
+// Arkhan3 G perso3
+L13D12B
+E questi resti... un anziano vecchio come il Grande Cataclisma. XXX
+// Arkhan2 G (esamina cassone cryo)perso2
+L13D13A
+C'era un uomo là dentro... XXX
+// Arkhan2 G perso2
+L13D13B
+Solo vetro e polvere, adesso. XXX
+// Arkhan3 G (esamina cassone cryo)perso3
+L13D14
+Non rimane che polvere... XXX
+// Arkhan2 L perso2
+L13D15
+Basta così! Fa troppo male! XXX
+// Arkhan2 O perso2
+L13D23
+Si sono accese delle piccole luci verdi! XXX
+// Arkhan3 L perso3
+L13D16
+No, troppo male! XXX
+// Arkhan3 O perso2
+L13D24
+Delle luci verdi sono accese! XXX
+// Arkhan2 L (esamina la console) perso2
+L13D17
+Graziose queste luci... mai viste prima. XXX
+// Arkhan3 L perso3
+L13D18
+Che sono questi piccoli fuochi? XXX
+// Arkhan2 O (esamina dei rottami)perso2
+L13D19
+È tutto a pezzi! XXX
+// Arkhan3 O (esamina dei rottami)perso2
+L13D20
+È tutto in briciole! XXX
+// Arkhan2 G perso2
+L13D03
+Nient'altro che rottami... XXX
+// Arkhan3 G perso3
+L13D04
+Rottami... XXX
+// Arkhan2 G perso2
+L13D05
+Tutto è crollato... XXX
+// Arkhan3 G perso3
+L13D06
+Tutto è crollato... XXX
+// Arkhan2 G (esamina cassone cryo)perso2
+L13D21
+Questo letto è rotto... Quello che ci riposava non è altro che polvere... XXX
+// Arkhan3 G (esamina cassone cryo)perso3
+L13D22
+Un anziano del Prima... ridotto in polvere... XXX

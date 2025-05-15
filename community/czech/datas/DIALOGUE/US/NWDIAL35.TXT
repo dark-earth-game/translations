@@ -1,0 +1,91 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL35.TXT
+ // Arkhan2 G (entdeckt den unterseeischen Tunnel) perso2
+L35D01
+ U Rahala, já utíkám ve vode! XXX
+// Arkhan3 G (entdeckt den unterseeischen Tunnel) perso3
+L35D02
+ U svateho svetla, já bezím ve vode! XXX
+// Arkhan2 G (unter dem Helm) perso2
+L35D27
+ Zádný vzduch více ... Ne! XXX
+// Arkhan3 G (unter dem Helm) perso3
+L35D28
+ Zádný vzduch více ... Ne! XXX
+// Arkhan2 G (findet einen Ertrunkenen) perso2
+L35D03
+ Zatracený psi ... Konkaliti ho na kámen uvázali a zde ho hodili! XXX
+// Arkhan3 G (findet einen Ertrunkenen) perso3
+L35D04
+ Poslední obet konkalitù. XXX
+// Arkhan2 G perso2
+L35D100
+ Zde není nic zajímaveho. XXX
+// Arkhan3 G perso3
+L35D101
+ Nic. XXX
+// Arkhan2 G perso2
+L35D102
+ Tu nic není. XXX
+// Arkhan3 G perso3
+L35D103
+ Ne, nic. XXX
+// Arkhan2 G perso2
+L35D104
+ Nic zvláštního. XXX
+// Arkhan3 G perso3
+L35D105
+ Já nic nevidím. XXX
+// Arkhan2 G (vor einem Skelett) perso2
+L35D07
+ To je vše, co zùstane, pokud si Konkaliti nekoho podají ... XXX
+// Arkhan3 G (vor einem Skelett) perso3
+L35D08
+ Ješte obet Konkalitù. XXX
+// Arkhan2 L perso2
+L35D09
+ Mucící klec Konkalitù. XXX
+// Arkhan3 L perso3
+L35D10
+ Mucící klec konkalitù. XXX
+// Arkhan2 O (schlägt auf den Käfig ein) perso2
+L35D11
+ Proklatá mucící klec! XXX
+// Arkhan3 O (schlägt auf den Käfig ein) perso3
+L35D12
+ Zatracená klec! XXX
+// Arkhan2 L perso2
+L35D15
+ Nejaký starý sud. XXX
+// Arkhan2 O (tritt mit den Füßen in die Kanister) perso2
+L35D16
+ Ješte tak blbý sud! XXX
+// Arkhan3 L perso3
+L35D17
+ Starý sud. XXX
+// Arkhan3 O (tritt mit den Füßen in die Kanister) perso3
+L35D18
+ Ah, tyto sudy! XXX
+// Arkhan2 G (durchsucht das Skelett) perso2
+L35D19
+ Nic nez stare kosti ... XXX
+// Arkhan3 G (durchsucht das Skelett) perso3
+L35D20
+ Nic nez kosti! XXX
+// Arkhan2 G (findet etwas unter dem Skelett) perso2
+L35D21
+ To si vypùjcím ... Tys to spolknul? XXX
+// Arkhan3 G (findet etwas unter dem Skelett) perso3
+L35D22
+ Díky, mùj príteli! XXX
+// Arkhan2 G perso2
+L35D23
+ Ruiny od predkù... XXX
+// Arkhan3 G perso3
+L35D24
+ Ruiny od predkù... XXX
+// Arkhan2 G (Seeungeheuer) perso2
+L35D25
+ Ne, to není k jídlu! XXX
+// Arkhan3 G ("durchsucht" das Seeungeheuer) perso3
+L35D26
+ Ne ... tu nic není k jídlu! XXX

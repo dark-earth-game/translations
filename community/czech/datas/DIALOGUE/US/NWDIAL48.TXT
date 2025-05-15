@@ -1,0 +1,229 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL48.TXT
+ // Konkalit5 perso75
+L48D01
+ Pokud se je3te jednou vrátíš, usmrtím te! XXX
+// Kalhi perso13
+L48D04
+ Tak to vydej prece, mrvo! XXX
+// Malrot3 perso63
+L48D05
+ Hovno ty malá zlodejko! Tobe já nedám nic! XXX
+// Kalhi (beunruhigt) perso33
+L04D41
+ Arkhane! Co je s tebou? XXX
+// Malrot3 perso63
+L48D35
+ Já se v celem zivote jeste pred zlodejem nesehl, a to se take dnes nezmení! XXX
+// Malrot3 (verängstigt) perso63
+L48D106
+ Hej, v klidu! XXX
+// Kalhi (hat den Malrot getötet) perso13
+L48D13
+ Tomu jsem se chtela vyvarovat ... XXX
+// Kalhi perso13
+L48D14
+ Ale on nám jinou moznost nedal ... XXX
+// Kalhi perso13
+L48D15
+ Kdyz mne budeš potrebovat - jsem u Danryse. XXX
+// Kalhi perso13
+L48D16
+ Vezmi si munici ... konecne zemre za to. XXX
+// Kalhi perso13
+L48D46
+ Dej mi jí! XXX
+// Malrot3 perso63
+L48D47
+ Ne! Ty jsi prece hadrárka, Víš dobre, ze já to k menení potrebuju! XXX
+// Kalhi perso13
+L48D48
+ Dluzíš mi to! XXX
+// Malrot3 perso63
+L48D49
+ Tak, co je? Na tvem míste bych se zvedl - byla by to škoda, kdybych z tve pekne male pusinky udelal neco jineho? XXX
+// Kalhi perso13
+L48D50
+ Jsi starý a jednoramený, nemáš prece zádnou šanci! XXX
+// Malrot3 perso63
+L48D51
+ Jedno rameno ješte mám! XXX
+// Kalhi perso13
+L48D52
+ Dej munici sem, jsem ti rekla! XXX
+// Malrot3 perso63
+L48D53
+ Ty snad sníš, moje pusinko! XXX
+// Kalhi perso13
+L48D54
+ Ty vyhledáváš jiste zlobur! XXX
+// Malrot3 perso63
+L48D55
+ Domníváš se snad, ze já strach mám z tebe!? XXX
+// Kalhi perso13
+L48D06
+ Arkhane! Dobre, ze ty pricházíš, tahle stará mocùvka vyhledává spory! XXX
+// Malrot3 perso63
+L48D07A
+ Ona chce mi munici do laseru vzít! XXX
+// Malrot3 perso63
+L48D07B
+ Z toho já málem jediný rameno, ktere mi zùstalo ztratil, abych ji prinesl! XXX
+// Kalhi perso13
+L48D08A
+ On je mi jiz mesíce cosi dluzný! XXX
+// Kalhi perso13
+L48D08B
+ A nyní já chci tuto munici! XXX
+// Kalhi perso13
+L48D08C
+ Já vím, sie würde Dir helfen. XXX
+// Malrot3 perso63
+L48D09
+ Kdyz ty mne sáhneš, vyvoláte problemy! XXX
+// Kalhi perso13
+L48D43
+ Tak mi pomoc prece! XXX
+// Malrot3 perso63
+L48D44
+ Tak je to tedy: Clovek musí panicce u boje rucicky drzet! XXX
+// Malrot3 perso63
+L48D45
+ Já radeji zcepením, nez ti mojí munici vydám! XXX
+// Kalhi perso13
+L48D10
+ Pomoz mi, Arkhane! XXX
+// Malrot3 perso63
+L48D11A
+ Do je problem mezi ní a mnou! XXX
+// Malrot3 perso63
+L48D11B
+ Misch Dich da nicht ein oder meine Freunde rechnen mit Dir ab! XXX
+// Kalhi perso13
+L48D12
+ Na copak ty cekáš? Pomoz mi! XXX
+// Malrot7 perso67
+L48D02
+ To mi zaplatíš! XXX
+// Malrot7 perso67
+L48D03
+ Ty nemel by se vracet! XXX
+// Kalhi (ruft) perso13
+L48D103
+ Arkhane! Arkhane! XXX
+// Kalhi perso13
+L48D104
+ Jdu nyní mojí cestou, procedníkuju te sama! XXX
+// Arkhan2 L perso2
+L48D17
+ Kalhi, nemela by ses se starým smetákem jako tenhle setkávat. XXX
+// Arkhan2 O perso2
+L48D18
+ Kalhi, to je prece pouze starý muz! XXX
+// Arkhan3 L perso3
+L48D19
+ Kalhi, to je starý muz. XXX
+// Arkhan3 O perso3
+L48D20
+ Kalhi, nech ho v klidu! XXX
+// Kalhi perso13
+L48D21A
+ On dluzí mi neco, já domáhám se pouze toho, co mi prísluší! XXX
+// Kalhi perso13
+L48D21B
+ Já to prece delám všechno pouze pro tebe! XXX
+// Arkhan2 L perso2
+L48D22
+ Ty se nebudeš prece kvùli malickostem s tímto chlápkem bít. Pojd jiz ... XXX
+// Arkhan2 O perso2
+L48D23
+ To je prece pouze stará sketa. Prece ho kvùli tomu nezabiješ! XXX
+// Arkhan3 L perso3
+L48D24
+ Nebí ho prece kvùli takove malickosti ... XXX
+// Arkhan3 O perso3
+L48D25
+ Prestan s tím! XXX
+// Kalhi perso13
+L48D26
+ On nechce mi jednoduše rozumnet! XXX
+// Arkhan2 L perso2
+L48D27
+ Kalhi! Nehraj si s tvým zivotem! XXX
+// Arkhan2 O perso2
+L48D28
+ Jakmile já se otocím zády k tobe, nedeláš nic jineho nez nesmysly! XXX
+// Arkhan3 L perso3
+L48D29
+ Kalhi! Prestan! XXX
+// Arkhan3 O perso3
+L48D30
+ Ty mne nutíš, tohoto chudáka usmrtit! XXX
+// Kalhi perso13
+L48D31
+ On na mne zaùtocil! XXX
+// Kalhi (A. zeigt ihm während des Kampfes einen Gegenstand)perso13
+L48D32
+ Arkhane! Na to my nemáme nyní cas! XXX
+// Arkhan2 G perso2
+L48D100
+ Ty jsi se pomátl! XXX
+// Arkhan3 G perso3
+L48D101
+ Ty jsi se ùplne zbláznil! XXX
+// Kalhi (muß sich wehren) perso13
+L48D102
+ Arkhane! Ty jsi nemocný! XXX
+// Malrot3 perso63
+L48D105
+ Jen si bouchnete! Ich mach' mich aus dem Staub! XXX
+// Arkhan2 L perso2
+L48D33A
+ To je lepší, dej mi munici ... XXX
+// Arkhan2 L perso2
+L48D33B
+ To se nevyplatí, pro malickosti krev prolevat ... XXX
+// Arkhan3 L perso3
+L48D34
+ Dej mi munici ... Nevyplatí se, krev prolevat ... XXX
+// Arkhan2 L perso2
+L48D36A
+ Kalhi ríká ale, ze ty jí dluzíš neco! XXX
+// Arkhan2 L perso2
+L48D36B
+ Bud prece rozumný ... XXX
+// Arkhan3 L perso3
+L48D37
+ Dej jí to, co jí dluzíš  ... Bud prece rozumný... XXX
+// Malrot3 perso63
+L48D38
+ DMel bys radeji být rozumný a munici vydat, drív nez bude pozde! XXX
+// Arkhan2 O (bedrohlich)perso2
+L48D39
+ To je tvoje poslední šance! Dej mi munici! XXX
+// Arkhan3 O (bedrohlich)perso3
+L48D40
+ Poslední šance: Munici sem! XXX
+// Malrot3 (beeindruckt)perso63
+L48D41
+ Tedy dobre ... srozumneno ... XXX
+// Malrot3 perso63
+L48D42
+ Vy o mne ješte ale uslyšíte, vy hnusní malí zlodeji! XXX
+// Kalhi perso13
+L48D56
+ Dobres udelal, Arkhane. My s tebou zatocíme. XXX
+// Malrot3 (wird von A. und Kalhi angegriffen)perso63
+L48D57
+ Dva proti jednomu! Ubozí zbabelci! XXX
+// Arkhan2 G perso2
+L48D668
+ Nic nez odpadní voda ze spodního mesta ... XXX
+// Arkhan3 G perso3
+L48D669
+ Splašky ze spodního mesta... XXX
+// Arkhan2 G perso2
+L48D666
+ To je pouze rameno, ktere prochází Spodním mestem. XXX
+// Arkhan3 G perso3
+L48D667
+ To je rameno more ... XXX

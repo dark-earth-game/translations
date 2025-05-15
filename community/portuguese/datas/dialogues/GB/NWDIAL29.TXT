@@ -1,0 +1,382 @@
+Début du fichier F:\DEV\DKE\DATAS\DIALOGUE\SP\NWDIAL29.TXT
+// Phedoria perso26
+L29D200
+Vai falar com a Lory. Eu guardo a entrada. XXX
+// Phedoria (acaba de abater Arkhan depois de ele ter matado a Lory) perso26
+L29D201
+Louco! Condenaste-nos! XXX
+// Lory (acaba de abater Arkhan depois de ele ter matado a Phedoria) perso15
+L29D202
+Que loucura! XXX
+// Phedoria (Arkhan saca uma pistola) perso26
+L29D203
+Arkhan, guarda isso imediatamente! XXX
+// Phedoria (Arkhan guardou a sua arma) perso26
+L29D204
+As nossas armas não se destinam senão aos nossos inimigos, estamos entendidos? XXX
+// Arkhan2 G perso2
+L29D01
+Grande Pregadora, que se passa? XXX
+// Arkhan3 G perso3
+L29D02
+Lory, que se passa? XXX
+// Lory perso15
+L29D03A
+Arkhan, o Stallite inteiro está em perigo. XXX
+// Lory perso15
+L29D03B
+Ao destruir o Coração de Luz, o Thanandar não fez outra coisa senão mergulhar-nos na escuridão. XXX
+// Lory perso15
+L29D03C
+Abriu a porta a seres que vivem encerrados na Escuridão. Os nossos muros não poderão proteger-nos! XXX
+// Lory perso15
+L29D03D
+A energia do Coração esgota-se, e já nada os impedirá de invadir a cidade. XXX
+// Lory perso15
+L29D03E
+Se não agirmos rapidamente, em breve estaremos todos mortos ou contaminados como tu. XXX
+// Arkhan2 L perso2
+L29D04A
+O Zed e o Rylsadhar morreram por culpa do Thanandar! XXX
+// Arkhan2 L perso2
+L29D04B
+Devemos detê-lo! XXX
+// Arkhan2 O perso2
+L29D05
+Não! Devo vingar o Zed e o meu pai! XXX
+// Arkhan3 L perso3
+L29D06
+O meu pai, o Zed, eu próprio... Todo este sofrimento em vão?! XXX
+// Arkhan3 O (põe-se nervoso) perso3
+L29D07
+Não! Vingança! XXX
+// Lory perso15
+L29D08A
+Ouve, ainda nos resta uma esperança de salvar Sparta... e de te curar. XXX
+// Lory perso15
+L29D08B
+O teu pai conhecia numerosos mistérios. XXX
+// Lory perso15
+L29D08C
+Ele procurou durante muito tempo a... fonte da energia que irrigava o Coração de Luz. XXX
+// Lory perso15
+L29D08D
+Na sala secreta, ao lado do seu quarto, talvez encontremos uma pista. XXX
+// Arkhan2 G perso2
+L29D09A
+Precisávamos de poder entrar lá já! XXX
+// Arkhan2 G perso2
+L29D09B
+Eu tentei muitas vezes quando era jovem. É impossível! XXX
+// Arkhan3 G perso3
+L29D10A
+Não se pode entrar lá! XXX
+// Arkhan3 G perso3
+L29D10B
+A porta não se pode abrir. XXX
+// Lory perso15
+L29D11A
+Sim. Existe uma chave, formada por quatro cristais que se juntam para formar um Rahal. XXX
+// Lory perso15
+L29D11B
+Esta manhã, o teu pai devolveu-me o anel dessa chave. XXX
+// Lory perso15
+L29D11C
+Devemos recuperar os outros três cristais o mais depressa possível e recompor a chave. XXX
+// Lory perso15
+L29D11D
+Ao estudar as descobertas do teu pai, espero encontrar um meio de trazer de novo a luz sobre Sparta. XXX
+// Lory (em voz baixa) perso15
+L29D11E
+Dou-te o anel, Arkhan. Protege-o com a tua vida. XXX
+// Arkhan2 G perso2
+L29D12A
+Lory. A cripta escondida... O Coração de Luz... Os segredos do meu pai... XXX
+// Arkhan2 G perso2
+L29D12B
+Diz-me o que se passa! Diz-me o que procuramos realmente! XXX
+// Arkhan3 L perso3
+L29D13A
+Lory! XXX
+// Arkhan3 L perso3
+L29D13B
+Cripta... Quartos secretos... Coração de Luz... XXX
+// Arkhan3 L perso3
+L29D13C
+O que procuramos realmente? XXX
+// Lory perso15
+L29D14A
+Ouve, Arkhan, não tenho tempo de explicar-te tudo... XXX
+// Lory perso15
+L29D14B
+Sabe apenas que há algures sob os nossos pés um... lugar a que chamamos o Túmulo. XXX
+// Lory perso15
+L29D14C
+Esse lugar encerra uma formidável energia benéfica... XXX
+// Lory perso15
+L29D14D
+Mas essa força está... nos sonhos. XXX
+// Lory perso15
+L29D14E
+A única solução para nós é encontrá-la... e sonhar com ela. XXX
+// Lory (em voz baixa) perso15
+L29D14F
+Se chegarmos antes do Thanandar, então ela varrê-lo-á, e ao mal que te oprime! XXX
+// Arkhan2 G perso2
+L29D15
+Mas o que é que o meu pai tinha a ver com tudo isto? XXX
+// Arkhan3 G perso3
+L29D16
+E o meu pai, porquê ele? XXX
+// Lory perso15
+L29D17A
+O teu pai consagrou uma parte da sua vida a procurar a entrada do caminho que leva ao Túmulo. XXX
+// Lory perso15
+L29D17B
+Ele pensava que havia, algures, uma porta que dava para o Túmulo. XXX
+// Lory perso15
+L29D17C
+Até hoje, todas as suas investigações sobre a cripta, o Stallite ou a Escuridão não deram nenhum fruto. XXX
+// Lory perso15
+L29D17D
+No entanto, sei que ele não teria desistido. XXX
+// Lory perso15
+L29D17E
+E se teve cuidado em proteger o acesso às suas investigações, não foi sem razão. XXX
+// Lory perso15
+L29D17F
+No mais profundo do seu ser, certamente o teu pai tinha pressentido a traição do Thanandar. XXX
+// Lory perso15
+L29D17G
+O Rylsadhar era muito sensível, tinha nele essa energia particular que lhe permitia vislumbrar o porvir. XXX
+// Arkhan2 O (em voz baixa) perso2
+L29D18
+Em todo o caso, essa energia não o salvou da morte! XXX
+// Arkhan2 G perso2
+L29D19
+Falai-me do Thanandar. XXX
+// Arkhan3 L perso3
+L29D20
+Falai-me do Thanandar. XXX
+// Lory perso15
+L29D21A
+É... era um Pregador, um Curador. XXX
+// Lory perso15
+L29D21B
+Mas a Escuridão está nele, e já não é um homem. XXX
+// Arkhan2 G perso2
+L29D22
+Certamente! Os homens normais não voltam de entre os mortos! XXX
+// Arkhan2 O perso2
+L29D23
+Sobretudo depois de eu, pessoalmente, lhe ter partido o crânio! XXX
+// Arkhan3 L perso3
+L29D24
+Certamente, um homem normal não teria sobrevivido à minha cólera. XXX
+// Lory perso15
+L29D25A
+Tem o aspeto de um homem, mas já não o é. XXX
+// Lory perso15
+L29D25B
+Ao mesmo tempo que se transforma o seu corpo, o veneno leva-lhe a razão e a humanidade. XXX
+// Lory perso15
+L29D25C
+Jurou a nossa ruína e sabe onde golpear. XXX
+// Lory (em voz baixa) perso15
+L29D25D
+Por isso devemos apressar-nos. XXX
+// Arkhan2 G perso2
+L29D26
+Que vais fazer agora? XXX
+// Arkhan3 L perso3
+L29D27
+E vós? Que vais fazer? XXX
+// Lory perso15
+L29D28A
+É necessário tentar restabelecer uma aparência de ordem. XXX
+// Lory perso15
+L29D28B
+O Dhorkan estava cego pelas suas ambições, quis aproveitar os acontecimentos para se apoderar de Sparta. XXX
+// Lory perso15
+L29D28C
+Mas o cobarde perdeu o controlo. Fugiu para onde só o Deus Sol sabe! XXX
+// Lory perso15
+L29D28D
+A Phedoria tentará reunir os Guardiões do Fogo. XXX
+// Lory perso15
+L29D28E
+É preciso que nos preparemos para o pior. XXX
+// Lory perso15
+L29D28F
+Poderemos retardar a chegada das trevas, mas não impedi-la. XXX
+// Lory (em voz baixa) perso15
+L29D28G
+O destino de Sparta repousa sobre ti, Arkhan! XXX
+// Arkhan2 L perso2
+L29D29
+Não tendes mais nada para me dizer? XXX
+// Arkhan2 O perso2
+L29D30
+É tudo o que tens para me contar, Pregadora? XXX
+// Arkhan3 L perso3
+L29D31
+É tudo? XXX
+// Lory perso15
+L29D32
+É tudo, Arkhan. Apressa-te, não há tempo a perder! XXX
+// Lory perso15
+L29D33
+Recupera a chave do Rylsadhar, é isso que importa! XXX
+// Lory perso15
+L29D34
+Arkhan, mantém a calma, não deixes que o mal te escureça o espírito! XXX
+// Phedoria (disposta a agir) perso26
+L29D35
+Ela tem razão, Arkhan. Não me obrigues a disparar. XXX
+// Lory perso15
+L29D36
+Phedoria! Ajuda-me! XXX
+// Arkhan2 L (mostrando o anel) perso2
+L29D37
+Que outra pessoa poderia ter um fragmento desta chave? XXX
+// Arkhan2 O (mostrando o anel) perso2
+L29D38
+E quem devo ver para conseguir os outros pedaços? XXX
+// Arkhan3 G (mostrando o anel) perso2
+L29D39
+Quem mais poderia ter um pedaço da chave? XXX
+// Lory perso15
+L29D40A
+Forçosamente, o Rylsadhar deve tê-los entregue a pessoas em quem confiava. XXX
+// Lory perso15
+L29D40B
+O Zed... eu... E talvez o Dhorkan, infelizmente! XXX
+// Arkhan2 G perso2
+L29D41
+Nada mais sobre esta chave? XXX
+// Arkhan3 G perso3
+L29D42
+Alguma outra pista sobre a chave? XXX
+// Lory perso15
+L29D43
+Não, Arkhan, não me ocorre mais ninguém. XXX
+// Arkhan2 G perso2
+L29D44
+Grande Pregadora... XXX
+// Arkhan3 G (secretamente) perso3
+L29D45
+Lory... XXX
+// Lory perso15
+L29D46
+Arkhan, peço-te, guarda essa arma! XXX
+// Arkhan2 G perso2
+L29D66
+Conheceis isto? XXX
+// Arkhan3 G perso3
+L29D67
+Este objeto, Lory? XXX
+// Lory perso15
+L29D68A
+Arkhan, o tempo urge. XXX
+// Lory perso15
+L29D68B
+Vai e encontra a chave do teu pai. XXX
+// Phedoria (dispara sobre Arkhan que golpeou a Lory) perso26
+L29D47
+Arkhan! Não! XXX
+// Arkhan2 G perso2
+L29D48
+Phedoria... XXX
+// Arkhan3 G perso3
+L29D49
+Phedoria... XXX
+// Phedoria perso26
+L29D50
+A Lory, a Grande Pregadora, explicar-te-á tudo. XXX
+// Phedoria perso26
+L29D51
+A Lory disse-te o que tinha que dizer. Vai-te! XXX
+// Phedoria perso26
+L29D52
+Volta a fazê-lo e morderás os dedos! XXX
+// Phedoria perso26
+L29D53
+Tinha-te avisado! XXX
+// Phedoria perso26
+L29D69
+Contamos contigo, Arkhan. XXX
+// Lory perso15
+L29D54A
+Arkhan! XXX
+// Lory perso15
+L29D54B
+Há um homem a quem o teu pai poderia ter confiado um pedaço da sua chave: XXX
+// Lory perso15
+L29D54C
+Bandor, o Mestre Construtor. XXX
+// Lory perso15
+L29D54D
+Tem o seu quartel na torre dos construtores, na praça central. XXX
+// Arkhan2 G perso2
+L29D55
+Como é ele? XXX
+// Arkhan3 G perso3
+L29D56
+Que aspeto tem? XXX
+// Lory perso15
+L29D57
+Reconhecê-lo-ás facilmente: é um homem maduro, com a pele de ébano e uma perna de metal! XXX
+// Lory (Arkhan vai sair) perso15
+L29D74
+Arkhan, espera! Devemos falar! XXX
+// Arkhan2 G (diante do relógio) perso2
+L29D58
+Isto lembra-me que é preciso agir com rapidez! XXX
+// Arkhan3 G (diante de um relógio) perso3
+L29D59
+Cada segundo conta! XXX
+// Arkhan2 L (encontra Lory morta) perso2
+L29D60A
+Lory... Tu também... Outra vez o Thanandar! XXX
+// Arkhan2 L perso2
+L29D60B
+Ele tira-me do sério! XXX
+// Arkhan2 L perso2
+L29D60C
+Mas não vos preocupeis, o seu crime não ficará impune! XXX
+// Arkhan2 L perso2
+L29D61
+Não há mais nada a fazer por ela. XXX
+// Arkhan2 O perso2
+L29D62
+Não tem nada consigo. XXX
+// Arkhan3 L (encontra Lory morta) perso3
+L29D63A
+Lory... Não... XXX
+// Arkhan3 L perso3
+L29D63B
+Encontrar-te-ei, Thanandar, mesmo que tenha de deixar a pele no caminho! XXX
+// Arkhan3 L perso2
+L29D64
+Demasiado tarde para ela. XXX
+// Arkhan3 O (revista Lory) perso3
+L29D65
+Grrr... Nada. XXX
+// Arkhan2 L (vê Phedoria morta) perso2
+L29D70A
+Phedoria... não... XXX
+// Arkhan2 L perso2
+L29D70B
+Vão pagar-me isto! XXX
+// Arkhan2 O perso2
+L29D72
+Está morta... e a sua arma desapareceu. XXX
+// Arkhan3 L (vê Phedoria morta) perso3
+L29D71A
+Phedoria... XXX
+// Arkhan3 L perso3
+L29D71B
+Vingar-te-ei! XXX
+// Arkhan3 O perso3
+L29D73
+Morta... Não tem mais nada... XXX

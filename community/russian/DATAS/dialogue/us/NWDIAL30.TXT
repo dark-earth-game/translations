@@ -1,0 +1,73 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL30.TXT
+ // Arkhan2 G (hearing someone sneeze)perso2
+L30D05
+ Pnj ynj [wgj? XXX
+// Arkhan3 G (hearing someone sneeze)perso3
+L30D06
+ #? XXX
+// Konkalite5 (going to attack Arkhan) perso75
+L30D01
+ Hlj^ogfZ jfjisaiZ! XXX
+// Konkalite2 (attacking A.) perso72
+L30D02
+ Hjnal|gm|? A_d mz_Z, hZgwt! XXX
+// Arkhan2 G (speaking inside helmet)perso2
+L30D16
+ VnZ tnofj]diZ mgdtfjh n|b~gZ|, kld_~nm| a~ mi|nx! XXX
+// Arkhan3 G (speaking inside helmet)perso3
+L30D17
+ Jgdtfjh n|b~gwe. Fobij mi|nx a^j. XXX
+// Arkhan2 G (speaking inside helmet)perso2
+L31D83A
+ X ia hj^o iwlionx. XXX
+// Arkhan2 G perso2
+L31D83B
+ & [Zggjia ]jc_oqZ ian. XXX
+// Arkhan2 G perso2
+L31D83C
+ Fobij fZf-nj a^j iZkjgidnx... XXX
+// Arkhan3 G (speaking inside helmet)perso3
+L31D84A
+ Fa hj^o iwlionx... XXX
+// Arkhan3 G perso3
+L31D84B
+ $Zggji komnje. XXX
+// Arkhan3 G perso3
+L31D84C
+ Fobij iZkjgidnx... XXX
+// Arkhan2 L perso2
+L31D85A
+ Jgdtfjh ^go[jfj. XXX
+// Arkhan2 L perso2
+L31D85B
+ <mgd | iwlio, nj onjio! XXX
+// Arkhan2 O perso2
+L31D86
+ Fan! X fZhiah kje_o fj _io! XXX
+// Arkhan3 L perso3
+L31D87
+ Fan, mgdtfjh ^go[jfj... XXX
+// Arkhan3 O perso3
+L31D88
+ X onjio! XXX
+// Arkhan2 L perso2
+L30D11
+ Fa ]jgioem|, | _lo^! XXX
+// Arkhan2 O perso2
+L30D12
+ +Ze kljend, dgd | jnjl]o na[a ^jgj]o! XXX
+// Arkhan3 G perso3
+L30D13
+ Gnje_d dgd ohld! XXX
+// Arkhan2 G perso2
+L30D07
+ Fdsa^j... d ]j_Z jsaix qjgj_iZ|. XXX
+// Arkhan3 G perso3
+L30D08
+ Fdsa^j... d qjgj_ij! XXX
+// Arkhan2 G perso2
+L30D09
+ Njgj_ija d mfjgxcfja. XXX
+// Arkhan3 G perso3
+L30D10
+ Njgj_ija d mfjgxcfja. XXX

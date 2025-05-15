@@ -1,0 +1,37 @@
+Début du fichier F:\DEV\DKE\DATAS\DIALOGUE\SP\NWDIAL40.TXT
+ // Arkhan3 G (groggy) perso3
+L40D07A
+ Huh... Que caída... XXX
+// Arkhan3 G (groggy) perso3
+L40D07B
+ Mis huesos... están hechos añicos... XXX
+// Arkhan3 G perso3
+L40D04A
+ Esto es... la... Tumba... XXX
+// Arkhan3 G perso3
+L40D04B
+ Estoy... ¡La he encontrado! XXX
+// Arkhan3 G perso3
+L40D05A
+ El mal... Mi cuerpo... arde... XXX
+// Arkhan3 G perso3
+L40D05B
+ ¡Debo actuar... rápido! XXX
+// Arkhan3 G perso3
+L40D01
+ Unos relieves... Esto ha sido esculpido por hombres... Hace mucho tiempo... XXX
+// Arkhan3 G perso3
+L40D02
+ Una inmensa cadena tallada en la piedra. XXX
+// Arkhan3 G perso3
+L40D03
+ La piedra está caliente... XXX
+// Arkhan3 G perso3
+L40D06A
+ Unos restos de piedra... XXX
+// Arkhan3 G perso3
+L40D06B
+ Nada más que restos... XXX
+// Arkhan3 G perso3
+L40D08
+ Los restos de la hélice... XXX

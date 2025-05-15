@@ -1,0 +1,175 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL38.TXT
+ // Arkhan2 G (stupefied to discover Eden) perso2
+L38D01A
+ Boiling blood!... XXX
+// Arkhan2 G perso2
+L38D01B
+ What... ... What is this place?! XXX
+// Arkhan3 G (stupefied to discover Eden) perso3
+L38D02A
+ Boiling blood!... XXX
+// Arkhan3 G perso3
+L38D02B
+ What... ... What is it?!? XXX
+// Arkhan2 G (bending down to drink) perso2
+L38D03A
+ This water... Like liquid fire... XXX
+// Arkhan2 G perso2
+L38D03B
+ It... purifies me... but I feel... weaker... XXX
+// Arkhan3 G perso3
+L38D04A
+ Water... like fire...  XXX
+// Arkhan3 G perso3
+L38D04B
+ Purifies me... But my body's on fire... XXX
+// Arkhan2 G perso2
+L38D05
+ No, if I drink any more, it'll kill me. XXX
+// Arkhan3 G perso3
+L38D06
+ No, No. If I drink more it'll kill me! XXX
+// Arkhan2 G perso2
+L38D07
+ A block of rock crystal. XXX
+// Arkhan2 G perso2
+L38D08
+ My father's key must have been carved from stone just like this one. XXX
+// Arkhan3 G perso3
+L38D09
+ Rock crystal. XXX
+// Arkhan3 G perso3
+L38D10
+ That's what my father's key is made from. XXX
+// Arkhan2 G perso2
+L38D11
+ With that, I should be able to break off a sliver of crystal. XXX
+// Arkhan2 G perso2
+L38D12
+ No luck! There's no other sliver on the rock. XXX
+// Arkhan3 G perso3
+L38D13
+ With that, I'll break off a sliver. XXX
+// Arkhan3 G perso3
+L38D14
+ No... No other sliver up there. XXX
+// Arkhan2 G perso2
+L38D15A
+ Reminds me of the hothouse plants I saw the Providers grow. XXX
+// Arkhan2 G perso2
+L38D15B
+ But these are huge, green, full of life...  XXX
+// Arkhan2 G perso2
+L38D15C
+ Never seen anything like it! XXX
+// Arkhan2 G perso2
+L38D16
+ These plants are fantastic! XXX
+// Arkhan2 G perso2
+L38D17
+ Trees, plants, roots... Like the ones the Providers and the Oilers dream of. XXX
+// Arkhan2 G perso2
+L38D18
+ Even if I live long enough to tell people about this, no one in the Stallite will believe me. XXX
+// Arkhan3 G perso3
+L38D19A
+ Like in the Providers' hothouses... XXX
+// Arkhan3 G perso3
+L38D19B
+ But here... nature... life... grow free. XXX
+// Arkhan3 G perso3
+L38D19C
+ Incredible. XXX
+// Arkhan3 G perso3
+L38D20
+ These plants... fantastic... XXX
+// Arkhan3 G perso3
+L38D21
+ Plants, herbs, roots... everywhere! XXX
+// Arkhan3 G perso3
+L38D22
+ Never seen things like this in the Stallite... XXX
+// Arkhan2 L perso2
+L38D23
+ Rocks covered with moss. XXX
+// Arkhan2 O (hitting/shoving the rocks) perso2
+L38D24
+ Nah... Too big to move... XXX
+// Arkhan3 L perso3
+L38D25
+ Huge rocks, covered with moss. XXX
+// Arkhan3 O (hitting/shoving the rocks) perso3
+L38D26
+ Rrraahhh! Grrrrr..., too heavy! XXX
+// Arkhan2 G perso2
+L38D27
+ These roots are gigantic... XXX
+// Arkhan3 G perso3
+L38D28
+ Roots... Enormous... XXX
+// Arkhan2 G perso2
+L38D29
+ The path ends there. XXX
+// Arkhan3 G perso3
+L38D30
+ No more path. XXX
+// Arkhan2 G perso2
+L38D31
+ Huge trees... XXX
+// Arkhan3 G perso3
+L38D32
+ Huge trees... XXX
+// Arkhan2 G perso2
+L38D33
+ I've never seen a plant that big in my life! XXX
+// Arkhan3 G perso3
+L38D34
+ Never seen a plant that big! XXX
+// Arkhan2 G perso2
+L38D35
+ What a huge trunk. XXX
+// Arkhan3 G perso3
+L38D36
+ What a trunk! XXX
+// Arkhan2 L (pensively, by pond)perso2
+L38D37
+ Strange, the water seems to be shimmering. XXX
+// Arkhan2 L perso2
+L38D38
+ Doesn't look very deep... XXX
+// Arkhan2 O perso2
+L38D39
+ More water! I never took a bath like this before! XXX
+// Arkhan3 L perso3
+L38D40
+ Water... it's... shimmering... XXX
+// Arkhan3 L perso3
+L38D41
+ Not deep. XXX
+// Arkhan3 O perso3
+L38D42
+ Water! More water!! XXX
+// Arkhan2 G (touching the Mystic Guardian)perso2
+L38D43A
+ The stone is soft and warm... XXX
+// Arkhan2 G (touching the Mystic Guardian)perso2
+L38D43B
+ My fingers... throbbing. XXX
+// Arkhan3 G (touching the Mystic Guardian)perso3
+L38D44A
+ The stone's hot...  XXX
+// Arkhan3 G (touching the Mystic Guardian)perso3
+L38D44B
+ My fingers... Throbbing... XXX
+// Arkhan2 G perso2
+L38D45
+ A staircase... newly built... XXX
+// Arkhan2 G perso2
+L38D46
+ The staircase goes up into those vines. XXX
+// Arkhan3 G perso3
+L38D47
+ A staircase... not old... XXX
+// Arkhan3 G perso3
+L38D48
+ Goes into the trees... XXX

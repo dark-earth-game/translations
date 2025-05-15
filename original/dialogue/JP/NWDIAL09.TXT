@@ -1,0 +1,70 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL09.TXT
+ // Guardian8 (surprised by Arkhan, ready to shoot him) perso48
+L09D31A
+ Flaming hell! XXX
+// Guardian8 perso48
+L09D31B
+ You'll never get me! XXX
+// Arkhan1 L perso1
+L09D04A
+ This machine makes ammunition for spitrods.  XXX
+// Arkhan1 L perso1
+L09D04B
+ But I need metal that can be melted. XXX
+// Arkhan2 L perso2
+L09D05
+ I need to find metal that can be melted to make spitrod ammunition with this machine. XXX
+// Arkhan3 L perso3
+L09D06
+ I need metal that can be melted to make ammunition.  XXX
+// Arkhan1 O perso1
+L09D01
+  Blasted Darkness, how does this thing work! XXX
+// Arkhan2 O perso2
+L09D02
+  I don't have any idea how this thing works! XXX
+// Arkhan3 O perso3
+L09D03
+  Dark machine! XXX
+//Arkhan1 L perso1
+L09D13
+ Old worthless barrels. XXX
+//Arkhan2 L perso2
+L09D14
+ Nothing but empty barrels. XXX
+//Arkhan3 L perso3
+L09D15
+ Barrels... empty. XXX
+// Arkhan2 G perso2
+L04D44
+ It's not the right key! XXX
+// Arkhan3 G perso3
+L04D45
+ Wrong key! XXX
+//Arkhan1 G perso1
+L09D20
+ The water tank is empty. XXX
+//Arkhan2 L perso2
+L09D22
+ A water tank. Empty. XXX
+//Arkhan3 L perso3
+L09D24
+ A tank. Empty. XXX
+//Arkhan1 L perso1
+L09D25
+ I don't think this is a good time to sit down! XXX
+//Arkhan1 O perso1
+L09D26
+ I don't feel like sitting down! XXX
+//Arkhan2 L perso2
+L09D27
+ Maybe this isn't a good time to sit down! XXX
+//Arkhan2 O perso2
+L09D28
+ I don't wanna sit down! XXX
+//Arkhan3 L perso3
+L09D29
+ I won't sit down! XXX
+//Arkhan3 O perso3
+L09D30
+ I don't wanna sit down! XXX

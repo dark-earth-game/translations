@@ -1,0 +1,91 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\GB\NWDIAL35.TXT
+// Arkhan2 G (descobre o túnel submarino) perso2
+L35D01
+Pelo Rahal, posso andar debaixo de água! XXX
+// Arkhan3 G (descobre o túnel submarino) perso3
+L35D02
+Santa luz, ando debaixo de água! XXX
+// Arkhan2 G (no capacete) perso2
+L35D27
+Já não há ar... Não! XXX
+// Arkhan3 G (no capacete) perso3
+L35D28
+Já não há ar... Não! XXX
+// Arkhan2 G (encontra um afogado) perso2
+L35D03
+Pobre rapaz... os Konkalites atiraram-no atado a uma pedra! XXX
+// Arkhan3 G (encontra um afogado) perso3
+L35D04
+A última vítima dos Konkalites. XXX
+// Arkhan2 G perso2
+L35D100
+Aqui não há nada interessante. XXX
+// Arkhan3 G perso3
+L35D101
+Nada aqui. XXX
+// Arkhan2 G perso2
+L35D102
+Ali não há nada. XXX
+// Arkhan3 G perso3
+L35D103
+Não, nada. XXX
+// Arkhan2 G perso2
+L35D104
+Nada especial. XXX
+// Arkhan3 G perso3
+L35D105
+Não vejo nada. XXX
+// Arkhan2 G (diante de um esqueleto) perso2
+L35D07
+Isto é o que resta quando os Konkalites acabam... XXX
+// Arkhan3 G (diante de um esqueleto) perso3
+L35D08
+Mais uma vítima dos Konkalites. XXX
+// Arkhan2 L perso2
+L35D09
+As jaulas de tortura dos Konkalites. XXX
+// Arkhan3 L perso3
+L35D10
+Uma jaula de tortura Konkalite. XXX
+// Arkhan2 O (bate na jaula) perso2
+L35D11
+Uma maldita jaula de tortura! XXX
+// Arkhan3 O (bate na jaula) perso3
+L35D12
+Maldita jaula! XXX
+// Arkhan2 L perso2
+L35D15
+Um velho tonel. XXX
+// Arkhan2 O (disparando nos bidões) perso2
+L35D16
+Apenas um estúpido tonel! XXX
+// Arkhan3 L perso3
+L35D17
+Um velho tonel. XXX
+// Arkhan3 O (disparando nos bidões) perso3
+L35D18
+Ah, esses tonéis! XXX
+// Arkhan2 G (examina o esqueleto) perso2
+L35D19
+Nada mais que ossos... XXX
+// Arkhan3 G (examina o esqueleto) perso3
+L35D20
+Nada mais que ossos! XXX
+// Arkhan2 G (encontra um objeto sob um esqueleto) perso2
+L35D21
+Peço-te isto emprestado... Tinhas-o engolido? XXX
+// Arkhan3 G (encontra um objeto sob um esqueleto) perso3
+L35D22
+Obrigado, amigo! XXX
+// Arkhan2 G perso2
+L35D23
+Umas ruínas de Antes... XXX
+// Arkhan3 G perso3
+L35D24
+Ruínas de Antes... XXX
+// Arkhan2 G (monstro marinho) perso2
+L35D25
+Não, não é comestível! XXX
+// Arkhan3 G ("examina" o monstro marinho) perso3
+L35D26
+Não... nada para comer! XXX

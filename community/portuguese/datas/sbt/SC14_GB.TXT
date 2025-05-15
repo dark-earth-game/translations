@@ -1,0 +1,41 @@
+00:28:08	00:29:14		{Projeção automatizada Holotrek}
+00:29:16	00:31:24		{de 26 de dezembro de 2054.}
+00:32:18	00:33:14		{Gravamos esta mensagem}
+00:33:16	00:35:20		{do bunker subterrâneo Renascimento A-1,}
+00:36:00	00:37:12		{pouco menos de seis horas depois}
+00:37:14	00:38:18		{do primeiro impacto de meteorito}
+00:38:20	00:40:06		{registado no Médio Oriente.}
+00:40:22	00:41:20		{Como temíamos,}
+00:41:22	00:42:20		{o plano Anjos Guardiões}
+00:42:22	00:43:24		{posto em marcha para tentar}
+00:43:26	00:45:28		{desviar o cometa, foi um fracasso.}
+00:46:04	00:47:00		{A trajetória do cometa}
+00:47:02	00:47:22		{passou apenas a alguns}
+00:47:24	00:49:20		{milhares de quilómetros do nosso planeta.}
+00:49:22	00:51:20		{Contam-se já mais de}
+00:51:22	00:53:06		{cinco mil e cem impactos de meteoritos}
+00:53:08	00:54:20		{sobre a superfície do globo,}
+00:54:22	00:56:22		{e esperam-se os meteoros maiores}
+00:56:24	00:58:16		{nas doze horas seguintes...}
+00:58:26	00:59:28		{Os continentes estão já}
+01:00:00	01:01:04		{devastados pelos incêndios,}
+01:01:06	01:02:04		{as erupções vulcânicas}
+01:02:06	01:03:06		{e os maremotos.}
+01:04:18	01:06:02		{30% da atmosfera está já}
+01:06:04	01:08:08		{oculta pelas gigantescas nuvens de pó}
+01:08:10	01:10:12		{formadas no momento dos impactos}
+01:10:14	01:11:08		{e o conjunto do globo}
+01:11:10	01:13:00		{está ameaçado por um inverno nuclear.}
+01:13:20	01:15:08		{O termo catástrofe ecológica}
+01:15:10	01:16:26		{já não faz sentido.}
+01:16:28	01:18:18		{As nossas previsões mais otimistas}
+01:18:20	01:20:10		{estimam que 87.3%}
+01:20:12	01:21:20		{da vida terrestre}
+01:21:22	01:23:08		{está em perigo de extinção.}
+01:23:10	01:24:08		{O projeto Renascimento}
+01:24:10	01:25:24		{É uma tentativa para preservar...}
+01:26:16	01:28:22		{...Alguns elementos da tecnologia serão armazenados...}
+01:30:16	01:32:04		{...Utilizamos arcas criogénicas}
+01:32:06	01:33:12		{que permitirão a reconstrução}
+01:33:14	01:35:18		{da civilização...}
+01:36:08	01:38:18		{Aqui estão os procedimentos de reativação dos...}

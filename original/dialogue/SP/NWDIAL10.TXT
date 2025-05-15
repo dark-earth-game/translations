@@ -1,0 +1,566 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\SP\NWDIAL10.TXT
+// Kalhi (desamparada) perso13
+L03D500A
+ ¡Arkhan! Tú... ¿Por qué has hecho eso? XXX
+// Delia (agredida por Arkhan) perso10
+L03D09
+ ¡Te has vuelto loco! XXX
+ // Kalhi perso33
+L10D64A
+ ¡Por el momento, el Dios Sol está con nosotros! XXX
+// Kalhi perso33
+L10D64B
+ Ahora, va a ser necesario burlar al Guardián del Fuego que vigila la plataforma. XXX
+// Kalhi perso33
+L10D64C
+ No te dejará bajar nunca, conmigo o sin mí. XXX
+// Prneur1 perso18
+L10D78A
+ Nosotros los Predicadores, somos el instrumento del Dios Sol.  XXX
+// Prneur1 perso18
+L10D78B
+ Él habla por nuestra boca y os ve a todos a través de nuestros ojos. XXX
+// Prneur1 perso18
+L10D78C
+ ¡Hoy nos pide que resistamos a las tinieblas! XXX
+// Prneur1 perso18
+L10D78D
+ ¡Los herejes que han permitido a las tinieblas entrar en sus corazones lo pagarán con su sangre! XXX
+// Prneur1 perso18
+L10D78E
+ ¡Id, Guardianes del Fuego, y no olvidéis vuestra misión sagrada: sois el brazo vengador del Padre 
+Luminoso! XXX
+// Prneur1 perso18
+L10D78F
+ ¡Cazaréis a aquellos que están consagrados a la Oscuridad fuera del Stallite! XXX
+// Prneur1 perso18
+L10D78G
+ Palabra de Luz. XXX
+// Gardiens rÚunis perso55
+L10D79
+ ¡Palabra de Luz! XXX
+// Kalhi perso13
+L10D127
+ ¡Arkhan! ¡Has estado a punto de herirme! XXX
+// Kalhi perso13
+L10D128
+ ¡Venga, no nos quedemos más aquí! XXX
+// Kalhi perso33
+L10D57
+ ¡Aprovecharé para quitarme este sucio uniforme! XXX
+// Arkhan2 G perso2
+L10D51
+ ¡Ha faltado poco para que me viera! XXX
+// Arkhan3 G perso3
+L10D52
+ No pasó lejos... XXX
+// Kalhi perso13
+L10D53
+ ¡He tenido miedo por ti! XXX
+// Arkhan2 G perso2
+L10D54
+ Esto funciona... ¡Ya estoy en pie! XXX
+// Arkhan3 G perso3
+L10D55
+ Esto funciona... XXX
+// Kalhi perso13
+L10D56
+ ¡Bajemos rápidamente antes de que llegue alguien! XXX
+// Arkhan2 G perso2
+L10D80A
+ ¡Asqueroso Predicador! XXX
+// Arkhan2 G perso2
+L10D80B
+ ¡Va a matarme con sus historias de las criaturas de la Oscuridad! XXX
+// Arkhan3 G perso3
+L10D81A
+ ¡Asqueroso Predicador! XXX
+// Arkhan3 G perso3
+L10D81B
+ ¡Va a hacerme matar! XXX
+// Zed84 (Arkhan acaba de matar a dos guardianes) perso84
+L10D01A
+ ¡Arkhan! ¡Deténte, traidor! XXX
+// Arkhan 1 L perso1
+L10D96
+ ¡No te pongas nervioso Zed, sé lo que hago! XXX
+// Arkhan 1 O perso1
+L10D97
+ ¿Qué es lo que vas a hacerme? ¿Matarme? XXX
+// Zed84 perso84
+L10D01B
+ ¡No me dejas elección! XXX
+// Zed (abatido por haber tenido que matar a Arkhan) perso84
+L10D30
+ El deber es a menudo cruel, amigo mío. XXX
+// Rylsadhar perso20
+L10D05A
+ No, Gran Predicadora, no tengo tiempo de asistir a esa entrevista. XXX
+// Rylsadhar perso20
+L10D05B
+ Creedme, una amenaza se cierne sobre Sparta.  XXX
+// Rylsadhar perso20
+L10D05C
+ Nuestra ciudad entera está en peligro, lo presiento.  XXX
+// Rylsadhar perso20
+L10D05D
+ Sabéis que mis visiones siempre antes han resultado ser ciertas...  XXX
+// Rylsadhar perso20
+L10D05E
+ Os lo pido : dejadme continuar con mis investigaciones. XXX
+// Lory perso15
+L10D06
+ Pero Rylsadhar, ¿de qué tienes miedo? XXX
+// Rylsadhar perso20
+L10D07A
+ La Oscuridad, Gran Predicadora; la Oscuridad que amenaza con engullirnos a todos.  XXX
+// Rylsadhar perso20
+L10D07B
+ Las tinieblas están a nuestras puertas... y quizá incluso ya dentro de nuestros muros... XXX
+// Lory perso15
+L10D08
+ Tus palabras me inquietan, Rylsadhar. Sé prudente. XXX
+// Rylsadhar perso20
+L10D09
+ Coged esto. Prefiero no llevarla conmigo, es más seguro. XXX
+// Lory perso15
+L10D10
+ ¡Que la luz esté contigo, amigo mío! XXX
+// Rylsadhar perso20
+L10D11
+ ¡Que la luz esté con usted, Lory! XXX
+// Arkhan1 G perso1
+L10D12A
+ Mi padre y Lory, la Gran Predicadora, en plena discusión. XXX
+// Arkhan1 G perso1
+L10D12B
+ Tienen un aire extrañamente preocupado. XXX
+// Gardien8 (cargando un vehiculo pesado) perso1
+L10D29A
+ ¡Atención! XXX
+// Gardien2 (cargando un vehículo pesado) perso1
+L10D29B
+ ¡Venga! XXX
+// Gardien16 (cargando un vehículo pesado) perso1
+L10D29C
+ ¡Empujad! XXX
+// Gardien8 (cargando un vehículo pesado) perso1
+L10D29D
+ ¡Tirad! XXX
+// Gardien2 (cargando un vehículo pesado) perso1
+L10D29E
+ ¡Venga! XXX
+// Gardien16 (cargando un vehículo pesado) perso1
+L10D29F
+ ¡Empujad! XXX
+// Gardien8 (cargando un vehículo pesado) perso1
+L10D29G
+ Eh... ¡Subid! XXX
+// Gardien2 (cargando un vehículo pesado) perso1
+L10D29H
+ ¡Pfff! XXX
+// Gardien16 (cargando un vehciulo pesado) perso1
+L10D29I
+ ¡Casi está! XXX
+// Gardien15 perso55
+L10D35
+ ¡Vas a morir, monstruo! XXX
+// Gardien15 perso55
+L10D34
+ ¡Alerta! ¡Alerta, una criatura! XXX
+// Kalhi (acaba de ponerse unas ropas) perso33
+L10D129A
+ ¡Esto me está un poco justo! XXX
+// Kalhi perso33
+L10D129B
+ Espero que funcione... XXX
+// Kalhi perso13
+L10D98
+ ¡Arkhan! ¡Date prisa, por el amor del Dios Sol! XXX
+// Kalhi perso13
+L10D99
+ ¡Si nos quedamos aquí, se van a dar cuenta de nuestra presencia! XXX
+// Kalhi perso13
+L10D999
+ ¡Arkhan, vámonos de aquí! XXX
+// Kalhi perso13
+L10D42
+ ¡Arkhan! ¡Espera! XXX
+// Kalhi perso13
+L10D32
+ Arkhan, tengo una idea. XXX
+// Kalhi perso13
+L10D37A
+ Voy a intentar distraer a la guardia para que puedas descender por la plataforma. XXX
+// Kalhi perso13
+L10D37B
+ Tú, aproxímate discretamente para sorprenderle y matarle. XXX
+// Kalhi perso33
+L10D50
+ ¡Quédate a cubierto y déjame hacer mi papel! XXX
+// Kalhi perso13
+L10D73
+ ¡Guardia! ¡Tengo la impresión de que están ocurriendo cosas terribles en el gran Vestíbulo! XXX
+// Gardien15 (desconfiado) perso55
+L10D74
+ ¿Quién eres tu? XXX
+// Kalhi perso13
+L10D75
+ ¡Me envía Dhorkan! ¡Un ataque! ¡Venga, deprisa! XXX
+// Gardien15 (desconfiado) perso55
+L10D76
+ ¿Qué estás diciendo? XXX
+// Kalhi perso33
+L10D38A
+ ¡Guardián del Fuego! Pero, ¿que estás haciendo aquí? XXX
+// Kalhi perso33
+L10D38B
+ Tienes que reunirte con la Guardiana... eh... Kalhi en la sala del Rahal. XXX
+// Gardien15 (cogido desprevenido) perso55
+L10D39
+ ¿Qué? ¡No se me ha dicho nada! XXX
+// Kalhi perso33
+L10D40
+ ¡Date prisa! ¡Dhorkan no está de buen humor! XXX
+// Gardien15 (impresionado) perso55
+L10D41
+ ¡Dhorkan! ¡Bien.. voy! Gracias. XXX
+// Gardien15 (desconfiado) perso55
+L10D77
+ Es extraño. No veo nada anormal aquí... XXX
+// Kalhi perso13
+L10D43
+ ¡Arkhan! ¡Atención! XXX
+// Arkhan2 G perso2
+L10D47
+ ¡Has estado brillante! XXX
+// Arkhan3 G perso3
+L10D48
+ ¡Brillante! XXX
+// Kalhi perso33
+L10D49
+ Gracias. Pero será mejor no echar raíces aquí. XXX
+// Kalhi (desconcertada) perso13
+L10D103
+ ¡Arkhan! ¡Vuelves! XXX
+// Kalhi (desconcertada) perso13
+L10D104
+ ¿Qué demonio se ha apoderado de ti? XXX
+// Kalhi (casi llorando) perso13
+L10D105
+ ¡Es ese maldito veneno! XXX
+// Kalhi perso13
+L10D109A
+ Voy a esconderme detrás del carro para ver quién está de guardia sobre la plataforma. XXX
+// Kalhi perso13
+L10D109B
+ ¡Hazlo rápido, no van a tardar en descubrir que he volado! XXX
+// Arkhan2 G perso2
+L10D02A
+ Espera aquí. Volveré. XXX
+// Arkhan3 G perso3
+L10D02B
+ Vuelvo. XXX
+// Delia perso10
+L10D03A
+ Sobre todo, date prisa. XXX
+// Delia perso10
+L10D03B
+ No estoy tranquila... XXX
+//Arkhan2 G perso2
+L11D06
+ ¡No, llega la guardia! XXX
+//Arkhan3 G perso3
+L11D07
+ ¡No, ya llega! XXX
+// Arkhan1 L perso1
+L10D16
+ ¡Zed! ¿Que vienes a hacer aquí? XXX
+// Arkhan1 O perso1
+L10D18A
+ ¡Zed! Entonces, ya te has cansado de entrenarte. XXX
+// Arkhan1 O (hablando con segundas) perso1
+L10D18B
+ ¡O bien has tenido miedo de que Phedoria te provoque... en cuerpo a cuerpo! XXX
+// Zed perso84
+L10D19
+ ¡¿Quieres callarte?! XXX
+// Zed perso84
+L10D17A
+ Abajo estamos levantando un vehículo que ha sido reparado por tus amigos Buscadores. XXX
+// Zed perso84
+L10D17B
+ Yo tan sólo superviso la maniobra. XXX
+// Zed perso84
+L10D70
+ ¿Todo va bien abajo? XXX
+// Zed perso84
+L10D71
+ ¡Va, con nervios! XXX
+// Zed perso84
+L10D72
+ ¡Está bien, casi como vosotros! XXX
+// Arkhan1 L perso1
+L10D20
+ ¿Que es ese vehículo que levantáis? XXX
+// Arkhan1 O perso1
+L10D22
+ ¡Una de esas máquinas infernales! XXX
+// Zed perso84
+L10D21A
+ En concreto, es el carro a vela que he utilizado en mi última expedición. XXX
+// Zed perso84
+L10D21B
+ Estaba en un estado lamentable a mi vuelta.  XXX
+// Zed perso84
+L10D21C
+ Los Constructores no podían ocuparse de él, pero tu amigo Danrys se ha encargado de arreglarlo. XXX
+// Arkhan1 L perso1
+L10D24A
+ Deberías quedarte con nosotros para descansar. XXX
+// Arkhan1 L perso1
+L10D24B
+ No estás obligado a marcharte enseguida a la Oscuridad. XXX
+// Arkhan1 O perso1
+L10D26A
+ ¿Qué es lo que te obliga a pasar todo tu tiempo en la Oscuridad? XXX
+// Arkhan1 O perso1
+L10D26B
+ ¡No hay nada ahí abajo! XXX
+// Zed (misterioso) perso84
+L10D25A
+ Créeme, Arkhan, tengo mis razones. XXX
+// Zed (misterioso) perso84
+L10D25B
+ La oscuridad no está tan desierta como se cree. XXX
+// Zed perso84
+L10D25C
+ Venga, ahora a tu puesto... XXX
+// Zed (agredido por Arkhan) perso84
+L10D27
+ ¡Arkhan! ¡¿Qué te pasa?!  XXX
+// Arkhan2 G perso2
+L10D88
+ ¡No es esta llave! XXX
+// Arkhan3 G perso3
+L10D89
+ ¡No es la llave adecuada! XXX
+// Arkhan2 G perso2
+L10D90
+ ¡Ya está! XXX
+// Arkhan3 G perso3
+L10D91
+ ¡Ya está! XXX
+// Arkhan2 G perso2
+L10D84
+ Sería preciso abrir la reja. XXX
+// Arkhan3 G perso3
+L10D85
+ ¡Debo abrir la reja! XXX
+// Arkhan1 L perso1
+L10D04A
+ Hace algunas lunas que no hay casi agua en el pozo.  XXX
+// Arkhan2 L perso2
+L10D04B
+ Este pozo no tiene casi agua. XXX
+// Arkhan3 L perso3
+L10D04C
+ Casi no tiene agua. XXX
+// Arkhan1 O perso1
+L10D666
+ ¡Esta guarrería de pozo jamás ha dado bastante agua! XXX
+// Arkhan2 O perso2
+L10D667
+ ¡Guarrería de pozo! ¡No hay casi agua! XXX
+// Arkhan3 Operso3
+L10D668
+ ¡Guarrería de pozo! XXX
+// Arkhan2 G perso2
+L10D86
+ ¡Aquí no hay cerradura! XXX
+// Arkhan3 G perso3
+L10D87
+ ¡Aquí no hay cerradura! XXX
+// Arkhan1 L perso1
+L10D67
+ ¿Qué pasa por ahí abajo? XXX
+// Arkhan1 L perso1
+L10D68
+ ¿Me comprendes? XXX
+// Arkhan1 O (burlandose de los obreros de abajo) perso2
+L10D69A
+ (risa) XXX
+// Arkhan1 O perso2
+L10D69B
+ ¡Se desloman como idiotas mientras que yo me tumbo a la bartola! XXX
+// Arkhan2 G perso2
+L10D13A
+ Desde ahora estamos en la Ciudad Alta. XXX
+// Arkhan2 G perso2
+L10D13B
+ Todo irá bien. XXX
+// Arkhan3 G perso3
+L10D13C
+ Estamos en la Ciudad Alta. XXX
+// Arkhan3 G perso3
+L10D13D
+ Esto va a funcionar. XXX
+// Delia (verdaderamente intranquila) perso10
+L10D14
+ Si. Reunámonos rápido con Bogdaran.  XXX
+// Delia (Arkhan la enseña un objeto) perso10
+L10D92
+ ¡Vámonos de aquí, Arkhan! XXX
+// Arkhan2 G (Delia o Kalhi le golpean) perso2
+L10D93
+ ¡No tienes ninguna oportunidad, monín! XXX
+// Arkhan3 G (Delia o Kalhi le golpean) perso3
+L10D94
+ ¡Esto ha terminado para ti, pequeño! XXX
+// Delia (golpeada por Arkhan) perso10
+L10D95
+ ¡No, te estás volviendo loco, deténte! XXX
+// Arkhan2 G perso2
+L10D58
+ Si la cosa se pone fea, corre a casa de Danrys, ¿de acuerdo? XXX
+// Arkhan3 G perso3
+L10D59
+ ¡Si la cosa se pone fea, corre a casa de Danrys! XXX
+// Kalhi perso13
+L10D60
+ ¡De acuerdo, pero presta atención! XXX
+// Arkhan2 G perso2
+L10D61A
+ El Guardián que hay sobre la plataforma es duro de pelar.  XXX
+// Arkhan2 G perso2
+L10D61B
+ ¡Esto no va a ser fácil! XXX
+// Arkhan3 G perso3
+L10D62
+ Ese que guarda la plataforma es duro de pelar.  XXX
+// Kalhi perso13
+L10D63
+ Sería preciso idear un ardid para evitarlo... XXX
+// Arkhan2 G perso2
+L10D65
+ ¡Vámonos! ¡Ahora! XXX
+// Arkhan3 G perso3
+L10D66
+ ¡Vámonos! XXX
+// Arkhan2 G perso2
+L10D100
+ Kalhi, ¿conoces eso? XXX
+// Arkhan3 G perso3
+L10D101
+ Kalhi, mira eso. XXX
+// Kalhi (Arkhan la muestra un objeto) perso13
+L10D102
+ No tenemos tiempo, Arkhan. ¡Es preciso bajar! XXX
+// Arkhan2 G perso2
+L03D518
+ ¡Ten! Es un antiguo uniforme de Bogdaran... XXX
+// Arkhan2 G perso2
+L03D519
+ ¡Aunque te haga más barriga! XXX
+// Arkhan3 G perso3
+L03D520
+ Ponte esto. XXX
+// Kalhi perso13
+L03D521
+ De acuerdo, lo intentaré... XXX
+// Kalhi (inquieta) perso13
+L10D106
+ ¡Arkhan! ¡Cálmate! XXX
+// Kalhi (acobardada) perso13
+L10D107
+ ¡Para! XXX
+// Kalhi (obligada a defenderse) perso13
+L10D108
+ ¡Perdóname! XXX
+// Arkhan2 G perso2
+L10D44
+ ¿Cuál es el plan? XXX
+// Arkhan3 G perso3
+L10D45
+ ¿Qué vas a hacer? XXX
+// Kalhi perso33
+L10D46
+ Confía en mí, voy a desembarazarme de ese Guardián del Fuego. XXX
+// Arkhan2 G perso2
+L10D130A
+ Ponte esto, es un viejo uniforme de Bogdaran. XXX
+// Arkhan2 G perso2
+L10D130B
+ ¡Antes de que se volviera gordo y seboso! XXX
+// Arkhan3 G perso3
+L10D131
+ ¡Ponte esto! XXX
+// Kalhi  perso13
+L10D132
+ De acuerdo, me lo pongo... XXX
+// Arkhan2 G perso2
+L10D110
+ ¡Eh, me escuchas! ¡Aguanta! XXX
+// Gardien1 (muriendo) perso41
+L10D112A
+ Demasiado tarde... Ellas están ahí... Demasiado fuertes, nada... pude hacer... XXX
+// Gardien1 (último suspiro) perso41
+L10D112B
+ La oscuridad... jamás... XXX
+// Arkhan3 G perso3
+L10D111
+ ¿Me escuchas? ¡Eh! XXX
+// Gardien1 (muriendo) perso41
+L10D113A
+ Has vuelto a rematarme... criatura... XXX
+// Gardien1 (último suspiro) perso41
+L10D113B
+ Inútil... mi alma está ya con... el Dios Sol... XXX
+// Arkhan2 L perso2
+L10D114A
+ Si esos monstruos han llegado hasta aquí, deben estar por todas partes. XXX
+// Arkhan2 L perso2
+L10D114B
+ ¡Debo encontrar la Tumba, debo volver a traer la luz! XXX
+// Arkhan3 L perso3
+L10D115A
+ ¡Estas criaturas están por todas partes! XXX
+// Arkhan3 L perso3
+L10D115B
+ ¡Debo encontrar la Tumba! ¡Volver a traer la luz! XXX
+// Arkhan2 O perso2
+L10D116
+ ¡Antes morir que volverme como eso! XXX
+// Arkhan 3O perso3
+L10D117
+ ¡Antes morir que parecerme a eso! XXX
+// Arkhan2 L perso2
+L10D118A
+ Pobre Tharek... XXX
+// Arkhan2 L perso2
+L10D118B
+ La criatura no le ha dado una oportunidad. XXX
+// Arkhan3 L perso3
+L10D119
+ Pobre Tharek... XXX
+// Arkhan2 L perso2
+L10D120
+ Demasiados muertos... Es necesario volver a traer la luz sobre Sparta. XXX
+// Arkhan3 L perso3
+L10D121
+ Demasiados muertos... ¡Debo volver a traer la luz! XXX
+// Arkhan2 L perso2
+L10D122A
+ ¡Es Broos! XXX
+// Arkhan2 L perso2
+L10D122B
+ Uno de mis mejores amigos... XXX
+// Arkhan3 L perso3
+L10D123
+ Broos... Tú también muerto... XXX
+// Arkhan2 L perso2
+L10D124
+ ¡Esta masacre debe detenerse! XXX
+// Arkhan3 L perso3
+L10D125
+ ¡Es necesario detener esta masacre! XXX

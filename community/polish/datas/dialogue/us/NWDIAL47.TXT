@@ -1,0 +1,52 @@
+Début du fichier F:\DEV\DKE\DATAS\DIALOGUE\US\NWDIAL47.TXT
+ // Arkhan3 G perso3
+L24D11
+ Thanandar! XXX
+// Thanandar (impatient) perso24
+L24D13
+ No i, co z ta krypta? XXX
+// Arkhan2 L perso2
+L24D25
+ Czy wiesz co sie ze mna dzieje? Kim jestes? XXX
+// Arkhan2 O perso2
+L24D26
+ Kimkolwiek jestes, trzymaj sie z dala albo skonczysz tak jak tamto scierwo! XXX
+// Thanandar (to someone on the other side of the door) perso24
+L24D17
+ Wszystko w porzadku kapitan Phedorio! Wszystko w najlepszym porzadku! XXX
+// Thanandar perso24
+L24D27A
+ No juz, spokojnie. Jestem tu by ci pomoc. XXX
+// Thanandar perso24
+L24D27B
+ Ten przesadny glupiec nie wiedzial co czyni. XXX
+// Arkhan2 O perso2
+L24D28
+ A wiec powiedz mi kim jestes... i co sie ze mna dzieje?! XXX
+// Thanandar perso24
+L24D29A
+ Jestem Thanandar, Patrzacy w Slonce, jak twoj ojciec. Ale ponad wszystko jestem uzdrowicielem. XXX
+// Thanandar perso24
+L24D29B
+ I wiem co ci dolega Arkhanie. Wiem az zbyt dobrze. XXX
+// Arkhan2 L perso2
+L24D30
+ Czy jest na to jakis lek? XXX
+// Arkhan2 O perso2
+L24D31
+ Mowisz, ze jestes uzdrowicielem. Wiec ulecz mnie! XXX
+// Thanandar perso24
+L24D20
+ Dosc tego! Jestem tu by ci pomoc! XXX
+// Arkhan2 L perso2
+L24D05
+ Wybacz Gwardzisto Ognia, nie dales mi wyboru... XXX
+// Arkhan2 O perso2
+L24D06
+ Skonczony idiota! Nie trzeba sie bylo ta rzucac! XXX
+// Thanandar (admiring) perso24
+L24D07A
+ Niewiarygodne! Wciaz stoisz na nogach, zywy! XXX
+// Thanandar perso24
+L24D07B
+ Jak sie czujesz? Wyglada na to, ze zniosles to dobrze... XXX

@@ -1,0 +1,67 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\IT\NWDIAL45.TXT
+// Delia perso10
+L16D122
+Fermo! Mi fai paura! XXX
+ // Arkhan2 G perso2
+L45D15
+Resta solo questa scala da salire... XXX
+// Arkhan3 G perso3
+L45D16
+È in alto! XXX
+// Delia perso10
+L45D17
+Cominciamo. XXX
+// Delia (Arkhan le mostra un oggetto) perso10
+L02D104
+No. Ti prego, sbrighiamoci... XXX
+// Arkhan2 L (s'è battuto con Delia) perso2
+L45D01
+Basta Delia, calmati! XXX
+// Arkhan2 O (s'è battuto con Delia) perso2
+L45D02
+Ne vuoi ancora, donnaccia?! XXX
+// Arkhan3 L (s'è battuto con Delia) perso3
+L45D03
+Basta così! XXX
+// Delia (picchiata da Arkhan) perso10
+L45D04
+Ma cosa ti prende?!? XXX
+// Arkhan2 G perso2
+L45D05
+Ritorno... XXX
+// Arkhan3 G perso3
+L45D06
+Ritorno... XXX
+// Arkhan2 G perso2
+L45D07
+Non c'è più niente. XXX
+// Arkhan3 G perso3
+L45D08
+Più niente qui. XXX
+// Arkhan2 L perso2
+L45D200
+Non ci sono più placche! XXX
+// Arkhan3 L perso3
+L45D201
+Non ci sono più placche! XXX
+// Arkhan1 L perso1
+L45D09A
+La catena è arrugginita. XXX
+// Arkhan1 L perso1
+L45D09B
+Questo vecchio verricello è fuori uso. XXX
+// Arkhan2 L perso2
+L45D10
+Inutilizzabile, è tutto arrugginito.  XXX
+// Arkhan3 L perso3
+L45D11
+Inutile, tutto è arrugginito. XXX
+// Arkhan1 O (picchia sul verricello) perso1
+L45D12
+Porcheria, è completamente fuori uso! XXX
+// Arkhan2 O (picchia sul verricello) perso2
+L45D13
+Completamente arrugginito! XXX
+// Arkhan3 O (picchia sul verricello) perso3
+L45D14
+Completamente arrugginito! XXX

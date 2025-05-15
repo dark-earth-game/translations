@@ -1,0 +1,181 @@
+Début du fichier F:\DEV\DKE\DATAS\DIALOGUE\IT\NWDIAL11.TXT
+ // Garde (nervosamente) perso32
+L11D01
+Non avvicinarti, faccia di fuliggine! Torna nell'Oscuro! XXX
+// Garde (colpisce Arkhan) perso32
+L11D02
+T'avevo avvertito! XXX
+// Garde (nervosamente) perso32
+L11D03
+Alt! Non avvicinarti, la Torre dei Costruttori è chiusa! XXX
+// Garde (nervosamente) perso32
+L11D04
+Ehi, tu! Vattene da qui! È chiusa! XXX
+// Garde (attacca Arkhan) perso32
+L11D05
+Piuttosto prendi questo! XXX
+// Garde (ad Arkhan che scappa) perso32
+L11D45
+Se torni, ti stacco la testa dal collo! XXX
+//Arkhan2 G perso2
+L11D06
+No, arriva la guardia! XXX
+//Arkhan3 G perso3
+L11D07
+No, arriva! XXX
+// Arkhan2 L perso2
+L11D08
+Fammi passare! Devo parlare col Mastro-Costruttore, è molto importante! XXX
+// Garde perso32
+L11D09
+Impossibile! Ho degli ordini: non passa nessuno! XXX
+// Arkhan2 L perso2
+L11D10A
+Credimi, devo parlare col Mastro-Costruttore. XXX
+// Arkhan2 L perso2
+L11D10B
+Forse ho il modo per salvarci tutti! XXX
+// Garde perso32
+L11D11A
+Sei sordo o cosa? Nessun estraneo ha il diritto di entrare. XXX
+// Garde perso32
+L11D11B
+Soprattutto con una faccia come la tua! XXX
+// Arkhan2 L perso2
+L11D12
+Senti, so che qui siete in allarme, ma ti giuro che non voglio far male al Mastro-Costruttore. XXX
+// Garde perso32
+L11D13A
+Basta così! Mastro Bandor non sa che farsene di te! XXX
+// Garde perso32
+L11D13B
+Vattene o ti spello! XXX
+// Arkhan2 L perso2
+L11D14
+Forse potremmo accordarci, no? XXX
+// Garde perso32
+L11D14A
+No, niente accordi! XXX
+// Garde perso32
+L11D14B
+Io resterò qui a crepare di fame.. mentre tu vedi di sparire! XXX
+// Arkhan2 L perso2
+L11D15A
+D'accordo, stai obbedendo a degli ordini, lo capisco.  XXX
+// Arkhan2 L perso2
+L11D15B
+Ma tu hai l'aria sfinita e affamata. Forse posso aiutarti... XXX
+// Garde perso32
+L11D16A
+Già, mi sembra di sentire la pancia gorgogliarmi nelle orecchie. XXX
+// Garde perso32
+L11D16B
+Ma non illuderti che questo mi faccia abbandonare il mio posto! XXX
+// Arkhan2 L perso2
+L11D17A
+Non preoccuparti, non ho intenzione di entrare, se me lo proibisci.   XXX
+// Arkhan2 L perso2
+L11D17B
+Ma con tutto quel che sta succedendo, dovresti pensare di mantenerti in forze, no? XXX
+// Arkhan2 L perso2
+L11D17C
+Se non mangi, per esempio, diverrai meno attento. XXX
+// Garde perso32
+L11D18A
+Hai ragione. Non ho ingoiato niente dall'alba. XXX
+// Garde perso32
+L11D18B
+Non avresti qualcosa da sgranocchiare? XXX
+// Arkhan2 L perso2
+L11D19
+Adesso vedo se posso trovarti qualcosa... XXX
+// Arkhan2 L perso2
+L11D20
+Beh, allora, mi lasci passare? XXX
+// Garde perso32
+L11D21A
+Sei diventato scemo o cosa? Ho detto di no! XXX
+// Garde (sputando) perso32
+L11D21B
+Puah, la tua robaccia mi ha seccato la gola! XXX
+// Arkhan2 O perso2
+L11D22
+Levati di là, devo vedere il Mastro-Costruttore! XXX
+// Garde perso32
+L11D23A
+Vaffanculo, faccia da topo! XXX
+// Garde perso32
+L11D23B
+Non passa nessuno! Fila! XXX
+// Arkhan2 O (fa il duro) perso2
+L11D24A
+Non hai capito, amico. XXX
+// Arkhan2 O (fa il duro) perso2
+L11D24B
+Tu... smammi, e io... passo! XXX
+// Garde perso32
+L11D25
+È quel che vedremo! XXX
+// Arkhan2 G perso2
+L11D26
+Mi lasci entrare se ti do questo? XXX
+// Garde perso32
+L11D27
+Ah, è disgustoso! Vattene o ti cambio i connotati! XXX
+// Garde perso32
+L11D28
+Lascia perdere, nessuno entra, ed è tutto! XXX
+// Arkhan2 G perso2
+L11D29
+Tieni, ecco di che calmare l'appetito. XXX
+// Garde perso32
+L11D30
+Sì! Dai qua XXX
+// Garde (masticando) perso32
+L11D31
+Mille Soli, amico! Fa star meglio.  XXX
+// Garde (masticando) perso32
+L11D32
+Hmm... ah sì, è veramente buono! XXX
+// Garde (masticando) perso32
+L11D33
+C'è appena di che saziare una femminuccia! XXX
+// Garde (masticando) perso32
+L11D34
+Fa bene alle budella, 'sta roba! XXX
+// Garde (finisce di deglutire) perso32
+L11D35
+Ma è veramente troppo salata... XXX
+// Arkhan2 G perso2
+L11D36
+Toh, ho trovato questo. Ti va? XXX
+// Garde perso32
+L11D37A
+Bastardo dell'Oscuro, ti stai burlando di me! XXX
+// Garde perso32
+L11D37B
+Adesso ti sbudello! XXX
+// Arkhan2 G perso2
+L11D38
+Tieni dunque, bevi un sorsetto. XXX
+// Garde perso32
+L11D39
+Mica lo rifiuto! XXX
+// Garde perso32
+L11D40A
+Ma è vuota! XXX
+// Garde perso32
+L11D40B
+Mi stai sfottendo!?! XXX
+// Garde perso32
+L11D42A
+Sole-Dio, sei veramente un imbecille! XXX
+// Garde perso32
+L11D42B
+Non ho sete, ho fame! XXX
+// Arkhan2 G perso2
+L11D43
+La sua alabarda è rotta!  XXX
+// Arkhan3 G perso3
+L11D44
+La sua arma s'è rotta! XXX

@@ -1,0 +1,388 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL25.TXT
+ // Kalhi (frightened) perso13
+L25D106
+ #lqZi, nw ]aliogm|! Pnj kljdmqj_dn? XXX
+// Arkhan2 G perso2
+L25D200A
+ Fdfj^j! XXX
+// Arkhan2 G perso2
+L25D200B
+ Co_Z _a]Zgdmx hje jnar d CZgd?! XXX
+// Arkhan3 G perso3
+L25D201A
+ Fdfj^j! XXX
+// Arkhan3 G perso3
+L25D201B
+ *_a ba hje jnar d CZgd?! XXX
+// Kalhi (arrives shouting, interrupts) perso13
+L25D15
+ Hlj]d_ar IdgmZ_Zl, snj... XXX
+// Kalhi (frightened) perso13
+L25D16A
+ $j^ JjgirZ hdgjmnd]we! #... #lqZi?! XXX
+// Kalhi (frightened) perso13
+L25D16B
+ Vnj... ynj nw? XXX
+// Rylsadhar perso20
+L25D100A
+ +Z, ynj _aemn]dnagxij #lqZi. XXX
+// Rylsadhar perso20
+L25D100B
+ Ka gz_d, snj qjnagd o[dnx Djld, cZlZcdgd a^j. XXX
+// Rylsadhar (uneasy in Kalhi's presence) perso20
+L25D17A
+ #lqZi, fZf | d ^j]jldg... X... X jn]a_o na[| no_Z, fZf d j[auZg. XXX
+// Rylsadhar (uneasy in Kalhi's presence) perso20
+L25D17B
+ Fj miZsZgZ | _jgbai kjgosdnx j_j[laida fjhai_ZinZ +jlfZiZ. XXX
+// Rylsadhar (uneasy in Kalhi's presence) perso20
+L25D17C
+ A_d f Zlqd]Zldomo JamaqZio d b_d hai| nZh. XXX
+// Kalhi (tearfully) perso13
+L25D18A
+ #lqZi! Dz[dhwe, snj jid m_agZgd m nj[je? XXX
+// Kalhi (tearfully) perso13
+L25D18B
+ K]j~... gdrj... d lofd... XXX
+// Kalhi (tearfully) perso13
+L25D18C
+ Ka[a iobij j[lZndnxm| ] ^jmkdnZgx, f ragdnag|h! XXX
+// Rylsadhar1 perso20
+L25D93
+ Fa cZ[o_x, #lqZi: ]mnlasZahm| ] qlZha, o Zlqd]ZldomZ! XXX
+// Rylsadhar (A. hits him) perso20
+L25D26
+ Hljfg|nda ElZfZ m]agj na[| m ohZ! XXX
+// Rylsadhar (A. hits him) perso20
+L25D55
+ Eje mwi, ian! Fa kj__Z]Zem| |_o, kjbdlZzuaho n]jz _oto! XXX
+// Rylsadhar (alarmed by Arkhan's appearance) perso20
+L25D07A
+ #lqZi! &agdfde JjgZZl! Faobagd ynj nw? XXX
+// Rylsadhar (alarmed by Arkhan's appearance) perso20
+L25D07B
+ Djld klZ]Z, jid cZlZcdgd na[|. Vnj Hljfg|nda ElZfZ! XXX
+// Rylsadhar perso20
+L25D27
+ HjbZgoemnZ, mwi, omkjfjem|! XXX
+// Arkhan1 L perso1
+L25D01A
+ +Z kla[o_an m nj[je J]an, jnar. XXX
+// Arkhan1 L perso1
+L25D01B
+ Kw ] kjl|_fa? Kw ]lj_a lZmmnljai... XXX
+// Arkhan1 O perso1
+L25D106A
+ Hld]an, kZk! XXX
+// Arkhan1 O perso1
+L25D106B
+ Kw ]w^g|_dtx snj-nj ia]Zbiarfd! XXX
+// Rylsadhar perso20
+L25D02A
+ +Z kla[o_an m nj[je J]an, #lqZi. XXX
+// Rylsadhar perso20
+L25D02B
+ Ej~ sagj jhlZsZzn klj[gahw, fjnjlwa | _jgbai latdnx. XXX
+// Arkhan1 L perso1
+L25D03
+ L na[| njsij ]m~ qjljtj? XXX
+// Arkhan1 O perso1
+L25D06
+ Pnj kljdmqj_dn? &agdfZ| klj]d_drZ jhlZsZan n]jz bdcix? XXX
+// Rylsadhar perso20
+L25D04A
+ HalamnZix, #lqZi. XXX
+// Rylsadhar (wearily)perso20
+L25D04B
+ Hljto, mwi, ia kj_]j_d hai|. &alidmx iZ m]je kjmn. XXX
+// Rylsadhar perso20
+L25D04C
+ Cjhai_Zin ia okomfZan mgosZ|, snj[w mfZcZnx hia, snj nw jkjc_Zg iZ lZ[jno! XXX
+// Arkhan2 G perso1
+L25D104
+ Pnj nw j[ ynjh mfZbatx, jnar? XXX
+// Rylsadhar perso20
+L25D105A
+ Fa nla]jbx hai|, #lqZi, hia mnjgxfj ]ma^j maesZm iZ_j j[_ohZnx. XXX
+// Rylsadhar perso20
+L25D105B
+ A o na[| iZ]ali|fZ amnx _agZ kj]Zbiae! XXX
+// Arkhan2 L perso2
+L25D08
+ Gnar, snj kljdmqj_dn mj hije? Pnj cZ iZkZmnx? XXX
+// Rylsadhar (touched by the fate of his son) perso20
+L25D09A
+ #lqZi... Jwi. K]j| jn]Z^Z mkZmgZ &agdfoz Hlj]d_dro. XXX
+// Rylsadhar perso20
+L25D09B
+ Fj | ia ciZz, snj hjban mkZmnd na[| jn ynj^j cgZ. XXX
+// Rylsadhar perso20
+L25D09C
+ Ew kldgjbdh _g| ynj^j ]ma mdgw. XXX
+// Rylsadhar perso20
+L25D09D
+ KZiZi_Zl, iZt gostde ragdnagx, oba lZ[jnZan ]j ]mz hjsx. XXX
+// Arkhan2 L perso2
+L25D10A
+ KZiZi_Zl mfZcZg, snj ji ia hjban hia kjhjsx. XXX
+// Arkhan2 L perso2
+L25D10B
+ *j]jldn, a_dimn]aiija mla_mn]j mflw]Zan fZfje-nj mfgak. XXX
+// Rylsadhar (startled) perso20
+L25D11
+ Pnj? KZiZi_Zl lZmmfZcZg na[a j[ ynjh... hamna? XXX
+// Arkhan2 G perso2
+L25D12A
+ +Z, ji mfZcZg, njgxfj nw _jlj^o ciZatx... XXX
+// Arkhan2 G perso2
+L25D12B
+ Gnar, hia iobiZ n]j| kjhjux! XXX
+// Rylsadhar (making his decision) perso20
+L25D13A
+ <mgd [w | ciZg, snj ynj j_iZb_w mgosdnm|... XXX
+// Rylsadhar perso20
+L25D13B
+ Gn]Z^je d mZhjkjbaln]j]Zidah nw cZmgobdg klZ]j ciZnx! XXX
+// Rylsadhar perso20
+L25D13C
+ Kjgxfj kjhid, mwi: na[| ]j_dnx ] ynj m]|uaiija hamnj hia cZklauaij. XXX
+// Rylsadhar perso20
+L25D13D
+ X iZloto fg|n]o, lZ_d n]ja^j mkZmaid|. XXX
+// Rylsadhar perso20
+L25D13E
+ Hjj[auZe hia, snj idfjho ia lZmmfZbatx j njh, snj o]d_dtx. XXX
+// Arkhan2 L perso2
+L25D14
+ X j[auZz. XXX
+// Arkhan2 O perso2
+L25D19
+ Gnar, snj kljdmqj_dn mj hije? Hljfg|nxa, fZfZ| [jgx! XXX
+// Arkhan2 O perso2
+L25D20A
+ KZiZi_Zl! Gi idsa^j ia hjban! XXX
+// Arkhan2 O perso2
+L25D20B
+ *j]jldn, gafZlmn]j ] fZfjh-nj nZeijh hamna. Vnj mfgak! XXX
+// Arkhan2 O perso2
+L25D21
+ Fo _Z, _Z, j[auZz ]m~, snj cZqjsatx, njgxfj kjhj^d hia! XXX
+// Arkhan3 G perso3
+L25D22
+ Gnar, nZf [jgxij! XXX
+// Arkhan3 G perso3
+L25D23A
+ KZiZi_Zl... ia hjban! XXX
+// Arkhan3 G perso3
+L25D23B
+ JfZcZg, gafZlmn]j ] nZeijh mfgaka. XXX
+// Arkhan3 G perso3
+L25D24
+ JfZcZg, nw hia kjfZbatx! XXX
+// Arkhan3 G perso3
+L25D25
+ A_~n. XXX
+// Kalhi perso13
+L25D85
+ #lqZi, ian! XXX
+// Kalhi perso13
+L25D86
+ Ve. Lmkjfjem|. XXX
+// Kalhi (afraid) perso33
+L04D41
+ #lqZi! Pnj iZtgj iZ na[|? XXX
+// Arkhan2 L perso2
+L25D62
+ Fa [jem|, CZgd, ]m~ [o_an qjljtj. XXX
+// Arkhan2 O perso2
+L25D64
+ Eia qoba... [jgx ]m~ mdgxiae. HjlZ iZend kZkZto! XXX
+// Kalhi (moved) perso13
+L25D63A
+ +Z, | ]alz ] IdgmZ_ZlZ. XXX
+// Kalhi (moved) perso13
+L25D63B
+ Ka[a m idh gosta ]mnlandnxm| kjmfjlae. XXX
+// Arkhan2 L perso2
+L25D58
+ Gnar iZh kjhjban, ia [jem|! XXX
+// Arkhan2 O perso2
+L25D61
+ Fa ]jgioem|, jnar j[j ]m~h kjcZ[jndnm|! XXX
+// Kalhi (moved) perso13
+L25D59A
+ IZ_d $j^Z JjgirZ, iZ_azmx, ji kjhjban. XXX
+// Kalhi (moved) perso13
+L25D59B
+ X [jzmx cZ na[|, #lqZi. XXX
+// Kalhi (moved) perso13
+L25D59C
+ A snj klj]d_rw mfZbon, o]d_a], snj nw... mnZg nZfdh? XXX
+// Kalhi (moved) perso13
+L25D59D
+ & idq ]mkwqian mnlZq. Gid hj^on dc^iZnx na[| ] >ahgd ElZfZ! XXX
+// Arkhan2 L (reassuringly) perso2
+L25D56A
+ CZgd... mkjfjeij... XXX
+// Arkhan2 L perso2
+L25D56B
+ JgotZe, hia iobij [wgj kjkZmnx ] ^jmkdnZgx. XXX
+// Arkhan2 L perso2
+L25D56C
+ # mnlZb j^i| iZ hai| iZ[ljmdgm|. XXX
+// Arkhan2 L perso2
+L25D56D
+ Gi kljmnj ia ociZg hai|, kldi|] cZ kjljb_aida ElZfZ. XXX
+// Arkhan2 O perso2
+L25D60A
+ Kdta, _anfZ! Kw njgxfj ia tohd! XXX
+// Arkhan2 O perso2
+L25D60B
+ Fagxc| hia maesZm ] ^jmkdnZgx... XXX
+// Arkhan2 O perso2
+L25D60C
+ X [wg nZh oba, ij ia omkag | j^g|ionxm|, fZf iZ hai| mnlZb iZ[ljmdgm|. XXX
+// Arkhan2 O perso2
+L25D60D
+ Gi ]jkdg non, snj | - kjljb_aida ElZfZ. &w[jlZ ia [wgj, | o_Zldg ] jn]an! XXX
+// Kalhi (moved) perso13
+L25D57A
+ Hld njh, snj n]jldnm| ]jflo^, ]maq kljmnj kZidfZ jq]ZndgZ. XXX
+// Kalhi (moved) perso13
+L25D57B
+ Cjhai_Zin ]c|g mnZggZen kj_ m]j~ iZsZgj. &jljnZ cZflwnw. XXX
+// Kalhi (moved) perso13
+L25D57C
+ +jmnok f Fdbiaho ^jlj_o kalaflwn, kond iZcZ_ ian. XXX
+// Kalhi (moved) perso13
+L25D57D
+ # mnlZbd j^i| kj]mz_o ]wdmfd]Zzn ]dij]iwq. XXX
+// Kalhi (moved) perso13
+L25D57E
+ JnlZtij kj_ohZnx, snj [o_an, amgd hai| iZe_on! XXX
+// Arkhan2 G perso2
+L25D94A
+ &audrZ jnrZ, _jgbij [wnx. XXX
+// Arkhan2 G perso2
+L25D94B
+ Kw ia ciZatx, snj [w ynj hj^gj [wnx? XXX
+// Kalhi perso13
+L25D95
+ Fan. Kw ba ciZatx, | ia ohaz sdnZnx... XXX
+// Kalhi perso13
+L25D101A
+ X ia ciZz. XXX
+// Kalhi perso13
+L25D101B
+ #lqZi, ia ]Zbij! XXX
+// Kalhi perso13
+L25D101C
+ Pnj laZgxij ]Zbij, ynj iZend nj, snj na[a kjhjban! XXX
+// Arkhan3 G perso3
+L25D66
+ Eia iobij jnwmfZnx jnrZ. XXX
+// Arkhan3 G perso3
+L25D67
+ +j]alxm| IdgmZ_Zlo. XXX
+// Arkhan3 G perso3
+L25D68A
+ CZgd... &m~... XXX
+// Arkhan3 G perso3
+L25D68B
+ >Z[o_x klj ^jmkdnZgx... JnlZb qjnag o[dnx hai|. XXX
+// Arkhan3 G perso3
+L25D68C
+ Hldtgjmx cZuduZnxm|... X kldfjisdg a^j. XXX
+// Arkhan3 G perso3
+L25D102A
+ GnrZ ]audrZ... XXX
+// Arkhan3 G perso3
+L25D102B
+ >iZatx, ynj snj? XXX
+// Arkhan2 O perso2
+L04D37
+ +al~txm|, fZf nlom! XXX
+// Arkhan2 L perso2
+ L04D38
+ Ve, Z nw iakgjqj _al~txm|, ]alij?! XXX
+// Arkhan3 O perso3
+ L04D39
+ Gq ob... IZc]a nZf _alonm|?! XXX
+// Arkhan3 L perso3
+ L04D40
+ Ve, Z nw d ]kl|hx ohaatx _lZnxm|, ]alij? XXX
+// Kalhi (forced to defend herself) perso33
+ L04D43
+ #lqZi, ian! XXX
+// Kalhi (frightened) perso33
+ L04D42
+ Fan, #lqZi! Kw _jgbai omnj|nx! XXX
+// Arkhan1 G perso1
+L25D28
+ Pnj nZh m]alqo? XXX
+// Arkhan1 G perso1
+L25D29
+ Fdsa^j kldhasZnagxij^j! XXX
+// Arkhan1 G perso1
+L25D30
+ FZ yndq kjgfZq j_di gdtx qgZh! XXX
+// Arkhan2 G perso1
+L25D31
+ Fdsa^j nZfj^j. XXX
+// Arkhan2 G perso1
+L25D33
+ P~ln! Fdsa^j. XXX
+// Arkhan3 G perso1
+L25D35
+ Fdsa^j. XXX
+// Arkhan1 L perso1
+L25D43
+ Vnj fjhiZnZ hja^j jnrZ. XXX
+// Arkhan1 O perso1
+L25D44
+ Gnrj]mfde jpdm. XXX
+// Arkhan1 L (facing globe) perso1
+L25D49
+ Gnar ^j]jldn, ynjn tZl dcj[lZbZan iZt hdl. XXX
+// Arkhan1 O (facing globe) perso1
+L25D50
+ <u~ j_iZ [amkjgaciZ| ]aux dc $wgj^j! XXX
+// Arkhan1 G perso1
+L25D76
+ FZ ]d_ |]ij cZhjf. XXX
+// Arkhan2 G perso2
+L25D77
+ Hjqjba iZ cZhjf. XXX
+// Arkhan2 L perso2
+L25D81
+ KZf hia a^j ia jnflwnx. XXX
+// Arkhan3 G perso3
+L25D78
+ JnlZiiwe cZhjf. XXX
+// Arkhan3 L perso3
+L25D84
+ Vnj hia ia kjhjban! XXX
+// Arkhan2 L perso2
+L25D79
+ Fan, fgzso ia _jmnZ~n sa^j-nj. XXX
+// Arkhan2 O perso2
+L25D80
+ Hljfg|nxa! Fa kj_jtgj! XXX
+// Arkhan3 L perso3
+L25D82
+ Cgzso ia _jmnZ~n sa^j-nj. XXX
+// Arkhan3 O perso3
+L25D83
+ &m~ ia nZf! XXX
+// Arkhan2 O (frustrated) perso2
+L25D74
+ Co_Z jnar-nj _agm|?! XXX
+// Arkhan3 O (frustrated) perso3
+L25D75
+ Gnar! +Z ^_a b nw? XXX
+// Arkhan2 G perso1
+L25D87
+ # snj non midco? XXX
+// Arkhan3 G perso1
+L25D88
+ Pnj nZh ]idco? XXX

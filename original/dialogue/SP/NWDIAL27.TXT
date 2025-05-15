@@ -1,0 +1,266 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\SP\NWDIAL27.TXT
+ // Arkhan2 G perso2
+L51D111
+ El calor es demasiado fuerte, no puedo avanzar. XXX
+// Arkhan3 G perso3
+L51D112
+ ¡Qué calor! No puedo acercarme... XXX
+// Konkalite4 perso74
+L27D01
+ ¡Es tu turno, cretino! XXX
+// Arkhan2 L perso2
+L20D30
+ ¿Por qué no hablas aquí y ahora? XXX
+// Arkhan2 O perso2
+L20D31
+ ¡Explícate aquí y ahora! XXX
+// Arkhan3 L perso3
+L20D32
+ ¡Explícate, aquí! XXX
+// Arkhan3 O perso3
+L20D33
+ ¡Habla! XXX
+// Lory perso15
+L20D34
+ No debemos quedarnos aquí. Vamos. XXX
+// Arkhan2 G perso2
+L20D35
+ Pero... Gran Predicadora... XXX
+// Arkhan3 G perso3
+L20D36
+ Gran Predicadora... XXX
+// Lory perso15
+L20D37
+ ¡Escucha lo que te digo, sígueme! XXX
+// Phedoria perso26
+L20D38
+ ¡Estás firmando tu detención de por vida, Arkhan! XXX
+// Arkhan2 L perso2
+L20D39
+ Phedoria, ¿qué es lo que pasa aquí? XXX
+// Arkhan2 O perso2
+L20D40
+ ¿Qué es lo que pasa aquí? XXX
+// Arkhan3 L perso3
+L20D41
+ ¡Phedoria, explícate! XXX
+// Arkhan3 O perso3
+L20D42
+ ¡Explícate! XXX
+// Phedoria perso26
+L20D43
+ ¡Lory te aclarará la situación! XXX
+// Arkhan2 G perso2
+L20D44
+ Pero... Capitana... XXX
+// Arkhan3 G perso3
+L20D45
+ Capitana... XXX
+// Phedoria perso26
+L20D46
+ ¡Síguenos! XXX
+// Arkhan2 G perso2
+L27D01A
+ Esto representa el combate que llevaron a cabo los fundadores justo antes de llegar al Stallite. XXX
+// Arkhan2 G perso2
+L27D01B
+ Yo siempre había creído que este monstruo era una leyenda... XXX
+// Arkhan2 G perso2
+L27D01C
+ ¡Con lo que veo aquí, he cambiado de opinión! XXX
+// Arkhan3 G perso3
+L27D02A
+ El combate de los fundadores antes de llegar al Stallite. XXX
+// Arkhan3 G perso3
+L27D02B
+ ¡Me pregunto qué deseo ser, el hombre o el monstruo! XXX
+// Arkhan2 G perso2
+L27D03A
+ La construcción del Stallite. XXX
+// Arkhan2 G perso2
+L27D03B
+ Se dice que los primeros hombres nacidos bajo la luz no habían visto el final de la obra. XXX
+// Arkhan3 G perso3
+L27D04A
+ La construcción del Stallite. XXX
+// Arkhan3 G perso3
+L27D04B
+ Cientos de hombres han dejado su vida. XXX
+// Arkhan2 G perso2
+L27D05A
+ El Stallite construido. XXX
+// Arkhan2 G perso2
+L27D05B
+ No pasa un día sin que cada uno ruegue al Dios Sol que continúe brillando. XXX
+// Arkhan2 G perso3
+L27D05C
+ ¡Esta vez, las oraciones no bastarán! XXX
+// Arkhan3 G perso3
+L27D06A
+ El Stallite. XXX
+// Arkhan3 G perso3
+L27D06B
+ Bendito sea por la luz del Dios Sol. XXX
+// Arkhan3 G perso3
+L27D06C
+ ¡Sí, hasta hoy! XXX
+// Arkhan2 G perso2
+L27D07A
+ Esto representa la gran luminosidad que domina la cúspide del templo. XXX
+// Arkhan2 G perso2
+L27D07B
+ Envía los rayos del Dios Sol lejos en la Oscuridad, el orgullo de los Predicadores. XXX
+// Arkhan3 G perso3
+L27D08A
+ Esto representa la gran luminosidad, en la cúspide del templo. XXX
+// Arkhan3 G perso3
+L27D08B
+ Envía los rayos del Dios Sol muy lejos en la Oscuridad. XXX
+// Arkhan2 G perso2
+L27D09A
+ No veo más que esto. XXX
+// Arkhan2 G perso2
+L27D09B
+ Puede ser una estatua, una reliquia de Antes... XXX
+// Arkhan3 G perso3
+L27D10
+ Eso, no sé lo que es... XXX
+// Arkhan2 G perso2
+L27D11
+ ¡Es la inmensa estatua de piedra luminosa en la gruta! XXX
+// Arkhan3 G perso3
+L27D12
+ ¡Es la estatua de la gruta! XXX
+// Arkhan2 G perso2
+L27D13A
+ Los Buscadores. XXX
+// Arkhan2 G perso2
+L27D13B
+ Siempre se dice que son los holgazanes y los incapaces del Stallite. XXX
+// Arkhan2 G perso2
+L27D13C
+ Que no saben más que rebuscar en las ruinas de Antes y arrastrarse en la mierda para encontrar su 
+subsistencia. XXX
+// Arkhan2 G (una sonrisa en la voz) perso2
+L27D13D
+ Pero los que dicen esto no conocen ni a Danrys ni a Kalhi ni a los otros... XXX
+// Arkhan3 G perso3
+L27D14A
+ Los Buscadores. XXX
+// Arkhan3 G perso3
+L27D14B
+ Ellos viven de las excavaciones, de la recuperación, del trueque. XXX
+// Arkhan3 G perso3
+L27D14C
+ Pero no son todos incapaces y holgazanes. XXX
+// Arkhan3 G (una sonrisa en la voz) perso3
+L27D14D
+ Habría que ver a Kalhi y Danrys... XXX
+// Arkhan2 G perso2
+L27D15A
+ Los Alimentadores. XXX
+// Arkhan2 G perso2
+L27D15B
+ Viven en la ciudad baja con los Buscadores. XXX
+// Arkhan2 G perso2
+L27D15C
+ Pescan, cazan, cultivan: son los que alimentan a los habitantes del Stallite. XXX
+// Arkhan3 G perso3
+L27D16A
+ Los Alimentadores. XXX
+// Arkhan3 G perso3
+L27D16B
+ Viven en la ciudad baja con los Buscadores. XXX
+// Arkhan3 G perso3
+L27D16C
+ Pescan, cazan, cultivan: son ellos los que nos alimentan. XXX
+// Arkhan2 G perso2
+L27D23A
+ Los Constructores. XXX
+// Arkhan2 G perso2
+L27D23B
+ Son ellos los que han construido el Stallite bajo la tutela de los Predicadores. XXX
+// Arkhan2 G perso2
+L27D23C
+ Ellos lo hacen todo, edificios, herramientas, muebles... XXX
+// Arkhan3 G perso3
+L27D24A
+ Los Constructores. XXX
+// Arkhan3 G perso3
+L27D24B
+ Ellos han construido el Stallite con los Predicadores. XXX
+// Arkhan3 G perso3
+L27D24C
+ Edificios, herramientas, muebles: lo hacen todo. XXX
+// Arkhan2 G perso2
+L27D17A
+ Los Guardianes del Fuego. XXX
+// Arkhan2 G perso2
+L27D17B
+ Al servicio de la población del Stallite para ofrecerles protección, fuego y luz, día y noche. XXX
+// Arkhan2 O perso2
+L27D17C
+ ¡Hablas de ti! XXX
+// Arkhan3 G perso3
+L27D18A
+ Los Guardianes del Fuego. XXX
+// Arkhan3 G perso3
+L27D18B
+ Protectores del Stallite y de su población. XXX
+// Arkhan3 O perso3
+L27D18C
+ ¡Mentiras! XXX
+// Arkhan2 G perso2
+L27D19A
+ Los Predicadores. XXX
+// Arkhan2 G perso2
+L27D19B
+ Los elegidos del Dios Sol, depositarios de la fe. XXX
+// Arkhan2 G perso2
+L27D19C
+ Ellos nos guían y nos protegen de la herejía. XXX
+// Arkhan2 O perso2
+L27D19D
+ ¡Cuando no están ocupados en acosar a aquellos que les ayudan! XXX
+// Arkhan3 G perso3
+L27D20A
+ Los Predicadores. XXX
+// Arkhan3 G perso3
+L27D20B
+ Los elegidos del Dios Sol, nuestros guías. XXX
+// Arkhan3 O perso3
+L27D20C
+ ¡Unos guías cegados y supersticiosos! XXX
+// Arkhan2 G perso2
+L27D21A
+ El consejo. XXX
+// Arkhan2 G perso2
+L27D21B
+ El grabado representa esta sala. XXX
+// Arkhan2 G perso2
+L27D21C
+ Aquí es donde Lory y sus consejeros toman sus decisiones. XXX
+// Arkhan3 G perso3
+L27D22A
+ El consejo. De hecho, es esta sala. XXX
+// Arkhan3 G perso3
+L27D22B
+ Es en esta sala donde Lory y sus consejeros toman sus decisiones. XXX
+// Arkhan2 G perso2
+L27D25A
+ La estatua de Thelen Khron, fundador del Stallite. XXX
+// Arkhan2 O perso2
+L27D25B
+ ¡Todos esos Predicadores viven en el pasado! XXX
+// Arkhan3 G perso3
+L27D26
+ El fundador del Stallite. XXX
+// Arkhan1 G perso1
+L27D27
+ ¿Qué es lo que quieres? XXX
+// Konkalite4 perso74
+L27D28
+ ¡Matarte! XXX
+// Konkalite4 perso74
+L27D29
+ ¡Muere! XXX

@@ -1,0 +1,390 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL31.TXT
+L31D83A
+ X ia hj^o iwlionx. XXX
+// Arkhan2 G perso2
+L31D83B
+ & [Zggjia [jgxta ian ]jc_oqZ. XXX
+// Arkhan2 G perso2
+L31D83C
+ Fobij fZf-nj a^j iZkjgidnx... XXX
+// Arkhan3 G (speaking inside helmet)perso3
+L31D84A
+ Fa hj^o iwlionx... XXX
+// Arkhan3 G perso3
+L31D84B
+ $Zggji komnje. XXX
+// Arkhan3 G perso3
+L31D84C
+ Fobij iZkjgidnx... XXX
+// Arkhan2 L perso2
+L31D85A
+ Jgdtfjh ^go[jfj. XXX
+// Arkhan2 L perso2
+L31D85B
+ <mgd | klw^io, nj onjio! XXX
+// Arkhan2 O perso2
+L31D86
+ Fan! X fZhiah kje_o fj _io! XXX
+// Arkhan3 L perso3
+L31D87
+ Fan, mgdtfjh ^go[jfj... XXX
+// Arkhan3 O perso3
+L31D88
+ X onjio! XXX
+ // Sordos perso23
+L34D04A
+ Nl-l-l... (mkgziog) XXX
+// Konkalite8 (to Konkalite10) perso78
+L31D500
+ Ve, ynj au~ fnj? XXX
+// Konkalite8 (shouting at Arkhan) perso78
+L31D35
+ Kw! Ve, nw, nZh! Hj_je_d [gdba! XXX
+// Konkalite8 perso78
+L31D36
+ Ve! +Z]Ze bd]aa! XXX
+// Konkalite8 perso78
+L31D37
+ Hj_je_d [gdba, snj[w hw ]d_agd n]j~ gdrj! XXX
+// Konkalite8 (shouting)perso78
+L31D38
+ &c|nx a^j! XXX
+// Konkalite8 (shouts at A. who is leaving)perso78
+L31D39
+ Ve! # io ]alidmx-fZ! XXX
+// Bork perso30
+L31D501
+ Ve! Kw fnj?! XXX
+// Konkalite11 perso81
+L31D502
+ Ve, $jlf, nw ciZatx ynj^j kZli|? XXX
+// Bork perso30
+L31D503
+ Fan! XXX
+// Konkalite11 perso81
+L31D507
+ Ejgdmx, iamsZmniwe! XXX
+// Bork (roaring)perso30
+L31D504
+ A fo_Z ynj nw mj[lZgm|?! XXX
+// Konkalite11 perso81
+L31D89
+ Hj_i|nx nla]j^o! XXX
+// Konkalite8 (attacked by A.)perso78
+L31D53
+ Auatx iakld|nijmnae, Z?! XXX
+// Konkalite8 perso78
+L31D01
+ Kw fnj? XXX
+// Arkhan3 L perso3
+L31D22
+ Le_d m _jlj^d, | ia qjso kldsdi|nx na[a [jgx! XXX
+// Konkalite8 perso78
+L31D25A
+ Ve, nw... nw, [ZtfZ ^idgZ|! XXX
+// Konkalite8 perso78
+L31D25B
+ Fdfnj ia mhaan hia nZf ^j]jldnx! XXX
+// Konkalite8 perso78
+L31D27
+ X iZoso na[| _albZnx ljn iZ cZhfa! XXX
+// Arkhan2 L perso2
+L31D02
+ Fa cZ]j_dmx, _lo^. X iZ n]jae mnjljia. XXX
+// Konkalite8 perso78
+L31D03A
+ Vnj m sa^j nw ]c|g? X ]dbo na[| ] kal]we lZc! XXX
+// Konkalite8 perso78
+L31D03B
+ Ew, ]jj[ua-nj, sobdq ia jmj[j gz[dh! XXX
+// Konkalite8 perso78
+L31D21C
+ X [w ia kljsx jn]a_Znx n]je tnjgg! XXX
+// Arkhan2 O (sure of himself)perso2
+L31D04A
+ Vnj b |, d_djn! XXX
+// Arkhan2 O (sure of himself)perso2
+L31D04B
+ J]Zgd, dgd Jjl_jm ociZan, snj nw hai| cZ_albZg! XXX
+// Konkalite8 perso78
+L31D05
+ Pnj? Cj^j nw iZc]Zg d_djnjh, ^jgj]atfZ? XXX
+// Arkhan2 L perso2
+L31D06
+ JgotZe, nw ]lj_a [w njgfj]we kZlai~f. +Z]Ze ]m~ j[mo_dh... XXX
+// Konkalite8 perso78
+L31D07
+ G[mo_dh, fZf ba, hatjf jnmnj|! +Z nw - kjfjeidf! XXX
+// Arkhan2 O perso2
+L31D08
+ >Znfidmx, sal]|f, d _Ze kljend! XXX
+// Konkalite8 perso78
+L31D09
+ Pnj?! X na[a kZmnx lZchjcbo, hlZcx! XXX
+// Arkhan2 G perso2
+L31D10
+ &m~ qjljtj? XXX
+// Konkalite8 perso78
+L31D11A
+ Njljtj, fZf ba! Panwla mhalnd m ]jmqj_Z! XXX
+// Konkalite8 perso78
+L31D11B
+ CZf ] cZ_idra cZijcZ! XXX
+// Konkalite8 (in a low voice) perso78
+L31D11C
+ X j njh klj]d_ra, m fjnjlwh Jjl_jm _lob[o cZ]~g. XXX
+// Konkalite8 (in a low voice) perso78
+L31D11D
+ Gi kldiam~n iZh [a_o! XXX
+// Konkalite8 perso78
+L31D11E
+ Fj hw ]m~ au~ flosa ]maq ] Fdbiah ^jlj_a. XXX
+// Konkalite8 perso78
+L31D11F
+ *lZ[dnx, flotdnx ]m~ kj_l|_, hjbij fj^j-nj kjhosdnx. Po_iZ| bdcix. Fo, nw kji|g, j s~h |? XXX
+// Konkalite8 perso78
+L31D11G
+ QZefZ #lhZgZ JZ_ZfZ ia kjhaqZ _g| iZm! XXX
+// Arkhan2 G perso2
+L31D12
+ # mnlZbd j^i|? XXX
+// Konkalite8 perso78
+L31D13A
+ Vnd? Vnd ]j]ma iZm ia [amkjfj|n! XXX
+// Konkalite8 perso78
+L31D13B
+ &a_x dq ^gZ]iwe o Jjl_jmZ ] fogZfa! XXX
+// Konkalite8 perso78
+L31D13C
+ FZ ]d_ flon, ij iZ mZhjh _aga amn o Jjl_jmZ m lofd! XXX
+// Konkalite8 perso78
+L31D13D
+ # ynjn kmdq >a_, ia_jg^j aho ob jmnZgjmx! XXX
+// Arkhan2 G perso2
+L31D14
+ *j]jldtx, Jjl_jm ]mnokdg ] m^j]jl m fjhai_Zinjh mnlZbae j^i|? XXX
+// Konkalite8 perso78
+L31D15A
+ X b ^j]jlz, _lo^, Jjl_jm d^lZan b~mnfj, d ji oh~i. XXX
+// Konkalite8 perso78
+L31D15B
+ Gi _Z]ij oba _albdn +jlfZiZ iZ fjljnfjh kj]j_fa. XXX
+// Konkalite8 perso78
+L31D15C
+ A Jjl_jm ^j]jldn, snj ]amx mnZggZen mfjlj [o_an o iZm ] lofZq. XXX
+// Konkalite8 perso78
+L31D15D
+ Ew [o_ah _aix iZkljg~n kdnx _Z amnx, _Z cZ[Z]g|nxm| mj ]mahd pdpZhd dc &alqia^j ^jlj_Z, snj kjbagZah. XXX
+// Konkalite8 perso78
+L31D15E
+ Fo Z klj]d_rw - jid [o_on ij^d iZh gdcZnx! XXX
+// Arkhan2 G (whispering to himself) perso2
+L31D16
+ (klj ma[|) Fo, kjhasnZe... XXX
+// Arkhan2 G perso2
+L31D17
+ Pnj ynj cZ klj]d_ar, j fjnjljh nw ^j]jldg? XXX
+// Konkalite8 (whispering)perso78
+L31D18A
+ X ia ciZz a^j dhaid d ciZnx ia qjso. Gn ia^j [o_nj ]aan mhalnxz! XXX
+// Konkalite8 (whispering)perso78
+L31D18B
+ Fj cZnj, Jjl_jm mfZcZg, [gZ^j_Zl| aho hw _j[al~hm| _j klj]d_ra]. XXX
+// Konkalite8 perso78
+L31D18C
+ A kj]alx hia, | ia kljsx kldgjbdnx gZko f &agdfje Hlj]d_dra. JhafZatx, | j s~h? XXX
+// Konkalite8 perso78
+L31D18D
+ Agd _ohZatx, mnZlj]ZnZ oba? XXX
+// Konkalite8 perso78
+L31D18E
+ Fo, hjban, mga^fZ. Fj | ]ma^_Z [wg ialZ]ij_otai f idcfjljmgwh... XXX
+// Arkhan2 L perso2
+L31D19
+ IZmmfZbd hia au~! XXX
+// Arkhan2 O perso2
+L31D20
+ # io, lZmmfZbd hia au~! XXX
+// Konkalite8 perso78
+L31D21A
+ +j]jgxij ]jkljmj]! XXX
+// Konkalite8 perso78
+L31D21B
+ Kw iZsdiZatx hai| lZc_lZbZnx! XXX
+// Arkhan3 G perso3
+L31D42
+ Hjgosd d _Ze hia kljend. XXX
+// Konkalite8 perso78
+L31D43A
+ Pnj nw j ma[a ]jcjhidg, flwmdiZ| hjl_Z?! XXX
+// Konkalite8 perso78
+L31D43B
+ Ew na[a maesZm kjfZbah! XXX
+// Arkhan2 L perso2
+L31D40
+ V, hjban, tnjgg? NjljtZ| ]aux! XXX
+// Arkhan2 O perso2
+L31D41
+ Ve, nZfjho kZliz _jgbai ilZ]dnxm| tnjgg! XXX
+// Konkalite8 perso78
+L31D44
+ Qnjgg? +Z, nZud mz_Z! XXX
+// Konkalite8 perso78
+L31D45
+ #q-q! Hlj[dlZan _j mZhwq kas~ijf! XXX
+// Arkhan2 G perso2
+L31D46
+ <mnx au~? XXX
+// Konkalite8 perso78
+L31D48
+ Fan! Fa jnfZbomx! XXX
+// Konkalite8 perso78
+L31D47
+ #q-q! JgZ]ij ^laan! XXX
+// Konkalite8 (about to pass out)perso78
+L31D49
+ Gi... Gi qjljt... XXX
+// Arkhan2 G perso2
+L31D50
+ Pnj _ohZatx? XXX
+// Konkalite8 perso78
+L31D51
+ K]j| tnosfZ-_lzsfZ hai| ia dinalamoan. XXX
+// Konkalite10 perso80
+L31D82
+ Hjmhjnldh, ia jmnZgjmx gd o na[| hjgjsiwq co[j]! XXX
+// Konkalite10 perso80
+L31D54
+ X ciZz na[|? XXX
+// Arkhan3 L perso3
+L31D90
+ Lmkjfjem|! FZh iasa^j m nj[je _agdnx! XXX
+// Konkalite10 perso80
+L31D70
+ X ia msdnZz na[| fjmnxz ] ^jlga, ij ]jn n]jd kalamsdnZg [w! XXX
+// Konkalite10 perso80
+L31D71
+ X ia [jzmx na[|! XXX
+// Konkalite10 perso80
+L31D55
+ G_di dc iZm? J nZfje-nj ljbae? Kw hai| cZ _olZfZ _albdtx dgd fZf? XXX
+// Arkhan2 L perso2
+L31D56
+ Fan-ian. Fa ]jgioem|. XXX
+// Konkalite10 (with exaggerated deference)perso80
+L31D57
+ # ]w o iZm fnj, hdmnal Pdmnzg|? XXX
+// Arkhan2 L perso2
+L31D58
+ Lmkjfjem|, ^j]jlz. X gdtx kjnjgfj]Znx qjso. XXX
+// Konkalite10 perso80
+L31D59
+ Hjnjgfj]Znx, Z? Fo, nw |]ij ia no_Z kjkZg! XXX
+// Konkalite10 perso80
+L31D60
+ Amsacid! XXX
+// Konkalite10 perso80
+L31D61A
+ +Z, Jjl_jm mfZcZg, hw [o_ah klZ]dnx mnZggZenjh. XXX
+// Konkalite10 perso80
+L31D61B
+ Njsatx ciZnx hj~ hiaida - mfjlj hij^da jmnZionm| [ac ^jgj]w... XXX
+// Konkalite10 perso80
+L31D61C
+ Fa gz[gz | yndq mnlZbae j^i|. Jjl_jm m dq [jmmjh ]Zmx-]Zmx, ij ynd kZlid ia kj_sdi|znm| idfjho, fljha fZf $j^o JjgirZ. XXX
+// Konkalite10 perso80
+L31D61D
+ Fa o]alai, snj ]ma jid kg|ton kj_ j_io _o_o. XXX
+// Konkalite10 perso80
+L31D61E
+ &jn snj kjgosdgjmx: ]j ]lah| iZkZ_aid| iZ &agdfoz Hlj]d_dro >a_ o[d]Zg iZtdq [lZnxa]! XXX
+// Konkalite10 perso80
+L31D61F
+ Jjl_jm [wg kljmnj ]ia ma[|! XXX
+// Arkhan2 G perso2
+L31D62
+ Cjhai_Zin +jlfZi cZj_ij m Jjl_jmjh? XXX
+// Konkalite10 perso80
+L31D63A
+ Fo _Z, kj_kdmZgd kZfn. XXX
+// Konkalite10 perso80
+L31D63B
+ Ew o[lZgd kZlo la[|n, fjnjlwa hatZgd +jlfZio, Z ji kjcZ[jndgm|, snj[w iZm ia _jmnZ]Zgd mnlZbd j^i|. XXX
+// Arkhan2 L perso2
+L31D64
+ Fo _Z, io _Z. Jjl_jm oh~i, ]m~ nZf... Ejban, o ia^j ] mjzcidfZq ia njgxfj +jlfZi? XXX
+// Arkhan2 O perso2
+L31D65
+ # fljha +jlfZiZ amnx au~ kla_Znagd mla_d mnlZbae? XXX
+// Konkalite10 perso80
+L31D66A
+ +jlfZi - hagfZ| mjtfZ. Jfjlj ji kje_~n lw[ fjlhdnx iZ _ij fZiZgZ. XXX
+// Konkalite10 perso80
+L31D66B
+ FZ Jjl_jmZ lZ[jnZan j_di klj]d_ar. XXX
+// Konkalite10 perso80
+L31D66C
+ &jn fnj iZm m_agZan fjljg|hd JkZlnw! XXX
+// Konkalite10 perso80
+L31D67
+ Fo, ia ciZz! Kw hai| oba _jmnZg mj m]jdhd ]jkljmZhd! &Zgd jnmz_Z! XXX
+// Arkhan2 O perso2
+L31D68
+ +Z [ljmx, ia [o_x nw fZf bgj[, lZmmfZbd au~! XXX
+// Konkalite10 perso80
+L31D69
+ X kla_okla_dg! $o_atx hai| _jmnZ]Znx - kjbZgaatx! XXX
+// Konkalite10 perso80
+L31D75A
+ +ohZatx, iZko^Zg hai|? XXX
+// Konkalite10 perso80
+L31D75B
+ X maesZm ^jgwhd lofZhd na[a kZmnx kjl]o! XXX
+// Konkalite10 perso80
+L31D76
+ Qnjgg, ^j]jldtx? Pnj b, | ia kljsx ^ogxionx! XXX
+// Konkalite10 perso80
+L31D77
+ #q-q! &jn ob mj^la]Zan kjnljqZ! XXX
+// Konkalite10 perso80
+L31D72
+ <mgd tnjgg l|_jh, | ]ma^_Z iZe_o mnZfZi! XXX
+// Konkalite10 perso80
+L31D78
+ #q! JZhja jij! XXX
+// Konkalite10 (going to pass out)perso80
+L31D79
+ Vn... yn... ynj flakfZ| ]aux... XXX
+// Konkalite10 perso80
+L31D80
+ Eia kga]Znx, snj nZh o na[| amnx! XXX
+// Bork perso30
+L31D506
+ Lhld! XXX
+// Arkhan2 O perso2
+L31D505
+ # io, kjmnjljidmx dgd m_jqiatx! XXX
+// Arkhan2 G perso2
+L31D900
+ *lo_Z mnZlwq [jsaf. XXX
+// Arkhan3 G perso3
+L31D901
+ *lo_Z [jsaf. XXX
+// Arkhan2 L perso2
+L31D902
+ CZiZg kljqj_dn ^go[jfj kj_ mnZggZenjh. XXX
+// Arkhan3 L perso3
+L31D904
+ Hj_cahiwe fZiZg. A iZ nZfje ^go[dia. XXX
+// Arkhan2 O perso2
+L31D903
+ &j_Z ]ji|an, fZf ^idzuZ| kgjnx! XXX
+// Arkhan3 O perso3
+L31D905
+ &j_Z ]ji|an, fZf ^idzuZ| kgjnx! XXX
+// Arkhan2 G perso2
+L31D906
+ Hj yndh nlo[Zh m]alqo kj_Z~nm| ]jc_oq. XXX
+// Arkhan3 G perso3
+L31D907
+ Palac ynj ]jc_oq kj_Z~nm|. XXX

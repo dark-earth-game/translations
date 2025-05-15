@@ -1,0 +1,204 @@
+12345678901234567890123456789012345678901234567890
+
+@1
+Viejo uniforme de Bogdaran
+@2
+Anillo Llave de Rylsadhar
+@3
+Tarjeta de metal perforada
+@4
+Plato
+@5
+Barra de metal
+@6
+Recarga de lanzallamas
+@7
+Bolas de plomo para escupidor
+@8
+Líquido hirviendo para escupidor
+@9
+Puño de metal
+@10
+Mapa llano de Antes.
+@11
+Llave de piedra roja.
+@12
+Cristal tallado en punta
+@13
+Legumbre Gorda
+@14
+Llave Konkalit
+@15
+Llave de Sordos
+@16
+Llave de Bogdaran
+@17
+Martillo
+@18
+Cristal de la llave (biselado a la izquierda)
+@19
+Cristal de la llave (biselado a la derecha)
+@20
+Espejo de Antes
+@21
+Frasco redondo
+@22
+Frasco pequeño
+@23
+Rayo de Antes
+@24
+Cantimplora de Stohll (llena)
+@25
+Ropas
+@26
+Hacha de batalla
+@27
+Lanzallamas
+@28
+Cuchillo largo
+@29
+Palo de hélice
+@30
+Picador de la Alimentadora
+@31
+Poción de Thanandar
+@32
+Rayo ofrecido por Kalhi
+@33
+Placa de plomo
+@34
+Patata
+@35
+Rayo de Zed
+@36
+Raíz gruesa
+@37
+Alabarda corta
+@38
+Sable de Guardián del Fuego
+@39
+Municiones del rayo ofrecido por Kalhi
+@40
+Objeto desconocido de Antes (aislado en aceite)
+@41
+Objeto desconocido de Antes
+@42
+Vaso
+@43
+Pescado
+@44
+Carne ahumada
+@45
+Trozo de cristal de roca
+@46
+Notas de Rylsadhar
+@47
+Hacha pesada de Konkalit
+@48
+Palo de hélice (roto)
+@49
+Documento de Sordos
+@50
+Plano de arma
+@51
+Pala de la hélice del Pozo
+@52
+Dibujos de Rylsadhar
+@53
+Trinchador Konkalit
+@54
+Bola de fuego
+@55
+Escupidor
+@56
+Rata aplastada
+@57
+Trinchador de Sordos
+@58
+Sable de Zed
+@59
+Sable del Vagabundo
+@60
+Moneda de plata de Dhorkan
+@61
+Mangual de Phedoria (zzz)
+@62
+Alabarda (zzz)
+@63
+Daga de Kalhi
+@64
+Trozo de pollo
+@65
+Tazón de barro cocido
+@66
+Rayo de Lory
+@67
+Hacha de combate
+@68
+Rayo de Zed (sobre Zed)
+@69
+Salvaguarda
+@70
+Plano del Maestro Constructor
+@71
+Combinación de metal (muy pesada)
+@72
+Municiones para el rayo de Antes
+@73
+Municiones para el rayo de Zed
+@74
+Piolet de Danrys
+@75
+Llave de Cristal de Rylsadhar
+@76
+Maza de Maor
+@77
+Cantimplora
+(vacía)
+@78
+Maza pequeña de Danrys
+@79
+Hacha de Guardián del Fuego
+@80
+Sable de Dhorkan
+@81
+Pergamino de Rylsadhar
+@82
+Libro del Archivero
+@83
+Sable de Guardián del Fuego
+@84
+Casco de metal
+@85
+Peto de metal (muy pesado)
+@86
+Bombona de Antes
+@87
+Ficha de Yong
+@88
+Tubo de Bogdaran
+@89
+Llave de la Prisión
+@90
+Bala de plomo
+@91
+Puñal
+@92
+Puñal largo
+@93
+Estilete de Dhorkan
+@94
+Mazo de Kabak
+@95
+Mortero de Kabak
+@96
+Gran llave de acero
+@97
+Tonel
+@98
+Piedra para afilar
+@99
+Lata de metal precintada
+@100
+(arma rota)
+@fin

@@ -1,0 +1,406 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL24.TXT
+ // Thanandar perso24
+L34D201
+ Gin biedny glupcze! XXX
+// Thanandar (suddenly mean)perso24
+L24D70
+ Podpisujesz wyrok na siebie! XXX
+// Guardian16 (superstitious dread) perso56
+L24D02
+ Na Boskie Slonce! To... Kreatura Ciemnosci! XXX
+// Arkhan2 G (weakened) perso2
+L24D01
+ Dulnys... Ja... Co sie ze mna dzieje?! XXX
+// Guardian16 perso56
+L24D03
+ Ratunku! Straze! XXX
+// Arkhan2 L perso2
+L24D05
+ Wybacz Gwardzisto, nie pozostawiasz mi wyboru... XXX
+// Arkhan2 O perso2
+L24D06
+ Ty kretynie! Nie powinienes sie o to tak prosic! XXX
+// Thanandar (admiring) perso24
+L24D07A
+ Niewiarygodne! Stoisz o wlasnych silach, zywy! XXX
+// Thanandar perso24
+L24D07B
+ Jak sie czujesz? Wydaje sie, ze niezle to przyjales... XXX
+// Thanandar perso24
+L24D08
+ Spokojnie, jestem po twojej stronie. XXX
+// Thanandar perso24
+L24D09
+ Tak lepiej. XXX
+// Arkhan2 G perso2
+L24D10
+ Thanandar! XXX
+// Arkhan3 G perso3
+L24D11
+ Thanandar! XXX
+// Thanandar perso24
+L24D12
+ Widziales Rylsadhara? Udalo ci sie dostac do krypty? XXX
+// Thanandar (impatient) perso24
+L24D13
+ I jak tam z krypta? XXX
+// Thanandar perso24
+L24D14A
+ Arkhan! Rusz sie! XXX
+// Thanandar perso24
+L24D14B
+ Znajdz krypte! XXX
+// Thanandar (sugary sweet) perso24
+L24D15A
+ Arkhan! Tutaj jestes! Tak sie ciesze, ze znow cie widze... XXX
+// Thanandar (suddenly turning mean) perso24
+L24D15B
+ Poniewaz nadeszla twoja kolej by dolaczyc do Cieni na wieki! Na wieki, slyszysz?! XXX
+// Thanandar (furious) perso24
+L24D16
+ Kiedy zadaje pytanie, zadam odpowiedzi! XXX
+// Thanandar perso24
+L24D20
+ Dosyc! Jestem tu by ci pomoc! XXX
+// Thanandar (to someone on the other side of the door) perso24
+L24D17
+ W porzadku Kapitan Phedoria! Wszystko w najlepszym porzadku! XXX
+// Thanandar perso24
+L24D18A
+ Trzeba dzialac szybko! XXX
+// Thanandar perso24
+L24D18B
+ Inni sa w drodze i rowniez moga byc wrogo nastawieni. XXX
+// Thanandar perso24
+L24D18C
+ Idz do ojca i popros go by zaprowadzil cie do krypty. XXX
+// Thanandar perso24
+L24D19A
+ Przestan! XXX
+// Thanandar perso24
+L24D19B
+ Nie dotykaj tego! XXX
+// Arkhan2 G perso2
+L24D93
+ Cialo Thanandara zniklo! XXX
+// Arkhan3 G perso3
+L24D94
+ Cialo Thanandara... zniklo! XXX
+// Arkhan2 L perso2
+L24D23
+ Ten Gwardzista mnie zaatakowal, musialem sie bronic! XXX
+// Thanandar perso24
+L24D24A
+ Tak... przesadny glupiec! XXX
+// Thanandar perso24
+L24D24B
+ Nie martw sie, rozumiem. Zabij albo umieraj, nie miales wyboru! XXX
+// Arkhan2 L perso2
+L24D25
+ Czy wiesz co sie ze mna dzieje? Kim jestes? XXX
+// Arkhan2 O perso2
+L24D26
+ Kimkolwiek jestes, trzymaj sie z dala, albo skonczysz tak jak ten dran! XXX
+// Thanandar perso24
+L24D27A
+ No, no, spokojnie. Jestem by ci pomoc. XXX
+// Thanandar perso24
+L24D27B
+ Ten przesadny glupiec nie wiedzial co robi. XXX
+// Thanandar perso24
+L24D27C
+ Ale ja rozumiem. I chce ci tylko pomoc. XXX
+// Arkhan2 O perso2
+L24D28
+ Wiec powiedz mi kim jestes... i co sie ze mna dzieje?! XXX
+// Thanandar perso24
+L24D29A
+ Jestem Thanandar, Patrzacy w Slonce, jak twoj ojciec. Ale przede wszystkim jestem uzdrowicielem. XXX
+// Thanandar perso24
+L24D29B
+ I wiem co ci dolega Arkhanie. Wiem az za dobrze. XXX
+// Thanandar perso24
+L24D29C
+ Ciemnosc zakorzenila sie w tobie... XXX
+// Thanandar perso24
+L24D29D
+ I nie przestanie sie rozrastac nim nie pochlonie calego twego ciala i duszy. XXX
+// Arkhan2 L perso2
+L24D30
+ Czy jestes jakis sposob by to powstrzymac? XXX
+// Arkhan2 O perso2
+L24D31
+ Mowisz, ze jestes uzdrowicielem. Ulecz mnie zatem! XXX
+// Thanandar perso24
+L24D32A
+ Moze byc sposob... XXX
+// Thanandar perso24
+L24D32B
+ Tajemna energia z zamierzchlych czasow. Wyplywa z glebin krypty. XXX
+// Thanandar perso24
+L24D32C
+ Ale nie powinienem o tym mowic. Juz powiedzialem za duzo. XXX
+// Thanandar perso24
+L24D32D
+ Tylko twoj ojciec moze odkryc przed toba ten sekret i zabrac cie tam. XXX
+// Thanandar perso24
+L24D32E
+ Jest jednym z najwazniejszych Wyznawcow i wie gdzie to jest. XXX
+// Arkhan2 G perso2
+L24D33
+ Twierdzisz, ze moj ojciec wie o tej... tajemnej krypcie? XXX
+// Thanandar perso24
+L24D34A
+ Tak. Porozmawiaj z Rylsadharem. Tylko on moze cie uratowac. XXX
+// Thanandar perso24
+L24D34B
+ Ja moge tylko sporzadzic tymczasowe remedium, ktore usmierzy bol i spowolni rozwoj choroby. XXX
+// Thanandar perso24
+L24D34C
+ Wroc po tym jak zobaczysz sie z ojcem. XXX
+// Phedoria (speaking from far away) perso26
+L24D35
+ (Phedoria na zewnatrz) Wszystko w porzadku? XXX
+// Arkhan2 G perso2
+L24D36
+ Thanandarze, co mam robic? XXX
+// Arkhan3 G perso3
+L24D37
+ Thanandarze, co mam robic? XXX
+// Thanandar perso24
+L24D38A
+ Idz porozmawiac z ojcem, jest niedaleko. XXX
+// Thanandar perso24
+L24D38B
+ Popros go by zabral cie do krypty. To jedyny sposob by cie uleczyc. XXX
+// Thanandar perso24
+L24D38C
+ I zrob to szybko, czas ucieka! XXX
+// Arkhan2 G perso2
+L24D43
+ Thanandarze, potrzebuje twojej pomocy. XXX
+// Arkhan3 G perso3
+L24D44
+ Musisz mi pomoc. XXX
+// Thanandar perso24
+L24D45A
+ Juz ci mowilem, musisz pomowic z Rylsadharem. XXX
+// Thanandar normal
+L24D45B
+To jedyny sposob! XXX
+// Arkhan2 Gperso2
+L24D46
+ Czy to dla mnie? XXX
+// Arkhan3 Gperso3
+L24D47
+ Czy to dla mnie? XXX
+// Thanandar perso24
+L24D48
+ Nie, nie twoja sprawa. XXX
+// Arkhan2 G perso2
+L24D49
+ Posluchaj... XXX
+// Arkhan3 G perso3
+L24D50
+ Posluchaj... XXX
+// Thanandar perso24
+L24D51
+ Idz Arkhan. Czas ucieka! XXX
+// Arkhan2 L perso2
+L24D52A
+ Jeszcze nie znalazlem krypty. XXX
+// Arkhan2 L perso2
+L24D52B
+ Ale mowiles cos o remedium, ktore usmierza bol... XXX
+// Arkhan2 O perso2
+L24D53A
+ Dosc ma szukania tej krypty! XXX
+// Arkhan2 O perso2
+L24D53B
+ Obiecales mi remedium! Gdzie ono jest?! XXX
+// Arkhan3 G perso3
+L24D54A
+ Nie moge znalezc krypty, a moj stan sie pogarsza! XXX
+// Arkhan3 G perso3
+L24D54B
+ Potrzebuje leku, natychmiast! XXX
+// Thanandar perso24
+L24D55A
+ Nie mam go jeszcze gotowego. XXX
+// Thanandar perso24
+L24D55B
+ Rylsadhar musi pokazac ci droge do krypty, to jedyny sposob. XXX
+// Thanandar perso24
+L24D55C
+ Gdybym tylko mogl ci pomoc. XXX
+// Arkhan2 G perso2
+L24D56
+ Co mu robisz? XXX
+// Arkhan3 G perso3
+L24D57
+Co robisz? XXX
+// Thanandar perso24
+L24D58
+ Lecze go! XXX
+// Arkhan2 G perso2
+L24D59
+ Przeciez on nie zyje! XXX
+// Arkhan3 G perso3
+L24D95
+Ale on jest martwy! XXX
+// Thanandar perso24
+L24D60A
+ Nie ignorancie, jeszcze zyje! XXX
+// Thanandar perso24
+L24D60B
+ A wkrotce bedzie znowu chodzil... XXX
+// Arkhan2 L perso2
+L24D61A
+ Szukalem wszedzie ale nie moge znalezc krypty! XXX
+// Arkhan2 L perso2
+L24D61B
+ Czy nie ma innego sposobu? XXX
+// Arkhan2 O perso2
+L24D62A
+ Tej twojej krypty nie da sie znalezc! XXX
+// Arkhan2 O perso2
+L24D62B
+ Musi byc inny sposob na uzdrowienie mnie niz przy pomocy tej tajemniczej energii, o ktorej nikt nie slyszal! XXX
+// Arkhan3 G perso3
+L24D63A
+ Krypta... Nie moge jej znalezc! XXX
+// Arkhan3 G perso3
+L24D63B
+ Daj mi jeszcze jedno remedium.  XXX
+// Thanandar perso24
+L24D64
+ Ostatni raz, ale jesli nie znajdziesz krypty, nie bede mogl dla ciebie zrobic nic wiecej! XXX
+// Arkhan2 L perso2
+L24D65A
+ Co to za czlowiek? XXX
+// Arkhan2 L perso2
+L24D65B
+ Nigdy wczesniej go nie widzialem! XXX
+// Arkhan2 O perso2
+L24D66A
+ Kto jest twoja swinka domowa? XXX
+// Arkhan2 O perso2
+L24D66B
+ Nigdy wczesniej nie widzialem jego ryjka! XXX
+// Arkhan3 L perso3
+L24D67A
+ Kim jest twoj asystent? XXX
+// Arkhan3 L perso3
+L24D67B
+ Nigdy go nie widzialem! XXX
+// Arkhan3 O perso3
+L24D68
+ Kim jest ten drugi facet?! XXX
+// Thanandar perso24
+L24D69A
+ Gwardzista Ognia oczywiscie... XXX
+// Thanandar perso24
+L24D69B
+ Ale nie obawiaj sie, nie jest taki jak pozostali. XXX
+// Thanandar perso24
+L24D69C
+ Nie rob niczego glupiego, a wszystko bedzie w porzadku. XXX
+// Arkhan2 G perso2
+L24D71
+ Tam do kata Dulnys! To ja Arkhan! XXX
+// Guardian16 perso56
+L24D72
+ Nie potworze! Znam Arkhana i ty nie jestes nim! XXX
+// Arkhan2 G perso2
+L24D73
+ Czekaj! XXX
+// Guardian16 (going to hit A.) perso56
+L24D04
+ Zginiesz! XXX
+// Arkhan2 G perso2
+L24D74
+ Czy my sie juz nie spotkalismy? XXX
+// Arkhan3 G perso3
+L24D75
+ Czy ja cie znam? XXX
+// Konkalite1 (doesn't know what to say) perso71
+L24D76
+ Er... Thanandar? XXX
+// Thanandar perso24
+L24D77
+ Spokojnie, to nasz przyjaciel. Wszystko bedzie w porzadku. XXX
+// Arkhan2 L perso2
+L24D78
+ Twoj uniform jest rozdarty. Jestes ranny? XXX
+// Konkalite1 perso71
+L24D79
+ Ah... Nie... Juz mi lepiej... XXX
+// Arkhan2 O perso2
+L24D80
+ Wiesz co, zupelnie nie wygladasz mi na Gwardziste Ognia. XXX
+// Konkalite1 perso71
+L24D81
+ Przygladales sie ostatnio sobie?! Czekaj tylko... XXX
+// Arkhan3 G perso3
+L24D82A
+ Twoja twarz ..Taak cos... XXX
+// Arkhan3 G perso3
+L24D82B
+ Widzialem cie juz, nieprawdaz? XXX
+// Konkalite1 perso71
+L24D83
+ Niemozliwe! Nie nosilem tego uniformu! XXX
+// Thanandar (decisively) perso24
+L24D84
+ Zamknij sie glupcze! Wystarczy! XXX
+// Arkhan2 G perso2
+L24D85A
+ Nazwal cie "glupkiem". XXX
+// Arkhan2 G perso2
+L24D85B
+ Czy to twoje przezwisko? XXX
+// Arkhan3 G (mocking) perso3
+L24D86
+ "Przyglup", co? XXX
+// Konkalite1 perso71
+L24D87
+ (warkot niezadowolenia) XXX
+// Thanandar perso24
+L24D21
+ Przestancie obydwaj! XXX
+// Thanandar (suddenly mean)perso24
+L24D22
+ Ty idioto! Szkoda! Wykoncz go! XXX
+// Arkhan2 G (examining a skeleton) perso2
+L24D88
+ Juz nie cierpi... XXX
+// Arkhan3 G (examining a skeleton) perso3
+L24D89
+ Juz nie bedzie cierpial. XXX
+// Arkhan2 G perso2
+L05D183
+ Bezuzyteczne graty... XXX
+// Arkhan3 G perso3
+L05D184
+ Nie ma tu nic uzytecznego.... XXX
+// Arkhan2 G perso2
+L24D90
+ Myslisz, ze mozesz go uratowac? XXX
+// Arkhan3 G perso3
+L24D91
+ Mozesz go uratowac? XXX
+// Thanandar (ecstatic) perso24
+L24D92A
+ Pewnie, ze moge! XXX
+// Thanandar perso24
+L24D92B
+ Wkrotce bedzie bardziej zywy niz kiedykolwiek przedtem! XXX
+// Arkhan2 L perso2
+L34D05
+ Thanandar! Co to wszystko znaczy? XXX
+// Arkhan2 O perso2
+L34D06
+ Thanandar ty nedzny klamco, oklamales mnie! XXX
+// Arkhan3 G perso3
+L34D07
+ Thanandar! Zdrajco! XXX

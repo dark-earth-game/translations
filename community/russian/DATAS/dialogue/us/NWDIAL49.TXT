@@ -1,0 +1,196 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL49.TXT
+ // Arkhan2 O perso2
+L03D523
+ JaesZm nw kjgosdtx! XXX
+// Arkhan3 O perso3
+L03D525
+ Hjgosdtx! XXX
+// Kalhi perso13
+L49D01
+ Gnkomnd! X idsa^j ia oflZgZ! XXX
+// Malrot8 (pulling out dagger) perso68
+L49D02A
+ Gn]a_Ze hja^j fdibZgZ, _anfZ! XXX
+// Malrot8 (looking at Kalhi's corpse) perso68
+L49D03A
+ Pnj, kwgo-nj kjo[Z]dgjmx, Z, tgzqZ? XXX
+// Malrot8 perso68
+L49D03B
+ Gkjc_Zg, hjl_Z. GiZ jmnwgZ! XXX
+// Malrot8 perso68
+L49D03C
+ Hj_qj_d, o hai| lofd ]m~ au~ satonm|! XXX
+// Malrot8 perso68
+L49D04
+ Gk|nx nw! JnZiroah, qZl|! XXX
+// Dhorkan perso11
+L49D05
+ A_d mz_Z, #lqZi! +Z]Ze lZc[al~hm| lZc d iZ]ma^_Z! XXX
+// Dhorkan (snarling) perso11
+L49D06A
+ HjlZ [w m]amnd ms~nw, #lqZi! XXX
+// Dhorkan perso11
+L49D06B
+ +Z]Ze kjfjisdh m yndh! XXX
+// Arkhan2 G perso2
+L49D38
+ L +jlfZiZ [wg fgzs! XXX
+// Arkhan3 G perso2
+L49D39
+ L +jlfZiZ [wg fgzs! XXX
+// Malrot8 perso68
+L49D02B
+ JaesZm na[a [o_an j s~h kjkgZfZnx! XXX
+// Malrot8 (fighting K. and seeing A. arrive) perso68
+L49D40
+ # ]jn d so_j]dua mkatdn mkZmnd flZmZ]dro! XXX
+// Arkhan2 G (seeing Dhorkan) perso2
+L49D07
+ +jlfZi! XXX
+// Arkhan3 G (seeing Dhorkan) perso3
+L49D08
+ +jlfZi... +jlfZi! XXX
+// Dhorkan (startled and angry) perso11
+L49D09
+ #lqZi! Fa kld]wf jnmnokZnx?! XXX
+// Arkhan2 G perso2
+L49D10
+ &jn d ]m~! Kakalx na[a fjiar, kla_Znagx! XXX
+// Arkhan3 G perso3
+L49D11
+ &jn nw d kjkZgm|! XXX
+// Dhorkan perso11
+L49D12A
+ Auatx hai|, salianx? XXX
+// Dhorkan (drawing weapon)perso11
+L49D12B
+ JaesZm kjgosdtx! XXX
+// Kalhi perso13
+L49D14
+ JkZmd[j, #lqZi, nw mkZm hai|. XXX
+// Arkhan2 L (worried)perso2
+L49D15
+ CZgd! >Zsah ba bdcixz ldmfj]Znx? XXX
+// Arkhan2 O (angry)perso2
+L49D16
+ JjtgZ m ohZ? Ka[| nZf o[xzn! XXX
+// Arkhan3 L (worried)perso3
+L49D17
+ Ka[| nZf o[xzn! XXX
+// Arkhan3 O (angry)perso3
+L49D18
+ P~ln ]jcxhd, nw snj, ^gokZ| mj]mah?! XXX
+// Kalhi perso13
+L49D19A
+ X kljmnj njl^j]ZgZmx m idh! XXX
+// Kalhi perso13
+L49D19B
+ Gnfo_Z b hia [wgj ciZnx, snj ji cZqjsan cZ[lZnx ]m~ ma[a? XXX
+// Arkhan2 G perso2
+L49D20
+ Pnj ba ji _jgbai [wg _Znx na[a? XXX
+// Arkhan3 G perso3
+L49D21
+ Pnj nw qjnagZ ]whai|nx? XXX
+// Kalhi perso13
+L49D22A
+ &jn, ia[jgxtje ^ljhj[je... au~ lZ[jnZan. XXX
+// Kalhi perso13
+L49D22B
+ Vnj na[a. FZ ]jn! XXX
+// Arkhan2 L perso2
+L49D23A
+ JkZmd[j. Hld^j_dnm|. XXX
+// Arkhan2 L perso2
+L49D23B
+ Fj [jgxta nZf ia ldmfoe, qjljtj? XXX
+// Arkhan3 O perso2
+L49D24A
+ Ew ldmfj]Zgd bdcixz lZ_d ynj^j! XXX
+// Arkhan3 O perso2
+L49D24B
+ Fa ]Zg|e _olZfZ, jmnZ]Zem| o +ZildmZ! XXX
+// Arkhan3 L perso3
+L49D25
+ JkZmd[j. Fj [o_x jmnjljbiae... XXX
+// Arkhan3 O perso3
+L49D26
+ Pnj? &agdfde JjgZZl, na[| hj^gd o[dnx... dc-cZ ynj^j! XXX
+// Kalhi perso13
+L49D27
+ Fo, _Z_ij, gZ_ij, ]m~ kji|nij. XXX
+// Kalhi (upset, nearly crying) perso13
+L49D28
+ JkZmd[j, snj ]jgioatxm| cZ hai|! XXX
+// Arkhan2 G (killed Dhorkan) perso2
+L49D42
+ Vnj [wg n]je kjmga_ide kljms~n, +jlfZi! XXX
+// Arkhan3 G (killed Dhorkan) perso3
+L49D43
+ Kw ] kljtgjh, +jlfZi! XXX
+// Malrot8 (A. killed Kalhi) perso68
+L49D41A
+ Ve, _Z | kjkjgZh a~ lZclo[dg [w! XXX
+// Malrot8 perso68
+L49D41B
+ Fj o hai| au~ amnx nw! XXX
+// Arkhan2 G perso2
+L49D29
+ CZgd, nw ragZ? XXX
+// Arkhan3 G perso3
+L49D30
+ CZgd? XXX
+// Kalhi (alarmed)perso13
+L49D31
+ #lqZi, [ala^dmx! XXX
+// Arkhan2 G perso2
+L49D47A
+ CZgd, ian... XXX
+// Arkhan2 G perso2
+L49D47B
+ Fj kjsaho? XXX
+// Arkhan3 L perso3
+L49D48
+ CZgd, ian... XXX
+// Kalhi (afraid) perso13
+L10D107
+ N]Zndn! XXX
+// Kalhi (upset) perso13
+L10D106
+ #lqZi, omkjfjem|! XXX
+// Dhorkan (Arkhan running away) perso11
+L49D46
+ Klom iamsZmniwe! XXX
+// Arkhan2 L perso2
+L49D32A
+ Fan. Fdfjho ia o_Z]Zgjmx, d hia ynj ia kj_ mdgo! XXX
+// Arkhan2 L perso2
+L49D32B
+ Fdfnj au~ ia jnflw]Zg yno _]alx. XXX
+// Arkhan2 O perso2
+L49D33
+ P~lnj]Z _]alx! Fdfjho au~ ia o_Z]Zgjmx jnflwnx a~! XXX
+// Arkhan3 L perso3
+L49D34
+ Fan... idfnj ia mhj^ jnflwnx a~... XXX
+// Arkhan3 O perso3
+L49D35
+ Fa jnflw]Zanm|! XXX
+// Arkhan2 G perso2
+L49D36
+ Kon fZfZ|-nj uagx ] j[td]fa. XXX
+// Arkhan3 G perso3
+L49D37
+ Kon uagx ] j[td]fa... XXX
+// Arkhan2 G perso2
+L49D44
+ Fa jnflwnx - jid cZkasZnZgd _]alx! XXX
+// Arkhan3 G perso3
+L49D45
+ >ZkasZnZiZ! XXX
+// Arkhan2 G perso2
+L49D49
+ Kjgxfj nlo[w! XXX
+// Arkhan3 G perso3
+L49D50
+ Klo[w! XXX

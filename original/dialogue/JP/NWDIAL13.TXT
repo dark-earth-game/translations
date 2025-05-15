@@ -1,0 +1,82 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL13.TXT
+ // Arkhan2 G (stupefied)perso2
+L13D01
+ Incredible... It's a... a bunker from Before... XXX
+// Arkhan3 G (stupefied) perso3
+L13D02
+ Incredible... It's a... a bunker from Before... XXX
+// Arkhan2 G (discovering a mechanism) perso2
+L13D07
+ It's moving... XXX
+// Arkhan3 G (discovering a mechanism) perso3
+L13D08
+ It's moving... XXX
+// Arkhan2 G (in front of an inoperable console) perso2
+L13D09
+ No... the machine is dead. XXX
+// Arkhan3 G (in front of an inoperable console) perso3
+L13D10
+ The machine is dead. XXX
+// Arkhan2 G (examining a cryogenic capsule) perso2
+L13D11A
+ A bed that closes like a box. XXX
+// Arkhan2 G perso2
+L13D11B
+ The man inside must be as old as the Great Cataclysm. XXX
+// Arkhan3 G perso3
+L13D12A
+ What a strange bed... XXX
+// Arkhan3 G perso3
+L13D12B
+ And these remains... Of someone as old as the Great Cataclysm. XXX
+// Arkhan2 G (examining a cryogenic capsule)perso2
+L13D13A
+ There used to be someone in here... XXX
+// Arkhan2 G perso2
+L13D13B
+ Nothing but glass and dust now. XXX
+// Arkhan3 G (examining a cryogenic capsule)perso3
+L13D14
+ Nothing but dust... XXX
+// Arkhan2 L perso2
+L13D15
+ I can't... it hurts too much! XXX
+// Arkhan2 O perso2
+L13D23
+ It's turned on little green lights! XXX
+// Arkhan3 L perso3
+L13D16
+ No, hurts. Hurts too much! XXX
+// Arkhan3 O perso2
+L13D24
+ Green lights went on! XXX
+// Arkhan2 L (examining the console) perso2
+L13D17
+ Pretty lights. I never saw anything like it. XXX
+// Arkhan3 L perso3
+L13D18
+ What're th' little lights? XXX
+// Arkhan2 O (examining the debris)perso2
+L13D19
+ Rubble! XXX
+// Arkhan3 O (examining the debris) perso2
+L13D20
+ Nothing but rubble! XXX
+// Arkhan2 G perso2
+L13D03
+ Nothing but debris... XXX
+// Arkhan3 G perso3
+L13D04
+ Debris... XXX
+// Arkhan2 G perso2
+L13D05
+ Everything's caved in... XXX
+// Arkhan3 G perso3
+L13D06
+ Everything's caved in... XXX
+// Arkhan2 G (examining the cryogenic capsule) perso2
+L13D21
+ The bed has crumbled... The person who slept on it is nothing but dust now... XXX
+// Arkhan3 G (examining the cryogenic capsule)perso3
+L13D22
+ A being from Before... turned to dust... XXX

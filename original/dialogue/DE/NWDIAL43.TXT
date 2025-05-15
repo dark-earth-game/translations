@@ -1,0 +1,22 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL43.TXT
+ // Arkhan3 L perso3
+L43D01
+ Gib auf, Thanandar!  XXX
+// Arkhan3 O (wütend) perso3
+L43D02
+ Komm schon, schlag zu! Schlag doch zu! XXX
+// Arkhan3 G perso3
+L43D03A
+ Unmöglich! Es bewegt sich nicht! XXX
+// Arkhan3 G perso3
+L43D03B
+ Ich muß kämpfen! XXX
+// Arkhan3 G perso3
+L43D04
+ Diese Felsbrocken werden ihn nicht aufhalten! XXX
+// Arkhan3 G perso3
+L43D05A
+ Die Wand ist brennend heiß! XXX
+// Arkhan3 G perso3
+L43D05B
+ Die Lichtenergie ist hinter dieser Tür! XXX

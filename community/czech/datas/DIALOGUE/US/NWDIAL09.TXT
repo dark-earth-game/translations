@@ -1,0 +1,70 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL09.TXT
+ // Hüter des Feuers8 (von Arkhan überrascht, wird auf ihn schießen) perso48
+L09D31A
+ Zatracene! XXX
+// Hüter des Feuers8 perso48
+L09D31B
+ Mne nedostaneš! XXX
+// Arkhan1 L perso1
+L09D04A
+ Tato mašina vyrábí munici pro pušky. XXX
+// Arkhan1 L perso1
+L09D04B
+ Já potrebuju ale olovo. XXX
+// Arkhan2 L perso2
+L09D05
+ já potrebuju olovo, abych z teto mašiny munici pro pušky dostal. XXX
+// Arkhan3 L perso3
+L09D06
+ Já potrebuju olovo, abych munici vyrobil. XXX
+// Arkhan1 O perso1
+L09D01
+  Zatracene, jak funguje tento stroj? XXX
+// Arkhan2 O perso2
+L09D02
+  Já nepochopil tento strojt! XXX
+// Arkhan3 O perso3
+L09D03
+  Zvláštní stroj! XXX
+//Arkhan1 L perso1
+L09D13
+ Stare sudy, plne nepotrebne. XXX
+//Arkhan2 L perso2
+L09D14
+ Nic nez stare sudy. XXX
+//Arkhan3 L perso3
+L09D15
+ Prázdne sudy. XXX
+// Arkhan2 G perso2
+L04D44
+ To není ten správný klíc! XXX
+// Arkhan3 G perso3
+L04D45
+ Falešný klíc! XXX
+//Arkhan1 G perso1
+L09D20
+ Vodní rezervovár je prázdný. XXX
+//Arkhan2 L perso2
+L09D22
+ Rezervovár na vodu. Prázdný. XXX
+//Arkhan3 L perso3
+L09D24
+ Zásobník. Prázdný. XXX
+//Arkhan1 L perso1
+L09D25
+ Já myslím, ze není ten správný moment, se tam posadit! XXX
+//Arkhan1 O perso1
+L09D26
+ Nemám chut se posadit! XXX
+//Arkhan2 L perso2
+L09D27
+ Nyní není snad ten správný moment, se posadit! XXX
+//Arkhan2 O perso2
+L09D28
+ Zádná chut, se posadit! XXX
+//Arkhan3 L perso3
+L09D29
+ Já si nesednu! XXX
+//Arkhan3 O perso3
+L09D30
+ Neposadím se tam! XXX

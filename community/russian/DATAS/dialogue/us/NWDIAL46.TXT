@@ -1,0 +1,91 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL46.TXT
+ // Arkhan2 G (discovering his father lying wounded) perso2
+L46D01
+ &agdfde JjgZZl! Gnar! XXX
+// Arkhan3 G (discovering his father lying wounded) perso3
+L46D02
+ Gnar, ian! XXX
+// Rylsadhar (contaminated) perso21
+L46D03
+ #lqZi... |... hia ia o_Zgjmx... XXX
+// Arkhan2 G perso2
+L46D04
+ Gnar, fnj... ynj m_agZg m nj[je? XXX
+// Arkhan3 G perso3
+L46D05
+ Gnar, fnj ynj m_agZg? XXX
+// Rylsadhar c(contaminated) perso21
+L46D06A
+ +jlfZi... Vnjn bZgfde kla_Znagx... XXX
+// Rylsadhar (contaminated) perso21
+L46D06B
+ Gn_Zg hai| ] lofd fjifZgdnj]... XXX
+// Arkhan2 G perso2
+L46D07
+ X a^j _jmnZio. Cg|iomx, jnar, ji cZkgZndn cZ ]m~! XXX
+// Arkhan3 G perso3
+L46D08
+ Gi cZkgZndn! XXX
+// Rylsadhar (contaminated) perso21
+L46D09A
+ Fan, hje mwi... +jlfZi - ]ma^j gdtx ia_Zg~fde _olZf! XXX
+// Rylsadhar (contaminated) perso21
+L46D09B
+ KZiZi_Zl - ]jn iZmnj|ude ]lZ^! CjifZgdnw ] a^j lofZq... XXX
+// Rylsadhar (contaminated) perso21
+L46D09C
+ +jlfZi idsa^j ia ciZan. XXX
+// Rylsadhar (contaminated) perso21
+L46D09D
+ >a_ d |... iZm mq]Zndgd... d cZlZcdgd... XXX
+// Rylsadhar (contaminated) perso21
+L46D09E
+ X... | [abZg... ij | mgdtfjh jmgZ[... XXX
+// Arkhan2 G perso2
+L46D10
+ Fj, jnar, KZiZi_Zl ba h~ln]! XXX
+// Arkhan3 G perso3
+L46D11
+ KZiZi_Zl h~ln]! XXX
+// Rylsadhar (contaminated) perso21
+L46D12A
+ KZiZi_Zl-ragdnagx - _Z... Fj njgxfj ia hjimnl, fjdh ji mnZg! XXX
+// Rylsadhar (contaminated) perso21
+L46D12B
+ Gi... kjljb_aida ElZfZ. XXX
+// Rylsadhar (contaminated) perso21
+L46D12C
+ Gi qjsan... oidsnjbdnx Cjgj_ar J]anZ... XXX
+// Rylsadhar (contaminated) perso21
+L46D12D
+ A_d ] qlZh... ] mfgak... XXX
+// Rylsadhar (breathing his last) perso21
+L46D12E
+ >Zudnd J]an... XXX
+// Rylsadhar (breathing his last) perso21
+L46D12F
+ #-Z-Z-Z-Z... XXX
+// Arkhan2 G (vengefully, to himself) perso2
+L46D14
+ KZiZi_Zl! XXX
+// Arkhan3 G (vengefully, to himself) perso3
+L46D15
+ KZiZi_Zl! XXX
+// Arkhan2 L (by Rylsadhar's corpse) perso2
+L22D12A
+ Gnar! XXX
+// Arkhan2 L (by Rylsadhar's corpse) perso2
+L22D12B
+ X jnjhuo, fg|iomx na[a! KZiZi_Zl ohl~n! Gi cZkgZndn cZ ]m~! XXX
+// Arkhan2 O perso2
+L22D13A
+ KZiZi_Zl! Kw o[dg hja^j jnrZ! XXX
+// Arkhan2 O perso2
+L22D13B
+ Kw cZkgZndtx mkjgiZ! XXX
+// Arkhan3 L perso3
+L22D14
+ Gnar! X bZb_o huaid|! XXX
+// Arkhan3 O (grunting to himself)perso3
+L22D15
+ Gnar!.. #-#-#I! Eamnx! XXX

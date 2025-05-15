@@ -1,0 +1,52 @@
+Début du fichier F:\DEV\DKE\DATAS\DIALOGUE\DE\NWDIAL47.TXT
+ // Arkhan3 G perso3
+L24D11
+ Thanandar! XXX
+// Thanandar (ungeduldig) perso24
+L24D13
+ Also, was ist mit der Gruft? XXX
+// Arkhan2 L perso2
+L24D25
+ Du weißt, was mit mir passiert ist? Wer bist du? XXX
+// Arkhan2 O perso2
+L24D26
+ Wer auch immer du bist - komm keinen Schritt näher, oder du endest wie dieser elende Wurm da hinten! XXX
+// Thanandar (ruft durch die Tür hindurch) perso24
+L24D17
+ Alles in Ordnung, Kommandantin Phedoria! Alles in Ordnung! XXX
+// Thanandar perso24
+L24D27A
+ Immer mit der Ruhe, ich will dir doch nur helfen. XXX
+// Thanandar perso24
+L24D27B
+ Dieser abergläubische Dummkopf wußte nicht, was er tat. XXX
+// Arkhan2 O perso2
+L24D28
+ Dann sag mir, wer du bist ... und was mit mir los ist! XXX
+// Thanandar perso24
+L24D29A
+ Ich bin Thanandar, ein Prediger, wie dein Vater, aber ich bin vor allem ein Heiler. XXX
+// Thanandar perso24
+L24D29B
+ Und ich weiß, welches Übel dich zerstört, Arkhan, ich kenne es sogar sehr gut. XXX
+// Arkhan2 L perso2
+L24D30
+ Gibt es kein Mittel, um mich zu heilen? XXX
+// Arkhan2 O perso2
+L24D31
+ Du behauptest, Heiler zu sein. Dann finde ein Mittel, um mich zu heilen! XXX
+// Thanandar perso24
+L24D20
+ Genug! Ich will dir doch nur helfen! XXX
+// Arkhan2 L perso2
+L24D05
+ Tut mir leid, Hüter des Feuers, du hast mir keine Wahl gelassen ... XXX
+// Arkhan2 O perso2
+L24D06
+ Armer Irrer! Du hättest mich nicht provozieren sollen! XXX
+// Thanandar (wohlwollend) perso24
+L24D07A
+ Unglaublich! Du lebst! XXX
+// Thanandar perso24
+L24D07B
+ Wie fühlst du dich? Du siehst aus, als hättest du es gut überstanden ... XXX

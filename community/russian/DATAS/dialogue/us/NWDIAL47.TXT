@@ -1,0 +1,52 @@
+Début du fichier F:\DEV\DKE\DATAS\DIALOGUE\US\NWDIAL47.TXT
+ // Arkhan3 G perso3
+L24D11
+ KZiZi_Zl! XXX
+// Thanandar (impatient) perso24
+L24D13
+ Fo, snj ociZg klj mfgak? XXX
+// Arkhan2 L perso2
+L24D25
+ &w ciZana, snj kljdmqj_dn mj hije? A fnj ]w? XXX
+// Arkhan2 O perso2
+L24D26
+ Cnj [w nw id [wg, ia kj_qj_d, dgd cZfjisdtx, fZf ]jn ynjn ia_jijmjf! XXX
+// Thanandar (to someone on the other side of the door) perso24
+L24D17
+ &m~ qjljtj, fZkdnZi Ma_jld|! Dosta ia [w]Zan! XXX
+// Thanandar perso24
+L24D27A
+ Fo-io, omkjfjem|. X c_amx lZ_d n]ja^j [gZ^Z. XXX
+// Thanandar perso24
+L24D27B
+ Kjn moa]aliwe _olZf kljmnj ia ]a_Zg, snj n]jldn. XXX
+// Arkhan2 O perso2
+L24D28
+ Kj^_Z mfZbd, fnj nw nZfje... A snj kljdmqj_dn mj hije?! XXX
+// Thanandar perso24
+L24D29A
+ X KZiZi_Zl, klj]d_ar, fZf d jnar n]je. Fj klab_a ]ma^j | ragdnagx. XXX
+// Thanandar perso24
+L24D29B
+ A | ciZz, snj ia nZf m nj[je, #lqZi. Gngdsij ciZz, kj]alx. XXX
+// Arkhan2 L perso2
+L24D30
+ # hjbij fZf-id[o_x dmragdnxm|? XXX
+// Arkhan2 O perso2
+L24D31
+ *j]jldtx, nw ragdnagx. KZf dmragd ba! XXX
+// Thanandar perso24
+L24D20
+ +j]jgxij! X c_amx, snj[w kjhjsx na[a! XXX
+// Arkhan2 L perso2
+L24D05
+ Hljmnd, mnlZb j^i|, nw ia jmnZ]dg hia ]w[jlZ... XXX
+// Arkhan2 O perso2
+L24D06
+ P~lnj] kmdq! Fa iZ_j [wgj iZklZtd]Znxm|! XXX
+// Thanandar (admiring) perso24
+L24D07A
+ Fahwmgdhj! Kw iZ ij^Zq, bd]je! XXX
+// Thanandar perso24
+L24D07B
+ CZf mZhjso]mn]da? Fakgjqj, mhjnlz, kalai~m... XXX

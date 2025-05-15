@@ -1,0 +1,28 @@
+00:04:18	00:05:28		{Zbyt pozno Arkhanie, moj przyjacielu...}
+00:06:16	00:08:16		{Smierc... Mrok...}
+00:08:20	00:11:06		{Wszyscy... Wszyscy jestescie w smiertelnym niebezpieczenstwie!}
+00:11:08	00:12:10		{Mrok...}
+00:12:12	00:16:00		{On chce pograzyc cale Stallite w Mroku!}
+00:16:14	00:17:06		{Zed!}
+00:17:10	00:19:08		{Posluchaj! To Thanandar...}
+00:19:12	00:20:26		{Mrok w nim zamieszkal!}
+00:20:28	00:22:12		{Nie moze byc,  on nie zyje!}
+00:23:08	00:25:20		{Nie! Zyje!}
+00:26:04	00:27:14		{Co?! Co ty mowisz ?}
+00:28:16	00:31:00		{Arkhan... Istnieje tajne miejsce... krypta..}
+00:31:02	00:33:12		{zawiera szczegolna... moc,}
+00:33:14	00:35:00		{dar od Boskiego Slonca..}
+00:35:14	00:37:00		{Tam wlasnie uderzy Thanandar!}
+00:37:02	00:38:00		{Nienawidzi Swiatlosci...}
+00:38:02	00:39:10		{Ona wysysa jego sily...}
+00:39:20	00:41:22		{Jesli zdola zniszczyc Studnie Swiatlosci,}
+00:41:24	00:43:16		{Stallite bedzie na jego lasce!}
+00:43:18	00:45:20		{Musisz... go powstrzymac!}
+00:45:22	00:47:08		{No dalej, idz!}
+00:47:10	00:48:16		{Nie ide bez ciebie!}
+00:48:18	00:50:20		{Nie... Ja nie mam najmniejszej szansy...}
+00:50:22	00:52:24		{Tylko ty go mozesz powstrzymac!}
+00:53:16	00:54:08		{Znajdz Studnie!}
+00:54:10	00:55:08		{Zed czekaj!}
+00:56:02	00:57:10		{Bede przy tobie...}
+00:58:08	00:59:08		{Nie! Poczekaj!}

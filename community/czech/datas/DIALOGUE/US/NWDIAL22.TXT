@@ -1,0 +1,106 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL22.TXT
+ // Arkhan2 L perso2
+L22D22
+ Zdá se ze k srdci Zeme se jde prímo dolù. XXX
+// Arkhan2 0 perso2
+L22D23
+ Mohl bych skocit ... nejlechcí prostredek, na konec se pripravit! XXX
+// Arkhan3 L perso3
+L22D24
+ Vypadá to, ze k srdci Zeme prímo dolù jít. XXX
+// Arkhan3 0 perso3
+L22D25
+ Mohl bych skocit ... Nejrychlejší, cistá smrt ... XXX
+// Phedoria perso26
+L22D01
+ Musíme Velkou knezku varovat! XXX
+// Arkhan2 L (vor Rylsadhars Leiche) perso2
+L22D12A
+ Otce! XXX
+// Arkhan2 L (vor Rylsadhars Leiche) perso2
+L22D12B
+ Prísahám, ze Vás pomstím! Thanandar zemre! XXX
+// Arkhan2 O perso2
+L22D13A
+ Thanandare! Ty jsi meho otce zabil! XXX
+// Arkhan2 O perso2
+L22D13B
+ To mi zaplatíš! XXX
+// Arkhan3 L perso3
+L22D14
+ Otce! Já te pomstím! XXX
+// Arkhan3 O (zu sich selbst murmelnd)perso3
+L22D15
+ Otce! ... Po... pomstím! XXX
+// Arkhan2 L (vor Zeds Leiche) perso2
+L22D18A
+ Zed, mùj prítel! XXX
+// Arkhan2 L perso2
+L22D18B
+ Prísahám, pomstím te! Thanandar se bude za sve zlociny zodpovídat! XXX
+// Arkhan2 O (rachsüchtig) perso2
+L22D19A
+ Thanandare! Ty jsi zabil Zeda, mýho bratra! XXX
+// Arkhan2 O perso2
+L22D19B
+ Jseš mrtvý muz! XXX
+// Arkhan3 L perso3
+L22D20
+ Zed, mùj bratr!... po... pomstím! XXX
+// Arkhan3 O (rachsüchtig, brüllt)perso3
+L22D21
+ Thanandare! Jseš mrtvý muz! XXX
+// Arkhan2 L perso2
+L22D06A
+ U Rahala, energie, o ktere mùj otec mluvil! XXX
+// Arkhan2 L perso2
+L22D06B
+ Zde je konecne prostredek, který mne vylecí! XXX
+// Arkhan2 L perso2
+L22D06C
+ Ahhh... Horím!... Vnitrne... Ah! XXX
+// Arkhan2 L perso2
+L22D07A
+ Ne! Nemohu tuto bolest více vydrzet! XXX
+// Arkhan2 L perso2
+L22D07B
+ To ciní mi velmi bolestive, to mne usmrtí! XXX
+// Arkhan2 O perso2
+L22D08A
+ Konecne! Energie, o ktere mi Otec vyprável! XXX
+// Arkhan2 O perso2
+L22D08B
+ Opet se uzdravím! XXX
+// Arkhan2 O perso2
+L22D16
+ Já potrebuju více! XXX
+// Arkhan3 L perso3
+L22D09A
+ Pramen, energie! XXX
+// Arkhan3 L perso3
+L22D09B
+ Já se uzdravím! XXX
+// Arkhan3 L perso2
+L22D09C
+ Aaah! Já... horím... Aah! XXX
+// Arkhan3 L perso3
+L22D10
+ Ne! To mne usmrtí! XXX
+// Arkhan3 O perso3
+L22D11
+ U ohne, energie ... vylecení! XXX
+// Arkhan3 O perso3
+L22D17
+ Více! XXX
+// Arkhan2 L perso2
+L22D02
+ Svetlo je pryc! Pramen energie ... je spálený. XXX
+// Arkhan2 O perso2
+L22D03
+ Ne... Svetlo je pryc! XXX
+// Arkhan3 L perso3
+L22D04
+ Svetlo ... energie ... pryc! XXX
+// Arkhan3 O (wütend)perso3
+L22D05
+ Nic více! XXX

@@ -1,0 +1,91 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\fr\NWDIAL35.TXT
+ // Arkhan2 G (découvre le tunnel sous-marin) perso2
+L35D01
+ Par le Rahal, je peux marcher sous l'eau! XXX
+// Arkhan3 G (découvre le tunnel sous-marin) perso3
+L35D02
+ Sainte lumière, je marche sous l'eau! XXX
+// Arkhan2 G (dans casque) perso2
+L35D27
+ Plus d'air... Non!... XXX
+// Arkhan3 G (dans casque) perso3
+L35D28
+ Plus d'air... Non!... XXX
+// Arkhan2 G (trouve un noyé) perso2
+L35D03
+ Pauvre gars... les Konkalites l'ont balancé au bout d'une pierre! XXX
+// Arkhan3 G (trouve un noyé) perso3
+L35D04
+ La dernière victime des Konkalites. XXX
+// Arkhan2 G perso2
+L35D100
+ Rien d'intéressant ici. XXX
+// Arkhan3 G perso3
+L35D101
+ Rien ici. XXX
+// Arkhan2 G perso2
+L35D102
+ Y'a rien là. XXX
+// Arkhan3 G perso3
+L35D103
+ Non, rien. XXX
+// Arkhan2 G perso2
+L35D104
+ Rien de spécial. XXX
+// Arkhan3 G perso3
+L35D105
+ J'vois rien. XXX
+// Arkhan2 G (devant squelette) perso2
+L35D07
+ C'est ce qui reste quand les konkalites ont fini... XXX
+// Arkhan3 G (devant squelette) perso3
+L35D08
+ Encore une victime des Konkalites. XXX
+// Arkhan2 L perso2
+L35D09
+ Les cages de torture des Konkalites. XXX
+// Arkhan3 L perso3
+L35D10
+ Une cage de torture Konkalite. XXX
+// Arkhan2 O (frappe sur cage) perso2
+L35D11
+ Une saloperie de cage de torture! XXX
+// Arkhan3 O (frappe sur cage) perso3
+L35D12
+ Saloperie de cage! XXX
+// Arkhan2 L perso2
+L35D15
+ Un vieux fût. XXX
+// Arkhan2 O (shootant dans des bidons) perso2
+L35D16
+ Encore un stupide fût! XXX
+// Arkhan3 L perso3
+L35D17
+ Un vieux fût. XXX
+// Arkhan3 O (shootant dans des bidons) perso3
+L35D18
+ Ah, ces fûts! XXX
+// Arkhan2 G (fouille squelette) perso2
+L35D19
+ Rien que des os... XXX
+// Arkhan3 G (fouille squelette) perso3
+L35D20
+ Que des os! XXX
+// Arkhan2 G (trouve objet sous squelette) perso2
+L35D21
+ J't'emprunte ça... Tu l'avais avalé? XXX
+// Arkhan3 G (trouve objet sous squelette) perso3
+L35D22
+ Merci, l'ami! XXX
+// Arkhan2 G perso2
+L35D23
+ Des ruines de l'Avant... XXX
+// Arkhan3 G perso3
+L35D24
+ Des ruines de l'Avant... XXX
+// Arkhan2 G (monstre marin) perso2
+L35D25
+ Non, il est pas mangeable! XXX
+// Arkhan3 G ("fouille" le monstre marin) perso3
+L35D26
+ Non... rien à bouffer! XXX

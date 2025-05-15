@@ -1,0 +1,22 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL43.TXT
+ // Arkhan3 L perso3
+L43D01
+ Vzdej se, Thanandare!  XXX
+// Arkhan3 O (wütend) perso3
+L43D02
+ Pojd jiz, zabiju te! Zabiju te prece! XXX
+// Arkhan3 G perso3
+L43D03A
+ Nemozne! Nehýbe se! XXX
+// Arkhan3 G perso3
+L43D03B
+ Musím bojovat! XXX
+// Arkhan3 G perso3
+L43D04
+ Tyto skalní ùlomky já nezastavím! XXX
+// Arkhan3 G perso3
+L43D05A
+ Stena je varící! XXX
+// Arkhan3 G perso3
+L43D05B
+ Svetelná energie je vzadu za temito dvermi! XXX

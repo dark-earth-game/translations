@@ -1,0 +1,22 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\fr\NWDIAL43.TXT
+ // Arkhan3 L perso3
+L43D01
+ Abandonne, Thanandar!  XXX
+// Arkhan3 O (fou de rage) perso3
+L43D02
+ Vas-y, frappe! Frappe! XXX
+// Arkhan3 G perso3
+L43D03A
+ Impossible! Ca ne bouge pas! XXX
+// Arkhan3 G perso3
+L43D03B
+ Je dois me battre! XXX
+// Arkhan3 G perso3
+L43D04
+ Ces caillasses ne l'arrêteront pas! XXX
+// Arkhan3 G perso3
+L43D05A
+ La paroi est brûlante! XXX
+// Arkhan3 G perso3
+L43D05B
+ L'énergie de lumière est derrière cette porte! XXX

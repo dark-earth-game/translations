@@ -1,0 +1,229 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL48.TXT
+ // Konkalit5 perso75
+L48D01
+ Wenn Du noch einmal zurückkommst, bring' ich Dich um! XXX
+// Kalhi perso13
+L48D04
+ So gib sie mir doch, Mistkerl! XXX
+// Malrot3 perso63
+L48D05
+ Miese kleine Diebin! Dir geb' ich gar nichts! XXX
+// Kalhi (beunruhigt) perso33
+L04D41
+ Arkhan! Was ist los mit Dir? XXX
+// Malrot3 perso63
+L48D35
+ Ich hab' mich in meinem ganzen Leben noch nie Dieben gebeugt, und das wird sich auch heute nicht ändern! XXX
+// Malrot3 (verängstigt) perso63
+L48D106
+ Hey, ganz ruhig! XXX
+// Kalhi (hat den Malrot getötet) perso13
+L48D13
+ Das wollte ich vermeiden ... XXX
+// Kalhi perso13
+L48D14
+ Aber er hat uns keine andere Wahl gelassen ... XXX
+// Kalhi perso13
+L48D15
+ Wenn du mich brauchst - ich bin bei Danrys. XXX
+// Kalhi perso13
+L48D16
+ Nimm die Munition ... schließlich ist ein Mensch dafür gestorben. XXX
+// Kalhi perso13
+L48D46
+ Gib sie mir! XXX
+// Malrot3 perso63
+L48D47
+ Nein! Du bist doch eine Lumpensammlerin, Du weißt sehr gut, daß ich das zum Tauschen brauche! XXX
+// Kalhi perso13
+L48D48
+ Du schuldest sie mir! XXX
+// Malrot3 perso63
+L48D49
+ Also, was ist? An Deiner stelle würde ich aufgeben - es wäre doch schade, wenn Deinem hübschen kleinen Gesicht was passiert? XXX
+// Kalhi perso13
+L48D50
+ Du bist alt und einarmig, Du hast doch gar keine Chance! XXX
+// Malrot3 perso63
+L48D51
+ Einen Arm hab ich aber noch! XXX
+// Kalhi perso13
+L48D52
+ Gib die Munition her, hab' ich gesagt! XXX
+// Malrot3 perso63
+L48D53
+ Du träumst wohl, meine Süße! XXX
+// Kalhi perso13
+L48D54
+ Du suchst wohl Ärger! XXX
+// Malrot3 perso63
+L48D55
+ Meinst Du etwa, ich hätte Angst vor Dir!? XXX
+// Kalhi perso13
+L48D06
+ Arkhan! Gut, daß du kommst, der alte Mistkerl da sucht Ärger! XXX
+// Malrot3 perso63
+L48D07A
+ Sie will mir die Blitzmunition wegnehmen! XXX
+// Malrot3 perso63
+L48D07B
+ Dabei hätte ich beinahe den einzigen Arm, der mir noch bleibt, verloren, um sie an mich zu bringen! XXX
+// Kalhi perso13
+L48D08A
+ Er ist mir schon seit Monaten etwas schuldig! XXX
+// Kalhi perso13
+L48D08B
+ Und jetzt will ich diese Munition! XXX
+// Kalhi perso13
+L48D08C
+ Ich weiß, sie würde Dir helfen. XXX
+// Malrot3 perso63
+L48D09
+ Wenn ihr mich anrührt, kriegt ihr Probleme! XXX
+// Kalhi perso13
+L48D43
+ So hilf mir doch! XXX
+// Malrot3 perso63
+L48D44
+ So ist das also: Man muß dem Fräulein beim Kämpfen das Händchen halten! XXX
+// Malrot3 perso63
+L48D45
+ Ich verrecke lieber, als Dir meine Munition zu geben! XXX
+// Kalhi perso13
+L48D10
+ Hilf mir, Arkhan! XXX
+// Malrot3 perso63
+L48D11A
+ Das ist ein Problem zwischen ihr und mir! XXX
+// Malrot3 perso63
+L48D11B
+ Misch Dich da nicht ein oder meine Freunde rechnen mit Dir ab! XXX
+// Kalhi perso13
+L48D12
+ Worauf wartest Du denn? Hilf mir! XXX
+// Malrot7 perso67
+L48D02
+ Das wirst Du mir bezahlen! XXX
+// Malrot7 perso67
+L48D03
+ Du hättest nicht zurückkommen sollen! XXX
+// Kalhi (ruft) perso13
+L48D103
+ Arkhan! Arkhan! XXX
+// Kalhi perso13
+L48D104
+ Ich gehe jetzt meinen eigenen Weg, schlag' Dich alleine durch! XXX
+// Arkhan2 L perso2
+L48D17
+ Kalhi, Du solltest Dich nicht mit einem alten Lumpensammler wie dem da anlegen. XXX
+// Arkhan2 O perso2
+L48D18
+ Kalhi, das ist doch nur ein alter Mann! XXX
+// Arkhan3 L perso3
+L48D19
+ Kalhi, das ist ein alter Mann. XXX
+// Arkhan3 O perso3
+L48D20
+ Kalhi, laß ihn in Ruhe! XXX
+// Kalhi perso13
+L48D21A
+ Er schuldet mir etwas, ich verlange nur das, was mir zusteht! XXX
+// Kalhi perso13
+L48D21B
+ Ich tu' das alles doch nur für Dich! XXX
+// Arkhan2 L perso2
+L48D22
+ Du wirst Dich doch nicht für so eine Kleinigkeit mit dem Mann schlagen. Nun komm' schon ... XXX
+// Arkhan2 O perso2
+L48D23
+ Das ist doch nur eine alte Memme! Du wirst ihn doch nicht dafür umbringen! XXX
+// Arkhan3 L perso3
+L48D24
+ Schlag' Dich doch nicht für so eine Kleinigkeit ... XXX
+// Arkhan3 O perso3
+L48D25
+ Hör auf damit! XXX
+// Kalhi perso13
+L48D26
+ Er will mich einfach nicht verstehen! XXX
+// Arkhan2 L perso2
+L48D27
+ Kalhi! Setz Dein Leben nicht aufs Spiel! XXX
+// Arkhan2 O perso2
+L48D28
+ Sobald ich Dir den Rücken zudrehe, machst Du nichts als Unsinn! XXX
+// Arkhan3 L perso3
+L48D29
+ Kalhi! Hör auf! XXX
+// Arkhan3 O perso3
+L48D30
+ Du zwingst mich, diesen armen Kerl da umzubringen! XXX
+// Kalhi perso13
+L48D31
+ Er hat mich angegriffen! XXX
+// Kalhi (A. zeigt ihm während des Kampfes einen Gegenstand)perso13
+L48D32
+ Arkhan! Dafür haben wir jetzt keine Zeit! XXX
+// Arkhan2 G perso2
+L48D100
+ Du bist wohl verrückt geworden! XXX
+// Arkhan3 G perso3
+L48D101
+ Du bist völlig verrückt! XXX
+// Kalhi (muß sich wehren) perso13
+L48D102
+ Arkhan! Du bist krank! XXX
+// Malrot3 perso63
+L48D105
+ Schlagt Euch nur! Ich mach' mich aus dem Staub! XXX
+// Arkhan2 L perso2
+L48D33A
+ Es ist besser, Du gibst mir die Munition ... XXX
+// Arkhan2 L perso2
+L48D33B
+ Es lohnt sich nicht, für so eine Kleinigkeit Blut zu vergießen ... XXX
+// Arkhan3 L perso3
+L48D34
+ Gib mir die Munition ... Lohnt sich nicht, Blut zu vergießen ... XXX
+// Arkhan2 L perso2
+L48D36A
+ Kalhi sagt aber, Du schuldest ihr etwas! XXX
+// Arkhan2 L perso2
+L48D36B
+ Sei doch vernünftig ... XXX
+// Arkhan3 L perso3
+L48D37
+ Denk' daran, daß Du ihr was schuldest  ... Sei doch vernünftig... XXX
+// Malrot3 perso63
+L48D38
+ Du solltest lieber vernünftig sein und diese Furie hier wegbringen, bevor es zu spät ist! XXX
+// Arkhan2 O (bedrohlich)perso2
+L48D39
+ Das ist deine letzte Chance! Gib mir die Munition! XXX
+// Arkhan3 O (bedrohlich)perso3
+L48D40
+ Letzte Chance: Munition her! XXX
+// Malrot3 (beeindruckt)perso63
+L48D41
+ Also gut ... einverstanden ... XXX
+// Malrot3 perso63
+L48D42
+ Ihr werdet aber noch von mir hören, ihr miesen kleinen Diebe! XXX
+// Kalhi perso13
+L48D56
+ Gut gemacht, Arkhan. Mit Dir schaffen wir es. XXX
+// Malrot3 (wird von A. und Kalhi angegriffen)perso63
+L48D57
+ Zwei gegen einen! Jämmerliche Feiglinge! XXX
+// Arkhan2 G perso2
+L48D668
+ Nichts als Dreckwasser  aus der unteren Stadt ... XXX
+// Arkhan3 G perso3
+L48D669
+ Dreckwasser aus der unteren Stadt... XXX
+// Arkhan2 G perso2
+L48D666
+ Das ist ein Meeresarm, der durch einen Teil der unteren Stadt hindurchfließt. XXX
+// Arkhan3 G perso3
+L48D667
+ Das ist ein Meeresarm ... XXX

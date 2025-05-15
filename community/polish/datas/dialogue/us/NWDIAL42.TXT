@@ -1,0 +1,61 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL42.TXT
+ // Arkhan3 G perso3
+L42D01
+ Nie ma powrotu... XXX
+// Arkhan3 G perso3
+L42D05
+ Wyglada na to, ze to koniec... XXX
+// Arkhan3 G perso3
+L42D02A
+ Zewnetrzny swiat... klif... XXX
+// Arkhan3 G perso3
+L42D02B
+ Wejscie powinno byc tutaj... Ale Wielki Kataklizm je zniszczyl! XXX
+// Arkhan3 G perso3
+L42D02C
+ Dlatego ojciec nigdy go nie odnalazl! XXX
+// Arkhan3 L perso3
+L42D08
+ Pali... A to swiatlo... Jak w krypcie. XXX
+// Arkhan3 O perso3
+L42D09
+Do diaska! Sparzylem dlon! XXX
+// Arkhan3 L perso3
+L42D10
+ Nie dotkne tego znowu... XXX
+// Arkhan3 O perso3
+L42D11
+Nie chce tego wiecej dotykac! XXX
+// Arkhan3 G (pulls the lever to open the door) perso3
+L42D07A
+ Ani drgnie. XXX
+// Arkhan3 G perso3
+L42D07B
+ Ani drgnie. XXX
+// Arkhan3 G perso3
+L42D07C
+ Nic. XXX
+// Arkhan3 G perso3
+L42D06
+ Mechanizm sie zacial. XXX
+// Arkhan3 G perso3
+L42D12
+ Kamien jest cieply... XXX
+// Arkhan3 G perso3
+L42D13A
+ Kamienie slizgaja sie... XXX
+// Arkhan3 G perso3
+L42D13B
+ Takie stare... ruiny... XXX
+// Arkhan3 L (looking down) perso3
+L42D03
+ Reszta groty runela w morze. XXX
+// Arkhan3 O (looking down) perso3
+L42D04
+  Jesli zanurkuje stad, bede trupem! XXX
+// Arkhan3 G perso3
+L42D14
+ Gigantyczne kolo... i otwor tutaj. XXX
+// Arkhan3 G perso3
+L42D15
+ Musze znalezc sposob by to poruszyc... XXX

@@ -1,0 +1,82 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL13.TXT
+ // Arkhan2 G (verblüfft)perso2
+L13D01
+ Neuveritelne ... to je ... nejake stare místo od predkù ... XXX
+// Arkhan3 G (verblüfft)perso3
+L13D02
+ Neuveritelne ... to je ... nejake stare místo od predkù ... XXX
+// Arkhan2 G (entdeckt einen Mechanismus)perso2
+L13D07
+ To se pohybuje ... XXX
+// Arkhan3 G (entdeckt einen Mechanismus)perso3
+L13D08
+ To se pohybuje ... XXX
+// Arkhan2 G (vor der kaputten Konsole)perso2
+L13D09
+ Ne... mašina je rozbitá. XXX
+// Arkhan3 G (vor der kaputten Konsole)perso3
+L13D10
+ Tento stroj je rozbitý. XXX
+// Arkhan2 G (untersucht den Kältesarg)perso2
+L13D11A
+ Postel, která se jako truhla mùže zamykat. XXX
+// Arkhan2 G perso2
+L13D11B
+ Muž uvnitr pochází ješte z casù pred velkou katastrofou. XXX
+// Arkhan3 G perso3
+L13D12A
+ Zvláštní, ta postel zde ... XXX
+// Arkhan3 G perso3
+L13D12B
+ A tento zbytek ... nejaký starý muž, který pochází ještì z casù pred velkou katastrofou. XXX
+// Arkhan2 G (untersucht den Kältesarg)perso2
+L13D13A
+ Tu nejaký muž uvnitr ležel... XXX
+// Arkhan2 G perso2
+L13D13B
+ Nyní tu není nic dále než sklo a prach. XXX
+// Arkhan3 G (untersucht den Kältesarg) perso3
+L13D14
+ Nic dále než prach ... XXX
+// Arkhan2 L perso2
+L13D15
+ Dost, to velmi bolí! XXX
+// Arkhan2 O perso2
+L13D23
+ Ta zelená svetla! XXX
+// Arkhan3 L perso3
+L13D16
+ Ne, to velmi bolí! XXX
+// Arkhan3 O perso2
+L13D24
+ Zelený svìtla! XXX
+// Arkhan2 L (untersucht die Konsole) perso2
+L13D17
+ Nádherné, tyto svìtla ... já pøedtím ještì nikdy nevidìl. XXX
+// Arkhan3 L perso3
+L13D18
+ Co je to za malý ohen? XXX
+// Arkhan2 O (untersucht die Trümmer)perso2
+L13D19
+ Všechno znièený! XXX
+// Arkhan3 O (untersucht die Trümmer)perso2
+L13D20
+ Všechno rozbitý! XXX
+// Arkhan2 G perso2
+L13D03
+ Nic než trosky... XXX
+// Arkhan3 G perso3
+L13D04
+ Rozvaliny... XXX
+// Arkhan2 G perso2
+L13D05
+ Všechno bylo skáceno ... XXX
+// Arkhan3 G perso3
+L13D06
+ Všechno bylo zhrouceno ... XXX
+// Arkhan2 G (untersucht den Kältesarg)perso2
+L13D21
+ Postel je znicená ... clovek, který zde spal uvnitr, není více než prach ... XXX
+// Arkhan3 G (untersucht den Kältesarg)perso3
+L13D22
+ Nejaký starec predkù ... který nyní se rozpadl v prach ... XXX

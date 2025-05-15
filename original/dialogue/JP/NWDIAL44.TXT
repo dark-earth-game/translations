@@ -1,0 +1,16 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL44.TXT
+ // Arkhan3 O perso3
+L41D15
+ Where am I?! XXX
+// Arkhan3 L perso3
+L41D05
+ It's closed! Must keep moving. XXX
+// Arkhan3 O perso3
+L41D06
+ Trapped like a rat! XXX
+// Arkhan3 L perso3
+L41D07
+ No way to open it... XXX
+// Arkhan3 O perso3
+L41D08
+ Can't do anything. Trapped! XXX

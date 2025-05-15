@@ -1,0 +1,616 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL16.TXT
+ // Delia (zu Maor) perso10
+L16D200
+ Also, was sagst Du dazu, Maor? XXX
+// Maor perso17
+L16D201A
+ Einfach phantastisch, Delia ... wie üblich. XXX
+// Maor perso17
+L16D201B
+ Armal Sadak und seine Männer werden begeistert sein! XXX
+// Delia (zu Maor) perso10
+L16D202
+ Gut, ich gehe jetzt in meine Loge zurück ... Ich bin müde. XXX
+// Maor (barsch)perso17
+L16D666
+ Du störst mich! XXX
+// Maor (barsch)perso17
+L16D667
+ Ich hab' jetzt keine Zeit, geh zur Seite! XXX
+// Maor (genervt)perso17
+L16D668
+ Geh zur Seite oder Du wirst es bedauern! XXX
+// Maor (wird angreifen)perso17
+L16D669
+ Heiliges Feuerrohr, Du hast es so gewollt! XXX
+// Maor (erschrocken, greift an)perso17
+L16D670
+ So einfach kriegst Du mich nicht, Ungeheuer! XXX
+// Maor (von weitem, wütend)perso1
+L16D999
+ Hey, Du Mistkerl! Komm da sofort raus! XXX
+// Delia (geschockt)perso10
+L16D125
+ Das war nicht Maor, das war ein Tier! XXX
+// Arkhan2 L perso2
+L16D203
+ Vertrau mir doch, ich bin noch immer ein Mensch. XXX
+// Arkhan2 O perso2
+L16D204
+ Komm schon, schnell ... bevor ich mich auch noch verwandle (Lachen) XXX
+// Arkhan3 G perso3
+L16D205
+ Nun komm schon! XXX
+// Maor (wütend)perso17
+L16D998
+ Komm schon her, Dreckskerl, ich werd' Dir abgewöhnen, Damen zu belästigen! XXX
+// Delia (erkennt Maor, der auf furchtbare Weise verwandelt ist)perso10
+L16D25
+ Beim Sonnengott, Maor! XXX
+// Delia (überrascht und erschrocken durch Arkhan)perso10
+L16D49
+ Wer ... Wer bist Du? Was willst Du? XXX
+// Delia perso10
+L16D51
+ Da bist Du ja schon wieder! XXX
+// Delia perso10
+L16D50
+ Ach, Du bist es. Ich hoffe, Du hast mir etwas mitgebracht. XXX
+// Delia (erschrocken)perso10
+L16D52
+ Nein! Komm nicht näher! XXX
+// Delia perso10
+L16D122
+ Halt! Du machst mir Angst! XXX
+// Delia (verängstigt, ruft)perso10
+L16D906
+ Maor! Maor! XXX
+// Maor perso17
+L16D350
+ Hey, der Stinktier-Wettbewerb findet erst morgen statt! XXX
+// Maor perso17
+L16D351
+ Wie Du willst, Ungeheuer, ich komme! XXX
+// Maor (A. kommt näher)perso17
+L16D127
+ Was willst Du? XXX
+// Arkhan2 L perso2
+L16D206
+ Hey, Maor... XXX
+// Arkhan2 O perso2
+L16D207
+ Hey, ich muß mit Dir sprechen! XXX
+// Maor (mürrisch)perso17
+L16D208
+ Warte an der Bar auf mich, ich komme gleich ... XXX
+// Arkhan3 L perso3
+L16D209
+ Hey! XXX
+// Maor perso17
+L16D210
+ Ganz ruhig! Geh schon an die Bar, ich komm' gleich nach! XXX
+// Arkhan2 L perso2
+L16D500
+ Nur keine Angst, Bogdaran schickt mich. XXX
+// Delia perso10
+L16D501
+ Bogdaran? Wo ist er? XXX
+// Arkhan2 L perso2
+L16D502
+ In der Oberen Stadt. Ich werde Dich zu ihm führen. XXX
+// Delia perso10
+L16D503
+ Einverstanden. XXX
+// Arkhan2 O perso2
+L16D504A
+ Bogdaran schickt mich, Dich zu holen! XXX
+// Arkhan2 O perso2
+L16D504B
+ Komm mit und mach keine Geschichten! XXX
+// Delia (eingeschüchtert)perso10
+L16D505
+ Bogdaran? XXX
+// Arkhan2 O perso2
+L16D506
+ Ja, und ich bring' Dich zu ihm, er wartet sehnsüchtig auf Dich. XXX
+// Arkhan2 L perso2
+L16D507
+ Mach Dir keine Sorgen, wir werden schnell da sein. XXX
+// Delia perso10
+L16D508
+ Was immer Du willst - Hauptsache, wir kommen hier raus! XXX
+// Arkhan2 O perso2
+L16D509
+ Und beeil Dich ein bißchen, ich hab' keine Zeit zu verlieren! XXX
+// Arkhan2 O perso2
+L16D510
+ Alles was ich will? Aha, das werd ich nicht vergessen ... XXX
+// Arkhan2 G (zeigt auf eine tote Ratte)perso2
+L16D888
+ Ist die nicht schön? XXX
+// Delia (angeekelt) perso10
+L16D889
+ Ah! Tu die sofort weg! XXX
+// Delia perso10
+L16D700
+ Nein, das interessiert mich nicht. XXX
+// Arkhan3 L perso3
+L16D402
+ Immer mit der Ruhe! Ich tu' Dir nichts. XXX
+// Delia perso10
+L16D409
+ Verschwinde, Du Ungeheuer! XXX
+// Arkhan3 L perso3
+L16D407
+ So hör mir doch zu! XXX
+// Delia perso10
+L16D410
+ Wenn Du mich anrührst, wirst Du verrecken wie eine Ratte! XXX
+// Arkhan3 G perso3
+L16D511
+ Komm mit! XXX
+// Delia perso10
+L16D512
+ Einverstanden. XXX
+// Arkhan2 L perso2
+L16D513A
+ Was ist denn hier los? XXX
+// Arkhan2 L perso2
+L16D513B
+ Nebenan ist sonst niemand. XXX
+// Delia (furchtsam)perso10
+L16D514A
+ Ich ... Ich hatte mich versteckt. Ich habe Schreie gehört, Lärm wie von einer Schlägerei. XXX
+// Delia perso10
+L16D514B
+ Ich habe Angst. XXX
+// Arkhan2 L perso2
+L16D515C
+ Rühr Dich nicht von der Stelle! XXX
+// Arkhan2 O perso2
+L16D516A
+ Dann verstecken wir uns eben in ihrer Loge! XXX
+// Arkhan2 O perso2
+L16D516B
+ Bist Du alleine hier? XXX
+// Arkhan2 O perso2
+L16D517
+ Mach Dir keine Sorgen, bei mir bist Du in Sicherheit! XXX
+// Arkhan2 L perso2
+L16D518
+ Bleib hier und versteck Dich. XXX
+// Arkhan2 O perso2
+L16D519
+ Rühr Dich hier nicht weg. Draußen würde man Dir in kürzester Zeit die Kehle durchschneiden! XXX
+// Delia perso10
+L16D520
+ Du hast recht ... Ich bleibe lieber hier. XXX
+// Arkhan2 G perso2
+L16D521
+ Keine Sorge, ich kümmere mich darum! XXX
+// Delia perso10
+L16D522
+ Sei vorsichtig! XXX
+// Arkhan2 L perso2
+L16D100
+ Keine Sorge! Ich tu' Dir nichts! XXX
+// Delia (verängstigt)perso10
+L16D101
+ Was ... was willst Du denn? XXX
+// Arkhan2 L (beruhigend)perso2
+L16D102A
+ Immer mit der Ruhe ... Ich heiße Arkhan, ich bin ein Freund der Lumpensammler. XXX
+// Arkhan2 L perso2
+L16D102B
+ Ich weiß, ich bin nicht gerade schön anzuschauen, aber ich habe keine bösen Absichten. XXX
+// Arkhan2 L perso2
+L16D102C
+ Du brauchst also keine Angst zu haben, verstanden? XXX
+// Delia (beruhigt, aber vorsichtig)perso10
+L16D103
+ Hmm ... also gut. Aber wenn Du mir zu nahe kommst, rufe ich Maor! XXX
+// Arkhan2 L (versucht, sich mit Delia anzufreunden) perso2
+L16D104
+ Ähm ... Ich hab' Dich tanzen sehen, das war wirklich phantastisch. XXX
+// Delia perso10
+L16D105A
+ Danke, das ist nett von Dir ... XXX
+// Delia perso10
+L16D105B
+ Was willst Du von mir? XXX
+// Arkhan2 L perso2
+L16D106
+ Ich brauche Hilfe. Die Hüter des Feuers sind hinter mir her. Kannst Du mir helfen? XXX
+// Delia perso10
+L16D107
+ Wenn Du hier unten Hilfe suchst, geh zu Armal Sadak. XXX
+// Arkhan2 L perso2
+L16D108
+ Armal Sadak? XXX
+// Delia perso10
+L16D109A
+ Ja! Er ist der größte Lumpensammler der Unteren Stadt. Hier unten respektieren ihn alle. XXX
+// Delia perso10
+L16D109B
+ Wenn Dir jemand helfen kann, dann er! Ich weiß aber nicht, ob er es tun würde ... XXX
+// Arkhan2 L perso2
+L16D110
+ Wo finde ich ihn? XXX
+// Delia perso10
+L16D111
+ Das ist nicht so einfach ... Ich kann Dich nicht so ohne weiteres zu ihm führen. Ich brauche einen Beweis Deines guten Willens. XXX
+// Arkhan2 L perso2
+L16D112
+ Ich kenne Armal Sadak. Ich weiß aber nicht, ob er mir helfen kann.  XXX
+// Delia perso10
+L16D113
+ Wenn Armal Sadak Dir nicht helfen kann, dann weiß ich auch nicht, was ich für Dich tun kann. XXX
+// Arkhan2 L perso2
+L16D114
+ Was soll ich tun? XXX
+// Delia perso10
+L16D115A
+ Bring mir ein Geschenk, irgendetwas Schönes, Glänzendes ...  XXX
+// Delia perso10
+L16D115B
+ Dann werde ich sehen, was ich bei Armal Sadak für Dich ausrichten kann ... XXX
+// Arkhan2 G perso2
+L16D116
+ Mehr kannst Du mir nicht sagen? XXX
+// Delia perso10
+L16D117
+ Nein, ich glaube nicht. XXX
+// Arkhan2 O perso2
+L16D118
+ Ruhe! Hör auf zu schreien!  XXX
+// Delia (verängstigt)perso10
+L16D119
+ Ich bitte Dich, tu mir nicht weh! XXX
+// Arkhan2 O (bedrohlich) perso2
+L16D120A
+ Schluß jetzt, dreckige Hure! XXX
+// Arkhan2 O perso2
+L16D120B
+ Wenn Du Dich nicht nützlich machst, werd' ich Dich auf meine Weise tanzen lehren! XXX
+// Delia (bekommt Angst) perso10
+L16D121
+ Nein! Maor, Hilfe! XXX
+// Delia perso10
+L16D886A
+ Bist Du gekommen, um Dinge zu tauschen? XXX
+// Delia perso10
+L16D886B
+ Das interessiert mich nicht, meine Beschützer geben mir alles, was ich will ... XXX
+// Delia perso10
+L16D887
+ Ich hab' Dir gesagt, daß ich keine Tauschgeschäfte mache! XXX
+// Arkhan2 O perso2
+L16D66
+ Du wirst mir jetzt helfen, sonst polier' ich Dir Deine hübsche Fresse! XXX
+// Delia perso10
+L16D67
+ Nein, schlag mich nicht! XXX
+// Arkhan2 L perso2
+L16D68
+ Ich kann Dir nichts schenken, aber ich brauche wirklich Deine Hilfe! XXX
+// Delia perso10
+L16D69
+ Es tut mir leid, ich kann Dich nicht so ohne weiteres zu Armal Sadak führen ... XXX
+// Arkhan2 G perso2
+L16D70
+ Ich habe vielleicht etwas für Dich. Gefällt Dir das? XXX
+// Delia perso10
+L16D71
+ Nein, das interessiert mich nicht ... XXX
+// Delia (A. gibt ihr eine CD)perso10
+L16D72
+ Ein Lichtspiegel vom Vorher! Ja, der gefällt mir! XXX
+// Delia perso10
+L16D74A
+ Du findest Armal Sadak nicht weit von hier, in einem Gebäude mit der Form eines Schiffes. XXX
+// Delia perso10
+L16D74B
+ Wenn Du ihn triffst, sag ihm den folgenden Satz: XXX
+// Delia perso10
+L16D74C
+ "Der Mensch ist nichts als ein Spielstein, den die Hand des Schicksals mal in den Schatten, mal in das Licht taucht." XXX
+// Delia perso10
+L16D75
+ Das ist eine Parole. XXX
+// Arkhan2 G perso2
+L16D76
+ Ist das alles? XXX
+// Delia perso10
+L16D77
+ Um mit ihm zu sprechen, ja. Aber wenn Du wirklich willst, daß er Dir hilft, mußt Du ihn im Yong-Spiel schlagen. XXX
+// Arkhan2 G perso2
+L16D78
+ Was ist das für ein Spiel? XXX
+// Delia perso10
+L16D79A
+ Das ist Armal Sadaks Lieblingsspiel. Er spielt es ständig. XXX
+// Delia perso10
+L16D79B
+ Er sagt, daß das Leben eine lange Yong-Partie ist, und Dinge in dem Stil. XXX
+// Arkhan2 G perso2
+L16D80
+ Was muß ich tun, um zu gewinnen? XXX
+// Delia perso10
+L16D81A
+ Ich kenn' mich damit nicht besonders gut aus ...  XXX
+// Delia perso10
+L16D81B
+ Man spielt es auf einem Brett mit Schattenspielsteinen und Lichtspielsteinen. XXX
+// Delia perso10
+L16D82
+ Und Armal hat mir immer gesagt, daß man als erstes die Ecken des Spielfeldes besetzen sollte, wenn man gewinnen will.   XXX
+// Arkhan2 G perso2
+L16D83
+ Ist das alles, was Du mir zu sagen hast? XXX
+// Delia perso10
+L16D84
+ Ja, ich hab' Dir alles gesagt, was ich weiß.  XXX
+// Delia perso10
+L16D85
+ Du mußt jetzt gehen ... XXX
+// Delia perso10
+L16D885A
+ Du hast mir bereits ein Geschenk gemacht, das reicht. XXX
+// Arkhan2 L perso2
+L16D400
+ Keine Angst! Ich tu' Dir nichts. XXX
+// Arkhan2 O perso2
+L16D401
+ Halt's Maul, Schlampe, oder ich werd' mir Dein hübsches Gesicht mal vornehmen! XXX
+// Delia perso10
+L16D404A
+ Du Dreckskerl! Für das, was Du Maor angetan hast, wirst Du mir bezahlen! XXX
+// Delia perso10
+L16D404B
+ Und wenn Du mich anrührst, wird Dir Armal Sadak das Herz aus dem Leib reißen! XXX
+// Arkhan2 L perso2
+L16D405
+ Ich will niemanden umbringen, ich brauche Hilfe. XXX
+// Arkhan2 O perso2
+L16D406
+ Alles was ich will, ist Hilfe! XXX
+// Delia perso10
+L16D408
+ Raus hier! Ich hab' Dir nichts zu sagen! XXX
+// Delia (A. hat sie geschlagen) perso10
+L16D403
+ Hör auf, Du Dreckskerl! XXX
+// Arkhan2 L perso2
+L16D300A
+ Sei gegrüßt ... Maor, so heißt Du doch, oder? XXX
+// Arkhan2 L perso2
+L16D300B
+ Eine tolle Show ... XXX
+// Maor perso17
+L16D301
+ Hmm ... Was willst Du? XXX
+// Arkhan2 O perso2
+L16D302A
+ Die Tänzerin da ist wirklich sexy. XXX
+// Arkhan2 O perso2
+L16D302B
+ Würdest Du sie mit mir teilen? XXX
+// Maor perso17
+L16D303A
+ Schlag Dir das aus dem Kopf! Delia hat ihre ... Beschützer. XXX
+// Maor perso17
+L16D303B
+ Und davon abgesehen bist Du sowieso nicht ihr Typ! XXX
+// Arkhan2 L perso2
+L16D304A
+ Ich bin Arkhan, Freund der Lumpensammler. XXX
+// Arkhan2 L perso2
+L16D304B
+ Ich hab' Probleme mit den Hütern des Feuers ... und ich brauch' Hilfe. XXX
+// Arkhan2 O perso2
+L16D306A
+ Ich heiß' Arkhan. Die Wächter des Feuers sind mir auf den Fersen, und ich bin todkrank ... XXX
+// Arkhan2 O perso2
+L16D306B
+ Und wenn Du's genau wissen willst: Ich versuch', trotz der nicht gerade freundlichen Typen, die hier in der Gegend 'rumhängen, meine Haut zu retten! XXX
+// Maor perso17
+L16D305
+ Ich versteh' ... Aber hier wirst Du nicht finden, was Du suchst. XXX
+// Maor (mürrisch, aber großzügig)perso17
+L16D307A
+ Da auf dem Tisch steht eine Flasche Stohll.  XXX
+// Maor perso17
+L16D307B
+ Nimm sie, ich schenk' sie Dir. XXX
+// Maor (mürrisch, aber großzügig)perso17
+L16D308A
+ Behalt die Flasche, die Du eben vom Tisch genommen hast. XXX
+// Maor perso17
+L16D308B
+ Das ist alles, was ich für Dich tun kann. XXX
+// Arkhan2 L perso2
+L16D309
+ Wenn Du mir nicht helfen kannst, an wen kann ich mich dann wenden? XXX
+// Maor perso17
+L16D310A
+ Hmm ... Ich nehm' an, daß Du Dich den Hütern des Feuers nicht ausliefern willst ... XXX
+// Maor perso17
+L16D310B
+ Wenn Du nichts zu verlieren hast, kannst Du zu Armal Sadak gehen. XXX
+// Maor perso17
+L16D310C
+ Aber was auch immer passiert - mach einen weiten Bogen um die Konkaliten, sonst bekommst Du nur Probleme! XXX
+// Arkhan2 O perso2
+L16D311A
+ Ich hab' mich gerade gefragt, ob Du überhaupt lächeln kannst! XXX
+// Arkhan2 O perso2
+L16D311B
+ Oder willst Du unbedingt den starken Mann markieren? XXX
+// Maor perso17
+L16D312A
+ Ich lächle nur hübsche Frauen an, verstanden? XXX
+// Maor perso17
+L16D312B
+ Verzieh Dich jetzt, ich hab' zu tun ... XXX
+// Arkhan2 L perso2
+L16D313
+ Kannst Du mir mehr darüber erzählen? XXX
+// Maor perso17
+L16D314
+ Es tut mir leid, mehr gute Ratschläge kann ich Dir nicht geben. XXX
+// Arkhan2 L perso2
+L16D315
+ Kannst Du mir wirklich nicht mehr sagen? XXX
+// Maor perso17
+L16D316A
+ Nein ...  XXX
+// Maor perso17
+L16D316B
+ Aber wenn Du Dich ein wenig unterhalten möchtest, geh doch zu Delia! XXX
+// Arkhan2 O perso2
+L16D317A
+ Du spielst den starken Mann, stimmt's? Aber weißt Du, was ich glaube? XXX
+// Arkhan2 O perso2
+L16D317B
+ Ich glaub', daß Du den Hintern zusammenkneifst, um Dir hinter Deiner Bar nicht in die Hosen zu scheißen! XXX
+// Maor (wütend) perso17
+L16D318A
+ Alles klar, Amigo! Du willst unbedingt ein paar hinter die Löffel. XXX
+// Maor perso17
+L16D318B
+ Komm her, ich tu' Dir den Gefallen! XXX
+// Arkhan3 L perso3
+L16D320
+ Sei gegrüßt! XXX
+// Maor (beeindruckt)perso17
+L16D321
+ Beim Sonnengott ... Wer bist Du denn? XXX
+// Arkhan3 L perso3
+L16D322
+ Immer mit der Ruhe. Ich brauche ... Hilfe. XXX
+// Maor (beeindruckt)perso17
+L16D323
+ Tut mir leid, Amigo. Ich kann nichts für Dich tun. XXX
+// Arkhan3 L perso3
+L16D324
+ Sag mir, an wen ich mich wenden kann ... An einen Heiler vielleicht. XXX
+// Maor perso17
+L16D325A
+ Ähm ... Ich bin ein einfacher Lumpensammler, ich verstehe nichts von der Wissenschaft des Heilens ... XXX
+// Maor perso17
+L16D326A
+ Aber da auf dem Tisch steht eine Flasche voll Stohll. XXX
+// Maor perso17
+L16D326B
+ Wenn Du willst, schenk' ich sie Dir.  XXX
+// Maor perso17
+L16D327A
+ Behalt doch den Stohll, den Du Dir gerade genommen hast. XXX
+// Arkhan3 L perso2
+L16D328
+ Bist Du sicher, daß Du mir nicht helfen kannst? XXX
+// Maor (fühlt sich unwohl in seiner Haut) perso17
+L16D329
+ Ich würd' Dir ja gerne helfen, aber ich weiß nicht, wie ... XXX
+// Arkhan3 L perso2
+L16D330
+ Kannst Du mir wirklich nicht helfen? XXX
+// Maor (fühlt sich unwohl in seiner Haut)perso17
+L16D331
+ Nein, tut mir leid ... XXX
+// Arkhan3 O perso3
+L16D332
+ Doch! Du wirst mir helfen! XXX
+// Maor (beeindruckt) perso17
+L16D333A
+ Ich weiß nicht, wer Du bist, und ich weiß nicht, was Du willst! XXX
+// Maor (beeindruckt) perso17
+L16D333B
+ Aber ich warne Dich: Ich hab' eine Waffe und kann damit umgehen! XXX
+// Arkhan3 O perso3
+L16D334
+ Du Mißgeburt von Lumpensammler, ich mach' Dich zu Hackfleisch! XXX
+// Arkhan2 G perso2
+L16D335
+ Willst Du ein wenig Stohll? XXX
+// Maor perso17
+L16D336
+ Behalt Deinen Stohll, ich hab' alles, was ich brauch'! XXX
+// Arkhan3 G perso3
+L16D337
+ Stohll? XXX
+// Maor (beeindruckt)perso17
+L16D338
+ Nein ... Nein ... Trink auf mein Wohl. XXX
+// Arkhan2 G perso2
+L16D339
+ Willst Du eine Flasche? XXX
+// Maor perso17
+L16D340
+ Nein, Amigo, ich hab' alles, was ich brauch'. XXX
+// Arkhan3 G perso3
+L16D341
+ Willst Du was davon? XXX
+// Maor (beeindruckt)perso17
+L16D342
+ Nein ... Danke. XXX
+// Maor perso17
+L16D343
+ Nein, das interessiert mich nicht. XXX
+// Maor (beeindruckt)perso17
+L16D346
+ Nein, danke. Behalt ihn. XXX
+// Arkhan2 L perso2
+L16D904
+ Ein gegrilltes Hähnchen ... sehr lecker. XXX
+// Arkhan3 L perso2
+L16D905
+ Ein Hähnchen ... lecker gegrillt! XXX
+// Maor perso17
+L16D04
+ Hey, zieh Leine! XXX
+// Maor perso17
+L16D07A
+ Hey, die Bar ist mein Reich! XXX
+// Maor perso17
+L16D07B
+ Und ich hab' Dich nicht zu mir eingeladen, capito? XXX
+// Maor perso17
+L16D08
+ Ich hab' Dich gewarnt! XXX
+// Arkhan2 G perso2
+L16D118A
+ Eine kleine Spieluhr. XXX
+// Arkhan2 G perso2
+L16D118B
+ Danrys hat mir eine gebaut, als ich noch Kind war. XXX
+// Arkhan3 G perso3
+L16D119A
+ Eine Spieluhr. XXX
+// Arkhan3 G perso3
+L16D119B
+ Wie die, die mir Danrys vor langer Zeit gebaut hat. XXX
+// Arkhan2 L perso2
+L16D900
+ Bei den Spitzen traut sich bestimmt niemand, auf die Bühne zu steigen und die Tänzerin zu küssen! XXX
+// Arkhan3 L perso3
+L16D901
+ Diese Spitzen sind wirklich abschreckend! XXX
+// Arkhan2 G perso2
+L16D902
+ Da ist eine alte Wandmalerei vom Vorher. XXX
+// Arkhan3 G perso3
+L16D903
+ Eine alte Wandmalerei vom Vorher. XXX
+// Arkhan2 G perso2
+L16D701
+ Das ist ein Fäßchen mit Stohll. XXX
+// Arkhan3 G perso3
+L16D702
+ Ein Fäßchen mit Stohll. XXX
+// Arkhan2 G perso2
+L08D71
+ Nein, die Flasche ist schon voll. XXX
+// Arkhan3 G perso3
+L08D72
+ Die Flasche ist voll! XXX

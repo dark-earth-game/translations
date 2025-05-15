@@ -1,0 +1,736 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL01.TXT
+ // Kalhi (to Arkhan who returns dressed in his underwear) perso12
+L01D17A
+ Arkhan! Co ty u licha robisz paradujac w takim stroju?! XXX
+// Kalhi (rozbawiona) perso12
+L01D17B
+ Daj spokoj! Twoj uniform wisi tam... XXX
+// Guardian23 perso88
+L01D147
+ Jestes po ich stronie, wiedzialem! XXX
+// Zed (yelling through the door) perso1
+L01D01A
+ (na zewnatrz) Arkhan, tu Zed! Pospiesz sie. Wychodz! XXX
+// Zed (yelling through the door) perso1
+L01D01B
+ (z zewnatrz) Komendant Dhorkan wzywa cie. Bedziesz mial spore klopoty jesli nie wyjdziesz natychmiast!   XXX
+// Kalhi (waking up) perso12
+L01D03
+ Arkhan... Wstales... Chyba miales niespokojna noc... XXX
+// Phedoria (Arkhan hits Kalhi) perso26
+L01D45A
+ Arkhan! Trzymaj lapy z daleka od niej! XXX
+// Arkhan0 O (furious) perso0
+L01D99
+ Kapitan Phedoria! Ty podla wiedzmo, mam uderzyc i ciebie? Zalatwione! XXX
+// Phedoria (coolly fires her weapon) perso26
+L01D45B
+ Nie pozostawiasz mi wielkiego wyboru! XXX
+// Kalhi (brokenhearted over Arkhan's death) perso12
+L01D44
+ Arkhan... Nie! XXX
+// Kabak (attacking) perso87
+L01D148
+ Arkhan! Ty podly zdrajco! XXX
+// Arkhan1 G (accosting Kabak) perso1
+L01D66A
+ Hej, Kabak! XXX
+// Kabak (grumbling) perso87
+L01D67
+ Niech swiatlosc bedzie z toba, Arkhan... XXX
+// Arkhan2 L perso2
+L01D60A
+ Nie musisz sie mnie obawiac Kabak! XXX
+// Arkhan2 O perso2
+L01D60B
+ Nie odchodz! XXX
+// Arkhan3 L perso3
+L01D61A
+ Nie boj sie! XXX
+// Arkhan3 O perso3
+L01D61B
+ (warczy agresywnie) XXX
+// Kabak (stunned at the sight of Arkhan) perso87
+L01D30A
+ Arkhan! Czy to naprawde ty? XXX
+// Kabak perso87
+L01D30B
+ Na Boskie Slonce, naprawde cie sterali! XXX
+// Kabak (seeing Arkhan2/3 again) perso87
+L01D139
+ Arkhan! Wydaje mi sie, ze robi sie coraz gorzej... XXX
+// Arkhan2 G (accosts Kabak) perso2
+L01D66B
+ Kabak! XXX
+// Arkhan3 G (accosts Kabak) perso3
+L01D66C
+ Kabak! XXX
+// Kabak (facing aggressive Arkhan1) perso87
+L01D81
+ Co w ciebie wstapilo? XXX
+// Kabak (facing aggressive Arkhan2/3) perso87
+L01D82
+ Uspokoj sie! XXX
+// Kabak (Arkhan comes back after having fled the battle) perso87
+L01D87
+ Tu jestes podly psie! XXX
+// Kabak (Arkhan puts the weapons away) perso87
+L01D80
+ Tak lepiej.  XXX
+// Kabak (hit by Arkhan1) perso87
+L01D137
+ Sprobuj jeszcze raz a pozalujesz! XXX
+// Kabak (hit by Arkhan2/3) perso87
+L01D138A
+ Piekny nie jestes, ale stary Kabak widzial gorsze rzeczy w swoim czasie!  XXX
+// Guardian23 (shocked at the sight of Arkhan) perso88
+L01D121
+ Kabak! Na sily mroku!  To jedna z owych kreatur! XXX
+// Kabak (to Lars, wounded Guardian) perso87
+L01D31A
+ Bez paniki Lars! XXX
+// Kabak (reassuring) perso87
+L01D31B
+ Lars, spokoj! Ta "istota", o ktorej mowisz to Arkhan.  XXX
+// Kabak perso87
+L01D31C
+ Tego ranka byl jeszcze Gwardzista Ognia tak jak ty i ja. Nie jest naszym wrogiem. XXX
+// Guardian23 (unconvinced that Arkhan is harmless) perso88
+L01D122
+ Okej, ale czymkolwiek jestes nie podchodz ani kroku blizej. Arkhan! XXX
+// Guardian23 (unconvinced that Arkhan is harmless) perso88
+L01D123
+ Uwazaj Arkhan! Nadal potrafie stawic czola w walce! XXX
+// Guardian23 (shocked at the sight of Arkhan) perso88
+L01D124
+ Kabak! Rozmawiasz z tym czyms?... Sama jego obecnosc przyprawia o mdlosci! XXX
+// Kabak (suspicious) perso87
+L01D171
+ Nie zrobi ci niczego... Prawda Arkhan? XXX
+// Guardian23 (doesn't want to look at Arkhan) perso88
+L01D94
+ Kabak, przywolaj swego stwora! XXX
+// Guardian23 (doesn't want to look at Arkhan) perso88
+L01D95
+ Kabak, Nie podoba mi sie to! Jego oczy ponuro blyszcza! XXX
+// Kabak perso87
+L01D96
+ Wystarczy Lars!  zostal skrzywdzony, tak jak i ty. XXX
+// Kabak perso87
+L01D172
+ Nie jest szalony! Nie skrzywdzi nas! XXX
+// Guardian23 (attacking Arkhan) perso88
+L01D127
+ Zabij demona! XXX
+// Arkhan1 L (beside a bed) perso1
+L01D21A
+ Jestem tak zmeczony... Ale musze isc. XXX
+// Kalhi (a little impatient) perso12
+L01D29A
+ Arkhan pospiesz sie, Zed na ciebie czeka...  XXX
+// Kalhi (a little impatient) perso12
+L01D29B
+ Arkhan, masz wreszcie swoj uniform, idz poszukac Zeda... XXX
+// Arkhan2 G (beside a bed) perso2
+L01D21B
+ Nie pora na spanie! XXX
+// Arkhan3 G (beside a bed) perso3
+L01D21C
+ Nie pora na to... XXX
+// Arkhan1 O (beside a bed) perso1
+L01D21D
+ Na sily mroku! Mam tego dosyc, nigdy nie moge sie wyspac. XXX
+// Kalhi (impatient) perso12
+L01D29C
+ Arkhan, przestan narzekac! XXX
+// Arkhan0 L perso0
+L01D119
+ Oto moj uniform Gwardzisty Ognia. XXX
+// Arkhan0 O (mumbling) perso0
+L01D120
+ To moj uniform Gwardzisty. XXX
+// Kalhi (Arkhan goes out dressed in his underwear) perso12
+L01D32
+ Arkhan, chyba nie wychodzisz TAK ubrany!? XXX
+// Arkhan1 G (ironical) perso0
+L01D33
+ Nie, moglbym miec klopoty gdyby zobaczono mnie w takim stroju! XXX
+// Arkhan1 L perso1
+L01D34A
+ Kalhi, badz ostrozna, niech nikt nie zobaczy cie jak stad wychodzisz.  XXX
+// Arkhan1 L perso1
+L01D34B
+ Nie chce by komendant Dhorkan zobaczyl cie. Wiesz jaki jest surowy w kwestii wpuszczania obcych do koszar Gwardzistow Ognia... XXX
+// Kalhi perso12
+L01D36
+ Nie martw sie Arkhan, wyjde rownie cicho jak przyszlam. XXX
+// Arkhan1 O (scolding) perso1
+L01D35A
+ Hej, Kalhi, rusz sie! XXX
+// Arkhan1 O perso1
+L01D35B
+ Wiesz dobrze, ze ludziom z zewnatrz nie wolno wchodzic na teren koszar Gwardzistow Ognia.  XXX
+// Arkhan1 O perso1
+L01D35C
+ Jesli komendant Dhorkan znajdzie cie tutaj, przydziela mnie do czyszczenia latryn!  XXX
+// Kalhi (upset) perso12
+L01D37
+ Jesli chcesz bym przestala tu przychodzic po prostu powiedz!  XXX
+// Kalhi perso12
+L01D41
+ Hej tam, uspokoj sie! Masz trenowac z Zedem a nie ze mna! XXX
+// Arkhan1 G (softly) perso0
+L01D02
+ Kalhi, spisz? XXX
+// Arkhan1 L perso0
+L01D04A
+ Nie chcialem cie budzic. Ale pierwsze promienie Boskiego Slonca przedostaja sie do srodka.... XXX
+// Kalhi perso12
+L01D05A
+ Nie przejmuj sie, to byla tylko drzemka. XXX
+// Arkhan1 L perso0
+L01D04B
+ Wiesz, mialem dziwny sen. Widzialem Wielki Kataklizm i naszych przodkow-Wedrowcow, ktorzy wzniesli nasze miasto... XXX
+// Kalhi perso12
+L01D05B
+ Sniles o zalozycielach Sparty? XXX
+// Kalhi perso12
+L01D05C
+ Taki sen spodobalby sie Rylsadharowi.  XXX
+// Kalhi perso12
+L01D05D
+ Twoj Patrzacy w Slonce ojciec rzeczywiscie pasjonuje sie historia! XXX
+// Arkhan1 L perso0
+L01D06A
+ Mozesz wierzyc lub nie, ale ty rowniez bylas w tym snie! Razem z moim ojcem, Zedem, i Wielka Patrzaca w Slonce Lory...  XXX
+// Arkhan1 L perso0
+L01D06B
+ Nawet nasz przyjaciel Danrys, stary Lupiezca tam byl.  XXX
+// Kalhi perso12
+L01D07
+ Sadzisz, ze Boskie Slonce moglo wywolac twoj sen? XXX
+// Arkhan1 L perso0
+L01D08A
+ Mam nadzieje, ze nie! XXX
+// Arkhan1 L perso0
+L01D08B
+ Gdyby Boskie Slonce naprawde chcialo wyswiadczyc mi przysluge, wstawaloby pozniej, bym mogl sie spokojnie wyspac!  XXX
+// Kalhi perso12
+L01D09A
+ Arkhan! Gdyby twoj ojciec uslyszal te slowa...! XXX
+// Kalhi perso12
+L01D09Z
+ Jesli nie bedziesz okazywal wiecej szacunku, skonczysz na wygnaniu w Mrocznych Ziemiach! XXX
+// Arkhan1 L perso0
+L01D10
+ Pora wyjsc, prawda? Jesli znajda nas tu razem, oboje bedziemy mieli klopoty. XXX
+// Kalhi perso12
+L01D11
+ Wiem, masz racje.  Nie ma sensu igrac z ogniem. XXX
+// Arkhan1 O (in a bad mood) perso0
+L01D13A
+ Przestan Kalhi, nie jestem w nastroju! XXX
+// Kalhi (upset) perso12
+L01D14
+Okej, w porzadku, skoro tak sadzisz po prostu sie zamkne... XXX
+// Arkhan1 O perso0
+L01D13B
+ Mialem koszmar... Snilem o przeszlosci naszego miasta... XXX
+// Arkhan1 O perso0
+L01D15
+ Mam tego dosc! Nie jestem bogiem! Czemu musze wstawac razem z Wielkim Dajacym Swiatlo?! XXX
+// Arkhan1 O perso0
+L01D16
+ Badz godnym Gwardzista Ognia. Sluz Boskiemu Sloncu. Patrzacy w Slonce w kolko to powtarzaja! XXX
+// Kalhi perso12
+L01D09B
+ Cos ci powiem, zycie Lupiezcow takich jak ja i stary Danrys tez nie jest uslane rozami! XXX
+// Arkhan1 O perso1
+L01D18
+ Chce znow lezec u twego boku... XXX
+// Kalhi (irritated) perso12
+L01D19
+ Arkhan, nie! Spedzanie tutaj wspolnej nocy bylo wystarczajaco niebezpieczne!  Nie moga nas przylapac... XXX
+// Arkhan1 L perso0
+L01D46A
+ Okej, Zed mnie wzywa, musze ruszac. XXX
+// Kalhi perso12
+L01D20A
+Hmmm. Nie zapomnij ucalowac go ode mnie. Bez jego pomocy nigdy nie udaloby sie nam spotkac zeszlej nocy... XXX
+// Arkhan1 L (feigning disgust) perso0
+L01D46B
+ Nie jest w moim typie! XXX
+// Arkhan1 L perso0
+L01D46C
+ Nie moge pojac czemu wszystkie kobiety szaleja za Zedem... XXX
+// Kalhi (amused) perso12
+L01D20B
+ Chyba ci sie cos pomieszalo!  To ciebie kocham, a nie jego! XXX
+// Arkhan1 O perso0
+L01D47
+ Zed... nawet Zed ma mi cos za zle! XXX
+// Kalhi (exasperated) perso12
+L01D26A
+Chyba nie zamierzasz krytykowac Zeda! Jest twoim przyjacielem i najwiekszym bohaterem Stallite!  XXX
+// Kalhi perso12
+L01D26B
+ A bez jego pomocy nie moglibysmy spotkac sie zeszlej nocy... XXX
+// Arkhan1 L perso0
+L01D88A
+ Pora na mnie, ruszam. XXX
+// Kalhi perso12
+L01D89A
+ Niech swiatlosc bedzie z toba ukochany. XXX
+// Arkhan1 O perso0
+L01D88B
+ (westchnienie) Ruszamy... XXX
+// Kalhi perso12
+L01D89B
+ Rozchmurz sie! XXX
+// Arkhan1 L perso1
+L01D24A
+ Widzialem Zeda. Niecierpliwi sie by rozpoczac trening.  Mysle, ze potrzeba mu czynow. XXX
+// Kalhi perso12
+L01D25A
+ Przeciez dopiero co wrocil z wyprawy do Mrocznych Ziem.  Nigdy nie odpoczywa!  XXX
+// Arkhan1 O perso1
+L01D83
+ Widzialem Zeda. Gotowy do akcji...  i zbyt zajety by mnie zauwazyc!  Tez mi przyjazn! XXX
+// Kalhi perso12
+L01D84A
+ Arkhan, nie badz niewdziecznikiem! To prawda, Zed spedza zbyt wiele czasu w Mrocznych Ziemiach. To wystarcza by uczynic kazdego ponurym. A jednak nie slyszalam by kiedykolwiek skierowal przykre slowa do ciebie.  XXX
+// Kalhi perso12
+L01D25B
+ Powinienes wbic mu rozum do glowy. Pewnego dnia wyruszy do Mrocznych Ziem i nie wroci. Powinien zostac tu i zyc z nami.  Jest jednym z naszych najlepszych Gwardzistow Ognia! XXX
+// Arkhan1 G perso1
+L01D24B
+ Twierdzi, ze zycie w Stallite nudzi go. Powinnas zobaczyc jego spojrzenie kiedy jest gotowy do wyprawy. Nie sadze by ktokolwiek lub cokolwiek moglo zmienic jego zdanie! XXX
+// Kalhi perso12
+L01D25C
+ Niechaj Boskie Slonce zawsze nad nim czuwa! XXX
+// Arkhan1 L perso1
+L01D27A
+ Musze isc. Niech swiatlosc bedzie z toba Kalhi. XXX
+// Kalhi perso12
+L01D28
+ Niech swiatlosc bedzie z toba ukochany. XXX
+// Arkhan1 O perso1
+L01D85A
+ Wystarczy. Ruszam. XXX
+// Arkhan1 O (grumbling) perso1
+L01D85B
+ Taak... Swiatlosc z toba.. XXX
+// Kalhi (uneasy) perso12
+L01D42
+ Przestan Arkhan! Boje sie ciebie! XXX
+// Kalhi (terrified)  perso12
+L01D43A
+ Arkhan, na Boskie Slonce! Prosze nie rob mi krzywdy! XXX
+// Arkhan0 G (growling at Kalhi) perso0
+L01D98
+ Podla dziwko, juz ja ci dam lekcje! XXX
+// Kalhi (crying out in fear) perso12
+L01D43B
+ Nie! Nie! Pomocy! Niech ktos mi pomoze! XXX
+// Arkhan0 G (splashing water on his face) perso0
+L01D23A
+ Ah... Wspaniale uczucie! XXX
+// Arkhan2 G (splashing water on his face) perso2
+L01D23B
+ Ah... Wspaniale uczucie !XXX
+// Arkhan3 G (splashing water on his face) perso3
+L01D23C
+ Ah...Wspaniale. XXX
+// Arkhan1 L perso1
+L01D48
+ Niech swiatlosc bedzie z toba, Kabak! XXX
+// Kabak perso87
+L01D49A
+ Wierzaj mi synu, Ojciec Swiatla byl dla nas dzis laskawy! XXX
+// Kabak perso87
+L01D49B
+ Przed chwila mijalem ognistooka pieknotke... niezla sztuka! XXX
+// Arkhan1 L (embarrassed) perso1
+L01D50
+ Hmmm... Doprawdy...? XXX
+// Kabak (dreamy) perso87
+L01D51A
+ Smakowity kasek! Przez chwile rozwazalem czy nie zlozyc moich starych kosci na jej miekkich wypuklosciach. XXX
+// Kabak perso87
+L01D51B
+ Ale to byla zywotna dzierlatka.  XXX
+// Kabak perso87
+L01D51C
+ Umknela mi sprzed nosa niczym wicher! XXX
+// Arkhan1 O perso1
+L01D52
+ Kabak! Widze, ze wciaz probujesz rozgrzac swoje stare kosci. XXX
+// Arkhan1 O (sarcastic) perso1
+L01D53
+ Jasne. Przesadziles wczoraj z grzybkami Stohll, co? XXX
+// Kabak perso87
+L01D54A
+ Nie... Mowie prawde, widzialem ja na wlasne oczy! XXX
+// Kabak (grumbling) perso87
+L01D54B
+ Huh! Nikt mi nie wierzy.. XXX
+// Arkhan1 G perso1
+L01D128
+ Widziales cos poza twoja widmowa dziewczyna? XXX
+// Kabak perso87
+L01D129A
+ Jest jakies nieplanowane spotkanie w Swiatyni Boskiego Slonca. Wydaje mi sie, ze Wielka Patrzaca w Slonce spotyka sie z Lupiezcami. XXX
+// Kabak perso87
+L01D129B
+ To chyba nie jest bardzo wazne skoro Dhorkan wysyla tylko nas dwoch.  XXX
+// Arkhan1 G perso1
+L01D130
+ O co chodzi z tym specjalnym spotkaniem? XXX
+// Kabak perso87
+L01D131A
+Wydaje mi sie, ze ci z Nizszego Miasta cos odkryli i chca pokazac to Wielkiej Patrzacej w Slonce. XXX
+// Kabak perso87
+L01D131B
+ Czy cos w tym rodzaju... XXX
+// Arkhan1 L perso1
+L01D132
+ To wszystko? XXX
+// Kabak perso87
+L01D133
+ Tak, wydaje mi sie, ze tak... XXX
+// Arkhan1 O perso1
+L01D134
+ Nigdy niczego nie jestes pewien! XXX
+// Kabak perso87
+L01D135
+ Coz, jak ci sie nie podoba, czemu nie pogadasz z komendantem?! XXX
+// Arkhan2 L perso2
+L01D55A
+ Kabak... Szukam leku, ktory by mnie uzdrowil.  XXX
+// Arkhan2 L perso2
+L01D55B
+ Slyszalem o krypcie, tajnym miejscu w Stallite.  XXX
+// Arkhan2 L perso2
+L01D55C
+ Byles tu dluzej niz ktokolwiek inny, Z pewnoscia musisz wiedziec cos wiecej? XXX
+// Arkhan2 O perso2
+L01D56A
+Sluchaj  Kabak! Musze znalezc lek na te zaraze, ktora pozera moje cialo!  XXX
+// Arkhan2 O perso2
+L01D56B
+ Podobno jest jakas krypta, tajne miejsce, w ktorym moglbym zostac uzdrowiony.  XXX
+// Arkhan2 O perso2
+L01D56C
+ Byles tu dluzej niz ktokolwiek inny.  Jesli wiesz cokolwiek, lepiej mi powiedz!  XXX
+// Arkhan3 G perso3
+L01D57A
+ Kabak, musze znalezc miejsce, w ktorym moglbym zostac uleczony. XXX
+// Arkhan3 G perso3
+L01D57B
+ Tajna krypta. Znasz to miejsce? XXX
+// Kabak (thinking) perso87
+L01D59A
+ Tajna krypta... uh... nie, nic o niej nie wiem.  XXX
+// Kabak perso87
+L01D59B
+ Ludziska powiadaja, ze cale Stallite pelne jest podziemnych pomieszczen i pieczar, ale sadze, ze to tylko czcze gadanie.  XXX
+// Kabak perso87
+L01D59C
+ Jesli chcesz mojej rady synu, mysle, ze powinienes udac sie do Patrzacych w Slonce uzdrowicieli.  XXX
+// Arkhan2 G perso2
+L01D62A
+ Uzdrowiciele mi nie pomoga... XXX
+// Arkhan3 G perso3
+L01D62B
+ Uzdrowiciele sa bezradni... XXX
+// Kabak perso87
+L01D63A
+ W takim razie pozostaje ci jedno: modlitw do Boskiego Slonca z prosba o wypedzenie mroku, ktory wtargnal w twoje cialo.  XXX
+// Kabak (hesitating) perso87
+L01D63B
+ Albo... XXX
+// Kabak perso87
+L01D63C
+ Powiadaja, ze w Mrocznych Ziemiach mieszka kobieta, ktora potrafi wyleczyc najgorsze choroby.  XXX
+// Kabak perso87
+L01D63D
+ To tylko dziecinne opowiastki...  XXX
+// Kabak perso87
+L01D63E
+ A poza tym teraz, kiedy ogloszono stan wyjatkowy, nikt nie moze opuszczac miasta! XXX
+// Arkhan2 G perso2
+L01D64A
+ Naprawde nie wiesz nic wiecej na ten temat? XXX
+// Arkhan3 G perso3
+L01D64B
+Nic wiecej? XXX
+// Kabak perso87
+L01D65A
+ Nie moj chlopcze. To wszystko co wiem, przysiegam. XXX
+// Kabak perso87
+L01D65B
+ Jedno jednak wiem na pewno... lepiej uwazaj na siebie. XXX
+// Kabak perso87
+L01D65C
+ Wielu Gwardzistow Ognia chcialoby cie teraz poslac do piachu!  XXX
+// Arkhan2 G perso2
+L01D173A
+ Patrzacy w Slonce Thanandar oszukal mnie.  XXX
+// Arkhan2 G perso2
+L01D173B
+Zlowrozbny mrok ciagle tam jest, plynie w moich zylach.  XXX
+// Arkhan3 G perso3
+L01D174
+Spojrz na mnie.  Musze znalezc lek szybko niewazne gdzie on jest i czym jest! XXX
+// Kabak perso87
+L01D175A
+ Nie trac nadziei! XXX
+// Kabak perso87
+L01D175B
+ Gdzies musi byc jakies rozwiazanie. XXX
+// Kabak perso87
+L01D175C
+ Boskie Slonce cie nie opusci! XXX
+// Arkhan2 L perso2
+L01D68
+ Kabak. Jestes bezpieczny... Co sie dzieje? XXX
+// Arkhan2 O perso2
+L01D69
+ Kabak! Ty ciagle tutaj? Masz jakiekolwiek pojecie co sie tutaj dzieje? XXX
+// Arkhan3 L perso3
+L01D70
+ Kabak! Co sie dzieje?  XXX
+// Arkhan3 O perso3
+L01D71
+ Powiedz mi..Co sie dzieje? XXX
+// Kabak perso87
+L01D72A
+ Kompletny chaos. W Nizszym Miescie wybuchly zamieszki. Powiadaja, ze wielu zginelo. XXX
+// Kabak perso87
+L01D72B
+ Niektorzy twierdza nawet, ze stwory z Mrocznych Ziem dostaly sie do Stallite.  XXX
+// Arkhan2 G perso2
+L01D73
+ Kto wygrywa bitwe? XXX
+// Arkhan3 G perso3
+L01D74
+ Kto zwycieza? XXX
+// Kabak perso87
+L01D75A
+ Nie mamy pojecia.  Dhorkan znikl... albo nie zyje.  Ludzie padaja jak muchy po obu stronach.  XXX
+// Kabak perso87
+L01D75B
+ Boskie Slonce nas opuscilo Arkhan. To juz koniec! XXX
+// Arkhan2 L perso2
+L01D76
+ Nie poddawaj sie Kabak! Jeszcze nas nie wykonczyli! XXX
+// Arkhan2 O perso2
+L01D77
+ Pozbieraj sie! Wydostaniemy sie z tego zywi! XXX
+// Arkhan3 L perso2
+L01D78
+ Odwagi Kabak! XXX
+// Arkhan3 O perso2
+L01D79
+ Tchorz! XXX
+// Kabak perso87
+L01D146
+ Lepiej stad uciekaj Arkhan! XXX
+// Arkhan2 G perso2
+L01D108
+ Kabak, jak wyglada sytuacja? XXX
+// Arkhan3 G perso3
+L01D109
+ Jak stoja sprawy? XXX
+// Kabak perso87
+L01D110A
+ Popatrz tylko na tego biedaka... on jeden uszedl z zyciem z jego grupy. XXX
+// Kabak perso87
+L01D110B
+ Nasi przeciwnicy z dolu to nie zwyczajni ludzie. Jest tam cos jeszcze...  XXX
+// Kabak perso87
+L01D110C
+ ... Stwory z Mrocznych Ziem. To prawda, sa wsrod nas! XXX
+// Arkhan2 G perso2
+L01D111
+ Gdyby Zed tu byl,  wiedzialby co robic! XXX
+// Arkhan3 G perso3
+L01D112
+ Gdyby tylko Zed tu byl! XXX
+// Arkhan2 G perso2
+L01D200
+ Co robisz? XXX
+// Arkhan3 G perso3
+L01D201
+ Co robisz? XXX
+// Kabak perso87
+L01D202A
+ Co robie? Robie to czego Uzdrowiciele by nie zrobili! XXX
+// Kabak perso87
+L01D202B
+ Przygotowuje eliksir dla wszystkich, ktorym mozna jeszcze pomoc...  XXX
+// Arkhan2 G perso2
+L01D203
+ Czy twoj eliksir uleczy mnie? XXX
+// Arkhan3 G perso3
+L01D204
+ Czy moge sprobowac twojego eliksiru? XXX
+// Kabak perso87
+L01D205
+ Nie Arkhan, przykro mi.  Nie mam go wystarczajaco wiele, a poza tym obawiam sie, ze w twoim przypadku by nie zadzialal.... XXX
+// Arkhan2 L perso2
+L01D206
+ Daj mi troche Kabak. Twoj eliksir mi pomoze, jestem pewien. XXX
+// Arkhan2 0 perso2  
+L01D207
+ Zadam tego eliksiru! XXX
+// Arkhan3 L perso3
+L01D208
+ Blagam. Potrzebuje twojego eliksiru! XXX
+// Arkhan3 0 perso3
+L01D209
+Dawaj ten eliksir! XXX
+// Kabak perso87
+L01D210
+ Powiedzialem nie! Musze pomoc moim ludziom! XXX
+// Arkhan1 G (disclosing the object in his hand) perso1
+L01D105
+ Czy ten przedmiot cokolwiek ci mowi? XXX
+// Arkhan2 G (disclosing the object in his hand) perso2
+L01D106
+ Czy wiesz cokolwiek na temat tego przedmiotu? XXX
+// Arkhan3 G (disclosing the object in his hand) perso3
+L01D107
+ Popatrz na to. Czy wiesz co to jest? XXX
+// Kabak perso87
+L01D92A
+ Nie... Nie wiem ku czemu zmierzasz... XXX
+// Kabak perso87
+L01D92B
+ To? Nie, nie mowi mi to nic szczegolnego... XXX
+// Kabak perso87
+L01D92C
+ Wybacz, nie potrafie ci nic na ten temat powiedziec.. XXX
+// Arkhan1 G (making fun of the old Kabak) perso1
+L01D38
+ Hej! Ponoc niezle walczysz jak na swoj wiek! XXX
+// Arkhan2 G (making fun of the old Kabak) perso2
+L01D39
+ Podobno niezle walczysz jak na kogos w twoim wieku!  XXX
+// Arkhan3 G (making fun of the old Kabak) perso3
+L01D40
+ Zgnilizna, masz pecha staruszku! XXX
+// Kabak (furious) perso87
+L01D93
+ Podly psie! XXX
+// Kabak (challenging Arkhan) perso87
+L01D86
+ Uwazaj Arkhan! XXX
+// Guardian23 perso88
+L01D136
+ Kabak, juz biegne! XXX
+// Arkhan1 O perso0
+L01D176
+ (warczy) XXX
+//Arkhan2 O perso2
+L01D177
+ (warczy) XXX
+//Arkhan3 O perso3
+L01D178
+ (warczy) XXX
+// Arkhan2 G perso2
+L01D159
+ Czy brales udzial w walkach w Nizszym Miescie? XXX
+// Arkhan3 G perso2
+L01D160
+ Walczyles w Nizszym Miescie? XXX
+// Guardian23 perso88
+L01D97A
+ Walczylem? Nie, bylem nazbierac grzybow by uwarzyc malego Stohlla! XXX
+// Guardian23 perso88
+L01D97B
+ A jak sadzisz baranie!? XXX
+// Arkhan2 L perso2
+L01D161
+ Czy wielu zginelo? XXX
+// Arkhan2 O perso2
+L01D162
+ Jeszcze jedno slowo, a odpruje ci tylek i wepchne ci do gardla! XXX
+// Arkhan3 L perso3
+L01D163
+ Ktos polegl? XXX
+// Arkhan3 O perso3
+L01D164
+ (warczy agresywnie) XXX
+// Guardian23 perso88
+L01D165A
+ To nie byl mily widok. Zmasakrowali kazdego komu nie udalo sie znalezc kryjowki! XXX
+// Guardian23 perso88
+L01D165B
+ Podle Konkalickie psy! XXX
+// Guardian23 perso88
+L01D165C
+ To oni sprowadzili cienie do Stallite.  XXX
+// Guardian23 perso88
+L01D165D
+ I te podle kreatury wraz z nimi! XXX
+// Guardian23 perso88
+L01D165E
+ Przeklete demony! Kazdy z nich zginie! XXX
+// Guardian23 (challenging Arkhan) perso88
+L01D166
+ Tylko szczekasz, czy moze umiesz tez gryzc?  XXX
+// Kabak perso87
+L01D167
+ Przestancie, obydwaj! Jestescie po tej samej stronie, nie zapominajcie o tym! XXX
+// Arkhan2 G perso2
+L01D168
+ Jak wolisz! Ja w kazdym badz razie ide tam i zamierzam wyciagnac nas z tego bagna! XXX
+// Arkhan3 G (determined) perso3
+L01D169
+ Ide tam. Niech tylko sprobuja mnie powstrzymac! XXX
+// Guardian23 (aggressive) perso88
+L01D170
+ Nie patrz sie na mnie. XXX
+// Arkhan2 G perso2
+L01D150
+ Co ci sie stalo? XXX
+// Arkhan3 G perso3
+L01D151
+ Niezle cie sterali. XXX
+// Guardian24 (weak) perso89
+L01D152A
+ Przy drzwiach... stwory... wielkie, czarne... XXX
+// Guardian24 (weak) perso89
+L01D152B
+ Zasadzili sie na nas... Wszyscy poza mna zgineli... XXX
+// Arkhan2 G perso2
+L01D153
+ Te istoty, o ktorych mowisz, skad one sie wziely? XXX
+// Arkhan3 G perso3
+L01D154
+ Skad wziely sie te potwory? XXX
+// Guardian24 (weak) perso89
+L01D155A
+ Z Mrocznych Ziem... Wygladaly jak zwierzeta albo ludzie...  ale.... jakos odmienieni... XXX
+// Guardian24 (weak) perso89
+L01D155B
+ Sluza diablu....  sa niewolnikami Wladcy Ciemnosci...  XXX
+// Guardian24 (weak) perso89
+L01D155C
+ HTo jego musisz powstrzymac!  XXX
+// Arkhan2 G perso2
+L01D156
+ Mam nadzieje, ze wyzdrowiejesz. XXX
+// Arkhan3 G perso3
+L01D157
+ Odwagi! XXX
+// Arkhan2 G (disclosing an object) perso2
+L01D117
+ Rozpoznajesz ten przedmiot? XXX
+// Arkhan3 G (disclosing an object) perso3
+L01D118
+  Czy rozpoznajesz to? XXX
+// Guardian24 (weak) perso89
+L01D149
+ Nie.   Ja... Ja nic nie widze. XXX

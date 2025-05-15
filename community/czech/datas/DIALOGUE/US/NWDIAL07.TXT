@@ -1,0 +1,307 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL07.TXT
+ // Zed (nach einem langen oder kurzen Kampf) perso27
+L07D01A
+ Mmm ... Ty musíš ješte se ucit! XXX
+// Zed (mit freundlichem Spott) perso27
+L07D01B
+ Bud jsi zrezavel nebo jsi se špatne vyspal! XXX
+// Zed (nach einem langen oder kurzen Kampf) perso27
+L07D01C
+ Cvic dále, to je jediná moznost, k zlepšení.  XXX
+// Zed perso27
+L07D05A
+ Pokud chceš bojovat, priprav se!  XXX
+// Zed perso27
+L07D05B
+ Kdyz ne, pak nech mne v klidu cvicit, rozumneno? XXX
+// Phedoria perso26
+L07D02A
+ Jiz vycerpán?  XXX
+// Phedoria perso26
+L07D02B
+ Musíš svojí vytrvalost zlepšit ... XXX
+// Zed perso27
+L07D03A
+ Pojd nyní a bojuj! XXX
+// Zed perso27
+L07D03B
+ Neriskuješ, my pouze cvicíme bez ohrození! XXX
+// Zed perso27
+L07D04
+ Zmenil si svùj názor? XXX
+// Zed perso27
+L07D06
+ Tedy dobre, ty to tak chceš! Bran se! XXX
+// Zed perso27
+L07D08
+ Pokud ty nechceš bojovat, vezmi toto alespon jako lekci! XXX
+// Zed perso27
+L07D09
+ Ty nevíš také, co ty chceš! XXX
+// Zed (gereizt) perso27
+L07D10
+ Nedelej krok blíze, pokud chceš odejít! XXX
+// Phedoria (spöttisch) perso26
+L07D32
+ Vzdej se jiz! XXX
+// Phedoria perso26
+L07D11
+ Pojd jiz, já ti ukázu, co to znamená bojovat! XXX
+// Phedoria perso26
+L07D12
+ Pokud deláš se jiz pripraveným, zaklej ješte! XXX
+// Phedoria perso26
+L07D13
+ Dost! XXX
+// Phedoria perso26
+L07D14
+ Ješte jednou! XXX
+// Phedoria perso26
+L07D74
+ Jdi na stranu a nech mne cvicit. XXX
+// Phedoria perso26
+L07D75
+ Bez zpet nebo te napíchnu. XXX 
+// Phedoria perso26
+L07D76
+ Naposled ... Rozumíš! XXX
+// Phedoria perso26
+L07D77
+ Tupá hlavo! XXX
+// Phedoria perso26
+L07D54
+ Stát, kdo je to?! XXX
+// Phedoria perso26
+L07D55
+ Rekni mi, kdo ty jsi, nebo já te dopravím do Temne Zeme! XXX
+// Phedoria (schießt kaltblütig) perso26
+L01D45B
+ Ty nedáváš mi jinou volbu! XXX
+// Phedoria (Arkhan macht sich gefechtsbereit) perso26
+L07D78
+ Já te za chytráka povazuju! XXX
+// Zed perso27
+L07D07
+ Ješte jednou! XXX
+// Zedperso27
+L07D16
+ Oho, Ty zdáš se dnes ve forme být! XXX
+// Arkhan1 L perso1
+L07D18
+ Tedy, jsi pripravený pro male prátelske bojove cvicení? XXX
+// Zed perso27
+L07D19
+ Pokud ty chceš! Delej jiz a bez! XXX
+// Arkhan1 O perso1
+L07D20
+ Priprav se, Zede! Ty chceš nejvetší pokorení sveho zivota zazít! XXX
+// Zed perso27
+L07D21
+ To my ješte uvidíme, ty mrzáku! Delej, priprav se! XXX
+// Phedoria perso26
+L07D22
+ Jsi pripravený? Jedem! XXX
+// Phedoria perso26
+L07D23
+ Vem si zbran, pokud ty chceš se mnou cvicit! XXX
+// Phedoria (Arkhan kommt mit einer Waffe zurück) perso26
+L07D24
+ No konecne! Já skoro usnula! XXX
+// Phedoria (Arkhan kommt mit einem Gegenstand zurück) perso26
+L07D25
+ Nedelej si ze mne srandu, vezmi si správnou zbraò! XXX
+// Arkhan1 L perso1
+L07D26
+ Kommandantko Phedorie, máte chut k malemu prátelskemu souboji? XXX
+// Phedoria (selbstsicher)perso26
+L07D27
+ Prátelskému, aha? Priprav se! XXX
+// Arkhan1 O perso1
+L07D28
+ Ty budeš si muset verit! XXX
+// Phedoria perso26
+L07D29
+ Myslíš? Priprav se, Udavaci! XXX
+// Arkhan2 G perso2
+L07D57
+ Phedorie, já jsem, Arkhan! XXX
+// Arkhan3 G perso3
+L07D58
+ Jsem Arkhan! XXX
+// Phedoria perso26
+L07D59A
+ Arkhan!? XXX
+// Phedoria perso26
+L07D59B
+ Díky jedu nebyl jsi poznán! XXX
+// Arkhan2 G perso2
+L07D60A
+ Ver mi, nemej strach ze mne! XXX
+// Arkhan2 G perso2
+L07D60B
+ K protikladu k jiným Strázcùm ohnù! XXX
+// Phedoria perso26
+L07D61A
+ Ty ukazuješ jim obraz, ktereho se oni naucily bát. XXX
+// Phedoria perso26
+L07D61B
+ Promne to nemá zádný význam, kdyz tvoje duše cistá zùstává. XXX
+// Phedoria perso26
+L07D61C
+ Já ani rozkaz nedostala, te usmrtit, ani te zatknout. XXX
+// Arkhan2 G perso2
+L07D62A
+ Já ani nevím, na koho se mám obrátit ...  XXX
+// Arkhan2 G perso2
+L07D62B
+ Vetšina mých takzvaných prátel postavila se proti mne nebo se pokusila, mne oklamat. XXX
+// Phedoria perso26
+L07D63
+ Pokud ty v sebe a Slunecního Boha veríš, hledej cestu. XXX
+// Arkhan2 G perso2
+L07D65
+ Mùzeš ty mi pomoci? XXX
+// Phedoria perso26
+L07D64A
+ Ne. XXX
+// Phedoria perso26
+L07D64B
+ Já nesmím zádne svazky uzavírat. XXX
+// Phedoria perso26
+L07D64C
+ Ty musíš sám východ nalezt. XXX
+// Arkhan2 G perso2
+L07D79
+ Phedorie... XXX
+// Phedoria perso26
+L07D80A
+ Dost. XXX
+// Phedoria perso26
+L07D80B
+ Já ti rekla, co já ríct ti mela. XXX
+// Phedoria perso26
+L07D81
+ Nenalehej dále na mne, je to bezùcelne. XXX
+// Arkhan3 G perso2
+L07D70A
+ Já vidím, ze ty mi veríš ... XXX
+// Arkhan3 G perso2
+L07D70B
+ Ostatní mají mne za nestvùru... XXX
+// Arkhan3 G perso2
+L07D72
+ Já nemohu nikomu více dùverovat. XXX
+// Arkhan3 G perso2
+L07D82
+ Muzeš mi pomoci? XXX
+// Arkhan3 G perso3
+L07D73
+ Phedorie... XXX
+// Phedoria perso26
+L07D30
+ Zakládáš si na potycku! XXX
+// Arkhan1 G perso1
+L07D51
+ Nic na strelništi. XXX
+// Arkhan2 G perso2
+L07D52
+ Nic na strelništi. XXX
+// Arkhan3 G perso3
+L07D53
+ Nic. XXX
+// Arkhan1 L perso1
+L07D33A
+ To je cvicný panák. XXX
+// Arkhan1 L perso1
+L07D33B
+ Já cvicil bych radeji s pravým protivníkem. XXX
+// Arkhan1 O perso1
+L07D34A
+ Nevyuzitelný cvicebný panák. XXX
+// Arkhan1 O perso1
+L07D34B
+ Bez kostí a zubù, ktere se mùzou zlomit a vymlátit, to neprináší prece zádnou radost! XXX
+// Arkhan2 G perso2
+L07D35
+ Cvicební panák. Není cas, s ním cvicit! XXX
+// Arkhan3 G perso3
+L07D37
+ Není cas cvicit. XXX
+// Arkhan1 G perso1
+L07D39A
+ To je strelnište.  XXX
+// Arkhan1 G perso1
+L07D39B
+ Jsou lide, kterí cvicí ve strelbe s puškou. XXX
+// Arkhan2 G perso2
+L07D41
+ Strelnice. Je prázdné. XXX
+// Arkhan3 G perso3
+L07D43
+ Strelnice je prázdná. XXX
+// Arkhan1 G perso1
+L07D45
+ Nejvetší strelecký cíl. Dobrý pro zacátecníky. XXX
+// Arkhan2 G perso2
+L07D46
+ To je velký cvicebný strelecký cíl. XXX
+// Arkhan3 G perso3
+L07D47
+ Velký strelecký zíl. XXX
+// Arkhan1 G perso1
+L07D48
+ Malý strelecký zíl. Pro specialisty jako je Zed! XXX
+// Arkhan2 G perso2
+L07D49
+ Nejake malá cvicební strelnice. XXX
+// Arkhan3 G perso3
+L07D50
+ Malá strelnice. XXX
+// Arkhan2 L perso2
+L16D300A
+ Buï pozdraven ... Maor, tak jmenuješ se prece, nebo? XXX
+// Maor perso17
+L16D301
+ Hmm ... Co chceš? XXX
+// Arkhan2 L perso2
+L16D304A
+ Já jsem Arkhan, prítel smetákù. XXX
+// Arkhan2 L perso2
+L16D304B
+ Já mám problemy se Strázci ohnù ... a já potrebuju pomoc. XXX
+// Maor perso17
+L16D305
+ Já rozumím ... ale zde ty nenajdeš nic, co ty hledáš. XXX
+// Arkhan2 O perso2
+L16D311A
+ Já se chci zeptat, zda se ty vùbec umíš smát! XXX
+// Arkhan2 O perso2
+L16D311B
+ Nebo chceš ty bezpodmínecne silnýho muze predstavovat? XXX
+// Maor perso17
+L16D312A
+ Já usmívám se pouze na pekne zeny, rozumíš? XXX
+// Maor perso17
+L16D312B
+ Opusti mne, já mám mnoho práce ... XXX
+// Arkhan2 G perso2
+L18D184
+ Chceš lok koralky z hub? XXX
+// Malrot2 perso62
+L18D187
+ Trochu koralky, to já neodmítnu. XXX
+// Malrot2 (hat getrunken) perso62
+L18D189
+ Aaahhh... z toho dostávám zízen! XXX
+// Malrot2 (rülpst) perso62
+L18D188
+ ... Díky. XXX
+// Malrot2 perso62
+L18D153A
+ Víš, my pijeme a jíme rádi. XXX
+// Bogdaran perso8
+L05D110A
+ Nedelej si zádný starosti. XXX
+// Bogdaran perso8
+L05D110B
+ Kdyz se neco dozvím, reknu ti to. XXX

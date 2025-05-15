@@ -1,0 +1,388 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL21.TXT
+ // Arkhan2 G (distressed) perso2
+L21D202
+ G &agdfZ| klj]d_drZ! XXX
+// Arkhan3 G (distressed) perso3
+L21D203
+ Djld! XXX
+// Lory (greeting Arkhan up above) perso15
+L21D26A
+ #lqZi! X jkjc_ZgZ. XXX
+// Lory (greeting Arkhan up above) perso15
+L21D26B
+ Ma_jld| lZmmfZcZgZ, snj mgosdgjmx... XXX
+// Lory perso15
+L21D26C
+ $j^ JjgirZ _Zlj]Zg iZh kjmga_ide tZim, #lqZi. QZim jnmnj|nx iZtdq [lZnxa]... XXX
+// Lory perso15
+L21D26D
+ ...JkZmnd mnZggZen. XXX
+// Lory perso15
+L21D26E
+ Jga_oe cZ hije. L iZm hZgj ]lahaid! XXX
+// Thanandar25 perso25
+L21D45A
+ #lqZi! <u~ bd]je! Fakgjqj! XXX
+// Arkhan2 G (stupefied) perso2
+L21D200
+ KZiZi_Zl! XXX
+// Arkhan3 G (stupefied) perso3
+L21D201
+ KZiZi_Zl! XXX
+// Thanandar25 perso25
+L21D45B
+ Kw jkjc_Zg. Kakalx mo_x[Z mnZggZenZ ] hjdq lofZq! XXX
+// Thanandar25 perso25
+L21D46A
+ Ac-cZ n]ja^j ]hatZnagxmn]Z | okomndg Djld. XXX
+// Thanandar25 perso25
+L21D46B
+ Fj hia _jmnZgjmx fja-snj kjgosta: IdgmZ_Zl, jnar n]je! XXX
+// Thanandar25 perso25
+L21D46C
+ Gi ]wkdg #lqdmouijmnx, snj kjgidn hjz _oto. Kakalx ji ] hjae ]gZmnd. XXX
+// Thanandar25 perso25
+L21D46D
+ Hjm]|u~iiwe, cZudnidf m]anZ, ji mZh kjfljan hdl Z[mjgzniwh hlZfjh! XXX
+// Thanandar25 perso25
+L21D47
+ Fj hia _jmnZgjmx fja-snj kjgosta: n]je _lo^ >a_! XXX
+// Arkhan1 G perso1
+L21D90
+ X ]ma^_Z hasnZg mz_Z ]cj[lZnxm|! XXX
+// Arkhan2 G perso2
+L21D91
+ X ]ma^_Z hasnZg mz_Z ]cj[lZnxm|! XXX
+// Arkhan3 G perso3
+L21D92
+ &ma^_Z hasnZg mz_Z ]cj[lZnxm|! XXX
+// Thanandar25 perso25
+L21D71
+ Fdsnjbiwe sal]|f... XXX
+// Phedoria perso26
+L20D38
+ Kw njgxfj snj j[l~f ma[| iZ mhalnx, #lqZi! XXX
+// Sunseer1 (frightened by Arkhan's appearance) perso18
+L21D19
+ #-Z! Fa kj_qj_d fj hia, alandf! XXX
+// Sunseer1 perso18
+L21D20A
+ Jkjfjemn]da, _lo^ hje. XXX
+// Sunseer1 perso18
+L21D20B
+ & ynjh hamna rZldn kjfje. XXX
+// Zed84 perso84
+L21D22
+ #, #lqZi! X lZcwmfd]Zg na[|. Hjsaho nw ia iZ kjmno? Kw _jgbai... XXX
+// Zed84 perso84
+L21D23
+ Fj... snj non kljdmqj_dn? Pnj nw iZn]jldg, #lqZi? Hlj]d_ar... XXX
+// Arkhan 1 G perso1
+L21D24
+ Hjmnje! X j[v|miz! XXX
+// Zed84 perso84
+L21D25A
+ Kon iasa^j j[v|mi|nx! Kw o[dg klj]d_rZ! XXX
+// Zed84 (preparing to kill A.) perso84
+L21D25B
+ Kw ciZatx, snj cZ ynj kjgZ^Zanm|, ia qoba hai|! XXX
+// Zed84 (wretched after having killed Arkhan) perso84
+L21D44
+ #lqZi, hw [wgd kjsnd snj [lZnx|... XXX
+// Sunseer2 (terrified)perso19
+L21D89
+ #-Z-Z! Fan! XXX
+// Sunseer 19 perso19
+L21D73
+ #-Z! Kw kldt~g o[dnx d hai|! Acw_d, kjljb_aida ElZfZ! XXX
+// Sunseer2 perso19
+L21D84B
+ Fo _Z]Ze, dmkjgid kjmnw_ioz ljgx, snj na[a jn]a_aiZ! XXX
+// Arkhan1 L perso1
+L21D01
+ +Z kla[o_an m ]Zhd J]an, klj]d_ar! XXX
+// Sunseer1 perso18
+L21D02A
+ +Z kla[o_an d m nj[je J]an, _lo^ hje! XXX
+// Sunseer1 perso18
+L21D02B
+ Kw kldt~g kjlZchwtg|nx kla_ IZqZgjh, mdh]jgjh $j^Z JjgirZ. XXX
+// Sunseer1 perso18
+L21D02C
+ Njljtj. IZc_ohd| mhj^on omdgdnx n]je ]ionlaiide m]an. XXX
+// Arkhan1 L perso1
+L21D03
+ &w, iZ]alija, Zkjmnjg $j^Z JjgirZ? XXX
+// Sunseer1(preaching) perso18
+L21D04A
+ +Z, _lo^ hje. Vnjn mdh]jg iZ hj~h saga, IZqZg, jciZsZan, snj | kjmgZiidf $j^Z JjgirZ. XXX
+// Sunseer1(preaching) perso18
+L21D04B
+ <^j _oq bd]~n ]j hia. Gi ]d_dn hjdhd ^gZcZhd d ^gZ^jgdn hjdhd omnZhd... XXX
+// Sunseer1(preaching) perso18
+L21D04C
+ Hj]alx hjaho mgj]o: <^j m]|uaiiwe m]an kgZhaidn iZtd mal_rZ d j[ala^Zan klZ]a_idfj] jn ElZfZ. XXX
+// Sunseer1(preaching) perso18
+L21D04D
+ A m kldqj_jh ijsd jid, ] md|idd ]alw m]jae, ia dc]a_Zzn mnlZqZ, ocla], snj dq kjfdiog <^j ia[amiwe m]an. XXX
+// Sunseer1(preaching) perso18
+L21D04E
+ A[j ijsx _albdn ] mnlZqa gdtx njgxfj iasamnd]ra]. XXX
+// Sunseer1(preaching) perso18
+L21D04F
+ Hj_j[ij iZtdh kla_fZh dc $wgj^j, jid gdtaiw <^j m]anZ iZ]afd. XXX
+// Sunseer1(preaching) perso18
+L21D04G
+ >Zkjhid, gdtx njn, fnj sdmn, hjban mhagj kla_Znxm| gosZh $j^Z JjgirZ,  ia mnlZtZmx mhalnd. XXX
+// Sunseer1 perso18
+L21D06
+ A_d m hdljh, mnlZb j^i|. XXX
+// Arkhan 1 O perso1
+L21D07
+ Hld]an, klj]d_ar. XXX
+// Sunseer1 (standing on ceremony) perso18
+L21D08
+ +Z kla[o_an m nj[je J]an, _lo^ hje. XXX
+// Arkhan 1 O (mocking) perso1
+L21D09
+ &m~ au~ ]aldtx ] $j^Z JjgirZ? XXX
+// Arkhan 1 O perso1
+L21D10
+ +Z-_Z, | omgwtZg [jgxta, sah hasnZg... XXX
+// Arkhan2 G perso2
+L21D11
+ Hlj]d_ar, ]w _jgbiw kjhjsx hia! XXX
+// Sunseer1 (stunned by Arkhan's appearance.) perso18
+L21D12
+ &agdfde JjgZZl! ElZf... Ka[| ElZf kalakjgi|an! XXX
+// Arkhan2 L perso2
+L21D13A
+ Hlj]d_ar, hia jsaix iobiZ kjhjux! XXX
+// Arkhan2 L perso2
+L21D13B
+ Eai| jnlZ]dgd, fj^_Z | mkZmZg Djld. XXX
+// Arkhan2 L perso2
+L21D13C
+ Fj | ]m~ au~ mnlZb j^i| d ]aliwe kjmga_j]Znagx $j^Z JjgirZ. XXX
+// Arkhan2 L perso2
+L21D13D
+ G[v|midna gz_|h, snj dh ia iobij [j|nxm| hai|! XXX
+// Arkhan2 O perso2
+L21D14A
+ JgotZe, klj]d_ar, m hai| q]Zndn! J fZfdq kjl olj_mn]j mnZgj klamnokgaidah? XXX
+// Arkhan2 O perso2
+L21D14B
+ Vnjn |_ kjbdlZan hai| cZbd]j! XXX
+// Arkhan2 O perso2
+L21D14C
+ JgotZe, ]hamnj nj^j snj[w iZ^ji|nx iZ gz_ae njmfo mhalnioz m]jdh [la_jh, hjban, m_agZatx snj-nj konija? JfZbah, dmragdtx hai|! XXX
+// Sunseer1 (dogmatic) perso18
+L21D15A
+ Fan! Eai| ia klj]a_~tx! XXX
+// Sunseer1 perso18
+L21D15B
+ Jdh]jg $j^Z JjgirZ ^jldn iZ hj~h saga. XXX
+// Sunseer1 perso18
+L21D15C
+ Eai| ia jmgakdn hlZf n]jae gbd! XXX
+// Sunseer1 perso18
+L21D15D
+ A omnZhd hjdhd ]auZan mZh &agdfde JjgZZl. XXX
+// Sunseer1 perso18
+L21D15E
+ <mgd nxhZ cZflZgZmx ] na[|, ciZsdn, nw [jgxta ia_jmnjdi <^j m]anZ! XXX
+// Arkhan2 G perso2
+L21D16
+ Pnj?! X ]a_x mkZm Djld bdcix! XXX
+// Sunseer1 perso18
+L21D72A
+ K]jd qdnljmnd ia klje_on! XXX
+// Sunseer1 perso18
+L21D72B
+ &alio]tdmx f iZh, &agdfZ| Hlj]d_drZ dc^jidn na[| dc mnZggZenZ! XXX
+// Sunseer1 perso18
+L21D72C
+ A amgd fjhai_Zin +jlfZi qjsan dc[abZnx nje ba osZmnd, ji _jgbai iZend alandfj]! XXX
+// Sunseer1 perso18
+L21D72D
+ Hljsx, dgd | kjcj]o mnlZbo! XXX
+// Arkhan2 G (disgusted) perso2
+L21D17
+ +Z nw kljmnj mnZlwe mgZ[johiwe pZiZndf! XXX
+// Sunseer1 perso18
+L21D18
+ Kjgxfj ]c_ohZe mqdnldnx, d $j^ JjgirZ na[| kjfZlZan! XXX
+// Arkhan3 G perso3
+L21D100
+ Hlj]d_ar! XXX
+// Sunseer1 perso18
+L21D101A
+ Fa kj_qj_d, kjljb_aida ElZfZ! XXX
+// Sunseer1 perso18
+L21D101B
+ Hljsx! Kw jmf]alidg m]|uaiija hamnj! XXX
+// Arkhan3 L perso3
+L21D102
+ Lmkjfjem|, klj]d_ar, | sagj]af! XXX
+// Arkhan3 O perso3
+L21D103
+ X ]j]ma ia hjimnl! XXX
+// Sunseer1 perso18
+L21D104
+ Lqj_d, mfZcZg! XXX
+// Sunseer1 perso18
+L21D21
+ $j^ JjgirZ, cZudnd hai|! XXX
+// Arkhan2 L perso2
+L20D30
+ Hjsaho [w ia latdnx ]m~ kl|hj maesZm? XXX
+// Arkhan2 O perso2
+L20D31
+ Hjfjisdh m yndh kl|hj maesZm! XXX
+// Arkhan3 L perso3
+L20D32
+ Hjfjisdh m yndh! XXX
+// Arkhan3 O perso3
+L20D33
+ *j]jld! XXX
+// Lory perso15
+L20D34
+ >_amx iagxc| jmnZ]Znxm|. A_~h. XXX
+// Arkhan2 G perso2
+L20D35
+ Fj... &agdfZ| Hlj]d_drZ... XXX
+// Arkhan3 G perso3
+L20D36
+ &agdfZ| Hlj]d_drZ... XXX
+// Lory perso15
+L20D37
+ HjgotZe hai|! Fo ba, d_~h! XXX
+// Arkhan2 L perso2
+L20D39
+ Ma_jld|, snj kljdmqj_dn? XXX
+// Arkhan2 O perso2
+L20D40
+ Ve... Pnj kljdmqj_dn? XXX
+// Arkhan3 L perso3
+L20D41
+ Ma_jld|, mfZbd hia! XXX
+// Arkhan3 O perso3
+L20D42
+ JfZbd hia! XXX
+// Phedoria perso26
+L20D43
+ Djld j[v|midn! XXX
+// Arkhan2 G perso2
+L20D44
+ Fj... CZkdnZi... XXX
+// Arkhan3 G perso3
+L20D45
+ CZkdnZi... XXX
+// Phedoria perso26
+L20D46
+ Jga_oe cZ iZhd! XXX
+// Arkhan2 G perso2
+L21D74
+ Lmkjfjem|, | na[| ia nljio! XXX
+// Arkhan3 G perso3
+L21D75
+ Jkjfjeij! XXX
+// Sunseer2 (terrified) perso19
+L21D76
+ Kw kldt~g o[dnx hai|, | ciZz. Kw njsij, fZf njn, snj kjfotZgm| iZ &agdfoz klj]d_dro! XXX
+// Arkhan2 L perso2
+L21D77
+ IZmmfZbd hia, snj nw ]d_ag, ynj ]Zbij! XXX
+// Arkhan2 O perso2
+L21D78
+ &wfgZ_w]Ze, snj ]d_ag, dgd | na[a taz mgjhZz! XXX
+// Arkhan2 O perso3
+L21D79
+ Pnj nw ]d_ag? JfZbd hia! XXX
+// Sunseer2 (terrified) perso19
+L21D80A
+ Po_j]duiZ| naix! G^ljhiZ|, n~hiZ|! JZhZ mhalnx! XXX
+// Sunseer2 perso19
+L21D80B
+ GiZ _]d^ZgZmx m ia]alj|nije mfjljmnxz. XXX
+// Sunseer2 perso19
+L21D80C
+ GiZ ]jl]ZgZmx ] >Zg Jj]anZ... X mgwtZg gz_mfda fldfd... XXX
+// Sunseer2 (voice cracking) perso19
+L21D80D
+ &agdfZ| Hlj]d_drZ... XXX
+// Arkhan2 G perso2
+L21D81
+ KZiZi_Zl! Gi o[dg Djld! XXX
+// Arkhan2 G perso2
+L21D82
+ KZiZi_Zl! Vnj [wg ji! XXX
+// Arkhan3 G perso3
+L21D83
+ KZiZi_Zl! Gk|nx! XXX
+// Sunseer2 perso19
+L21D84A
+ Gi kjmgZg na[| o[dnx hai|, | ciZz! XXX
+// Sunseer2 perso19
+L21D84C
+ Fj hje J]an cZeh~nm| ]ij]x! XXX
+// Arkhan2 G perso2
+L21D85
+ &mnZix! XXX
+// Arkhan2 O perso2
+L21D86
+ &mnZ]Ze! XXX
+// Arkhan 1 G perso1
+L21D48
+ Kon ia[jgxtja o^go[gaida ] kjgo. XXX
+// Arkhan2 G perso2
+L21D57
+ FdfZf! # | _ohZg, ynj njn fgzs! XXX
+// Arkhan2 G perso2
+L21D58
+ Vnj ba njn fgzs... Fj njgfZ hZgj. XXX
+// Arkhan2 G perso2
+L21D59
+ Vnj njn fgzs, ij haqZidch, jsa]d_ij, ]fgzsZanm| ^_a-nj au~. XXX
+// Arkhan2 G perso2
+L21D60
+ #^Z, ia[jgxtja o^go[gaida ] kjgo. XXX
+// Arkhan2 G perso2
+L21D61
+ X ciZg! XXX
+// Arkhan2 G perso2
+L21D62
+ Pa^j-nj ia q]ZnZan! XXX
+// Arkhan2 G perso2
+L21D63
+ Jij]Z cZflw]Zanm|! XXX
+// Arkhan3 G perso3
+L21D64
+ Vnj njn fgzs... ij ^goqj! XXX
+// Arkhan3 G perso3
+L21D65
+ Vnj njn fgzs... iZ_j jklj[j]Znx snj-nj au~! XXX
+// Arkhan3 G perso3
+L21D66
+ Cgzs njn... iobij ]fgzsdnx haqZidch ^_a-nj au~... XXX
+// Arkhan3 G perso3
+L21D67
+ #^Z, o^go[gaida ] kjgo. XXX
+// Arkhan3 G perso3
+L21D68
+ X ciZg! XXX
+// Arkhan3 G perso3
+L21D69
+ X okomndg snj-nj! XXX
+// Arkhan3 G perso3
+L21D70
+ >Zflw]Zanm|! XXX
+// Arkhan1 G perso1
+L21D49
+ Vnj IZqZg. Jdh]jg $j^Z JjgirZ. XXX
+// Arkhan2 G perso2
+L21D50
+ JaesZm ia ]lah| _g| hjgdn]. XXX
+// Arkhan3 G perso3
+L21D51
+ Fa _j hjgdn]. XXX

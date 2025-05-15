@@ -1,0 +1,16 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL44.TXT
+ // Arkhan3 O perso3
+L41D15
+ Gdzie ja jestem?! XXX
+// Arkhan3 L perso3
+L41D05
+ Zamkniete! Musze isc dalej. XXX
+// Arkhan3 O perso3
+L41D06
+ W pulapce niczym szczur! XXX
+// Arkhan3 L perso3
+L41D07
+ Nie da sie otworzyc... XXX
+// Arkhan3 O perso3
+L41D08
+ Nic nie moge zrobic. Uwieziony! XXX

@@ -1,0 +1,201 @@
+123456789012
+
+@1
+Uniform
+@2
+Zwien. klucza
+@3
+Metal. miska
+@4
+Naczynie
+@5
+Metal. slup
+@6
+Amun. m-ognia
+@7
+Kule
+@8
+Bojler
+@9
+Uchwyt
+@10
+Naczynie-St.Sw.
+@11
+Czerw. klucz
+@12
+Krysztal 2
+@13
+Warzywo
+@14
+Klucz Konk.
+@15
+Klucz Sordosa
+@16
+Klucz Bogd.
+@17
+Mlot
+@18
+Krysztal 1
+@19
+Krysztal 3
+@20
+Lustro
+@21
+Fiolka
+@22
+Flaszka
+@23
+Piorun-St.Sw.
+@24
+Pelna flaszka
+@25
+Ubranie
+@26
+Topor
+@27
+M-ognia
+@28
+Dlugi noz
+@29
+Os
+@30
+Noz
+@31
+Napar
+@32
+M. Piorun
+@33
+Olow. tablica
+@34
+Ziemniak
+@35
+Piorun Zeda
+@36
+Korzen
+@37
+Halabarda
+@38
+Szabla
+@39
+M. Piorun amu.
+@40
+Przdm.-St.Sw.
+@41
+Przdm.-St.Sw.
+@42
+Flaszka
+@43
+Ryba
+@44
+Mieso
+@45
+Kryszt. odlam.
+@46
+Notat. Ryls. 
+@47
+Topor Konk.
+@48
+Zlam. os
+@49
+Dok. Sordosa 
+@50
+Schem. broni
+@51
+Przekl. kola
+@52
+Rysunki
+@53
+Wlocznia
+@54
+Kula ogn.
+@55
+Piorun
+@56
+Szczur
+@57
+Bron Sordosa
+@58
+Szabla Zeda
+@59
+Szabla Wedr.
+@60
+Moneta
+@61
+Korbacz
+@62
+Halabarda
+@63
+Sztylet
+@64
+Piecz. ptak
+@65
+Miska
+@66
+Piorun
+@67
+Topor
+@68
+Piorun Zeda
+@69
+ikona "Save"
+@70
+Wykr. Bandora
+@71
+Metal. stroj
+@72
+Amun. piorun
+@73
+Amun. Zeda
+@74
+Kilof
+@75
+Kryszt. klucz
+@76
+Palka
+@77
+Flaszka
+@78
+Bron Danrysa
+@79
+Topor
+@80
+Miecz Dhor.
+@81
+Pergamin
+@82
+Ksiega
+@83
+Szabla
+@84
+Helm
+@85
+Napiersnik
+@86
+Flaszka
+@87
+Zeton do Yong
+@88
+Tuba
+@89
+Klucz wiez.
+@90
+Pocisk
+@91
+Sztylet
+@92
+Dlugi sztyl.
+@93
+Sztylet
+@94
+Tluczek
+@95
+Mozdzierz
+@96
+Duzy klucz
+@97
+Kanister
+@98
+Kolo mlyn.
+@99
+Puszka
+@end

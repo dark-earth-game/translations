@@ -1,0 +1,382 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL29.TXT
+ // Phedoria perso26
+L29D200
+ Hj^j]jld m Djld. X [o_o jqlZi|nx ]qj_. XXX
+// Phedoria (killing Arkhan after he killed Lory) perso26
+L29D201
+ Hla_Znagx! Kw kj^o[dg iZm ]maq! XXX
+// Lory (killing Arkhan after he killed Phedoria) perso15
+L29D202
+ $acohar! XXX
+// Phedoria (A. draws a gun) perso26
+L29D203
+ #lqZi, o[ald jlobda maesZm ba! XXX
+// Phedoria (A. having put away his weapon) perso26
+L29D204
+ Globda hw iZklZ]g|ah njgxfj iZ ]lZ^j], |mij? XXX
+// Phedoria perso26
+L29D52
+ <u~ lZc, d | cZmnZ]gz na[| klj^gjndnx |cwf! XXX
+// Phedoria perso26
+L29D53
+ X kla_oklab_ZgZ na[|! XXX
+// Phedoria (shooting at Arkhan who hit Lory) perso26
+L29D47
+ #lqZi! Fan! XXX
+// Arkhan2 G perso2
+L29D01
+ &agdfZ| Hlj]d_drZ, snj kljdmqj_dn? XXX
+// Arkhan3 G perso3
+L29D02
+ Djld, snj kljdmqj_dn? XXX
+// Lory perso15
+L29D03A
+ #lqZi, mnZggZen ] mhalnagxije jkZmijmnd. XXX
+// Lory perso15
+L29D03B
+ Lidsnjbd] Cjgj_ar J]anZ, KZiZi_Zl ia kljmnj j[l~f iZm iZ bdcix ] kjn~hfZq. XXX
+// Lory perso15
+L29D03C
+ Gi jnflwg _jlj^o mjc_Zid|h, fdtZudh ]j ElZfa. FZtd mnaiw ia cZudn|n iZm! XXX
+// Lory perso15
+L29D03D
+ Kakalx, fj^_Z yial^d| Cjgj_rZ dmm|fZan, idsnj ia kjhatZan dh ]njl^ionxm| ] ^jlj_. XXX
+// Lory perso15
+L29D03E
+ FZ_j _aemn]j]Znx [wmnlj, diZsa ]maq iZm kjmnd^ian n]j| osZmnx. XXX
+// Arkhan2 L perso2
+L29D04A
+ >a_ d IdgmZ_Zl ohalgd dc-cZ KZiZi_ZlZ! XXX
+// Arkhan2 L perso2
+L29D04B
+ Ew _jgbiw jmnZij]dnx a^j! XXX
+// Arkhan2 O perso2
+L29D05
+ Fan! X jnjhuo cZ >a_Z d hja^j jnrZ! XXX
+// Arkhan3 L perso3
+L29D06
+ X, >a_, hje jnar... &ma hw mnlZ_Zgd cZcl|?! XXX
+// Arkhan3 O (irritated) perso3
+L29D07
+ Fan! IZmkgZnZ! XXX
+// Lory perso15
+L29D08A
+ HjmgotZe, o iZm au~ amnx tZim mkZmnd JkZlno... d dmragdnx na[|. XXX
+// Lory perso15
+L29D08B
+ K]je jnar ciZg hij^j maflanj]. XXX
+// Lory perso15
+L29D08C
+ Eij^da ^j_w dmfZg ji... dmnjsidf yial^dd, kdnZzude Cjgj_ar J]anZ. XXX
+// Lory perso15
+L29D08D
+ &jchjbij, nw iZe_~tx kj_mfZcfd ] nZeidfa l|_jh m a^j fjhiZnje. XXX
+// Arkhan2 G perso2
+L29D09A
+ JiZsZgZ hia iobij ociZnx, fZf kljidfionx ]ionlx! XXX
+// Arkhan2 G perso2
+L29D09B
+ & zijmnd | kwnZgm| ia lZc. Ko_Z ia kjkZmnx! XXX
+// Arkhan3 G perso3
+L29D10A
+ Fdfnj no_Z ia kljidfian! XXX
+// Arkhan3 G perso3
+L29D10B
+ +]alx ia jnfljatx. XXX
+// Lory perso15
+L29D11A
+ Vnj ia nZf. Fobai fgzs, mjmnZ]gaiiwe dc sanwl~q fldmnZggj] ] ]d_a IZqZgZ. XXX
+// Lory perso15
+L29D11B
+ Ja^j_i| onljh n]je jnar _Zg hia fjgxrj ynj^j fgzsZ. XXX
+// Lory perso15
+L29D11C
+ Pnj[w mjmnZ]dnx fgzs, iZh iobij iZend jmnZgxiwa fldmnZggw fZf hjbij mfjlaa. XXX
+// Lory perso15
+L29D11D
+ Acosd] jnflwnd| n]ja^j jnrZ, | iZ_azmx, hw mhjbah iZend mkjmj[ ]alionx m]an JkZlna. XXX
+// Lory (end) perso15
+L29D11E
+ X jn_Zz fjgxrj fgzsZ na[a, #lqZi. GqlZi|e a^j raije m]jae bdcid. XXX
+// Arkhan2 G perso2
+L29D12A
+ Djld. KZeiwe mfgak... Cjgj_ar J]anZ... Jaflanw hja^j jnrZ... XXX
+// Arkhan2 G perso2
+L29D12B
+ JfZbdna hia, snj kljdmqj_dn! JfZbdna, snj hw duah iZ mZhjh _aga! XXX
+// Arkhan3 L perso3
+L29D13A
+ Djld! XXX
+// Arkhan3 L perso3
+L29D13B
+ Jfgak... KZeidfd... Cjgj_ar J]anZ... XXX
+// Arkhan3 L perso3
+L29D13C
+ Pnj hw duah iZ mZhjh _aga? XXX
+// Lory perso15
+L29D14A
+ HjmgotZe, #lqZi, o hai| ian ]lahaid iZ j[v|miaid|... XXX
+// Lory perso15
+L29D14B
+ Ka[a iZ_j gdtx ciZnx, snj o iZm kj_ ij^Zhd amnx... hamnj, snj hw cj]~h *lj[idrae. XXX
+// Lory perso15
+L29D14C
+ & ynjh hamna iZqj_dnm| dmnjsidf ia]alj|nije bd]jn]jlije yial^dd... XXX
+// Lory perso15
+L29D14D
+ Fj yial^d| ynZ... _lahgan. XXX
+// Lory perso15
+L29D14E
+ FZt kjmga_ide tZim - iZend ynjn dmnjsidf... d klj[o_dnx a^j jnj miZ. XXX
+// Lory (end) perso15
+L29D14F
+ <mgd hw jkala_dh KZiZi_ZlZ, dmnjsidf oidsnjbdn d a^j, d nj cgj, snj kjbdlZan na[|. XXX
+// Arkhan2 G perso2
+L29D15
+ Fj fZf hje jnar m]|cZi mj ]mah yndh? XXX
+// Arkhan3 G perso3
+L29D16
+ # kld s~h hje jnar? XXX
+// Lory perso15
+L29D17A
+ K]je jnar kjm]|ndg sZmnx m]jae bdcid kjdmfZh kond ] *lj[idro. XXX
+// Lory perso15
+L29D17B
+ Gi ]aldg, snj ^_a-nj amnx _]alx, ]a_ouZ| ] *lj[idro. XXX
+// Lory perso15
+L29D17C
+ +j ma^j _i| a^j dmmga_j]Zid| ] mfgaka, mnZggZena d >ahg|q ElZfZ [wgd nuaniw. XXX
+// Lory perso15
+L29D17D
+ A ]m~ ba, fZf | ciZz, ji ia m_Z]Zgm|. XXX
+// Lory perso15
+L29D17E
+ Gi nuZnagxij mflw]Zg kla_han m]jdq dcwmfZide d klZ]dgxij _agZg. XXX
+// Lory perso15
+L29D17F
+ +jgbij [wnx, ^go[dia _otd n]je jnar kla_]d_ag, snj KZiZi_Zl kla_Zmn iZm. XXX
+// Lory perso15
+L29D17G
+ IdgmZ_Zl [wg kljljfjh, ji ]gZ_ag oidfZgxije yial^dae, kjc]jg|]tae cZ^g|ionx ] [o_ouaa. XXX
+// Arkhan2 O (end) perso2
+L29D18
+ #^Z, ij ynZ yial^d| ia o[ala^gZ a^j jn mhalnd! XXX
+// Arkhan2 G perso2
+L29D19
+ IZmmfZbdna hia j KZiZi_Zla. XXX
+// Arkhan3 L perso3
+L29D20
+ IZmmfZbd hia j KZiZi_Zla. XXX
+// Lory perso15
+L29D21A
+ Gi... ji klj]d_ar, ragdnagx. XXX
+// Lory perso15
+L29D21B
+ Fj ElZf kj^gjndg a^j. Gi ia sagj]af [jgxta. XXX
+// Arkhan2 G perso2
+L29D22
+ Vnj njsij! FjlhZgxiwa gz_d ia jbd]Zzn kjmga mhalnd! XXX
+// Arkhan2 O perso2
+L29D23
+ Gmj[aiij kjmga nj^j, fZf | kljgjhdg dh salak, ynj pZfn! XXX
+// Arkhan3 L perso3
+L29D24
+ Hjmga hja^j o_ZlZ sagj]af ia ]wbd]Zan. XXX
+// Lory perso15
+L29D25A
+ Gi ]w^g|_dn fZf sagj]af, ij d njgxfj. XXX
+// Lory perso15
+L29D25B
+ X_, dchai|zude a^j nagj, j_ij]lahaiij cZ[dlZan a^j _oto d ]m~ sagj]asamfja. XXX
+// Lory perso15
+L29D25C
+ Gi kjfg|gm| oidsnjbdnx iZm, d ji njsij ciZan, fZf ynj m_agZnx. XXX
+// Lory (end) perso15
+L29D25D
+ &jn kjsaho iobij mkatdnx. XXX
+// Arkhan2 G perso2
+L29D26
+ Pnj ]w mj[dlZanamx nakalx _agZnx? XXX
+// Arkhan3 L perso3
+L29D27
+ # ]w? Pnj ]w mj[dlZanamx m yndh _agZnx? XXX
+// Lory perso15
+L29D28A
+ Ew kjkwnZahm| ]jmmnZij]dnx fZfje-nj kjl|_jf. XXX
+// Lory perso15
+L29D28B
+ +jlfZi, jmgakg~iiwe nuamgZ]dah, qjnag dmkjgxcj]Znx kljdmqj_|uaa ] m]jdq rag|q d cZq]Zndnx ]gZmnx iZ_ JkZlnje. XXX
+// Lory perso15
+L29D28C
+ Fj mdnoZrd| ]wtgZ dc-kj_ fjinljg|, d ynjn nlom [abZg... &agdfde JjgZZl ]a_Zan fo_Z. XXX
+// Lory perso15
+L29D28D
+ Ma_jld| kjkwnZanm| mj[lZnx mnlZbae j^i|. XXX
+// Lory perso15
+L29D28E
+ Ew _jgbiw ^jnj]dnxm| f qo_taho. XXX
+// Lory perso15
+L29D28F
+ Ew au~ hjbah cZ_albZnx P~liwe mZ]Zi, ij hw a^j ia jmnZij]dh. XXX
+// Lory (end) perso15
+L29D28G
+ Jo_x[Z JkZlnw ] n]jdq lofZq, #lqZi! XXX
+// Arkhan2 L perso2
+L29D29
+ Pnj au~ ]w hjbana lZmmfZcZnx hia? XXX
+// Arkhan2 O perso2
+L29D30
+ A snj, ynj ]m~, klj]d_drZ? XXX
+// Arkhan3 L perso3
+L29D31
+ Vnj ]m~? XXX
+// Lory perso15
+L29D32
+ Vnj ]m~, #lqZi. Kjljkdmx, iZh iagxc| nal|nx ]lah|! XXX
+// Lory perso15
+L29D33
+ FZe_d fgzs IdgmZ_ZlZ, ynj mZhZ| ]ZbiZ| ]aux! XXX
+// Lory perso15
+L29D34
+ #lqZi, _albdmx, ia _Ze jnlZ]a cZnohZidnx n]je lZcoh! XXX
+// Phedoria (ready to act) perso26
+L29D35
+ GiZ klZ]Z, #lqZi. Fa ]wiob_Ze hai| mnlag|nx. XXX
+// Lory perso15
+L29D36
+ Ma_jld|! FZ kjhjux! XXX
+// Arkhan2 L (showing the bow of the key) perso2
+L29D37
+ L fj^j au~ hj^on [wnx plZ^hainw fgzsZ? XXX
+// Arkhan2 O (showing the bow of the key) perso2
+L29D38
+ Cnj hj^ [w mgdnx jmnZgxiwa sZmnd? XXX
+// Arkhan3 G (showing the bow of the key) perso2
+L29D39
+ L fj^j au~ amnx sZmnd fgzsZ? XXX
+// Lory perso15
+L29D40A
+ IdgmZ_Zl hj^ jn_Znx dq gdtx nah, fjho ]aldg. XXX
+// Lory perso15
+L29D40B
+ Eia... >a_o... A, f iamsZmnxz, iZ]alija, +jlfZio! XXX
+// Arkhan2 G perso2
+L29D41
+ <u~ snj-id[o_x iZms~n fgzsZ? XXX
+// Arkhan3 G perso3
+L29D42
+ <u~ d_ad iZms~n fgzsZ? XXX
+// Lory perso15
+L29D43
+ Fan, #lqZi, _j[Z]dnx [jgxta iasa^j. XXX
+// Arkhan2 G perso2
+L29D44
+ &agdfZ| Hlj]d_drZ... XXX
+// Arkhan3 G (gravely) perso3
+L29D45
+ Djld... XXX
+// Lory perso15
+L29D46
+ #lqZi, kjbZgoemnZ, o[ald jlobda! XXX
+// Arkhan2 G perso2
+L29D66
+ # ynj ciZfjhj? XXX
+// Arkhan3 G perso3
+L29D67
+ >iZatx, snj ynj, Djld? XXX
+// Lory perso15
+L29D68A
+ #lqZi, iobij njljkdnxm|. XXX
+// Lory perso15
+L29D68B
+ FZe_d fgzs n]ja^j jnrZ. XXX
+// Arkhan2 G perso2
+L29D48
+ Ma_jld|... XXX
+// Arkhan3 G perso3
+L29D49
+ Ma_jld|... XXX
+// Phedoria perso26
+L29D50
+ &agdfZ| klj]d_drZ Djld ]m~ na[a j[v|midn. XXX
+// Phedoria perso26
+L29D51
+ Djld lZmmfZban ]m~, snj nw _jgbai ciZnx. A_d ba! XXX
+// Phedoria perso26
+L29D69
+ Ew lZmmsdnw]Zah iZ na[|, #lqZi. XXX
+// Lory perso15
+L29D54A
+ #lqZi! XXX
+// Lory perso15
+L29D54B
+ <mnx au~ fja-fnj, fjho n]je jnar hj^ jn_Znx plZ^hain fgzsZ: XXX
+// Lory perso15
+L29D54C
+ $Zi_jl, ^gZ]iwe mnljdnagx. XXX
+// Lory perso15
+L29D54D
+ Gi _jgbai [wnx ]j +]jlra Jnljdnagae iZ ^gZ]ije kgjuZ_d. XXX
+// Arkhan2 G perso2
+L29D55
+ CZf ji ]w^g|_dn? XXX
+// Arkhan3 G perso3
+L29D56
+ CZf ji ]w^g|_dn? XXX
+// Lory perso15
+L29D57
+ <^j ga^fj ociZnx. Vnj nahijfjbde hobsdiZ mla_ia^j ]jclZmnZ m hanZggdsamfje ij^je. XXX
+// Lory (A. going to leave) perso15
+L29D74
+ #lqZi, kjmnje! Ew _jgbiw kj^j]jldnx! XXX
+// Arkhan2 G (in front of clock) perso2
+L29D58
+ +Z, fmnZnd, ]lahaid hZgj! XXX
+// Arkhan3 G (in front of clock) perso3
+L29D59
+ CZb_Z| mafoi_Z _jlj^Z! XXX
+// Arkhan2 L (finding Lory dead) perso2
+L29D60A
+ Djld... A nw... Jij]Z KZiZi_Zl! XXX
+// Arkhan2 L perso2
+L29D60B
+ Gi dmkwnw]Zan hai|! XXX
+// Arkhan2 L perso2
+L29D60C
+ Fj idsa^j, ji cZkgZndn cZ ]m~! XXX
+// Arkhan2 L perso2
+L29D61
+ X idsa^j ia hj^o m_agZnx _g| ia~. XXX
+// Arkhan2 O perso2
+L29D62
+ L ia~ ian idsa^j. XXX
+// Arkhan3 L (finding Lory dead) perso3
+L29D63A
+ Djld... Fan... XXX
+// Arkhan3 L perso3
+L29D63B
+ X jnkgZso, KZiZi_Zl, komnx _Zba raije m]jae bdcid! XXX
+// Arkhan3 L perso2
+L29D64
+ &m~ fjisaij. XXX
+// Arkhan3 O (searching Lory) perso3
+L29D65
+ Nh... Fdsa^j. XXX
+// Arkhan2 L (seeing Phedoria dead) perso2
+L29D70A
+ Ma_jld|... Fan... XXX
+// Arkhan2 L perso2
+L29D70B
+ Gid cZkgZn|n cZ ynj! XXX
+// Arkhan2 O perso2
+L29D72
+ GiZ haln]Z... d fjiasij, jlobda dmsacgj. XXX
+// Arkhan3 L (seeing Phedoria dead) perso3
+L29D71A
+ Ma_jld|... XXX
+// Arkhan3 L perso3
+L29D71B
+ X jnjhuo cZ na[|! XXX
+// Arkhan3 O perso3
+L29D73
+ Ealn]Z... A o ia~ idsa^j ian... XXX

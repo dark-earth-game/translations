@@ -1,0 +1,166 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\IT\NWDIAL34.TXT
+ // Konkalite7 perso77
+L34D777
+Ti facciamo a pezzi! XXX
+// Konkalite7 perso77
+L34D778
+Sei morto! XXX
+// Thanandar perso24
+L34D100A
+Guarda un po' chi arriva! Il figlio di Rylsadhar. XXX
+// Thanandar perso24
+L34D100B
+I tuoi uomini lasciano passare veramente chiunque! XXX
+// Sordos perso23
+L34D101
+È un contaminato, anche lui! XXX
+// Thanandar perso24
+L34D102A
+Sì. Ma adesso che tengo suo padre, non mi serve a niente! XXX
+// Thanandar perso24
+L34D102B
+Ammazzalo! XXX
+// Sordos perso23
+L34D04A
+Hmmm... (sputa) XXX
+// Sordos perso23
+L34D04B
+Non ti ammazzerò subito, sarebbe troppo facile! XXX
+// Sordos perso23
+L34D04C
+I miei uomini si occuperanno di te alla loro maniera. XXX
+// Sordos perso23
+L34D04D
+E ben presto li supplicherai di finirti! XXX
+// Sordos (sorpreso di trovare Arkhan da lui)perso23
+L34D38
+Ehi, da dove salti fuori tu?! XXX
+// Sordos perso23
+L34D39
+Rispondi, porco, o ti strappo la lingua! XXX
+// Sordos perso23
+L34D40A
+Ti ritaglio il grugno! XXX
+// Sordos perso23
+L34D40B
+Avrei sempre voluto fare lo scultore! XXX
+// Thanandar perso24
+L34D201
+Muori, povero pazzo! XXX
+// Arkhan2 L perso2
+L34D05
+Thanandar! Cosa vuol dire questo? XXX
+// Arkhan2 O perso2
+L34D06
+Thanandar, brutto bastardo! M'hai mentito! XXX
+// Arkhan3 G perso3
+L34D07
+Thanandar! Traditore! XXX
+// Thanandar (deluso)perso24
+L34D200A
+Tu non capisci niente, come gli altri. Tu rifiuti di accettare le tenebre! XXX
+// Thanandar perso24
+L34D200B
+La morte è il premio degli imbecilli! XXX
+// Sordos perso23
+L34D202
+Ti strapperò il cuore! XXX
+// Arkhan2 L perso2
+L34D13
+Sei tu il potente Sordos? XXX
+// Arkhan2 O perso2
+L34D14
+Ehi, sei tu il signore di questo mucchio di spazzatura? XXX
+// Arkhan3 L perso3
+L34D15
+Sei proprio tu Sordos? XXX
+// Arkhan3 O perso3
+L34D16
+Io vivo nella merda per colpa tua! Tu pagherai! XXX
+// Sordos (minaccioso) perso23
+L34D17A
+Non so da dove salti fuori, ma sono sicuro di una cosa... XXX
+// Sordos (minaccioso) perso23
+L34D17B
+Ci ritornerai a pezzettini! XXX
+// Arkhan2 L perso2
+L34D22
+Sei tu, Sordos? Dhorkan mi manda. XXX
+// Sordos (aggressivo) perso23
+L34D23
+Dhorkan, eh? E cosa vuoi? XXX
+// Arkhan2 L perso2
+L34D24
+Dirti che lui non apprezza i tuoi insuccessi. XXX
+// Sordos (parla poi s'interrompe)perso23
+L34D25
+Ah sì?! Dirai a quel cretino di Dhorkan che farebbe meglio a... XXX
+// Arkhan2 O (deb)perso2
+L34D27
+Ehi, Sordos! Ti porto un messaggio di Dhorkan. XXX
+// Arkhan2 O perso2
+L34D28A
+Lui dice che in fondo non sei che un piccolo fottuto ficcanaso! XXX
+// Arkhan2 O perso2
+L34D28B
+E spera che creperai sul posto in questa grotta puzzolente. XXX
+// Sordos (furibondo) perso23
+L34D29
+COSA?!  XXX
+// Sordos (realizzando all'improvviso chi è Arkhan) perso23
+L34D26A
+Ma io ti riconosco, sei tu il mascalzone che ne ha prese a sazietà per Lory! XXX
+// Sordos (crudele)perso23
+L34D26B
+Hai fato bene a venire, dovevo proprio sfogarmi su qualcuno! XXX
+// Arkhan3 L (minaccioso) perso3
+L34D30
+Sordos... Dhorkan mi manda! XXX
+// Arkhan3 L perso2
+L34D31
+A dirti che sei finito! XXX
+// Sordos perso23
+L34D41
+Tu hai degli impulsi suicidi, Ficcanaso! XXX
+// Arkhan2 G perso2
+L04D44
+Non è la chiave giusta! XXX
+// Arkhan3 G perso3
+L04D45
+Chiave sbagliata! XXX
+// Arkhan2 L perso2
+L34D34
+Non ha l'aria confortevole! XXX
+// Arkhan2 O perso2
+L34D35
+Non dormirò lassù! XXX
+// Arkhan3 G perso3
+L34D36
+No l'aria confortevole! XXX
+// Arkhan2 L (esamina un tubo)perso2
+L34D500
+Un grosso tubo arrugginito. XXX
+// Arkhan3 L (esamina un tubo)perso3
+L34D501
+Tutto il tubo è arrugginito. XXX
+// Arkhan2 L (esamina la grata)perso2
+L34D506
+Una grata d'acciaio. XXX
+// Arkhan3 L (esamina la grata)perso3
+L34D507
+Una grata pesante. XXX
+// Arkhan2 G perso2
+L34D502
+Dei grossi bidoni. Vuoti, apparentemente. XXX
+// Arkhan3 G perso3
+L34D503
+Dei bidoni. Vuoti. XXX
+// Arkhan2 G perso2
+L34D504A
+Un bidone di Stohll rovesciato. XXX
+// Arkhan2 G perso2
+L34D504B
+Questi Konkaliti sono dei fottuti bevitori! XXX
+// Arkhan3 G perso3
+L34D505
+Un bidone di Stohll. Svuotato. XXX

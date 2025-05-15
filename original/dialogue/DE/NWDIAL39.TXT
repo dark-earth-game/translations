@@ -1,0 +1,637 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL39.TXT
+ // Arkhan2 G perso2
+L39D110
+ Muß gar nicht so einfach sein, darauf zu schlafen. XXX
+// Arkhan3 G perso3
+L39D111
+ Darauf zu schlafen ... muß gar nicht so einfach sein ... XXX
+// Leona (gebieterisch) perso14
+L39D01A
+ Wer bist Du? XXX
+// Leona (gebieterisch) perso14
+L39D01B
+ Was machst Du in meinem Reich? XXX
+// Leona (wütend) perso14
+L39D107
+ Du wagst es, hierher zurückzukommen! XXX
+// Leona perso14
+L39D03A
+ Arkhan. XXX
+// Leona perso14
+L39D03B
+ Was willst Du von mir? XXX
+// Leona perso14
+L39D02
+ Du schon wieder? XXX
+// Leona (macht sich kampfbereit) perso14
+L39D04
+ Immer mit der Ruhe! Du brauchst keine Angst vor mir zu haben. XXX
+// Leona (von A. angegriffen) perso14
+L39D108
+ Die Finsternis hat Dich besiegt! XXX
+// Leona (entspannt sich) perso14
+L39D05
+ So ist es gut. Entspann Dich und laß' uns reden. XXX
+// Arkhan2 L perso2
+L39D06A
+ Ich bin Arkhan, Sohn des Rylsadhar.  XXX
+// Arkhan2 L perso2
+L39D06B
+ Ich komme in Frieden.  XXX
+// Arkhan2 O perso2
+L39D07A
+ Ich bin Arkhan, Sohn des Rylsadhar. XXX
+// Arkhan2 O perso2
+L39D07B
+ Bist Du die Hexe Leona? XXX
+// Leona (in der Defensive) perso14
+L39D08A
+ Arkhan, sagst Du. Ich kenne Deinen Vater. XXX
+// Leona perso14
+L39D08B
+ Aber Dich habe ich noch nie gesehen. XXX
+// Leona perso14
+L39D08C
+ Was beweist mir, daß Du die Wahrheit sagst? XXX
+// Arkhan2 L perso2
+L39D09A
+ Du willst einen Beweis?  XXX
+// Arkhan2 L perso2
+L39D09B
+ Ich hab' keinen anderen Beweis als meinen guten Willen! XXX
+// Arkhan2 O perso2
+L39D10A
+ Nichts. XXX
+// Arkhan2 O perso2
+L39D10B
+ Aber wenn Dir etwas daran liegt, daß wir alle überleben, solltest Du mir glauben! XXX
+// Leona perso14
+L39D11A
+ Das ist nicht viel, um mich zu überzeugen ... XXX
+// Leona perso14
+L39D11B
+ Aber Deine Worte sind nicht durch die Lüge getrübt. XXX
+// Leona perso14
+L39D11C
+ Ich spüre, daß ich Dir vertrauen kann. XXX
+// Arkhan2 L perso2
+L39D18A
+ Unsere Lage ist ernst.  XXX
+// Arkhan2 L perso2
+L39D18B
+ Der ganze Stallit ist in Finsternis getaucht. XXX
+// Arkhan2 O perso2
+L39D19A
+ Falls Du es nicht wußtest - da draußen herrscht Panik! XXX
+// Arkhan2 O perso2
+L39D19B
+ Der Stallit ist in Finsternis getaucht. XXX
+// Leona (alarmiert) perso14
+L39D20A
+ Das Lichterfüllte Herz! XXX
+// Leona (alarmiert) perso14
+L39D20B
+ Wer hätte das tun können? XXX
+// Arkhan2 G perso2
+L39D21A
+ Du scheinst viele Dinge zu wissen. XXX
+// Arkhan2 G perso2
+L39D21B
+ Schuld an allem ist ein abtrünniger Prediger mit dem Namen Thanandar. XXX
+// Leona (erstaunt) perso14
+L39D22
+ Thanandar, der Heiler! XXX
+// Arkhan2 G perso2
+L39D23A
+ Er ist Heiler gewesen ...  XXX
+// Arkhan2 G perso2
+L39D23B
+ Doch jetzt hat er nichts Menschliches mehr an sich. XXX
+// Arkhan2 G perso2
+L39D23C
+ Zed und mein Vater sind tot - durch seine Schuld! XXX
+// Arkhan2 G perso2
+L39D24
+ Thanandar hat meinen Vater kontaminiert, wie er auch mich kontaminiert hat. XXX
+// Arkhan2 G perso2
+L39D25
+ Thanandar hat Zed kontaminiert, wie er auch mich kontaminiert hat. XXX
+// Arkhan2 G perso2
+L39D26A
+ Er war nicht mehr er selbst ... verrückt vor Schmerzen ... geblendet ... XXX
+// Arkhan2 G perso2
+L39D26B
+ Thanandar hat ihn gezwungen, das Lichterfüllte Herz zu berühren. XXX
+// Arkhan2 G perso2
+L39D26C
+ Da sind Blitze losgeschossen, in alle Richtungen, und das Herz hat aufgehört zu leuchten, als fülle es sich mit einer schwarzen Substanz. XXX
+// Arkhan2 G perso2
+L39D26D
+ Und kurze Zeit später hatte die Wolke der Finsternis den ganzen Stalliten verschlungen. XXX
+// Arkhan2 L perso2
+L39D33A
+ Ich suche einen Ort. Die Große Predigerin nennt ihn "die Grabstätte". XXX
+// Arkhan2 L perso2
+L39D33B
+ Das ist ein geheimer Ort, nach dem mein Vater jahrelang gesucht hat. XXX
+// Arkhan2 L perso2
+L39D34A
+ Ich muß seine geheimen Aufzeichnungen finden. XXX
+// Arkhan2 L perso2
+L39D34B
+ Deshalb suche ich einen Kristallschlüssel, der aus mehreren Teilen zusammengesetzt ist. XXX
+// Arkhan2 O perso2
+L39D35A
+ Lory hat mir von einem Ort erzählt, der "Grabstätte". XXX
+// Arkhan2 O perso2
+L39D35B
+ Sie sagt, das sei unsere letzte Chance, und daß nur mein Vater wüßte, wie man dorthin kommt ... und auch das sei nicht sicher! XXX
+// Arkhan2 O perso2
+L39D36A
+ Ich brauche den Schlüssel, um an seine Aufzeichnungen heranzukommen. XXX
+// Arkhan2 O perso2
+L39D36B
+ Das ist ein Kristallschlüssel, der aus mehreren Teilen besteht! XXX
+// Leona perso14
+L39D37A
+ Es ist Zeit zum Handeln. XXX
+// Leona perso14
+L39D37B
+ Lory ist eine weise Frau. Ich weiß, daß sie Dir diese Dinge niemals anvertraut hätte, wenn es nicht um Leben und Tod ginge. XXX
+// Leona perso14
+L39D37C
+ Du kannst auf meine Hilfe zählen, Arkhan.  XXX
+// Arkhan2 G perso2
+L39D40A
+ Mein Vater hat Dich nicht zufällig vor kurzem besucht? XXX
+// Leona perso14
+L39D41A
+ Nein, ich habe Rylsadhar seit mehreren Monden nicht gesehen. XXX
+// Leona perso14
+L39D41B
+ Ich weiß, daß er beunruhigt war, ich glaube, er spürte, welch schreckliche Ereignisse auf uns zukommen würden. XXX
+// Leona perso14
+L39D41C
+ Dein Vater war ein Auserwählter, einer der wenigen, die von der Gruft des Lichterfüllten Herzens wußten. XXX
+// Leona perso14
+L39D41D
+ Und er war einer der wenigen, die das Lichterfüllte Herz berühren konnten. XXX
+// Leona perso14
+L39D41E
+ Deshalb hat sich Thanandar seiner bemächtigt! XXX
+// Arkhan2 L perso2
+L39D43A
+ Du sprichst von Dingen, die ich nicht kenne. XXX
+// Arkhan2 L perso2
+L39D43B
+ Was ist eigentlich dieses Lichterfüllte Herz? XXX
+// Arkhan2 O perso2
+L39D44A
+ Ich hab jetzt genug von diesen Geheimnissen! XXX
+// Arkhan2 O perso2
+L39D44B
+ Wird mir irgend jemand endlich erklären, was hier los ist? XXX
+// Leona perso14
+L39D45A
+ Du hast es verstanden, das Lichterfüllte Herz und die ... Grabstätte stehen miteinander in Verbindung. XXX
+// Leona perso14
+L39D45B
+ Das Lichterfüllte Herz war eine Gabe, ein Geschenk; es holte sich seine Energie aus der Grabstätte, um uns vor der Finsternis zu schützen. XXX
+// Leona perso14
+L39D45C
+ Diese Energie zirkuliert, unsichtbar für die Augen der Menschen, auf der ganzen Erde, um den Stalliten herum. XXX
+// Leona perso14
+L39D45D
+ Sie schützt uns vor der Finsternis und vor denen, die in ihrem Dienst stehen. XXX
+// Leona perso14
+L39D45E
+ Sie ermöglicht es den Strahlen des Lichtvaters, uns zu erreichen, und unsere Feinde zu schwächen. XXX
+// Leona perso14
+L39D45F
+ Aber ohne das Lichterfüllte Herz sind wir zur Finsternis verdammt. XXX
+// Arkhan2 G perso2
+L39D46A
+ Warum kannte niemand diese lichterfüllten Orte? XXX
+// Arkhan2 G perso2
+L39D46B
+ Und welche Rolle spielen Zed, Lory und mein Vater in dieser Geschichte? XXX
+// Leona perso14
+L39D47A
+ Zed, Rylsadhar und die Große Predigerin waren - wie auch ich und einige andere - durch ... eine Art Pakt gebunden. XXX
+// Leona perso14
+L39D47B
+ Ein Pakt, der so alt ist wie die Welt, viel älter noch als die Große Katastrophe. XXX
+// Leona perso14
+L39D47C
+ Er wurde von den Vorfahren unserer Vorfahren mit den Mächten abgeschlossen, die in der Grabstätte schlafen. XXX
+// Leona perso14
+L39D47D
+ Wir haben geschworen, das Lichterfüllte Herz und die Grabstätte zu beschützen, indem wir sie geheimhalten, bis diejenigen erwachen, die in ihrer Tiefe schlafen. XXX
+// Leona perso14
+L39D47E
+ Dafür erhielten einige unserer Vorfahren ein wenig von dieser Energie. XXX
+// Leona perso14
+L39D47F
+ Das ist eine Lebensenergie, die sie dem Lichterfüllten Herzen nach Belieben entnehmen und wieder zurückgeben können.  XXX
+// Leona perso14
+L39D47G
+ Eine Energie, mit der Dinge vollbracht werden können, die über das hinausgehen, was in der Macht normal Sterblicher steht. XXX
+// Leona perso14
+L39D47H
+ Diese Lebens- und Lichtenergie hat alle Epochen überlebt und lebt weiter in Zed, Rylsadhar und Lory -  in den Auserwählten. XXX
+// Arkhan2 G perso2
+L39D48
+ Die Kraft, die Zed mir übertragen hat, bevor er sich verwandelte! XXX
+// Arkhan2 G perso2
+L39D49
+ Die Kraft, die Zed mir übertragen hat, bevor er starb! XXX
+// Arkhan2 G perso2
+L39D50
+ Das war es also! XXX
+// Arkhan2 L perso2
+L39D55A
+ Wenn es diese Lichtenergie wirklich gibt ... XXX
+// Arkhan2 L perso2
+L39D55B
+ Dann ist das Böse, das Gift, mit dem Thanandar uns vergiftet hat ... die entgegengesetzte Kraft. XXX
+// Arkhan2 O perso2
+L39D56A
+ Und dieses Teufelszeug, mit dem Thanandar uns vergiftet hat? XXX
+// Arkhan2 O perso2
+L39D56B
+ Ist das Gegenteil dieser Lichtenergie, hab' ich recht? XXX
+// Leona perso14
+L39D57A
+ Ja. XXX
+// Leona perso14
+L39D57B
+ Dieses Gift der Finsternis ernährt sich von der Energie lebendiger Wesen. XXX
+// Leona perso14
+L39D57C
+ Diejenigen, die nicht daran sterben, werden verwandelt ... wie Du. XXX
+// Leona perso14
+L39D57D
+ Sie vergessen nach und nach, was sie sind, wer sie sind. XXX
+// Leona perso14
+L39D57E
+ Sie werden zu blutrünstigen, unersättlichen, ruhelosen Kreaturen. XXX
+// Arkhan2 G perso2
+L39D58
+ Aber die Energie der Grabstätte kann dieses Gift doch besiegen, oder nicht? XXX
+// Leona perso14
+L39D59A
+ Ja, die beiden Energien zehren sich gegenseitig auf. XXX
+// Leona perso14
+L39D59B
+ Aber wenn das Gift zu tief in Dich eingedrungen ist, kommt es zu einer furchtbaren Erschütterung ... XXX
+// Leona perso14
+L39D59C
+ Und auch Du wirst zerstört! XXX
+// Leona perso14
+L39D60
+ Das ist Rylsadhar passiert, als er das Lichterfüllte Herz berührte. XXX
+// Leona perso14
+L39D61
+ Das ist Zed passiert, als er das Lichterfüllte Herz berührte. XXX
+// Arkhan2 L perso2
+L39D64A
+ Und Thanandar?  XXX
+// Arkhan2 L perso2
+L39D64B
+ Was sucht er? XXX
+// Arkhan2 O perso2
+L39D65A
+ Und dieser Schweinehund von Thanandar? XXX
+// Arkhan2 O perso2
+L39D65B
+ Was will er?! XXX
+// Leona perso14
+L39D66A
+ Thanandar war ein Eingeweihter, wie wir. XXX
+// Leona perso14
+L39D66B
+ Als Heiler ist er schon immer von der Krankheit der Finsternis fasziniert gewesen. XXX
+// Leona perso14
+L39D66C
+ Er wollte sie verstehen, ein Gegenmittel finden. XXX
+// Leona perso14
+L39D66D
+ Ich weiß nicht, was ihn dazu gebracht hat, unsere Sache zu verraten und diese wahnsinnigen Dinge zu tun. XXX
+// Leona perso14
+L39D66E
+ Vielleicht ist er durch Zufall kontaminiert worden ... XXX
+// Leona perso14
+L39D66F
+ Wenn das Gift in ihm ist, haben seine Seele und sein Geist die schlimmsten Verwandlungen durchgemacht. XXX
+// Leona perso14
+L39D66G
+ Eines ist sicher: Wenn wir ihn nicht aufhalten, führt er uns in unser Verderben! XXX
+// Leona perso14
+L39D66H
+ Weißt Du, wo er im Moment ist? XXX
+// Arkhan2 G perso2
+L39D67A
+ Nein. Aber ich habe das Gefühl, daß er noch im Stalliten ist, mit anderen Kreaturen ... XXX
+// Arkhan2 G perso2
+L39D67B
+ Ich bin sicher, daß er den Stalliten erst dann verlassen wird, wenn alles beendet ist! XXX
+// Leona perso14
+L39D68
+ Du mußt ihn aufhalten, ihn zerstören. XXX
+// Arkhan2 L perso2
+L39D69A
+ Ich habe es ja schon versucht. XXX
+// Arkhan2 L perso2
+L39D69B
+ Das Übel der Finsternis hat ihn zu stark gemacht. XXX
+// Arkhan2 L perso2
+L39D69C
+ Ich glaub' nicht, daß ich ihn besiegen kann. XXX
+// Arkhan2 O perso2
+L39D70A
+ Ein Kinderspiel! XXX
+// Arkhan2 O perso2
+L39D70B
+ Man merkt, daß Du ihm noch nie gegenüber gestanden bist! XXX
+// Arkhan2 O perso2
+L39D70C
+ Geh' Du doch zu ihm, wenn Du so stark bist! XXX
+// Leona perso14
+L39D71A
+ Dann bleibt uns nur noch eine Lösung: die Grabstätte finden und das Licht zum Stalliten zurückbringen! XXX
+// Leona perso14
+L39D71B
+ Bevor Thanandar und seine Kreaturen ihr böses Werk beenden können! XXX
+// Arkhan2 L perso2
+L39D75A
+ Es sieht aus, als wüßtest Du viele Dinge. XXX
+// Arkhan2 L perso2
+L39D75B
+ Kennst Du den Eingang zur Grabstätte? XXX
+// Arkhan2 O perso2
+L39D76
+ Du bist doch so schlau ... dann sag' mir, wie man in die Grabstätte hineinkommt! XXX
+// Leona perso14
+L39D77A
+ Nein, dieses Geheimnis hat sich während der Großen Katastrophe verloren. XXX
+// Leona perso14
+L39D77B
+ Die Grabstätte ist tief unter dem Stalliten in der Erde verborgen. XXX
+// Leona perso14
+L39D77C
+ Aber das Zeugnis unserer Vorfahren sagt uns, daß der Weg zu ihr hin lang und gewunden ist. XXX
+// Leona perso14
+L39D77D
+ Selbst wenn Du den geheimen Eingang findest, mußt Du viele Prüfungen bestehen, um zum Herzen der Grabstätte zu gelangen. XXX
+// Arkhan2 G perso2
+L39D78
+ Welche Prüfungen? XXX
+// Leona perso14
+L39D79A
+ Das weiß ich nicht. XXX
+// Leona perso14
+L39D79B
+ Vielleicht hatte Rylsadhar etwas entdeckt, aber er hat mir nie davon erzählt. XXX
+// Arkhan2 L perso2
+L39D82
+ Kannst Du etwas tun, um das Feuer des Giftes, das mich verbrennt, zu beruhigen? XXX
+// Arkhan2 O perso2
+L39D83
+ Und wenn wir jetzt mal davon sprächen, MICH zu heilen?! XXX
+// Leona (erinnert sich daran, daß Arkhan Schmerzen hat) perso14
+L39D84A
+ Ja! XXX
+// Leona perso14
+L39D84B
+ Ich kann Dich von dem Übel, das Dich in seiner Gewalt hat, nicht völlig heilen. XXX
+// Leona perso14
+L39D84C
+ Aber die Lebens- und Lichtenergie ist an diesem Ort vorhanden. XXX
+// Leona perso14
+L39D84D
+ Deshalb kommt die Natur hier auch wieder zu ihrem Recht. XXX
+// Leona perso14
+L39D84E
+ Der Steinkoloß in der Mitte der Grotte ... XXX
+// Leona perso14
+L39D84F
+ Die Energie des Lichterfüllten Herzens hat ihn durchflutet. XXX
+// Leona perso14
+L39D84G
+ Wenn Du von dem Wasser trinkst, in dem er ruht, wirst Du von dem Gift, das in Dir ist, gereinigt werden. XXX
+// Leona perso14
+L39D84H
+ Trink aber wenig, denn das Gift ist mit Deiner sterblichen Hülle vermengt. XXX
+// Leona perso14
+L39D84I
+ Du setzt Dein Leben aufs Spiel! XXX
+// Arkhan2 L perso2
+L39D86A
+ Ich danke Dir, Leona. XXX
+// Arkhan2 L perso2
+L39D86B
+ Ich hoffe, daß ich es schaffe! XXX
+// Arkhan2 O perso2
+L39D87A
+ Schluß jetzt mit dem Geschwätz! XXX
+// Arkhan2 O perso2
+L39D87B
+ Ich hab' noch ein paar Leben zu retten ... XXX
+// Arkhan2 O perso2
+L39D87C
+ Vor allem meines! XXX
+// Leona perso14
+L39D88
+ Viel Glück, Arkhan. XXX
+// Leona perso14
+L39D89
+ Sei vorsichtig. XXX
+// Leona perso14
+L39D90
+ Ich vertraue Dir, Sohn des Rylsadhar! XXX
+// Arkhan2 G perso2
+L39D95
+ Kennst Du das? XXX
+// Leona (mißtrauisch) perso14
+L39D96
+ Sag mir zuerst, wer Du bist und was Du willst. XXX
+// Arkhan2 G perso2
+L39D97
+ Hier ist ein Teil des Schlüssels meines Vaters. XXX
+// Leona perso14
+L39D98
+ Es tut mir leid, aber ich habe nichts in der Art. XXX
+// Arkhan2 G perso2
+L39D99
+ Was ist das? XXX
+// Leona perso14
+L39D100
+ Ein Stück Bergkristall. XXX
+// Leona perso14
+L39D101
+ Er ist nicht geschliffen, ich glaube also nicht, daß es das ist, was Du suchst. XXX
+// Arkhan2 G perso2
+L39D102
+ Was kannst Du mir darüber sagen? XXX
+// Leona perso14
+L39D103
+ Nichts Besonderes, tut mir leid. XXX
+// Arkhan3 L perso3
+L39D12
+ Ich suche Leona. XXX
+// Arkhan3 O perso3
+L39D13
+ Leona? XXX
+// Leona (alarmiert) perso14
+L39D014A
+ Beim Sonnengott, das Böse! XXX
+// Leona (vorsichtig) perso14
+L39D014B
+ Du wirst von der Uressenz der Shankr aufgezehrt. XXX
+// Leona (vorsichtig) perso14
+L39D014C
+ Wer bist Du? XXX
+// Arkhan3 L perso3
+L39D15
+ Ich bin Arkhan, Sohn des Rylsadhar. XXX
+// Arkhan3 O perso3
+L39D16
+ Arkhan! XXX
+// Leona perso14
+L39D17A
+ Der Sohn des Rylsadhar! XXX
+// Leona perso14
+L39D17B
+ Aber was ist bloß im Stalliten los? XXX
+// Arkhan3 L perso3
+L39D27
+ Die Finsternis ... ist in den Stalliten eingefallen. XXX
+// Arkhan3 L perso3
+L39D28A
+ Ja, das Lichterfüllte Herz. XXX
+// Arkhan3 L perso3
+L39D28B
+ Thanandar, ein Prediger. XXX
+// Arkhan3 L perso3
+L39D28C
+ Es ist alles seine Schuld. XXX
+// Arkhan3 L perso3
+L39D29A
+ Nein, er ist kein Heiler mehr! XXX
+// Arkhan3 L perso3
+L39D29B
+ Er ist nicht einmal ein Mensch mehr! XXX
+// Arkhan3 L perso3
+L39D29C
+ Und beinahe hätte er Zed und meinen Vater umgebracht! XXX
+// Arkhan3 L perso3
+L39D30
+ Thanandar hat meinen Vater kontaminiert, genau wie mich. XXX
+// Arkhan3 L perso3
+L39D31
+ Thanandar hat Zed kontaminiert, genau wie mich. XXX
+// Arkhan3 L perso3
+L39D32A
+ Er litt ... unter furchtbaren Schmerzen ... XXX
+// Arkhan3 L perso3
+L39D32B
+ Thanandar hat ihn gezwungen, das Licht zu berühren. XXX
+// Arkhan3 L perso3
+L39D32C
+ Da schossen Blitze los ... und das Lichterfüllte Herz ist dunkel geworden ... XXX
+// Arkhan3 L perso3
+L39D32D
+ Als ob es die dunkle Energie aufsauge ... XXX
+// Arkhan3 L perso3
+L39D32E
+ Danach herrschte Finsternis über dem Stalliten. XXX
+// Arkhan3 L perso3
+L39D38A
+ Lory hat mir von einem Ort erzählt, der "Grabstätte". XXX
+// Arkhan3 L perso3
+L39D38B
+ Unsere letzte Chance ... XXX
+// Arkhan3 L perso3
+L39D38C
+ Mein Vater wußte vielleicht, wo sie sich befindet. XXX
+// Arkhan3 L perso3
+L39D39A
+ Doch seine Geheimnisse sind gut versteckt. XXX
+// Arkhan3 L perso3
+L39D39B
+ Ich suche einen Kristallschlüssel, der aus mehreren Stücken zusammengesetzt ist. XXX
+// Arkhan3 L perso3
+L39D42A
+ Hast Du meinen Vater in letzter Zeit gesehen? XXX
+// Arkhan3 L perso3
+L39D109
+ Das Herz ... Die Grabstätte ... Erklär' mir das alles. XXX
+// Arkhan3 L perso3
+L39D51A
+ Warum dieses Geheimnis? XXX
+// Arkhan3 L perso3
+L39D51B
+ Und warum Zed, mein Vater und Lory? XXX
+// Arkhan3 L perso3
+L39D52
+ Zed hat mir eine Kraft übertragen, bevor er starb! XXX
+// Arkhan3 L perso3
+L39D53
+ Zed hat mir seine Kraft gegeben, bevor er dem Bösen erlag. XXX
+// Arkhan3 L perso3
+L39D54
+ Das war es! XXX
+// Arkhan3 L perso3
+L39D62A
+ Das Übel der Finsternis ... XXX
+// Arkhan3 L perso3
+L39D62B
+ Ist es das Gegenteil dieser Kraft? XXX
+// Arkhan3 L perso3
+L39D63
+ Die Energie in der Grabstätte wird das Gift zerstören! XXX
+// Arkhan3 L perso3
+L39D72
+ Und Thanandar?  XXX
+// Arkhan3 L perso3
+L39D73A
+ Er ist noch immer im Stalliten, mit anderen Kreaturen. XXX
+// Arkhan3 L perso3
+L39D73B
+ Er wird abwarten, bis alles zuende ist, da bin ich ganz sicher! XXX
+// Arkhan3 L perso3
+L39D74A
+ Hab' ich schon probiert. XXX
+// Arkhan3 L perso3
+L39D74B
+ Das Übel hat ihn verwandelt, er ist zu stark. XXX
+// Arkhan3 L perso3
+L39D80A
+ Du weißt viel darüber. XXX
+// Arkhan3 L perso3
+L39D80B
+ Weißt Du, wie ich die Grabstätte finde? XXX
+// Arkhan3 L perso3
+L39D81
+ Welche Prüfungen? XXX
+// Arkhan3 L perso3
+L39D85
+ Kannst Du mir helfen, dieses Übel zu besiegen? XXX
+// Arkhan3 O (als wenn er Leona verschlingen wolle) perso3
+L39D92
+ Leonaaaa... XXX
+// Leona perso14
+L39D93
+ Arkhan! Nein, laß' Dich nicht von der Finsternis besiegen! XXX
+// Leona perso14
+L39D94
+ Nein! Arkhan, beherrsche Dich! XXX
+// Arkhan3 G perso3
+L39D104
+ Weißt Du, was das ist? XXX
+// Arkhan3 L perso3
+L39D105
+ Das ist ein Teil des Schlüssels meines Vaters. XXX
+// Arkhan3 L perso3
+L39D106
+ Was ist das? XXX

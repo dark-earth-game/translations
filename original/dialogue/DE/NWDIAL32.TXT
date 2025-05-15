@@ -1,0 +1,397 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL32.TXT
+ // Sordos perso23
+L32D08
+ Ah! Da bist Du ja, mein guter Gork. XXX
+// Sordos perso23
+L32D70
+ Ah! Da bist Du ja, Telk! XXX
+// Gork perso31
+L32D12B
+ Ich werd' Dir weh tun ... und Du wirst schreien. XXX
+// Konkalit11 perso81
+L32D71
+ Brauchst Du mich, Chef? XXX
+// Sordos perso23
+L32D09A
+ Ich hab' einen neuen Spielkameraden für Dich gefunden. XXX
+// Sordos perso23
+L32D09B
+ Du kannst Dich mit ihm amüsieren, aber töte ihn nicht zu schnell. XXX
+// Konkalit11 perso81
+L32D72
+ Du kannst Dich auf mich verlassen, Sordos! XXX
+// Sordos perso23
+L32D05A
+ Du mieser Kerl, Deine Stunde ist gekommen. Du hast jetzt die Gelegenheit, ein Held zu werden ... ein toter Held! XXX
+// Sordos perso23
+L32D05B
+ Schade, daß Du nicht da sein wirst, wenn Sparta in den Händen der Konkaliten sein wird. XXX
+// Sordos perso23
+L32D05C
+ Du kannst mir glauben, das Blut wird in Strömen fließen, wie der Stohll! XXX
+// Konkalit11 perso81
+L32D73A
+ Gork wird bald hier sein, mit seinen Instrumenten. XXX
+// Konkalit11 perso81
+L32D73B
+ Du wirst erfahren, was Schmerz ist, mein Freund! XXX
+// Konkalit11 perso81
+L32D73C
+ Ja, das kann Dich Dir versprechen! (böses Lachen) XXX
+// Gork (dumm)perso31
+L32D10
+ Ja, Sordos. XXX
+// Gork perso31
+L32D12A
+ Sordos hat gesagt, ich darf Dir weh tun. XXX
+// Gork perso31
+L32D12C
+ Oh ja, Du wirst schreien! Ja! XXX
+// Konkalit7 (ruft Gork)perso77
+L32D13
+ Hey, Gork, wir haben Besuch! XXX
+// Konkalit7 perso77
+L32D14
+ Komm her, mein Süßer! Wir haben hier was für Dich! XXX
+// Malrot6 perso66
+L32D226
+ Laß mich hier raus, elender Wurm! XXX
+// Malrot6 perso66
+L32D227
+ Armal Sadak wird Euch alle umbringen! XXX
+// Malrot6 perso66
+L32D228
+ Ihr werdet mich doch nicht in diesem Käfig verfaulen lassen! XXX
+// Konkalit3 perso73
+L32D666
+ Hey! Immer mit der Ruhe! XXX
+// Konkalit3 perso73
+L32D667
+ Ruhe, Dreckskerl! XXX
+// Konkalit3 perso73
+L32D668
+ Du wirst den Tod herbeisehnen! XXX
+// Konkalit3 (sieht Arkhan)perso73
+L32D100
+ Hey, was machst Du denn hier?! XXX
+// Malrot6 (A. hat Konkalit3 besiegt)perso66
+L32D225
+ Gut gemacht, mein Freund! XXX
+// Gork perso31
+L32D505
+ Halt's Maul! XXX
+// Arkhan2 O perso2
+L32D15
+ Komm her, Fettwanst! XXX
+// Arkhan3 O perso3
+L32D16
+ Du hast Deinen Meister gefunden, Fettwanst! XXX
+// Konkalit7 perso77
+L34D778
+ Du bist ein toter Mann! XXX
+// Konkalit7 perso77
+L34D777
+ Wir werden Dich zu Hackfleisch machen! XXX
+// Arkhan2 G (findet Dhorkan halbtot)perso2
+L32D40
+ Das ist Dhorkan! XXX
+// Arkhan3 G (findet Dhorkan halbtot)perso3
+L32D41
+ Das ist Dhorkan! XXX
+// Dhorkan (komatös) perso95
+L32D42
+ Äh ... XXX
+// Arkhan2 L perso2
+L32D20
+ Dhorkan? Du lebst ja noch! XXX
+// Arkhan2 O perso2
+L32D21
+ Dhorkan! Du lebst noch, mieser Verräter?! XXX
+// Arkhan3 L perso3
+L32D22
+ Dhorkan? Du lebst noch? XXX
+// Arkhan3 O perso3
+L32D23
+ Dhorkan! Du lebst ja noch, Du elender Wurm! XXX
+// Dhorkan (sterbend)perso95
+L32D24A
+ Arkhan ...bist Du es?  XXX
+// Dhorkan (sterbend)perso95
+L32D24B
+ Ah ...ich wußte, daß ich Dich wiedersehen würde ... bevor ... ich sterbe. XXX
+// Arkhan2 G perso2
+L32D25
+ Ja, ich bin einer von der hartnäckigen Sorte! XXX
+// Arkhan3 G perso3
+L32D26
+ Ja, ich werde kämpfen ... bis zum bitteren Ende! XXX
+// Dhorkan (sterbend)perso95
+L32D27A
+ Für mich ist es aus ... Meine Schwächen ... waren mein Verderben ... XXX
+// Dhorkan (sterbend)perso95
+L32D27B
+ Ich ... Ich wollte ... ein neues Zeitalter für Sparta ... XXX
+// Dhorkan (sterbend)perso95
+L32D27C
+ Ich war bereit zu allem ... Bereit, mit Sordos einen Pakt einzugehen ... Daß er Lory umbringt ... Ihm Deinen Vater ausliefern ... XXX
+// Dhorkan (sterbend)perso95
+L32D27D
+ Aber ich wußte nichts von Thanandars Plänen ...  XXX
+// Dhorkan (sterbend)perso95
+L32D27E
+ Er und Sordos ... haben mich besiegt! XXX
+// Arkhan2 L perso2
+L32D28
+ Du hast eine Möglichkeit, Deine Schuld zu sühnen: Sag mir, wo Thanandar ist. XXX
+// Arkhan2 O perso2
+L32D29
+ Du hast Thanandar gesehen! Sprich! XXX
+// Arkhan3 L perso3
+L32D30
+ Thanandar, wo ist er? XXX
+// Arkhan3 O perso3
+L32D31
+ Wo ist Thanandar? Sprich! XXX
+// Dhorkan (sterbend)perso95
+L32D32A
+ Nein ... Ich weiß nicht, wo er ist ...  XXX
+// Dhorkan (sterbend)perso95
+L32D32B
+ Versuch' nicht ... Dich mit ihm anzulegen. Er ist kein Mensch mehr, Arkhan...  XXX
+// Dhorkan (sterbend)perso95
+L32D32C
+ Er ist ... seit langem ... kontaminiert ... XXX
+// Dhorkan (sterbend)perso95
+L32D32D
+ Nur der Sonnengott weiß, wie er das verbergen konnte ... XXX
+// Dhorkan (sterbend)perso95
+L32D32E
+ Die Konkaliten ... haben Dich ... mit seinem Blut vergiftet. XXX
+// Dhorkan (sterbend)perso95
+L32D32F
+ Jetzt, wo die Finsternis in den Stalliten eingezogen ist ... zeigt er sein wahres Gesicht ... XXX
+// Dhorkan (sterbend)perso95
+L32D32G
+ Andere Kreaturen ... gehorchen ihm ... man kann ihn nicht aufhalten ... zu spät ... (Seufzer) XXX
+// Arkhan2 L perso2
+L32D33A
+ Dhorkan! Ich suche einen Ort, den mein Vater "die Grabstätte" nannte. XXX
+// Arkhan2 L perso2
+L32D33B
+ Dort ist vielleicht das einzige Mittel, um Sparta zu retten! XXX
+// Arkhan2 O perso2
+L32D34A
+ Du erntest die Früchte deines Verrats! XXX
+// Arkhan2 O perso2
+L32D34B
+ Aber mich kriegen sie nicht! XXX
+// Arkhan3 L perso3
+L32D35A
+ Ich suche einen Ort, die sogenannte "Grabstätte".  XXX
+// Arkhan3 L perso3
+L32D35B
+ Dort soll sich eine Kraft befinden, die uns retten kann. XXX
+// Arkhan3 O perso3
+L32D36A
+ Du stirbst, wie Du gelebt hast, ehrlos! XXX
+// Arkhan3 O perso3
+L32D36B
+ Aber ich, ich werde überleben! XXX
+// Dhorkan (sterbend)perso95
+L32D37A
+ Alles was Du noch tun kannst, ist fliehen ... Geh, solange noch Zeit ist ...  XXX
+// Dhorkan (sterbend)perso95
+L32D37B
+ Der Stallit wird ausgelöscht werden  ... durch meine Schuld ... XXX
+// Dhorkan (letzter Seufzer)perso95
+L32D37C
+ Der Sonnengott möge mir verzeihen ... XXX
+// Arkhan2 G perso2
+L32D44
+ Er ist tot. Es ist aus. XXX
+// Arkhan3 L perso3
+L32D46
+ Diesmal ist es wirklich zuende mit ihm. XXX
+// Arkhan2 L perso2
+L32D50
+ Zed, was haben sie denn mit Dir gemacht!? XXX
+// Arkhan2 O perso2
+L32D51
+ Du bist nicht mehr Zed! XXX
+// Arkhan3 L perso3
+L32D52
+ Zed, was haben sie mit Dir gemacht!? XXX
+// Arkhan3 O perso3
+L32D53
+ Du bist nicht mehr Zed! XXX
+// Arkhan2 L perso2
+L32D500
+ Laß mich raus, ich hab' was für Dich. XXX
+// Arkhan2 O perso2
+L32D501
+ Laß mich sofort frei, Fettwanst! XXX
+// Arkhan3 L perso3
+L32D502
+ Laß mich raus. Ich hab' was für Dich. XXX
+// Gork perso31
+L32D503
+ Du hältst Deine dreckige Fresse! XXX
+// Gork perso31
+L32D504
+ Bald wirst Du uns anflehen, Dich zu töten! XXX
+// Arkhan2 L perso2
+L32D506
+ Laß mich raus, Du wirst es nicht bedauern. XXX
+// Konkalit11 perso81
+L32D509A
+ Ist mir egal, wer Du bist, was Du getan hast oder was Du zu sagen hast. XXX
+// Konkalit11 perso81
+L32D509B
+ Alles was ich will, ist, Dich schreien und flehen zu hören. XXX
+// Arkhan2 O perso2
+L32D507
+ Befrei mich sofort, und ich schenk' Dir das Leben! XXX
+// Konkalit11 perso81
+L32D510A
+ Wirklich zu großzügig von Dir! XXX
+// Konkalit11 perso81
+L32D510B
+ Aber ich glaub', ich behalt' Dich doch lieber hier, für ein nettes kleines Folterstündchen. XXX
+// Arkhan3 L perso3
+L32D508
+ Befrei mich, Du wirst es nicht bedauern. XXX
+// Konkalit11 perso81
+L32D511A
+ Beschwer' Dich soviel Du willst! XXX
+// Konkalit11 perso81
+L32D511B
+ Bald wirst Du mich anflehen, daß ich Dir den Hals durchschneide! XXX
+// Malrot6 perso66
+L32D102
+ Kümmere Dich zuerst um den anderen Dreckskerl da hinten! XXX
+// Arkhan2 L perso2
+L32D200
+ Ich hol, Dich da gleich raus! XXX
+// Malrot6 perso66
+L32D201
+ Danke, mein Freund! Meinst Du, Du wirst es schaffen? XXX
+// Arkhan2 L (schafft es nicht, die Tür herauszureißen)perso2
+L32D202
+ Heh, die ist aber stabil! XXX
+// Malrot6 perso66
+L32D203
+ Versuch' ein Mittel zu finden, um das Schloß zu öffnen. XXX
+// Arkhan3 L perso3
+L32D204
+ Ich werd' Dich da rausholen! XXX
+// Arkhan3 L perso3
+L32D205
+ Die ist stabil! XXX
+// Arkhan2 L perso2
+L32D206
+ Ich werd' was anderes versuchen. XXX
+// Arkhan3 L perso3
+L32D207
+ Ich versuch' was anderes. XXX
+// Malrot6 perso66
+L32D208
+ Das werd' ich Dir nicht vergessen, mein Freund. XXX
+// Malrot6 perso66
+L32D209
+ Paß auf, jeden Moment können mehr von diesen Dreckskerlen kommen! XXX
+// Arkhan2 L perso2
+L32D210
+ Nein, das geht nicht! XXX
+// Arkhan3 L perso3
+L32D211
+ Nein! Das funktioniert nicht! XXX
+// Arkhan2 L perso2
+L32D212
+ Damit werd' ich diesen verdammten Käfig doch wohl aufkriegen! XXX
+// Arkhan3 L perso3
+L32D213
+ Diesen Käfig werd ich doch wohl aufkriegen! XXX
+// Malrot6 perso66
+L32D214
+ Danke, mein Freund, ich steh' in Deiner Schuld! XXX
+// Malrot6 perso66
+L32D217A
+ Du hast mir das Leben gerettet, mein Freund. Das werde ich Dir nie vergessen! XXX
+// Malrot6 perso66
+L32D217B
+ Ich werd' versuchen, hier unversehrt herauszukommen. XXX
+// Malrot6 perso66
+L32D217C
+ Paß auf Dich auf! XXX
+// Arkhan2 O perso2
+L32D218
+ Dir geht es wohl nicht so gut in Deinem Käfig, oder? XXX
+// Arkhan3 O perso3
+L32D219
+ In dem Käfig da kann man Dich wirklich nicht ernst nehmen! XXX
+// Malrot6 perso66
+L32D220A
+ Ich bin ein Feind der Konkaliten, wie Du! XXX
+// Malrot6 perso66
+L32D220B
+ Befrei mich, anstatt Dich über mich lustig zu machen! XXX
+// Arkhan2 O perso2
+L32D221
+ Wenn sie Dich in den Käfig gesperrt haben, hatten sie sicher einen guten Grund dafür! XXX
+// Arkhan3 O perso3
+L32D222
+ Ziemlich eng, oder? XXX
+// Malrot6 perso66
+L32D223
+ Laß mich hier raus, und ich werd' Dir zeigen, warum diese Schweinehunde mich eingesperrt haben! XXX
+// Malrot6 perso66
+L32D224
+ Rede nur, wenn's Dir Spaß macht ... XXX
+// Malrot6 perso66
+L32D512
+ Hey, immer mit der Ruhe! XXX
+// Malrot6 perso66
+L32D513
+ Willst Du mich umbringen, oder was?! XXX
+// Konkalit3 (schlägt)perso73
+L32D888
+ Du spricht zuviel, Freundchen! Das geht mir auf die Nerven! XXX
+// Konkalit3 (schlägt)perso73
+L32D889
+ Ich werd' Dich ausbluten, Großmaul! XXX
+// Konkalit11 perso81
+L32D515
+ Brüll nur, soviel Du willst! XXX
+// Konkalit11 perso81
+L32D514
+ Ich werd' Dir Dein großes Maul stopfen! XXX
+// Arkhan2 G perso2
+L32D60A
+ Folterkäfige. XXX
+// Arkhan2 G perso2
+L32D60B
+ Diese Konkaliten sind wirklich Schweinehunde. XXX
+// Arkhan3 G perso3
+L32D61A
+ Folterkäfige. XXX
+// Arkhan3 G perso3
+L32D61B
+ Diese Konkaliten sind Dreckskerle! XXX
+// Arkhan2 G perso2
+L32D58
+ Menschenknochen ...   XXX
+// Arkhan3 G perso3
+L32D59
+ Knochen ... Menschenknochen. XXX
+// Arkhan2 G perso2
+L32D56
+ Das Stück Fleisch ist völlig verbrannt. XXX
+// Arkhan3 G perso3
+L32D57
+ Ein völlig verbranntes Stück Fleisch. XXX
+// Arkhan2 G perso2
+L32D54
+ Verrostete Tierkäfige. XXX
+// Arkhan3 G perso3
+L32D55
+ Verrostete Käfige. XXX

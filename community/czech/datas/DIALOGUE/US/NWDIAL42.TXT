@@ -1,0 +1,61 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL42.TXT
+ // Arkhan3 G perso3
+L42D01
+ Nemùzu se otocit ... XXX
+// Arkhan3 G perso3
+L42D05
+ Vypadá to, jako by to byl konec mé cesty ... XXX
+// Arkhan3 G perso3
+L42D02A
+ Jsem venku ... Skalisko ... XXX
+// Arkhan3 G perso3
+L42D02B
+ Vchod ke hrobce musel zde být ... Ale za velke katastrofy byl zasypán! XXX
+// Arkhan3 G perso3
+L42D02C
+ Proto ji otec nikdy nenalezl! XXX
+// Arkhan3 L perso3
+L42D08
+ Je to horící horko ... Toto svetlo ... Jak v hrobce. XXX
+// Arkhan3 O perso3
+L42D09
+ Zatracene! Spálil jsem si ruce! XXX
+// Arkhan3 L perso3
+L42D10
+ Toho já se uz nedotknu ... XXX
+// Arkhan3 O perso3
+L42D11
+ Toho se uz více nedotknu! XXX
+// Arkhan3 G (hat den Hebel hochgedrückt, um die Tür zu öffnen) perso3
+L42D07A
+ Ty se nepohnou. XXX
+// Arkhan3 G perso3
+L42D07B
+ Nic se nepohlo. XXX
+// Arkhan3 G perso3
+L42D07C
+ To se nehodí. XXX
+// Arkhan3 G perso3
+L42D06
+ Mechanismus je blokován. XXX
+// Arkhan3 G perso3
+L42D12
+ Tento kámen zde je lechce teplý ... XXX
+// Arkhan3 G perso3
+L42D13A
+ Sutina ... XXX
+// Arkhan3 G perso3
+L42D13B
+ To je jiz tak stare ... Rozpadle v ruiny  ... XXX
+// Arkhan3 L (schaut nach unten) perso3
+L42D03
+ Zbytek jeskyne je spolecne zlomený a do more zrícený. XXX
+// Arkhan3 O (schaut nach unten) perso3
+L42D04
+  Kdo by zde socil dolù, je mrtvý muz! XXX
+// Arkhan3 G perso3
+L42D14
+ Obrovske kolo ... a otvor, tam nahore. XXX
+// Arkhan3 G perso3
+L42D15
+ Musím prostredek najít, kolem otocit ... XXX

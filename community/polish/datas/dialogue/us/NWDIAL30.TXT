@@ -1,0 +1,73 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL30.TXT
+ // Arkhan2 G (hearing someone sneeze)perso2
+L30D05
+ Co to bylo? XXX
+// Arkhan3 G (hearing someone sneeze)perso3
+L30D06
+ A to co? XXX
+// Konkalite5 (going to attack Arkhan) perso75
+L30D01
+ Koniec twej wedrowki! XXX
+// Konkalite2 (attacking A.) perso72
+L30D02
+ Zgubiles sie? Chodz do tatusia! XXX
+// Arkhan2 G (speaking inside helmet)perso2
+L30D16
+ Ten wynalazek jest zbyt ciezki, musze go zdjac! XXX
+// Arkhan3 G (speaking inside helmet)perso3
+L30D17
+ Zbyt ciezki, musze go zdjac. XXX
+// Arkhan2 G (speaking inside helmet)perso2
+L31D83A
+ Nie moge nurkowac. XXX
+// Arkhan2 G perso2
+L31D83B
+ Skonczyl sie zapas powietrza w zbiorniku. XXX
+// Arkhan2 G perso2
+L31D83C
+ Musze jakos go napelnic... XXX
+// Arkhan3 G (speaking inside helmet)perso3
+L31D84A
+ Nie moge nurkowac... XXX
+// Arkhan3 G perso3
+L31D84B
+ Brak powietrza w zbiorniku. XXX
+// Arkhan3 G perso3
+L31D84C
+ Musze go napelnic... XXX
+// Arkhan2 L perso2
+L31D85A
+ Za gleboko. XXX
+// Arkhan2 L perso2
+L31D85B
+ Jesli wskocze, utone! XXX
+// Arkhan2 O perso2
+L31D86
+ Nie! Pojde na dno jak kamien! XXX
+// Arkhan3 L perso3
+L31D87
+ Nie, jest za gleboko...  XXX
+// Arkhan3 O perso3
+L31D88
+ Utone! XXX
+// Arkhan2 L perso2
+L30D11
+ Spokojnie, jestem przyjacielem! XXX
+// Arkhan2 O perso2
+L30D12
+ Przepusc mnie, albo odetne ci leb! XXX
+// Arkhan3 G perso3
+L30D13
+ Odsun sie, albo gin! XXX
+// Arkhan2 G perso2
+L30D07
+ Nic... a woda jest naprawde zimna. XXX
+// Arkhan3 G perso3
+L30D08
+ Nic... i jest zimno! XXX
+// Arkhan2 G perso2
+L30D09
+ Woda jest zimna i mulista. XXX
+// Arkhan3 G perso3
+L30D10
+ Zimna i mulista. XXX

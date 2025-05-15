@@ -1,0 +1,160 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL26.TXT
+ // Arkhan2 L perso2
+L26D01
+ Ojciec planowal wrocic. XXX
+// Arkhan3 L perso3
+L26D02
+ Ogien... XXX
+// Arkhan2 G (looking at a book)perso2
+L26D03
+ Przyjrzyjmy sie temu blizej... XXX
+// Arkhan2 G (reading)perso2
+L26D03A
+ "Dzieci Slonca, ktore starozytni zwali 'Runka,' dzisiaj spoczywaja w swym wiecznym snie w glebi ziemi. XXX
+// Arkhan2 G perso2
+L26D03B
+ Swiatynie Snow to dla nich miejsce przeznaczenia, gdzie chronione sa przez kamiennych straznikow  oraz czujnych Wtajemniczonych, wybranych sposrod rasy ludzkiej. XXX
+// Arkhan2 G perso2
+L26D03C
+ Dzien ich Przebudzenia na zawsze odmieni losy ludzkosci. Tak to przewidzial Thorgrad oraz inni zalozyciele. XXX
+// Arkhan2 G perso2
+L26D03D
+ Jednakze prawa wszechswiata sprzeciwiaja sie silom swiatla a takze ich przeciwnikow. XXX
+// Arkhan2 G perso2
+L26D03E
+ Zla krew, krew 'Shankrow,' plynela po Ziemi przed i po  Wielkim Kataklizmie. XXX
+// Arkhan2 G perso2
+L26D03F
+ Wszelkie formy zycia dotkniete przez Mrok, zostaja przezen skorumpowane i same staja sie narzedziem korupcji. XXX
+// Arkhan2 G perso2
+L26D03G
+ Wtajemniczeni przyrzekli na glowy swoich spadkobiercow, ze walczyc beda z tym zlem, kiedykolwiek je napotkaja, ogniem oraz swietym blaskiem." XXX
+// Arkhan2 G perso2
+L26D03H
+ Podpisano: "Thelen Khron, Wtajemniczony z rodu Thorgrada." XXX
+// Arkhan2 G (to himself) perso2
+L26D03I
+ Lory miala racje, moj ojciec wie wiecej, niz przypuszczalem. XXX
+// Arkhan3 G (looking at a book)perso3
+L26D04
+ Moge to odczytac... XXX
+// Arkhan3 G (reading)perso3
+L26D04A
+"Dzieci Slonca, ktore starozytni zwali 'Runka,' dzisiaj spoczywaja w swym wiecznym snie w glebi ziemi. XXX
+// Arkhan3 G perso3
+L26D04B
+  Swiatynie Snow to dla nich miejsce przeznaczenia, gdzie chronione sa przez kamiennych straznikow oraz czujnych Wtajemniczonych, wybranych sposrod rasy ludzkiej. XXX
+// Arkhan3 G perso3
+L26D04C
+  Dzien ich Przebudzenia na zawsze odmieni losy ludzkosci. Tak to przewidzial Thorgrad oraz inni zalozyciele. XXX
+// Arkhan3 G perso3
+L26D04D
+  Jednakze prawa wszechswiata sprzeciwiaja sie silom swiatla a takze ich przeciwnikow. XXX
+// Arkhan3 G perso3
+L26D04E
+Zla krew, krew 'Shankrow,' plynela po Ziemi przed i po  Wielkim Kataklizmie. XXX
+// Arkhan3 G perso3
+L26D04F
+ Wszelkie formy zycia dotkniete przez Mrok, zostaja przezen skorumpowane i same staja sie narzedziem korupcji. XXX
+// Arkhan3 G perso3
+L26D04G
+ Wtajemniczeni przyrzekli na glowy swoich spadkobiercow, ze walczyc beda z tym zlem, kiedykolwiek je napotkaja, ogniem oraz swietym blaskiem." XXX
+// Arkhan3 G perso3
+L26D04H
+  Podpisano: "Thelen Khron, Wtajemniczony z rodu Thorgrada." XXX
+// Arkhan3 G to himself) perso3
+L26D04I
+ Hmm... Ojciec zawsze byl skryty... XXX
+// Arkhan2 G (searching) perso2
+L26D05
+ Zobaczmy, co tutaj jest... XXX
+// Arkhan2 G (finding something) perso2
+L26D06
+ Tak... XXX
+// Arkhan3 G (searching) perso3
+L26D07
+ Spojrzmy tutaj... XXX
+// Arkhan3 G (finding something) perso3
+L26D08
+ Tak... XXX
+// Arkhan2 G perso2
+L26D09
+ Nic. XXX
+// Arkhan2 G perso2
+L26D10
+ Nic na pulpicie, nic na stole... XXX
+// Arkhan3 G perso3
+L26D11
+ Tutaj nic nie znajde. XXX
+// Arkhan2 G perso2
+L26D12
+ Nie, to tylko stara ksiazka ze Starego Swiata. XXX
+// Arkhan3 G perso3
+L26D13
+  To tylko stara ksiazka ze Starego Swiata. XXX
+// Arkhan2 L perso2
+L26D14A
+ Pamietam...  XXX
+// Arkhan2 L (reminiscent) perso2
+L26D14B
+ Moj ojciec mial zwyczaj liczyc gwiazdy na niebie... XXX
+// Arkhan2 O perso2
+L26D15
+ Tu pod spodem cos lezy! XXX
+// Arkhan2 G perso2
+L26D16
+ Klucz. XXX
+// Arkhan3 L perso3
+L26D19A
+ Pamietam... XXX
+// Arkhan3 L (reminiscent) perso3
+L26D19B
+ Ojciec twierdzil, ze liczyl przy pomocy tego czegos gwiazdy... XXX
+// Arkhan3 O perso3
+L26D20
+ Cos jest pod spodem. XXX
+// Arkhan3 G perso3
+L26D21
+ Klucz. XXX
+// Arkhan2 G perso2
+L26D23
+ Cos lezy pod ksiazka... XXX
+// Arkhan3 G perso3
+L26D25
+ Cos sie znajduje pod ksiazka... XXX
+// Arkhan2 G perso2
+L26D27A
+ To musi sluzyc do otwierania drzwi... ale nie moge teraz wyjsc. XXX
+// Arkhan2 G perso2
+L26D27B
+ Lory powiedziala, ze odnajde tutaj wlasciwa odpowiedz! XXX
+// Arkhan3 G perso3
+L26D28A
+  To musi otworzyc drzwi... ale nie moge teraz wyjsc. XXX
+// Arkhan3 G perso3
+L26D28B
+ Lory rzekla, ze tu znajduje sie odpowiedz... XXX
+// Arkhan2 G perso2
+L26D300
+ Nie, nie moge wyjsc. XXX
+// Arkhan3 G perso3
+L26D301
+ Nie moge wyjsc. XXX
+//Arkhan2 G perso2
+L26D32
+ To dziala, otwarcie tuz, tuz. XXX
+//Arkhan3 G perso3
+L26D33
+ Otworz. XXX
+// Arkhan2 L (looking through the wrong end of the telescope) perso2
+L26D34
+ Hmm... Nic tylko wielka, czarna dziura. XXX
+// Arkhan3 L perso3
+L26D35
+ Nic nie widze... XXX
+// Arkhan2 G perso2
+L26D36
+ Tu gdzies musi sie znajdowac mechanizm otwarcia. XXX
+// Arkhan3 G perso3
+L26D38
+ Aby otworzyc, musi byc jakis mechanizm... XXX

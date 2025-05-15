@@ -1,0 +1,37 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\fr\NWDIAL40.TXT
+ // Arkhan3 G (groggy) perso3
+L40D07A
+ Huh... Quelle chute... XXX
+// Arkhan3 G (groggy) perso3
+L40D07B
+ Mes os... sont en miettes... XXX
+// Arkhan3 G perso3
+L40D04A
+ Ca y est... Le... Tombeau... XXX
+// Arkhan3 G perso3
+L40D04B
+ J'y suis... Je l'ai trouvé! XXX
+// Arkhan3 G perso3
+L40D05A
+ Le mal... Mon corps... brûle... XXX
+// Arkhan3 G perso3
+L40D05B
+ Je dois faire... vite! XXX
+// Arkhan3 G perso3
+L40D01
+ Des reliefs... Ca a été sculpté par des hommes... Il y a très longtemps... XXX
+// Arkhan3 G perso3
+L40D02
+ Une immense chaîne taillée dans la pierre. XXX
+// Arkhan3 G perso3
+L40D03
+ La pierre est chaude... XXX
+// Arkhan3 G perso3
+L40D06A
+ Des débris de pierre... XXX
+// Arkhan3 G perso3
+L40D06B
+ Que des débris... XXX
+// Arkhan3 G perso3
+L40D08
+ Les restes de l'hélice... XXX

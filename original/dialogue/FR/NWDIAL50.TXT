@@ -1,0 +1,10 @@
+Début du fichier F:\DEV\DKE\DATAS\DIALOGUE\FR\NWDIAL50.TXT
+ // Thanandar perso24
+L24D21
+ Ca suffit vous deux! XXX
+// Thanandar (soudain mauvais)perso24
+L24D22
+ Imbécile! Tant pis, liquidons-le! XXX
+// Thanandar perso24
+L24D20
+ Suffit! Je suis là pour t'aider! XXX

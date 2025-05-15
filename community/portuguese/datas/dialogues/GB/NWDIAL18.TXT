@@ -1,0 +1,198 @@
+// Armal Sadak (divertido, a Arkhan) perso6
+L18D197
+Se os encontrar, as suas vidas não valerão nada! XXX
+// Arkhan2 G perso2
+L18D08
+Jogamos uma partida? XXX
+// Arkhan3 G perso3
+L18D09
+Apetece-te uma partida? XXX
+// Armal Sadak perso6
+L18D07A
+Sejas quem fores... deixa-me dizer-te uma coisa. XXX
+// Armal Sadak perso6
+L18D07B
+Eu só jogo com os meus convidados. E a ti não te conheço! XXX
+// Armal Sadak perso6
+L18D07C
+Por isso se não queres incomodar, não fiques mais aqui, está bem? XXX
+// Armal Sadak perso6
+L18D119
+Eu movo primeiro, a idade antes da beleza! XXX
+// Armal Sadak perso6
+L18D202
+Diz-me primeiro o que procuras exatamente. XXX
+// Armal Sadak perso6
+L18D203A
+Talvez mais tarde. Deverias tentar salvar o que te resta. XXX
+// Armal Sadak perso6
+L18D203B
+Por agora, acho que deverias tentar salvar o que te resta de vida, não? XXX
+// Arkhan2 G perso2
+L18D204
+Bem, jogamos? XXX
+// Arkhan3 G perso3
+L18D205
+Bem, jogamos? XXX
+// Armal Sadak perso6
+L18D206
+Sim, se tiveres uma boa arma para apostar. XXX
+// Arkhan2 L perso2
+L18D139A
+Não te ponhas nervoso! XXX
+// Arkhan2 L perso2
+L18D139B
+Sou amigo dos Buscadores. XXX
+// Arkhan3 L perso3
+L18D140
+Calma. XXX
+// Malfrat2 perso62
+L18D141A
+Ouve, não te conheço e não tenho nada para te dizer. XXX
+// Malfrat2 perso62
+L18D141B
+Percebes? XXX
+// Arkhan2 O perso2
+L18D142
+Quem é aqui o chefe? XXX
+// Arkhan3 O perso3
+L18D143
+Quem é o chefe aqui? XXX
+// Malfrat2 perso62
+L18D144
+Ninguém! Vai fazer as tuas porcarias para outro lado, gárgula! XXX
+// Arkhan2 O perso2
+L18D145
+Quem és tu? XXX
+// Arkhan3 O perso3
+L18D146
+Quem és tu? XXX
+// Malfrat2 perso62
+L18D147
+Isso não te interessa. Baza! XXX
+// Arkhan2 G perso2
+L18D23A
+Tenho uma mensagem para ti: XXX
+// Arkhan2 G perso2
+L18D23B
+"O Homem não é mais que um peão que a mão do Destino mergulha umas vezes na Sombra e outras na Luz". XXX
+// Arkhan3 G perso3
+L18D24A
+Tenho uma mensagem para ti: XXX
+// Arkhan3 G perso3
+L18D24B
+"O Homem... não é mais que um peão que a mão do Destino mergulha umas vezes na Sombra... e outras na Luz." XXX
+// Malfrat2 perso62
+L18D274A
+Desde quando é que animais como tu se dedicam à poesia? Ha! Ha! Ha! XXX
+// Malfrat2 perso62
+L18D274B
+Vá, baza daqui agora mesmo ou mergulho-te na Sombra definitivamente! XXX
+// Arkhan2 L perso2
+L18D148
+Um bom homem, o teu chefe! XXX
+// Arkhan3 L perso3
+L18D149
+Um bom homem, o teu chefe! XXX
+// Malfrat2 perso62
+L18D150
+De certeza. É melhor ser seu amigo que seu inimigo, podes acreditar. XXX
+// Arkhan2 O perso2
+L18D154
+Tu és o criado do Armal Sadak, não é assim? XXX
+// Arkhan3 O perso3
+L18D155
+Tu és o criado do Armal Sadak, eh? XXX
+// Malfrat2 perso62
+L18D156
+Pensa o que quiseres, que a mim tanto me faz... XXX
+// Arkhan2 O perso2
+L18D151
+Quem é o trapo que ressona ali em baixo? XXX
+// Arkhan3 O perso3
+L18D152
+Quem é o bêbado empedernido ali em baixo? XXX
+// Malfrat2 perso62
+L18D153A
+Já sabes que os nossos gostam de beber e comer. XXX
+// Malfrat2 perso62
+L18D153B
+E para repousar, deixam-se embalar pelo balanço etílico... XXX
+// Malfrat2 perso62
+L18D159
+Não, mete-te nos teus assuntos. XXX
+// Arkhan2 G perso2
+L18D184
+Queres um gole de Stohll? XXX
+// Arkhan3 G perso3
+L18D185
+Uma bebida? XXX
+// Malfrat2 perso62
+L18D186
+Não, a tua cara tira-me a vontade de tudo! XXX
+// Malfrat2 perso62
+L18D187
+Um pouco de Stohll, não digas que não. XXX
+// Malfrat2 (arrotando) perso62
+L18D188
+... Obrigado. XXX
+// Malfrat2 (acabou de beber) perso62
+L18D189
+Aaahhh... isso dá-te mais vontade de beber! XXX
+// Arkhan2 L perso2
+L18D12
+A que jogas? XXX
+// Arkhan3 L perso3
+L18D13
+A que jogas? XXX
+// Arkhan2 O perso2
+L18D15
+Que é esse jogo caseiro? XXX
+// Arkhan3 O perso3
+L18D16
+Que é esse jogo caseiro? XXX
+// Armal Sadak perso6
+L18D14A
+Isto é o jogo de Yong. XXX
+// Armal Sadak perso6
+L18D14B
+Já vejo que não és daqui. XXX
+// Arkhan2 L perso2
+L18D18
+Como se joga a esse jogo? XXX
+// Arkhan3 L perso3
+L18D19
+Como se joga? XXX
+// Arkhan2 O perso2
+L18D21
+Tenho a certeza que te consigo ganhar de olhos fechados! XXX
+// Arkhan3 O perso3
+L18D22
+Ganhar-te-ia de olhos fechados! XXX
+// Armal Sadak perso6
+L18D20A
+Não insistas. XXX
+// Armal Sadak perso6
+L18D20B
+Não tenho tempo a perder em conversas inúteis... XXX
+// Armal Sadak perso6
+L18D20C
+(Suspiro) XXX
+// Armal Sadak perso6
+L18D25
+Vejo que te envia um amigo comum. XXX
+// Arkhan2 G perso2
+L18D255
+Sim, eu falei... XXX
+// Arkhan3 G perso3
+L18D256
+Sim, é... XXX
+// Armal Sadak perso6
+L18D25A
+Não, não preciso de ouvir mais. XXX
+// Armal Sadak perso6
+L18D25B
+És bem-vindo aqui, é tudo. XXX
+// Armal Sadak perso6
+L18D25C
+E não faças perguntas... XXX

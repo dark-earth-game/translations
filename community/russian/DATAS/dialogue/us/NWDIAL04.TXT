@@ -1,0 +1,424 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL04.TXT
+ // Prisoner4 perso1
+L04D200
+ Ve, nw, jnflw]Ze! XXX
+// Prisoner2 perso1
+L04D201
+ J[ae lat~nfo, mgjhZe f s~lno! XXX
+// Prisoner4 perso1
+L04D202
+ Ve, ]w, nZh! &wkomndna hai|! XXX
+// Prisoner3 perso1
+L04D203
+ >Znfidmx, d_djn! Vnj o[derZ - mjbl~n bd]x~h! XXX
+// Prisoner3 perso1
+L04D212
+ Q-t! XXX
+// Arkhan2 G (annoyed, has just shot his adversary) perso3
+L04D61
+ KZf j s~h nw? XXX
+// Arkhan3 G (annoyed, has just shot his adversary) perso3
+L04D62
+ Pnj, au~ ia iZ_j? XXX
+// Arkhan2 G (surprised to find Kalhi in prison) perso2
+L04D01
+ CZgd! XXX
+// Arkhan3 G (surprised to find Kalhi in prison) perso3
+L04D02
+ CZgd! XXX
+// Kalhi (surprised) perso13
+L04D03A
+ #lqZi! Faobagd ynj nw?! XXX
+// Kalhi (happy) perso13
+L04D03B
+ Edgwe, | _ohZgZ, snj [jgxta ia o]dbo na[|! XXX
+// Kalhi (has just put on her clothes) perso33
+L04D04
+ Fakgjqj md_dn! XXX
+// Kalhi (determined) perso33
+L04D05
+ Fo ]m~! Lqj_dh! XXX
+// Kalhi (stunned, confused) perso13 
+L04D06A
+ #lqZi! Kw... nw kldt~g o[dnx hai|?.. XXX
+// Kalhi (stunned, confused) perso13
+L04D06B
+ Pnj iZ na[| iZtgj? XXX
+// Kalhi (almost in tears) perso13
+L04D06C
+ VnZ bonfZ| jnlZ]Z - jiZ kjhondgZ n]je oh! XXX
+// Kalhi (upset) perso13
+L04D07
+ #lqZi! FZh iobij d_nd! XXX
+// Kalhi (impatient) perso13
+L04D08
+ Pa^j _jbd_Zatxm|? XXX
+// Kalhi (surprised that Arkhan doesn't react) perso13
+L04D09
+ +Z ia mnje nw mnjg[jh! XXX
+// Prisoner2 perso1
+L04D204
+ &wkomndna hai| jnmz_Z! XXX
+// Guardian2 (weary) perso42
+L04D10A
+ Fo-fZ, nw, klaflZnd! XXX
+// Guardian2 perso42
+L04D10B
+ <u~ c]of kljdciam~tx, d cZfjisdtx m]jz hwmgx oba ^_a-id[o_x ] >ahg|q ElZfZ! XXX
+// Guardian2 (proud of having chased Arkhan away) perso42
+L04D11A
+ &d_Zgd?.. Iatdg ia _jbd_Znxm|, fj^_Z _Z_on _j[Z]fd! XXX
+// Guardian2 (proud of having chased Arkhan away) perso42
+L04D11B
+ N]Zndn iwnx nZh! XXX
+// Prisoner2 (excited) perso1
+L04D207
+ X qjso o]d_anx m]an! Gnkomndna! XXX
+// Guardian25 (yelling at the prisoners) perso93
+L04D15
+ Kdqj nw, hlZcx! XXX
+// Guardian25 (yelling at the prisoners) perso93
+L04D16
+ Lmkjfjenamx ]w nZh! XXX
+// Guardian25 (yelling at the prisoners) perso93
+L04D17
+ >Znfidnamx! XXX
+// Guardian25 (yelling at the prisoners) perso93
+L04D18A
+ >Znfidnamx, mfZcZg ]Zh! XXX
+// Guardian25 perso93
+L04D18B
+ >_amx [acjkZmiae, sah ] Fdbiah ^jlj_a, kld_olfd! XXX
+// Guardian25 perso93
+L04D18C
+ KZf snj cZnfidnamx! XXX
+// Guardian2 (challenging Arkhan) perso42
+L04D12
+ A_d, ]jcxhd hai|! X b_o na[|! XXX
+// Guardian2 (hears Arkhan arrive) perso42
+L04D13
+ KamqZi, ynj nw? XXX
+// Guardian2 (facing Arkhan) perso42
+L04D14A
+ $j^ JjgirZ klZ]a_iwe! XXX
+// Guardian2 (aggressive) perso42
+L04D14B
+ Fa ciZz, fZf nw non jsondgm|, ij na[a jnmz_Z ia ]wend! XXX
+// Guardian25 (threatening) perso93
+L04D20
+ Pnj, qjsatx au~? NZ... hZgj [wgj ] kal]we lZc?! XXX
+// Guardian25 (seeing Arkhan) perso93
+L04D19
+ Pnj au~, s~ln ]jcxhd... Vnj... j_iZ dc naq n]Zlae! XXX
+// Prisoner3 perso1
+L04D205
+ Cnj-nj iZkZg iZ jqlZiidfZ! XXX
+// Prisoner4 perso1
+L04D206
+ +Z! +Z]Ze! Hldfjisd a^j d ]wnZud iZm jnmz_Z! XXX
+// Prisoner3 perso1
+L04D208
+ &jn-]jn, komfZe kljgx~nm| flj]x! XXX
+// Prisoner4 perso1
+L04D209
+ Kw [w kjmnZ]dg iZ fj^j? XXX
+// Prisoner3 perso1
+L04D210A
+ Gnfo_Z hia ciZnx-nj, | dq _Zba ia ]dbo! XXX
+// Prisoner3 perso1
+L04D210B
+ Njso o]d_anx, fZf flj]x kljgx~nm|, d ]m~! XXX
+// Arkhan2 G perso2
+L04D23
+ Cnj c_amx? XXX
+// Arkhan3 G perso3
+L04D24
+ Kon fnj-id[o_x amnx? XXX
+// Konkalite (aggressive) perso76
+L04D60A
+ Eia non kj_]aliogm| n]je _lobjf >a_. XXX
+// Konkalite (aggressive) perso76
+L04D60B
+ Kakalx n]je sal~_! XXX
+// Prisoner2 perso1
+L04D211A
+ Vnj mij]Z ji! XXX
+// Prisoner1 (in a panic) perso1
+L04D213A
+ Gi o[dg j_ij^j cZfgzs~iij^j! X ynj ]d_ag! XXX
+// Prisoner1 (in a panic) perso1
+L04D213B
+ Gi kala[x~n iZm ]maq _j a_dij^j! XXX
+// Prisoner2 (freaked out) perso1
+L04D214
+ FZ kjhjux! GqlZiZ, jqlZiZ! XXX
+// Prisoner3 perso1
+L04D215
+ >Znfidmx! Kw kld]gas~tx a^j ]idhZida! XXX
+// Prisoner2 perso1
+L04D216
+ Hljto, kjuZ_d hai|! X ia qjso ohdlZnx, | idsa^j ia m_agZg! XXX
+// Prisoner4 perso1
+L04D217
+ X njba! X ia]dij]ai! XXX
+// Prisoner3 perso1
+L04D218
+ >Znfidna lnw! Eai| aho ia dmko^Znx! XXX
+// Prisoner4 perso1
+L04D219
+ Vnj fZfje-nj halcfde hjimnl - ji iZm mjbl~n bd]x~h! XXX
+// Prisoner2 perso1
+L04D220
+ X ia qjso ohdlZnx! Fa o[d]Ze hai|! XXX
+// Prisoner3 perso1
+L04D221
+ >Znfidmx, dgd | o[xz na[| mZh! XXX
+// Kalhi (afraid) perso33
+L04D41
+ #lqZi! Pnj iZtgj iZ na[|? XXX
+// Arkhan2 G perso2
+L04D25
+ DZ_ij! HjlZ ]w[dlZnxm| jnmz_Z! XXX
+// Arkhan3 G perso3
+L04D26
+ Kakalx iZh kjlZ ]w[dlZnxm| jnmz_Z. XXX
+// Kalhi perso33
+L04D27A
+ +Z, ij mnlZbd j^i| lZcwmfd]Zzn na[|. XXX
+// Kalhi perso33
+L04D27B
+ FZh [o_an mgjbij ia kjkZmnxm|. XXX
+// Arkhan2 G (amused by Kalhi in uniform) perso2
+L04D28A
+ Kw ] ynje pjlha... Fo d ]d_jf! XXX
+// Arkhan2 G (amused by Kalhi in uniform) perso2
+L04D28B
+ # amgd Ma_jldd ia kj ilZ]o, nZf ynj njgxfj a~ klj[gahw! XXX
+// Arkhan3 G (amused by Kalhi in uniform) perso3
+L04D29
+ Fo sdmnj... mnlZb j^i|! XXX
+// Kalhi perso33
+L04D30
+ N]Zndn hai| kj_fZgw]Znx! A_~h! XXX
+// Arkhan2 G perso2
+L04D31
+ JiZsZgZ hw ]we_~h ] cZg. KZh kjmhjnldh, hjbij gd mkomndnxm|. XXX
+// Arkhan3 G perso3
+L04D32
+ Jga_oe cZ hije. Ew d_~h ] ^gZ]iwe cZg. XXX
+// Kalhi (ironical) perso33
+L04D33
+ CZf [o_an o^j_ij, [jmm! XXX
+// Arkhan2 G perso2
+L04D34
+ &d_dtx yno tnofo? XXX
+// Arkhan3 G perso3
+L04D35
+ Vnj ]d_dtx? XXX
+// Kalhi perso33
+L04D36
+ L^o. A_~h... XXX
+// Arkhan2 O perso2
+L04D37
+ +al~txm|, fZf nlom! XXX
+// Arkhan2 L perso2
+L04D38
+ Ve, Z nw hjbatx cZ ma[| kjmnj|nx, ]alij?! XXX
+// Arkhan3 O perso3
+L04D39
+ Gq ob... IZc]a nZf _alonm|?! XXX
+// Arkhan3 L perso3
+L04D40
+ Ve, Z nw d ]kl|hx ohaatx _lZnxm|, ]alij? XXX
+// Kalhi (forced to defend herself) perso33
+L04D43
+ #lqZi, ian! XXX
+// Kalhi (frightened) perso33
+L04D42
+ Fan, #lqZi! Kw _jgbai omnj|nx! XXX
+// Guardian2 (triumphant) perso42
+L04D21
+ Jgdci|f! $abdtx kljsx? XXX
+// Guardian25 (chases Arkhan off) perso93
+L04D22
+ #-Z, ia iZ nj^j iZkZg, hjimnl! XXX
+// Arkhan2 G perso2
+L04D44
+ Vnj ia njn fgzs! XXX
+// Arkhan3 G perso3
+L04D45
+ Fa njn fgzs! XXX
+// Kalhi (hears Arkhan on other side of door) perso13
+L04D46
+ Hjhj^dna! &wkomndna hai|! XXX
+// Konkalite6 perso76
+L04D47A
+ Gnflw]Ze _]alx! +g| na[| fja-snj amnx... XXX
+// Konkalite6 perso76
+L04D47C
+ L ynj^j s~lnj^j mnlZbZ j^i| amnx fgzs. XXX
+// Arkhan2 G perso2
+L04D51A
+ Fj fZf nw jfZcZgZmx ] nahidra? XXX
+// Arkhan3 G perso3
+L04D52A
+ Cnj jnklZ]dg na[| cZ lat~nfo? XXX
+// Kalhi perso13
+L04D53A
+ Vnj mnlZbd j^i| - jid mq]Zndgd hai| o IdgmZ_ZlZ _jhZ. XXX
+// Arkhan2 G perso2
+L04D51B
+ A jid jmnZ]dgd na[a ijb? XXX
+// Arkhan2 G perso2
+L04D51C
+ &jn ynj mnlZbZ o iZm! XXX
+// Arkhan3 G perso3
+L04D52B
+ Fj jid ia cZ[lZgd n]je ijb?! Njljtd! XXX
+// Kalhi perso13
+L04D53B
+ Gid mfZcZgd, IdgmZ_Zl fZf klj]Zgdgm|, d non dh ] ]c[lagj, snj | hj^o f ynjho [wnx kldsZmniZ. XXX
+// Kalhi perso13
+L04D53C
+ X qjnagZ j[v|midnx, ij jid cZkalgd hai|, _Zba ia ]wmgotZ]. XXX
+// Arkhan2 L perso2
+L04D54
+ A snj ]m~ ynj ciZsdn? XXX
+// Arkhan3 L perso3
+L04D55
+ A snj ]m~ ynj ciZsdn? XXX
+// Kalhi perso13
+L04D56A
+ Fa dhaz id hZgaeta^j kla_mnZ]gaid|... XXX
+// Kalhi perso13
+L04D56B
+ X [jzmx, m IdgmZ_Zljh kljdcjtgj snj-nj mf]alija. XXX
+// Arkhan2 O (aggressive) perso2
+L04D57
+ CZf dh o_Zgjmx na[| mrZkZnx? XXX
+// Arkhan3 O (aggressive) perso3
+L04D58
+ *gokj nZf kjkZmnxm|! XXX
+// Kalhi (irritated) perso13
+L04D59
+ # snj | au~ hj^gZ? >Zna|nx _lZfo, snj[w jid hai| o[dgd? XXX
+// Arkhan2 G perso2
+L04D63A
+ Fo, m hjdh-nj gdrjh mhatZnxm| m njgkje _j]jgxij iakljmnj. XXX
+// Arkhan2 G perso2
+L04D63B
+ +Z d n]jd gjqhjnx|... ]w_ag|znm| kj s~h cl|. XXX
+// Arkhan3 G perso3
+L04D64A
+ Hjljb_aida ElZfZ d homjludrZ... XXX
+// Arkhan3 G perso3
+L04D64B
+ Ew hZgjmnx ]w_Z~hm|! XXX
+// Kalhi perso13
+L04D65
+ Hjmga nj^j, snj nw m_agZg m nzlahudfjh, ]l|_ gd a^j pjlhZ kjhjban iZh... XXX
+// Arkhan2 G perso2
+L04D66
+ Fa jnmnZ]Ze jn hai| id iZ tZ^, kji|gZ? XXX
+// Arkhan3 G perso3
+L04D67
+ Jga_oe cZ hije! XXX
+// Kalhi perso13
+L04D68
+ Njljtj. XXX
+// Arkhan2 G perso2
+L04D69A
+ Hjmhjnld! G_iZ dc mnZlwq oidpjlh $j^_ZlZiZ... XXX
+// Arkhan2 G perso2
+L04D69B
+ Gi ] na ]lahaiZ au~ [wg qo_wh! XXX
+// Arkhan3 G perso3
+L04D70
+ Fo-fZ, kldhalx! XXX
+// Kalhi (preparing to put on a uniform) perso13
+L04D71
+ Hjsaho [w d ian... XXX
+// Arkhan2 G perso2
+L04D72A
+ MlZ^hain qlomnZgxij^j fgzsZ! XXX
+// Arkhan2 G perso2
+L04D72B
+ Hj_jijf, _jgbij [wnx, oflZg a^j o >a_Z! XXX
+// Arkhan3 G perso3
+L04D73A
+ G[gjhjf fgzsZ! XXX
+// Arkhan3 G perso3
+L04D73B
+ Hj_jijf, _jgbij [wnx, oflZg a^j o >a_Z! XXX
+// Prisoner1 perso1
+L04D222
+ Ve, fnj ynj nZh jnflw]Zan _]alx? XXX
+// Prisoner1 (frightened) perso1
+L04D223
+ Cnj ynj? Pnj kljdmqj_dn? XXX
+// Prisoner3 perso1
+L04D224
+ Vnj hjimnl... >Zkldna _]alx! XXX
+// Prisoner1 (in a panic) perso1
+L04D225
+ Fa ]komfZena a^j! X idsa^j ia m_agZg, | ia qjso ohdlZnx! XXX
+// Prisoner2 (hopeful) perso1
+L04D226A
+ Ve, nw! &wkomnd hai| jnmz_Z! JgjhZe lat~nfo! XXX
+// Prisoner2 perso1
+L04D226B
+ L ynj^j mnlZbZ ian fgzsZ, _Z [jgxij iobai ji na[a, klZ]_Z? XXX
+// Prisoner2 perso1
+L04D226C
+ Ka[a ba q]Zndn mdg~ijf, snj[w klonx| mgjhZnx, Z? XXX
+// Prisoner2 perso1
+L04D227
+ Ve, o[dlZem| jnmz_Z! A ] nzlxha sagj]af oba ia hjban kj[wnx ] kjfja? XXX
+// Prisoner3 perso1
+L04D228
+ Ejgsd, Z nj nw a^j lZcjcgdtx... XXX
+// Prisoner2 perso1
+L04D229
+ Gi iZm ia nljian! Iat~nfZ flakfZ, ]a_x nZf? XXX
+// Arkhan2 L perso2
+L04D80
+ Ve, ye, ye! Jkjfjeij! XXX
+// Arkhan2 O perso2
+L04D81
+ Fa jnje_~tx - ohl~tx! XXX
+// Konkalite 76 (jumps at Arkhan) perso76
+L04D88
+ Hjl]o ] gjmfonw, s~lnj] olj_! XXX
+// Arkhan2 L perso2
+L04D84
+ X ia bagZz na[a cgZ! XXX
+// Arkhan3 L perso3
+L04D82
+ X na[| ia nljio. X ia bagZz na[a cgZ! XXX
+// Arkhan2 O perso2
+L04D86
+ =ZgfZ| flwmZ! XXX
+// Arkhan3 O perso3
+L04D83
+ &jizsZ| flwmZ! XXX
+// Arkhan2 G perso2
+L04D99
+ <^j pjlhZ kjl]ZiZ ] fgjsx|... FZ ]w[ljm... XXX
+// Arkhan3 G perso3
+L04D100
+ <^j pjlhZ... ] fgjsx|. FZ ]w[ljm. XXX
+// Arkhan2 G perso2
+L04D95A
+ Jkgjtx fZhaix. XXX
+// Arkhan2 G perso2
+L04D95B
+ Koiiagx kljlwnx ialaZgxij... XXX
+// Arkhan3 G perso3
+L04D96
+ CZhaix. Ejbij cZ[wnx j noiiaga! XXX
+// Arkhan2 G perso2
+L04D97
+ Kon idsa^j ian, fljha cZmnj|]taem| ]j_w. XXX
+// Arkhan3 G perso3
+L04D98
+ >Zmnj|]tZ|m| ]j_Z... XXX

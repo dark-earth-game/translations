@@ -1,0 +1,145 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL37.TXT
+ // Arkhan2 G perso2 (from inside helmet)
+L37D01A
+ Vnj ]iatide hdl! XXX
+// Arkhan2 G perso2 (from inside helmet)
+L37D01B
+ X ]w[lZgm| cZ kla_agw mnZggZenZ. XXX
+// Arkhan3 G perso3 (from inside helmet)
+L37D02A
+ &iatide hdl! XXX
+// Arkhan3 G perso3 (from inside helmet)
+L37D02B
+ X ]w[lZgm| dc mnZggZenZ. XXX
+// Arkhan2 G perso2 (from inside helmet)
+L37D03
+ Gi mgdtfjh n|b~gwe. Fobij a^j mi|nx. XXX
+// Arkhan3 G perso3
+L37D04
+ Jgdtfjh n|b~gwe. +jgje a^j! XXX
+// Arkhan2 G (seeing a creature)perso2
+L37D01C
+ Hjqjba, fnj-nj kj_bd_Zg hai|! XXX
+// Arkhan3 G (seeing a creature)perso3
+L37D02C
+ CZbanm|, o iZm fjhkZid|! XXX
+// Arkhan2 G perso2
+L37D05
+ Kon ^go[jfj... +Zgxta gosta ia cZqj_dnx. XXX
+// Arkhan3 G perso3
+L37D06
+ *go[jfj... Fa kje_o. XXX
+// Arkhan2 G perso2
+L37D07
+ Gnmz_Z ]d_iw fZcZlhw d flakjmniwa mnaiw mnZggZenZ. XXX
+// Arkhan3 G perso3
+L37D08
+ Gnmz_Z ]d_iw oflakgaid| d fZcZlhw. XXX
+// Arkhan2 G perso2
+L37D09
+ >_amx ]qj_ ] kaualo! XXX
+// Arkhan3 G perso3
+L37D10
+ HaualZ! XXX
+// Arkhan2 G (in deeper water)perso2
+L37D11
+ $o_an gosta mj tgahjh... XXX
+// Arkhan3 G (in deeper water)perso3
+L37D12
+ Dosta mij]Z iZ_anx ynjn tgah... XXX
+// Arkhan2 L perso2
+L37D13A
+ Hjgosdg?! XXX
+// Arkhan2 L perso2
+L37D13B
+ $jdtxm| nj^j, snj ] kauala? XXX
+// Arkhan2 O perso2
+L37D14
+ Gn mnlZqZ jfZhaiag, ]alij, ^id_Z? XXX
+// Arkhan3 L perso3
+L37D15A
+ JnlZtij, Z? XXX
+// Arkhan3 L perso3
+L37D15B
+ Pnj, kaualiwe mnlZq?! XXX
+// Arkhan3 O (enraged) perso3
+L37D16
+ A_d mz_Z! +aldmx! XXX
+// Arkhan2 G perso2
+L37D17
+ A_d mz_Z! X njba fj^ndmn! XXX
+// Arkhan3 G perso3
+L37D18
+ +Z]Ze, hjimnl! XXX
+// Arkhan2 L perso2
+L37D19A
+ Pnj ynj [wgj? Pagj]af dgd c]alx? XXX
+// Arkhan2 L perso2
+L37D19B
+ Dosta iZend gafZlmn]j, klab_a sah mnZio nZfdh ba njsij! XXX
+// Arkhan3 L perso3
+L37D20A
+ Pnj ynj [wgj... Pagj]af? >]alx? XXX
+// Arkhan3 L perso3
+L37D20B
+ Fobij ]wc_jlj]anx... X ia qjso [wnx nZfdh... XXX
+// Arkhan2 O perso2
+L37D21
+ Ealcfde hjimnl! XXX
+// Arkhan3 O perso3
+L37D22
+ Ealcfde hjimnl! XXX
+// Arkhan2 L perso2
+L37D23
+ Fo fnj [ hj^ kj_ohZnx. Kw ia gz[dtx ]j_drw! $jdtxm|, jiZ mhjan ^l|cx? XXX
+// Arkhan3 L perso3
+L37D24
+ $jdtxm| ]j_drw, Z? XXX
+// Arkhan2 L perso2
+L37D25A
+ G, ynjn ^Z_ [wg ia kljmn! XXX
+// Arkhan2 L perso2
+L37D25B
+ <mgd *lj[idro ia iZe_o, iZmagaida mnZggZenZ iZ]ma^_Z dmsacian! XXX
+// Arkhan3 L perso3
+L37D26A
+ *Z_! XXX
+// Arkhan3 L perso3
+L37D26B
+ =d]ae, ia nj hjimnlw mhanon ]amx mnZggZen. XXX
+// Arkhan2 G perso2
+L37D27
+ >_amx njgxfj lbZ]we hanZggjgjh... XXX
+// Arkhan3 G perso3
+L37D28
+ IbZ]we hanZggjgjh... XXX
+// Arkhan2 G perso2
+L37D29
+ +Zba +Zildm ]l|_ gd dmklZ]dg [w nZfje qgZh. XXX
+// Arkhan2 G perso2
+L37D31
+ Pnj b cZ c]alz^Z, snj nZfda fjmnd? XXX
+// Arkhan3 G perso3
+L37D32
+ >]aldiwa fjmnd... bonx... XXX
+// Arkhan2 G perso2
+L37D33A
+ Jga_w hjsd iZ cahga... XXX
+// Arkhan2 G perso2
+L37D33B
+ A c]aldiZ| ]jix. XXX
+// Arkhan3 G perso3
+L37D34
+ EjsZ iZ cahga... Fo d ]jix! XXX
+// Arkhan2 G (finding the remains of a fish)perso2
+L37D35
+ # ynj [wg sae-nj j[a_... XXX
+// Arkhan3 G (finding the remains of a fish)perso3
+L37D36
+ G[va_fd... XXX
+// Arkhan2 G perso2
+L37D37
+ Po_ij, mnaiZ ^jl|sZ|... XXX
+// Arkhan3 G perso3
+L37D38
+ X soz bZl. XXX

@@ -1,0 +1,643 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL02.TXT
+ // Zed perso84
+L02D01
+ Ve, #lqZi! HjmgotZe... XXX
+// Zed perso84
+L02D02A
+ Pnj? Pnj mgosdgjmx m n]jae oidpjlhje? XXX
+// Zed perso84
+L02D02B
+ Hljfg|nxa nxhw! >Ze_d ]ionlx d j_aixm|! XXX
+// Zed perso84
+L02D02C
+ <mgd fjhai_Zin +jlfZi o]d_dn iZ na[a ynjn iZl|_, [dgan ] j_di fjiar ] nahidro na[a j[amkasai! XXX
+// Zed perso84
+L02D03A
+ #lqZi, io iZfjiar-nj! XXX
+// Zed perso84
+L02D03B
+ HjmgotZe, hia iobij d_nd... HjlZ iZsdiZnx nlaidlj]fo. XXX
+// Zed perso84
+L02D03C
+ CZkdnZi Ma_jld| b_~n hai|. GiZ, fZf dc]amnij, ia mZhwe nalkagd]we sagj]af iZ m]ana. XXX
+// Zed perso84
+L02D03D
+ <mgd bagZatx, hjbatx fj hia kldmja_didnxm|. XXX
+// Zed perso84
+L02D03E
+ Vnj n]je tZim. Jj mga_ozudh ]jmqj_jh $j^Z JjgirZ | mij]Z jn[w]Zz ] yfmka_drdz ] >ahgd ElZfZ. XXX
+// Zed (satisfied) perso84
+L02D03Z
+ Lba gosta. Hj flZeiae hala, kldmnjeiaa! XXX
+// Zed84 perso84
+L02D666A
+ #lqZi! Pnj cZ [am ] na[| ]magdgm|?! XXX
+// Zed84 perso84
+L02D666B
+ Kw... Kw o[dg naq _]jdq mnlZbae j^i|! XXX
+// Arkhan1 L (tries to stop Zed) perso1
+L02D667
+ >a_, kjmgotZe hai|, |... XXX
+// Arkhan1 O (threatens Zed) perso1
+L02D668
+ +Z! A nw mga_ozude! XXX
+// Zed84 (getting ready to shoot Arkhan) perso84
+L02D669
+ Hljmnd, _lo^... L hai| ian ]w[jlZ! XXX
+// Kalhi perso33
+L02D70A
+ Gmnjljbij! +Zgxta iZsdiZznm| nlo_ijmnd! XXX
+// Kalhi perso33
+L02D70B
+ Hldfdixm| hjdh kgaiidfjh. +jgbij mlZ[jnZnx... XXX
+// Guardian17 perso57
+L02D107
+ Ma_jld|! XXX
+// Phedoria perso26
+L02D217
+ #lqZi, nw kj_gwe kla_Znagx! XXX
+// Arkhan1 L perso1
+L02D105
+ Cjhai_Zin +jlfZi! XXX
+// Arkhan1 O perso1
+L02D106
+ Cjhai_Zin! XXX
+// Dhorkan perso11
+L06D05C
+ &agdfZ| klj]d_drZ Djld omnlZd]Zan ]Zbioz ]mnlaso ] qlZha $j^Z JjgirZ. XXX
+// Dhorkan perso11
+L06D05D
+ Ka[a kjlosaij jqlZi|nx _]ald >ZgZ Jj]anZ. XXX
+// Dhorkan perso11
+L06D05E
+ JnlZb +ba_Zl oba b_~n na[|. XXX
+// Dhorkan perso11
+L06D05F
+ Jkomndmx d cZehd m]je kjmn _j kj|]gaid| &agdfje klj]d_drw. XXX
+// Kalhi (has just put on her clothes) perso33
+L04D04
+ # iakgjqj md_dn! XXX
+// Kalhi (determined) perso33
+L04D05
+ Fo ]m~! HjlZ _]d^Znxm|! XXX
+// Kalhi (worried to see Arkhan leave) perso33
+L02D65A
+ #lqZi, snj nw _agZatx? XXX
+// Kalhi perso33
+L02D65C
+ $o_x jmnjljbai! XXX
+// Kalhi (stunned) perso13
+L08D335A
+ Kw... nw ]aliogm| hai| kldfjisdnx? XXX
+// Kalhi (stunned) perso13
+L08D335B
+ Pnj cZmnZ]dgj na[| ynj m_agZnx? XXX
+// Kalhi (close to tears) perso13
+L08D335C
+ VnZ iZkZmnx kjhondgZ n]je oh! XXX
+// Kalhi (upset) perso13
+L04D07
+ #lqZi! FZh iobij d_nd! XXX
+// Kalhi (impatient) perso13
+L04D08
+ Pa^j _jbd_Zatxm|? XXX
+// Kalhi (surprised that Arkhan doesn't react) perso13
+L04D09
+ +Z ia mnje nw mnjg[jh! XXX
+// Kalhi perso13
+L02D500
+ X kj_jb_o c_amx. XXX
+// Arkhan2 G perso2
+L02D501
+ Hj_jb_d hai|. XXX
+// Arkhan3 G perso3
+L02D502
+ Hj_jb_d. XXX
+// Guardian19 perso59
+L02D67
+ Jnje nZh, ^_a mnjdtx! XXX
+// Guardian19 perso59
+L02D68
+ Njljtj, #lqZi, hjbatx kljend. XXX
+// Guardian19 perso59
+L02D69
+ Fa kld[gdbZem|! XXX
+// Guardian18 perso58
+L02D110
+ Jnje, mnlag|nx [o_o! XXX
+// Dhorkan perso11
+L02D50
+ #lqZi, kjmnje! XXX
+// Guardian19 perso59
+L02D97
+ Fan! Kw oba ia #lqZi nakalx! XXX
+// Arkhan2 L perso2
+L02D84A
+ Xi, omkjfjem|, ynj |, #lqZi. XXX
+// Arkhan2 L perso2
+L02D84B
+ X na[a ia ]lZ^, _Ze hia kljend. XXX
+// Arkhan3 L perso3
+L02D85A
+ Xi, ynj |, #lqZi. XXX
+// Arkhan3 L perso3
+L02D85B
+ +Ze kljend. XXX
+// Arkhan2 O perso2
+L02D86
+ X mfZcZg, _Ze kljend! XXX
+// Arkhan3 O (grumbles threateningly) perso3
+L02D87
+ Ka[a gosta jnjend. XXX
+// Guardian19 perso59
+L02D88
+ #lqZi! Vnj nw? Pnj mgosdgjmx m nj[je? XXX
+// Arkhan2 G (bitter) perso2
+L02D89A
+ Fa[jgxtje kj_Zljf jn naq n]Zlae, snj kwnZgdmx o[dnx &agdfoz klj]d_dro! XXX
+// Arkhan2 G perso2
+L02D89B
+ A amgd | ia iZe_o kljnd]j|_d|, ynZ _l|ix hai| kldfjisdn! XXX
+// Arkhan3 G perso3
+L02D90A
+ Ka, snj iZkZgd iZ Djld, jnlZ]dgd hai|. XXX
+// Arkhan3 G perso3
+L02D90B
+ $ac kljnd]j|_d|... | nlok! XXX
+// Guardian19 perso59
+L02D91A
+ X na[a ]alz, #lqZi. XXX
+// Guardian19 perso59
+L02D91B
+ Cnj [w snj id [jgnZg, | ]m~ au~ ]alz ] na[|. XXX
+// Guardian19 perso59
+L02D91C
+ <mgd qjsatx ]jend - ]Zg|e... XXX
+// Arkhan2 G perso2
+L02D92
+ JkZmd[j, Xi! JkZmd[j j^ljhija! XXX
+// Guardian19 perso59
+L02D94
+ Fa [gZ^j_Zld. X kjmnokZz, fZf ]agdn hia _jg^. XXX
+// Arkhan2 G perso2
+L02D95
+ Xi, q]Zndn! XXX
+// Arkhan3 G perso3
+L02D96
+ (qldkgj lwsdn) XXX
+// Zed (cutting him off) perso84
+L02D81
+ Fo ]m~, hje _lo^, _j]jgxij mgj]. Hj[ala^d mdgw _g| nlaidlj]fd, qjljtj? XXX
+// Arkhan1 G (calling Zed as he leaves) perso1
+L02D71
+ >a_, kjmnje! XXX
+// Arkhan1 L (worried) perso1
+L02D72
+ Kw... Kw mij]Z d_~tx ] >ahgd ElZfZ? Pnj kljdmqj_dn? XXX
+// Zed (reassuring) perso84
+L02D73A
+ Fa nla]jbxm|, mnlZb j^i|, mnaiw iZta^j mnZggZenZ cZudn|n iZm. XXX
+// Zed perso84
+L02D73B
+ A amgd | kjfd_Zz kla_agw yndq m]|nwq mnai, nj gdtx m nje ragxz, snj[ o[alasx mnZggZen. XXX
+// Zed perso84
+L02D73C
+ Vnj hje _jg^. XXX
+// Arkhan1 L perso1
+L02D74
+ X ciZz, hje _lo^, ij | nla]jbomx cZ na[| ] fZb_we n]je jnvac_. XXX
+// Zed perso84
+L02D75
+ Fa ]jgioem| cZ hai|, #lqZi - $j^ JjgirZ kldmhjnldn cZ hije! XXX
+// Arkhan1 O (worried) perso1
+L02D76
+ Kw d_~tx ] >ahgd ElZfZ! Ka[a ia ]alionxm| bd]wh! XXX
+// Zed perso84
+L02D77
+ #lqZi, ian idsa^j _g| hai| ]Zbiae, sah o[alasx mnZggZen jn [a_w. XXX
+// Arkhan1 O perso1
+L02D78A
+ X ciZz, nw ^alje, d ]ma nj[je ]jmqduZznm|... XXX
+// Arkhan1 O perso1
+L02D78B
+ Fj | [w ia qjnag, snj[w nw j[lZndgm| ] ga^ai_o. XXX
+// Arkhan1 O perso1
+L02D78C
+ >Z ynj kld_~nm| ohalanx, ]jn sa^j ynj mnjdn! XXX
+// Arkhan1 G perso1
+L02D80
+ A nw _ohZatx, snj... XXX
+// Zed (attacked by Arkhan) perso84
+L02D82
+ Hljfg|nxa nxhw, #lqZi! +Z snj m nj[je?! Lehdmx ba! XXX
+// Zed (shooting Arkhan) perso84
+L02D83
+ Kw ia jmnZ]dg hia ]w[jlZ! XXX
+// Guardian17 perso57
+L02D41
+ JZh iZkljmdgm|! XXX
+// Arkhan1 L perso1
+L02D04
+ Hld]an, Eog_Zl. Eia iobai fjhai_Zin +jlfZi. XXX
+// Guardian17 perso57
+L02D05
+ >Zsah na[a fjhai_Zin? XXX
+// Arkhan1 L perso1
+L02D06
+ X _jgbai kjgosdnx kldfZcZid|. XXX
+// Arkhan1 L perso1
+L02D07
+ Eia iobij cZ_Znx kZlo ]jkljmj]. XXX
+// Guardian17 perso57
+L02D08
+ Cjiasij. >Zqj_d. XXX
+// Arkhan1 L perso1
+L02D66
+ G, kljmnd, | kji|g. Hjqjba, | ma^j_i| ia m nje ij^d ]mnZg. XXX
+// Guardian17 perso57
+L02D09
+ Fo, nakalx nw kj-_lo^jho cZkag... nZf-nj gosta! XXX
+// Arkhan1 L perso1
+L02D10
+ +Z kla[o_an m nj[je J]an, _lo^! XXX
+// Guardian17 perso57
+L02D103
+ +Z kla[o_an m nj[je J]an, #lqZi. XXX
+// Arkhan1 L perso1
+L02D11
+ X oba kj_qj_dg... XXX
+// Guardian17 perso57
+L02D12
+ DZ_ij, cZqj_d! XXX
+// Arkhan1 O perso1
+L02D13
+ +Ze kljend! XXX
+// Guardian17 perso57
+L02D14
+ Ka[a iobai fjhai_Zin? XXX
+// Arkhan1 O perso1
+L02D15
+ Fa n]j~ _agj. # io, kjmnjljidmx! XXX
+// Guardian17 (ruffled) perso57
+L02D16
+ +g| iZsZgZ mhaid nji, mnlZb j^i|, Z nZh kjmhjnldh, snj f saho. XXX
+// Arkhan1 O perso1
+L02D19
+ Hljfg|nxa nxhw! # io, kjmnjljidmx! XXX
+// Guardian17 (angry) perso57
+L02D20A
+ J fZfdq kjl nw non iZsZg lZmkjl|bZnxm|?! XXX
+// Guardian17 (angry) perso57
+L02D20B
+ Kw ]lj_a duatx _lZfd? Pnj b, lZ_ kjhjsx! XXX
+// Arkhan1 O perso1
+L02D17
+ <u~ j_di _aix iZ kjmno kljkZ_Zan! XXX
+// Guardian17 perso57
+L02D18
+ Hjndta! <mgd +jlfZi omgwtdn na[|, jnklZ]dtxm| cZ lat~nfo! XXX
+// Arkhan2 L perso2
+L02D21
+ JgotZe, Eog_Zl, hia jsaix iobai +jlfZi. XXX
+// Arkhan3 L perso3
+L02D22
+ Hljkomnd. Vnj ]Zbij! XXX
+// Guardian17 perso57
+L02D23
+ L hai| s~nfde kldfZc. Kw ia hjbatx ]jend! XXX
+// Arkhan2 L perso2
+L02D24
+ HjmgotZe hai|! &a_x | ]Zh ia ]lZ^ mj]mah. X _jgbai ]d_anx +jlfZiZ! XXX
+// Arkhan3 L perso3
+L02D25
+ (lZc_lZb~iij lwsdn) Vnj ]jkljm bdcid d mhalnd! XXX
+// Guardian17 perso57
+L02D26
+ Fan. <mgd | iZloto kldfZc, hia c_jlj]j ]gandn! XXX
+// Guardian17 perso57
+L02D27
+ Fd cZ snj. X na[| ia ]kouo. Hj flZeiae hala, m jlobdah ] lofZq. XXX
+// Arkhan2 L perso2
+L02D28
+ Hljkomnd! Cg|iomx $j^jh JjgirZ, | ia kldsdiz [amkjfjemn]Z! XXX
+// Arkhan3 L perso3
+L02D29
+ X qjso gdtx kj^j]jldnx m +jlfZijh, fg|iomx na[a! XXX
+// Guardian17 perso57
+L02D30
+ Ac o]Zbaid| f njho, fah nw fj^_Z-nj [wg, | ^jnj] na[a kj]aldnx. XXX
+// Guardian17 perso57
+L02D31
+ X ^jnj] na[a kj]aldnx... njgxfj jlobda m]j~ o[ald! XXX
+// Arkhan2 L perso2
+L02D32
+ Eog_Zl, ohjg|z na[|... XXX
+// Arkhan3 L perso3
+L02D33
+ Eog_Zl, _Ze kljend! XXX
+// Guardian17 perso57
+L02D35A
+ Jfjgxfj au~ lZc | _jgbai na[a kj]njldnx? XXX
+// Guardian17 perso57
+L02D35B
+ Kw ia hjbatx ]jend f fjhai_Zino m jlobdah ] lofZq! XXX
+// Arkhan2 O perso2
+L02D36
+ # io, kjmnjljidmx, ^Z_! X qjso ]d_anx +jlfZiZ! XXX
+// Arkhan3 O perso3
+L02D37
+ +]d^Ze! XXX
+// Guardian17 perso57
+L02D38
+ Fo, ob ian! XXX
+// Arkhan2 O perso2
+L02D39
+ # io, kljsx m hja^j kond, dgd | lZchZbo n]jd hjc^d kj ynje _]ald! XXX
+// Arkhan3 O perso3
+L02D40
+ (]wcw]Zzua lwsdn) XXX
+// Arkhan2 G perso2
+L02D42
+ X ]aliomx... XXX
+// Arkhan3 G perso3
+L02D43
+ X ]aliomx... XXX
+// Arkhan1 G perso1
+L02D44
+ Lmkjfjem|! XXX
+// Arkhan2 G perso2
+L02D45
+ HlaflZnd! XXX
+// Arkhan3 G perso3
+L02D46
+ N]Zndn! XXX
+// Arkhan1 O perso0
+L01D176
+ (lwsdn) XXX
+//Arkhan2 O perso2
+L01D177
+ (lwsdn) XXX
+//Arkhan3 O perso3
+L01D178
+ (lwsdn) XXX
+// Arkhan2 G perso2
+L02D47
+ Ew kjsnd iZ hamna... XXX
+// Arkhan3 G perso3
+L02D48
+ Fo ]jn d ]m~... XXX
+// Delia perso10
+L02D49
+ Gngdsij! XXX
+// Delia (Arkhan shows her an object) perso10
+L02D104
+ Fan. Hljto, kjnjljkdmx... XXX
+// Arkhan2 L (has fought with Delia) perso2
+L45D01
+ N]Zndn, +agd|. Lmkjfjem|! XXX
+// Arkhan2 O (has fought with Delia) perso2
+L45D02
+ Njsatx au~, _l|ix?! XXX
+// Arkhan3 L (has fought with Delia) perso3
+L45D03
+ N]Zndn! XXX
+// Delia (hit by Arkhan) perso10
+L45D04
+ Pnj ynj iZtgj iZ na[|?! XXX
+// Kalhi (afraid) perso33
+L04D41
+ #lqZi! Pnj iZtgj iZ na[|? XXX
+// Arkhan2 G perso2
+L04D51A
+ Fj fZf nw jfZcZgZmx ] nahidra? XXX
+// Arkhan3 G perso3
+L04D52A
+ Cnj jnklZ]dg na[| cZ lat~nfo? XXX
+// Kalhi perso13
+L04D53A
+ Vnj mnlZbd j^i| - jid mq]Zndgd hai| o IdgmZ_ZlZ _jhZ. XXX
+// Arkhan2 G perso2
+L04D51B
+ A jid jmnZ]dgd na[a ijb? XXX
+// Arkhan2 G perso2
+L04D51C
+ &jn ynj mnlZbZ o iZm! XXX
+// Arkhan3 G perso3
+L04D52B
+ Fj jid ia cZ[lZgd n]je ijb?! Njljtd! XXX
+// Kalhi perso13
+L04D53B
+ JfZcZgd, snj IdgmZ_Zl fZf klj]Zgdgm|, d non dh ] ^jgj]o ]c[lagj, snj | kldsZmniZ f ynjho. XXX
+// Kalhi perso13
+L04D53C
+ X qjnagZ j[v|midnx, ij jid cZkalgd hai|, _Zba ia ]wmgotZ]. XXX
+// Arkhan2 L perso2
+L04D54
+ A snj ]m~ ynj ciZsdn? XXX
+// Arkhan3 L perso3
+L04D55
+ A snj ]m~ ynj ciZsdn? XXX
+// Kalhi perso13
+L04D56A
+ Fa dhaz id hZgaeta^j kla_mnZ]gaid|. XXX
+// Kalhi perso13
+L04D56B
+ X [jzmx, m IdgmZ_Zljh kljdcjtgj snj-nj mf]alija. XXX
+// Arkhan2 O (aggressive) perso2
+L04D57
+ CZf dh o_Zgjmx na[| mrZkZnx? XXX
+// Arkhan3 O (aggressive) perso3
+L04D58
+ *gokj nZf kjkZmnxm|! XXX
+// Kalhi (irritated) perso13
+L04D59
+ # snj | au~ hj^gZ? >Zna|nx _lZfo, snj[w jid hai| o[dgd? XXX
+// Arkhan2 G perso2
+L04D63A
+ Fo, m hjdh-nj gdrjh mhatZnxm| m njgkje _j]jgxij iakljmnj. XXX
+// Arkhan2 G perso2
+L04D63B
+ +Z d n]jd gjqhjnx|... ]w_ag|znm| kj s~h cl|. XXX
+// Arkhan3 G perso3
+L04D64A
+ Hjljb_aida ElZfZ d homjludrZ... XXX
+// Arkhan3 G perso3
+L04D64B
+ Ew hZgjmnx ]w_Z~hm|! XXX
+// Kalhi perso13
+L02D108
+ Vq, amgd [ nw ia dmfljhmZg iZ nzlahudfa oidpjlho... XXX
+// Arkhan2 G (somber) perso2
+L02D101A
+ >_amx ia mgdtfjh hij^jgz_ij... # ]jn ]idco iZm b_on klj[gahw. XXX
+// Arkhan3G (somber) perso3
+L02D101B
+ >_amx-nj ]m~ ndqj-hdlij... Hlj[gahw [o_on ynZbjh idba. XXX
+// Kalhi perso13
+L02D102
+ Vnj njsij! FZh ]l|_ gd kjc]jg|n mkjfjeij ]wend salac _]alx. XXX
+// Arkhan2 G perso2
+L02D114A
+ Jhjnld, snj | o $j^_ZlZiZ iZt~g. XXX
+// Arkhan2 G perso2
+L02D114B
+ <^j mnZlZ| pjlhZ - ] na _id ji au~ [wg qo_wh! XXX
+// Arkhan3 G perso3
+L02D115
+ &jn, iZ_a]Ze! XXX
+// Kalhi perso13
+L02D116
+ FZ_azmx, kj_je_~n. XXX
+// Arkhan2 G perso2
+L08D336
+ Hj^g|_d! XXX
+// Arkhan3 G perso3
+L08D337
+ *g|ix! XXX
+// Kalhi perso13
+L08D338
+ Fan ]lahaid, #lqZi, iZh iobij ]w[dlZnxm| jnmz_Z! XXX
+// Arkhan2 G perso2
+L08D333
+ &m~ ynj mgosdgjmx kj n]jae ]dia! XXX
+// Arkhan3 G perso3
+L08D334
+ &m~ dc-cZ na[|! XXX
+// Kalhi (forced to defend herself) perso33
+L04D43
+ #lqZi, ian! XXX
+// Kalhi (frightened) perso33
+L04D42
+ Fan, #lqZi! Kw _jgbai omnj|nx! XXX
+// Arkhan2 G (amused by Kalhi in uniform) perso2
+L04D28A
+ Kw ] ynje pjlha... Fo d ]d_jf! XXX
+// Arkhan2 G (amused by Kalhi in uniform) perso2
+L04D28B
+ # amgd Ma_jldd ia kj ilZ]o, nZf ynj njgxfj a~ klj[gahw! XXX
+// Arkhan3 G (amused by Kalhi in uniform) perso3
+L04D29
+ Fo sdmnj... mnlZb j^i|! XXX
+// Kalhi perso33
+L04D30
+ N]Zndn hai| kj_fZgw]Znx! A_~h! XXX
+// Kalhi perso13
+L08D341
+ Kw ia jmnZ]dg hia ]w[jlZ! XXX
+// Kalhi perso13
+L08D339
+ Ve, jmnjljbiaa! XXX
+// Kalhi perso13
+L08D340
+ Fan, jmnZij]dmx! XXX
+// Arkhan2 G perso2
+L02D200
+ Ma_jld|, o hai| amnx jmij]Zid| kjgZ^Znx, snj +jlfZi - kla_Znagx! XXX
+// Arkhan3 G perso3
+L02D201
+ Ma_jld|, | _ohZz, +jlfZi - kla_Znagx. XXX
+// Phedoria perso26
+L02D202
+ Pnj? Fobiw ]amfda _jfZcZnagxmn]Z, snj[w ]w_]d^Znx mnjgx malx~ciwa j[]diaid|! XXX
+// Phedoria perso26
+L02D203A
+ Fagxc| o]ZbZnx cZfji, ia o]ZbZ| a^j kla_mnZ]dnagae. XXX
+// Phedoria perso26
+L02D203B
+ KZf snj... [jgxta idfZfdq kj_jclaide. Vnj kji|nij? XXX
+// Arkhan2 G perso2
+L02D204
+ Fj Ma_jld|... XXX
+// Arkhan3 G perso3
+L02D205
+ Fj Ma_jld|... XXX
+// Phedoria perso26
+L02D206
+ X ia|mij ]wlZcdgZmx? K]j~ iao]Zbaida idsa^j ia _jfZcw]Zan! XXX
+// Arkhan2 G perso2
+L02D207
+ DZ_ij, [o_on na[a _jfZcZnagxmn]Z... XXX
+// Arkhan3 G perso3
+L02D208
+ DZ_ij, | na[a _jfZbo... XXX
+// Arkhan2 G perso2
+L02D209
+ &jn, ynj _jfZcw]Zan, snj +jlfZi - kla_Znagx! XXX
+// Arkhan3 G perso3
+L02D210
+ PdnZe! +jlfZi iZm kla_Zg! XXX
+// Phedoria perso26
+L02D211
+ $jba klZ]a_iwe! Kw [wg klZ], #lqZi! Jfjlae, iobij jmnZij]dnx a^j! XXX
+// Arkhan2 G perso2
+L02D212
+ Kw ciZatx, snj ynj? XXX
+// Arkhan3 G perso3
+L02D213
+ &jn, ciZatx, snj ynj nZfja? XXX
+// Phedoria perso26
+L02D214
+ +j]jgxij, ia cZmnd m]an! XXX
+// Phedoria (Arkhan hit her) perso26
+L02D215
+ J_agZatx nZf au~ lZc - kjbZgaatx! XXX
+// Phedoria perso26
+L02D216
+ Kw mgwtZg, ^l|ciwe kla_Znagx! XXX
+// Arkhan1 G perso2
+L02D298
+ JnZlwa iaiobiwa [jsfd... XXX
+// Arkhan2 G perso2
+L02D300
+ JnZlwa iaiobiwa [jsfd... XXX
+// Arkhan3 G perso3
+L02D301
+ JnZlwa [jsfd... XXX
+// Arkhan1 G perso1
+L02D299
+ Nh, non njgxfj mnZlwa [jsfd... XXX
+// Arkhan2 G perso2
+L02D302
+ Hljmnj fosZ mnZlwq [jsaf... XXX
+// Arkhan3 G perso3
+L02D303
+ CosZ mnZlwq [jsaf... XXX
+// Arkhan1 G perso1
+L02D308
+ Vnj mnZlZ| fjhiZnZ jqlZiw. &qj_iZ| _]alx cZkalnZ. XXX
+// Arkhan2 G perso2
+L02D309
+ JnZlZ| fjhiZnZ jqlZiw. >ZkalnZ. XXX
+// Arkhan3 G perso3
+L02D310
+ +]alx cZkalnZ... XXX
+// Arkhan1 G perso1
+L02D311
+ Fan, a~ cZfgdidgj! XXX
+// Arkhan2 G perso2
+L02D312
+ $amkjgacij, a~ cZfgdidgj! XXX
+// Arkhan3 G perso3
+L02D313
+ >Zfgdidgj! XXX
+// Arkhan1 L perso1
+L02D111A
+ JnZlwe nlaidlj]jsiwe hZiafai. XXX
+// Arkhan1 L perso1
+L02D111B
+ X hij^jho iZosdgm| o ynj^j mnZldfZ! XXX
+// Arkhan1 L perso1
+L02D111C
+ Vnjn dmnofZi oba iZmf]jcx lbZ]we, ij mnljdnagd mjjlo_dgd ij]j^j iZ]alqo. XXX
+// Arkhan1 O perso1
+L07D34A
+ Hljmnj [amkjgaciwe nlaidlj]jsiwe hZiafai. XXX
+// Arkhan1 O perso1
+L07D34B
+ Vq, id co[w ]w[dnx, id fjmnd kalagjhZnx - snj kljfo ] i~h? XXX
+// Arkhan2 G perso2
+L02D112
+ JnZlwe nlaidlj]jsiwe hZiafai. XXX
+// Arkhan3 G perso3
+L02D113
+ JnZlwe nlaidlj]jsiwe hZiafai. XXX

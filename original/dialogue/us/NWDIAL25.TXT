@@ -1,0 +1,388 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL25.TXT
+ // Kalhi (frightened) perso13
+L25D106
+ Arkhan, you're back? What's going on? XXX
+// Arkhan2 G perso2
+L25D200A
+ No one! XXX
+// Arkhan2 G perso2
+L25D200B
+ Where did Kalhi and my father go?! XXX
+// Arkhan3 G perso3
+L25D201A
+ No one! XXX
+// Arkhan3 G perso3
+L25D201B
+ Where are Kalhi and my father?! XXX
+// Kalhi (arrives shouting, interrupts) perso13
+L25D15
+ Sunseer Rylsadhar, what... XXX
+// Kalhi (frightened) perso13
+L25D16A
+ By the Great Sun God! A... Arkhan? XXX
+// Kalhi (frightened) perso13
+L25D16B
+ It's... It's you? XXX
+// Rylsadhar perso20
+L25D100A
+ Yes, it really is Arkhan. XXX
+// Rylsadhar perso20
+L25D100B
+ The people that tried to kill Lory infected him. XXX
+// Rylsadhar (uneasy in Kalhi's presence) perso20
+L25D17A
+ Arkhan, as I was saying... I... I'll take you there, just as I said. XXX
+// Rylsadhar (uneasy in Kalhi's presence) perso20
+L25D17B
+ But first I must speak to Provost Dhorkan and get his approval. XXX
+// Rylsadhar (uneasy in Kalhi's presence) perso20
+L25D17C
+ Go and see Sesekhan the Archivist and wait for me there. XXX
+// Kalhi (tearfully) perso13
+L25D18A
+ Arkhan! Oh, sweetheart, what have they done to you? XXX
+// Kalhi (tearfully) perso13
+L25D18B
+ Your... Your face, your hands... XXX
+// Kalhi (tearfully) perso13
+L25D18C
+ You must consult the healers at the hospital! XXX
+// Rylsadhar1 perso20
+L25D93
+ Don't forget Arkhan: meet me at the Temple, at the Archivist's! XXX
+// Rylsadhar (A. hits him) perso20
+L25D26
+ The Curse of Darkness has driven you insane! XXX
+// Rylsadhar (A. hits him) perso20
+L25D55
+ My son, no! Resist the poison that's devouring your spirit! XXX
+// Rylsadhar (alarmed by Arkhan's appearance) perso20
+L25D07A
+ Arkhan! Great Solaar! Can it be you? XXX
+// Rylsadhar (alarmed by Arkhan's appearance) perso20
+L25D07B
+ Lory was right, they contaminated you. It's the Curse of the Darkness! XXX
+// Rylsadhar perso20
+L25D27
+ Please, my son. Calm down! XXX
+// Arkhan1 L perso1
+L25D01A
+ Light be with you, Father. XXX
+// Arkhan1 L perso1
+L25D01B
+ You all right? You seem upset... XXX
+// Arkhan1 O perso1
+L25D106A
+ Hi, Dad! XXX
+// Arkhan1 O perso1
+L25D106B
+ You're looking a little worse for wear! XXX
+// Rylsadhar perso20
+L25D02A
+ May Light go with you, Arkhan. XXX
+// Rylsadhar perso20
+L25D02B
+ My mind is filled with dark problems that I must solve. XXX
+// Arkhan1 L perso1
+L25D03
+ Are you sure you're okay? XXX
+// Arkhan1 O perso1
+L25D06
+ What's going on? The Great Sunseer turn off your lights? XXX
+// Rylsadhar perso20
+L25D04A
+ That will do, Arkhan. XXX
+// Rylsadhar (wearily)perso20
+L25D04B
+ Please, Son. Make me proud. Return to your post. XXX
+// Rylsadhar perso20
+L25D04C
+ The Provost just loves reminding me how often you're late for  work! XXX
+// Arkhan2 G perso1
+L25D104
+ Does it ring a bell, father? XXX
+// Rylsadhar perso20
+L25D105A
+ Don't bother me, Arkhan, I've got too much on my mind at the moment. XXX
+// Rylsadhar perso20
+L25D105B
+ And you must have more important things to do! XXX
+// Arkhan2 L perso2
+L25D08
+ Father, what's happening to me? What is this evil? XXX
+// Rylsadhar (touched by the fate of his son) perso20
+L25D09A
+ Arkhan... My son. Your courage saved the Great Sunseer. XXX
+// Rylsadhar perso20
+L25D09B
+ But I don't know what can save you from this evil. XXX
+// Rylsadhar perso20
+L25D09C
+ We'll do everything we can to heal you. XXX
+// Rylsadhar perso20
+L25D09D
+ Thanandar, our finest healer, is already hard at work. XXX
+// Arkhan2 L perso2
+L25D10A
+ Thanandar said he couldn't do anything for me. XXX
+// Arkhan2 L perso2
+L25D10B
+ He says the only real cure is found in some crypt. XXX
+// Rylsadhar (startled) perso20
+L25D11
+ What? Thanandar told you about that... that place? XXX
+// Arkhan2 G perso2
+L25D12A
+ Yes, he said only you could lead me there... XXX
+// Arkhan2 G perso2
+L25D12B
+ Father, I need your help! XXX
+// Rylsadhar (making his decision) perso20
+L25D13A
+ If I had known that one day this would happen... XXX
+// Rylsadhar perso20
+L25D13B
+ Your courage and your sacrifice have earned you the right to know! XXX
+// Rylsadhar perso20
+L25D13C
+ But remember this: ordinarily, I am forbidden to lead you to that sacred spot. XXX
+// Rylsadhar perso20
+L25D13D
+ I must break my vow in order to heal you. XXX
+// Rylsadhar perso20
+L25D13E
+ You must promise never to speak of what you see there. XXX
+// Arkhan2 L perso2
+L25D14
+ I promise. XXX
+// Arkhan2 O perso2
+L25D19
+ Father, what's happening to me? Blasted gloom, it hurts! XXX
+// Arkhan2 O perso2
+L25D20A
+ Thanandar! He can do nothing! XXX
+// Arkhan2 O perso2
+L25D20B
+ He says the cure is in a secret place. A crypt! XXX
+// Arkhan2 O perso2
+L25D21
+ Yeah..Yeah...I'll promise whatever you want, just help me! XXX
+// Arkhan3 G perso3
+L25D22
+ Father, it hurts! XXX
+// Arkhan3 G perso3
+L25D23A
+ Thanandar... do nothing! XXX
+// Arkhan3 G perso3
+L25D23B
+ He said cure in secret crypt. XXX
+// Arkhan3 G perso3
+L25D24
+ He said you take me there! XXX
+// Arkhan3 G perso3
+L25D25
+ Okay. XXX
+// Kalhi perso13
+L25D85
+ Arkhan, no! XXX
+// Kalhi perso13
+L25D86
+ There. Calm down. XXX
+// Kalhi (afraid) perso33
+L04D41
+ Arkhan! What's come over you? XXX
+// Arkhan2 L perso2
+L25D62
+ Don't worry, Kalhi, we'll be all right. XXX
+// Arkhan2 O perso2
+L25D64
+ It's really starting to hurt. I'd better find my father! XXX
+// Kalhi (moved) perso13
+L25D63A
+ Yes, I trust Rylsadhar. XXX
+// Kalhi (moved) perso13
+L25D63B
+ You should go see him right away. XXX
+// Arkhan2 L perso2
+L25D58
+ My father will help us, don't worry! XXX
+// Arkhan2 O perso2
+L25D61
+ Don't worry, my father'll take care of everything! XXX
+// Kalhi (moved) perso13
+L25D59A
+ By the Great Sun God, I hope he can help you. XXX
+// Kalhi (moved) perso13
+L25D59B
+ I'm afraid for you, Arkhan. XXX
+// Kalhi (moved) perso13
+L25D59C
+ And what will the Sunseers say if they see you... changed like that. XXX
+// Kalhi (moved) perso13
+L25D59D
+ They'll be afraid. They might banish you to the Darklands! XXX
+// Arkhan2 L (reassuringly) perso2
+L25D56A
+ Kalhi... don't panic... XXX
+// Arkhan2 L perso2
+L25D56B
+ Listen, I had to go to the hospital. XXX
+// Arkhan2 L perso2
+L25D56C
+ A Guardian of Fire jumped me. XXX
+// Arkhan2 L perso2
+L25D56D
+ He didn't recognize me, he thought I was a Creature of Darkness. XXX
+// Arkhan2 O perso2
+L25D60A
+ Easy does it! And don't make any noise! XXX
+// Arkhan2 O perso2
+L25D60B
+ I can't go to the hospital.. XXX
+// Arkhan2 O perso2
+L25D60C
+ I did go there, but before I knew what hit me, I was attacked by a Guardian. XXX
+// Arkhan2 O perso2
+L25D60D
+ He was screaming that I was a Creature of Darkness. I had no choice, I had to hit back! XXX
+// Kalhi (moved) perso13
+L25D57A
+ With everything that's going on, it's a total panic up there. XXX
+// Kalhi (moved) perso13
+L25D57B
+ The Provost has taken control of the Stallite. The gates are closed. XXX
+// Kalhi (moved) perso13
+L25D57C
+ Access to the Lower City is cut off, I can't go back. XXX
+// Kalhi (moved) perso13
+L25D57D
+ And the Guardians of Fire are looking everywhere for the culprits. XXX
+// Kalhi (moved) perso13
+L25D57E
+ I'm afraid of what'll happen if they find me! XXX
+// Arkhan2 G perso2
+L25D94A
+ This must belong to my father. XXX
+// Arkhan2 G perso2
+L25D94B
+ Do you know what this could be? XXX
+// Kalhi perso13
+L25D95
+ No, you know I never learned to read... XXX
+// Kalhi perso13
+L25D101A
+ No, nothing. XXX
+// Kalhi perso13
+L25D101B
+ Arkhan, forget it! XXX
+// Kalhi perso13
+L25D101C
+ What's important now is to find something that will heal you! XXX
+// Arkhan3 G perso3
+L25D66
+ I've got to find my father. XXX
+// Arkhan3 G perso3
+L25D67
+ Trust Rylsadhar. XXX
+// Arkhan3 G perso3
+L25D68A
+ Kalhi... Calm... XXX
+// Arkhan3 G perso3
+L25D68B
+ Forget hospital... A Guardian tried to kill me. XXX
+// Arkhan3 G perso3
+L25D68C
+ Had to fight back... I finished him. XXX
+// Arkhan3 G perso3
+L25D102A
+ Belongs to my father... XXX
+// Arkhan3 G perso3
+L25D102B
+ You know what it is? XXX
+// Arkhan2 O perso2
+L04D37
+ You fight like a wuss! XXX
+// Arkhan2 L perso2
+L04D38
+ Hey, you put up a pretty good fight, don't you?! XXX
+// Arkhan3 O perso3
+L04D39
+ Whooa.....You call that fighting?! XXX
+// Arkhan3 L perso3
+L04D40
+ Hey, you do know how to fight, don't you?! XXX
+// Kalhi (forced to defend herself) perso33
+L04D43
+ Arkhan, no! XXX
+// Kalhi (frightened) perso33
+L04D42
+ No, Arkhan! You have to resist! XXX
+// Arkhan1 G perso1
+L25D28
+ What's up there? XXX
+// Arkhan1 G perso1
+L25D29
+ Nothing worth the trouble! XXX
+// Arkhan1 G perso1
+L25D30
+ These shelves are a real mess! XXX
+// Arkhan2 G perso1
+L25D31
+ Nothing up there. XXX
+// Arkhan2 G perso1
+L25D33
+ Damn! Nothing. XXX
+// Arkhan3 G perso1
+L25D35
+ Nothing. XXX
+// Arkhan1 L perso1
+L25D43
+ It's my father's workroom. XXX
+// Arkhan1 O perso1
+L25D44
+ My father's office. XXX
+// Arkhan1 L (facing globe) perso1
+L25D49
+ My father says this ball represents our world. XXX
+// Arkhan1 O (facing globe) perso1
+L25D50
+ Another useless piece of junk from Before! XXX
+// Arkhan1 G perso1
+L25D76
+ Sure looks like a lock. XXX
+// Arkhan2 G perso2
+L25D77
+ Looks like a lock. XXX
+// Arkhan2 L perso2
+L25D81
+ I won't get it open with that. XXX
+// Arkhan3 G perso3
+L25D78
+Strange  lock. XXX
+// Arkhan3 L perso3
+L25D84
+ No use to me! XXX
+// Arkhan2 L perso2
+L25D79
+ No, the key is missing something. XXX
+// Arkhan2 O perso2
+L25D80
+ Blasted gloom! It doesn't fit! XXX
+// Arkhan3 L perso3
+L25D82
+ The key is missing something! XXX
+// Arkhan3 O perso3
+L25D83
+ Doesn't work! XXX
+// Arkhan2 O (frustrated) perso2
+L25D74
+ Where did my father go!? XXX
+// Arkhan3 O (frustrated) perso3
+L25D75
+ Father! Where are you!? XXX
+// Arkhan2 G perso1
+L25D87
+ What's under here? XXX
+// Arkhan3 G perso1
+L25D88
+ What's underneath? XXX

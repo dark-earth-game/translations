@@ -1,0 +1,91 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL46.TXT
+ // Arkhan2 G (discovering his father lying wounded) perso2
+L46D01
+ Na Wielkiego Solaara! Ojcze! XXX
+// Arkhan3 G (discovering his father lying wounded) perso3
+L46D02
+ Ojcze, nie! XXX
+// Rylsadhar (contaminated) perso21
+L46D03
+ Arkhan... Ja... Nie udalo mi sie... XXX
+// Arkhan2 G perso2
+L46D04
+ Ojcze, co... kto ci to zrobil? XXX
+// Arkhan3 G perso3
+L46D05
+ Ojcze, kto to zrobil?! XXX
+// Rylsadhar c(contaminated) perso21
+L46D06A
+ Dhorkan... Ten podly zdrajca... XXX
+// Rylsadhar (contaminated) perso21
+L46D06B
+ Wydal mnie Konkalitom... XXX
+// Arkhan2 G perso2
+L46D07
+ Dopadne go ojcze. Przysiegam ci, zaplaci za to! XXX
+// Arkhan3 G perso3
+L46D08
+ Zaplaci ojcze! XXX
+// Rylsadhar (contaminated) perso21
+L46D09A
+ Nie moj synu... Dhorkan to tylko niczego nie swiadomy glupiec! XXX
+// Rylsadhar (contaminated) perso21
+L46D09B
+ Prawdziwym zagrozeniem jest Thanandar! On rozkazuje Konkalitom... XXX
+// Rylsadhar (contaminated) perso21
+L46D09C
+ Dhorkan o niczym nie wie. XXX
+// Rylsadhar (contaminated) perso21
+L46D09D
+ Zed i ja... zostalismy schwytani... zarazeni... XXX
+// Rylsadhar (contaminated) perso21
+L46D09E
+ Ja... ucieklem... ale jestem zbyt slaby... XXX
+// Arkhan2 G perso2
+L46D10
+ Ale ojcze, Thanandar nie zyje! XXX
+// Arkhan3 G perso3
+L46D11
+ Thanandar nie zyje! XXX
+// Rylsadhar (contaminated) perso21
+L46D12A
+ Thanandar uzdrowiciel owszem... Ale nie potwor, w ktorego sie zmienil! XXX
+// Rylsadhar (contaminated) perso21
+L46D12B
+ On jest... Kreatura Mroku. XXX
+// Rylsadhar (contaminated) perso21
+L46D12C
+ Chce... zniszczyc Studnie... Swiatlosci... XXX
+// Rylsadhar (contaminated) perso21
+L46D12D
+ Idz do Swiatyni... krypta... XXX
+// Rylsadhar (breathing his last) perso21
+L46D12E
+ Bron Swiatlosci... XXX
+// Rylsadhar (breathing his last) perso21
+L46D12F
+ Aaaaah... XXX
+// Arkhan2 G (vengefully, to himself) perso2
+L46D14
+ Thanandar! XXX
+// Arkhan3 G (vengefully, to himself) perso3
+L46D15
+ Thanandar! XXX
+// Arkhan2 L (by Rylsadhar's corpse) perso2
+L22D12A
+ Ojcze! XXX
+// Arkhan2 L (by Rylsadhar's corpse) perso2
+L22D12B
+ Przysiegam, ze cie pomszcze! Thanandar zginie! Zaplaci mi za to! XXX
+// Arkhan2 O perso2
+L22D13A
+ Thanandar! Zabiles mego ojca! XXX
+// Arkhan2 O perso2
+L22D13B
+ Zaplacisz mi za to! XXX
+// Arkhan3 L perso3
+L22D14
+ Ojcze! Zemsty! XXX
+// Arkhan3 O (grunting to himself)perso3
+L22D15
+ Ojcze! ... RAAAH! Zemsty! XXX

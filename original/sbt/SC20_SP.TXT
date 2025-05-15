@@ -1,0 +1,15 @@
+00:04:12	00:05:18		{¡Cómo se encuentra!}
+00:06:18	00:08:16		{¡Thanandar!}
+00:08:18	00:11:00		{¡Aaah, Arkhan!}
+00:11:04	00:13:18		{¡Tu resistencia es vana!}
+00:15:04	00:17:04		{La bestia está en ti.}
+00:21:06	00:22:26		{¡Deja que te guíe!}
+00:23:02	00:24:10		{¡Nunca!}
+00:24:12	00:26:20		{¡Yo salvaré Sparta!}
+00:29:16	00:31:22		{Has encontrado la fuente de luz,}
+00:31:24	00:32:16		{Arkhan.}
+00:32:26	00:36:06		{¡Y yo voy a destruirla para siempre!}
+00:53:14	00:55:08		{La sangre se derramará para sellar}
+00:55:10	00:57:20		{la venida del nuevo mundo.}
+01:10:00	01:12:02		{Las tinieblas llaman...}
+01:12:04	01:15:10		{¡Y no les gusta esperar!}

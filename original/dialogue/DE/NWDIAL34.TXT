@@ -1,0 +1,166 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL34.TXT
+ // Konkalit7 perso77
+L34D777
+ Wir werden Dich zu Hackfleisch machen! XXX
+// Konkalit7 perso77
+L34D778
+ Du bist ein toter Mann! XXX
+// Thanandar perso24
+L34D100A
+ Schau mal her, wer da kommt! Rylsadhars Sohn. XXX
+// Thanandar perso24
+L34D100B
+ Deine Männer lassen wirklich jeden durch! XXX
+// Sordos perso23
+L34D101
+ Der ist auch ein Kontaminierter! XXX
+// Thanandar perso24
+L34D102A
+ Ja. Aber jetzt, wo ich seinen Vater in meiner Gewalt habe, nützt er mir nichts mehr! XXX
+// Thanandar perso24
+L34D102B
+ Bring ihn um! XXX
+// Sordos perso23
+L34D40A
+ Ich polier' Dir Deine dreckige Fresse! XXX
+// Sordos perso23
+L34D40B
+ Davon hab' ich schon immer geträumt! XXX
+// Sordos perso23
+L34D04A
+ Hmmm... (spuckt aus) XXX
+// Sordos perso23
+L34D04B
+ Ich werd' ihn nicht sofort töten, das wäre zu einfach! XXX
+// Sordos perso23
+L34D04C
+ Meine Männer werden ihn sich auf ihre Weise vornehmen. XXX
+// Sordos perso23
+L34D04D
+ Und bald wirst Du sie anflehen, Dich zu töten! XXX
+// Sordos (erstaunt, Arkhan bei ihm zu sehen)perso23
+L34D38
+ Hey, was machst Du denn hier?! XXX
+// Sordos perso23
+L34D39
+ Antworte, Du Dreckskerl, oder ich reiß' Dir die Zunge raus! XXX
+// Thanandar perso24
+L34D201
+ Du wirst sterben, armer Irrer! XXX
+// Arkhan2 L perso2
+L34D05
+ Thanandar! Was soll das bedeuten? XXX
+// Arkhan2 O perso2
+L34D06
+ Thanandar, dreckiger Verräter! Du hast mich belogen! XXX
+// Arkhan3 G perso3
+L34D07
+ Thanandar! Verräter! XXX
+// Thanandar (enttäuscht)perso24
+L34D200A
+ Du verstehst nichts, wie die anderen. Du weigerst Dich einfach, die Finsternis anzunehmen! XXX
+// Thanandar perso24
+L34D200B
+ Der Tod ist die Belohnung der Dummköpfe! XXX
+// Sordos perso23
+L34D202
+ Ich werd' Dir das Herz bei lebendigem Leib herausreißen! XXX
+// Arkhan2 L perso2
+L34D13
+ Bist Du der mächtige Sordos? XXX
+// Arkhan2 O perso2
+L34D14
+ Hey, bist Du der Herr über diesen Dreckhaufen? XXX
+// Arkhan3 L perso3
+L34D15
+ Bist Du Sordos? XXX
+// Arkhan3 O perso3
+L34D16
+ Ich lebe im Dreck, und daran bist Du schuld! Das wirst Du mir bezahlen! XXX
+// Sordos (bedrohlich) perso23
+L34D17A
+ Ich weiß' nicht, wo Du herkommst, aber eines weiß ich ganz sicher: XXX
+// Sordos (bedrohlich) perso23
+L34D17B
+ Du wirst dahin in Einzelteilen zurückkehren! XXX
+// Arkhan2 L perso2
+L34D22
+ Bist Du Sordos? Dhorkan schickt mich. XXX
+// Sordos (aggressif) perso23
+L34D23
+ Dhorkan, aha! Und was will er von mir? XXX
+// Arkhan2 L perso2
+L34D24
+ Dir sagen, daß er Deine Mißerfolge nicht besonders schätzt. XXX
+// Sordos (spricht und verstummt)perso23
+L34D25
+ Aha?! Du kannst diesem Schuft von Dhorkan sagen, daß er lieber ... XXX
+// Arkhan2 O (Anfang)perso2
+L34D27
+ Hey, Sordos! Ich hab' eine Nachricht von Dhorkan für Dich. XXX
+// Arkhan2 O perso2
+L34D28A
+ Er sagt, er sei jetzt wirklich sicher, daß Du ein stinkender Misthaufen bist! XXX
+// Arkhan2 O perso2
+L34D28B
+ Und er hofft, daß Du in Deinem verpesteten Keller verreckst wie eine Ratte. XXX
+// Sordos (wütend) perso23
+L34D29
+ WAS?!  XXX
+// Sordos (ihm wird plötzlich klar, wer Arkhan ist) perso23
+L34D26A
+ Aber jetzt erkenn' ich Dich, Du bist doch der Dreckskerl, der einen abgekriegt hat, als er Lory beschützen wollte! XXX
+// Sordos (grausam)perso23
+L34D26B
+ Gut, daß Du gekommen bist, ich brauche gerade jemanden, an dem ich bin austoben kann! XXX
+// Arkhan3 L (bedrohlich) perso3
+L34D30
+ Sordos ... Dhorkan schickt mich! XXX
+// Arkhan3 L perso2
+L34D31
+ Um Dir zu sagen, daß es mit Dir aus ist! XXX
+// Sordos perso23
+L34D41
+ Dir liegt wohl nichts am Leben, Lumpensammler? XXX
+// Arkhan2 G perso2
+L04D44
+ Das ist nicht der richtige Schlüssel! XXX
+// Arkhan3 G perso3
+L04D45
+ Der falsche Schlüssel! XXX
+// Arkhan2 L perso2
+L34D34
+ Das sieht nicht gerade gemütlich aus! XXX
+// Arkhan2 O perso2
+L34D35
+ Darauf würd' ich keine Minute schlafen! XXX
+// Arkhan3 G perso3
+L34D36
+ Sieht nicht gemütlich aus ! XXX
+// Arkhan2 L (untersucht ein Rohr)perso2
+L34D500
+ Ein dickes verrostetes Rohr. XXX
+// Arkhan3 L (untersucht ein Rohr)perso3
+L34D501
+ Das ganze Rohr ist verrostet. XXX
+// Arkhan2 L (untersucht das Gitter)perso2
+L34D506
+ Ein Stahlgitter. XXX
+// Arkhan3 L (untersucht das Gitter)perso3
+L34D507
+ Ein schweres Gitter. XXX
+// Arkhan2 G perso2
+L34D502
+ Große Fässer. Offenbar leer. XXX
+// Arkhan3 G perso3
+L34D503
+ Fässer. Leer. XXX
+// Arkhan2 G perso2
+L34D504A
+ Ein umgekipptes Faß mit Stohll. XXX
+// Arkhan2 G perso2
+L34D504B
+ Diese Konkaliten sind ziemliche Säufer! XXX
+// Arkhan3 G perso3
+L34D505
+ Ein Stohll-Faß. Ausgetrunken. XXX

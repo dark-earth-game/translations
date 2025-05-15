@@ -1,0 +1,697 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL05.TXT
+ // Bogdaran (erstaunt und glücklich, Delia zu sehen) perso8
+L05D01
+ Delio! Ty jsi ješte na zivu! Milá má! XXX
+// Delia (zwischen Schluchzen und Wut) perso10
+L05D02
+ Ty zvíre ... Ty tve zlociny draze zaplatíš! XXX
+// Bogdaran perso8
+L05D03
+ Tak jednoduše mne nedostaneš! XXX
+// Delia (A. hat Bogdaran umgebracht)perso10
+L05D04
+ Bogdarane ... Varhu! XXX
+// Bogdaran (wahnsinnig vor Schmerz) perso8
+L05D77D
+ Ty zvíre, já te zabiju! XXX
+// Bogdaran (erschreckt) perso8
+L05D39A
+ Ne ... ne! XXX
+// Delia perso10
+L16D122
+ Stát! Naháníš mi strach! XXX
+// Arkhan1 L (hüstelt höflich) perso1
+L05D05
+ Ehm! XXX
+// Arkhan1 O (hustet laut) perso1
+L05D06
+ Aham aham! XXX
+// Bogdaran (durch Arkhans Eindringen erstaunt) perso8
+L05D11A
+ Co ... Kdo jsi ty? XXX
+// Bogdaran (verängstigt) perso8
+L05D12B
+ Vypadni odsud, nebo zavolám stráz! XXX
+// Arkhan2 L (hüstelt höflich) perso2
+L05D07
+ Ehm! XXX
+// Arkhan2 O (hustet laut) perso2
+L05D08
+ Aham aham! XXX
+// Arkhan3 L (hüstelt höflich) perso3
+L05D09
+ Ehm! XXX
+// Arkhan3 O (hustet laut) perso3
+L05D10
+ Aham aham! XXX
+// Bogdaran (unfreundlich) perso8
+L05D13A
+ Co zde deláš? Ty nejsi na svem míste, Strázci ohne. XXX
+// Bogdaran (unfreundlich) perso8
+L05D13B
+ Zmizni odsud, já jsem zamestnaný! XXX
+// Bogdaran perso8
+L05D14
+ Potrebuju klid pro svou práci! XXX
+// Bogdaran perso8
+L05D15
+ Jdi jiz ... potrebujou te jinde! XXX
+// Bogdaran perso8
+L05D16
+ Hledáš východ? Ten je dole! XXX
+// Bogdaran (bemerkt, daß Arkhan mit ihm spricht) perso8
+L05D17
+ Jak? Co? XXX
+// Arkhan2 G perso2
+L05D18
+ Ta vec od predkù. XXX
+// Arkhan3 G perso3
+L05D19
+ Ta vec od predkù! XXX
+// Bogdaran perso8
+L05D20A
+ Aha ... Ty jsi mi prinesl podivnou substanci! XXX
+// Bogdaran perso8
+L05D20B
+ Já nevím presne, co je to za tycku, ale nesmí být v mokru. XXX
+// Bogdaran perso8
+L05D20C
+ Já jí izoloval v oleji. Ale je presto nebezpecná, bud opatrný! XXX
+// Delia (mit Bogdaran sprechend) perso10
+L05D21A
+ Bogdarane! Ty jsi na mne myslel ...  XXX
+// Delia (mit Bogdaran sprechend) perso10
+L05D21B
+ A poslals ... Arkhana, aby mne odvedl. XXX
+// Delia (mit Bogdaran sprechend) perso10
+L05D21C
+ Já ti dekuji ... milácku. XXX
+// Bogdaran perso8
+L05D150A
+ Pomoc! XXX
+// Delia (wird von Arkhan geschlagen) perso10
+L45D04
+ Co se to s tebou stalo?!? XXX
+// Bogdaran (Arkhan1 durchsucht seine Sachen) perso8
+L05D22
+ U boha slunecního! Copak tu hledáš? XXX
+// Bogdaran (täuscht Naivität vor) perso8
+L05D23A
+ Chováš se tak podobne u Profose? XXX
+// Bogdaran (wird plötzlich wütend) perso8
+L05D23B
+ Paklize budeš ty se tak dále chovat, staneš na konci! XXX
+// Arkhan1 L (freundlich) perso1
+L05D24A
+ Dobre, nechám te nyní v klidu.  XXX
+// Arkhan1 L (freundlich) perso1
+L05D24B
+ Svetlo bud nad Tebou. XXX
+// Arkhan1 O (sarkastisch) perso1
+L05D25
+ Je to vzdy takový rozkošný, s tebou mluvit! XXX
+// Bogdaran perso8
+L05D26
+ Na tvém míste šel bych! XXX
+// Arkhan1 L perso1
+L05D27
+ Já nechci te predevším rušit. XXX
+// Arkhan1 O perso1
+L05D28
+ Tedy, Mistre olejù, jseš tak zamestnaný, nebo máš tak málo casu na mne? XXX
+// Arkhan1 O perso1
+L05D29
+ Bud pozdraven, Bogdarane. XXX
+// Arkhan1 L perso1
+L05D30
+ Svetlo s tebou, Mistre Bogdarane. XXX
+// Bogdaran perso8
+L05D31
+ Je mi to líto, Strázce ohne, nemám zádný cas na tebe ...  XXX
+// Arkhan1 L perso1
+L05D32
+ Jiste, tomu já rozumím. XXX
+// Arkhan1 O perso1
+L05D33
+ Jseš vzdy tak prátelský nebo delá ti to námahu, protoze jsem to já? XXX
+// Bogdaran (verächtlich) perso8
+L05D34
+ Mmmpf! XXX
+// Arkhan2 L perso2
+L05D35
+ Nemej strach, já nemám zlý ùmysly ... XXX
+// Arkhan2 O perso2
+L05D36
+ Vzdy v klidu, ty tlustý pandero! XXX
+// Arkhan3 L perso3
+L05D37
+ Bogdarane ... uklidni se! XXX
+// Bogdaran (erschreckt) perso8
+L05D39B
+ Necho blíze! Ani krok blíz! XXX
+// Arkhan2 L perso2
+L05D40
+ Klid. Jmenuju se Arkhan. Jsem Strázcem ohne, jako ty. XXX
+// Arkhan2 O perso2
+L05D41
+ Prestan, tak kricet! Já jsem, Arkhan! XXX
+// Arkhan3 L perso3
+L05D42
+ Já jsem Arkhan! XXX
+// Bogdaran (erschreckt) perso8
+L05D44A
+ Ne! Já tebe ješte nikdy nevidel! XXX
+// Bogdaran (erschreckt) perso8
+L05D44B
+ Pomoc! Sem, Strázci ohnù! XXX
+// Arkhan2 G perso2
+L05D45A
+ Mistre olejù, ty znáš tajemství olejù a alchymie. XXX
+// Arkhan2 G perso2
+L05D45B
+ Ty znáš jiste prostredek, kerý by mne vylecil! XXX
+// Arkhan3 G perso3
+L05D46
+ Víš ty, jak se mùzu vylecit? Rekni jiz! XXX
+// Bogdaran perso8
+L05D47A
+ Ehm ... Já ... Rád bych ti pomohl, já ale neznám tuto nemoc. XXX
+// Bogdaran perso8
+L05D47B
+ Pouze svatý lecitel mùze ti pomoci. XXX
+// Arkhan2 G perso2
+L05D48
+ Já hledám nejakou hrobku ... Nejake místo, na kterem mùj otec byl. XXX
+// Arkhan3 G perso3
+L05D49
+ Já hledám svate místo, nejakou hrobku. XXX
+// Bogdaran perso8
+L05D50A
+ Hrobku? Ne, já znám pouze mojí laborator. XXX
+// Bogdaran perso8
+L05D50B
+ Ty musíš s Bandorem mluvit, Mistrem stavitelem. XXX
+// Bogdaran perso8
+L05D50C
+ Stallit pro nej nemá zádný tajemství. XXX
+// Bogdaran perso8
+L05D50D
+ Ale vez stavitelù je jiz nekolik dnù zamcená. XXX
+// Arkhan2 G perso2
+L05D53A
+ Mùj otec Rylsadhar nekolika lidem svetelne kristaly predal. XXX
+// Arkhan2 G perso2
+L05D53B
+ Nemáš ty jeden z nich? XXX
+// Arkhan3 G perso3
+L05D54
+ Nedával ti mùj otec nedávno nejaký kristal? XXX
+// Bogdaran perso8
+L05D55A
+ Tvùj otec? Ne, on mne zde nikdy nenavštívil. XXX
+// Bogdaran perso8
+L05D55B
+ A já nemám zádný kristal, je mi líto. XXX
+// Arkhan2 G perso2
+L05D56
+ Co víš ty o Thanandarovi? XXX
+// Arkhan3 G perso3
+L05D57
+ Vyprávej mi o Thanandarovi! XXX
+// Bogdaran perso8
+L05D58A
+ On je knez a svetec. XXX
+// Bogdaran perso8
+L05D58B
+ Ucenec, vedec. Mnoho vdecí jemu za zivot. XXX
+// Bogdaran perso8
+L05D58C
+ Ale ríká se, ze on od jistých casù se mnoho doma zamyká. XXX
+// Arkhan2 G perso2
+L05D59
+ Já hledám Rylsadhara. Videl jsi ho? XXX
+// Arkhan3 G perso3
+L05D60
+ Hledám sveho otce. Videl jsi ho? XXX
+// Bogdaran perso8
+L05D61
+ Rylsadhara? Ne, pricházel pouze velmi zrídka. XXX
+// Arkhan2 G perso2
+L05D62
+ A Zeda, víš ty, kde on je? XXX
+// Arkhan3 G perso3
+L05D63
+ A Zeda, videl jsi ho? XXX
+// Bogdaran perso8
+L05D64A
+ Po tvem ... Náhodne Zed pricházel, munici vyzvednout. XXX
+// Bogdaran perso8
+L05D64B
+ On chtel jít do Spodního mesta a pokusit se, Neverící hledat. XXX
+// Arkhan2 L perso2
+L05D65
+ Copak je to za substanci? XXX
+// Arkhan3 L perso3
+L05D66
+ Tedy, co je to za substanci? XXX
+// Bogdaran perso8
+L05D67
+ Nech mi nejaký cas, jí analysovat! XXX
+// Arkhan2 O perso2
+L05D209
+ Tedy, co je to?! XXX
+// Arkhan3 O perso3
+L05D210
+ Co je to? XXX
+// Bogdaran (ängstlich) perso8
+L05D211A
+ Jiz dobre, vzdy v klidu, já budu analysovat. XXX
+// Bogdaran (beeindruckt) perso8
+L05D211B
+ Musíš mi ale nejaký cas dát, rozumíš?  XXX
+// Arkhan2 G perso2
+L05D68
+ Mistre olejù, rekni mi, co je tato temná substance. XXX
+// Bogdaran (besorgt) perso8
+L05D70A
+ Poslouchej, já myslím, ze já to brzo zjistím. XXX
+// Bogdaran (besorgt) perso8
+L05D70B
+ Ale nejdrív potrebuju tvojí pomoc. XXX
+// Bogdaran (besorgt) perso8
+L05D70C
+ V techto divných casech mám já velký strach o nekoho ...o jednu zenu. XXX
+// Bogdaran (besorgt) perso8
+L05D70D
+ Deliu. Ty najdeš jí ve Spodním meste ... u Stríbrnýho rohu. XXX
+// Bogdaran (besorgt) perso8
+L05D70E
+ To je nocní klub ... Prived jí sem, prosím te o to. XXX
+// Bogdaran (besorgt) perso8
+L05D70F
+ Pokud Delia u mne v bezpeèí bude, reknu ti všechno, co ty o techto starých vecech chceš vedet. XXX
+// Arkhan2 L perso2
+L05D72
+ Bogdarane ... Delia, ona... Ona je mrtvá. Je mi to líto. XXX
+// Arkhan2 O (düster) perso2
+L05D73
+ Tato dívka, kterou mám já ti privest, Delia ... ona je ohnivá zenská. XXX
+// Bogdaran (verzweifelt und gleichzeitig voller Hoffnung) perso8
+L05D74
+ Kdo? XXX
+// Arkhan2 O (böswillig) perso2
+L05D75
+ Ona je mrtvá! Ona je zastrcená v oleji, ten konservuje! XXX
+// Arkhan3 G perso3
+L05D76
+ Ty Deliu nikdy neuvidíš. Je mrtvá. XXX
+// Bogdaran (wahnsinnig vor Schmerz) perso8
+L05D77A
+ Co! Ne! Delio ... Ne, ty lzeš! XXX
+// Bogdaran (wahnsinnig vor Schmerz) perso8
+L05D77B
+ Mùj milácku ... Ona není mrtvá! Ty lzeš!  XXX
+// Bogdaran (plötzlich drohend) perso8
+L05D77C
+ Tys to byl! Tys jí usmrtil, souhlasí to?  XXX
+// Arkhan2 G perso2
+L05D78
+ Co víš o teto veci od predkù? XXX
+// Arkhan3 G perso3
+L05D79
+ Vyprávej mi o teto veci od predkù! XXX
+// Bogdaran (unsicher, aber hartnäckig) perso8
+L05D80A
+ My to udeláme jak sme dohodli: Prived nejprve Deliu ke mne ... XXX
+// Bogdaran (bekommt sich wieder in die Gewalt) perso8
+L05D80B
+ Pak já tuto starou vec analysuju a reknu ti, co chceš vedet. XXX
+// Arkhan2 G perso2
+L05D87
+ Analyzoval jsi tu starou vec od predkù? XXX
+// Arkhan3 G perso3
+L05D88
+ A ta stará vec od predkù? XXX
+// Arkhan2 G perso2
+L05D89
+ Proc jsi olejem tu starou vec od predkù naplnil? XXX
+// Arkhan3 G perso3
+L05D90
+ Proc je olej v te veci od predkù? XXX
+// Bogdaran perso8
+L05D91A
+ Podívej se na ten zelený kus ve prostred? XXX
+// Bogdaran perso8
+L05D91B
+ Já pouze dal pár kapek vody dovnitr, náhle plameny vyšlehly, ktere mi vous spálily! XXX
+// Bogdaran perso8
+L05D91C
+ Ale olej je neutrální. To je jistejší. XXX
+// Arkhan2 G perso2
+L05D92
+ Já nyní pùjdu. XXX
+// Arkhan3 G perso3
+L05D93
+ Jdu.  XXX
+// Bogdaran perso8
+L05D94
+ Dekuju, Arkhane. Prijdi opet, kdyz ty budeš ode mne neco potrebovat! XXX
+// Arkhan2 G perso2
+L05D95
+ Já nevím, kde te mùzu já najít! XXX
+// Arkhan3 G perso3
+L05D96
+ Já te najdu! XXX
+// Arkhan2 L perso2
+L05D81
+ Je mi to líto, nechtel jsem rušit. XXX
+// Arkhan2 O perso2
+L05D97
+ Jak já vidím, jsi zamestnaný! XXX
+// Arkhan3 G perso3
+L05D98
+ Neruším? XXX
+// Bogdaran (lacht gezwungen) perso8
+L05D99
+ Ale to prece nevadí! Ha ha ha! Nedelej z toho nic ... XXX
+// Bogdaran (gestört) perso8
+L05D82
+ Tedy dobre. Svetlo s tebou! XXX
+// Arkhan2 G perso2
+L05D103
+ Nevíš skutecne nic o nemoci, co mne napadla? XXX
+// Arkhan3 G perso3
+L05D104
+ Ty tedy nevíš o mojí nemoci! XXX
+// Bogdaran perso8
+L05D105
+ Ne, Arkhane, já mohu pouze opakovat, já nemohu nic ... XXX
+// Arkhan2 G perso2
+L05D108
+ Nevzpomeneš si, co by mi pomohlo ... XXX
+// Arkhan3 G perso3
+L05D109
+ Nevzpomeneš si náhodou, co by mi pomohlo ... XXX
+// Bogdaran perso8
+L05D110A
+ Nedelej si starosti. XXX
+// Bogdaran perso8
+L05D110B
+ Kdybych se neco dozvedel, reknu já ti to. XXX
+// Arkhan1 G perso1
+L05D111
+ Co víš ty o teto veci zde? XXX
+// Bogdaran perso8
+L05D114
+ K tomu nenapadá mne nic zvláštního. XXX
+// Arkhan2 G perso2
+L05D115
+ Já našel tuto uniformu dole! XXX
+// Arkhan3 Gperso3
+L05D116
+ Je to tvoje uniforma? XXX
+// Bogdaran perso8
+L05D117A
+ Ano, moje první uniforma ... není uz jako nová ... XXX
+// Bogdaran perso8
+L05D117B
+ Ta nehodí se mi uz více ... XXX
+// Arkhan2 G perso2
+L05D118
+ Pokud nepotrebuješ tvojí uniformu, vezmu si jí. XXX
+// Arkhan3 G perso3
+L05D119
+ Já zabavím tvojí uniformu. XXX
+// Bogdaran perso8
+L05D120
+ Ehm ... Ano, vezmi si ji. XXX
+// Bogdaran perso8
+L05D121A
+ Pozor! To je nebezpecne! XXX
+// Bogdaran perso8
+L05D121B
+ To je speciální olej, co exploduje, kdyz prijde do kontaktu s ohnem. XXX
+// Bogdaran perso8
+L05D121C
+ To natropí porádne škody! XXX
+// Bogdaran perso8
+L05D122A
+ Ty koule zde? To je munice pro pušku. XXX
+// Bogdaran perso8
+L05D122B
+ Ale aby tvá puška byla funkcní, musíš varic na to upevnit. XXX
+// Bogdaran perso8
+L05D123A
+ Varic potrebuješ bezpodmínecne, v ktere se nachází reserva páry pušky. XXX
+// Bogdaran perso8
+L05D123B
+ Bez varice a bez munice je tvá puška pouze obycejnou rourou! XXX
+// Bogdaran (beeindruckt) perso8
+L05D124A
+ Neuveritelne! Jaký zázrak! XXX
+// Bogdaran perso8
+L05D124B
+ Vypadá jako blesk od predkù, jako ta od Zeda. XXX
+// Bogdaran perso8
+L05D124C
+ Ale ta je mnohem vetší.  XXX
+// Bogdaran (neugierig) perso8
+L05D124D
+ Tys jí ... vyzkoušel? XXX
+// Arkhan2 G perso2
+L05D125
+ Do toho ti nic není. XXX
+// Arkhan3 G perso3
+L05D126
+ Do toho ti nic není. XXX
+// Bogdaran perso8
+L05D135A
+ Ty máš plamenomet? XXX
+// Bogdaran perso8
+L05D135B
+ To je nová zbran, která byla smetáky vymyšlena. XXX
+// Bogdaran perso8
+L05D135C
+ Myslím, ze plány byly ukradeny. XXX
+// Bogdaran perso8
+L05D135D
+ Kde jsi jí našel? XXX
+// Bogdaran perso8
+L05D138A
+ Z techto ploten se vyrábí munice pro pušky. XXX
+// Bogdaran perso8
+L05D138B
+ Zde já ale neudelám z toho nic, na to potrebuju vysokou teplotou. XXX
+// Bogdaran perso8
+L05D138C
+ Mel bys jít do haly, naproti stráznímu sálu. XXX
+// Bogdaran (stolz auf sich) perso8
+L05D141A
+ Jeden blajspucker. Výš ty vlastne, ze já tuto zbran vyvinul? XXX
+// Bogdaran (stolz auf sich) perso8
+L05D141B
+ Já jsem jediný, který parní varice vyrábí. Ty dávají energii na pro pušku. XXX
+// Bogdaran (stolz)perso8
+L05D141C
+ Sutecne geniální system ... XXX
+// Arkhan2 G perso2
+L05D142A
+ Mistre olejù, já našel toto.  XXX
+// Arkhan2 G perso2
+L05D142B
+ To pochází z ruin od predkù.  XXX
+// Arkhan2 G perso2
+L05D142C
+ Víš ty, co je to? XXX
+// Arkhan3 G perso3
+L05D143A
+ Já to nalezl v hromade od predkù. XXX
+// Arkhan3 G perso3
+L05D143B
+ Víš ty, co je to? XXX
+// Bogdaran (unsicher) perso8
+L05D144A
+ Hmm ... Vypadá to, jako by to bylo rozbito.  XXX
+// Bogdaran (unsicher) perso8
+L05D144B
+ Dej mi to a já se pokusím o to ... XXX
+// Arkhan2 G perso2
+L05D83
+ Vezmi si to! XXX
+// Arkhan3 G perso2
+L05D84
+ Zde! XXX
+// Bogdaran (interessiert) perso8
+L05D85
+ Tak, my se podíváme, co je to. XXX
+// Arkhan1 G perso1
+L05D147
+ Ty to nazýváš bojováním, tlouštíku? XXX
+// Arkhan2 G perso2
+L05D148
+ Pouc se, co to znamená bojovat, tlustochu! XXX
+// Arkhan3 G (hämisch)perso3
+L05D149
+ Ty odporný tlustochu! XXX
+// Bogdaran perso8
+L05D150B
+ Bídný prasecí pse! XXX
+// Bogdaran perso8
+L05D151
+ Ne! Nech mne zít! XXX
+// Arkhan2 G perso2
+L05D152
+ Ty vidíš ve mne zrùdu, a já jednám jako zrùda! XXX
+// Arkhan3 G perso3
+L05D153
+ Kdyz ty mi jinou moznost nedáváš ... XXX
+// Bogdaran perso8
+L05D154
+ Ne, poslechni mne, já jsem rozumný! Já uciním to, co ty ode mne budeš chtít! XXX
+// Arkhan2 G perso2
+L05D155
+ Jsi pripravený, mne poslechnout a mi pomoci? XXX
+// Arkhan3 G perso3
+L05D156
+ Poslechneš mne a pomùzeš mi! XXX
+// Bogdaran perso8
+L05D157
+ Já prísahám u Slunecního Boha! XXX
+// Arkhan2 G perso2
+L05D158
+ Být já tebou, drzel bych slovo! XXX
+// Arkhan3 G perso3
+L05D159
+ Na tvem míste drzel bych slovo! XXX
+// Bogdaran perso8
+L05D160A
+ Já vím! Já ti pomohu ... XXX
+// Bogdaran (gibt vor, entspannt zu sein)perso8
+L05D160B
+ Kdybys ty mne chtel usmrtit, ucinil bys to jiz, nebo? XXX
+// Arkhan1 G perso1
+L05D162
+ Olejový sud ješte není naplnený. XXX
+// Arkhan2 G perso2
+L05D163
+ Sud s olejem není plný. XXX
+// Arkhan3 G perso3
+L05D164
+ V tomto okamziku není olej vevnitr. XXX
+// Bogdaran perso8
+L05D165A
+ Nedotýkej se toho! XXX
+// Bogdaran perso8
+L05D165B
+ Olej ješte není vycistený. XXX
+// Arkhan2 G perso2
+L05D168
+ Olej. XXX
+// Arkhan3 G perso3
+L05D169
+ Olej! XXX
+// Bogdaran perso8
+L05D170
+ Hej! Nerozumíš memu oleji! XXX
+// Arkhan2 L (zu Delia) perso2
+L05D171
+ Jsem štastný, ze já te sem mohl privezt. XXX
+// Arkhan2 O (zu Delia) perso2
+L05D172
+ Prestan se trást, jsme tu! XXX
+// Arkhan3 G (zu Delia) perso3
+L05D212
+ My jsme tu. XXX
+// Delia perso10
+L05D173
+ Tisícere díky, Arkhane. Bùh Slunce chce te chránit. XXX
+// Arkhan2 L perso2
+L05D174
+ Zùstan nyní u Bogdarana. XXX
+// Arkhan3 L perso3
+L05D175
+ Mnoho štestí! XXX
+// Delia perso10
+L05D176
+ Slunce bud s tebou, Arkhane. XXX
+// Bogdaran perso8
+L05D177A
+ Nedelej si starosti, Arkhane, já dám na ni pozor. XXX
+// Bogdaran perso8
+L05D177B
+ Jsem tvým dluzníkem, já ti to nezapomenu. XXX
+// Arkhan2 O perso2
+L05D178A
+ Cím delé te pozoruju, tím lepe já ti rozumím Bogdarane. XXX
+// Arkhan2 O perso2
+L05D178B
+ A doufám, ze ty jednoho dne budeš tancovat ... pouze pro mne. XXX
+// Arkhan3 O perso3
+L05D179
+ Jsi k nakousnutí ... XXX
+// Delia perso10
+L05D180A
+ Já ti dekuji, Arkhane. XXX
+// Delia (zukünftige Gunst versprechend)perso10
+L05D180B
+ A pokud bude Bùh Slunce chtít, pak ... dokázu já ti to ... XXX
+// Bogdaran (unzufrieden, weil Arkhan mit Delia flirtet) perso8
+L05D181
+ He, Arkhane, to ... to je lepší, ty jiz jdi ... XXX
+// Delia (interessiert sich nicht dafür, was Arkhan Ihr zeigt) perso10
+L05D86
+ Víš ty, já ... XXX
+// Arkhan2 L (hat sich mit Delia geschlagen) perso2
+L45D01
+ To stací, Delio, uklidni se! XXX
+// Arkhan2 O (hat sich mit Delia geschlagen) perso2
+L45D02
+ Nestacilo ti to ješte, couro?! XXX
+// Arkhan3 L (hat sich mit Delia geschlagen) perso3
+L45D03
+ Dost stací! XXX
+// Arkhan1 G perso1
+L05D182
+ Nic potrebneho na regálu. XXX
+// Arkhan2 G perso2
+L05D183
+ Nepotrebný materiál ... XXX
+// Arkhan3 G perso3
+L05D184
+ Nic zajímaveho ... XXX
+// Bogdaran (A. durchsucht seine Sachen) perso8
+L05D194
+ Hej! Neruš mne! XXX
+// Arkhan1 L perso1
+L05D185
+ Ty sudy jsou prázdné. XXX
+// Arkhan1 O perso1
+L05D186
+ Tu není nic! XXX
+// Arkhan2 L perso1
+L05D187
+ Prázdne sudy.  XXX
+// Arkhan2 O perso2
+L05D188
+ Prázdne! XXX
+// Arkhan3 O perso3
+L05D190
+ Prázdne! XXX
+// Arkhan1G perso1
+L05D191
+ Stará prázdna truhla. XXX
+// Arkhan2 G perso2
+L05D192
+ Stará prazdná truha. XXX
+// Arkhan3 G perso3
+L05D193
+ Tu není nic vevnitr. XXX
+// Bogdaran perso8
+L05D195
+ Pokud ty chceš vedet, co je to, pak se toho nedotýkej! XXX
+// Arkhan2 G (unzufrieden) perso2
+L05D196
+ Hmm... XXX
+// Bogdaran (A. durchsucht seine Sachen) perso8
+L05D201
+ Hej! Prsty pryc! XXX

@@ -1,0 +1,544 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL28.TXT
+ // Archivist (unruhig) perso5
+L28D100
+ Kdo je to? XXX
+// Arkhan2 G perso2
+L28D101
+ Arkhan. Vzpomínáš si na mne? XXX
+// Arkhan3 G perso3
+L28D102
+ Arkhan! XXX
+// Archivist (beruhigt) perso5
+L28D103A
+ Ach, to jsi ty, Arkhane.  XXX
+// Archivist perso5
+L28D103B
+ Pojd jen blíz, pojd! XXX
+// Arkhan2 L perso2
+L28D01
+ Zádný strach, Väterchen! XXX
+// Archivist perso5
+L28D02
+ Jak prosím? Strach? Z cehopak, mladý muzi? XXX
+// Arkhan2 L perso2
+L28D03A
+ Ehm ... ze mne ...  XXX
+// Arkhan2 L perso2
+L28D03B
+ Myslím, ze jsem snad trochu náhle vstoupil dovnitr ... XXX
+// Archivist perso5
+L28D04A
+ To není zas tak hrozne, mladý príteli. Toho je treba více, abys starýho Sesekhana vylekal. XXX
+// Archivist perso5
+L28D04B
+ Víš, já prozil daleko horší veci, od te doby co jsem archivistou ... XXX
+// Arkhan2 O perso2
+L28D05
+ Zádný strach, staríku! XXX
+// Arkhan2 O perso2
+L28D06
+ Z ceho? Ze mne prirozene! Tak jak já nyní vypadám, všichni utíkají prede mnou! XXX
+// Arkhan3 L perso3
+L28D07
+ Nemej strach! XXX
+// Arkhan3 L perso3
+L28D08
+ Ehm ... Já ... Pred nicím ... docela nicím. XXX
+// Archivist perso5
+L28D09
+ Dobre. Co te privedlo k Archivistovi, mladý príteli? Starý Sesekhan jiz není zvyklí, prijímat návštevy ... XXX
+// Archivist perso5
+L28D11A
+ Jak prosím?... Oh, návštevník ... Omlouvá se staremu Archivistovi. XXX
+// Archivist perso5
+L28D11B
+ Byl jsem tak hluboce do me práce zahloubán, ze jsem te neslyšel vstoupit ... XXX
+// Arkhan2 G perso2
+L28D84
+ Es öffnet sich! XXX
+// Arkhan3 G perso3
+L28D120
+ Otevreno! XXX
+// Archivist perso5
+L28D22A
+ Je mi líto, mùj príteli, špatne slyším, nerozumím dobre, to co ríkáš. XXX
+// Archivist perso5
+L28D22B
+ Mohl bys zretelneji mluvit? XXX
+// Arkhan2 L perso2
+L28D72A
+ Svetlo s tebou, Archivisto.  XXX
+// Arkhan2 L perso2
+L28D72B
+ Jsem Arkhan, syn kneze Rylsadhara. XXX
+// Archivist perso5
+L28D73A
+ Ty jsi Rysaldharùv syn? XXX
+// Archivist perso5
+L28D73B
+ Odpust mi, ale já vidím velmi, velmi špatne. Já te nepoznal. XXX
+// Archivist perso5
+L28D73C
+ Jsou to mesíce, co jsi mne naposled navštívil. XXX
+// Archivist perso5
+L28D73D
+ Naposledy byl jsi ješte malý kluk  ... Teší mne, te opet videt ... XXX
+// Arkhan2 L perso2
+L28D74
+ Ehm ... ano, mne take ... XXX
+// Arkhan2 O perso2
+L28D75
+ Ty jsi prece Archivista, mám pravdu? Já se jmenuju Arkhan ... XXX
+// Archivist perso5
+L28D76A
+ Srdecne te vítám v archívní místnosti, Arkhane ... XXX
+// Archivist perso5
+L28D76B
+ Pokud ty svetlo ve znalostech hledáš, udelám všechno, co v mojich silách bude, abych ti pomohl. XXX
+// Arkhan3 L perso3
+L28D77
+ Já jsem Arkhan. XXX
+// Arkhan2 L perso2
+L28D26
+ Hledám vchod nejake hrobky ... XXX
+// Archivist perso5
+L28D27A
+ Nejaká hrobka ... Mel bys ty snad jít k Bandorovi, Mistrovi staviteli. XXX
+// Archivist perso5
+L28D27B
+ Pokud nekdo Stallit zná do základních kamenù, pak on. XXX
+// Arkhan2 L perso2
+L28D28
+ Mistr stavitel ... Kde ho najdu? XXX
+// Archivist perso5
+L28D29A
+ Ve vezi Stavitelù, hned vedle Velkeho chrámu.  XXX
+// Archivist perso5
+L28D29B
+ Ale já nevím, zda on tam je.  XXX
+// Archivist perso5
+L28D29C
+ On jezdí casto do Spodního mesta, na dohlízení jeho velke práce, jak pokracuje. XXX
+// Arkhan2 O perso2
+L28D30
+ Co ty víš o hrobce, která se zde v blízkosti má nacházet? XXX
+// Arkhan2 O perso2
+L28D31
+ Kde je ten Bandor? XXX
+// Arkhan3 L perso3
+L28D32
+ Archivisto, musím najít tajemnou hrobku! XXX
+// Arkhan3 L perso3
+L28D33
+ Kde je? XXX
+// Arkhan2 L perso2
+L28D34
+ Archivisto, ty jsi prece moudrý muz - ty znáš temneho dábla, kterým jsem nakazen? XXX
+// Archivist perso5
+L28D35A
+ Dábel Temne Zeme. Ano, o tom já jiz slyšel. XXX
+// Archivist perso5
+L28D35B
+ Nejsem lecitel jako Thanandar, ale já vím, ze se jedná o strašnou nemoc.  XXX
+// Archivist perso5
+L28D35C
+ Kdo, ti vlastne rekl o teto nemoci? XXX
+// Arkhan2 L perso2
+L28D36A
+ Ehm ... jeden mùj prítel. XXX
+// Arkhan2 L perso2
+L28D36B
+ Znáš protilek? XXX
+// Archivist perso5
+L28D37A
+ Bohuzel ne. Lecitele hledají jiz velmi dlouho protilek. XXX
+// Archivist perso5
+L28D37B
+ Ale nikomu se nepodarilo, temnou nemoc skutecne porazit. XXX
+// Arkhan2 L perso2
+L28D38
+ Já ho najdu! XXX
+// Arkhan2 O perso2
+L28D39
+ Musím najít prostredek, proti temne nemoci, se kterým bych jí porazil! XXX
+// Arkhan2 O perso2
+L28D40
+ -ANO - jsem nemocný, alter Spinner! Znáš prece jiste protilek! XXX
+// Arkhan2 O perso2
+L28D41
+ Jak povzbudive! XXX
+// Arkhan3 L perso3
+L28D42
+ Hledám lecivý protilek proti dáblu Temne Zeme! XXX
+// Arkhan3 L perso3
+L28D43
+ Znáš protilek? XXX
+// Arkhan3 L perso3
+L28D44
+ Proklate! XXX
+// Arkhan2 L perso2
+L28D45
+ Nevíš o nicem, co by mi ješte mohlo pomoci? XXX
+// Archivist perso5
+L28D46
+ Je mi líto, mladý príteli, nevím nic, co bych ti mohl ješte ríci ... XXX
+// Arkhan2 O perso2
+L28D47
+ Proklate, mel by ses alespon pokusit, mi pomoci! XXX
+// Archivist perso5
+L28D48A
+ Jsi mladý, tvá krev je prudká. Cvic se ve ctnosti a trpelivosti. XXX
+// Archivist perso5
+L28D48B
+ Pokud bych ti mohl pomoci, ucinil bych to rád. XXX
+// Archivist perso5
+L28D48C
+ Pokud chceš, podívám se po mem archivu, zda-li tam neco o dáblu Temne Zeme najdu. XXX
+// Archivist perso5
+L28D48D
+ Prijd pozdeji ješte jednou a pak ti reknu, zda-li jsem neco našel. XXX
+// Arkhan2 O perso2
+L28D49
+ Hmm. Rozumím! XXX
+// Arkhan2 O perso2
+L28D62
+ Je to všechno, co jsi nalezl? XXX
+// Archivist perso5
+L28D61
+ Ano, mùj mladý príteli, to je všechno, je mi to líto. XXX
+// Arkhan2 G perso2
+L28D52
+ Tedy, Archivisto, našel jsi neco o teto nemoci Temne Zeme? XXX
+// Archivist perso5
+L28D53A
+ Ano, víš ty ...  XXX
+// Archivist perso5
+L28D53B
+ Naše archívy nemohou všechny vedomosti mít, ktere lide pod Slunecním Bohem nasbírali. XXX
+// Archivist perso5
+L28D53C
+ Já jsem prece jenom pár rádkù o teto nemoci nalezl. XXX
+// Archivist perso5
+L28D53D
+ Nikde se nemluví o lecivem prostredku, ale vícekrát se objevilo slovo "kámen svetla". XXX
+// Arkhan2 G perso2
+L28D54
+ Co to je za kámen? XXX
+// Archivist perso5
+L28D55A
+ To já nevím, ale v jednom zápisu stojí následující: XXX
+// Archivist perso5
+L28D55B
+ "Pokud infikovaná obet rychle se s kamenem do kontaktu dostane, mùze nemoc být vyhubená. XXX
+// Archivist perso5
+L28D55C
+ Pokud se ale dlouho ceká, a nemoc se stane príliš silnou, pacient zemre ... nebo se mu ješte více pritízí". XXX
+// Archivist perso5
+L28D55D
+ To je všechno, co jsem našel. XXX
+// Arkhan2 G perso2
+L28D56A
+ To je prece neco. XXX
+// Arkhan2 L perso2
+L28D56B
+ Dekuji ti za tvojí pomoc, Sesekhane. XXX
+// Arkhan3 L perso3
+L28D50
+ Archivisto, potrebuju nalehave protilek! XXX
+// Archivist perso5
+L28D51A
+ Je to tak špatne? ... Tedy dobre, rozumím ... XXX
+// Archivist perso5
+L28D51B
+ Poslouchej, uvidím, co já v mem Archivu o nemoci Temne Zeme najdu. XXX
+// Arkhan3 L perso3
+L28D63
+ Nemùzeš mi nic noveho ríci? XXX
+// Arkhan3 L perso3
+L28D57
+ Neco o nemoci Temne Zeme? XXX
+// Arkhan3 L perso3
+L28D58
+ Máš novinky? XXX
+// Arkhan3 L perso3
+L28D59
+ Ne! Niemals! XXX
+// Arkhan2 L perso2
+L28D12
+ Jsem domluvený s mým otcem Rylsadharem. Videl jsi ho? XXX
+// Archivist perso5
+L28D13A
+ Ah, tvùj otec je velmi dobrý muz. On mne navštevuje casto, víš. XXX
+// Archivist perso5
+L28D13B
+ On se velmi zajímá o tajemství predkù. Er hat viel geforscht, er ist ein sehr gebildeter Mann. XXX
+// Archivist perso5
+L28D13C
+ Ne jak knez Brogell. Ten nemá více mozku v hlave nez krysa! Jednoho dne on ... jak to mám ríct ...  XXX
+// Arkhan2 L perso2
+L28D14
+ Ano ... ano ... Videl jsi tedy meho otce nebo ne? XXX
+// Archivist perso5
+L28D15A
+ Tveho otce? Ehm ... Ne. Ne, já ho nevidel, co se Slunecní Bùh zvedl. XXX
+// Archivist perso5
+L28D15B
+ Snad betet on v sálu Rahaly ... XXX
+// Arkhan2 O perso2
+L28D16
+ Hledám Rylsadhara, videl jsi ho? XXX
+// Archivist perso5
+L28D17A
+ Rylsadhara? Ne, zde není nikdo krome mne, mladý prítely.  XXX
+// Archivist perso5
+L28D17B
+ Ale snad ti mohu pomoci, pokud svedectví minulosti, neue Erlasse oder heilige Schriften suchst. XXX
+// Arkhan2 O perso2
+L28D18
+ Dost! Všechno je mi lhostejne! Chci sveho otce videt! XXX
+// Arkhan3 L perso3
+L28D19
+ Videl jsi Rylsadhara? XXX
+// Arkhan3 L perso3
+L28D20
+ Ne. Já cekám na Rylsadhara! XXX
+// Archivist perso5
+L28D21A
+ Je mi líto, ale on zde není.  XXX
+// Archivist perso5
+L28D21B
+ Snad se modlí v sálu Rahaly ... XXX
+// Arkhan2 L perso2
+L28D23A
+ Sesekhane, jseš si jistý, ze tu Rylsadhar nebyl? XXX
+// Arkhan2 L perso2
+L28D23B
+ On chtel zde na mne cekat. XXX
+// Archivist perso5
+L28D24A
+ Docela jiste! Moje slabe stare oci nejsou uz nejlepší, ale ujištuju te, synu Rylsadharùv, ze zde nikdo nebyl ... XXX
+// Archivist perso5
+L28D24B
+ Von Dir natürlich abgesehen, was schon ein Ereignis ist! XXX
+// Arkhan2 O perso2
+L28D25
+ Zamysli se, starce! Jseš si jistý, ze Rylsadhar zde nebyl? XXX
+// Arkhan2 G perso2
+L28D64
+ Znáš to? XXX
+// Archivist perso5
+L28D65A
+ To je to, co Rysadhar "klícem nebeske muziky" nazýval. XXX
+// Archivist perso5
+L28D65B
+ Ackoli já tuto muziku ješte nikdy v chrámu neslyšel. XXX
+// Archivist perso5
+L28D65C
+ Velký roh ostatne jiz se dlouho nespustil. XXX
+// Archivist perso5
+L28D65D
+ Dríve bylo více techto hudebních klícù jako je tento zde. XXX
+// Archivist perso5
+L28D65E
+ Ale ostatní pred nejakým casem zmizeli. Nekterí ríkají, ze byli ukradeny ... XXX
+// Archivist perso5
+L28D65F
+ Zùstala pouze ta otcovo, kterou pak on dal do bezpecí.  XXX
+// Arkhan3 G perso3
+L28D66
+ Co je to? XXX
+// Arkhan2 G perso2
+L28D217
+ Znáš tento dokument? XXX
+// Archivist perso5
+L28D218A
+Hmm ... Nekolik kreseb ... Nejaká krátká básen ... XXX
+// Archivist perso5
+L28D218B
+ To je písmo Rylsadharovo... XXX
+// Archivist perso5
+L28D218C
+Poznal bych mezi tisíci. XXX
+// Arkhan2 G perso2
+L28D113
+ Co je to za disk? XXX
+// Archivist perso5
+L28D114A
+ Nádherný, není-liz pravda? XXX
+// Archivist perso5
+L28D114B
+ To je výrobek predkù, ze slavných starých casù, kdyz se náš celý svet ješte ve svetle koupal. XXX
+// Archivist perso5
+L28D114C
+ Ponechej si ji, já doufám, on ti prinese štestí. XXX
+// Arkhan2 G perso2
+L28D67
+ Co mi mùzeš o tom vyprávet? XXX
+// Archivist perso5
+L28D68
+ Co? Hmm... K tomu me nic nenapadá, je mi líto ... XXX
+// Arkhan2 L perso2
+L28D104
+ Co se stalo?! XXX
+// Archivist perso5
+L28D105A
+ Delám si starosti, synu Rylsadharovo. XXX
+// Archivist perso5
+L28D105B
+ Slyšel jsem od vedle krik a hrozný zvuky. XXX
+// Archivist perso5
+L28D105C
+ A cosi ... neco obrovskeho, ano, vzadu za mými dvermi se strílelo. XXX
+// Archivist perso5
+L28D105D
+ Jsem starý a moje smysly jsou unavene, ale jsem si jistý, ze se stalo neco hrozneho. XXX
+// Arkhan2 L perso2
+L28D107A
+ Jen zádný strach, postarám se o to.  XXX
+// Arkhan2 L perso2
+L28D107B
+ A ty zùstan zde a schovej se, je to jistejší. XXX
+// Arkhan2 O perso2
+L28D110
+ Proc jseš tak rozcilený? XXX
+// Arkhan2 O perso2
+L28D111
+ Všechno v porádku, uklidni se! Postarám se o to! XXX
+// Arkhan2 L perso2
+L28D108
+ Rekni mi, co jsi slyšel. XXX
+// Arkhan2 O perso2
+L28D112
+ Jinak nic? XXX
+// Archivist perso5
+L28D109A
+ Krik, kricící zeny. XXX
+// Archivist perso5
+L28D109B
+ A nejaký druh ... nelidskeho ... strašneho hlasu. XXX
+// Archivist perso5
+L28D109C
+ A pak ùplne ticho. XXX
+// Arkhan3 G perso2
+L28D115
+ Co je to? XXX
+// Arkhan3 G perso2
+L28D107
+ Zùstan zde. Podívám se.  XXX
+// Arkhan3 G perso2
+L28D116A
+ Co jsi slyšel? XXX
+// Arkhan3 O perso2
+L28D116B
+ Mluv! XXX
+// Arkhan2 G perso2
+L28D118A
+ Sesekhane, naši neprátele jsou zde. XXX
+// Arkhan2 G perso2
+L28D118B
+ Velká Knezka Lory byla zabita! XXX
+// Archivist perso5
+L28D119A
+ Lory, mrtvá? XXX
+// Archivist perso5
+L28D119B
+ Otce svetla ochranuj nás! XXX
+// Arkhan2 G perso2
+L28D121
+ Zùstan zde, schovej se a chovej se klidne. XXX
+// Archivist perso5
+L28D122
+ Ano. Dávej pozor na sebe, mladý príteli! XXX
+// Arkhan3 G perso3
+L28D123A
+ Naši neprátele jsou zde! XXX
+// Arkhan3 G perso3
+L28D123B
+ Lory je mrtvá! XXX
+// Arkhan3 G perso3
+L28D124
+ Zùstan zde, a schovej se! XXX
+// Arkhan2 G perso2
+L28D71A
+ Dejiny našeho Stallitu, od kneze Gabky: XXX
+// Arkhan2 G perso2
+L28D71B
+ Organizace našeho stallitu Sparty pochází ješte z dávných casù Thelena Khrona.  XXX
+// Arkhan2 G perso2
+L28D71C
+ Z casù výstavby chrámu Slunecního Boha a velke plošiny. XXX
+// Arkhan2 G perso2
+L28D71D
+ Knezí, osvícený od svetla moudrostí a poslove Boha Slunce, prívitali v jejich nove postavenem meste všechny spravedlive, kterí tam chtejí zít.  XXX
+// Arkhan2 G perso2
+L28D71E
+ Strázci ohnù, oddaní slouzící Boha Slunce, pomáhají jim u toho, nove príchozí pojmenovat, a ochranovat.  XXX
+// Arkhan2 G perso2
+L28D71F
+ Budovy, von den schönsten bis zu den bescheidensten, byly od stavitelù stvoreny. Jeden z nich byl známý stavitel Turkhan, který plány nejkrásnejších míst Sparty vytvoril.  XXX
+// Arkhan2 G perso2
+L28D71G
+ Muzi a zeny, kterí dobre lovu a pestování rozumneli, se nazývají zivitele.  XXX
+// Arkhan2 G perso2
+L28D71H
+ A velká skupina hadrárù, smetákù, starých a mladých, muzù a zen, pomáhali všichni, ze Sparty udelat místo míru a svetla uprostred Temne Zeme.  XXX
+// Arkhan2 G perso2
+L28D71I
+ Hmm... Od te doby se zrejme neco zmenilo! XXX
+// Arkhan3 G perso3
+L28D171A
+ Dejiny našeho Stallitu od kneze Gabky : XXX
+// Arkhan3 G perso3
+L28D171B
+ Organizace našeho Stallitu Sparty pochází ješte ze vzdálených casù Thelena Khrona.  XXX
+// Arkhan3 G perso3
+L28D171C
+ Z casù po výstavbe chrámu Slunecního Boha a velke plošiny. XXX
+// Arkhan3 G perso3
+L28D171D
+ Knezí, osvícený svetlem a moudrostí a poslove Boha Slunce, vítali v nove postavenem meste všechny spravedlive, kterí tam chteli zít.  XXX
+// Arkhan3 G perso3
+L28D171E
+ Strázci ohnù, oddaní slouzící Boha Slunce, pomáhají u toho, nove príchozí pojmenovávat, a ochranovat.  XXX
+// Arkhan3 G perso3
+L28D171F
+ Budovy, von den schönsten bis zu den bescheidensten, byli stvoreny staviteli. Jeden z nich byl známí Turkhan, který plány nejkrásnejších míst Sparty vypracoval.  XXX
+// Arkhan3 G perso3
+L28D171G
+ Muzi a zeny, kterí se v chovu a pestování vyznali, se nazývají zivitele.  XXX
+// Arkhan3 G perso3
+L28D171H
+ A velká skupina hadrárù, smetákù, starých a mladých, muzù a zen, pomáhali všem, ze Sparty místo míru a svetla vytvorit uprostred Temne Zeme. ... XXX
+// Arkhan3 G perso3
+L28D171I
+ To všechno je minulost! XXX
+// Arkhan2 L perso2
+L28D82
+ Tu je nejaký Mechanismus, ale já nevím, jak ho aktivovat. XXX
+// Arkhan2 O perso2
+L28D83
+ Prokletá mechanika! XXX
+// Arkhan3 G perso3
+L28D97
+ Co je to za mechanismus? XXX
+// Arkhan3 G perso3
+L28D99
+ Tu nic není více! XXX
+// Arkhan2 L perso2
+L28D88
+ Zde je neco. XXX
+// Arkhan2 O perso2
+L28D87
+ Copak je to? XXX
+// Arkhan3 L perso3
+L28D90
+ Zde je cosi! XXX
+// Arkhan3 O perso3
+L28D92
+ Copak je to? XXX
+// Arkhan2 G perso2
+L28D69
+ Hmm ... To je k nerozluštení ...  XXX
+// Arkhan3 G perso3
+L28D70
+ (Knurren) ... K nerozluštení ... XXX

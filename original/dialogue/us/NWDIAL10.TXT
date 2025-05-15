@@ -1,0 +1,565 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL10.TXT
+ // Kalhi perso33
+L10D64A
+ So far the Sun God is on our side! XXX
+// Kalhi perso33
+L10D64B
+ Now we have to get around the Guardian of Fire on the platform.  XXX
+// Kalhi perso33
+L10D64C
+ He'll never let you go down, with or without me.  XXX
+// Sunseer1 perso18
+L10D78A
+ We Sunseers are the instruments of the Sun God.  XXX
+// Sunseer1 perso18
+L10D78B
+ He speaks through our lips.  He sees all of you through our eyes. XXX
+// Sunseer1 perso18
+L10D78C
+ He now exhorts us to resist the forces of Darkness!  XXX
+// Sunseer1 perso18
+L10D78D
+ The heretics who have let the Darkness enter their hearts will pay for their treason with their own blood!  XXX
+// Sunseer1 perso18
+L10D78E
+ Onward, Guardians of Fire, and remember your sacred mission: you are the avenging hand of the Great Solaar! XXX
+// Sunseer1 perso18
+L10D78F
+ You must drive all those who have consorted with the Darkness out of the Stallite! XXX
+// Sunseer1 perso18
+L10D78G
+ Swear by the God Solaar! XXX
+// Guardians together perso55
+L10D79
+ We swear by the Great Sun God ! XXX
+// Kalhi perso13
+L10D127
+ Arkhan! You could have hurt me! XXX
+// Kalhi perso13
+L10D128
+ Come on, let's get out of here! XXX
+// Kalhi perso33
+L10D57
+ Give me a minute to get out of this crummy uniform!  XXX
+// Arkhan2 G perso2
+L10D51
+ He almost got me! XXX
+// Arkhan3 G perso3
+L10D52
+ Close call... XXX
+// Kalhi perso13
+L10D53
+ I was afraid he'd get you! XXX
+// Arkhan2 G perso2
+L10D54
+ I'm all right... still on my feet! XXX
+// Arkhan3 G perso3
+L10D55
+ I'll be all right... XXX
+// Kalhi perso13
+L10D56
+ Let's go down quick, before anybody else comes! XXX
+// Arkhan2 G perso2
+L10D80A
+ Blasted Sunseer! XXX
+// Arkhan2 G perso2
+L10D80B
+ All his stories about Creatures of Darkness are gonna get me killed!  XXX
+// Arkhan3 G perso3
+L10D81A
+ Blasted Sunseer! XXX
+// Arkhan3 G perso3
+L10D81B
+ He's gonna get me killed! XXX
+// Zed84 (A. has just killed two Guardians) perso84
+L10D01A
+ Arkhan! You traitor, stop! XXX
+// Arkhan 1 L perso1
+L10D96
+ Take it easy Zed, I know what I'm doing! XXX
+// Arkhan 1 O perso1
+L10D97
+ What are you gonna do about it? Kill me? XXX
+// Zed84 perso84
+L10D01B
+ You don't leave me any choice! XXX
+// Zed (distraught at having been forced to kill Arkhan) perso84
+L10D30
+ Duty is often a cruel master, my friend. XXX
+// Rylsadhar perso20
+L10D05A
+ No, Great Sunseer, I do not have time to attend this meeting. XXX
+// Rylsadhar perso20
+L10D05B
+ Believe me, an imminent danger threatens Sparta.  XXX
+// Rylsadhar perso20
+L10D05C
+ Our entire city is in danger, I sense it.  XXX
+// Rylsadhar perso20
+L10D05D
+ You well know that in the past my predictions have always been correct... XXX
+// Rylsadhar perso20
+L10D05E
+ I beseech you: let me continue my research. XXX
+// Lory perso15
+L10D06
+ But Rylsadhar, what are you afraid of? XXX
+// Rylsadhar perso20
+L10D07A
+ The Darkness, Great Sunseer, the Darkness that threatens to engulf us all.  XXX
+// Rylsadhar perso20
+L10D07B
+ The Dark Shroud is at our doorstep... and perhaps already within our walls...  XXX
+// Lory perso15
+L10D08
+ Your words cause me great alarm, Rylsadhar. Be careful. XXX
+// Rylsadhar perso20
+L10D09
+ Take this. I do not wish to keep it with me, it will be safer with you. XXX
+// Lory perso15
+L10D10
+ Light go with you, my friend! XXX
+// Rylsadhar perso20
+L10D11
+May  Light be with you, Lory! XXX
+// Arkhan1 G perso1
+L10D12A
+ My father and Lory the Great Sunseer with their heads together. XXX
+// Arkhan1 G perso1
+L10D12B
+ They looked like they were pretty worried about something. XXX
+// Guardian8 (loading a heavy vehicle) perso1
+L10D29A
+ Look out! XXX
+// Guardian2 (loading a heavy vehicle) perso1
+L10D29B
+ Let's go! XXX
+// Guardian16 (loading a heavy vehicle)  perso1
+L10D29C
+ Heave! XXX
+// Guardian8 (loading a heavy vehicle) perso1
+L10D29D
+ Ho! XXX
+// Guardian2 (loading a heavy vehicle) perso1
+L10D29E
+ Come on! XXX
+// Guardian16 (loading a heavy vehicle) perso1
+L10D29F
+ Heave! XXX
+// Guardian8 (loading a heavy vehicle) perso1
+L10D29G
+ Heave... Ho! XXX
+// Guardian2 (loading a heavy vehicle) perso1
+L10D29H
+ Ooooof! XXX
+// Guardian16 (loading a heavy vehicle) perso1
+L10D29I
+ Almost got it! XXX
+// Guardian15 perso55
+L10D35
+ Your number's up, monster! XXX
+// Guardian15 perso55
+L10D34
+ Look out! Look out for the Creature! XXX
+// Kalhi (getting dressed) perso33
+L10D129A
+ It's about my size! XXX
+// Kalhi perso33
+L10D129B
+ I hope it'll fool them... XXX
+// Kalhi perso13
+L10D98
+ Arkhan! For the love of the Sun God, hurry up! XXX
+// Kalhi perso13
+L10D99
+ Somebody's going to see us if we stay around much longer! XXX
+// Kalhi perso13
+L10D999
+ Arkhan, let's get out of here! XXX
+// Kalhi perso13
+L10D42
+ Arkhan! Wait! XXX
+// Kalhi perso13
+L10D32
+ Arkhan, I have an idea. XXX
+// Kalhi perso13
+L10D37A
+ I'll try and distract the guard so we can climb down by way of the platform. XXX
+// Kalhiperso13
+L10D37B
+ You sneak up behind and knock him out. XXX
+// Kalhi perso33
+L10D50
+ Keep out of the way and watch a real artist at work!  XXX
+// Kalhi (bluffing) perso13
+L10D73
+ Guardian! I think something terrible's happening in the Great Hall!  XXX
+// Guardian15 (mistrustful) perso55
+L10D74
+ Who says so? XXX
+// Kalhi (Bluffing) perso13
+L10D75
+ Dhorkan sent me! There's been an attack! Hurry! XXX
+// Guardian15 (suspicious) perso55
+L10D76
+ What kind of story is that? XXX
+// Kalhi perso33
+L10D38A
+ Guardian of Fire! What are you doing here? XXX
+// Kalhi perso33
+L10D38B
+ You were summoned to go with Guardian... uh... (mumble)... to the Rahal room. XXX
+// Guardian15 (caught off-balance) perso55
+L10D39
+ What? This is the first I've heard about it! XXX
+// Kalhi perso33
+L10D40
+ Hurry up! Dhorkan's not in a good mood today! XXX
+// Guardian15 (taken-in) perso55
+L10D41
+ Dhorkan! Well... I'm on my way! Thanks. XXX
+// Guardian15 (suspicious) perso55
+L10D77
+ Funny. I don't see anything unusual here... XXX
+// Kalhi perso13
+L10D43
+ Arkhan! Look out! XXX
+// Arkhan2 G perso2
+L10D47
+ You were terrific! XXX
+// Arkhan3 G perso3
+L10D48
+ Terrific! XXX
+// Kalhi perso33
+L10D49
+ Thanks. But let's not hang around. XXX
+// Kalhi (stunned) perso13
+L10D103
+ Arkhan! You're back! XXX
+// Kalhi (stunned) perso13
+L10D104
+ What the devil's gotten into you? XXX
+// Kalhi (almost in tears) perso13
+L10D105
+ It's that blasted poison, isn't it? XXX
+// Kalhi (stunned, confused) perso13
+L03D500A
+ Arkhan! You... Why did you do that? XXX
+// Delia (attacked by Arkhan) perso10
+L03D09
+ You've gone completely mad! XXX
+// Kalhi perso13
+L10D109A
+ I'm going to hide behind the wagon and spy on that guard on the platform. XXX
+// Kalhi perso13
+L10D109B
+ Quick, it won't be long before they discover I've flown the coop! XXX
+// Arkhan2 G perso2
+L10D02A
+ Wait here. I'll be right back. XXX
+// Arkhan3 G perso3
+L10D02B
+ Be right back.  XXX
+// Delia perso10
+L10D03A
+ Don't be long! XXX
+// Delia perso10
+L10D03B
+ I'm worried... XXX
+//Arkhan2 G perso2
+L11D06
+ No! The guard is coming! XXX
+//Arkhan3 G perso3
+L11D07
+ No! He's coming! XXX
+// Arkhan1 L perso1
+L10D16
+ Zed! What are you doing here? XXX
+// Arkhan1 O perso1
+L10D18A
+ Zed! Tired of working-out already? Wuss ! XXX
+// Arkhan1 O (insinuatingly) perso1
+L10D18B
+ Or maybe you're scared Phedoria will challenge you... to a little hand-to-hand combat!  XXX
+// Zed perso84
+L10D19
+ Will you shut your mouth?! XXX
+// Zed perso84
+L10D17A
+ We're bringing up a vehicle that was repaired down below by your friends the Scavengers. XXX
+// Zed perso84
+L10D17B
+ I'm in charge of the maneuver, that's all. XXX
+// Zed perso84
+L10D70
+ Is everything all right down below? XXX
+// Zed perso84
+L10D71
+ Come on, get with it! XXX
+// Zed perso84
+L10D72
+ Good, nearly there! XXX
+// Arkhan1 L perso1
+L10D20
+ What's this vehicle you're bringing up? XXX
+// Arkhan1 O perso1
+L10D22
+ Another infernal machine! XXX
+// Zed perso84
+L10D21A
+ It's the sail chariot I used during my last expedition.  XXX
+// Zed perso84
+L10D21B
+ It was in pretty bad shape by the time I got back.  XXX
+// Zed perso84
+L10D21C
+ The Builders couldn't do anything with it, but your friend Danrys repaired it. XXX
+// Arkhan1 L perso1
+L10D24A
+ You should stay here with us and rest a while.  XXX
+// Arkhan1 L perso1
+L10D24B
+ You don't have to go back out into the Darklands right away.  XXX
+// Arkhan1 O perso1
+L10D26A
+ Hey, what's forcing you to spend all your time in the Darklands?  XXX
+// Arkhan1 O perso1
+L10D26B
+ There's nothing out there! XXX
+// Zed (mysterious) perso84
+L10D25A
+ Believe me, Arkhan, I have my reasons. XXX
+// Zed (mysterious) perso84
+L10D25B
+ The Darklands aren't as empty as you think.  XXX
+// Zed perso84
+L10D25C
+ Come on, back to your post... XXX
+// Zed (attacked by Arkhan) perso84
+L10D27
+ Arkhan! What's the matter with you?!  XXX
+// Arkhan2 G perso2
+L10D88
+ This isn't the right key! XXX
+// Arkhan3 G perso3
+L10D89
+ Not the right key! XXX
+// Arkhan2 G perso2
+L10D90
+ There! XXX
+// Arkhan3 G perso3
+L10D91
+ There! XXX
+// Arkhan2 G perso2
+L10D84
+ I'll have to open the grate. XXX
+// Arkhan3 G perso3
+L10D85
+ I have to open the grate! XXX
+// Arkhan1 L perso1
+L10D04A
+This well's been  practically bone-dry for moons and  moons.  XXX
+// Arkhan2 L perso2
+L10D04B
+ This well's almost bone-dry. XXX
+// Arkhan3 L perso3
+L10D04C
+ Almost bone-dry. XXX
+// Arkhan1 O perso1
+L10D666
+ This blasted well has never had enough water in it!  XXX
+// Arkhan2 O perso2
+L10D667
+ Blasted well! Hardly any water left! XXX
+// Arkhan3 Operso3
+L10D668
+ Blasted well! XXX
+// Arkhan2 G perso2
+L10D86
+ No lock here! XXX
+// Arkhan3 G perso3
+L10D87
+ No lock here! XXX
+// Arkhan1 L perso1
+L10D67
+ Hey, is everything all right down there? XXX
+// Arkhan1 L perso1
+L10D68
+ Hey, can you hear me? XXX
+// Arkhan1 O (making fun of workers below) perso2
+L10D69A
+ (laugh) XXX
+// Arkhan1 O perso2
+L10D69B
+ They're working their guts out while I take it easy! XXX
+// Arkhan2 G perso2
+L10D13A
+ We're in the Upper City now. XXX
+// Arkhan2 G perso2
+L10D13B
+ Everything will be just fine. XXX
+// Arkhan3 G perso3
+L10D13C
+ We're in the Upper City. XXX
+// Arkhan3 G perso3
+L10D13D
+ Thing's will be fine. XXX
+// Delia (not really reassured) perso10
+L10D14
+ Yes. But now let's find Bogdaran, quick.  XXX
+// Delia (Arkhan shows her an object) perso10
+L10D92
+ Let's get out of here, Arkhan! XXX
+// Arkhan2 G (Delia or Kalhi hits him) perso2
+L10D93
+ You don't stand a chance, honey! XXX
+// Arkhan3 G (Delia or Kalhi hits him) perso3
+L10D94
+ You're history, babe! XXX
+// Delia (hit by Arkhan) perso10
+L10D95
+ No! Are you mad? Stop it! XXX
+// Arkhan2 G perso2
+L10D58
+ If things start to look bad, get back to Danrys as fast as you can, okay?  XXX
+// Arkhan3 G perso3
+L10D59
+ If things start to look bad, get back to Danrys! XXX
+// Kalhi perso13
+L10D60
+ All right, but take care of yourself!  XXX
+// Arkhan2 G perso2
+L10D61A
+ That Guardian on the platform is a toughie.  XXX
+// Arkhan2 G perso2
+L10D61B
+ It's not going to be easy! XXX
+// Arkhan3 G perso3
+L10D62
+ That guy guarding the platform is a tough one.  XXX
+// Kalhi perso13
+L10D63
+ We have to figure out some way to get around him... XXX
+// Arkhan2 G perso2
+L10D65
+ Okay, let's go! XXX
+// Arkhan3 G perso3
+L10D66
+ Let's go! XXX
+// Arkhan2 G perso2
+L10D100
+ Kalhi, do you know what this is? XXX
+// Arkhan3 G perso3
+L10D101
+ Kalhi, look at this. XXX
+// Kalhi (A. shows her an object) perso13
+L10D102
+ We don't have time, Arkhan. We have to go down! XXX
+// Arkhan2 G perso2
+L03D518
+ Look! One of Bogdaran's old uniforms... XXX
+// Arkhan2 G perso2
+L03D519
+ Before he got his gut! XXX
+// Arkhan3 G perso3
+L03D520
+ Put it on. XXX
+// Kalhi perso13
+L03D521
+ All right, I'll try it on... XXX
+// Kalhi (upset) perso13
+L10D106
+ Arkhan! Calm down! XXX
+// Kalhi (afraid) perso13
+L10D107
+ Stop it! XXX
+// Kalhi (forced to defend herself) perso13
+L10D108
+ Forgive me! XXX
+// Arkhan2 G perso2
+L10D44
+ What do you think? XXX
+// Arkhan3 G perso3
+L10D45
+ What're you going to do? XXX
+// Kalhi perso33
+L10D46
+ Trust me! I'm gonna get rid of this Guardian of Fire. XXX
+// Arkhan2 G perso2
+L10D130A
+ Put this on, it's one of Bogdaran's old uniforms. XXX
+// Arkhan2 G perso2
+L10D130B
+ Before he got fat!  XXX
+// Arkhan3 G perso3
+L10D131
+ Put this on! XXX
+// Kalhi  perso13
+L10D132
+ Okay, I'll try it... XXX
+// Arkhan2 G perso2
+L10D110
+ Hey, can you hear me!? Hold on! XXX
+// Guardian1 (dying) perso41
+L10D112A
+ Too late... They're here... Too strong, nothing... I...could do... XXX
+// Guardian1 (dying breath) perso41
+L10D112B
+ The Dark Shroud... forever... XXX
+// Arkhan3 G perso3
+L10D111
+ Can you hear me? Hey! XXX
+// Guardian1 (dying) perso41
+L10D113A
+ You came back to finish me off... Creature... XXX
+// Guardian1 (dying breath) perso41
+L10D113B
+ No use... my soul is already with... the Sun God... XXX
+// Arkhan2 L perso2
+L10D114A
+ If these monsters are here, they must be everywhere. XXX
+// Arkhan2 L perso2
+L10D114B
+ I have to find the Tomb, I must bring back the Light!  XXX
+// Arkhan3 L perso3
+L10D115A
+ These Creatures! Everywhere! XXX
+// Arkhan3 L perso3
+L10D115B
+ Have to find the Tomb!  Bring back Light!  XXX
+// Arkhan2 O perso2
+L10D116
+ I'd rather die than turn into that! XXX
+// Arkhan 3O perso3
+L10D117
+ Oh no, I'd rather die than look like that! XXX
+// Arkhan2 L perso2
+L10D118A
+ Poor Tharek... XXX
+// Arkhan2 L perso2
+L10D118B
+ The Creature didn't give him a chance. XXX
+// Arkhan3 L perso3
+L10D119
+ Poor Tharek... XXX
+// Arkhan2 L perso2
+L10D120
+ Too many dead... I have to bring the Light back to Sparta.  XXX
+// Arkhan3 L perso3
+L10D121
+ Too many dead... Have to bring Light back! XXX
+// Arkhan2 L perso2
+L10D122A
+ It's Broos! XXX
+// Arkhan2 L perso2
+L10D122B
+ One of my best friends... XXX
+// Arkhan3 L perso3
+L10D123
+ Broos... dead, too... XXX
+// Arkhan2 L perso2
+L10D124
+ This slaughter must be stopped! XXX
+// Arkhan3 L perso3
+L10D125
+ Slaughter must be stopped! XXX

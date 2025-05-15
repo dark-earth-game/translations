@@ -1,0 +1,439 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL20.TXT
+ // Zed84 perso84
+L20D01
+ Arkhan! Was ist los? XXX
+// Arkhan1 G perso1
+L20D02
+ Sie bringen die Große Predigerin um! Laß uns flüchten! XXX
+// Zed84 (wütend) perso84
+L20D03
+ Weglaufen sollen wir? Du elender Feigling! XXX
+// Arkhan2 G perso2
+L20D85
+ Ja! XXX
+// Arkhan2 G perso2
+L20D93
+ Ich hab' den Mechanismus aktiviert. XXX
+// Arkhan3 G perso3
+L20D86
+ Ja! XXX
+// Arkhan3 G perso3
+L20D94
+ Das funktioniert! XXX
+// Thanandar25 (wirft A. zu Boden)perso25
+L20D95
+ Dachtest Du etwa, Du könntest mir entkommen? XXX
+// Hüter1 perso41
+L20D121
+ Ah ! Da bist Du ja endlich! Geh auf Deinen Posten ... XXX
+// Zed84 (wütend) perso84
+L20D04
+ Arkhan! XXX
+// Arkhan1 G (sieht, wie Zed wütend angelaufen kommt) perso1
+L20D05
+ Nein, Zed, es ist nicht ... XXX
+// Zed84 (will Arkhan töten) perso84
+L20D06
+ Du mieser Verräter! XXX
+// Hüter1 (mürrisch) perso41
+L20D07A
+ Was ist denn das für 'ne seltsame Versammlung? XXX
+// Hüter1 (mürrisch) perso41
+L20D07B
+ Ich hoffe, das wird nicht allzu lange dauern... XXX
+// Hüter1 perso41
+L20D08A
+ Hey, Arkhan! XXX
+// Hüter1 perso41
+L20D08B
+ Hast Du die Absicht, hier ohne Deinen Säbel Wache zu stehen? XXX
+// Hüter1 perso41
+L20D08C
+ Hast Du die Absicht, mit dieser Axt Wache zu stehen? XXX
+// Hüter1 perso41
+L20D09A
+ Wenn Dhorkan Dich hier ohne Waffe sieht, kannst Du einpacken! XXX
+// Hüter1 perso41
+L20D09B
+ Wenn Dhorkan Dich hier ohne Deinen Säbel der Hüter des Feuers sieht, hat Dein letztes Stündlein geschlagen! XXX
+// Hüter1 perso41
+L20D10A
+ Los komm schon, Arkhan, beweg Dich! XXX
+// Hüter1 perso41
+L20D10B
+ Hol Deinen Säbel, beim Sonnengott! XXX
+// Hüter1 (außer sich) perso41
+L20D11A
+ Arkhan, Du willst wohl Ärger! XXX
+// Hüter1 perso41
+L20D11B
+ Ohne Deinen Säbel kannst Du hier nicht Wache stehen! XXX
+// Hüter1 perso41
+L20D12
+ Hast Du gehört? Irgendwas ist hier los! XXX
+// Arkhan1 G perso1
+L20D13
+ Laß uns mal nachschauen! XXX
+// Hüter1 perso41
+L20D14
+ Licht sei über Dir, Große Predigerin! XXX
+// Phedoria perso26
+L20D38
+ Du unterschreibst Dein Todesurteil, Arkhan! XXX
+// Hüter9 perso49
+L20D96
+ Halt! Wer bist Du? XXX
+// Hüter10 perso50
+L20D97
+ Arkhan... Beim Sonnengott, bist Du's? XXX
+// Hüter9 perso49
+L20D99
+ Wer bist Du? Sprich! XXX
+// Hüter9 perso49
+L20D112
+ Tod dem Feind! XXX
+// Hüter11 perso51
+L20D120
+ Eine Kreatur! Alarm! XXX
+// Hüter1 perso41
+L20D28
+ Hey! Nerv jemand anderen, aber nicht mich! XXX
+// Arkhan1 L perso1
+L20D15A
+ Licht sei über Dir, Jedar. XXX
+// Hüter1 perso41
+L20D16A
+ Verdammtes Feuerrohr, Arkhan! Du kommst wie immer zu spät! XXX
+// Hüter1 perso41
+L20D16B
+ Schämst Du Dich nicht, nach der Großen Predigerin anzukommen? XXX
+// Arkhan1 L perso1
+L20D15B
+ Entschuldige. Ich hatte ... ähm ... im Wachsaal zu tun. XXX
+// Hüter1 (verstimmt) perso41
+L20D16C
+ Mmmm. Das ist ja wieder typisch ... XXX
+// Arkhan1 L perso1
+L20D17A
+ Sind wir die einzigen Wachen hier? XXX
+// Arkhan1 L perso1
+L20D17B
+ Das ist ja eine leichte Eskorte für die Große Predigerin und ihre Berater. XXX
+// Hüter1 (zuckt die Achseln) perso41
+L20D18A
+ Ja, vor allem wenn eine der zwei Wachen nicht kommt! XXX
+// Hüter1 perso41
+L20D18B
+ Nun ja, so war es wohl nicht geplant, ich nehm' an, der Profos hat es nicht geschafft, alle Wachen zusammenzutrommeln. XXX
+// Hüter1 (bitter) perso41
+L20D18C
+ Jedenfalls finden sie immer zwei Dumme!... XXX
+// Hüter1 (spöttisch) perso41
+L20D18D
+ Entweder er hatte keine Zeit oder es war Absicht. XXX
+// Hüter1 (spöttisch) perso41
+L20D18E
+ Da Du immer zu spät kommst, war eigentlich klar, daß die Wache eingeschränkt sein würde! XXX
+// Arkhan1 L perso1
+L20D19
+ Du bist ja finster gelaunt heute. XXX
+// Hüter1 perso41
+L20D20A
+ Komm schon, geh an Deinen Platz auf der anderen Seite der Tür. XXX
+// Hüter1 perso41
+L20D20B
+ Wir dürfen eigentlich nicht miteinander reden! XXX
+// Hüter1 (außer sich) perso41
+L20D21
+ Sei still und geh auf Deinen Posten, verstanden? XXX
+// Arkhan1 O perso1
+L20D22
+ Sie gegrüßt, Jedar. Wie steht's, amüsierst Du Dich gut? XXX
+// Hüter1 perso41
+L20D23A
+ An Deiner Stelle würd' ich aufpassen, was ich sag'.  XXX
+// Hüter1 perso41
+L20D23B
+ Wenn Dhorkan erfährt, daß Du nicht da warst, als die Große Predigerin eingetroffen ist, wirst Du im Kerker verfaulen! XXX
+// Arkhan1 O perso1
+L20D24A
+ Was tun wir hier eigentlich? Vor einer Tür die Zeit totschlagen! XXX
+// Arkhan1 O perso1
+L20D24B
+ Kannst Du mir das sagen? XXX
+// Arkhan1 O perso1
+L20D25
+ Jetzt hab' ich wirklich die Nase voll. Ich hätte Prediger werden sollen, wie mein Vater! XXX
+// Hüter1 perso41
+L20D26A
+ Prediger? Du bist wohl verrückt geworden! XXX
+// Hüter1 (ein wenig verlegen) perso41
+L20D26B
+ Äh ... Ich meine ... Prediger, das ist schon was! XXX
+// Hüter1 perso41
+L20D26C
+ Auch ich danke dem Sonnengott, der uns Licht und Wärme schenkt, jeden Tag für seine Güte. XXX
+// Hüter1 perso41
+L20D26D
+ Aber ich würd' nicht so weit gehen, vor dem Kristall im Saal des Rahal nebenan zu beten ... XXX
+// Hüter1 perso41
+L20D26E
+ Nein, das ist nicht mein Stil! XXX
+// Arkhan1 O perso1
+L20D27
+ Das ist doch eine Arbeit für Idioten! XXX
+// Hüter1 perso41
+L20D29
+ Du bist doch krank im Kopf! XXX
+// Arkhan2 L perso2
+L20D30
+ Warum sagst Du nicht hier und jetzt, was Du mir zu sagen hast? XXX
+// Arkhan2 O perso2
+L20D31
+ Sag hier und jetzt, was los ist! XXX
+// Arkhan3 L perso3
+L20D32
+ Sag sofort, was los ist! XXX
+// Arkhan3 O perso3
+L20D33
+ Sprich! XXX
+// Lory perso15
+L20D34
+ Wir dürfen hier nicht bleiben. Komm. XXX
+// Arkhan2 G perso2
+L20D35
+ Aber... Große Predigerin... XXX
+// Arkhan3 G perso3
+L20D36
+ Große Predigerin... XXX
+// Lory perso15
+L20D37
+ Hör mir zu, komm mit! XXX
+// Arkhan2 L perso2
+L20D39
+ Phedoria, was ist hier los? XXX
+// Arkhan2 O perso2
+L20D40
+ Was ist hier los? XXX
+// Arkhan3 L perso3
+L20D41
+ Phedoria, erklär mir, was hier los ist! XXX
+// Arkhan3 O perso3
+L20D42
+ Erklär mir, was hier los ist! XXX
+// Phedoria perso26
+L20D43
+ Lory wird Dir erklären, was los ist! XXX
+// Arkhan2 G perso2
+L20D44
+ Aber ... Kommandantin ... XXX
+// Arkhan3 G perso3
+L20D45
+ Kommandantin ... XXX
+// Phedoria perso26
+L20D46
+ Komm mit uns! XXX
+// Arkhan2 L perso2
+L20D100
+ Jezda! Ich bin's, Arkhan! Erkennst Du mich? XXX
+// Hüter9 perso49
+L20D101A
+ Arkhan... Ja, Du bist's... XXX
+// Hüter9 perso49
+L20D101B
+ Beim Sonnengott, Kommandantin Phedoria hatte uns gewarnt. XXX
+// Hüter9 perso49
+L20D101C
+ Ich dachte aber nicht, daß es so schlimm ist. XXX
+// Arkhan2 L perso2
+L20D102
+ Laß mich vorbei, Lory selbst schickt mich. XXX
+// Hüter9 perso49
+L20D103
+ Geh nur durch, wir wissen Bescheid. XXX
+// Hüter9 perso49
+L20D105
+ In Erinnerung an Arkhan, Hüter des Feuers. XXX
+// Arkhan2 O (bösartig) perso2
+L20D106
+ Verschwindet da oder ich bring' Euch um! XXX
+// Hüter9 (wütend und erschreckt) perso49
+L20D107
+ Das werden wir ja sehen! XXX
+// Arkhan3 L perso3
+L20D108
+ Ich bin's ... Arkhan! XXX
+// Hüter9 (unsicher) perso49
+L20D111
+ Also gut, geh nur... XXX
+// Arkhan2 L perso2
+L20D113
+ Ich bin's, Arkhan! XXX
+// Hüter10 perso50
+L20D114
+ Du ... Du bist ja kein Mensch mehr! XXX
+// Hüter10 perso50
+L20D115A
+ Man kann sich nur fragen, warum die Große Predigerin Dich beschützt. Du gehörst nicht mehr zu uns! XXX
+// Hüter10 perso50
+L20D115B
+ Wenn es an mir läge, wärst Du seit langem ins Reich der Finsternis verbannt! XXX
+// Arkhan2 L perso2
+L20D116
+ Immer mit der Ruhe, Freundchen. XXX
+// Hüter10 (aggressif) perso50
+L20D117
+ Geh mir aus den Augen, bevor ich Dich ein für allemal von der Erde unseres Sonnengottes auslösche! XXX
+// Hüter10 perso50
+L20D118
+ Ich wußte es! Du bist nicht mehr Arkhan! XXX
+// Hüter10 (unsicher) perso50
+L20D109
+ Wir wissen Bescheid ... Geh nur ... XXX
+// Hüter10 perso50
+L20D119
+ Geh schon! Beweg Dich! XXX
+// Arkhan2 G (wollte hinausgehen, ändert aber seine Meinung)perso2
+L20D122A
+ Nein, es ist zu wichtig, was hier passiert.  XXX
+// Arkhan2 G (wollte hinausgehen, ändert aber seine Meinung)perso2
+L20D122B
+ Ich muß mit Lory sprechen! XXX
+// Arkhan3 G (wollte hinausgehen, ändert aber seine Meinung)perso3
+L20D123
+ Nein, es ist zu wichtig. Ich muß mit Lory sprechen! XXX
+// Arkhan1 L perso1
+L20D48
+ Das stimmt ... das kann ich nicht machen. XXX
+// Arkhan1 O perso1
+L20D50
+ Ja, da hast Du recht... XXX
+// Hüter1 perso41
+L20D47
+ Nein! Du wirst doch den Rat nicht mitten in der Sitzung stören! XXX
+// Arkhan1 G perso1
+L20D51
+ Da ist eine Spalte. XXX
+// Arkhan2 G perso2
+L20D52
+ Eine Spalte. XXX
+// Arkhan3 G perso3
+L20D53
+ Eine Spalte. XXX
+// Arkhan1 G perso1
+L20D57
+ Ich spüre darin eine Art Mechanismus. XXX
+// Arkhan2 G perso2
+L20D58
+ Da ist eine Art Mechanismus. XXX
+// Arkhan3 G perso3
+L20D59
+ Da ist ein Mechanismus. XXX
+// Arkhan2 L perso2
+L20D63
+ Ich muß die Metallkarte finden, mit der der Mechanismus aktiviert wird. XXX
+// Arkhan3 L perso3
+L20D64
+ Ich brauch' die Metallkarte, die da hineingeschoben wird. XXX
+// Arkhan2 O perso2
+L20D65
+ Das funktioniert nicht!  XXX
+// Arkhan3 O perso3
+L20D66
+ Verdammt! XXX
+// Arkhan2 L perso2
+L20D67
+ Jetzt ist sie drin. XXX
+// Arkhan3 L perso3
+L20D68
+ Jetzt ist sie drin. XXX
+// Arkhan2 G perso2
+L20D71
+ So ... müßte es gehen. XXX
+// Arkhan2 G perso2
+L20D87
+ Da ist was in der Spalte. XXX
+// Arkhan3 G perso3
+L20D88
+ Da ist was drin. XXX
+// Arkhan2 G perso2
+L20D89
+ Seltsam, da hat jemand bereits eine Karte hineingesteckt! XXX
+// Arkhan3 G perso3
+L20D90
+ Nanu, da ist ja bereits eine Karte drin. XXX
+// Arkhan2 G perso2
+L20D81A
+ Kein Widerstand.  XXX
+// Arkhan2 G perso2
+L20D81B
+ Der Mechanismus ist nicht aktiviert. XXX
+// Arkhan3 G perso3
+L20D82
+ Fehlt was. XXX
+// Arkhan2 G perso2
+L20D91
+ Jemand hat den Mechanismus vor mir betätigt! XXX
+// Arkhan3 G perso3
+L20D92
+ Jemand hat ihn vor mir betätigt! XXX
+// Arkhan2 O perso2
+L08D251B
+ Hör auf, mich so blöd anzustarren! XXX
+// Arkhan1 G perso1
+L20D124A
+ Die Hörner des Großen Lichterfüllten. XXX
+// Arkhan1 G perso1
+L20D124B
+ Die Prediger benutzen sie für die wichtigsten Zeremonien. XXX
+// Arkhan1 L perso1
+L20D125
+ Sie haben einen wundervollen Klang. XXX
+// Arkhan1 O perso1
+L20D126
+ Das macht einen unglaublichen Lärm! XXX
+// Arkhan2 G perso2
+L20D127A
+ Die Hörner des Großen Lichterfüllten. XXX
+// Arkhan2 G perso2
+L20D127B
+ Die Prediger spielen sie während der wichtigsten Zeremonien. XXX
+// Arkhan2 L perso2
+L20D128
+ Ein wundervoller Klang. XXX
+// Arkhan2 O perso2
+L20D129
+ Ein schrecklicher Lärm! XXX
+// Arkhan3 G perso3
+L20D130A
+ Die Hörner des Großen Lichterfüllten. XXX
+// Arkhan3 G perso3
+L20D130B
+ Die Prediger spielen sie bei den Zeremonien. XXX
+// Arkhan3 L perso3
+L20D131
+ Die Musik des Sonnengottes. XXX
+// Arkhan3 O perso3
+L20D132
+ Ein fürchterlicher Lärm! XXX
+// Arkhan1 G perso1
+L20D133
+ Ein stählerner Baum, den die Ernährer zu Ehren des Sonnengottes verziert haben. XXX
+// Arkhan2 G perso2
+L20D134A
+ Ein stählerner Baum, von den Erbauern erschaffen. XXX
+// Arkhan2 G perso2
+L20D134B
+ Zu Ehren des Sonnengottes. XXX
+// Arkhan3 G perso3
+L20D135
+ Ein Baum aus Stahl. Zu Ehren des Sonnengottes. XXX
+// Arkhan1 G perso1
+L20D136
+ Noch einer von diesen Stahlbäumen. XXX
+// Arkhan2 G perso2
+L20D137
+ Noch einer von diesen Stahlbäumen. XXX
+// Arkhan3 G perso3
+L20D138
+ Noch einer von diesen Metallbäumen. XXX

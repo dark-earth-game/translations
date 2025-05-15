@@ -1,0 +1,61 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\SP\NWDIAL42.TXT
+ // Arkhan3 G perso3
+L42D01
+ No es posible volver... XXX
+// Arkhan3 G perso3
+L42D05
+ Se diría que es el final del viaje... XXX
+// Arkhan3 G perso3
+L42D02A
+ El exterior... El acantilado... XXX
+// Arkhan3 G perso3
+L42D02B
+ La entrada de la Tumba debía estar aquí... ¡Pero el Gran Cataclismo la ha arrancado! XXX
+// Arkhan3 G perso3
+L42D02C
+ ¡Por eso mi padre jamás la encontró! XXX
+// Arkhan3 L perso3
+L42D08
+ Es ardiente... Y esta luz... Como en la cripta XXX
+// Arkhan3 O perso3
+L42D09
+ ¡Sangre negra! ¡Me he quemado la mano! XXX
+// Arkhan3 L perso3
+L42D10
+ No toco más... XXX
+// Arkhan3 O perso3
+L42D11
+ ¡No toco más eso! XXX
+// Arkhan3 G (ha tirado de la palanca para abrir la puerta) perso3
+L42D07A
+ No se mueve un pulgar. XXX
+// Arkhan3 G perso3
+L42D07B
+ No se mueve. XXX
+// Arkhan3 G perso3
+L42D07C
+ Nada de nada. XXX
+// Arkhan3 G perso3
+L42D06
+ El mecanismo está bloqueado. XXX
+// Arkhan3 G perso3
+L42D12
+ La piedra está ligeramente caliente... XXX
+// Arkhan3 G perso3
+L42D13A
+ Unos derrumbamientos... XXX
+// Arkhan3 G perso3
+L42D13B
+ Es tan antigua... esto se cae... está en ruinas... XXX
+// Arkhan3 L (mira abajo) perso3
+L42D03
+ El resto de la gruta se ha hundido en el mar. XXX
+// Arkhan3 O (mira abajo) perso3
+L42D04
+  ¡Esta caída supone una muerte segura! XXX
+// Arkhan3 G perso3
+L42D14
+ Una rueda gigantesca... y una abertura, arriba. XXX
+// Arkhan3 G perso3
+L42D15
+ Debo encontrar un medio de hacerla vascular... XXX

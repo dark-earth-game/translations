@@ -1,0 +1,142 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL23.TXT
+ // Zed perso84
+L23D23
+ Arkhan!? By the Sacred Rahal, What's going on here?! XXX
+// Guardian13 perso53
+L23D29
+ Blasted gloom! He almost slit my throat! XXX
+// Guardian14 perso54
+L23D30
+ He wasn't human any more, he was a Creature of Darkness! XXX
+// Guardian13 perso53
+L23D31
+ The Sunseers were right, the Darkness can take over anyone's soul! XXX
+// Guardian14 perso54
+L23D32
+ Yeah, but it ain't gonna get me without a fight! XXX
+// Zed perso84
+L23D19
+ Rylsadhar... Dead! Arkhan, What have you done!?! XXX
+// Arkhan2 G (Delia or Kalhi hits him) perso2
+L10D93
+ You don't stand a chance, honey! XXX
+// Zed (throwing A. to the ground) perso84
+L23D20
+ Murderer! XXX
+// Zed (shouting) perso84
+L23D11
+ Guardians of Fire! Raise the alarm! XXX
+// Arkhan2 L perso2
+L23D102A
+ Wait! It's me, Arkhan! I saved the Great Sunseer! XXX
+// Arkhan2 L perso2
+L23D102B
+ I'm still the same old me! XXX
+// Arkhan2 O perso2
+L23D21X
+ Whoa, whoa, whoa! Calm down! That crazy blob of mucus jumped me! XXX
+// Phedoria perso26
+L23D106
+ Tell that that to the men whose throats you slit! XXX
+// Phedoria perso26
+L23D44B
+ The demon is within you, you must die! XXX
+// Phedoria (sad) perso26
+L23D13
+ What a waste... XXX
+// Arkhan2 O perso2
+L23D103A
+ Don't shoot! I was the one who saved the Great Sunseer! XXX
+// Arkhan2 O perso2
+L23D103B
+ On your knees! XXX
+// Arkhan3 L perso3
+L23D104
+ Wait a minute! I didn't do anything wrong! XXX
+// Arkhan3 O perso3
+L23D105
+ No! XXX
+// Phedoria perso26
+L23D44A
+ I heard Rylsadhar scream. XXX
+// Kalhi1 (A. dead) perso13
+L23D45
+ No ! Captain. What have you done! It's Arkhan! XXX
+// Phedoria perso26
+L23D46A
+ No! He killed Rylsadhar! XXX
+// Phedoria perso26
+L23D46B
+ The Arkhan you loved doesn't exist any more. XXX
+// Guardian13 perso53
+L23D33
+ Here comes another one! XXX
+// Guardian14 (attacks Arkhan) perso54
+L23D34
+ Die! XXX
+// Guardian13 perso53
+L23D35
+ Here he comes again! XXX
+// Guardian13 perso53
+L23D36
+ You're gonna pay! XXX
+// Guardian14 (attacks Arkhan) perso54
+L23D37
+ This time you're history! XXX
+// Rylsadhar (returns to A. who is waiting at his door) perso20
+L23D16
+ Patience. Here I am, Arkhan. XXX
+// Arkhan1 G perso1
+L23D15
+ The hospital is closed. XXX
+// Arkhan1 G perso1
+L23D25
+ My father's house. I don't see much... XXX
+// Arkhan2 G perso2
+L23D26
+ My father's house. I can't see a thing. XXX
+// Arkhan3 G perso3
+L23D27
+ I don't see anyone. XXX
+// Arkhan2 L perso2
+L23D38A
+ It's Dulnys! XXX
+// Arkhan2 L perso2
+L23D38B
+ Thanandar said he was taking care of him! Lies! XXX
+// Arkhan3 L perso3
+L23D39A
+ It's Dulnys! XXX
+// Arkhan3 L perso3
+L23D39B
+ Another one of Thanandar's victims! XXX
+// Arkhan2 O perso2
+L23D40
+ Another one of Thanandar's creatures! XXX
+// Arkhan3 O perso3
+L23D41
+ Argh... It's another Thanandar creature! XXX
+// Arkhan2 G perso2
+L23D42
+ It's a blade torn off the well pulley. XXX
+//Arkhan3 G perso3
+L23D43
+Blade from well pulley. XXX
+// Arkhan1 L perso1
+L23D47
+ The cacti my father grows. XXX
+// Arkhan2 L perso2
+L23D48
+ Cacti. They belong to my father. XXX
+// Arkhan3 L (nostalgic) perso3
+L23D49
+ My father's cacti... XXX
+// Arkhan1 G perso1
+L23D50
+ No time to waste. XXX
+// Arkhan2 G perso2
+L23D51
+ No time to wash! XXX
+// Arkhan3 G perso3
+L23D52
+ I'll scrub up later! XXX

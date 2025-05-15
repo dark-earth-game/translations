@@ -1,0 +1,907 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL14.TXT
+ // Kalhi1 perso13
+L14D108
+Dalej, zobaczymy sie z Danrysem! XXX
+// Arkhan2 Gperso2
+L14D45
+ Najwyzszy czas! XXX
+// Arkhan3 G perso3
+L14D46
+ Bandor, wreszcie! XXX
+// Malrot4 (A. is yelling at him) perso64
+L14D235
+Hej wariacie, juz ja cie uspokoje! XXX
+// Provider Woman (A. is yelling at her) perso16
+L14D236
+Na niebiosa ! On jest szalony! XXX
+// Malrot1 perso6
+L14D237
+Juz ja ci dam powod do krzyku! XXX
+// Delia perso10
+L16D122
+ Stop! Przerazasz mnie! XXX
+// Provider Woman perso16
+L14D263
+ Ah, powrocil nasz przyjaciel. XXX
+// Malrot1 perso61
+L14D171
+ Jesli sie do mnie zblizysz, potne cie na plasterki! XXX
+// Arkhan2 L perso2
+L14D139A
+ Spokojnie. Nie szukam zwady! XXX
+// Arkhan2 O perso2
+L14D139B
+ No dalej, winic bedziesz tylko siebie! XXX
+// Malrot1 perso61
+L14D140
+ Hmm... Okej, tylko bez numerow! XXX
+// Malrot1 (alarmed) perso61
+L14D172
+ Shankreatura! Podniescie alarm! XXX
+// Provider Woman perso16
+L14D167
+ Hola! Wstrzymaj sie na minutke, co! XXX
+// Provider Woman perso26
+L14D168
+ Spokoj? Dobrze! XXX
+// Malrot4 (A. menacing him with a gun) perso64
+L14D169
+ Hej, uwazaj w jakim kierunku celujesz ta rzecza! XXX
+// Malrot4 (A. putting away his gun) perso64
+L14D170A
+ Teraz juz lepiej! XXX
+// Malrot4 perso64
+L14D170B
+ Puszczanie serii z automatu to nie jest sposob na zyskanie sobie tutaj przyjaciol! XXX
+// Malrot1 perso2
+L14D203
+ Hej...Hej hej! Uwazaj! XXX
+// Malrot1 perso61
+L14D204
+ No. Teraz o wiele lepiej! XXX
+// Arkhan2 L perso2
+L14D05
+Niech Swiatlosc bedzie z toba, Lupiezco. XXX
+// Malrot4 perso64
+L14D07A
+ Zobacz, co ten kot ze soba przywlokl. Chyba nie mialem wczesniej przyjemnosci ujrzec "Waszej Brzydoty" w naszej okolicy. XXX
+// Malrot4 perso64
+L14D07B
+ Gdybym cie kiedykolwiek wczesniej widzial, na pewno bym o tym nie zapomnial. Twarz taka jak twoja to wystarczajacy powod, by potem latami snily sie koszmary! XXX
+// Arkhan2 L perso2
+L14D177
+ Zwa mnie Arkhan, jestem starym przyjacielem Danrysa. XXX
+// Malrot4 perso64
+L14D178A
+ Mam na imie Kubert.  XXX
+// Malrot4 (half joking, half serious) perso64
+L14D178B
+ Wybacz, ze nie uscisne twej dloni, ale moglbym przypadkiem odciac ci jakis palec! XXX
+// Malrot4 perso64
+L14D178C
+ (smieje sie) XXX
+// Arkhan2 O perso2
+L14D08
+ Ha, moge podjac to ryzyko! XXX
+// Malrot4 (irritated) perso64
+L14D09A
+ Co sie z toba dzieje? XXX
+// Malrot4 (irritated) perso64
+L14D09B
+ Potrzeba ci kogos do wyciskania krost? XXX
+// Arkhan2 O perso2
+L14D179A
+ Myslisz, zes taki zabawny? Pozwol mi moze pozartowac z twojej facjaty !XXX
+// Arkhan2 O perso2
+L14D179B
+ Jestem Arkhan. Stary kolega Danrysa. XXX
+// Malrot4 perso64
+L14D180
+ "Arkhan," tak? A ja myslalem, ze na imie ci "ropna twarz"! XXX
+// Arkhan2 L perso2
+L14D10
+ Moze moglbys mi pomoc, Kubercie. XXX
+// Malrot4 perso64
+L14D11A
+ A to zalezy. Rozumiesz, bardzo zajety ze mnie czlek! XXX
+// Malrot4 perso64
+L14D11B
+ Lupiezca musi zarabiac jakos na zycie, kumasz?! XXX
+// Malrot4 perso64
+L14D11C
+ Nie jestem Patrzacym w Slonce. Do zycia potrzeba mi czegos wiecej, niz tylko Slonca! XXX
+// Arkhan2 O perso2
+L14D12A
+ Tak sobie myslalem... XXX
+// Arkhan2 O perso2
+L14D12B
+ Przed kim ty sie kryjesz w takim przebraniu? Przed matka? XXX
+// Arkhan2 O perso2
+L14D12C
+ Zaloze sie, ze pozalowala dnia, w ktorym wydala na swiat taki wybryk natury! XXX
+// Malrot4 (angry) perso64
+L14D13A
+ Skoro juz jestesmy przy tym temacie, to przydalaby mi sie nowa miska na zupe... XXX
+// Malrot4 (angry) perso64
+L14D13B
+ A twoja czaszka, po odpowiednim wyzlobieniu, swietnie by sie do tego celu nadawala! XXX
+// Arkhan2 L perso2
+L14D34A
+ To wazne. XXX
+// Arkhan2 L perso2
+L14D34B
+ Musze odnalezc sposob na wyleczenie siebie.  XXX
+// Malrot4 perso64
+L14D35A
+ Zaiste, prawde mowisz! Przemiana w ladnego, czystego Lupiezce zajmie ci duzo czasu. XXX
+// Malrot4 perso64
+L14D35B
+ A moze bys sie tak raz na jakis czas umyl, co ty na to? XXX
+// Malrot4 perso64
+L14D35C
+ Smierdzisz! XXX
+// Malrot4 perso64
+L14D35D
+ Zdechly szczur, gnijacy przez setki cykli cuchnie mniej od ciebie! XXX
+// Arkhan2 L perso2
+L14D36A
+ Poszukuje miejscowego uzdrowiciela. XXX
+// Malrot4 perso64
+L14D37A
+ Z jakiego Stallite ty wlasciwie pochodzisz? Wszak jedyni uzdrowiciele znajduja sie wlasnie tam, wsrod Patrzacych w Slonce! XXX
+// Malrot4 perso64
+L14D37B
+ Ale jesli my tam zajdziemy, Gwardzisci Ognia skopia nam tylki. XXX
+// Arkhan2 L perso2
+L14D36B
+ Kopiac twoj tylek polamaliby sobie stopy! XXX
+// Malrot4 (liking the joke) perso64
+L14D37C
+ Masz cholera racje, brzydalu! XXX
+// Arkhan2 L perso2
+L14D38
+ Kto wami dowodzi? XXX
+// Malrot4 perso64
+L14D39A
+ W okolicy jest tylko jeden dowodca. Nazywa sie Armal Sadak. XXX
+// Malrot4 perso64
+L14D39B
+ Jesli w ogole ktokolwiek jest w stanie ci pomoc, to tylko on. XXX
+// Malrot4 perso64
+L14D39C
+ Musze ci jednak od razu powiedziec, ze nie spodoba mu sie twoja geba! XXX
+// Arkhan2 L perso2
+L14D181
+ No dobra, to kto jeszcze? XXX
+// Malrot4 perso64
+L14D182A
+ "Inni", czyli Konkalici.  XXX
+// Malrot4 perso64
+L14D182B
+ Uwierz mi. Wolalbys, zeby zgraja szczurow zerowala na twoim tylku, niz miec blizej do czynienia z tymi kreaturami. XXX
+// Malrot4 perso64
+L14D182C
+ Sordos to prawdziwy psychol! XXX
+// Arkhan2 L perso2
+L14D183
+ Sordos? XXX
+// Malrot4 perso64
+L14D184
+ Ich przywodca! Onegdaj przeciwstawil sie Armalowi Sadakowi. Teraz dziala ze swym gangiem w ukryciu. Wydaje sie, ze szykuja sie z ich strony powazne klopoty. XXX
+// Arkhan2 L perso2
+L14D40
+ Powiedz mi o tym cos wiecej... XXX
+// Malrot4 perso64
+L14D41A
+ Hola, tyle chyba wystarczy! XXX
+// Malrot4 perso64
+L14D41B
+ Nie jestem wedrownym bardem! XXX
+// Arkhan2 O (menacingly) perso2
+L14D42
+ Przestan chrzanic i odpowiadaj! XXX
+// Malrot4 (preparing to hit A.) perso64
+L14D43
+ Dobrze juz. Odpowiem ci i to prosto w gebe! XXX
+// Arkhan2 L perso2
+L14D00
+ Hej, Lupiezco... XXX
+// Malrot4 (menacingly) perso64
+L14D01A
+ Najpierw odloz bron, zaczynam sie robic nerwowy! XXX
+// Malrot4 (menacingly) perso64
+L14D01B
+ Wtedy pomyslimy... XXX
+// Arkhan2 L perso2
+L14D04
+ Spokojnie, nie chce nikomu zrobic krzywdy! XXX
+// Malrot4 perso64
+L14D06
+ Mowilem ci juz, bys odlozyl bron! XXX
+// Arkhan2 O perso2
+L14D02
+ Co jest grane gesia skorko, wystraszyles sie? XXX
+// Malrot4 perso64
+L14D03
+ Zaraz ci pokaze, kto tu powinien sie bac! XXX
+// Malrot4 perso64
+L14D13
+ Flaki ci wypruje! XXX
+// Arkhan2 G perso2
+L14D44
+ Zainteresowany? XXX
+// Malrot4 perso64
+L14D45A
+ Nie, zapomnij o tym. XXX
+// Malrot4 perso64
+L14D45B
+ Moja matka zawsze mi powtarzala: "Nie przyjmuj cukierkow od ludzi ze sciekiem zamiast twarzy"! XXX
+// Arkhan3 L perso3
+L14D18
+ Hej, ty! XXX
+// Malrot4 (awed by Arkhan3) perso64
+L14D19A
+ Hej, eee, posluchaj kolezko. Moze opanujmy nerwy, co? XXX
+// Malrot4 (awed by Arkhan3) perso64
+L14D19B
+ Ustalmy, ze nigdy mnie nie spotkales i wszystko bedzie w najlepszym porzadku. XXX
+// Malrot4 (overawed by Arkhan3) perso64
+L14D15
+ Okej, okej. Uspokojmy sie. Przeciez nie zrobilem nic zlego, czyz nie?! XXX
+// Arkhan3 L perso3
+L14D20
+ Zaczekaj, musze ci powiedziec cos waznego! XXX
+// Malrot4 perso64
+L14D21A
+ Nie dotykaj mnie! XXX
+// Malrot4 (preparing to hit A.) perso64
+L14D21B
+ Tez mam pazurki, widzisz?! XXX
+// Malrot4 (preparing to hit A.) perso64
+L14D185
+ Tutaj jest napisane twoje imie! XXX
+// Malrot4 (mocking) perso64
+L14D206A
+ "Niech Swiatlosc bedzie z toba", dobrze mowie? XXX
+// Malrot4 perso64
+L14D206B
+ Na wypadek gdybys nie zauwazyl, tutaj od wiekow nie bylo zadnej swiatlosci! XXX
+// Malrot4 perso64
+L14D207A
+ Boskie Slonce nie lubi tu zachodzic, przyjacielu! XXX
+// Malrot4 perso64
+L14D207B
+ Jesli wiesz co dla ciebie dobre, to czym predzej sie stad zabieraj. XXX
+// Arkhan2 O perso2
+L14D214
+ Co w takim razie tutaj robisz? XXX
+// Malrot4 perso64
+L14D223
+ Lubie to miejsce, jest o wiele bardziej przytulne od innych, jesli wiesz o czym mowie! XXX
+// Arkhan2 L perso2
+L14D208
+ Co sie tutaj dzieje? XXX
+// Malrot4 perso64
+L14D209
+ Tak tu jest od czasow, gdy Calun Mroku okryl nasze terytorium! XXX
+// Malrot4 perso64
+L14D210A
+ Chodza sluchy, ze "inni" z Mrocznych Ziem dotarli do bram miasta.. XXX
+// Malrot4 perso64
+L14D210B
+ A na obiad chca sobie zaserwowac nas, Lupiezcow! XXX
+// Malrot4 perso64
+L14D210C
+ Ci, ktorzy nie zostaja zabici... ulegaja "przemianie"...  XXX
+// Malrot4 perso64
+L14D210D
+ Staja sie...tacy, jak tamte stworzenia. XXX
+// Malrot4 perso64
+L14D213
+ Lecz jesli sie do mnie zbliza, posmakuja moich szponow! XXX
+// Arkhan2 L perso2
+L14D211
+ Czy wiesz cos wiecej o kreaturach z Mrocznych Ziem? XXX
+// Malrot4 perso64
+L14D212
+ Nie. Niewiedza to blogoslawienstwo, jesli o mnie chodzi! XXX
+// Arkhan2 O perso2
+L14D215
+ Ojej! Co to za smrod? Stary, cuchnie jak z otwartego szamba. Fuj! XXX
+// Arkhan3 L perso3
+L14D217
+ Pozdrowienia, Lupiezco. XXX
+// Malrot4 (scared) perso64
+L14D218A
+ Odejdz ode mnie! XXX
+// Malrot4 (scared) perso64
+L14D218B
+ Wiem ktos zacz, ale nie uda ci sie mnie przemienic! XXX
+// Arkhan3 L perso3
+L14D219
+ Spokojnie, nie mam zlych zamiarow! XXX
+// Malrot4 (wary) perso64
+L14D220
+ Tak mowisz? Jesli to prawda, wyswiadcz mi przysluge. Spadaj! XXX
+// Arkhan2 G perso2
+L14D165
+ Ten mizerny robaczek nic przy sobie nie ma. XXX
+// Arkhan3 G perso3
+L14D166
+ Nic przy nim nie ma. XXX
+// Arkhan2 L perso2
+L14D49
+ Niech Swiatlosc bedzie z toba, Zaopatrujaca. XXX
+// Arkhan2 O perso3
+L14D59
+ Hej, Zaopatrujaca! XXX
+// Provider Woman perso16
+L14D50A
+ Niech Swiatlosc bedzie z toba. XXX
+// Provider Woman perso16
+L14D50B
+ Nie wygladasz na osobe popularna w Wyzszym Miescie! XXX
+// Provider Woman perso16
+L14D50C
+ Tylko mi nie mow, ze Gwardzisci Ognia odcieli dostep do podestu z twojego powodu! XXX
+// Arkhan2 L perso2
+L14D186
+Nie. To nie ma nic wspolnego ze mna. XXX
+// Arkhan2 O perso3
+L14D187
+Jesli ktos zapyta, nigdy mnie nie widzialas, jasne?! XXX
+// Arkhan2 L perso2
+L14D51
+ Mam na imie Arkhan. Jestem przyjacielem Danrysa Lupiezcy. XXX
+// Arkhan2 O perso2
+L14D60
+Jestem Arkhan, przyjaciel Danrysa. XXX
+// Provider Woman perso16
+L14D52A
+ Dobrze, juz dobrze. Czego chcesz, Arkhanie? XXX
+// Provider Woman perso16
+L14D52B
+ Jesli jestes glodny, mozemy pohandlowac wiktualami!  XXX
+// Arkhan2 L perso2
+L14D53
+ Czy mozesz mi powiedziec cos wiecej o tym miejscu? XXX
+// Arkhan2 O perso2
+L14D61
+ Dobrze. Powiedz mi, co wiesz o tej czesci Stallite. XXX
+// Provider Woman (surprised) perso16
+L14D54A
+ Co chcesz wiedziec? XXX
+// Provider Woman perso16
+L14D54B
+ Znajdujesz sie w Nizszym Miescie. XXX
+// Provider Woman perso16
+L14D54C
+ Pelno tu Lupiezcow i Zaopatrujacych, ktorzy nie maja czasu na spotkania z ludzmi twego pokroju. XXX
+// Provider Woman perso16
+L14D54D
+ Jesli nie chcesz wymieniac sie towarami, to niewiele moge dla ciebie zrobic. XXX
+// Arkhan2 G perso2
+L14D55
+ Wymienny handel? XXX
+// Provider Woman perso16
+L14D56A
+ Tak. Powiedz co bys chcial wymienic? XXX
+// Provider Woman perso16
+L14D56B
+ A ja zobacze, co moge ci za to dac. XXX
+// Arkhan2 L perso2
+L14D57
+ Posluchaj, nie przyszedlem tutaj handlowac. XXX
+// Provider Woman perso16
+L14D58
+ W takim wypadku  niewiele moge dla ciebie zrobic... XXX
+// Arkhan2 O perso2
+L14D63
+ Handel wymienny mnie nie interesuje! XXX
+// Provider Woman perso16
+L14D188A
+Dobrze... w porzadku. XXX
+// Provider Woman perso16
+L14D188B
+ Lecz jesli kiedykolwiek zapragniesz malej przekaski, wroc do mnie... XXX
+// Arkhan2 G perso2
+L14D28
+ Moze moglabys mi pomoc. XXX
+// Provider Woman perso16
+L14D29
+ Calkiem prawdopodobne...ale to cos w twojej dloni nie jest potrzebne do wzbudzenia mojego zainteresowania... XXX
+// Arkhan2 G perso2
+L14D30
+ Posluchaj, Zaopatrujaca... XXX
+// Provider Woman perso16
+L14D31A
+ Nie lubie sie powtarzac. Odloz orez wojenny.  XXX
+// Provider Woman perso16
+L14D31B
+ To cos nie jest potrzebne w kontaktach ze mna... XXX
+// Arkhan2 G perso2
+L14D77
+ Mam ten przedmiot... XXX
+// Provider Woman perso16
+L14D78A
+ Stop! Nie robie interesow z nieznajomymi. XXX
+// Provider Woman perso16
+L14D78B
+ Jak cie zwa? XXX
+// Arkhan2 G perso2
+L14D74A
+ Co myslisz o tym lustrze ze Starego Swiata? XXX
+// Arkhan2 G perso2
+L14D74B
+ Spojrz na te jasnosc! XXX
+// Provider Woman perso16
+L14D152A
+ Tak! Podoba mi sie! XXX
+// Provider Woman perso16
+L14D152B
+ Dam ci to metalowe pudelko. XXX
+// Provider Woman perso16
+L14D152D
+ To podarunek od Danrysa Lupiezcy.  XXX
+// Provider Woman perso16
+L14D152E
+ Tylko on wie, jak robic takie rzeczy. XXX
+// Arkhan2 G perso2
+L14D76A
+ Okej. XXX
+// Arkhan2 L perso2
+L14D76B
+ Dzieki. XXX
+// Arkhan2 G perso2
+L14D82
+ Co dasz mi za ten flakonik? XXX
+// Provider Woman perso16
+L14D83A
+ Niezle! XXX
+// Provider Woman perso16
+L14D83B
+ Moge ci w zamian dac plasterek solonego miesa. XXX
+// Arkhan2 G perso2
+L14D85
+ A moze szklany kielich? XXX
+// Provider Woman (thinking) perso16
+L14D86
+ Hmm...za to moge dac troche ryby. XXX
+// Arkhan2 G perso2
+L14D225
+ A dalabys odrobine jedzenia za ten mozdzierz? XXX
+// Provider Woman perso16
+L14D226A
+O tak, tak. Podaruje ci ten wielki korzen. XXX
+// Provider Woman perso16
+L14D226B
+ Polubisz go. Smakuje o wiele lepiej niz wyglada. XXX
+// Arkhan2 G perso2
+L14D227
+ A co zaoferujesz mi za talerz? XXX
+// Provider Woman perso16
+L14D228A
+ Za to, chyba duza rosline... prawie cala! XXX
+// Provider Woman perso16
+L14D228B
+ Nie udlaw sie nasionkami! XXX
+// Arkhan2 G perso2
+L14D229
+ Mam tluczek. XXX
+// Provider Woman perso16
+L14D230A
+ Tak... pozyteczne urzadzenie. XXX
+// Provider Woman perso16
+L14D230B
+ Dam ci w ramach wymiany jedno jablko. XXX
+// Arkhan2 G perso2
+L14D231
+ A czy dostane cos w zamian za te miske? XXX
+// Provider Woman perso16
+L14D232
+ Tak, resztki pieczonego ptaka z uczty w Silver Reed. XXX
+// Arkhan2 G perso2
+L14D233
+ Jestes zainteresowana ta fiolka? XXX
+// Provider Woman perso16
+L14D234
+ Tak, wymienie ja za tykwe pelna Stohlla. XXX
+// Arkhan2 G perso2
+L14D157
+ A czy to cie interesuje? XXX
+// Provider Woman perso16
+L14D191
+ To? Nie. Masz cos jeszcze? XXX
+// Provider Woman perso16
+L14D192
+ Nie, nie chce tego. XXX
+// Provider Woman perso16
+L14D193
+W zamian za to nic nie moge dac. XXX
+// Arkhan2 L perso2
+L14D243
+ Czy ktos tedy przechodzil? XXX
+// Provider Woman perso16
+L14D244A
+ A tak, jakis jegomosc z mieczem. Przemknal szybko jak strzala! XXX
+// Provider Woman perso16
+L14D244B
+ Wygladal na Gwardziste Ognia, ale nie jestem pewna. XXX
+// Arkhan2 L perso2
+L14D245
+ Dokad poszedl? XXX
+// Provider Woman perso16
+L14D246
+ Ciezko powiedziec... XXX
+// Arkhan2 L perso2
+L14D247
+ Okej, dziekuje. XXX
+// Arkhan2 O perso2
+L14D248
+ Hej! Czy ktokolwiek tedy przechodzil?! XXX
+// Arkhan2 O perso2
+L14D249
+ Ktoredy przeszedl? XXX
+// Provider Woman (uneasily)perso16
+L14D250
+ Eeee...  ah... XXX
+// Arkhan2 O perso2
+L14D251
+ No! Gdzie do diaska? XXX
+// Provider Woman (uneasily)perso16
+L14D252
+ Nie wiem, skrylam sie za swoim wozem. XXX
+// Arkhan2 O perso2
+L14D253
+ Pewnikiem! XXX
+// Arkhan3 L perso3
+L14D64
+ Zaopatrujaca... XXX
+// Provider Woman (frightened) perso16
+L14D65
+ Czego sobie zyczysz? XXX
+// Arkhan3 L perso3
+L14D66
+ Nie boj sie. Jestem Arkhan. Nie wyrzadze ci krzywdy! XXX
+// Provider Woman (not reassured) perso16
+L14D67A
+ Coz... XXX
+// Provider Woman (not reassured) perso16
+L14D67B
+ Hmm... wez to. XXX
+// Provider Woman (not reassured) perso16
+L14D67C
+ Danrys Lupiezca to zrobil. XXX
+// Provider Woman (not reassured) perso16
+L14D67D
+ No jedz. Zobaczysz, ze bedzie ci smakowac! XXX
+// Arkhan3 L perso3
+L14D68
+ Masz dla mnie cos jeszcze? XXX
+// Provider Woman (not reassured) perso16
+L14D69
+ Nie, przykro mi... XXX
+// Provider Woman (frightened) perso16
+L14D48
+O rety! Pomozcie... pomozcie mi, Lupiezcy! XXX
+// Arkhan3 L perso3
+L14D254
+ Widzialas tu kogo? XXX
+// Arkhan3 L perso3
+L14D255
+ A wiec to tak! Wiesz, gdzie on jest! XXX
+// Arkhan3 L perso2
+L14D256
+ No i? XXX
+// Arkhan3 L perso2
+L14D257
+ Aargh... zapomnij. XXX
+// Arkhan2 L perso3
+L14D149
+ Hej, kaz mu sie wycofac! XXX
+// Provider Woman perso16
+L14D150
+ Mam gdzies wasze male potyczki miedzy Lupiezcami! XXX
+// Arkhan3 O perso3
+L14D189
+ Hej ty! Pomoz mi! XXX
+// Provider Woman perso16
+L14D190
+ Nie! Ja... ja nie mam z tym nic wspolnego! XXX
+// Arkhan2 O perso2
+L14D194
+ Ha! Myslisz, ze mnie pokonasz?! XXX
+// Provider Woman perso16
+L14D195
+ Oh, juz ja ci pokaze, ty wstretny potworze! XXX
+// Arkhan2 G perso2
+L03D01
+ Zaczekaj na mnie! XXX
+// Arkhan3 G perso3
+L03D02
+ Zaczekaj! XXX
+// Arkhan2 G perso2
+L14D105
+ Czesci maszyny ze Starego Swiata zebrane przez Lupiezcow. XXX
+// Arkhan3 G perso3
+L14D106
+ Skladowisko metalu ze Starego Swiata zebranego przez Lupiezcow. XXX
+//Arkhan2 G perso2
+L14D95
+ Nic poza starymi skrawkami metalu... XXX
+//Arkhan3 G perso3
+L14D96
+ Metal. XXX
+// Arkhan2 G perso2
+L14D97
+ Stary woz... XXX
+// Arkhan2 G perso2
+L14D100
+ Stare metalowe plyty! XXX
+// Arkhan3 G perso3
+L14D101
+ Zardzewiale metalowe plyty! XXX
+// Malrot1 perso61
+L14D137
+ Hej! Jesli polozysz na tym swe lapska, to bedziesz miec ze mna do czynienia! XXX
+// Malrot1 perso61
+L14D138A
+ Obsluz sie, kolego. XXX
+// Malrot1 perso61
+L14D138B
+ Jesli znajdziesz cos, co cie zainteresuje, jest twoje! XXX
+// Arkhan2 G perso2
+L14D89
+ Bezuzyteczne plyty metalu! XXX
+// Arkhan3 G perso3
+L14D90
+ Nic poza metalowymi plytami. XXX
+// Arkhan2 G perso2
+L14D265
+ Danrys tutaj wlewa olej napedzajacy maszyne. XXX
+// Arkhan3 G perso3
+L14D266
+ To zbiornik z olejem. XXX
+// Arkhan2 G perso2
+L14D267
+ Wyglada na pusty. XXX
+// Arkhan3 G perso3
+L14D268
+ Jest pusty. XXX
+// Arkhan2 G perso2
+L14D269
+ Do dziela. Teraz powinno dzialac. XXX
+// Arkhan3 G perso3
+L14D270
+ No dalej. Teraz zadziala... XXX
+// Arkhan2 G perso2
+L14D271
+ Nie, zbiornik jest juz pelen. XXX
+// Arkhan3 G perso3
+L14D272
+ Zbiornik jest pelen. XXX
+// Arkhan2 G perso2
+L14D273
+ Zbiornik jest pelen. XXX
+// Arkhan3 G perso3
+L14D274
+ Wylewa sie. XXX
+// Arkhan2 L perso2
+L14D104A
+ To wrak ze Starego Swiata. XXX
+// Arkhan2 L perso2
+L14D104B
+ Wyglada na duza maszyne. XXX
+// Arkhan2 O perso2
+L14D196
+ Zbyt ciezka! XXX
+// Arkhan3 L perso3
+L14D107
+ Czesci maszyny ze Starego Swiata... XXX
+// Arkhan3 O perso3
+L14D197
+ Nie dam rady! XXX
+// Arkhan2 L perso2
+L14D113
+ Nie denerwuj sie, jestem przyjaznie nastawiony. XXX
+// Malrot1 perso61
+L14D114A
+ Latwo ci powiedziec!  XXX
+// Malrot1 perso61
+L14D114B
+ W ciemnosciach ciezko jest odroznic przyjaciela od oszusta. XXX
+// Arkhan2 O perso2
+L14D109
+ Co tutaj robisz? XXX
+// Malrot1 perso61
+L14D110A
+ Co tutaj robisz! XXX
+// Malrot1 perso61
+L14D110B
+ Przyjmij proszek, zanim moj noz zacznie nerwowo drgac! XXX
+// Arkhan2 L perso2
+L14D115
+ Ty wiesz, co sie tutaj dzieje! XXX
+// Malrot1 (frightened and aggressive) perso61
+L14D116A
+ Boskie Slonce nas opuscilo, ot i cala historia! XXX
+// Malrot1 (frightened and aggressive) perso61
+L14D116B
+ Mrok wisi nad nami wszystkimi. Pochlania ludzi i przemienia ich w dziwne stworzenia! XXX
+// Malrot1 (frightened and aggressive) perso61
+L14D116C
+ A patrzac na ciebie, wydaje mi sie, zes nastepny na liscie! XXX
+// Malrot1 (defiant) perso61
+L14D116D
+ Lepiej postaraj sie uspokoic! XXX
+// Arkhan2 O (menacing) perso2
+L14D111
+ Chcesz mojej rady? Nie zadzieraj ze mna! XXX
+// Malrot1 (aggressive) perso61
+L14D112
+ Wiesz, gdzie mozesz sobie wsadzic swoje rady?! XXX
+// Arkhan2 L perso2
+L14D118A
+ Niewazne jak wygladam, jestem po twojej stronie. XXX
+// Arkhan2 L perso2
+L14D118B
+ Konkalici, to wszystko ich wina.  XXX
+// Arkhan2 L perso2
+L14D118C
+ Oni oraz ten...no... Patrzacy w Slonce... o imieniu Thanandar. XXX
+// Malrot1 perso61
+L14D119A
+ Konkalici! To na pewno oni! XXX
+// Malrot1 (vengeful) perso61
+L14D119B
+ Zmusimy ich, by zaplacili za swe winy! XXX
+// Arkhan2 L perso2
+L14D121
+ Wydaje mi sie, ze Thanandar jest gdzies w Stallite. XXX
+// Malrot1 perso61
+L14D122A
+ Patrzacy w Slonce w zmowie z Konkalitami? XXX
+// Malrot1 perso61
+L14D122B
+ Patrzacy w Slonce tutaj? Ma chyba zly adres! XXX
+// Arkhan2 L perso2
+L14D198A
+ Nie wierz w to! On juz nie jest istota ludzka. XXX
+// Arkhan2 L perso2
+L14D198B
+ Esencja Zla zainfekowala jego cialo. Teraz krazy po Mrocznej Ziemi niczym szczur po kanalach. XXX
+// Arkhan2 L perso2
+L14D198C
+ A teraz probuje wysledzic nas! XXX
+// Malrot1 perso61
+L14D199
+ Jak ten chodzacy koszmar w ogole wyglada? XXX
+// Arkhan2 L perso2
+L14D198D
+ Jest wielki, ma na sobie czarny niczym kruk, stalowy pancerz. XXX
+// Arkhan2 L perso2
+L14D198E
+ Wierzaj mi, wolalbys walczyc golymi rekami z setka Konkalitow naraz, niz wmieszac sie w potyczke z Thanandarem! XXX
+// Arkhan2 L perso2
+L14D200
+ Uwazaj na Thanandara. XXX
+// Arkhan2 L perso2
+L14D242
+ Miej oczy dookola glowy! XXX
+// Malrot1 perso61
+L14D201
+ Niech cie twoja wstretna glowa o mnie nie boli, potrafie o siebie zadbac! XXX
+// Arkhan2 O perso2
+L14D277
+ Spokojnie. Skoro jestes taki twardziel, czemu drzysz niczym lisc na wietrze? XXX
+// Malrot1 perso61
+L14D278
+ Pozalujesz, zes to powiedzial! XXX
+// Arkhan2 G perso2
+L14D123
+ Posluchaj mnie, Lupiezco... XXX
+// Malrot1 perso61
+L14D124
+ Nie dogadamy sie tak dlugo, jak dlugo bedziesz dzierzyl w reku swoja bron! XXX
+// Arkhan2 L perso2
+L14D125A
+ Uspokoj sie, przyjacielu! XXX
+// Arkhan2 L perso2
+L14D125B
+ Nosze przy sobie bron w tym samym celu, co ty - by moc sie obronic XXX
+// Malrot1 perso61
+L14D126
+ Uspokoje sie, jak wetkniesz to cholerstwo z powrotem do swoich spodni, okej?!! XXX
+// Arkhan2 O perso2
+L14D127
+ Posluchaj, smieciu. Kto mnie zmusi, bym to zrobil? XXX
+// Malrot1 perso61
+L14D130
+ Hej, jak tam sobie chcesz. Jak ci tak na tym zalezy, to trzymaj ja dalej. XXX
+// Arkhan2 G perso2
+L14D129
+ Ej, wiesz co to jest? XXX
+// Malrot1 perso61
+L14D131
+ Nie, i nie wiem nawet, kim ty jestes! XXX
+// Arkhan2 G perso2
+L14D144
+ Chcesz sie napic? XXX
+// Malrot1 perso61
+L14D133
+ Co masz? XXX
+// Malrot1 perso61
+L14D135
+ Wreszcie zaczales gadac jak czlowiek! XXX
+// Malrot1 (after tasting something disgusting) perso61
+L14D175A
+ Fuj, co to za pomyje!? XXX
+// Malrot1 perso61
+L14D175B
+ Wez to odloz! leee... XXX
+// Arkhan2 G perso2
+L14D134
+ Chcesz sprobowac jeszcze raz? XXX
+// Malrot1 perso61
+L14D136
+ Nie, dziekuje. Wolalbym lyknac litr cieplych szczurzych szczyn, niz to badziewie! XXX
+// Arkhan2 L perso2
+L14D162
+ Woda, bloto, popiol... koktajl Lupiezcy! XXX
+// Arkhan3 L perso3
+L14D279
+ Metna woda... XXX
+// Arkhan2 G perso2
+L14D258
+ Jesli tego dotkne, strace reke! XXX
+// Arkhan3 G perso3
+L14D259
+ Nie! Jesli tego dotkne, strace reke! XXX
+// Arkhan2 G perso2
+L14D260
+ Przestalo dzialac. XXX
+// Arkhan3 G perso3
+L14D261
+ Juz nie dziala. XXX
+// Arkhan2 G perso2
+L14D262
+ Znow zaczelo dzialac! XXX
+// Arkhan3 G perso3
+L14D264
+ To dziala! XXX
+// Arkhan2 G perso2
+L14D275A
+ Danrys uzywal tego typu skrzyni biegow i kabli, zeby uruchomic maszyne XXX
+// Arkhan2 G perso2
+L14D275B
+ Nigdy tak do konca nie rozumialem, jak to dziala... XXX
+// Arkhan3 G perso3
+L14D276A
+ Danrys tego uzywal, zeby uruchomic maszyny. XXX
+// Arkhan3 G perso3
+L14D276B
+ Nigdy nie rozumialem, jak... XXX
+// Arkhan2 G perso2
+L14D238
+ Wezmy platforme i dostanmy sie tam.  XXX
+// Arkhan3 G perso3
+L14D239
+ Pojedzmy do Wyzszego Miasta. XXX
+// Delia perso10
+L14D240
+ Idziemy. Jestem tuz za toba. XXX
+// Delia (Arkhan shows her an object) perso10
+L14D241A
+ Arkhanie, schronmy sie najpierw w Wyzszym Miescie. XXX
+// Delia perso10
+L14D241B
+ Za goraco tu dla nas! XXX
+// Arkhan2 G (Delia or Kalhi hits him) perso2
+L10D93
+ Kotku, nie masz najmniejszych szans! XXX
+// Arkhan3 G (Delia or Kalhi hits him) perso3
+L10D94
+ Jestes juz czescia historii, zlotko! XXX
+// Delia (hit by Arkhan) perso10
+L10D95
+ Nie! Oszalales? Przestan! XXX

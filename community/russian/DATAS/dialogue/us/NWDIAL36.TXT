@@ -1,0 +1,478 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL36.TXT
+ // Konkalite12 perso82
+L36D200
+ X mjnlo yno oqhwgfo m n]ja^j gdrZ, klwuZ]we! XXX
+// Lodar perso86
+L36D146
+ KZf kljmnj nw hai| ia ]jcxh~tx! XXX
+// Konkalite12 perso82
+L36D01A
+ &jn nw ]lacZg aho mgZ]ij! XXX
+// Konkalite12 perso82
+L36D01B
+ >Z[dlZe, nw o[dg a^j - n]j~ _j[lj. XXX
+// Konkalite12 perso82
+L36D02
+ Kw kj[a_dg! Ejbatx ]m~ cZ[dlZnx - _j[wsZ n]j|. XXX
+// Lodar (uneasy in front of Arkhan)perso86
+L36D04
+ HjbZgoe, kje_o ma[a _Zgxta... qjljtj? XXX
+// Guardian20 perso60
+L36D147
+ Jnje! XXX
+// Guardian20 (frightened by Arkhan3) perso60
+L36D148
+ &agdfde JjgZZl!.. +Ze hia mdgw ] lofZq! XXX
+// Guardian20 perso60
+L36D08
+ Ve! Co_Z ynj nw mj[lZgm|?! XXX
+// Guardian20 (defying Arkhan)perso60
+L36D144
+ FZklZtd]Zatxm|, _Z?! XXX
+// Guardian23 (talking loudly, far from Arkhan)  perso1
+L36D05A
+ (midco) &w mgwtZgd kldfZcZid| +jlfZiZ. XXX
+// Guardian23 perso1
+L36D05B
+ (midco) +albZnxm| ]hamna d [wnx iZsafo! XXX
+// Guardian23 perso1
+L36D05C
+ (midco) GkZmiwq iZ ]d_ d kj_jcldnagxiwq cZ_albd]Znx. XXX
+// Guardian23 perso1
+L36D05D
+ (midco) Fj snj [w id mgosdgjmx, jn kjmnZ _Zgxta, sah iZ mnj gjfnae ia jnqj_dnx. XXX
+// Guardian22 (talking loudly, far from Arkhan)  perso1
+L36D06A
+ (midco) &mah kldfZc kji|nai? XXX
+// Guardian24 (exasperated) perso1
+L36D06B
+ (midco) +Z, ob mfjgxfj hjbij! XXX
+// Guardian22 perso1
+L36D06C
+ (midco) FZ ]m|fde mgosZe! XXX
+// Guardian23 (talking loudly, far from Arkhan) perso1
+L36D07A
+ (midco) A [o_xna iZmnjljba! FZ iZm hj^on iZkZmnx jnfo_Z o^j_ij! XXX
+// Guardian24 perso1
+L36D07B
+ (midco) <mnx, myl! XXX
+// Lodar perso86
+L36D84
+ Fa iZ_j [wgj kal]wh iZsdiZnx! XXX
+// Arkhan2 L perso2
+L36D87
+ Pnj non nZfja?! XXX
+// Arkhan3 L perso3
+L36D88
+ Pnj non nZfja?! XXX
+// Arkhan2 O perso2
+L36D89
+ Lhagj [xzn! XXX
+// Arkhan3 O perso3
+L36D90
+ Lhazn [dnx! XXX
+// Lodar perso86
+L36D91A
+ Hjhj^d, | jnkgZso _j[ljh! XXX
+// Konkalite12 perso82
+L36D92A
+ Ve, ynj fZmZanm| njgxfj iZm _]jdq, salianx! XXX
+// Konkalite12 perso82
+L36D92B
+ Dosta ia moem| f iZh! XXX
+// Arkhan2 G perso2
+L36D78
+ Kw _albdmx! XXX
+// Arkhan3 G perso3
+L36D79
+ Fa kZ_Ze _oqjh! XXX
+// Lodar perso86
+L36D99
+ Hjhj^d, ohjg|z na[|! XXX
+// Arkhan2 G perso2
+L36D93
+ Kw fZf, rag? XXX
+// Arkhan3 G perso3
+L36D94
+ Kw fZf, rag? XXX
+// Arkhan2 O perso2
+L36D55
+ Jdgxij [jgdn? XXX
+// Arkhan3 O perso3
+L36D56
+ $jgdn? XXX
+// Lodar perso86
+L36D03
+ $gZ^j_Zlz... Kw mkZm hia bdcix. XXX
+// Lodar perso86
+L36D57C
+ &jcxhd... Vnj hia [jgxta ia kjiZ_j[dnm|. XXX
+// Arkhan2 L perso2
+L36D58
+ Kw ]a_x mnlZiidf? CZf nw mz_Z kjkZg? XXX
+// Arkhan3 L perso3
+L36D59
+ Gnfo_Z nw ]c|gm|? XXX
+// Arkhan2 O perso2
+L36D60
+ Gnfo_Z kldnjkZg? CZf nw mz_Z cZ[lZgm|? XXX
+// Arkhan3 O (aggressively) perso3
+L36D61
+ A fnj nw? XXX
+// Lodar perso86
+L36D62A
+ X Dj_Zl, lZc]a_sdf dc fZlZ]ZiZ mnlZiidfj]. Gi ] iamfjgxfdq _i|q kond jnmz_Z. XXX
+// Lodar perso86
+L36D62B
+ X aga _j[lZgm|... &jljnZ cZflwgdmx, a_]Z | omkag ]jend. XXX
+// Lodar (bitter)perso86
+L36D62C
+ CZfZ| dljid|! X _ohZg, ] mnZggZena [o_an mkjfjeiae... XXX
+// Arkhan2 L perso2
+L36D63
+ Kw cZhandg snj-id[o_x iaj[wsija kj _jlj^a? XXX
+// Arkhan3 L perso3
+L36D64
+ >Zhandg snj-id[o_x ] >ahg|q ElZfZ? XXX
+// Lodar perso86
+L36D65A
+ +Z... JnlZmnd... K]Zld, n~hiwa ]ionld, lZ]ij fZf miZlobd... XXX
+// Lodar perso86
+L36D65B
+ Eia kj]acgj, snj | _j[lZgm| bd]wh. XXX
+// Lodar perso86
+L36D65C
+ A nZh ]idco, o [ala^Z hjl|, | ]d_ag baiudio. XXX
+// Arkhan2 L perso2
+L36D66
+ =aiudio? XXX
+// Arkhan3 L perso3
+L36D67
+ =aiudio? XXX
+// Lodar perso86
+L36D68A
+ X ciZz gdtx, snj jiZ ia dc hja^j fZlZ]ZiZ. XXX
+// Lodar perso86
+L36D68B
+ GiZ mflwgZmx, ia _Z] hia kld[gdcdnxm|. XXX
+// Arkhan2 O perso2
+L36D69
+ A fZf njgxfj nZfda, fZf nw, ]wbd]Zzn ]j ElZfa! XXX
+// Arkhan3 O perso3
+L36D70
+ Jgdtfjh ob nw flakfde _g| mnlZiidfZ. XXX
+// Lodar (irritated by A.) perso86
+L36D71A
+ JgotZe, _lo^. +j]jgxij. XXX
+// Lodar perso86
+L36D71B
+ JkZmd[j cZ kjhjux, ij hia [jgxta iasa^j lZmmfZcZnx. XXX
+// Lodar perso86
+L36D71C
+ L na[| m]je konx, o hai| m]je, d_~n? XXX
+// Arkhan2 L perso2
+L36D72
+ Ejbatx lZmmfZcZnx, snj au~ nw ]d_ag ] >ahg|q ElZfZ? XXX
+// Arkhan3 L perso3
+L36D73
+ IZmmfZbd hia klj >ahgd ElZfZ! XXX
+// Lodar perso86
+L36D74A
+ X lj_dgm| ] komnwia... X bdg ] komnwia... XXX
+// Lodar perso86
+L36D74B
+ A qjso o]d_anx au~ qjnx lZc, kjfZ | bd]! XXX
+// Arkhan2 O perso2
+L36D75
+ JnlZiidfd ]lj_a na[| hij^j ciZzn! XXX
+// Arkhan3 O perso3
+L36D76
+ +Z]Ze. IZmmfZbd hia klj >ahgd ElZfZ. XXX
+// Lodar perso86
+L36D77A
+ Fan, hia iasa^j mfZcZnx. XXX
+// Lodar ("farewell") perso86
+L36D77B
+ KZf d _albZnx, _lo^. "J fZb_wh tZ^jh [gdba d [gdba J]an". XXX
+// Arkhan2 G perso2
+L36D998
+ Pnj cZ tgah-nj? XXX
+// Arkhan3 G perso3
+L36D999
+ Vnj snj? XXX
+// Lodar perso86
+L36D82A
+ Vnj dc MaidmZ, _Zg~fj^j mnZggZenZ. XXX
+// Lodar perso86
+L36D82B
+ >ZuduZan jn kwgxije [old. XXX
+// Lodar perso86
+L36D82C
+ Palac uagx kljidfZan ]jc_oq. XXX
+// Arkhan2 G perso2
+L36D124
+ Cj^_Z-id[o_x ]d_ag kj_j[iwe fldmnZgg? XXX
+// Arkhan3 G perso3
+L36D125
+ &d_ag lZixta nZfje fldmnZgg? XXX
+// Lodar perso86
+L36D83
+ Fa ]mnlasZg nZfdq ]auae. Hljmnd ob. XXX
+// Lodar perso86
+L36D81
+ Fan ]lahaid iZ njl^j]gz, _lo^ hje. XXX
+// Lodar perso86
+L36D85
+ Lmkjfjem|. X ]a_x ia ]lZ^ na[a, kj]alx! XXX
+//  Lodar perso86
+L36D86
+ Kw ia jmnZ]dg hia ]w[jlZ! XXX
+// Konkalite12 perso82
+L36D105
+ Gn]Zgd! XXX
+// Arkhan2 L perso2
+L36D103
+ Ve, [o_an, mgwtdtx?! XXX
+// Arkhan3 L perso3
+L36D104
+ $ljmx! XXX
+// Arkhan2 O (aggressively) perso2
+L36D106
+ Fo, nw kjbZgaatx! XXX
+// Arkhan3 O (aggressively) perso3
+L36D107
+ Fo, nw kjbZgaatx! XXX
+// Konkalite12 (screaming with rage)perso82
+L36D108
+ #l-l-l! XXX
+// Arkhan2 L perso2
+L36D96
+ N]Zndn, ^id_Z! XXX
+// Arkhan3 L perso3
+L36D97
+ HalamnZix! &m~! XXX
+// Konkalite12 perso82
+L36D98
+ +albdmx kj_Zgxta, dgd nw - haln]ar! XXX
+// Arkhan2 O perso2
+L36D100
+ GnmnZix jn ia^j, dgd | na[a salak klj[xz! XXX
+// Arkhan3 O (menacingly) perso3
+L36D101
+ GnmnZix jn ia^j! XXX
+// Konkalite12 perso82
+L36D102
+ Fa ]c_ohZe ]gacZnx! XXX
+// Arkhan2 G perso2
+L36D110
+ G_idh nlokjh [jgxta, j_idh haixta... XXX
+// Arkhan3 G perso3
+L36D111
+ G_idh nlokjh [jgxta... XXX
+// Konkalite12 perso82
+L36D112
+ +Z! Gi m]j~ mkjgiZ kjgosdg! XXX
+// Arkhan2 G perso2
+L36D113
+ Kw j[dlZatx nlokw? XXX
+// Arkhan3 G perso3
+L36D114
+ Kw j[dlZatx nlokw? XXX
+// Konkalite12 perso82
+L36D115A
+ Ka[a-nj snj? XXX
+// Konkalite12 perso82
+L36D115B
+ # hjbatx ia mhjnlanx, fjgx ia kj ilZ]o! XXX
+// Arkhan2 G (aggressively) perso2
+L36D119
+ Kw kj_jijf! XXX
+// Arkhan3 G (aggressively) perso3
+L36D120
+ Kw kj_jijf! XXX
+// Konkalite12 perso82
+L36D121
+ +Z! # nw hj| mga_ozuZ| baln]Z! XXX
+// Konkalite12 perso82
+L36D109
+ GmnZ]x ma[a. X ]c|g, snj qjnag! XXX
+// Arkhan2 Gperso2
+L36D149
+ Jkjfjeij, mnlZb, hia ia iobiw klj[gahw. XXX
+// Arkhan2 Gperso2
+L36D150
+ Pnj hia iobij, ynj gafZlmn]j. XXX
+// Guardian20 perso60
+L36D151A
+ X na[a mfZcZg ba: nw cl| c_amx snj-nj duatx. XXX
+// Guardian20 perso60
+L36D151B
+ # amgd ia iobiw klj[gahw, nj gosta oe_d. XXX
+// Guardian20 perso60
+L36D251A
+ Kw ia iZe_~tx c_amx nj^j, snj nw duatx. XXX
+// Guardian20 perso60
+L36D251B
+ Hjc]jgx _Znx na[a _lobamfde mj]an. Amsacid! XXX
+// Arkhan2 L perso2
+L36D135A
+ X duo gafZlmn]j jn hjae [jgacid. XXX
+// Arkhan2 L perso2
+L36D135B
+ X gdtx kljto, _Ze hia kljend. XXX
+// Guardian20 perso60
+L36D137A
+ Ejban [wnx, nw ia ] folma - mnZggZen iZ ]jaiijh kjgjbaidd. XXX
+// Guardian20 perso60
+L36D137B
+ &jljnZ cZflwnw, kjsnd iZ fZb_je _jlj^a [gjf-kjmn. XXX
+// Guardian20 perso60
+L36D137C
+ ...A nZfjho... nZfjho, fZf nw, c_amx mj]altaiij iasa^j _agZnx! XXX
+// Guardian20 perso60
+L36D137D
+ KZf snj gosta m]Zgd. XXX
+// Arkhan2 O perso2
+L36D138A
+ Kw _jmnZg! XXX
+// Arkhan2 O perso2
+L36D138B
+ Hljsx m hja^j kond, dgd ]wgandtx ] >ahgd ElZfZ! XXX
+// Guardian20 perso60
+L36D140
+ Kjgxfj ]hamna m nj[je, hjimnl! XXX
+// Arkhan2 L perso2
+L36D123A
+ Gmnwix, _lo^. X #lqZi, nZfje ba mnlZb j^i|, fZf d nw. XXX
+// Arkhan2 L perso2
+L36D123B
+ X [wg jnlZ]gai, kwnZ|mx mkZmnd &agdfoz klj]d_dro jn mhalnd. XXX
+// Guardian20 (impressed) perso60
+L36D136
+ GnlZ]gai! Fa ]d_ag nZfj^j idfj^_Z! XXX
+// Arkhan2 O perso2
+L36D126
+ Gnje_d, dgd ]wgandtx ] >ahgd ElZfZ! XXX
+// Guardian20 perso60
+L36D141A
+ Fasa^j mj hije njl^j]Znxm|! XXX
+// Guardian20 perso60
+L36D141B
+ Jje_d m oflakgaide, masZm ba! XXX
+// Guardian20 perso60
+L36D142
+ FZklZmij mnZlZatxm|, hjimnl! XXX
+// Guardian20 perso60
+L36D143
+ X so|g! XXX
+// Arkhan2 L perso2
+L36D32
+ KZ kotfZ, snj kj_idhZan nla]j^o ]j ]lah| ZnZf. XXX
+// Arkhan2 O perso2
+L36D33
+ HotfZ. NZ! Vq, bZgx, cZkZgZ ian - ]jn | [w maesZm non tjljqo iZ]~g! XXX
+// Arkhan3 L perso3
+L36D34
+ HotfZ [ammdgxiZ kljnd] iZtamn]d| ElZfZ... XXX
+// Arkhan3 O perso3
+L36D35
+ Globda ia lZc]aan P~liwe mZ]Zi! XXX
+// Arkhan2 G perso2
+L36D36
+ Fan, n|b~gwa! XXX
+// Arkhan3 G perso3
+L36D37
+ K|b~gwa! XXX
+// Arkhan2 L perso2
+L36D38
+ Vnd rakd kj_idhZzn d jkomfZzn ]jljnZ. XXX
+// Arkhan2 O (pulling on chain, in vain) perso2
+L36D39
+ Fan, d id iZ _zeh! XXX
+// Arkhan3 L perso3
+L36D40
+ Vnj rakd _g| kj_v~hZ ]jljn. XXX
+// Arkhan3 O (pulling on chain, in vain) perso3
+L36D41
+ FdfZf! XXX
+// Arkhan2 L perso2
+L36D46
+ Hljnd]j]amw ]jljn cZbZnw hab_o yndq klobdi. XXX
+// Arkhan3 L perso3
+L36D48
+ Hlobdiw... Gid cZbdhZzn kljnd]j]amw ]jljn. XXX
+// Arkhan2 L perso2
+L36D49
+ Vnj nokdf. X ia hj^o kljend _Zgxta. XXX
+// Arkhan2 O (striking a barricade) perso2
+L36D50
+ A_djnw! >Zflwgd ]ma ]wqj_w! XXX
+// Arkhan3 O (striking a barricade) perso3
+L36D52
+ P~ln! Kokdf! XXX
+// Arkhan2 G perso2
+L36D24
+ Gnmz_Z ]amx mnZggZen fZf iZ gZ_jid. XXX
+// Arkhan3 G perso3
+L36D25
+ JnZggZen fZf iZ gZ_jid. XXX
+// Arkhan2 G perso2
+L36D26
+ JnZggZen mfjlj ragdfjh kj^gjndn P~liwe mZ]Zi. XXX
+// Arkhan3 G perso3
+L36D27
+ P~liwe mZ]Zi kj]mz_o... XXX
+// Arkhan2 G perso2
+L36D28
+ Hwgx d ElZf, iZmfjgxfj q]ZnZan ^gZc... XXX
+// Arkhan3 G perso3
+L36D29
+ ElZf, iZmfjgxfj ]d_dn ^gZc... XXX
+// Arkhan2 G perso2
+L36D30
+ JkZlno kj^gjndg P~liwe mZ]Zi... XXX
+// Arkhan2 L perso2
+L36D09
+ &jljnZ mnZggZenZ... Fj dq latdgd cZflwnx, ] m]|cd m ]jaiiwh kjgjbaidah. XXX
+// Arkhan2 O perso2
+L36D10
+ G, kld_oljf +jlfZi cZflwg ]jljnZ mnZggZenZ! XXX
+// Arkhan3 L perso3
+L36D11
+ &jaiija kjgjbaida. &jljnZ mnZggZenZ cZflwnw. XXX
+// Arkhan3 O perso3
+L36D12
+ &jljnZ cZflwnw... +jlfZi mj m]jdh ]jaiiwh kjgjbaidah! XXX
+// Arkhan2 L perso2
+L36D13
+ Gnflwnw gd, cZflwnw - ]jljnZ ia jmnZij]|n P~liwe mZ]Zi. XXX
+// Arkhan2 O perso2
+L36D14
+ Gid msdnZzn, snj ]jljnZ cZudn|n dq. Potx! XXX
+// Arkhan3 O perso3
+L36D16A
+ +olZfd! XXX
+// Arkhan3 G perso3
+L36D16B
+ Gid cZflwgd ]jljnZ... Fj ynj ia mkZm~n! XXX
+// Arkhan2 G perso2
+L36D17
+ Kjgxfj ynZ mnaiZ jn_ag|an iZm jn ]iatia^j ElZfZ. XXX
+// Arkhan2 G perso2
+L36D18
+ JiZlobd j_di gdtx P~liwe mZ]Zi, qjgj_ d mhalnx... XXX
+// Arkhan3 G perso3
+L36D19
+ P~liwe mZ]Zi, qjgj_, mhalnx... &jn d ]m~, snj nZh, miZlobd... XXX
+// Arkhan2 L (soberly) perso2
+L36D20
+ Po]mn]oz, nZh snj-nj kldnZdgjmx, ]wbd_Z|, ^jnj]|mx f klwbfo... XXX
+// Arkhan2 O (shouting in defiance) perso2
+L36D21
+ A_dna d ]jcxhdna hai|, Jjc_Zid| ElZfZ! &wqj_dna, | b_o ]Zm oba! XXX
+// Arkhan3 L perso3
+L36D22
+ Jjc_Zid| ElZfZ... Gid l|_jh, | dq soz... XXX
+// Arkhan3 O (shouting in defiance) perso3
+L36D23
+ +Z]Zena, hjimnlw! FZganZena! XXX

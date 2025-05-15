@@ -1,0 +1,196 @@
+Début du fichier F:\DEV\DKE\DATAS\DIALOGUE\SP\NWDIAL49.TXT
+ // Arkhan2 O perso2
+L03D523
+ ¡Te voy a dar una paliza! XXX
+// Arkhan3 O perso3
+L03D525
+ ¡Voy a darte una paliza! XXX
+// Kalhi perso13
+L49D01
+ ¡Suéltame! ¡Yo no te he robado! XXX
+// Malfrat8 (desenvaina su puñal) perso68
+L49D02A
+ ¡Te voy a hacer probar mi dardo! XXX
+// Malfrat8 (delante de el cuerpo de Kalhi) perso68
+L49D03A
+ ¡Ahora eres menos fiera!, ¡¿eh, puerca?! XXX
+// Malfrat8 perso68
+L49D03B
+ ¡Llegas demasiado tarde, cara de rata: ella ya está fría! XXX
+// Malfrat8 perso68
+L49D03C
+ ¡Venga, acércate, mi hoja todavía tiene sed! XXX
+// Malfrat8 perso68
+L49D04
+ ¡Tú otra vez! ¡Ven a pelear, cobarde! XXX
+// Dorkhan perso11
+L49D05
+ ¡Acércate, Arkhan! ¡Voy a terminar con esto de una vez por todas! XXX
+// Dorkhan (arisco) perso11
+L49D06A
+ ¡Solo tú y yo, Arkhan! XXX
+// Dorkhan perso11
+L49D06B
+ ¡Ven y terminemos con esto! XXX
+// Malfrat8 perso68
+L49D02B
+ ¡No vas a gritar por nada, créeme! XXX
+// Malfrat8 (lucha con Kalhi y ve llegar a Arkhan) perso68
+L49D40
+ ¡La bestia viene en ayuda de la bella! XXX
+// Arkhan2 G (encuentra a Dorkhan) perso2
+L49D07
+ ¡Dhorkan! XXX
+// Arkhan3 G (encuentra a Dorkhan) perso3
+L49D08
+ ¡Dhorkan! XXX
+// Dorkhan (sorprendido et furioso) perso11
+L49D09
+ ¡Arkhan! ¿¡No abandonas nunca!? XXX
+// Arkhan2 G perso2
+L49D10
+ ¡Tranquilízate, es la última vez! ¡Vas a morir, traidor! XXX
+// Arkhan3 G perso3
+L49D11
+ ¡Eres mío! XXX
+// Dorkhan perso11
+L49D12A
+ ¿Soy yo a quien quieres, cara de cenizas? XXX
+// Dorkhan (desenvaina) perso11
+L49D12B
+ ¡Ven a buscarme! XXX
+// Kalhi perso13
+L49D14
+ ¡Gracias Arkhan, te debo un gran favor! XXX
+// Arkhan2 L (inquieto) perso2
+L49D15
+ ¡Kalhi! ¿Por qué has arriesgado tu vida así? XXX
+// Arkhan2 O (encolerizado) perso2
+L49D16
+ ¡Estás completamente loca! ¡Podrías haber muerto! XXX
+// Arkhan3 L (inquieto) perso3
+L49D17
+ ¡Podrías haber muerto! XXX
+// Arkhan3 O (encolerizado) perso3
+L49D18
+ ¡Sangre negra, estás loca! XXX
+// Kalhi perso13
+L49D19A
+ ¡He cambiado con él! XXX
+// Kalhi perso13
+L49D19B
+ ¡No podía adivinar que intentaría atacarme! XXX
+// Arkhan2 G perso2
+L49D20
+ ¿Y qué es lo que cambiabas? XXX
+// Arkhan3 G perso3
+L49D21
+ ¿Qué cambiabas? XXX
+// Kalhi perso13
+L49D22A
+ Un pequeño rayo... Todavía funciona. XXX
+// Kalhi perso13
+L49D22B
+ ¡Toma, era para ti, te lo doy! XXX
+// Arkhan2 L perso2
+L49D23A
+ Gracias. Seguro que me será útil. XXX
+// Arkhan2 L perso2
+L49D23B
+ ¡Pero en adelante, no arriesgues tu vida así! XXX
+// Arkhan2 O perso2
+L49D24A
+ ¡Y por eso has arriesgado nuestras vidas! XXX
+// Arkhan2 O perso2
+L49D24B
+ ¡La próxima vez sé sensata y quédate en casa de Danrys!, ¿de acuerdo? XXX
+// Arkhan3 L perso3
+L49D25
+ Gracias. Pero ten cuidado... XXX
+// Arkhan3 O perso3
+L49D26
+ ¿Eso? ¡Dios Sol, habrías podido morir por eso! XXX
+// Kalhi perso13
+L49D27
+ ¡Comprendido! Vuelvo al redil. XXX
+// Kalhi (molesta, casi llorando) perso13
+L49D28
+ ¡Gracias por preocuparte por mí! XXX
+// Arkhan2 G (ha matado a Dhorkan) perso2
+L49D42
+ ¡Este era tu último error, Dhorkan! XXX
+// Arkhan3 G (ha matado a Dorkhan) perso3
+L49D43
+ ¡Se terminó, Dhorkan! XXX
+// Malfrat8 (Arkahn ha matado a Kalhi) perso68
+L49D41A
+ ¡Yo mismo habría matado a esta pequeña! XXX
+// Malfrat8 perso68
+L49D41B
+ ¡Voy a necesitar agarrarme a ti! XXX
+// Arkhan2 G perso2
+L49D29
+ ¿Kalhi, qué tal? XXX
+// Arkhan3 G perso3
+L49D30
+ ¿Kalhi? XXX
+// Kalhi (alarmada) perso13
+L49D31
+ ¡Arkhan, atención! XXX
+// Arkhan2 G perso2
+L49D47A
+ Kalhi no... XXX
+// Arkhan2 G perso2
+L49D47B
+ ¡¿Pero por qué?! XXX
+// Arkhan3 L perso3
+L49D48
+ Kalhi no... XXX
+// Kalhi (acobardada) perso13
+L10D107
+ ¡Para! XXX
+// Kalhi (inquieta) perso13
+L10D106
+ ¡Arkhan! ¡Cálmate! XXX
+// Dorkhan (Arkhan huye) perso11
+L49D46
+ ¡Cobarde! XXX
+// Arkhan2 L perso2
+L49D32A
+ ¡No, no conseguiré llegar más allá que los otros! XXX
+// Arkhan2 L perso2
+L49D32B
+ Nadie ha conseguido jamás abrir esta puerta. XXX
+// Arkhan2 O perso2
+L49D33
+ ¡La Puerta Maldita! ¡Nadie ha podido abrirla nunca! XXX
+// Arkhan3 L perso3
+L49D34
+ No... Nadie la ha abierto nunca... XXX
+// Arkhan3 O perso3
+L49D35
+ ¡No se abre! XXX
+// Arkhan2 G perso2
+L49D36
+ Hay una especie de abertura en la caja. XXX
+// Arkhan3 G perso3
+L49D37
+ Una abertura en esta caja... XXX
+// Arkhan2 G perso2
+L49D38
+ ¡Dhorkan tenía la llave! XXX
+// Arkhan3 G perso2
+L49D39
+ ¡Dhorkan tenía la llave! XXX
+// Arkhan2 G perso2
+L49D44
+ ¡No hay nada que hacer, han cerrado la puerta! XXX
+// Arkhan3 G perso3
+L49D45
+ ¡Cerrada! XXX
+// Arkhan2 G perso2
+L49D49
+ ¡Son sólo unos tubos! XXX
+// Arkhan3 G perso3
+L49D50
+ ¡Tubos! XXX

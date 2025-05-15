@@ -1,0 +1,646 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\SP\NWDIAL39.TXT
+ // Arkhan2 G perso2
+L39D110
+ Hace falta valor para dormir en eso. XXX
+// Arkhan3 G perso3
+L39D111
+ Dormir en eso... Hace falta valor... XXX
+// Leona (imperiosa) perso14
+L39D01A
+ ¿Quién eres tú? XXX
+// Leona (imperiosa) perso14
+L39D01B
+ ¿Qué vienes a hacer a mis dominios? XXX
+// Leona (encolerizada) perso14
+L39D107
+ ¡Te atreves a volver! XXX
+// Leona perso14
+L39D03A
+ Arkhan. XXX
+// Leona perso14
+L39D03B
+ ¿Qué esperas de mí? XXX
+// Leona perso14
+L39D02
+ ¿Otra vez tú? XXX
+// Leona (se pone en guardia) perso14
+L39D04
+ ¡Con cuidado! No tienes nada que temer de mí. XXX
+// Leona (atacada por Arkhan) perso14
+L39D108
+ ¡La Oscuridad se ha hecho con tu razón! XXX
+// Leona (se detiene) perso14
+L39D05
+ Venga. Descansa y hablemos. XXX
+// Arkhan2 L perso2
+L39D06A
+ Soy Arkhan, hijo de Rylsadhar.  XXX
+// Arkhan2 L perso2
+L39D06B
+ Vengo en son de paz.  XXX
+// Arkhan2 O perso2
+L39D07A
+ Soy Arkhan, hijo de Rylsadhar. XXX
+// Arkhan2 O perso2
+L39D07B
+ ¿Eres tú la hechicera Leona? XXX
+// Leona (a la defensiva) perso14
+L39D08A
+ Arkhan, dices. Conozco a tu padre. XXX
+// Leona perso14
+L39D08B
+ Pero a ti no te he visto nunca. XXX
+// Leona perso14
+L39D08C
+ ¿Cómo puedes probarme que dices la verdad? XXX
+// Arkhan2 L perso2
+L39D09A
+ ¿Una prueba?  XXX
+// Arkhan2 L perso2
+L39D09B
+ ¡No tengo otra que mi buena fe! XXX
+// Arkhan2 O perso2
+L39D10A
+ Nada. XXX
+// Arkhan2 O perso2
+L39D10B
+ ¡Pero por nuestra propia supervivencia, harías mejor en creerme! XXX
+// Leona perso14
+L39D11A
+ Es poco... XXX
+// Leona perso14
+L39D11B
+ Pero tus palabras no están empañadas por la mentira. XXX
+// Leona perso14
+L39D11C
+ Siento que puedo tener confianza en ti. XXX
+// Arkhan2 L perso2
+L39D18A
+ La situación es grave.  XXX
+// Arkhan2 L perso2
+L39D18B
+ El Stallite entero está sumergido en la oscuridad. XXX
+// Arkhan2 O perso2
+L39D19A
+ ¡Por si no lo sabías, hay pánico ahí fuera! XXX
+// Arkhan2 O perso2
+L39D19B
+ El Stallite está sumergido en las tinieblas. XXX
+// Leona (alarmada) perso14
+L39D20A
+ ¡El Corazón de Luz! XXX
+// Leona (alarmada) perso14
+L39D20B
+ ¿Quién ha podido cometer tal acto? XXX
+// Arkhan2 G perso2
+L39D21A
+ Pareces saber muchas cosas. XXX
+// Arkhan2 G perso2
+L39D21B
+ Es un Predicador renegado de nombre Thanandar. XXX
+// Leona (estupefacta) perso14
+L39D22
+ ¡Thanandar el Sanador! XXX
+// Arkhan2 G perso2
+L39D23A
+ Era un Sanador...  XXX
+// Arkhan2 G perso2
+L39D23B
+ Ahora, no tiene nada de humano. XXX
+// Arkhan2 G perso2
+L39D23C
+ ¡Zed y mi padre están muertos por su culpa! XXX
+// Arkhan2 G perso2
+L39D24
+ Thanandar ha contaminado a mi padre, como me contaminó a mí. XXX
+// Arkhan2 G perso2
+L39D25
+ Thanandar ha contaminado a Zed, como me contaminó a mí. XXX
+// Arkhan2 G perso2
+L39D26A
+ No era el mismo... loco de dolor... ciego... XXX
+// Arkhan2 G perso2
+L39D26B
+ Thanandar le forzó a tocar el Corazón de Luz. XXX
+// Arkhan2 G perso2
+L39D26C
+ Surgieron relámpagos, el Corazón dejó de brillar como si se rellenase de esa sustancia negra. XXX
+// Arkhan2 G perso2
+L39D26D
+ Y poco después la nube de oscuridad engulló al Stallite. XXX
+// Arkhan2 L perso2
+L39D33A
+ Estoy buscando un lugar. La Gran Predicadora lo llama la Tumba. XXX
+// Arkhan2 L perso2
+L39D33B
+ Un lugar escondido que mi padre ha buscado durante años. XXX
+// Arkhan2 L perso2
+L39D34A
+ Debo acceder a sus notas todavía secretas. XXX
+// Arkhan2 L perso2
+L39D34B
+ Para esto, busco una llave de cristal compuesta por muchos trozos. XXX
+// Arkhan2 O perso2
+L39D35A
+ Lory me ha hablado de un lugar, la "Tumba". XXX
+// Arkhan2 O perso2
+L39D35B
+ ¡Posiblemente sea nuestra última esperanza, y mi padre... quizá sabía cómo ir! XXX
+// Arkhan2 O perso2
+L39D36A
+ Me hace falta una llave para acceder a sus notas. XXX
+// Arkhan2 O perso2
+L39D36B
+ ¡Una llave de cristal, dividida en varios trozos! XXX
+// Leona perso14
+L39D37A
+ En efecto, la hora de actuar ha llegado. XXX
+// Leona perso14
+L39D37B
+ Lory es una mujer sabia: sé que ella nunca te habría revelado esas cosas si no fuera vital. XXX
+// Leona perso14
+L39D37C
+ Considera que has conseguido mi ayuda, Arkhan.  XXX
+// Arkhan2 G perso2
+L39D40A
+ ¿Mi padre no ha venido a verte recientemente? XXX
+// Leona perso14
+L39D41A
+ No, no he vuelto a ver a Rylsadhar desde hace muchas lunas. XXX
+// Leona perso14
+L39D41B
+ Yo sé que estaba preocupado, pienso que presentía los acontecimientos terribles que se ciernen sobre 
+nosotros. XXX
+// Leona perso14
+L39D41C
+ Tu padre era un Elegido, uno de los pocos que conocían la existencia de la cripta del Corazón de Luz. 
+XXX
+// Leona perso14
+L39D41D
+ También uno de los menos que podían tocar el Corazón de Luz. XXX
+// Leona perso14
+L39D41D
+ También uno de los menos que podían tocar el Corazón de Luz. XXX
+// Leona perso14
+L39D41E
+ ¡Por eso Thanandar se ha apoderado de él! XXX
+// Arkhan2 L perso2
+L39D43A
+ Hablas de cosas que no conozco. XXX
+// Arkhan2 L perso2
+L39D43B
+ ¿Qué es de verdad el Corazón de Luz? XXX
+// Arkhan2 O perso2
+L39D44A
+ ¡Estoy harto de esos misterios! XXX
+// Arkhan2 O perso2
+L39D44B
+ ¡A ver si es posible que alguien me diga de una vez qué pasa! XXX
+// Leona perso14
+L39D45A
+ Lo has comprendido, el Corazón de Luz y la... Tumba están ligados. XXX
+// Leona perso14
+L39D45B
+ El Corazón de Luz era un don; traía la energía de la Tumba para protegernos de la Oscuridad. XXX
+// Leona perso14
+L39D45C
+ Esta energía circula, invisible a los ojos de los hombres, a través de la tierra, alrededor del Stallite. XXX
+// Leona perso14
+L39D45D
+ Ella nos protege de las tinieblas y de aquellos que las sirven. XXX
+// Leona perso14
+L39D45E
+ Ella permite a los rayos del Padre Luz alcanzarnos y debilitar a nuestros enemigos. XXX
+// Leona perso14
+L39D45F
+ Pero sin el Corazón de Luz, estamos condenados a la oscuridad. XXX
+// Arkhan2 G perso2
+L39D46A
+ ¿Por qué nadie conoce esos lugares de luz? XXX
+// Arkhan2 G perso2
+L39D46B
+ ¿Y que pintan Zed, Lory y mi padre en esta historia? XXX
+// Leona perso14
+L39D47A
+ Zed, Rylsadhar y la Gran Predicadora, como yo y algunos otros, estábamos unidos por... un pacto. XXX
+// Leona perso14
+L39D47B
+ Un pacto que se pierde en la noche de los tiempos, mucho antes del Gran Cataclismo. XXX
+// Leona perso14
+L39D47C
+ Concertado por los ancestros de los ancestros de nuestros ancestros con los poderes que duermen en la 
+Tumba. XXX
+// Leona perso14
+L39D47D
+ Nosotros hemos jurado proteger el Corazón de Luz y la Tumba guardando los secretos hasta el despertar 
+de aquellos que se alojan en estas profundidades. XXX
+// Leona perso14
+L39D47E
+ A cambio, algunos de nuestros ancestros han recibido en ellos mismos un poco de esta energía. XXX
+// Leona perso14
+L39D47F
+ Una energía de vida que podían con toda tranquilidad coger y volver a dejar en el Corazón de Luz.  XXX
+// Leona perso14
+L39D47G
+ Una energía para realizar cosas más allá de lo que los mortales ordinarios pueden hacer. XXX
+// Leona perso14
+L39D47H
+ Esta energía de vida y de luz ha cruzado las épocas y continúa existiendo en Zed, Rylsadhar y Lory: los 
+Elegidos. XXX
+// Arkhan2 G perso2
+L39D48
+ ¡La fuerza que Zed me transmitió antes de transformarse! XXX
+// Arkhan2 G perso2
+L39D49
+ ¡La fuerza que Zed me transmitió antes de morir! XXX
+// Arkhan2 G perso2
+L39D50
+ ¡Era eso! XXX
+// Arkhan2 L perso2
+L39D55A
+ Si la energía de luz existe... XXX
+// Arkhan2 L perso2
+L39D55B
+ Entonces el mal, el veneno con el que Thanandar nos ha envenenado... es la fuerza opuesta. XXX
+// Arkhan2 O perso2
+L39D56A
+ ¿Y esta cabronada con la que Thanandar nos ha envenenado? XXX
+// Arkhan2 O perso2
+L39D56B
+ Es lo contrario de esa energía de luz, ¿eh? XXX
+// Leona perso14
+L39D57A
+ Sí. XXX
+// Leona perso14
+L39D57B
+ Ese veneno de la oscuridad se nutre de la energía de los seres vivos. XXX
+// Leona perso14
+L39D57C
+ Aquellos que no mueren son transformados... como tú. XXX
+// Leona perso14
+L39D57D
+ Poco a poco, ellos se olvidan de quién son, y de qué son. XXX
+// Leona perso14
+L39D57E
+ Se convierten en criaturas sanguinarias, nunca saciadas, nunca en paz. XXX
+// Arkhan2 G perso2
+L39D58
+ Pero la energía de la Tumba puede contrarrestar el veneno, ¿no? XXX
+// Leona perso14
+L39D59A
+ Sí, las dos energías se consumen mutuamente. XXX
+// Leona perso14
+L39D59B
+ Pero si el veneno ha penetrado demasiado profundamente en ti, el choque será terrible... XXX
+// Leona perso14
+L39D59C
+ ¡Y tú también serás destruido! XXX
+// Leona perso14
+L39D60
+ Es lo que le pasó a Rylsadhar cuando tocó el Corazón de Luz. XXX
+// Leona perso14
+L39D61
+ Es lo que le pasó a Zed cuando tocó el Corazón de Luz. XXX
+// Arkhan2 L perso2
+L39D64A
+ ¿Y Thanandar?  XXX
+// Arkhan2 L perso2
+L39D64B
+ ¿Qué busca él? XXX
+// Arkhan2 O perso2
+L39D65A
+ ¿Y ese cabrón de Thanandar? XXX
+// Arkhan2 O perso2
+L39D65B
+ ¡¿Qué quiere?! XXX
+// Leona perso14
+L39D66A
+ Thanandar era un Iniciado, como nosotros. XXX
+// Leona perso14
+L39D66B
+ Siendo Sanador, ha estado siempre fascinado por el mal de la Oscuridad. XXX
+// Leona perso14
+L39D66C
+ Quería comprender, encontrar un remedio. XXX
+// Leona perso14
+L39D66D
+ No sé lo que le ha empujado a traicionar a la causa, a cometer esos actos de locura. XXX
+// Leona perso14
+L39D66E
+ Quizá ha sido contaminado por accidente... XXX
+// Leona perso14
+L39D66F
+ Si el veneno está en él, su alma y su espíritu han podido sufrir las peores transformaciones. XXX
+// Leona perso14
+L39D66G
+ ¡Sólo algo es seguro: si no se le detiene, nos llevará a nuestra perdición! XXX
+// Leona perso14
+L39D66H
+ ¿Sabes dónde se encuentra ahora? XXX
+// Arkhan2 G perso2
+L39D67A
+ No. Pero presiento que todavía está en el Stallite, con otras criaturas... XXX
+// Arkhan2 G perso2
+L39D67B
+ ¡No se marchará antes de que todo haya terminado, estoy seguro! XXX
+// Leona perso14
+L39D68
+ Debes detenerle, destruirle. XXX
+// Arkhan2 L perso2
+L39D69A
+ Ya lo he intentado. XXX
+// Arkhan2 L perso2
+L39D69B
+ El mal de la Oscuridad le ha hecho demasiado fuerte. XXX
+// Arkhan2 L perso2
+L39D69C
+ No creo que pueda vencerle. XXX
+// Arkhan2 O perso2
+L39D70A
+ ¡Fácil! XXX
+// Arkhan2 O perso2
+L39D70B
+ ¡Veo que no te lo has encontrado cara a cara! XXX
+// Arkhan2 O perso2
+L39D70C
+ ¡Tienes que ir allí si eres tan fuerte! XXX
+// Leona perso14
+L39D71A
+ ¡Entonces no queda más que una solución: encontrar la Tumba y devolver la luz al Stallite! XXX
+// Leona perso14
+L39D71B
+ ¡Antes de que Thanandar y sus criaturas terminen su negra obra! XXX
+// Arkhan2 L perso2
+L39D75A
+ Tienes aspecto de saber muchas cosas. XXX
+// Arkhan2 L perso2
+L39D75B
+ ¿Sabes cómo encontrar el acceso a la Tumba? XXX
+// Arkhan2 O perso2
+L39D76
+ Puesto que eres tan astuta, vas a decirme como entrar en la Tumba, ¿eh? XXX
+// Leona perso14
+L39D77A
+ No, ese secreto se perdió con el Gran Cataclismo. XXX
+// Leona perso14
+L39D77B
+ La Tumba esté enterrada profundamente bajo el Stallite. XXX
+// Leona perso14
+L39D77C
+ Pero el testimonio de los antiguos nos dice que el camino para llegar es largo y tortuoso. XXX
+// Leona perso14
+L39D77D
+ Aunque encuentres la entrada escondida, te esperan numerosas pruebas antes de acceder al corazón de la 
+Tumba. XXX
+// Arkhan2 G perso2
+L39D78
+ ¿Qué pruebas? XXX
+// Leona perso14
+L39D79A
+ No lo sé. XXX
+// Leona perso14
+L39D79B
+ Puede ser que Rylsadhar descubriera algo, pero no me lo dijo nunca. XXX
+// Arkhan2 L perso2
+L39D82
+ ¿Puedes hacer algo para apaciguar el fuego del veneno que me quema? XXX
+// Arkhan2 O perso2
+L39D83
+ ¡¿Y si hablamos ahora de curarme?! XXX
+// Leona (se acuerda de repente de que Arkhan sufre) perso14
+L39D84A
+ ¡Sí! XXX
+// Leona perso14
+L39D84B
+ No puedo curarte totalmente del mal que te tiene cogido. XXX
+// Leona perso14
+L39D84C
+ Pero la energía de vida y de luz está presente en este lugar. XXX
+// Leona perso14
+L39D84D
+ Por eso aquí la naturaleza vuelve a tomar sus derechos. XXX
+// Leona perso14
+L39D84E
+ El coloso de piedra que se erige en el centro de la gruta... XXX
+// Leona perso14
+L39D84F
+ La energía del Corazón de Luz pasaba a través de él. XXX
+// Leona perso14
+L39D84G
+ Si bebes el agua en la que reposa, ella te purificará del veneno que está en ti. XXX
+// Leona perso14
+L39D84H
+ Pero bebe poco porque el veneno está mezclado en tu cuerpo mortal. XXX
+// Leona perso14
+L39D84I
+ ¡Arriesgas tu vida! XXX
+// Arkhan2 L perso2
+L39D86A
+ Gracias Leona. XXX
+// Arkhan2 L perso2
+L39D86B
+ ¡Espero llegar! XXX
+// Arkhan2 O perso2
+L39D87A
+ ¡Tregua de charlas! XXX
+// Arkhan2 O perso2
+L39D87B
+ Tengo algunas pieles que salvar... XXX
+// Arkhan2 O perso2
+L39D87C
+ ¡Y en particular la mía! XXX
+// Leona perso14
+L39D88
+ Buena suerte, Arkhan. XXX
+// Leona perso14
+L39D89
+ Sé prudente. XXX
+// Leona perso14
+L39D90
+ ¡Tengo confianza en ti, hijo de Rylsadhar! XXX
+// Arkhan2 G perso2
+L39D95
+ ¿Reconoces esto? XXX
+// Leona (desconfiada) perso14
+L39D96
+ Dime primero quién eres y qué quieres. XXX
+// Arkhan2 G perso2
+L39D97
+ He aquí uno de los trozos de la llave de mi padre. XXX
+// Leona perso14
+L39D98
+ Lo siento, pero no tengo nada similar. XXX
+// Arkhan2 G perso2
+L39D99
+ ¿Qué es? XXX
+// Leona perso14
+L39D100
+ Un trozo de cristal de roca. XXX
+// Leona perso14
+L39D101
+ No está tallado, dudo que sea lo que buscas. XXX
+// Arkhan2 G perso2
+L39D102
+ ¿Qué puedes decirme de esto? XXX
+// Leona perso14
+L39D103
+ Eso no me dice nada particular, lo siento. XXX
+// Arkhan3 L perso3
+L39D12
+ Busco a Leona. XXX
+// Arkhan3 O perso3
+L39D13
+ ¿Leona? XXX
+// Leona (alarmada) perso14
+L39D014A
+ ¡Dios Sol, es el Mal! XXX
+// Leona (prudente) perso14
+L39D014B
+ Estás consumido por la Archiesencia Shankr. XXX
+// Leona (prudente) perso14
+L39D014C
+ ¿Quién eres tú? XXX
+// Arkhan3 L perso3
+L39D15
+ Soy Arkhan, hijo de Rylsadhar. XXX
+// Arkhan3 O perso3
+L39D16
+ ¡Arkhan! XXX
+// Leona perso14
+L39D17A
+ ¡El hijo de Rylsadhar! XXX
+// Leona perso14
+L39D17B
+ ¿Pero qué ocurre en el Stallite? XXX
+// Arkhan3 L perso3
+L39D27
+ El Stallite... está invadido por las tinieblas. XXX
+// Arkhan3 L perso3
+L39D28A
+ Sí, el Corazón de Luz. XXX
+// Arkhan3 L perso3
+L39D28B
+ Es Thanandar, un Predicador. XXX
+// Arkhan3 L perso3
+L39D28C
+ Por su culpa ha pasado todo. XXX
+// Arkhan3 L perso3
+L39D29A
+ ¡No, ya no es un Sanador! XXX
+// Arkhan3 L perso3
+L39D29B
+ ¡Ni siquiera es un hombre! XXX
+// Arkhan3 L perso3
+L39D29C
+ ¡Él ha hecho morir a Zed y a mi padre! XXX
+// Arkhan3 L perso3
+L39D30
+ Thanandar ha contaminado a mi padre, igual que a mí. XXX
+// Arkhan3 L perso3
+L39D31
+ Thanandar ha contaminado a Zed, como a mí. XXX
+// Arkhan3 L perso3
+L39D32A
+ Estaba torturado... por el dolor... XXX
+// Arkhan3 L perso3
+L39D32B
+ Thanandar le ha forzado a tocar la luz. XXX
+// Arkhan3 L perso3
+L39D32C
+ Hubo relámpagos... el Corazón de Luz se volvió sombrío... XXX
+// Arkhan3 L perso3
+L39D32D
+ Como si absorbiera la energía negra... XXX
+// Arkhan3 L perso3
+L39D32E
+ Después, las tinieblas estaban sobre el Stallite. XXX
+// Arkhan3 L perso3
+L39D38A
+ Lory me ha hablado de un lugar, la "Tumba". XXX
+// Arkhan3 L perso3
+L39D38B
+ Nuestra última oportunidad... XXX
+// Arkhan3 L perso3
+L39D38C
+ Mi padre quizá sabía dónde estaba. XXX
+// Arkhan3 L perso3
+L39D39A
+ Pero sus secretos están bien escondidos. XXX
+// Arkhan3 L perso3
+L39D39B
+ Busco una llave de cristal, hecha de varios trozos. XXX
+// Arkhan3 L perso3
+L39D42A
+ ¿Has visto a mi padre recientemente? XXX
+// Arkhan3 L perso3
+L39D109
+ El Corazón... La Tumba... Explícame. XXX
+// Arkhan3 L perso3
+L39D51A
+ ¿Por qué ese secreto? XXX
+// Arkhan3 L perso3
+L39D51B
+ ¿Y por qué Zed, mi padre, y Lory? XXX
+// Arkhan3 L perso3
+L39D52
+ ¡Zed me ha transmitido una fuerza antes de morir! XXX
+// Arkhan3 L perso3
+L39D53
+ Zed me ha dado su fuerza antes de sucumbir al mal. XXX
+// Arkhan3 L perso3
+L39D54
+ ¡Era eso! XXX
+// Arkhan3 L perso3
+L39D62A
+ El mal de la Oscuridad... XXX
+// Arkhan3 L perso3
+L39D62B
+ ¿Es la inversa de esta fuerza? XXX
+// Arkhan3 L perso3
+L39D63
+ ¡La energía en la Tumba destruirá el veneno! XXX
+// Arkhan3 L perso3
+L39D72
+ ¿Y Thanandar?  XXX
+// Arkhan3 L perso3
+L39D73A
+ Él está todavía en el Stallite, con otras criaturas. XXX
+// Arkhan3 L perso3
+L39D73B
+ ¡Va a esperar a que todo termine, estoy seguro! XXX
+// Arkhan3 L perso3
+L39D74A
+ Ya lo he intentado. XXX
+// Arkhan3 L perso3
+L39D74B
+ El mal le ha transformado, es demasiado fuerte. XXX
+// Arkhan3 L perso3
+L39D80A
+ Tú sabes mucho. XXX
+// Arkhan3 L perso3
+L39D80B
+ ¿Sabes cómo puedo encontrar la Tumba? XXX
+// Arkhan3 L perso3
+L39D81
+ ¿Qué pruebas? XXX
+// Arkhan3 L perso3
+L39D85
+ ¿Puedes ayudarme a curar el mal? XXX
+// Arkhan3 O (como si el se preparara a devorar a Leona) perso3
+L39D92
+ Leonaaaa... XXX
+// Leona perso14
+L39D93
+ ¡Arkhan! ¡No, no dejes que la oscuridad te arrastre! XXX
+// Leona perso14
+L39D94
+ ¡No! ¡Arkhan, domínate! XXX
+// Arkhan3 G perso3
+L39D104
+ ¿Conoces esto? XXX
+// Arkhan3 L perso3
+L39D105
+ Es uno de los trozos de la llave de mi padre. XXX
+// Arkhan3 L perso3
+L39D106
+ ¿Qué es? XXX

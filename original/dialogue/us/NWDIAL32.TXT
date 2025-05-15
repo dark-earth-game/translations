@@ -1,0 +1,397 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL32.TXT
+ // Sordos perso23
+L32D08
+ Ah! There you are, Gork, old buddy. XXX
+// Sordos perso23
+L32D70
+ Ah! There you are, Telk! XXX
+// Gork perso31
+L32D12B
+ I hurt you... and you scream, okay? XXX
+// Konkalite11 perso81
+L32D71
+ Need me, chief? XXX
+// Sordos perso23
+L32D09A
+ I found you a new playmate. XXX
+// Sordos perso23
+L32D09B
+ Have fun with him, but don't kill him too fast. XXX
+// Konkalite11 perso81
+L32D72
+ You can count on me, Sordos! XXX
+// Sordos perso23
+L32D05A
+ So bone-brain, you're gonna be a hero. A  dead hero! XXX
+// Sordos perso23
+L32D05B
+ Too bad you won't be around to see the Konkalites take over Sparta. XXX
+// Sordos perso23
+L32D05C
+ Believe me when I tell you: blood will flow like Stohll! XXX
+// Konkalite11 perso81
+L32D73A
+ Gork will be here soon with his little playthings. XXX
+// Konkalite11 perso81
+L32D73B
+ Then you'll find out what it means to hurt bad! XXX
+// Konkalite11 perso81
+L32D73C
+ You can bet on that! (evil laugh) XXX
+// Gork (stupidly)perso31
+L32D10
+ Duh... sure thing, Sordos. XXX
+// Gork perso31
+L32D12A
+ Sordos says to hurt you bad. XXX
+// Gork perso31
+L32D12C
+ And are you ever gonna scream! Yeah! XXX
+// Konkalite7 (calling Gork)perso77
+L32D13
+ Ha Ha! Now then... Hey, Gork, look who dropped in! XXX
+// Konkalite7 perso77
+L32D14
+ Come here cutie! I've got somethin' for ya. XXX
+// Malrot6 perso66
+L32D226
+Hey... Let me out, scum! XXX
+// Malrot6 perso66
+L32D227
+ Armal Sadak will kill you all! XXX
+// Malrot6 perso66
+L32D228
+Hey.. You're not gonna let me rot in this cell, are you?! XXX
+// Konkalite3 perso73
+L32D666
+ Hey! Sit still, would ya! XXX
+// Konkalite3 perso73
+L32D667
+ Quiet, vermin! XXX
+// Konkalite3 perso73
+L32D668
+ You're gonna squirm like a maggot before you die! XXX
+// Konkalite3 (seeing Arkhan)perso73
+L32D100
+ Hey, where did you come from?! XXX
+// Malrot6 (A. having overcome Konkalite3)perso66
+L32D225
+ Nice going, buddy! XXX
+// Gork perso31
+L32D505
+ Shut up! XXX
+// Arkhan2 O perso2
+L32D15
+ Come and get some, fatso! XXX
+// Arkhan3 O perso3
+L32D16
+ Your day has come, you tub of lard! XXX
+// Konkalite7 perso77
+L34D778
+ You're a dead man! XXX
+// Konkalite7 perso77
+L34D777
+ We're gonna slice 'n dice ya! XXX
+// Arkhan2 G (finding Dhorkan half-dead)perso2
+L32D40
+ It's Dhorkan! XXX
+// Arkhan3 G (finding Dhorkan half-dead)perso3
+L32D41
+ Dhorkan! XXX
+// Dhorkan (semi-conscious) perso95
+L32D42
+ Oooh... XXX
+// Arkhan2 L perso2
+L32D20
+ Dhorkan? You're still alive! XXX
+// Arkhan2 O perso2
+L32D21
+ Dhorkan! Still alive, you dirty traitor?! XXX
+// Arkhan3 L perso3
+L32D22
+ Dhorkan? Alive? XXX
+// Arkhan3 O perso3
+L32D23
+ Dhorkan! Still alive, you rat! XXX
+// Dhorkan (dying)perso95
+L32D24A
+ Arkhan... it's you?..  XXX
+// Dhorkan (dying)perso95
+L32D24B
+ Aah... I knew I'd see you again... before... the end. XXX
+// Arkhan2 G perso2
+L32D25
+ Yeah, I don't give up easy! XXX
+// Arkhan3 G perso3
+L32D26
+ Yeah, I fight... till it's over! XXX
+// Dhorkan (dying)perso95
+L32D27A
+ It's the bitter end for me... My sins... have caught up with me... XXX
+// Dhorkan (dying)perso95
+L32D27B
+ I... I wanted... a new era for Sparta... XXX
+// Dhorkan (dying)perso95
+L32D27C
+ I was willing to do anything... Collaborate with Sordos... Let him kill Lory... Turn your father over to him... XXX
+// Dhorkan (dying)perso95
+L32D27D
+ But I didn't realize what Thanandar was up to...  XXX
+// Dhorkan (dying)perso95
+L32D27E
+ He and Sordos... used me! XXX
+// Arkhan2 L perso2
+L32D28
+ You can atone for your sins. Tell me where Thanandar is. XXX
+// Arkhan2 O perso2
+L32D29
+ You saw Thanandar! Talk! XXX
+// Arkhan3 L perso3
+L32D30
+ Thanandar, where is he? XXX
+// Arkhan3 O perso3
+L32D31
+ Where's Thanandar? Talk! XXX
+// Dhorkan (dying)perso95
+L32D32A
+ No... I don't know where he is...  XXX
+// Dhorkan (dying)perso95
+L32D32B
+ Don't take him on. He's not human any more, Arkhan...  XXX
+// Dhorkan (dying)perso95
+L32D32C
+ He's been... infected... for a long time... XXX
+// Dhorkan (dying)perso95
+L32D32D
+ The Sun God only knows how he concealed it from everyone... XXX
+// Dhorkan (dying)perso95
+L32D32E
+ The Konkalites poisoned you with... his blood... XXX
+// Dhorkan (dying)perso95
+L32D32F
+ Now that the powers of Darkness have entered the Stallite... Thanandar is free to reveal his true nature... XXX
+// Dhorkan (dying)perso95
+L32D32G
+ Other creatures... obey him... no one can stop him... too late... (sigh) XXX
+// Arkhan2 L perso2
+L32D33A
+ Dhorkan! I'm looking for a place my father called "The Tomb". XXX
+// Arkhan2 L perso2
+L32D33B
+ It may be the only way to save Sparta! XXX
+// Arkhan2 O perso2
+L32D34A
+ You're getting just what you deserve! XXX
+// Arkhan2 O perso2
+L32D34B
+ But they won't get me! XXX
+// Arkhan3 L perso3
+L32D35A
+ I'm looking for a place, the "Tomb".  XXX
+// Arkhan3 L perso3
+L32D35B
+ It's supposed to have a force that can save us. XXX
+// Arkhan3 O perso3
+L32D36A
+ You die as you lived! Dishonored! XXX
+// Arkhan3 O perso3
+L32D36B
+ But I will survive! XXX
+// Dhorkan (dying)perso95
+L32D37A
+ The only safety is in flight... Flee, while there is still time...  XXX
+// Dhorkan (dying)perso95
+L32D37B
+ The Stallite will disappear... because of me... XXX
+// Dhorkan (last breath)perso95
+L32D37C
+ May the Great Solaar forgive me... XXX
+// Arkhan2 G perso2
+L32D44
+ He's dead. It's all over. XXX
+// Arkhan3 L perso3
+L32D46
+ This time it's over. XXX
+// Arkhan2 L perso2
+L32D50
+ Zed, what have they done to you!? XXX
+// Arkhan2 O perso2
+L32D51
+That's not Zed! XXX
+// Arkhan3 L perso3
+L32D52
+ Zed, what have they done!? XXX
+// Arkhan3 O perso3
+L32D53
+ That's not Zed! XXX
+// Arkhan2 L perso2
+L32D500
+ Let me out, I've got something for you. XXX
+// Arkhan2 O perso2
+L32D501
+ Let me out of here, fatso! XXX
+// Arkhan3 L perso3
+L32D502
+ Let me go. I've got something for you. XXX
+// Gork perso31
+L32D503
+ Shut your trap, scum! XXX
+// Gork perso31
+L32D504
+ Next thing you know, you'll be beggin' us to kill you! XXX
+// Arkhan2 L perso2
+L32D506
+ Let me out, I'll make it worth your while. XXX
+// Konkalite11 perso81
+L32D509A
+ I don't care who you are, or what you did, or what you got to say for yourself. XXX
+// Konkalite11 perso81
+L32D509B
+ What I want is to hear you scream and beg for mercy. XXX
+// Arkhan2 O perso2
+L32D507
+ Let me go now and I might let you live! XXX
+// Konkalite11 perso81
+L32D510A
+ That's a good one! XXX
+// Konkalite11 perso81
+L32D510B
+ But I think I'll just hold on to you. Never know when I'll get a little yearn to torture... XXX
+// Arkhan3 L perso3
+L32D508
+ Let me go, you won't regret it. XXX
+// Konkalite11 perso81
+L32D511A
+ Moan and groan all you want! XXX
+// Konkalite11 perso81
+L32D511B
+ Soon you'll be beggin' us to cut your throat! XXX
+// Malrot6 perso66
+L32D102
+ Take care of the other reptile first! XXX
+// Arkhan2 L perso2
+L32D200
+ I'm going to get you out of there XXX
+// Malrot6 perso66
+L32D201
+ Hey, thanks buddy! You think you can manage? XXX
+// Arkhan2 L (can't break down the door)perso2
+L32D202
+ Uh... It's solid, all right! XXX
+// Malrot6 perso66
+L32D203
+ Try to find a way to pick the lock. XXX
+// Arkhan3 L perso3
+L32D204
+ I'm gonna get you out of here! XXX
+// Arkhan3 L perso3
+L32D205
+ Solid! XXX
+// Arkhan2 L perso2
+L32D206
+ I'm going to try something else. XXX
+// Arkhan3 L perso3
+L32D207
+ Gonna try something else. XXX
+// Malrot6 perso66
+L32D208
+ I really appreciate what you're doing buddy. XXX
+// Malrot6 perso66
+L32D209
+ Keep your eyes open. More of those vermin might show up any minute! XXX
+// Arkhan2 L perso2
+L32D210
+ No, it's not working! XXX
+// Arkhan3 L perso3
+L32D211
+ No good! XXX
+// Arkhan2 L perso2
+L32D212
+ I'll get the cell open with that! XXX
+// Arkhan3 L perso3
+L32D213
+ Gonna  open the cell! XXX
+// Malrot6 perso66
+L32D214
+ Hey thanks man, I owe you one! XXX
+// Malrot6 perso66
+L32D217A
+ You saved my life, buddy, I'm not gonna forget that! XXX
+// Malrot6 perso66
+L32D217B
+ I'm just gonna try to get out of here in one piece. XXX
+// Malrot6 perso66
+L32D217C
+ Watch your back! XXX
+// Arkhan2 O perso2
+L32D218
+ You don't look too cool in that cell! XXX
+// Arkhan3 O perso3
+L32D219
+ You look like a jerk in there! XXX
+// Malrot6 perso66
+L32D220A
+ I'm an enemy of the Konkalites, just like you! XXX
+// Malrot6 perso66
+L32D220B
+ When you're finished enjoying the show, how about getting me out of here? XXX
+// Arkhan2 O perso2
+L32D221
+ If they threw you in a cell, they must have had a good reason! XXX
+// Arkhan3 O perso3
+L32D222
+ Not very spacious, is it?! XXX
+// Malrot6 perso66
+L32D223
+ Get me out of here and I'll show you why those slimeheads locked me up! XXX
+// Malrot6 perso66
+L32D224
+ Talk is cheap... XXX
+// Malrot6 perso66
+L32D512
+ Hey, Hey, take it easy! XXX
+// Malrot6 perso66
+L32D513
+ You trying to kill me or what?! XXX
+// Konkalite3 (hitting)perso73
+L32D888
+ You talk too much, buddy. Gets on my nerves! XXX
+// Konkalite3 (hitting)perso73
+L32D889
+ I'm gonna make you bleed, big mouth! XXX
+// Konkalite11 perso81
+L32D515
+ Scream. Go ahead, scream! XXX
+// Konkalite11 perso81
+L32D514
+ Gonna give you a mouthful! XXX
+// Arkhan2 G perso2
+L32D60A
+ Torture cells. XXX
+// Arkhan2 G perso2
+L32D60B
+ These Konkalites are snakes! XXX
+// Arkhan3 G perso3
+L32D61A
+ Torture cells. XXX
+// Arkhan3 G perso3
+L32D61B
+ Konkalites, snakes! XXX
+// Arkhan2 G perso2
+L32D58
+ Human bones...   XXX
+// Arkhan3 G perso3
+L32D59
+ Bones... human bones. XXX
+// Arkhan2 G perso2
+L32D56
+ A chunk of charred flesh. XXX
+// Arkhan3 G perso3
+L32D57
+ Charred flesh. XXX
+// Arkhan2 G perso2
+L32D54
+ Rusted animal cages. XXX
+// Arkhan3 G perso3
+L32D55
+ Rusted cages. XXX

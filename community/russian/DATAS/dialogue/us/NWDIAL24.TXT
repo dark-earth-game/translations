@@ -1,0 +1,406 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL24.TXT
+ // Thanandar perso24
+L34D201
+ Lhld, iamsZmniwe _olZf! XXX
+// Thanandar (suddenly mean)perso24
+L24D70
+ Kw kj_kdmw]Zatx m]je mhalniwe kld^j]jl! XXX
+// Guardian16 (superstitious dread) perso56
+L24D02
+ G $j^ JjgirZ! Vnj... kjljb_aida ElZfZ! XXX
+// Arkhan2 G (weakened) perso2
+L24D01
+ +Zgidm... X... Pnj kljdmqj_dn mj hije? XXX
+// Guardian16 perso56
+L24D03
+ FZ kjhjux! JnlZbZ! XXX
+// Arkhan2 L perso2
+L24D05
+ Hljmnd, mnlZb j^i|, nw ia jmnZ]dg hia ]w[jlZ... XXX
+// Arkhan2 O perso2
+L24D06
+ P~lnj] kmdq! Fa iZ_j [wgj iZklZtd]Znxm|! XXX
+// Thanandar (admiring) perso24
+L24D07A
+ Fahwmgdhj! Kw iZ ij^Zq, bd]je! XXX
+// Thanandar perso24
+L24D07B
+ CZf mZhjso]mn]da? Fakgjqj, mhjnlz, kalai~m... XXX
+// Thanandar perso24
+L24D08
+ IZmmgZ[xm|, | iZ n]jae mnjljia. XXX
+// Thanandar perso24
+L24D09
+ KZf-nj gosta. XXX
+// Arkhan2 G perso2
+L24D10
+ KZiZi_Zl! XXX
+// Arkhan3 G perso3
+L24D11
+ KZiZi_Zl! XXX
+// Thanandar perso24
+L24D12
+ Pnj mfZcZg IdgmZ_Zl? Ka[a o_Zgjmx kjkZmnx ] njn nZeiwe mfgak? XXX
+// Thanandar (impatient) perso24
+L24D13
+ Fo, snj ociZg klj mfgak? XXX
+// Thanandar perso24
+L24D14A
+ #lqZi! Pnj nw n|iatx! XXX
+// Thanandar perso24
+L24D14B
+ FZe_d mfgak! XXX
+// Thanandar (sugary sweet) perso24
+L24D15A
+ #lqZi! # ]jn d nw! X nZf lZ_ mij]Z ]d_anx na[|... XXX
+// Thanandar (suddenly turning mean) perso24
+L24D15B
+ &a_x iZmnZg n]je sal~_ ]jend ] l|_w naiae iZ]asij! FZ]asij, nw mgwtdtx?! XXX
+// Thanandar (furious) perso24
+L24D16
+ Cj^_Z | cZ_Zz ]jkljm, | b_o jn]anZ! XXX
+// Thanandar perso24
+L24D20
+ +j]jgxij! X c_amx, snj[w kjhjsx na[a! XXX
+// Thanandar (to someone on the other side of the door) perso24
+L24D17
+ &m~ qjljtj, fZkdnZi Ma_jld|! Dosta ia [w]Zan! XXX
+// Thanandar perso24
+L24D18A
+ Fobij mkatdnx! XXX
+// Thanandar perso24
+L24D18B
+ $o_on d _lo^da, d jn idq bZgjmnd ia b_d. XXX
+// Thanandar perso24
+L24D18C
+ A_d f jnro mfjlaa, komnx ji klj]j_dn na[| ] mfgak. XXX
+// Thanandar perso24
+L24D19A
+ Fan! XXX
+// Thanandar perso24
+L24D19B
+ Fa nlj^Ze! XXX
+// Arkhan2 G perso2
+L24D93
+ Klok KZiZi_ZlZ dmsac! XXX
+// Arkhan3 G perso3
+L24D94
+ Klok KZiZi_ZlZ... kljkZg! XXX
+// Arkhan2 L perso2
+L24D23
+ Vnjn mnlZb iZsZg kal]wh - | gdtx cZuduZg ma[|! XXX
+// Thanandar perso24
+L24D24A
+ +Z... ji moa]aliwe _olZf! XXX
+// Thanandar perso24
+L24D24B
+ Hj]alx, | hj^o kji|nx. L[ae dgd ohld - _lo^j^j ]w[jlZ ian! XXX
+// Arkhan2 L perso2
+L24D25
+ &w ciZana, snj kljdmqj_dn mj hije? A fnj ]w? XXX
+// Arkhan2 O perso2
+L24D26
+ Cnj [w nw id [wg, ia kj_qj_d, dgd cZfjisdtx, fZf ]jn ynjn ia_jijmjf! XXX
+// Thanandar perso24
+L24D27A
+ Fo-io, omkjfjem|. X c_amx lZ_d n]ja^j [gZ^Z. XXX
+// Thanandar perso24
+L24D27B
+ Kjn moa]aliwe _olZf kljmnj ia ]a_Zg, snj n]jldn. XXX
+// Thanandar perso24
+L24D27C
+ Fj | hj^o kji|nx. A qjso gdtx kjhjsx na[a. XXX
+// Arkhan2 O perso2
+L24D28
+ Kj^_Z mfZbd, fnj nw nZfje... A snj kljdmqj_dn mj hije?! XXX
+// Thanandar perso24
+L24D29A
+ X KZiZi_Zl. CZf d jnar n]je, | - klj]d_ar. Fj klab_a ]ma^j | ragdnagx. XXX
+// Thanandar perso24
+L24D29B
+ A | ciZz, snj m nj[je ia nZf, #lqZi. Gngdsij ciZz, kj]alx. XXX
+// Thanandar perso24
+L24D29C
+ ElZf komndg ] na[a fjlid... XXX
+// Thanandar perso24
+L24D29D
+ A [o_an lZmnd, kjfZ ia kj^gjndn na[| - d nagj, d _oto. XXX
+// Arkhan2 L perso2
+L24D30
+ # hjbij fZf-id[o_x dmragdnxm|? XXX
+// Arkhan2 O perso2
+L24D31
+ *j]jldtx, nw ragdnagx. KZf dmragd ba! XXX
+// Thanandar perso24
+L24D32A
+ Fo, mla_mn]j-nj amnx... XXX
+// Thanandar perso24
+L24D32B
+ Vnj yial^d| dc ^go[diw ]afj]. <~ lj_idf mflw]Zan mfgak. XXX
+// Thanandar perso24
+L24D32C
+ Fj hia j[ ynjh ia mga_oan ^j]jldnx. X  d nZf mfZcZg m]alq halw. XXX
+// Thanandar perso24
+L24D32D
+ Kjgxfj jnar n]je ]klZ]a jnflwnx na[a nZeio d jn]amnd f mfgako. XXX
+// Thanandar perso24
+L24D32E
+ Gi j_di dc iahij^dq dc[lZiiwq, fnj ciZan no_Z konx. XXX
+// Arkhan2 G perso2
+L24D33
+ Kw qjsatx mfZcZnx, hje jnar ciZan, ^_a ynjn... nZeiwe mfgak? XXX
+// Thanandar perso24
+L24D34A
+ +Z. Ka[a iobai IdgmZ_Zl. Gi j_di mkZm~n na[|. XXX
+// Thanandar perso24
+L24D34B
+ Pnj | hj^o - ynj kld^jnj]dnx ]lahaiija miZ_j[xa, snj ohaldn [jgx d cZha_gdn lZc]dnda [jgacid. XXX
+// Thanandar perso24
+L24D34C
+ &jc]lZuZem|, fj^_Z kj^j]jldtx m jnrjh. XXX
+// Phedoria (speaking from far away) perso26
+L24D35
+ (Ma_jld| miZlobd) L ]Zm nZh ]m~ ] kjl|_fa? XXX
+// Arkhan2 G perso2
+L24D36
+ KZiZi_Zl, fZf ba hia [wnx? XXX
+// Arkhan3 G perso3
+L24D37
+ KZiZi_Zl, fZf ba hia [wnx? XXX
+// Thanandar perso24
+L24D38A
+ FZ]amnd jnrZ. Vnj mjma_i|| _]alx. XXX
+// Thanandar perso24
+L24D38B
+ Homnx ji jn]a_~n na[| ] mfgak. Kjgxfj nZh nw dmragdtxm|. XXX
+// Thanandar perso24
+L24D38C
+ A njljkdmx, ]lah| dmnafZan! XXX
+// Arkhan2 G perso2
+L24D43
+ KZiZi_Zl, hia iobiZ n]j| kjhjux. XXX
+// Arkhan3 G perso3
+L24D44
+ Kw _jgbai kjhjsx hia. XXX
+// Thanandar perso24
+L24D45A
+ X ]a_x mfZcZg ba - na[a iobai IdgmZ_Zl. XXX
+// Thanandar normal
+L24D45B
+ +lo^j^j kond ian! XXX
+// Arkhan2 Gperso2
+L24D46
+ Vnj snj, hia? XXX
+// Arkhan3 Gperso3
+L24D47
+ Vnj snj, hia? XXX
+// Thanandar perso24
+L24D48
+ Fan, ynj ia kj n]jz _oto. XXX
+// Arkhan2 G perso2
+L24D49
+ HjmgotZe... XXX
+// Arkhan3 G perso3
+L24D50
+ HjmgotZe... XXX
+// Thanandar perso24
+L24D51
+ A_d, #lqZi. &lah| dmnafZan! XXX
+// Arkhan2 L perso2
+L24D52A
+ FdfZf ia iZe_o ynjn mfgak. XXX
+// Arkhan2 L perso2
+L24D52B
+ Fj nw ^j]jldg j miZ_j[xa, cZ^gotZzuah [jgx... XXX
+// Arkhan2 O perso2
+L24D53A
+ >Zhosdgm| dmfZnx njn mfgak! XXX
+// Arkhan2 O perso2
+L24D53B
+ Kw j[auZg hia miZ_j[xa! *_a jij? XXX
+// Arkhan3 G perso3
+L24D54A
+ X ia hj^o iZend mfgak, Z [jgacix ]j hia lZmn~n! XXX
+// Arkhan3 G perso3
+L24D54B
+ Eia iobij mla_mn]j! Jljsij! XXX
+// Thanandar perso24
+L24D55A
+ Gij ia ^jnj]j. XXX
+// Thanandar perso24
+L24D55B
+ IdgmZ_Zl _jgbai mljsij jn]amnd na[| ] mfgak. Vnj a_dimn]aiija mla_mn]j. XXX
+// Thanandar perso24
+L24D55C
+ Eia bZgx, ij | [ammdgai. XXX
+// Arkhan2 G perso2
+L24D56
+ Pnj ynj nw _agZatx m idh? XXX
+// Arkhan3 G perso3
+L24D57
+ Pah nw non cZi|n? XXX
+// Thanandar perso24
+L24D58
+ Daso a^j! XXX
+// Arkhan2 G perso2
+L24D59
+ Gi ba h~ln]! XXX
+// Arkhan3 G perso3
+L24D95
+ Gi ba h~ln]! XXX
+// Thanandar perso24
+L24D60A
+ +Z ian ba, ia]ab_Z! Gi au~ bd]! XXX
+// Thanandar perso24
+L24D60B
+ A mfjlj [o_an ]ij]x iZ ij^Zq... XXX
+// Arkhan2 L perso2
+L24D61A
+ X dmfZg kj]mz_o, ij ia hj^o iZend mfgak! XXX
+// Arkhan2 L perso2
+L24D61B
+ # hjban, au~ fZf-id[o_x? XXX
+// Arkhan2 O perso2
+L24D62A
+ Vnjn n]je mfgak ia]jchjbij iZend! XXX
+// Arkhan2 O perso2
+L24D62B
+ +jgbai [wnx au~ mkjmj[ dmragdnx hai| kjhdhj nje cZ^Z_jsije yial^dd, j fjnjlje idfnj ia mgwtZg! XXX
+// Arkhan3 G perso3
+L24D63A
+ Kjn mfgak... ia iZend hia! XXX
+// Arkhan3 G perso3
+L24D63B
+ +Ze hia au~ miZ_j[x|. XXX
+// Thanandar perso24
+L24D64
+ & kjmga_ide lZc. Fj amgd ia iZe_~tx mfgak, | [jgxta ia mhj^o kjhjsx! XXX
+// Arkhan2 L perso2
+L24D65A
+ # ynj fnj? XXX
+// Arkhan2 L perso2
+L24D65B
+ X ia kldkjhiz a^j! XXX
+// Arkhan2 O perso2
+L24D66A
+ Cnj ynjn ql|f? XXX
+// Arkhan2 O perso2
+L24D66B
+ X [ ia mhj^ nZfja lwgj cZ[wnx! XXX
+// Arkhan3 L perso3
+L24D67A
+ Cnj n]je kjhjuidf? XXX
+// Arkhan3 L perso3
+L24D67B
+ X a^j ia ]mnlasZg! XXX
+// Arkhan3 O perso3
+L24D68
+ # fnj au~ fnj? XXX
+// Thanandar perso24
+L24D69A
+ JnlZb j^i|, fjiasij ba... XXX
+// Thanandar perso24
+L24D69B
+ Fj nw ia [jem|, ji ]j]ma ia nZfje, fZf _lo^da. XXX
+// Thanandar perso24
+L24D69C
+ Fa _agZe ^gokjmnae, d ]m~ [o_an ] kjl|_fa. XXX
+// Arkhan2 G perso2
+L24D71
+ P~ln ]jcxhd, +Zgidm! Vnj |, #lqZi! XXX
+// Guardian16 perso56
+L24D72
+ Fan, _x|]jg! X ciZz #lqZiZ, d nw - ia ji! XXX
+// Arkhan2 G perso2
+L24D73
+ Hjmnje! XXX
+// Guardian16 (going to hit A.) perso56
+L24D04
+ Ka[a fjiar! XXX
+// Arkhan2 G perso2
+L24D74
+ Ew ]mnlasZgdmx? XXX
+// Arkhan3 G perso3
+L24D75
+ X ciZz na[|? XXX
+// Konkalite1 (doesn't know what to say) perso71
+L24D76
+ V-y... KZiZi_Zl? XXX
+// Thanandar perso24
+L24D77
+ Jkjfjeij, ji j_di dc iZtdq. &m~ [o_an qjljtj. XXX
+// Arkhan2 L perso2
+L24D78
+ K]j| pjlhZ ]m| dcjl]ZiZ. Kw lZiai? XXX
+// Konkalite1 perso71
+L24D79
+ #... Fan... Lba ]m~ ] ijlha... XXX
+// Arkhan2 O perso2
+L24D80
+ Ve, kj hia, nw mj]mah iZ mnlZbZ j^i| ia kjqjb. XXX
+// Konkalite1 perso71
+L24D81
+ Kw _Z]ij iZ ma[| mhjnlag-nj? L]d_dtx... XXX
+// Arkhan3 G perso3
+L24D82A
+ K]j~ gdrj... & i~h snj-nj... XXX
+// Arkhan3 G perso3
+L24D82B
+ Ew ]mnlasZgdmx oba, nZf ]a_x? XXX
+// Konkalite1 perso71
+L24D83
+ Fa _ohZz! X ynje pjlhw ia ijmdg au~! XXX
+// Thanandar (decisively) perso24
+L24D84
+ >Znfidmx, jmnjgjk! Fa [jgnZe! XXX
+// Arkhan2 G perso2
+L24D85A
+ Gi iZc]Zg na[| "jmnjgjk". XXX
+// Arkhan2 G perso2
+L24D85B
+ K]j| fgdsfZ? XXX
+// Arkhan3 G (mocking) perso3
+L24D86
+ "Gmnjgjk", Z? XXX
+// Konkalite1 perso71
+L24D87
+ (ia_j]jgxij lwsdn) XXX
+// Thanandar perso24
+L24D21
+ +Z klaflZndna ]w! XXX
+// Thanandar (suddenly mean)perso24
+L24D22
+ &jn d_djn! Fo, snj b! IZc[aldmx m idh! XXX
+// Arkhan2 G (examining a skeleton) perso2
+L24D88
+ &jn sxd mnlZ_Zid| kjcZ_d... XXX
+// Arkhan3 G (examining a skeleton) perso3
+L24D89
+ <^j mnlZ_Zid| kjcZ_d... XXX
+// Arkhan2 G perso2
+L05D183
+ IZciwe hagfde qgZh... XXX
+// Arkhan3 G perso3
+L05D184
+ Fdsa^j iobij^j non... XXX
+// Arkhan2 G perso2
+L24D90
+ +ohZatx, mhjbatx mkZmnd a^j? XXX
+// Arkhan3 G perso3
+L24D91
+ Ejbatx a^j mkZmnd? XXX
+// Thanandar (ecstatic) perso24
+L24D92A
+ Cjiasij, hj^o! XXX
+// Thanandar perso24
+L24D92B
+ Jfjlj ji [o_an bd]je, fZf idfj^_Z! XXX
+// Arkhan2 L perso2
+L34D05
+ KZiZi_Zl! Pnj ynj ciZsdn ]m~? XXX
+// Arkhan2 O perso2
+L34D06
+ KZiZi_Zl, ^l|ciwe kla_Znagx! Kw ]lZg hia! XXX
+// Arkhan3 G perso3
+L34D07
+ KZiZi_Zl! Hla_Znagx! XXX

@@ -1,0 +1,523 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL12.TXT
+ // Bandor perso7
+L12D03
+ Co ty tutaj robisz? XXX
+// Bandor perso7
+L12D04
+ Czemu wrociles? XXX
+// Bandor perso7
+L12D05
+ Nie mozemy dla ciebie uczynic nic wiecej. XXX
+// Bandor perso7
+L12D01
+ Nie podchodz! Nie masz prawa tu przebywac! XXX
+// Khorad perso83
+L12D02
+ Odejdz albo wezwiemy Gwardzistow Ognia! XXX
+// Arkhan2 G perso2
+L12D108
+ Tajny schowek! XXX
+// Arkhan3 G perso2
+L12D109
+ Skrytka! XXX
+// Bandor (scared)perso7
+L12D128
+ Nie! Blagam! XXX
+// Khorad (scared)perso83
+L12D129
+ Pomocy! XXX
+// Bandor perso7
+L12D112
+ Nie, nie. Nie rob nam krzywdy! XXX
+// Bandor perso7
+L12D113
+ Sluchaj, zachowujmy sie rozsadnie. XXX
+// Arkhan2 L perso2
+L12D06A
+ Nie obawiaj sie. Nie chce nikogo skrzywdzic.  XXX
+// Arkhan2 L perso2
+L12D06B
+ Szukam Bandora, Mistrza Budowniczego. XXX
+// Khorad (over-anxious) perso83
+L12D10
+ Bandora tu nie ma!  XXX
+// Bandor (trying to disguise his fear) perso7
+L12D11
+ On...wyruszyl do Mrocznych Ziem, nadzoruje tam budowe. XXX
+// Khorad perso83
+L12D12
+ Tak. My wrocilismy, ale on tam zostal. XXX
+// Arkhan2 O (impatient) perso2
+L12D07
+  Gdzie jest Bandor Mistrz Budowniczy? XXX
+// Arkhan2 L perso2
+L12D13A
+ Wielka Patrzaca osobiscie nakazala mi szukac u ciebie pomocy. XXX
+// Arkhan2 L perso2
+L12D13B
+ Opisala mi Bandora od stop do glow. Jeden z was musi nim byc. XXX
+// Arkhan2 L perso2
+L12D13C
+ Stallite jest w niebezpieczenstwie. Musimy dzialac szybko!  XXX
+// Bandor perso7
+L12D24
+ Nie. Wielka Patrzaca nigdy nie powiedzialaby czegos takiego!  XXX
+// Khorad (appeasingly) perso83
+L12D25
+ Chyba, ze popelnila blad... XXX
+// Bandor perso7
+L12D26
+ W kazdym badz razie Bandora tu nie ma. XXX
+// Khorad perso83
+L12D27
+ I nie wiemy gdzie jest! XXX
+// Arkhan2 O (impatient) perso2
+L12D14A
+ Nie grajcie ze mna w kotka i myszke! XXX
+// Arkhan2 O perso2
+L12D14B
+ Lory osobiscie opowiedziala mi o Bandorze i jestem pewien, ze jeden z was to on! XXX
+// Arkhan2 O perso2
+L12D14C
+ Nie ma czasu do stracenia.  Ktory z was to Bandor? XXX
+// Arkhan2 L perso2
+L12D19A
+ Moiwlem juz. Nie zrobie wam krzywdy! XXX
+// Arkhan2 L perso2
+L12D19B
+ Musze wiedziec czy Rylsadhar dal ci szczegolny przedmiot...krysztal.  XXX
+// Arkhan2 O (annoyed) perso2
+L12D20A
+ Czy sadzisz, ze jestem tak glupi by uwierzyc, ze wszyscy budowniczowie w Stallite maja ciemna skore i jedna noge?! XXX
+// Arkhan2 O perso2
+L12D20B
+ Dosyc tego! Ktory z was to Bandor? XXX
+// Bandor (conciliatory) perso7
+L12D22
+ Przepraszam. Nie wiemy. XXX
+// Khorad (bluffing) perso83
+L12D23A
+ Lepiej stad odejdz, Gwardzisci Ognia wkrotce tu beda. XXX
+// Khorad perso83
+L12D23B
+ I dadza ci niezla szkole! XXX
+// Arkhan2 L perso2
+L12D200
+ Posluchajcie mnie. Potrzebna mi wasza pomoc. XXX
+// Bandor perso7
+L12D202
+ Przepraszam, my niczego nie wiemy. XXX
+// Khorad perso83
+L12D203
+ Nie potrafimy ci pomoc! XXX
+// Arkhan2 O (annoyed) perso2
+L12D201
+ Zaraz strace cierpliwosc! XXX
+// Arkhan3 L perso3
+L12D08
+ Spokojnie! Szukam Bandora! XXX
+// Arkhan3 O perso3
+L12D09
+ Bandor! XXX
+// Arkhan3 L perso3
+L12D15A
+ Lory kazala mi szukac czlowieka o ciemnej skorze i jednej metalowej nodze! XXX
+// Arkhan3 L perso3
+L12D15B
+ Ktory z was to Bandor? XXX
+// Arkhan3 L perso3
+L12D21A
+ Jestem po waszej stronie.  XXX
+// Arkhan3 L perso3
+L12D21B
+ Szukam krysztalu, ktory Rylsadhar dal Bandorowi. XXX
+// Arkhan3 L perso3
+L12D300
+ Potrzebuje waszej pomocy! XXX
+// Khorad (frightened) perso83
+L12D17
+ Nie. Rece przy sobie! XXX
+// Bandor (frightened) perso7
+L12D18A
+ Nie podchodz potworze! XXX
+// Bandor perso7
+L12D18B
+ Jesli dotkniesz nas palcem, pozalujesz! XXX
+// Arkhan2 G perso2
+L12D32
+ Mam twoj wspanialy wykres. A teraz powiedzcie, ktory z was to Bandor? XXX
+// Arkhan3 G perso3
+L12D34
+ Mam wykres. A teraz mowcie, ktory z was to Bandor?! XXX
+// Khorad (bluffing) perso83
+L12D33A
+ Ten wykres jest bezuzyteczny.  XXX
+// Khorad perso83
+L12D33B
+ I zaden z nas nie jest Bandorem... XXX
+// Arkhan2 G perso2
+L12D121
+ A to? Czy to wam czegos nie mowi? XXX
+// Arkhan3 G perso3
+L12D122
+ Co powiecie na to? XXX
+// Bandor perso7
+L12D123
+ Nic, przykro mi. XXX
+// Khorad perso83
+L12D124
+ Nie. To dla mnie niczego nie znaczy. XXX
+// Arkhan2 G perso2
+L12D40
+ Hah! Przejrzalem wasze gierki! XXX
+// Bandor perso07
+L12D43
+ Okej. A teraz oddaj mi wykres! XXX
+// Arkhan3 G perso3
+L12D42
+ Zarty sie skonczyly! XXX
+// Arkhan2 L perso2
+L12D47A
+ Mistrzu Budowniczy nie chcialem wyrzadzic ci szkody. XXX
+// Arkhan2 L perso2
+L12D47B
+ Esencja zla Shankr plynie wartkim, lodowatym strumieniem w mych zylach. Mimo tego to wciaz ja Arkhan, Gwardzista Ognia i syn Rylsadhara. XXX
+// Arkhan2 L perso2
+L12D47C
+ Przysiaglem pomscic Stallite i uratowac je z opresji. XXX
+// Bandor (prudent) perso7
+L12D50A
+ Zwykle slowa! Skad mam wiedziec, ze moge ci zaufac? XXX
+// Bandor perso7
+L12D50B
+ Udowodnij, ze jestes synem Rylsadhara a wowczas zobacze jak moge ci pomoc. XXX
+// Arkhan2 O perso2
+L12D48
+ Nie ma czasu do stracenia. Jestem Arkhan, syn Rylsadhara, szukam krysztalow ukrytych przez mego ojca.  XXX
+// Arkhan3 L perso3
+L12D49A
+ Jestem synem Rylsadhara.  XXX
+// Arkhan3 L perso3
+L12D49B
+ Szukam krysztalow, ktore ukryl. XXX
+// Arkhan2 L perso2
+L12D51A
+ Nie ma czasu na gierki Bandorze.  XXX
+// Arkhan2 L perso2
+L12D51B
+ Lory mnie przysyla. Musisz mi uwierzyc! XXX
+// Bandor (firmly) perso7
+L12D54A
+ Nie. Rylsadhar nigdy nie pozwolilby mi rozmawiac z... z... XXX
+// Bandor perso7
+L12D54B
+ ... z takim potworem bez jakiegokolwiek znaku dobrej wiary. XXX
+// Arkhan2 O perso2
+L12D52A
+ Nie ma czasu na klotnie o drobiazgi! XXX
+// Arkhan2 O perso2
+L12D52B
+ Jesli masz krysztal, daj mi go! XXX
+// Arkhan3 L perso3
+L12D53
+ Zaufaj mi! XXX
+// Arkhan2 G perso2
+L12D55A
+ Chcesz zobaczyc dowod? Spojrz, Mam zwienczenie krysztalowego klucza. XXX
+// Arkhan2 G perso2
+L12D55B
+ Musze odnalezc pozostale czesci by wejsc do komnaty mojego ojca.  XXX
+// Arkhan2 G perso2
+L12D55C
+ Lory sadzi, ze komnata moze zawierac tajemnice mogace nas ocalic. XXX
+// Bandor (suddenly determined) perso7
+L12D57A
+ Dobrze. Jestem sklonny ci uwierzyc. XXX
+// Bandor perso7
+L12D57B
+ Tak, Rylsadhar dal mi jeden z krysztalow. Teraz przekazuje go tobie. XXX
+// Bandor perso7
+L12D57C
+ Ale uwazaj! Jesli uzyjesz go do zlych celow, badz po trzykroc przeklety! XXX
+// Arkhan2 L perso2
+L12D58
+ Dziekuje Mistrzu Bandorze. XXX
+// Arkhan2 O perso2
+L12D59A
+ Mmm... XXX
+// Arkhan2 O (echoing Bandor's sentence) perso2
+L12D59B
+ A jesli twoja podejrzliwosc kosztowala mnie zbyt wiele cennego czasu zaplacisz zyciem i dusza! XXX
+// Arkhan3 G perso3
+L12D56A
+ Dowod? Patrz! XXX
+// Arkhan3 G perso3
+L12D56B
+ Mam krysztalowe zwienczenie klucza! XXX
+// Arkhan3 L perso3
+L12D60
+ Dziekuje. XXX
+// Arkhan3 O perso3
+L12D61
+ (odrobine przyjacielski pomruk) XXX
+// Arkhan2 G perso2
+L12D125
+ Czy to wystarczajacy dowod? XXX
+// Arkhan3 G perso2
+L12D126
+ Oto dowod, o ktory prosiles! XXX
+// Bandor perso7
+L12D127
+ Nie. To niczego nie dowodzi! XXX
+// Arkhan2 L perso2
+L12D62A
+ Komu innemu moj ojciec powierzylby zwienczenie klucza? XXX
+// Arkhan2 L perso2
+L12D62B
+ Jakies pomysly? XXX
+// Arkhan2 O perso2
+L12D63A
+ Komu jeszcze, poza toba, moj ojciec dal krysztaly? XXX
+// Arkhan2 O perso2
+L12D63B
+ Odpowiadaj! XXX
+// Bandor (thinking quickly) perso7
+L12D65
+ Euh... Na pewno Wysokiej Kaplance Lory. I oczywiscie wielkiemu Zedowi. XXX
+// Arkhan2 G perso2
+L12D66
+ Hmm... ktos jeszcze? XXX
+// Bandor (hesitating) perso7
+L12D68A
+ Coz... moze Rylsadhar mial wystarczajaco wiele czasu by odwiedzic Leone. XXX
+// Bandor perso7
+L12D68B
+ To dziwna kobieta, ktora zyje w Mrocznych Ziemiach. Niewielu byloby sklonnych by jej zaufac... XXX
+// Bandor perso7
+L12D68C
+ Ale twoj ojciec wydawal sie przyjaznic z nia. XXX
+// Arkhan2 G perso2
+L12D69
+ Spotkalem Leone. Moj ojciec nic jej nie dal. XXX
+// Bandor perso7
+L12D71
+ W takim razie nikt inny nie przychodzi mi do glowy... przykro mi... XXX
+// Arkhan2 L perso2
+L12D72
+ Gdzie moge znalezc Leone? XXX
+// Arkhan2 O perso2
+L12D73
+ Ta Leona, o ktorej mowiles, jak ja znalezc? XXX
+// Bandor perso7
+L12D75A
+ Zyje z dala od Stallite, w Mrocznych Ziemiach. Nikt naprawde nie wie gdzie... XXX
+// Bandor perso7
+L12D75B
+ Niektorzy powiadaja, ze mieszka w kryjowce niedaleko wybrzeza. XXX
+// Bandor perso7
+L12D75C
+ Jeszcze inni gadaja, ze znajdziesz ja tylko wtedy, gdy ona bedzie tego chciala. XXX
+// Khorad perso83
+L12D76A
+ W kazdym badz razie, szalenstwem byloby wychodzic na zewnatrz...  XXX
+// Khorad perso83
+L12D76B
+ I nie zapominaj. Ulice sa zablokowane, a bramy Stallite zamkniete! XXX
+// Arkhan2 G perso2
+L12D77A
+ Na Rahala, sadzilem, ze jestes Mistrzem Budowniczym! XXX
+// Arkhan2 G perso2
+L12D77B
+ Musisz znac jakies inne wyjscie ze Stallite! XXX
+// Bandor perso7
+L12D78
+ Nie. Byly kiedys tunele, ale zapadly sie i zostaly zalane podczas trzesienia ziemi. XXX
+// Khorad perso83
+L12D79
+ Tak. I to bylo wiele lat temu... XXX
+// Arkhan2 L perso2
+L12D81A
+ Lory powiedziala mi o specjalnym podziemnym miejscu, o Krypcie. Musze tam dotrzec. XXX
+// Arkhan2 L perso2
+L12D81B
+ Wiecie cos na ten temat? XXX
+// Bandor perso7
+L12D84
+ "Krypta". Nie. Nigdy nie slyszalem o takim miejscu. XXX
+// Khorad perso83
+L12D85A
+ Stallite wybudowano bardzo dawno temu.  XXX
+// Khorad perso83
+L12D85B
+ Nawet Mistrz Bandor nie zna wszystkich tajemnic. XXX
+// Arkhan2 O perso2
+L12D82A
+ Lory powiedziala mi o Krypcie. A ty i twoi budowniczowie wzniesliscie Stallite. XXX
+// Arkhan2 O perso2
+L12D82B
+ Wiec gdzie jest ta Krypta? XXX
+// Arkhan2 L perso2
+L12D91A
+ Widzialem wejscie do bunkra w Mrocznych Ziemiach. Wygladalo na drzwi z Dawnego Swiata.  XXX
+// Arkhan2 L perso2
+L12D91B
+ Wiesz wszystko o Stallite, czy umiesz mi powiedziec jak tam wejsc? XXX
+// Bandor perso7
+L12D92
+ To miejsce jest tajemnica nawet dla mnie. XXX
+// Khorad perso83
+L12D93A
+ Ludzie mowia, ze jeden z lupiezcow twierdzil iz byl w srodku, ale Dhorkan kazal go aresztowac. XXX
+// Khorad perso83
+L12D93B
+ Od tamtej pory nikt nic podobnego nie mowil. XXX
+// Arkhan2 O perso2
+L 12D94A
+ Na dole sa dziwne drzwi, drzwi ze Starego Swiata. XXX
+// Arkhan2 O perso2
+L12D94B
+ Chce przez nie przejsc, a ty powiesz mi jak to zrobic! XXX
+// Khorad perso83
+L12D95
+ Sa potepione. Nikt nie moze wejsc. XXX
+// Arkhan2 L perso2
+L12D86A
+ Coz, dziekuje za pomoc. XXX
+// Arkhan2 L perso2
+L12D86B
+ Nie bede marnowal wiecej waszego czasu. Niech swiatlosc bedzie z wami! XXX
+// Bandor perso7
+L12D87
+ Powodzenia synu Rylsadhara. XXX
+// Khorad perso83
+L12D88
+ I badz ostrozny... XXX
+// Arkhan2 O perso2
+L12D89A
+ Dobra, nie tracmy juz wiecej czasu. XXX
+// Arkhan2 O perso2
+L12D89B
+ Z drogi, spiesze sie! XXX
+// Arkhan3 L perso3
+L12D64A
+ Gdzie moge znalezc pozostale krysztaly? XXX
+// Arkhan3 L perso3
+L12D64B
+ Wiesz? XXX
+// Arkhan3 L perso3
+L12D67
+ Hmm... Ktos jeszcze? XXX
+// Arkhan3 L perso3
+L12D70
+ Widzialem Leona. Bez skutku. XXX
+// Arkhan3 L perso3
+L12D74
+ Gdzie znajde Leone? XXX
+// Arkhan3 L perso3
+L12D80
+ Musi byc inna droga... XXX
+// Arkhan3 L perso3
+L12D83
+ Szukam pewnego miejsca, Krypty. Gdzie to jest? XXX
+// Arkhan3 L perso3
+L12D96A
+ W Mrocznych Ziemiach sa drzwi. Prowadza chyba do budynku ze Starego Swiata. XXX
+// Arkhan3 L perso3
+L12D96B
+ Musze sie tam dostac. Pomozesz mi? XXX
+// Arkhan3 L perso3
+L12D90
+ Dziekuje. Swiatlosc z toba. XXX
+// Bandor perso7
+L12D105A
+ Jestes szalony! Stoj! XXX
+// Bandor perso7
+L12D105B
+ Nic wiecej nie mozemy dla ciebie zrobic, daj nam spokoj! XXX
+// Bandor (forced to fight) perso7
+L12D107
+ Khorad, na niego! XXX
+// Khorad perso83
+L12D41
+ Oddaj wykres Mistrzowi Bandorowi, ale JUZ! XXX
+// Arkhan2 G perso2
+L12D110
+ W jego kieszeniach nic nie ma! XXX
+// Arkhan3 G perso3
+L12D111
+ Przeklenstwo! Nic! XXX
+// Khorad perso83
+L12D30
+ Nie dotykaj tego wykresu. To bardzo cenny dokument! XXX
+// Bandor perso7
+L12D31
+ Nalezy do Mistrza Budowniczego! XXX
+// Arkhan2 G perso2
+L12D28
+ Nie ma nic do zabrania! XXX
+// Arkhan3 perso3
+L12D29
+ Nic wiecej tu nie ma. XXX
+// Arkhan2 G (turning his head towards Bandor & Khorad) perso2
+L12D35A
+ Jesli zaden z was nie jest Bandorem...  XXX
+// Arkhan2 G (turning his head towards Bandor & Khorad) perso2
+L12D35B
+ Nie bedziecie mieli nic przeciwko temu, bym podpalil ten wspanialy wykres! XXX
+// Bandor (panicked) perso7
+L12D38
+ NIE! XXX
+// Bandor (moving towards Arkhan) perso7
+L12D39
+ Niech bedzie ... Tak. Ja jestem Bandor. Oddaj mi wykres. XXX
+// Arkhan2 Gperso2
+L14D45
+ Nareszcie! XXX
+// Arkhan3 G perso3
+L12D36
+ To wasza ostatnia szansa. Ktory z was to Bandor? XXX
+// Arkhan3 G perso3
+L12D37
+ Inaczej podpale wykres! XXX
+// Arkhan3 G perso3
+L14D46
+ Bandor, wreszcie! XXX
+// Arkhan2 G perso2
+L12D45
+ Jesli dowiem sie, ktory z was to Bandor, nie spale wykresu! XXX
+// Arkhan3 G perso3
+L12D46
+ Jesli bede rozmawial z Bandorem, nie spale wykresu! XXX
+// Arkhan2 G perso2
+L12D103
+ Nic ciekawego na biurku... XXX
+// Arkhan3 G perso3
+L12D104
+ Na biurku niczego nie ma... XXX
+// Arkhan2 G perso2
+L12D97
+ Na biurku pusto! XXX
+// Arkhan3 perso3
+L12D98
+ Nic nie ma! XXX
+// Arkhan2 G perso2
+L12D99
+ Na pulpicie pusto. XXX
+// Arkhan2 G perso2
+L12D101
+ Jeden z tych reliktow ze Starego Swiata. XXX
+// Arkhan3 G perso3
+L12D102
+ Relikt ze Starego Swiata. XXX
+// Khorad (whispering) perso83
+L12D119
+ Dotknal weza! XXX
+// Bandor (whispering) perso7
+L12D120
+ Nie przejmuj sie. Pozwol mu robic co chce. XXX
+// Arkhan2 G perso2
+L12D117
+ Pociagnalem juz dzwignie. XXX
+// Arkhan3 G perso3
+L12D118
+ Juz pociagnalem dzwignie. XXX

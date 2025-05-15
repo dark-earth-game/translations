@@ -1,0 +1,544 @@
+Début du fichier F:\DEV\DKE\DATAS\DIALOGUE\IT\NWDIAL28.TXT
+ // Archiviste (inquieto) perso5
+L28D100
+Chi è là? XXX
+// Arkhan2 G perso2
+L28D101
+Arkhan. Ti ricordi di me? XXX
+// Arkhan3 G perso3
+L28D102
+Arkhan! XXX
+// Archiviste (rassicurato) perso5
+L28D103A
+Ah sei tu Arkhan.  XXX
+// Archiviste perso5
+L28D103B
+Avvicinati, avvicinati! XXX
+// Arkhan2 L perso2
+L28D01
+Non aver paura, vecchio uomo! XXX
+// Archiviste perso5
+L28D02
+Eh? Paura? Per cosa, giovanotto? XXX
+// Arkhan2 L perso2
+L28D03A
+Ehm... Di me...  XXX
+// Arkhan2 L perso2
+L28D03B
+Voglio dire, sono forse entrato un po' bruscamente... XXX
+// Archiviste perso5
+L28D04A
+Non scomporti, mio giovane amico. Ci vuol altro per spaventare il vecchio Sesekhan. XXX
+// Archiviste perso5
+L28D04B
+Ho visto ben altro da quando sono Archivista, sai... XXX
+// Arkhan2 O perso2
+L28D05
+Non aver paura, antenato! XXX
+// Arkhan2 O perso2
+L28D06
+A tuo parere? Di me, evidentemente! Con l'aspetto che ho, tutti mi sfuggono! XXX
+// Arkhan3 L perso3
+L28D07
+Non aver paura! XXX
+// Arkhan3 L perso3
+L28D08
+Ehm... Io... Di niente... Di niente XXX
+// Archiviste perso5
+L28D09
+Bene. Cosa ti porta dall'Archivista, mio giovane amico. Il vecchio Sesekhan non è quasi più abituato alle visite... XXX
+// Archiviste perso5
+L28D11A
+Eh?... Oh, un visitatore... Perdona il vecchio Archivista che sono. XXX
+// Archiviste	perso5
+L28D11B
+Ero talmente immerso nel mio lavoro che non ti ho sentito entrare... XXX
+// Arkhan2 G perso2
+L28D84
+Si apre! XXX
+// Arkhan3 G perso3
+L28D120
+Si apre! XXX
+// Arkhan2 L perso2
+L28D72A
+Luce su di te, Archivista.  XXX
+// Arkhan2 L perso2
+L28D72B
+Io sono Arkhan, il figlio del Predicatore Rylsadhar. XXX
+// Archiviste perso5
+L28D73A
+Sei il figlio di Rylsadhar? XXX
+// Archiviste perso5
+L28D73B
+Perdonami, non ci vedo per niente, non ti riconoscevo. XXX
+// Archiviste perso5
+L28D73C
+Ah, ma sono lune e lune che non venivi. XXX
+// Archiviste perso5
+L28D73D
+Non eri che un monello l'ultima volta... Mi fa piacere di vederti... XXX
+// Arkhan2 L perso2
+L28D74
+Eh... sì, anch'io... XXX
+// Arkhan2 O perso2
+L28D75
+Sei l'Archivista, eh? Io, mi chiamo Arkhan... XXX
+// Archiviste perso5
+L28D76A
+Benvenuto nella Sala degli Archivi, Arkhan... XXX
+// Archiviste perso5
+L28D76B
+Se cerchi i lumi della conoscenza, farò del mio meglio per guidarti. XXX
+// Arkhan3 L perso3
+L28D77
+Sono Arkhan. XXX
+// Archiviste perso5
+L28D22A
+Spiacente, mio giovane amico, sono un po' duro d'orecchio, non capisco bene. XXX
+// Archiviste perso5
+L28D22B
+Parla più chiaramente, vuoi? XXX
+// Arkhan2 L perso2
+L28D26
+Cerco informazioni su una cripta... XXX
+// Archiviste perso5
+L28D27A
+Una cripta... Forse dovresti andare a trovare Bandor, il Mastro-Costruttore. XXX
+// Archiviste perso5
+L28D27B
+Se qualcuno conosce lo Stallite fin nelle fondamenta, è proprio lui. XXX
+// Arkhan2 L perso2
+L28D28
+Il Mastro-Costruttore... E dove posso trovarlo? XXX
+// Archiviste perso5
+L28D29A
+Nella Torre dei Costruttori, proprio a fianco del Grande Tempio.  XXX
+// Archiviste perso5
+L28D29B
+Ma ignoro se sia lì.  XXX
+// Archiviste perso5
+L28D29C
+Scende spesso nella Città Bassa per la supervisione delle sue grandi opere. XXX
+// Arkhan2 O perso2
+L28D30
+Cosa sai su una cripta che si troverebbe qui vicino? XXX
+// Arkhan2 O perso2
+L28D31
+Dov'è il tuo Bandor? XXX
+// Arkhan3 L perso3
+L28D32
+Archiviste, devo trovare una cripta segreta! XXX
+// Arkhan3 L perso3
+L28D33
+Dov'è? XXX
+// Arkhan2 L perso2
+L28D34
+Archivista, tu che sei un saggio, conosci la malattia oscura da cui sono affetto? XXX
+// Archiviste perso5
+L28D35A
+Il Male dell'Oscuro. Sì, ne ho sentito parlare. XXX
+// Archiviste perso5
+L28D35B
+Io non sono un Predicatore-Guaritore come Thanandar, ma so che è una malattia terribile.  XXX
+// Archiviste perso5
+L28D35C
+Chi è malato, dimmi? XXX
+// Arkhan2 L perso2
+L28D36A
+Ehm... un mio amico. XXX
+// Arkhan2 L perso2
+L28D36B
+Conosci un rimedio? XXX
+// Archiviste perso5
+L28D37A
+Ahimé, no. Già da moltissimo tempo i Guaritori cercano un rimedio. XXX
+// Archiviste perso5
+L28D37B
+Ma nessuno è mai veramente riuscito a curare il male nero. XXX
+// Arkhan2 L perso2
+L28D38
+Io lo troverò! XXX
+// Arkhan2 O perso2
+L28D39
+Devo trovare un rimedio per questa oscura malattia che mi affligge! XXX
+// Arkhan2 O perso2
+L28D40
+Io sono malato, vecchio cretino! Tu conosci sicuramente un rimedio! XXX
+// Arkhan2 O perso2
+L28D41
+Grazie per questi incoraggiamenti! XXX
+// Arkhan3 L perso3
+L28D42
+Cerco il rimedio contro il Male dell'Oscuro! XXX
+// Arkhan3 L perso3
+L28D43
+Tu conosci un rimedio? XXX
+// Arkhan3 L perso3
+L28D44
+Maledizione! XXX
+// Arkhan2 L perso2
+L28D45
+Non sai niente di più che potrebbe aiutarmi? XXX
+// Archiviste perso5
+L28D46
+Desolato, mio giovane amico, non so cos'altro dirti... XXX
+// Arkhan2 O perso2
+L28D47
+Maledizione, potresti tentare di aiutarmi! XXX
+// Archiviste perso5
+L28D48A
+Tu sei giovane, il tuo sangue è caldo; impara le virtù della calma. XXX
+// Archiviste perso5
+L28D48B
+Se posso aiutarti, credi pure che lo farò. XXX
+// Archiviste perso5
+L28D48C
+Se vuoi posso cercare nei miei archivi quello che c'è sul Male dell'Oscuro. XXX
+// Archiviste perso5
+L28D48D
+Torna più tardi a trovarmi, ti dirò se ho trovato qualcosa. XXX
+// Arkhan2 O perso2
+L28D49
+Hmm. D'accordo! XXX
+// Arkhan2 O perso2
+L28D62
+Non hai trovato altro? XXX
+// Archiviste perso5
+L28D61
+No, mio giovane amico, niente di più, desolato. XXX
+// Arkhan2 G perso2
+L28D52
+Allora, Archivista, hai trovato qualcosa su questo Male dell'Oscuro? XXX
+// Archiviste perso5
+L28D53A
+Ebbene, in fin dei conti, come sai...  XXX
+// Archiviste perso5
+L28D53B
+I nostri archivi non potrebbero contenere tutta la conoscenza accumulata dagli uomini sotto la luce del Sole-Dio. XXX
+// Archiviste perso5
+L28D53C
+Ciononostante, ho trovato qualche scritto a proposito del Male. XXX
+// Archiviste perso5
+L28D53D
+Nessuno parla di un rimedio, ma si fa menzione parecchie volte di una "Pietra di Luce". XXX
+// Arkhan2 G perso2
+L28D54
+Cos'è questa Pietra? XXX
+// Archiviste perso5
+L28D55A
+Io non so, ma una delle testimonianze diceva questo: XXX
+// Archiviste perso5
+L28D55B
+"Se la vittima infettata è messa rapidamente a contatto della Pietra di Luce, il Male potrà essere estirpato". XXX
+// Archiviste perso5
+L28D55C
+"Ma se si è agito troppo tardi, se il Male è radicato troppo profondamente, il malato morrà... o peggio". XXX
+// Archiviste perso5
+L28D55D
+È tutto quello che ho trovato. XXX
+// Arkhan2 G perso2
+L28D56A
+È già qualcosa. XXX
+// Arkhan2 L perso2
+L28D56B
+Grazie del tuo aiuto, Sesekhan. XXX
+// Arkhan3 L perso3
+L28D50
+Archivista, è urgente, ho bisogno di un rimedio! XXX
+// Archiviste perso5
+L28D51A
+È dunque così grave... Bene, bene, capisco... XXX
+// Archiviste perso5
+L28D51B
+Ascolta, vedrò cosa posso trovare sul Male dell'Oscuro nei miei archivi. XXX
+// Arkhan3 L perso3
+L28D63
+Niente di nuovo da dirmi? XXX
+// Arkhan3 L perso3
+L28D57
+Qualcosa sul Male dell'Oscuro? XXX
+// Arkhan3 L perso3
+L28D58
+Altra cosa? XXX
+// Arkhan3 L perso3
+L28D59
+Non io! Mai! XXX
+// Arkhan2 L perso2
+L28D12
+Ho appuntamento con mio padre, Rylsadhar. L'hai visto? XXX
+// Archiviste perso5
+L28D13A
+Ah, tuo padre è un brav'uomo, certamente. Viene spesso a trovarmi, sai. XXX
+// Archiviste perso5
+L28D13B
+È appassionato dei misteri del Prima. Ha fatto molte ricerche, è un uomo molto istruito. XXX
+// Archiviste perso5
+L28D13C
+Mai come il Predicatore Broguel. Lui, non ha più cervello di un ratto! Un giorno, ha... come dire... XXX
+// Arkhan2 L perso2
+L28D14
+Sì, sì... Va bene. Hai visto mio padre o no? XXX
+// Archiviste perso5
+L28D15A
+Tuo padre? Ehm... No. No, non l'ho visto dopo la levata del Sole-Dio. XXX
+// Archiviste perso5
+L28D15B
+Forse sta pregando nella sala del Rahal, è possibile...? XXX
+// Arkhan2 O perso2
+L28D16
+Cerco Rylsadhar, l'hai visto? XXX
+// Archiviste perso5
+L28D17A
+Rylsadhar? No, ci sono solo io qui, mio giovane amico.  XXX
+// Archiviste perso5
+L28D17B
+Ma forse posso aiutarti se cerchi delle testimonianze del passato, degli editti recenti o degli scritti consacrati. XXX
+// Arkhan2 O perso2
+L28D18
+Basta! Me ne infischio di tutto questo! È mio padre Rylsadhar che voglio vedere! XXX
+// Arkhan3 L perso3
+L28D19
+Hai visto Rylsadhar? XXX
+// Arkhan3 L perso3
+L28D20
+No. aspetto Rylsadhar! XXX
+// Archiviste perso5
+L28D21A
+Spiacente, non è qui.  XXX
+// Archiviste perso5
+L28D21B
+Forse sta pregando nella sala del Rahal... XXX
+// Arkhan2 L perso2
+L28D23A
+Sesekhan, sei proprio sicuro che Rylsadhar non sia venuto? XXX
+// Arkhan2 L perso2
+L28D23B
+Doveva aspettarmi qui. XXX
+// Archiviste perso5
+L28D24A
+Certo! I miei poveri occhi non sono più molto buoni ma ti assicuro, figlio di Rylsadhar, che nessuno è venuto... XXX
+// Archiviste perso5
+L28D24B
+A parte te, certo, il che è già un avvenimento in sé! XXX
+// Arkhan2 O perso2
+L28D25
+Rifletti un po', vegliardo! Sei sicuro che Rylsadhar non sia venuto? XXX
+// Arkhan2 G perso2
+L28D64
+Riconosci questo? XXX
+// Archiviste perso5
+L28D65A
+È quello che tuo padre chiamava "la chiave della musica celeste". XXX
+// Archiviste perso5
+L28D65B
+Anche se io non ne ho mai sentito la musica nel Tempio. XXX
+// Archiviste perso5
+L28D65C
+È moltissimo tempo, d'altra parte, che le grandi trombe non suonano più. XXX
+// Archiviste perso5
+L28D65D
+Prima, c'erano parecchie chiavi musicali come questa. XXX
+// Archiviste perso5
+L28D65E
+Ma le altre sono sparite da qualche tempo. Rubate, dicono alcuni... XXX
+// Archiviste perso5
+L28D65F
+Restava solo quella di tuo padre, allora l'ha messa al sicuro così.  XXX
+// Arkhan3 G perso3
+L28D66
+Cos'è? XXX
+// Arkhan2 G perso2
+L28D217
+Conosci questo documento? XXX
+// Archiviste perso5
+L28D218A
+Hm... Alcuni disegni... Un piccolo poema... XXX
+// Archiviste perso5
+L28D218B
+È la grafia di tuo padre Rylsadhar. XXX
+// Archiviste perso5
+L28D218C
+La riconoscerei fra mille. XXX
+// Arkhan2 G perso2
+L28D113
+Cos'è questo disco? XXX
+// Archiviste perso5
+L28D114A
+Magnifico, vero? XXX
+// Archiviste perso5
+L28D114B
+È una testimonianza del Prima, l'epoca gloriosa in cui il nostro mondo intero era bagnato dalla luce. XXX
+// Archiviste perso5
+L28D114C
+Tienilo, spero che ti porterà fortuna. XXX
+// Arkhan2 G perso2
+L28D67
+Che puoi dirmi lassù? XXX
+// Archiviste perso5
+L28D68
+Cosa? Hmm... Questo non mi dice granché, spiacente... XXX
+// Arkhan2 L perso2
+L28D104
+Cosa succede?! XXX
+// Archiviste perso5
+L28D105A
+Sono preoccupato, figlio di Rylsadhar. XXX
+// Archiviste perso5
+L28D105B
+Ho sentito grida e rumori orribili qui accanto. XXX
+// Archiviste perso5
+L28D105C
+E qualche cosa... di enorme, sì, è passato dietro la mia porta. XXX
+// Archiviste perso5
+L28D105D
+Io sono vecchio, e le mie orecchie affaticate ma sono sicuro che sta per accadere qualcosa di orribile. XXX
+// Arkhan2 L perso2
+L28D107A
+Non temere, me ne occupo io.  XXX
+// Arkhan2 L perso2
+L28D107B
+Quanto a te, resta qui e nasconditi, è più sicuro. XXX
+// Arkhan2 O perso2
+L28D110
+Cos'è che ti eccita così? XXX
+// Arkhan2 O perso2
+L28D111
+Va bene, calmati! Me ne occupo io! XXX
+// Arkhan2 L perso2
+L28D108
+Dimmi cos'hai sentito. XXX
+// Arkhan2 O perso2
+L28D112
+Niente di più?	 XXX
+// Archiviste perso5
+L28D109A
+Grida. Donne che gridavano. XXX
+// Archiviste perso5
+L28D109B
+E una specie di voce... inumana... malefica. XXX
+// Archiviste perso5
+L28D109C
+E dopo, il silenzio. XXX
+// Arkhan3 G perso2
+L28D115
+Cos'hai? XXX
+// Arkhan3 G perso2
+L28D107
+Resta lì. Vado a vedere.  XXX
+// Arkhan3 G perso2
+L28D116A
+Cos'hai sentito? XXX
+// Arkhan3 O perso2
+L28D116B
+Parla! XXX
+// Arkhan2 G perso2
+L28D118A
+Sesekhan, i nostri nemici sono qui. XXX
+// Arkhan2 G perso2
+L28D118B
+La Grande Predicatrice Lory è stata assassinata! XXX
+// Archiviste perso5
+L28D119A
+Lory, morta? XXX
+// Archiviste perso5
+L28D119B
+Padre-Luce ci protegga! XXX
+// Arkhan2 G perso2
+L28D121
+Resta qui, nasconditi e non fare rumore. XXX
+// Archiviste perso5
+L28D122
+Sì. Sta attento a te, mio giovane amico! XXX
+// Arkhan3 G perso3
+L28D123A
+I nostri amici sono qui! XXX
+// Arkhan3 G perso3
+L28D123B
+Lory è morta! XXX
+// Arkhan3 G perso3
+L28D124
+Resta qui, nasconditi! XXX
+// Arkhan2 G perso2
+L28D71A
+Uno Storico del nostro Stallite dal Predicatore Gabka. XXX
+// Arkhan2 G perso2
+L28D71B
+L'organizzazione del nostro Stallite, Sparta, risale all'epoca lontana di Thelen Khron.  XXX
+// Arkhan2 G perso2
+L28D71C
+Era dopo la costruzione del Tempio del Sole-Dio e della Grande Piazza. XXX
+// Arkhan2 G perso2
+L28D71D
+I Predicatori, illuminati dalla luce della saggezza e messaggeri del Sole-Dio, accolsero nella città ricostruita tutti i giusti che si auguravano di viverci.  XXX
+// Arkhan2 G perso2
+L28D71E
+I Custodi del Fuoco, servitori devoti del Sole-Dio, li aiutarono nel loro compito per ricevere, alloggiare e proteggere i nuovi arrivati.  XXX
+// Arkhan2 G perso2
+L28D71F
+Gli edifici, dai più belli ai più umili, vennero eretti dai Costruttori fra cui il celebre Turkhan, che ideò i piani dei luoghi più meravigliosi di Sparta.  XXX
+// Arkhan2 G perso2
+L28D71G
+Uomini e donne abili nella semina e nella caccia si radunarono sotto la bandiera degli Allevatori.  XXX
+// Arkhan2 G perso2
+L28D71H
+E la grande popolazione dei Ficcanaso, giovani e vecchi, uomini e donne, diede il suo aiuto a tutti per fare di Sparta un luogo di pace e di luce nel mezzo dell'Oscurità... XXX
+// Arkhan2 G perso2
+L28D71I
+Uhm... Le cose sono parecchio cambiate, si direbbe! XXX
+// Arkhan3 G perso3
+L28D171A
+Uno Storico del nostro Stallite dal Predicatore Gabka. XXX
+// Arkhan3 G perso3
+L28D171B
+L'organizzazione del nostro Stallite, Sparta, risale all'epoca lontana di Thelen Khron.  XXX
+// Arkhan3 G perso3
+L28D171C
+Era dopo la costruzione del Tempio del Sole-Dio e della Grande Piazza. XXX
+// Arkhan3 G perso3
+L28D171D
+I Predicatori, illuminati dalla luce della saggezza e messaggeri del Sole-Dio accolsero nella città ricostruita tutti i giusti che si auguravano di viverci.  XXX
+// Arkhan3 G perso3
+L28D171E
+I Custodi del Fuoco, servitori devoti del Sole-Dio, li aiutarono nel loro compito per ricevere, alloggiare e proteggere i nuovi arrivati.  XXX
+// Arkhan3 G perso3
+L28D171F
+Gli edifici, dai più belli ai più umili, vennero eretti dai Costruttori fra cui il celebre Turkhan, che ideò i piani dei luoghi più meravigliosi di Sparta.  XXX
+// Arkhan3 G perso3
+L28D171G
+Uomini e donne abili alla semina e alla caccia si radunarono sotto la bandiera degli Allevatori.  XXX
+// Arkhan3 G perso3
+L28D171H
+E la grande popolazione dei Ficcanaso, giovani e vecchi, uomini e donne, diede il suo aiuto a tutti per fare di Sparta un luogo di pace e di luce nel mezzo dell'Oscurità... XXX
+// Arkhan3 G perso3
+L28D171I
+Dal passato tutto ciò! XXX
+// Arkhan2 L perso2
+L28D82
+C'è un meccanismo, ma non riesco ad azionarlo. XXX
+// Arkhan2 O perso2
+L28D83
+Dannato meccanico! XXX
+// Arkhan3 G perso3
+L28D97
+Cos'è questo meccanismo? XXX
+// Arkhan3 G perso3
+L28D99
+Non c'è più niente! XXX
+// Arkhan2 L perso2
+L28D88
+C'è qualcosa qui. XXX
+// Arkhan2 O perso2
+L28D87
+Cos'è questo arnese? XXX
+// Arkhan3 L perso3
+L28D90
+C'è un arnese qui! XXX
+// Arkhan3 O perso3
+L28D92
+Cos'è 'sto arnese?! XXX
+// Arkhan2 G perso2
+L28D69
+Hmm... La scrittura è illeggibile...  XXX
+// Arkhan3 G perso3
+L28D70
+ (grugnito)... Illeggibile... XXX

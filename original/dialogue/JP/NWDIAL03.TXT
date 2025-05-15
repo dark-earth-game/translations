@@ -1,0 +1,202 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL03.TXT
+ // Kalhi perso33
+L03D14
+ If we get separated, we'll rendezvous outside the central square. XXX
+// Kalhi (stunned, confused) perso13
+L03D500A
+ Arkhan! You... Why did you do that? XXX
+// Kalhi (crippled) perso13
+L03D500B
+ It's the poison... it's driving you mad! XXX
+// Kalhi (has just slipped on her clothes) perso33
+L03D501A
+ Not a bad fit! XXX
+// Kalhi perso33
+L03D501B
+ I'm sure the Guardians of Fire won't recognize me, if they don't look too closely at my face. XXX
+// Kalhi (impatient) perso13
+L03D601
+ Arkhan, we have to get out of here! XXX
+// Kalhi (impatient) perso13
+L03D602
+ Come on, Arkhan, it's dangerous for us to stay here. XXX
+// Kalhi (surprised that Arkhan doesn't react) perso13
+L03D603
+ Arkhan? Ready to go? XXX
+// Arkhan2 G perso2
+L03D01
+ Wait for me! XXX
+// Arkhan3 G perso3
+L03D02
+ Wait! XXX
+// Kalhi perso13
+L03D03
+ I'll wait here! XXX
+// Kalhi (afraid) perso33
+L04D41
+ Arkhan! What's come over you? XXX
+// Arkhan2 G perso2
+L03D503
+ How did you land in the stockade? XXX
+// Arkhan3 G perso3
+L03D504
+ Why did they throw you in the stockade? XXX
+// Kalhi perso13
+L03D505
+ The Guardians of Fire...they  found me in Rylsadhar's room.  XXX
+// Arkhan2 G perso2
+L03D506A
+ And they let you keep your knife? XXX
+// Arkhan2 G perso2
+L03D506B
+ They don't know what they're doing!  XXX
+// Arkhan3 G perso3
+L03D507
+ They didn't even take your knife?! Good work! XXX
+// Kalhi perso13
+L03D508A
+ If I understood right, Rylsadhar and Zed have disappeared. XXX
+// Kalhi perso13
+L03D508B
+ And I was supposedly a suspect! XXX
+// Arkhan2 G perso2
+L03D509
+ What's this all about? XXX
+// Arkhan3 G perso3
+L03D510
+ Zed and my father... have disappeared? XXX
+// Kalhi perso13
+L03D511
+ I don't know. I don't understand it any better than you.. XXX
+// Arkhan2 G perso2
+L03D512
+ Okay. We have to sneak down into the Lower City without attracting attention.  XXX
+// Arkhan3 G perso3
+L03D513
+ Okay. We're going to try going down into the Lower City... without anyone seeing us.  XXX
+// Kalhi perso13
+L03D514
+ It'll be hard to slip by without being seen! XXX
+// Arkhan2 G perso2
+L03D515
+ Follow me, let's go. XXX
+// Arkhan3 G perso3
+L03D516
+ Come on. XXX
+// Kalhi perso13
+L03D517
+OK, I'm right behind you. XXX
+// Arkhan2 G perso2
+L03D518
+ Look! One of Bogdaran's old uniforms... XXX
+// Arkhan2 G perso2
+L03D519
+ Before he got his gut! XXX
+// Arkhan3 G perso3
+L03D520
+ Put it on. XXX
+// Kalhi perso13
+L03D521
+ All right, I'll try it on... XXX
+// Kalhi perso13
+L03D522
+ Arkhan, we don't have time for that! XXX
+// Arkhan2 O perso2
+L03D523
+ I'll teach you a lesson! XXX
+// Arkhan2 L perso2
+L03D524
+ You're a real Guardian! XXX
+// Arkhan3 O perso3
+L03D525
+ I'll teach you! XXX
+// Kalhi (forced to defend herself) perso33
+L04D43
+ Arkhan, no! XXX
+// Kalhi (frightened) perso33
+L04D42
+ No, Arkhan! You have to resist! XXX
+// Kalhi perso33
+L03D530A
+ The Guardians of Fire are on the look-out.  XXX
+// Kalhi perso33
+L03D530B
+ With this disguise, we might be able to fool them.  XXX
+// Arkhan2 G perso2
+L03D531A
+ You in that uniform! What a sight! XXX
+// Arkhan2 G perso2
+L03D531B
+ If Phedoria doesn't like it, she knows what she can do about it! XXX
+// Arkhan3 G (amused to see Kalhi in uniform) perso3
+L03D532
+ Oh Ho! Look at you... even Phedoria would be impressed!  XXX
+// Kalhi perso33
+L03D533
+ If you've finished making fun of me, let's go!?! XXX
+// Arkhan2 G perso2
+L03D534
+ We'll have to cross the hall, then head down.  XXX
+// Arkhan3 G perso3
+L03D535
+ We cross the hall, then head down. XXX
+// Kalhi perso33
+L03D536
+ You're in charge! XXX
+// Kalhi perso13
+L03D528
+ Don't force me to... XXX
+// Kalhi perso13
+L03D526
+ Arkhan, stop! XXX
+// Kalhi perso13
+L03D527
+ It's the poison, it's driving you mad! XXX
+// Arkhan1 L perso1
+L03D04A
+ Old oil barrels.  XXX
+// Arkhan1 L perso1
+L03D04B
+ The Master Oiler must have put them here.  XXX
+// Arkhan1 O (firing into the cans) perso1
+L03D05
+ Ha! Take that, you filthy cans! XXX
+// Arkhan2 L perso2
+L03D06
+ Old barrels left behind by the Oilers. XXX
+// Arkhan2 O (firing in the cans) perso2
+L03D07
+ Huh! Bogdaran's trash cans! XXX
+// Arkhan3 L perso3
+L03D08
+ Old barrels....they're worthless. XXX
+// Arkhan2 G perso2
+L03D10
+ The Oilers' laboratory is right over here. XXX
+// Arkhan3 G perso3
+L03D11
+ The Oilers' laboratory is right over there.  XXX
+// Delia perso10
+L03D12
+ Hurry, let's go in.  I want to see Bogdaran.  XXX
+// Delia perso10
+L03D13
+ Arkhan, please, let's not lose any more time! XXX
+// Arkhan3 G (fighting Delia) perso3
+L03D16
+ That's enough, slut! XXX
+// Delia (attacked by Arkhan) perso10
+L03D09
+ You've gone completely mad! XXX
+// Arkhan1 G perso1
+L03D17A
+ We're at the top of the cliff. Down below... nothing but ocean as far as the eye can see. XXX
+// Arkhan1 G perso1
+L03D17B
+ During the Great Cataclysm, whole mountains crashed into the sea. XXX
+// Arkhan2 G perso2
+L03D18
+ Beyond, nothing but sea and darkness... XXX
+// Arkhan3 G perso3
+L03D19
+ Sea and darkness... as far as we can see... XXX

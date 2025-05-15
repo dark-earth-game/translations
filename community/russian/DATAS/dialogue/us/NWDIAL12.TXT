@@ -1,0 +1,523 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL12.TXT
+ // Bandor perso7
+L12D03
+ Pnj nw _agZatx c_amx? XXX
+// Bandor perso7
+L12D04
+ Hjsaho nw ]aliogm|? XXX
+// Bandor perso7
+L12D05
+ FZh [jgxta iasah na[a kjhjsx. XXX
+// Bandor perso7
+L12D01
+ Hljsx! Kw ia dhaatx klZ]Z c_amx iZqj_dnxm|! XXX
+// Khorad perso83
+L12D02
+ Le_d maesZm ba, dgd hw ]wcj]ah mnlZbae j^i|! XXX
+// Arkhan2 G perso2
+L12D108
+ HjnZeija jn_agaida! XXX
+// Arkhan3 G perso2
+L12D109
+ KZeidf! XXX
+// Bandor (scared)perso7
+L12D128
+ Fan! Hljto na[|! XXX
+// Khorad (scared)perso83
+L12D129
+ Hjhj^dna! XXX
+// Bandor perso7
+L12D112
+ Fan, ian. Fa nlj^Ze iZm! XXX
+// Bandor perso7
+L12D113
+ HjmgotZe, [o_ah [gZ^jlZcohiw. XXX
+// Arkhan2 L perso2
+L12D06A
+ Fa [jenamx. X ia kldsdiz ]Zh cgZ. XXX
+// Arkhan2 L perso2
+L12D06B
+ X duo $Zi_jlZ, ^gZ]ij^j mnljdnag|. XXX
+// Khorad (over-anxious) perso83
+L12D10
+ $Zi_jlZ c_amx ian! XXX
+// Bandor (trying to disguise his fear) perso7
+L12D11
+ Gi... ji maesZm ] >ahg|q ElZfZ, nZh ij]we j[vafn. XXX
+// Khorad perso83
+L12D12
+ +Z. Ew ]aliogdmx, Z ji jmnZgm| ]idco. XXX
+// Arkhan2 O (impatient) perso2
+L12D07
+ *_a $Zi_jl, ^gZ]iwe mnljdnagx? XXX
+// Arkhan2 L perso2
+L12D13A
+ &agdfZ| klj]d_drZ gdsij kjlosdgZ hia kljmdnx ]Zm j kjhjud. XXX
+// Arkhan2 L perso2
+L12D13B
+ GiZ jkdmZgZ $Zi_jlZ m ^jgj]w _j k|n. Vnj |]ij j_di dc ]Zm. XXX
+// Arkhan2 L perso2
+L12D13C
+ JnZggZen ] jkZmijmnd. FZh iZ_j mkatdnx! XXX
+// Bandor perso7
+L12D24
+ Fan. &agdfZ| klj]d_drZ ia hj^gZ nZfj^j mfZcZnx! XXX
+// Khorad (appeasingly) perso83
+L12D25
+ Agd ba kljmnj jtd[gZmx... XXX
+// Bandor perso7
+L12D26
+ & gz[jh mgosZa, $Zi_jlZ c_amx ian. XXX
+// Khorad perso83
+L12D27
+ A hw ia ciZah, ^_a ji maesZm! XXX
+// Arkhan2 O (impatient) perso2
+L12D14A
+ Fa tondna mj hije! XXX
+// Arkhan2 O perso2
+L12D14B
+ Djld gdsij lZmmfZcZgZ hia j $Zi_jla, d | o]alai, j_di dc ]Zm - ynj ji! XXX
+// Arkhan2 O perso2
+L12D14C
+ L hai| hZgj ]lahaid. Cjnjlwe dc ]Zm $Zi_jl? XXX
+// Arkhan2 L perso2
+L12D19A
+ *j]jlz ]Zh. X ia kldsdidiz ]Zh cgZ! XXX
+// Arkhan2 L perso2
+L12D19B
+ X _jgbai ciZnx, ia _Z]Zg gd ]Zh IdgmZ_Zl j_io ]aux... fldmnZgg. XXX
+// Arkhan2 O (annoyed) perso2
+L12D20A
+ &w _ohZana, | nZf ^gok, snj kj]alz, [o_nj o ]maq mnljdnagae n~hiZ| fjbZ d njgxfj j_iZ ij^Z?! XXX
+// Arkhan2 O perso2
+L12D20B
+ J hai| _j]jgxij! Cjnjlwe dc ]Zm $Zi_jl? XXX
+// Bandor (conciliatory) perso7
+L12D22
+ Ac]did. Ew ia ciZah. XXX
+// Khorad (bluffing) perso83
+L12D23A
+ Ka[a gosta oend, mnlZbd j^i| mfjlj [o_on c_amx. XXX
+// Khorad perso83
+L12D23B
+ A nj^_Z na[a iam_j[lj]Znx! XXX
+// Arkhan2 L perso2
+L12D200
+ &wmgotZena. Eia iobiZ ]ZtZ kjhjux. XXX
+// Bandor perso7
+L12D202
+ Ac]did, hw idsa^j ia ciZah. XXX
+// Khorad perso83
+L12D203
+ Ew ia hjbah kjhjsx na[a! XXX
+// Arkhan2 O (annoyed) perso2
+L12D201
+ X iZsdiZz nal|nx nalkaida! XXX
+// Arkhan3 L perso3
+L12D08
+ Jkjfjeij! X duo $Zi_jlZ! XXX
+// Arkhan3 O perso3
+L12D09
+ $Zi_jl! XXX
+// Arkhan3 L perso3
+L12D15A
+ Djld mfZcZgZ hia dmfZnx sagj]afZ m n~hije fjbae d bagacije ij^je! XXX
+// Arkhan3 L perso3
+L12D15B
+ Cjnjlwe dc ]Zm $Zi_jl? XXX
+// Arkhan3 L perso3
+L12D21A
+ X iZ ]Ztae mnjljia. XXX
+// Arkhan3 L perso3
+L12D21B
+ X duo fldmnZgg, kala_Ziiwe $Zi_jlo IdgmZ_Zljh. XXX
+// Arkhan3 L perso3
+L12D300
+ Eia iobiZ ]ZtZ kjhjux! XXX
+// Khorad (frightened) perso83
+L12D17
+ Fan. Hljsx! XXX
+// Bandor (frightened) perso7
+L12D18A
+ FZcZ_, n]Zlx! XXX
+// Bandor perso7
+L12D18B
+ <mgd nljiatx iZm qjnx kZgxrah, kjbZgaatx! XXX
+// Arkhan2 G perso2
+L12D32
+ L hai| ]Zt so_amiwe saln~b. Fo, ^j]jldna, fjnjlwe dc ]Zm $Zi_jl? XXX
+// Arkhan3 G perso3
+L12D34
+ L hai| ]Zt saln~b. Fo, ^j]jldna, fjnjlwe dc ]Zm $Zi_jl? XXX
+// Khorad (bluffing) perso83
+L12D33A
+ Vnjn saln~b [amkjgacai. XXX
+// Khorad perso83
+L12D33B
+ A mla_d iZm ian $Zi_jlZ... XXX
+// Arkhan2 G perso2
+L12D121
+ # ynj? Vnj snj-id[o_x ciZsdn _g| ]Zm? XXX
+// Arkhan3 G perso3
+L12D122
+ CZf iZms~n ynj^j? XXX
+// Bandor perso7
+L12D123
+ Fan, dc]did. XXX
+// Khorad perso83
+L12D124
+ Fan, iZh iasa^j mfZcZnx. XXX
+// Arkhan2 G perso2
+L12D40
+ NZ! X lZc^Z_Zg ]Zto hZgaixfoz d^lo! XXX
+// Bandor perso07
+L12D43
+ Njljtj. Kakalx jn_Ze hia saln~b! XXX
+// Arkhan3 G perso3
+L12D42
+ Cjiar d^lZh! XXX
+// Arkhan2 L perso2
+L12D47A
+ *gZ]iwe mnljdnagx, | ia bagZg ]Zh cgZ. XXX
+// Arkhan2 L perso2
+L12D47B
+ #lqdmouijmnx QZiflZ qjgj_jh [abdn kj hjdh ]aiZh. Fj | ]m~ au~ #lqZi, mnlZb j^i| d mwi IdgmZ_ZlZ. XXX
+// Arkhan2 L perso2
+L12D47C
+ X kjfg|gm| jnjhmndnx cZ mnZggZen d cZudndnx a^j jn jkZmijmnd. XXX
+// Bandor (prudent) perso7
+L12D50A
+ &m~ - mgj]Z! Hjsaho | _jgbai na[a ]aldnx? XXX
+// Bandor perso7
+L12D50B
+ +jfZbd hia, snj nw mwi IdgmZ_ZlZ, nj^_Z |, hjban, d kjhj^ [w. XXX
+// Arkhan2 O perso2
+L12D48
+ Fafj^_Z nal|nx ]lah|. X - #lqZi, mwi IdgmZ_ZlZ, d | duo fldmnZggw, mkl|nZiiwa hjdh jnrjh. XXX
+// Arkhan3 L perso3
+L12D49A
+ X - mwi IdgmZ_ZlZ. XXX
+// Arkhan3 L perso3
+L12D49B
+ X duo fldmnZggw, mkl|nZiiwa dh. XXX
+// Arkhan2 L perso2
+L12D51A
+ L hai| ian ]lahaid iZ d^lw, $Zi_jl. XXX
+// Arkhan2 L perso2
+L12D51B
+ Eai| Djld kldmgZgZ. &w _jgbiw hia ]aldnx! XXX
+// Bandor (firmly) perso7
+L12D54A
+ Fan. IdgmZ_Zl idfZf ia j_j[ldg [w hja^j j[uaid| m... m... XXX
+// Bandor perso7
+L12D54B
+ ...m nZfdh, fZf nw, mouamn]jh m ia|miwhd iZhalaid|hd. XXX
+// Arkhan2 O perso2
+L12D52A
+ JaesZm ia ]lah| mkjldnx j hagjsZq! XXX
+// Arkhan2 O perso2
+L12D52B
+ <mgd fldmnZgg o na[|, _Z]Ze mz_Z! XXX
+// Arkhan3 L perso3
+L12D53
+ &alx hia! XXX
+// Arkhan2 G perso2
+L12D55A
+ Njndna _jfZcZnagxmn]? &jn, o hai| qlomnZgxija fjgxrj jn fgzsZ. XXX
+// Arkhan2 G perso2
+L12D55B
+ X _jgbai iZend jmnZgxiwa plZ^hainw d kljidfionx ] nZeidf hja^j jnrZ. XXX
+// Arkhan2 G perso2
+L12D55C
+ Djld msdnZan, qlZi|udam| ] nZeidfa maflanw hj^on mkZmnd iZm. XXX
+// Bandor (suddenly determined) perso7
+L12D57A
+ Njljtj. X ^jnj] kj]aldnx na[a. XXX
+// Bandor perso7
+L12D57B
+ +Z, IdgmZ_Zl _Zg hia j_di dc fldmnZggj]. X ba jn_Zz a^j na[a. XXX
+// Bandor perso7
+L12D57C
+ Fj [ala^dmx! <mgd ]j cgj dmkjgxcoatx, _Z [o_atx nw nldb_w kljfg|n! XXX
+// Arkhan2 L perso2
+L12D58
+ JkZmd[j, hZmnal $Zi_jl. XXX
+// Arkhan2 O perso2
+L12D59A
+ Nh... XXX
+// Arkhan2 O (echoing Bandor's sentence) perso2
+L12D59B
+ # amgd ] mjhiaid|q nw lZmnlZndg _lZ^jraiija ]lah|, nj cZkgZndtx m]jae bdcixz d _otjz! XXX
+// Arkhan3 G perso3
+L12D56A
+ +jfZcZnagxmn]j? &jn! XXX
+// Arkhan3 G perso3
+L12D56B
+ NlomnZgxija fjgxrj! XXX
+// Arkhan3 L perso3
+L12D60
+ JkZmd[j. XXX
+// Arkhan3 O perso3
+L12D61
+ (lwsdn kjsnd _lobagz[ij) XXX
+// Arkhan2 G perso2
+L12D125
+ &Zm nZfja o[a_dn? XXX
+// Arkhan3 G perso2
+L12D126
+ &jn snj na[| o[a_dn! XXX
+// Bandor perso7
+L12D127
+ Fan. Vnj idsa^j ia ciZsdn! XXX
+// Arkhan2 L perso2
+L12D62A
+ Cjho ba au~ hje jnar hj^ [w fldmnZgg jn_Znx? XXX
+// Arkhan2 L perso2
+L12D62B
+ <mnx d_ad? XXX
+// Arkhan2 O perso2
+L12D63A
+ Cljha na[|, fjho hje jnar hj^ au~ fldmnZgg jn_Znx? XXX
+// Arkhan2 O perso2
+L12D63B
+ Gn]anx hia! XXX
+// Bandor (thinking quickly) perso7
+L12D65
+ V-y... &alqj]iZ| bldrZ Djld, fjiasij. A iamjhiaiij ]agdfde >a_. XXX
+// Arkhan2 G perso2
+L12D66
+ Nh... Cnj au~? XXX
+// Bandor (hesitating) perso7
+L12D68A
+ Fo... Ejban [wnx, IdgmZ_Zl omkag kjmandnx Dajio. XXX
+// Bandor perso7
+L12D68B
+ Vnj mnlZiiZ| baiudiZ, snj bd]~n ] >ahg|q ElZfZ. C iae jnijm|nm| m jkZmfje... XXX
+// Bandor perso7
+L12D68C
+ Fj jnar n]je, kjqjba, [wg _lobai m iae. XXX
+// Arkhan2 G perso2
+L12D69
+ X ]d_ag Dajio. Eje jnar idsa^j ae ia kala_Zg. XXX
+// Bandor perso7
+L12D71
+ Fo, [jgxta hia idfnj ia kldqj_dn iZ oh... kljmnd... XXX
+// Arkhan2 L perso2
+L12D72
+ *_a | iZe_o Dajio? XXX
+// Arkhan2 O perso2
+L12D73
+ # ynZ n]j| DajiZ, fZf hia iZend a~? XXX
+// Bandor perso7
+L12D75A
+ GiZ bd]~n ]_Zgd jn mnZggZenZ, ] >ahg|q ElZfZ. Fdfnj njsij ia ciZan, ^_a... XXX
+// Bandor perso7
+L12D75B
+ Cja-fnj ^j]jldn, snj a~ o[abdua ^_a-nj o [ala^Z. XXX
+// Bandor perso7
+L12D75C
+ Fj _lo^da ^j]jl|n, nw iZe_~tx a~, gdtx amgd jiZ nj^j cZqjsan. XXX
+// Khorad perso83
+L12D76A
+ KZf dgd diZsa, [wgj [w [acohdah ]wend iZlobo... XXX
+// Khorad perso83
+L12D76B
+ A ia cZ[o_x: ]jljnZ iZ cZhfa, Z ]ma ogdrw kalaflwnw! XXX
+// Arkhan2 G perso2
+L12D77A
+ &j dh| IZqZgZ, | _ohZg, ]w non *gZ]iwe mnljdnagx! XXX
+// Arkhan2 G perso2
+L12D77B
+ &w _jgbiw ciZnx _lo^je konx dc mnZggZenZ! XXX
+// Bandor perso7
+L12D78
+ Fan. IZixta [wgd njiiagd, ij [wg j[]Zg, d dq cZnjkdgj ]j ]lah| cahganl|maid|. XXX
+// Khorad perso83
+L12D79
+ +Z. A ynj [wgj hij^j rdfgj] njho iZcZ_... XXX
+// Arkhan2 L perso2
+L12D81A
+ Djld lZmmfZcZgZ hia j[ iafjh hamna kj_ cahg~e - *lj[idra. X _jgbai kjkZmnx no_Z. XXX
+// Arkhan2 L perso2
+L12D81B
+ &w snj-id[o_x ciZana? XXX
+// Bandor perso7
+L12D84
+ "*lj[idrZ". Fan. G nZfjh hamna | ia mgwqZg. XXX
+// Khorad perso83
+L12D85A
+ JnZggZen [wg kjmnljai _Z]iwh-_Z]ij. XXX
+// Khorad perso83
+L12D85B
+ +Zba hZmnal $Zi_jl ia ciZan ]maq a^j maflanj]. XXX
+// Arkhan2 O perso2
+L12D82A
+ Djld lZmmfZcZgZ hia j *lj[idra. # ]a_x ynj ]w - mnljdnagd ]jc_]d^gd mnZggZen. XXX
+// Arkhan2 O perso2
+L12D82B
+ KZf ^_a ynZ *lj[idrZ? XXX
+// Arkhan2 L perso2
+L12D91A
+ X ]d_ag ]qj_ ] fZfje-nj [oifal ] Fdbiah ^jlj_a. Hjqjba iZ _]alx dc $wgj^j. XXX
+// Arkhan2 L perso2
+L12D91B
+ &w ]a_x ciZana ]m~ j mnZggZena - hjbana mfZcZnx hia, fZf kjkZmnx ]ionlx? XXX
+// Bandor perso7
+L12D92
+ Vnj hamnj - cZ^Z_fZ, _Zba _g| hai|. XXX
+// Khorad perso83
+L12D93A
+ *j]jl|n, j_di dc homjludfj] on]alb_Zg, [o_nj nZh kj[w]Zg. Fj +jlfZi ]c|g a^j kj_ mnlZbo. XXX
+// Khorad perso83
+L12D93B
+ A m naq kjl idfnj [jgxta kj_j[ij^j ia cZ|]g|g. XXX
+// Arkhan2 O perso2
+L12D94A
+ KZh, ]idco, mnlZiiZ| _]alx, _]alx dc $wgj^j. XXX
+// Arkhan2 O perso2
+L12D94B
+ Njso kjkZmnx cZ yno _]alx, d nw hia lZmmfZbatx, fZf ynj m_agZnx! XXX
+// Khorad perso83
+L12D95
+ +Z idfZf. &jend ia]jchjbij. XXX
+// Arkhan2 L perso2
+L12D86A
+ Pnj b, mkZmd[j ]Zh cZ kjhjux. XXX
+// Arkhan2 L perso2
+L12D86B
+ X ia mnZio [jgxta ]Zm jn]gafZnx. +Z kla[o_an m ]Zhd J]an! XXX
+// Bandor perso7
+L12D87
+ L_Zsd, mwi IdgmZ_ZlZ. XXX
+// Khorad perso83
+L12D88
+ A [o_x jmnjljbai... XXX
+// Arkhan2 O perso2
+L12D89A
+ Fo ]m~, _j]jgxij iZ ]Zm ]lah| nal|nx. XXX
+// Arkhan2 O perso2
+L12D89B
+ Hljsx m _jlj^d, | njljkgzmx! XXX
+// Arkhan3 L perso3
+L12D64A
+ *_a hia iZend _lo^da fldmnZggw? XXX
+// Arkhan3 L perso3
+L12D64B
+ Kw ciZatx? XXX
+// Arkhan3 L perso3
+L12D67
+ Nh... Cnj au~? XXX
+// Arkhan3 L perso3
+L12D70
+ X ]d_ag Dajio. A cl|. XXX
+// Arkhan3 L perso3
+L12D74
+ *_a hia iZend Dajio? XXX
+// Arkhan3 L perso3
+L12D80
+ &a_x _jgbai [wnx _lo^je konx... XXX
+// Arkhan3 L perso3
+L12D83
+ X duo jmj[ja hamnj, *lj[idro. *_a jiZ? XXX
+// Arkhan3 L perso3
+L12D96A
+ & Fdbiah ^jlj_a amnx _]alx. GiZ, kjqjba, ]a_~n ] mnljaida dc $wgj^j. XXX
+// Arkhan3 L perso3
+L12D96B
+ X _jgbai kjkZmnx ]ionlx. Ejbatx kjhjsx hia? XXX
+// Arkhan3 L perso3
+L12D90
+ JkZmd[j. +Z kla[o_an m nj[je J]an! XXX
+// Bandor perso7
+L12D105A
+ Kw mk|ndg! Jnje! XXX
+// Bandor perso7
+L12D105B
+ FZh [jgxta iasah na[a kjhjsx, jmnZ]x iZm! XXX
+// Bandor (forced to fight) perso7
+L12D107
+ NjlZ_, [ae a^j! XXX
+// Khorad perso83
+L12D41
+ &alid ynjn saln~b hZmnalo $Zi_jlo, d F<E<+DX! XXX
+// Arkhan2 G perso2
+L12D110
+ L ia^j komnj ] fZlhZiZq! XXX
+// Arkhan3 G perso3
+L12D111
+ G mdgw cgZ! Homnj! XXX
+// Khorad perso83
+L12D30
+ Fa nlj^Ze ynjn saln~b. Vnj jsaix raiiwe _jfohain! XXX
+// Bandor perso7
+L12D31
+ Gi kldiZ_gabdn ^gZ]ijho mnljdnagz! XXX
+// Arkhan2 G perso2
+L12D28
+ >_amx iasa^j [jgxta ]c|nx! XXX
+// Arkhan3 perso3
+L12D29
+ Kon oba komnj. XXX
+// Arkhan2 G (turning his head towards Bandor & Khorad) perso2
+L12D35A
+ <mgd mla_x ]Zm ian $Zi_jlZ... XXX
+// Arkhan2 G (turning his head towards Bandor & Khorad) perso2
+L12D35B
+ &w ba ia kljnd], amgd | kj_jb^o a^j so_iwe saln~b! XXX
+// Bandor (panicked) perso7
+L12D38
+ F<K! XXX
+// Bandor (moving towards Arkhan) perso7
+L12D39
+ DZ_ij... +Z. X $Zi_jl. &alid hia saln~b. XXX
+// Arkhan2 Gperso2
+L14D45
+ Fo iZfjiar! XXX
+// Arkhan3 G perso3
+L12D36
+ +Zz kjmga_ide tZim. Cnj dc ]Zm non $Zi_jl? XXX
+// Arkhan3 G perso3
+L12D37
+ Agd b^o saln~b! XXX
+// Arkhan3 G perso3
+L14D46
+ $Zi_jl, iZfjiar! XXX
+// Arkhan2 G perso2
+L12D45
+ >iZe |, fnj dc ]Zm $Zi_jl, ia mnZg [w basx saln~b! XXX
+// Arkhan3 G perso3
+L12D46
+ <mgd [ o]d_ag $Zi_jlZ, ia mnZg [w basx saln~b! XXX
+// Arkhan2 G perso2
+L12D103
+ FZ mnjga idsa^j kjgacij^j... XXX
+// Arkhan3 G perso3
+L12D104
+ FZ mnjga idsa^j ian... XXX
+// Arkhan2 G perso2
+L12D97
+ FZ mnjga idsa^j ian! XXX
+// Arkhan3 perso3
+L12D98
+ Fdsa^j ian! XXX
+// Arkhan2 G perso2
+L12D99
+ Vnj ]lj_a fogxhZi. XXX
+// Arkhan2 G perso2
+L12D101
+ CZfje-nj ZlnapZfn dc $wgj^j. XXX
+// Arkhan3 G perso3
+L12D102
+ #lnapZfn dc $wgj^j. XXX
+// Khorad (whispering) perso83
+L12D119
+ Gi fjmiogm| chad! XXX
+// Bandor (whispering) perso7
+L12D120
+ +Z gZ_ij. Homnx _agZan, snj qjsan. XXX
+// Arkhan2 G perso2
+L12D117
+ X ynjn lwsZ^ oba _~l^Zg. XXX
+// Arkhan3 G perso3
+L12D118
+ X ynjn lwsZ^ oba _~l^Zg. XXX

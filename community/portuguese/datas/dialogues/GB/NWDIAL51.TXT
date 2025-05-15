@@ -1,0 +1,97 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\GB\NWDIAL51.TXT
+// Arkhan2 G (acabou de escapar de uma explosão) perso2
+L51D17
+Uau! XXX
+// Arkhan3 G (acabou de escapar de uma explosão) perso3
+L51D18
+Uau! XXX
+// Arkhan2 G (estupefacto) perso2
+L51D01A
+Incrível... XXX
+// Arkhan2 G (estupefacto) perso2
+L51D01B
+O poço desapareceu... XXX
+// Arkhan3 G (estupefacto) perso3
+L51D02A
+Incrível... XXX
+// Arkhan3 G perso3
+L51D02B
+O poço... arrasado... XXX
+// Arkhan2 G perso2
+L51D107
+O pórtico inteiro foi arrasado. XXX
+// Arkhan3 G perso3
+L51D108
+Todo o pórtico... arrasado... XXX
+// Arkhan2 L perso2
+L51D03
+Falta uma pá... É inútil... XXX
+// Arkhan3 L perso3
+L51D04
+Falta uma pá... Inutilizável... XXX
+// Arkhan2 G perso2
+L51D100A
+A hélice que coroava o poço... XXX
+// Arkhan2 G perso2
+L51D100B
+A explosão arrancou-a. XXX
+// Arkhan3 G perso3
+L51D101A
+A hélice de cima do poço... XXX
+// Arkhan3 G perso3
+L51D101B
+Arrancada pela explosão... XXX
+// Arkhan2 O perso2
+L51D05
+Está destruída, inutilizada! XXX
+// Arkhan3 O perso3
+L51D06
+Inutilizada! XXX
+// Arkhan2 L (hesita como um paraquedista principiante) perso2
+L51D07
+Não...! Se saltar, vou matar-me! XXX
+// Arkhan3 L (hesita como um paraquedista principiante) perso3
+L51D08
+Não...! Salto, e estou morto! XXX
+// Arkhan2 O (decide saltar) perso2
+L51D09
+Afinal, não tenho nada a perder! XXX
+// Arkhan3 O (decide saltar) perso3
+L51D10
+Algum dia é preciso morrer! XXX
+// Arkhan2 G perso2
+L51D111
+O calor é demasiado forte, não posso avançar. XXX
+// Arkhan3 G perso3
+L51D112
+Que calor! Não posso aproximar-me... XXX
+// Arkhan2 G (arranjou a hélice) perso2
+L51D13
+Consegui, está reparada. XXX
+// Arkhan3 G (reparou a hélice) perso3
+L51D14
+Está arranjada. XXX
+// Arkhan2 G (examina a sua reparação) perso2
+L51D15
+Espero que isto resista. XXX
+// Arkhan3 G (examina a sua reparação) perso3
+L51D16
+Oxalá resista. XXX
+// Arkhan2 G perso2
+L51D113
+A plataforma está totalmente destruída. XXX
+// Arkhan3 L perso3
+L51D114
+A plataforma... destruída. XXX
+// Arkhan2 G perso2
+L51D103
+Nada mais que pedras... XXX
+// Arkhan3 G perso3
+L51D104
+Nada mais que um monte de pedras... XXX
+// Arkhan2 G perso2
+L51D105
+Está completamente em ruínas. XXX
+// Arkhan3 G perso3
+L51D106
+Completamente demolido. XXX

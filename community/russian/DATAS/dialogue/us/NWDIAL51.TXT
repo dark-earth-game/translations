@@ -1,0 +1,97 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL51.TXT
+ // Arkhan2 G (narrowly escaping an explosion)perso2
+L51D17
+ &j fZf! XXX
+// Arkhan3 G (narrowly escaping an explosion)perso3
+L51D18
+ &j fZf! XXX
+// Arkhan2 G (stupefied) perso2
+L51D01A
+ Fahwmgdhj... XXX
+// Arkhan2 G (stupefied) perso2
+L51D01B
+ Cjgj_rZ ia mnZgj... XXX
+// Arkhan3 G (stupefied) perso3
+L51D02A
+ Fahwmgdhj... XXX
+// Arkhan3 G perso3
+L51D02B
+ Cjgj_rZ... ian... XXX
+// Arkhan2 G perso2
+L51D107
+ Fa hj^o kj]aldnx! XXX
+// Arkhan3 G perso3
+L51D108
+ &m~ ] fgjsx|... XXX
+// Arkhan2 L perso2
+L51D03
+ DjkZmnd ian... homjl... XXX
+// Arkhan3 L perso3
+L51D04
+ $ac gjkZmnd... homjl... XXX
+// Arkhan2 G perso2
+L51D100A
+ DjkZmnx jn ]anl|fZ fjgj_rZ... XXX
+// Arkhan2 G perso2
+L51D100B
+ &ji fo_Z ]clw]jh cZiamgj. XXX
+// Arkhan3 G perso3
+L51D101A
+ DjkZmnx jn ]anl|fZ... XXX
+// Arkhan3 G perso3
+L51D101B
+ Gn[ljmdgj ]clw]jh... XXX
+// Arkhan2 O perso2
+L51D05
+ G[gjhjf, kljmnj homjl! XXX
+// Arkhan3 O perso3
+L51D06
+ Eomjl! XXX
+// Arkhan2 L (hesitating like a rookie parachutist) perso2
+L51D07
+ Fan, ian, ian... <mgd klw^io, hia fjiar! XXX
+// Arkhan3 L (hesitating like a rookie parachutist) perso3
+L51D08
+ Fan, ian, ian... Hlw^io... o[xzmx! XXX
+// Arkhan2 O (deciding to jump)perso2
+L51D09
+ C s~lno ]m~, snj hia nakalx nal|nx?! XXX
+// Arkhan3 O (deciding to jump)perso3
+L51D10
+ C s~lno ]m~, ^_a iZtZ ia kljkZ_ZgZ?! XXX
+// Arkhan2 G perso2
+L51D111
+ Jdgxiwe bZl, hia ia kljend. XXX
+// Arkhan3 G perso3
+L51D112
+ Vnjn bZl! $gdba ia kj_mnokdtx... XXX
+// Arkhan2 G (having repaired the propeller)perso2
+L51D13
+ *jnj]j, kjsdidg. XXX
+// Arkhan3 G (having repaired the blade)perso3
+L51D14
+ Hjsdidg. XXX
+// Arkhan2 G (examining his handiwork)perso2
+L51D15
+ FZ_azmx, ia lZc]Zgdnm|. XXX
+// Arkhan3 G (examining his handiwork)perso3
+L51D16
+ FZ_azmx, ]w_albdn. XXX
+// Arkhan2 G perso2
+L51D113
+ HgZnpjlhZ lZc[dnZ ] nloqo. XXX
+// Arkhan3 L perso3
+L51D114
+ HgZnpjlhZ... ] nloqo. XXX
+// Arkhan2 G perso2
+L51D103
+ G_id gdtx j[gjhfd... XXX
+// Arkhan3 G perso3
+L51D104
+ Lq... j[gjhfd... XXX
+// Arkhan2 G perso2
+L51D105
+ Iodiw. XXX
+// Arkhan3 G perso3
+L51D106
+ HjgiZ| lZcloqZ. XXX

@@ -1,0 +1,142 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\GB\NWDIAL23.TXT
+// Arkhan 1 L perso1
+L10D96
+Não te ponhas nervoso Zed, sei o que faço! XXX
+// Zed perso84
+L23D23
+Arkhan!? Pelo Rahal, que se passa aqui?! XXX
+// Zed perso84
+L23D19
+Rylsadhar... Morto! Arkhan, que fizeste?! XXX
+// Zed (deita Arkhan ao chão) perso84
+L23D20
+Assassino! XXX
+// Zed (gritando) perso84
+L23D11
+Guardiões do Fogo! Alerta! XXX
+// Arkhan2 L perso2
+L23D102A
+Espera! Sou eu, o Arkhan! Eu salvei a Grande Pregadora! XXX
+// Arkhan2 L perso2
+L23D102B
+Sou o mesmo de sempre! XXX
+// Arkhan2 O perso2
+L23D21X
+Eh! Calma! Aquela bola de sebo atirou-se a mim! XXX
+// Phedoria perso26
+L23D106
+Isso diz aos homens que assassinaste! XXX
+// Phedoria (triste) perso26
+L23D13
+Que loucura... XXX
+// Arkhan2 O perso2
+L23D103A
+Não dispares! Fui eu quem salvou a Grande Pregadora! XXX
+// Arkhan2 O perso2
+L23D103B
+Ajoelha-te! XXX
+// Arkhan3 L perso3
+L23D104
+Espera! Não fiz nada de mal! XXX
+// Arkhan3 O perso3
+L23D105
+Não! XXX
+// Phedoria perso26
+L23D44A
+Ouvi os gritos do Rylsadhar. XXX
+// Phedoria perso26
+L23D44B
+O demónio está em ti, e vais morrer! XXX
+// Kalhi1 (Arkhan morto) perso13
+L23D45
+Capitã! Que fizeste! É o Arkhan! XXX
+// Phedoria perso26
+L23D46A
+Não! Matou o Rylsadhar! XXX
+// Phedoria perso26
+L23D46B
+O Arkhan que tu amavas já não existe. XXX
+// Gardien13 perso53
+L23D31
+Os Pregadores diziam a verdade, a Escuridão pode apoderar-se de qualquer um! XXX
+// Gardien14 perso54
+L23D32
+Sim, mas eu venderei caro o meu corpo! XXX
+// Gardien13 perso53
+L23D29
+Sangue negro! Esteve quase a matar-me! XXX
+// Gardien14 perso54
+L23D30
+Já não tinha nada de homem, era um demónio da Escuridão! XXX
+// Gardien13 perso53
+L23D35
+Aqui o temos outra vez! XXX
+// Gardien13 perso53
+L23D33
+Atenção, há outro! XXX
+// Gardien14 (ataca Arkhan) perso54
+L23D34
+À morte! XXX
+// Gardien13 perso53
+L23D36
+Vais pagar! XXX
+// Gardien14 (ataca Arkhan) perso54
+L23D37
+Desta vez vais morrer! XXX
+// Rylsadhar (junta-se a Arkhan, que o espera à porta) perso20
+L23D16
+Não te impacientes. Cheguei, Arkhan. XXX
+// Arkhan1 G perso1
+L23D15
+O Hospital está fechado. XXX
+// Arkhan1 G perso1
+L23D25
+A casa do meu pai. Não vejo grande coisa... XXX
+// Arkhan2 G perso2
+L23D26
+A casa do meu pai. Não se vê nada. XXX
+// Arkhan3 G perso3
+L23D27
+Não vejo ninguém. XXX
+// Arkhan2 L perso2
+L23D38A
+É o Dulnys! XXX
+// Arkhan2 L perso2
+L23D38B
+O Thanandar dizia que cuidava dele! Mentiras! XXX
+// Arkhan3 L perso3
+L23D39A
+É o Dulnys! XXX
+// Arkhan3 L perso3
+L23D39B
+Ele também foi vítima do Thanandar! XXX
+// Arkhan2 O perso2
+L23D40
+Também uma criatura do Thanandar! XXX
+// Arkhan3 O perso3
+L23D41
+Também uma criatura do Thanandar! XXX
+// Arkhan2 G perso2
+L23D42
+É a pá arrancada da hélice do poço. XXX
+// Arkhan3 G perso3
+L23D43
+Pá da hélice do poço. XXX
+// Arkhan1 L perso1
+L23D47
+Os catos que o meu pai cultiva. XXX
+// Arkhan2 L perso2
+L23D48
+Uns catos. Do meu pai. XXX
+// Arkhan3 L (nostálgico) perso3
+L23D49
+Os catos do meu pai... XXX
+// Arkhan1 G perso1
+L23D50
+Não tenho tempo de fazer as minhas abluções. XXX
+// Arkhan2 G perso2
+L23D51
+Não tenho tempo de tomar banho! XXX
+// Arkhan3 G perso3
+L23D52
+Lavo-me mais tarde! XXX

@@ -1,0 +1,175 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\fr\NWDIAL38.TXT
+ // Arkhan2 G (stupéfait en découvrant l'Eden) perso2
+L38D01A
+ Sang noir!... XXX
+// Arkhan2 G perso2
+L38D01B
+ Qu'est-ce... ... Qu'est-ce que c'est que cet endroit?! XXX
+// Arkhan3 G (stupéfait en découvrant l'Eden) perso3
+L38D02A
+ Sang noir!... XXX
+// Arkhan3 G perso3
+L38D02B
+ Qu'est-ce... ... Qu'est-ce que c'est?!? XXX
+// Arkhan2 G (se penche et boit) perso2
+L38D03A
+ Cette eau... Comme un feu liquide... XXX
+// Arkhan2 G perso2
+L38D03B
+ Elle... me purifie... mais je me sens... plus faible... XXX
+// Arkhan3 G perso3
+L38D04A
+ L'eau... Comme du feu...  XXX
+// Arkhan3 G perso3
+L38D04B
+ Ca me purifie... Mais mon corps est en feu... XXX
+// Arkhan2 G perso2
+L38D05
+ Non, si j'en bois encore, ça m'épuisera. XXX
+// Arkhan3 G perso3
+L38D06
+ Non, si je bois encore, j'en crèverai! XXX
+// Arkhan2 G perso2
+L38D07
+ Un bloc de cristal de roche. XXX
+// Arkhan2 G perso2
+L38D08
+ La clef de mon père doit être taillée dans ce genre de cristal. XXX
+// Arkhan3 G perso3
+L38D09
+ Du cristal de roche. XXX
+// Arkhan3 G perso3
+L38D10
+ C'est de ça qu'est faite la clef de mon père. XXX
+// Arkhan2 G perso2
+L38D11
+ Avec ça, je devrais pouvoir briser une petite lame de cristal. XXX
+// Arkhan2 G perso2
+L38D12
+ Inutile, y'a pas d'autre lame sur la roche. XXX
+// Arkhan3 G perso3
+L38D13
+ Avec ça, j'vais casser une lame de cristal. XXX
+// Arkhan3 G perso3
+L38D14
+ Non... pas d'autre lame là-dessus. XXX
+// Arkhan2 G perso2
+L38D15A
+ Ca me rappelle les plantes de serre, chez les Nourrisseurs. XXX
+// Arkhan2 G perso2
+L38D15B
+ Mais celles-là sont immenses, vertes, pleines de vie...  XXX
+// Arkhan2 G perso2
+L38D15C
+ Jamais j'avais vu ça! XXX
+// Arkhan2 G perso2
+L38D16
+ Ces plantes sont vraiment fantastiques! XXX
+// Arkhan2 G perso2
+L38D17
+ Arbres, plantes, racines... Le rêve des Nourrisseurs, des Huiliers. XXX
+// Arkhan2 G perso2
+L38D18
+ Si je vis assez longtemps pour le raconter, personne ne le croira dans le Stallite. XXX
+// Arkhan3 G perso3
+L38D19A
+ Comme dans les serres... des nourrisseurs... XXX
+// Arkhan3 G perso3
+L38D19B
+ Mais ici... la nature... la vie... sont libres. XXX
+// Arkhan3 G perso3
+L38D19C
+ Incroyable. XXX
+// Arkhan3 G perso3
+L38D20
+ Ces plantes... fantastiques... XXX
+// Arkhan3 G perso3
+L38D21
+ Des plantes, des herbes, des racines... partout! XXX
+// Arkhan3 G perso3
+L38D22
+ Jamais vu ces choses-là dans le Stallite... XXX
+// Arkhan2 L perso2
+L38D23
+ Des rochers, tout couverts de mousse. XXX
+// Arkhan2 O (frappe/pousse les rochers) perso2
+L38D24
+ Trop gros pour les bouger... XXX
+// Arkhan3 G perso3
+L38D25
+ D'énormes roches, couvertes de mousse. XXX
+// Arkhan3 G (frappe/pousse les rochers) perso3
+L38D26
+ Rah! Non, trop lourds! XXX
+// Arkhan2 G perso2
+L38D27
+ Ces racines sont gigantesques... XXX
+// Arkhan3 G perso3
+L38D28
+ Des racines... énormes... XXX
+// Arkhan2 G perso2
+L38D29
+ Le sentier s'arrête là. XXX
+// Arkhan3 G perso3
+L38D30
+ Plus de sentier. XXX
+// Arkhan2 G perso2
+L38D31
+ Des arbres immenses... XXX
+// Arkhan3 G perso3
+L38D32
+ Des arbres immenses... XXX
+// Arkhan2 G perso2
+L38D33
+ J'ai jamais vu une plante de cette taille! XXX
+// Arkhan3 G perso3
+L38D34
+ Jamais vu une plante de cette taille! XXX
+// Arkhan2 G perso2
+L38D35
+ Ce tronc est gigantesque. XXX
+// Arkhan3 G perso3
+L38D36
+ Quel tronc! XXX
+// Arkhan2 L (pensif devant étang)perso2
+L38D37
+ Etrange, on dirait que l'eau scintille. XXX
+// Arkhan2 L perso2
+L38D38
+ Ca a pas l'air trop profond... XXX
+// Arkhan2 O perso2
+L38D39
+ Encore de l'eau! J'ai jamais pris autant de bains de ma vie! XXX
+// Arkhan3 L perso3
+L38D40
+ L'eau, elle... scintille... XXX
+// Arkhan3 L perso3
+L38D41
+ Pas profond. XXX
+// Arkhan3 O perso3
+L38D42
+ De l'eau! Encore! XXX
+// Arkhan2 G (touche le gardien mystique)perso2
+L38D43A
+ La pierre est douce et chaude... XXX
+// Arkhan2 G (touche le gardien mystique)perso2
+L38D43B
+ Mes doigts... ils sont comme engourdis. XXX
+// Arkhan3 G (touche le gardien mystique)perso3
+L38D44A
+ La pierre est chaude...  XXX
+// Arkhan3 G (touche le gardien mystique)perso3
+L38D44B
+ Mes doigts... Tout engourdis... XXX
+// Arkhan2 G perso2
+L38D45
+ Un escalier... construit il y a peu... XXX
+// Arkhan2 G perso2
+L38D46
+ L'escalier se perd là-haut dans les lianes. XXX
+// Arkhan3 G perso3
+L38D47
+ Un escalier... pas vieux... XXX
+// Arkhan3 G perso3
+L38D48
+ Ca grimpe dans les arbres... XXX

@@ -1,0 +1,1156 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL08.TXT
+ // Delia (panicked) perso10
+L08D215A
+ #lqZi! XXX
+// Delia (panicked) perso10
+L08D215B
+ &ji nZh... CZfZ|-nj n]Zlx dc ElZfZ! XXX
+// Delia (panicked) perso10
+L08D215C
+ Pnj... Pnj iZh _agZnx? XXX
+// Arkhan2 G perso2
+L08D217A
+ Fa ]jgioem|, | lZc[alomx m iae... XXX
+// Arkhan2 G perso2
+L08D217B
+ Pnj [w id kljdcjtgj, ia _]d^Zem| m hamnZ! XXX
+// Arkhan3 G perso3
+L08D218
+ X snj-id[o_x kld_ohZz... Jnje c_amx! XXX
+// Kalhi perso33
+L08D153
+ $o_x jmnjljbai, #lqZi. +Z]Ze _albZnxm| ]hamna. XXX
+// Guardian3 perso43
+L08D92
+ KZf nw msdnZatx, snj ynjn klj]d_ar ia ]l~n... Pnj P~liwe mZ]Zi - laZgxiZ| o^ljcZ _g| iZm? XXX
+// Guardian4 perso44
+L08D93A
+ X ia ciZz... XXX
+// Guardian4 perso44
+L08D93B
+ Fj kjmga kjfotaid| iZ &agdfoz klj]d_dro iZh gosta _albZnx oqj ]jmnlj! XXX
+// Guardian4 perso44
+L08D93C
+ <mgd ynZ hlZcx ]ali~nm|, o hai| amnx _g| idq mzlkldc! XXX
+// Guardian3 perso43
+L08D94A
+ K]j| klZ]_Z! Gid cZkgZn|n cZ mhalnx +ba_ZlZ mj[mn]aiije flj]xz! XXX
+// Guardian3 perso43
+L08D94B
+ A cZ nj, snj mjn]jldgd m #lqZijh! XXX
+// Guardian4 perso44
+L08D95
+ # snj iZms~n &agdfje Hlj]d_drw? XXX
+// Guardian3 perso43
+L08D96A
+ Hjmga j[v|]gaid| ]jaiij^j kjgjbaid| jiZ oflwgZmx ] iZ_~bijh hamna. XXX
+// Guardian3 perso43
+L08D96B
+ +jlfZi _albdn mdnoZrdz kj_ fjinljgah. XXX
+// Guardian4 perso44
+L08D97A
+ +Z! *j]jl|n, >a_ maesZm ] Fdbiah ^jlj_a, jqjndnm| iZ n]Zlae, fjnjlwa ynj m_agZgd... XXX
+// Guardian4 perso44
+L08D97B
+ DZ_ij, kjtgd. Dosta ]alionxm| iZ m]jd kjmnw. XXX
+// Guardian5 perso45 
+L08D223
+ Hlj]d_rw ^j]jl|n, ji ]j ]gZmnd ElZfZ! A ji [jgxta ia j_di dc iZm! XXX
+// Guardian6 perso46
+L08D224A
+ Fj ynj ia ciZsdn, snj ji cZj_ij m fjifZgdnZhd! XXX
+// Guardian6 perso46
+L08D224B
+ <mgd [w #lqZi kldsdidg ]la_ &agdfje klj]d_dra, jiZ [w mfZcZgZ j[ ynjh. XXX
+// Guardian5 perso45
+L08D225A
+ Gnfo_Z nw ciZatx? +jlfZi d [gdcfj idfj^j ia kj_komfZan f &agdfje Hlj]d_dra. XXX
+// Guardian5 perso45
+L08D225B
+ EalZ [acjkZmijmnd. XXX
+// Guardian6 perso46
+L08D226
+ Fdfnj ia cZmnZ]dn hai| kj]aldnx, snj #lqZi kla_Znagx. XXX
+// Guardian5 perso45
+L08D227A
+ #^Z... amgd ynZ [jgacix oba ia kljidfgZ ] a^j [Ztfo... XXX
+// Guardian5 perso45
+L08D227B
+ Fa ]jgioem|, amgd ji ]wfdian fjgaira, | a^j tg~kio! XXX
+// Guardian5 perso45
+L08D316
+ Gid iZtgd snj-id[o_x? XXX
+// Guardian6 perso46
+L08D317A
+ HjfZ ian... Kjgxfj _a]sjifo, homjludro. XXX
+// Guardian6 perso46
+L08D317B
+ Fj | [w o_d]gm|, jfZbdmx jiZ f ynjho kldsZmniZ... XXX
+// Guardian5 perso45
+L08D318A
+ +Z fZf mfZcZnx! & kjmga_iaa ]lah| non n]jl|nm| obZmij mnlZiiwa ]aud... XXX
+// Guardian5 perso45
+L08D318B
+ & gz[jh mgosZa, homjludfZh ia kjgZ^Zanm| c_amx iZqj_dnm|. XXX
+// Guardian6 perso46
+L08D319
+ Gid kjmZ_dgd a~ ] nzlxho. <mgd jiZ snj-nj ciZan, nj mfjlj mgjhZanm| d cZ^j]jldn. XXX
+// Guardian5 perso45
+L08D320
+ +Z. Fo Z _j naq kjl ^g|_d ] j[Z! XXX
+// Guardian7 perso47
+L08D143
+ JgwqZg? CZ[Zf ^j]jldn, snj iamfjgxfj n]Zlae dc ElZfZ kljidfgj ] Fdbide ^jlj_. XXX
+// Guardian8 perso48
+L08D144A
+ CZ[Zf kljmnj kjhatZiiwe mnZlwe qlws! XXX
+// Guardian8 perso48
+L08D144B
+ $j^ JjgirZ dmkwnw]Zan iZto ]alo. XXX
+// Guardian8 perso48
+L08D144C
+ X ia [amkjfjzmx. $j^ JjgirZ ia jmnZ]dn iZm. XXX
+// Guardian7 perso47
+L08D145A
+ X ia ciZz... L hai| holZtfd jn ]ma^j ynj^j. XXX
+// Guardian7 perso47
+L08D145B
+ # snj amgd ijsx idfj^_Z ia cZfjisdnm|? XXX
+// Guardian8 perso48
+L08D146A
+ Vnj kljmnj mhatij! XXX
+// Guardian8 perso48
+L08D146B
+ Kw iZko^Zi, ]jn kjsaho nw [j^jqogxmn]oatx! XXX
+// Kalhi perso33
+L08D220
+ Hje_~h, iZ_j ]w[dlZnxm| jnmz_Z. FZm d nZf ]d_agj mgdtfjh hij^j iZlj_o... XXX
+// Kalhi perso33
+L08D321
+ #lqZi, ia jnqj_d _Zgafj! XXX
+// Kalhi perso33
+L08D322
+ Pnj nw _agZatx? XXX
+// Kalhi perso33
+L08D323
+ #lqZi, [o_x l|_jh mj hije! XXX
+// Kalhi2 (whispers) perso33
+L08D209A
+ $o_x l|_jh mj hije d ia jnqj_d _Zgafj. XXX
+// Kalhi2 (whispers) perso33
+L08D209B
+ KZh mnlZb! XXX
+// Kalhi (stunned) perso13
+L08D335A
+ Kw... nw ]aliogm| hai| kldfjisdnx? XXX
+// Kalhi (stunned) perso13
+L08D335B
+ Pnj cZmnZ]dgj na[| m_agZnx ynj? XXX
+// Kalhi (close to tears) perso13
+L08D335C
+ VnZ iZkZmnx kjhondgZ n]je oh! XXX
+// Kalhi perso13
+L08D157
+ #lqZi, ]j dh| gz[]d $j^Z JjgirZ, kjnjljkdmx! XXX
+// Kalhi perso13
+L08D156
+ <mgd hw [o_ah njlsZnx c_amx d _Zgxta, iZm fnj-id[o_x cZhandn! XXX
+// Kalhi perso13
+L08D155
+ #lqZi, iZ_j ]w[dlZnxm| jnmz_Z! XXX
+// Guardian10 perso50
+L08D310
+ &agdfde JjgZZl! Kw njn hjimnl! XXX
+// Kalhi perso13
+L08D158
+ X kj_jb_o c_amx. Jfjlaa! XXX
+// Guardian3 perso43
+L08D303
+ $ala^dmx!
+// Guardian6 perso46
+L08D304
+ $ala^dmx!
+// Guardian7 perso47
+L08D305
+ $ala^dmx!
+// Guardian8 perso48
+L08D147
+ &m~, | kj_idhZzmx. Eia iobiw [jakldkZmw! XXX
+// Guardian7 perso47
+L08D148
+ *g|_d ] j[Z!
+// Guardian7 (shouting in Arkhan's direction) perso47
+L08D149
+ Kon fnj-nj kwnZanm| kljmfjgxcionx! XXX
+// Guardian5 perso45
+L08D141
+ Cnj d_~n? XXX
+// Guardian6 (towards A.) perso46
+L08D124
+ Jnje! Cnj d_~n? XXX
+// Guardian3 (after Arkhan's battle cry) perso43
+L08D01
+ Pnj iZ na[| iZtgj? XXX
+// Guardian4 (after Arkhan's battle cry) perso44
+L08D02
+ X na[a cZnfio kZmnx! XXX
+// Guardian5 perso45
+L08D270
+ X kldlabo na[| fZf m]dixz! XXX
+// Guardian6 (attacked by A.) perso46
+L08D140
+ Ka[a hai| ia ]c|nx! XXX
+// Guardian4 perso44
+L08D242
+ GmnZij]dna a^j! XXX
+// Guardian3 (alarmed to see A. advance, addresses his partner as if to say "what do we do now"?) perso43
+L08D243
+ *Zli?! XXX
+// Guardian4 (taking out his weapons, frightened) perso44
+L08D222
+ P~ln ]jcxhd, ynj _ahji dc ElZfZ! XXX
+// Guardian3 perso43
+L08D241
+ *Zli, [ala^dmx! XXX
+// Guardian4 perso44
+L08D324
+ Ve, nw nZh! Jnje! XXX
+// Guardian10 perso50
+L08D229
+ Hld]an, flZmZ]drZ! XXX
+// Kalhi perso33
+L08D312A
+ Hld]anmn]oz na[|, mnlZb j^i|. XXX
+// Kalhi perso33
+L08D312B
+ X mjklj]jb_Zz ynj^j kgaiidfZ ] ^jmkdnZgx. XXX
+// Guardian10 perso50
+L08D210
+ Ve, mhjnld, n]je kgaiidf o[a^Zan! XXX
+// Guardian10 perso50
+L08D311
+ Ve, nw! A fo_Z ynj nw mj[lZgm|?! XXX
+// Kalhi perso13
+L08D230
+ Kw hj^ [w hia qjn| [w kjhjsx dc[Z]dnxm| jn ynj^j mnlZbZ! XXX
+// Guardian3 (attacked by Arkhan) perso43
+L08D152
+ Ve! Halahdlda! XXX
+// Guardian3 (A. puts away his weapon) perso43
+L08D235
+ +lo^ja _agj! XXX
+// Arkhan1 L perso1
+L08D03
+ +Z kla[o_an m nj[je J]an, KamqZi. XXX
+// Guardian3 perso43
+L08D04
+ A m nj[je kla[o_an J]an, #lqZi. XXX
+// Arkhan1 L perso1
+L08D05
+ Pah nw cZi|n? XXX
+// Guardian3 perso43
+L08D06A
+ Kw ia mgwqZg? &agdfde >a_ ^jnj]dnm| f ij]je yfmka_drdd ] >ahgd ElZfZ. CZkdnZi Ma_jld| jn_ZgZ lZmkjl|baida kjhjsx aho. XXX
+// Guardian3 perso43
+L08D06B
+ CZf nw ]d_dtx, foso hZtdi iZ_j jnlahjindlj]Znx, kjfZ ji c_amx. XXX
+// Guardian3 perso43
+L08D06C
+ # ji jn[w]Zan mj mga_ozudh ]jmqj_jh $j^Z JjgirZ! XXX
+// Arkhan1 L perso1
+L08D07
+ +Z o na[| kjgij lZ[jnw! XXX
+// Guardian3 perso43
+L08D08
+ X-nj mklZ]gzmx - ]ma^_Z kld|nij kjhj^Znx nZfjho kZliz, fZf >a_. Hj]acgj na[a nZfj^j _lo^Z dhanx... XXX
+// Arkhan1 L perso1
+L08D17
+ Eia kjlZ cZmnokZnx iZ kjmn ] &agdfjh qlZha. XXX
+// Guardian3 perso43
+L08D18
+ +Z. +ba_Zl, iZ]alija, oba nZh... XXX
+// Arkhan1 L perso1
+L08D19
+ Kw ] folma, snj kljdmqj_dn? XXX
+// Guardian3 perso43
+L08D20A
+ &agdfZ| Hlj]d_drZ ]mnlasZanm| mj homjludfZhd. X _ohZz, jid m_agZgd fZfja-nj jnflwnda. XXX
+// Guardian3 perso43
+L08D20B
+ Fa ]jgioem|, amgd +jlfZi kjmgZg njgxfj ]Zm m +ba_Zljh, ynj ia_jg^j cZeh~n... XXX
+// Arkhan1 L perso1
+L08D236
+ X kjt~g, _j ]mnlasd. XXX
+// Guardian3 (1st time) perso43
+L08D237
+ L_Zsd, #lqZi. XXX
+// Guardian3 (2nd time, impatient) perso43
+L08D238
+ +Z. Pnj b, na[a kjlZ jnklZ]g|nxm|! XXX
+// Arkhan1 O (mumbles) perso1
+L08D10
+ E-h-h... KamqZi. XXX
+// Arkhan1 O perso1
+L08D11
+ &m~ iZ_lw]Zatxm| kjs~h cl|? XXX
+// Guardian3 perso43
+L08D12
+ Qondtx? CZkdnZi Ma_jld| kljmdgZ kjhjsx iZtaho ]agdfjho >a_o kj_^jnj]dnxm| f [o_ouae yfmka_drdd. XXX
+// Arkhan1 O perso1
+L08D13A
+ Pnj cZ kZltd]Z| bdcix - [wnx mnlZbah j^i|! Eia iobij [wgj kjend kj mnjkZh jnrZ d mnZnx klj]d_rah! XXX
+// Arkhan1 O perso1
+L08D13B
+ &ma^j-nj _ag: [jlhjsd ma[a kljkj]a_d ]j mgZ]o $j^Z JjgirZ ]lah| jn ]lahaid. XXX
+// Arkhan1 O perso1
+L08D13C
+ # jmnZgxija ]lah| ji klj]j_dn, onfio]tdmx ijmjh ] mnZlwa kwgxiwa d idfjho iakji|niwa _jfohainw... XXX
+// Guardian3 perso43
+L08D14A
+ Fa ^j]jld nZf. IdgmZ_Zl - j_di dc ho_laetdq d iZd[jgaa o]ZbZahwq gz_ae ] mnZggZena. XXX
+// Guardian3 perso43
+L08D14B
+ Gi kldhal _g| ]maq jmnZgxiwq klj]d_ra]. XXX
+// Arkhan1 O perso1
+L08D23A
+ DZ_ij, hai| b_~n hj| londiZ. X _jgbai mnj|nx iZ kjmno ] cZga &agdfj^j qlZhZ ]hamna m +ba_Zljh. XXX
+// Arkhan1 O perso1
+L08D23B
+ &jn [o_an cZ[Z]Z! Vnj njsij _jgbij oflZmdnx hje _aix! XXX
+// Guardian3 perso43
+L08D24
+ JgotZe, na[a au~ kj]acgj. G[wsij ] nZfdq mgosZ|q +jlfZi kjmwgZan ia haixta _am|nfZ mnlZbae, d jid sZmZhd mnj|n ] mnljz. XXX
+// Arkhan1 O perso1
+L08D239A
+ JkZmd[j. X ]dbo, jn na[| onataid| b_Znx [amkjgacij. XXX
+// Arkhan1 O perso1
+L08D239B
+ Eia gdtx iZ_j iZnZmfZnx o^g|, d nj^_Z... XXX
+// Guardian3 perso43
+L08D240
+ IZc]gafZem|! XXX
+// Arkhan2 L perso2
+L08D126
+ KamqZi, ia ko^Zem|! XXX
+// Guardian3 (can't believe his eyes) perso43
+L08D127
+ #lqZi... Kw... y... Pnj cZ kljfg|nda kjmnd^gj na[|? XXX
+// Arkhan2 L perso1
+L08D100B
+ Ka n]Zld, snj iZkZgd iZ &agdfoz klj]d_dro, jnlZ]dgd hai|. XXX
+// Arkhan2 L perso1
+L08D100C
+ A hia iobij iZend mkjmj[ dcgasdnx yno [jgacix. XXX
+// Guardian3 perso43
+L08D129A
+ Fa [amkjfjem|. +jlfZi kalaflwg ]ma ]wqj_w. XXX
+// Guardian3 perso43
+L08D129B
+ Ew kjehZah ]maq naq ^Z_j]. >a_ gdsij jnklZ]dgm| jnwmfZnx dq. XXX
+// Guardian3 perso43
+L08D129C
+ Fa mjhia]Zem|, na n]Zld, snj kjmhagd iZkZmnx iZ Djld, kjkgZn|nm| bdcixz! XXX
+// Guardian3 perso43
+L08D129D
+ K]Zld, fjnjlwa mjn]jldgd... nZfja... m nj[je... XXX
+// Arkhan2 L perso2
+L08D130A
+ Ve, KamqZi, ia mhjnld nZf iZ hai|! XXX
+// Arkhan2 L perso2
+L08D130B
+ X ]m~ au~ mnlZb j^i|, nZfje ba, fZf nw. XXX
+// Guardian3 perso43
+L08D131
+ JgotZe... Ka[a iobij kjend f fjhai_Zino. XXX
+// Arkhan2 O perso2
+L08D132
+ Ve, q]Zndn! HlaflZnd iZ hai| k|gdnxm|, [o_nj | n]Zlx dc Kxhw! XXX
+// Arkhan2 O perso2
+L08D133A
+ L hai| ]m~ nagj ^jldn jn ynje jnlZ]w! XXX
+// Arkhan2 O perso2
+L08D133B
+ Eia iZ_j mkatdnx. FZ_j iZend gafZlmn]j. XXX
+// Guardian3 perso43
+L08D134
+ <mgd nw [jgai, mqj_d f ragdnag|h. XXX
+// Arkhan2 O perso2
+L08D135
+ &l|_ gd nw au~ sah-nj hjbatx hia kjhjsx... XXX
+// Arkhan1 L perso1
+L08D25
+ Ve, ia qjsatx ^gjnionx? XXX
+// Guardian3 perso43
+L08D26
+ Kw ciZatx, tnjgg - ynj ia kj hia! XXX
+// Arkhan1 L perso1
+L08D27
+ L]alai? Kjsij ia qjsatx kdnx? XXX
+// Guardian3 perso43
+L08D28
+ >Z[o_x. X ia gz[dnagx jn ynj^j ^ld[ij^j kjegZ. XXX
+// Arkhan1 O perso1
+L08D29
+ Ve, kdnx qjsatx? L hai| non kjgiZ| pg|^Z tnjggZ! XXX
+// Guardian3 perso43
+L08D30
+ >Z[o_x. X mfZcZg, snj ia gz[gz tnjgg! XXX
+// Arkhan1 O perso1
+L08D31
+ Kw fnj, mnlZb j^i| dgd fZfje-nj qgzkdf dc Fdbia^j ^jlj_Z? +Z]Ze, ]wkae! XXX
+// Guardian3 perso43
+L08D32
+ Gnrakdmx, #lqZi. Fa qjso | n]ja^j ^ld[ij^j kjegZ! XXX
+// Arkhan1 G perso1
+L08D33
+ Vnjn kla_han na[a j s~h-nj ^j]jldn? XXX
+// Guardian3 perso43
+L08D34
+ Fan. GnmnZix. XXX
+// Guardian3 perso43
+L08D325
+ GnmnZix! XXX
+// Arkhan1 G perso1
+L08D37
+ Ve! Lmkjfjem|! XXX
+// Guardian3 perso43
+L08D232
+ Fo, kj^j_d, hjimnl! XXX
+// Guardian4 perso44
+L08D221
+ #lqZi?.. XXX
+// Guardian4 perso44
+L08D151
+ Ve... Hjga^sa! XXX
+// Arkhan1 L perso1
+L08D39
+ +Z kla[o_an m nj[je J]an, *Zli. XXX
+// Guardian4 perso44
+L08D40
+ +Z kla[o_an m nj[je J]an, #lqZi. XXX
+// Guardian4 perso44
+L08D41
+ X iZ kjmno. +jlfZi kldfZcZg hia jmnZ]Znxm| c_amx _j jmj[j^j o]a_jhgaid|. XXX
+// Arkhan1 L perso1
+L08D48
+ Eia iobij cZmnokZnx iZ kjmn ] &agdfjh qlZha. XXX
+// Guardian4 perso44
+L08D49
+ & ]agdfjh qlZha, _Z? XXX
+// Guardian4 perso44
+L08D50
+ Fo, nZf mnokZe - konx m]j[j_ai! XXX
+// Arkhan1 L perso1
+L08D51
+ Kw ciZatx, snj nZh kljdmqj_dn? XXX
+// Guardian4 perso44
+L08D52A
+ CZfja-nj mj]auZida m &agdfje klj]d_drae, ]lj_a nj^j... XXX
+// Guardian4 perso44
+L08D52B
+ Ja^j_i| ia n]je _aix. G[wsij iZh cZlZiaa ^j]jl|n, d hw ]ma jnklZ]g|ahm| ]hamna. XXX
+// Arkhan1 L perso1
+L08D42
+ FZ_azmx, kj]amagdhm|. XXX
+// Guardian4 perso44
+L08D43
+ +Z, d |... XXX
+// Arkhan1 O perso1
+L08D53
+ Ve, *Zli, ]jn ob cZq]Znw]ZzuZ| lZ[jn~ifZ... XXX
+// Guardian4 perso44
+L08D54
+ Jhaem|-mhaem|, #lqZi! Cnj ciZan, hjban, +jlfZio kld_~n ] ^jgj]o, snj[w nw mhaidg hai| ijsxz... XXX
+// Arkhan1 O perso1
+L08D45
+ Fa mgdtfjh non ]amagj, _Z? XXX
+// Arkhan1 O perso1
+L08D55
+ Jfosij]Znj non, ]alij? L hai| ]jn njba njmfgd]ja cZ_Zida: | _jgbai cZmnokdnx iZ kjmn ] cZga &agdfj^j qlZhZ. XXX
+// Arkhan1 O perso1
+L08D46
+ Gngdsij, nZf _albZnx! <mgd kj]ac~n, +jlfZi na[| kjhai|an _j nj^j, fZf nw kljnl~tx kj_jt]w _j _wl! XXX
+// Guardian4 perso44
+L08D47A
+ Fo _Z... Ejban, hia mnjdn mfZcZnx aho, snj nw ia ciZatx, sah cZi|nxm|, d hjbatx mhaidnx hai|! XXX
+// Arkhan1 O perso1
+L08D56
+ Pnj b, ia qjso cZ_albd]Znx! J_Z~nm| hia, na[a au~ njkZnx d njkZnx! XXX
+// Guardian4 (irritated by Arkhan and beginning to get nasty) perso44
+L08D57
+ Hjc]jgx _Znx na[a hZgaixfde mj]an: klj]Zgd]Ze gosta, Z ia nj iZfgdsatx klj[gahw... XXX
+// Arkhan2 L perso2
+L08D98A
+ &m~ ] kjl|_fa, *Zli, ynj |. XXX
+// Arkhan2 L perso2
+L08D98B
+ X ia fomZzmx! XXX
+// Guardian4 (still not reassured) perso44
+L08D99A
+ Fan... Cjiasij... Fj nw... dchaidgm|. XXX
+// Guardian4 (still unsure) perso44
+L08D99B
+ Fdsa^j gdsij^j, ij fZf | kjeho, snj nw ^j]jldtx klZ]_o? XXX
+// Arkhan2 L perso1
+L08D100A
+ *Zli, | ciZz, snj na[a iZ^j]jldgd, d dh iZ_j, snj[w nw kj]aldg... ij | ia m_agZg idsa^j _olij^j. XXX
+// Guardian4 perso44
+L08D101A
+ +Z... X na[a ]alz. XXX
+// Guardian4 perso44
+L08D101B
+ Kw _lo^ _j[gamnij^j >a_Z, d | na[a _j]al|z. XXX
+// Guardian4 perso44
+L08D101C
+ Fj +jlfZi j[v|]dg ]jaiija kjgjbaida. &maq iac]Ziwq ^jmnae jngZ]gd]Zzn j_ij^j cZ _lo^dh. XXX
+// Guardian4 perso44
+L08D101D
+ Kw _jgbai kjend lZmmfZcZnx aho, snj m nj[je mnl|mgjmx. XXX
+// Arkhan2 L perso1
+L08D102A
+ X ]m~ au~ mnlZb j^i|. XXX
+// Arkhan2 L perso1
+L08D102B
+ Cg|iomx $j^jh JjgirZ, ynj klZ]_Z! XXX
+// Guardian4 perso44
+L08D103A
+ DZ_ij. XXX
+// Guardian4 perso44
+L08D103Z
+ X na[a ]alz. XXX
+// Arkhan2 O (threatening) perso1
+L08D104
+ JgotZe, *Zli, amgd ia qjsatx kjmnlZ_Znx, ia nlj^Ze hai|! XXX
+// Guardian4 perso44
+L08D105A
+ Pnj iZ na[| iZtgj, #lqZi?! XXX
+// Guardian4 perso44
+L08D105B
+ Ew iZ ]jaiijh kjgjbaidd. XXX
+// Guardian4 perso44
+L08D105C
+ X ]alai _jg^o. Eia kga]Znx iZ n]jd o^ljcw! XXX
+// Arkhan2 O perso1
+L08D106A
+ # io, kjmnjljidmx! X _jgbai iZend gafZlmn]j jn ynje _l|id, kjfZ ia kjc_ij! XXX
+// Arkhan2 O perso1
+L08D106B
+ A amgd kjiZ_j[dnm| kjl]Znx kZlo flandij] ]lj_a na[|, | ia cZ_ohZzmx! XXX
+// Guardian4 (furious) perso44
+L08D107A
+ Hlj]d_ar [wg klZ], [jgacix hondn n]je lZmmo_jf. XXX
+// Guardian4 (furious) perso44
+L08D107B
+ & na[a idsa^j ia jmnZgjmx jn mnlZbZ j^i|! XXX
+// Arkhan2 O perso1
+L08D108
+ Hljsx m _jlj^d, hatjf [gjq! XXX
+// Guardian4 (prepares to hit A.) perso44
+L08D109
+ Kw ia jmnZ]dg hia ]w[jlZ! XXX
+// Arkhan1 L perso1
+L08D58
+ L na[|, iZ]alij, kalamjqgj ] ^jlga. &a_x mnjgxfj tZ^Znx ]cZ_-]kal~_! XXX
+// Guardian4 perso44
+L08D59
+ Eia iagxc|. X iZ mgob[a. XXX
+// Arkhan1 L perso1
+L08D60
+ Fo _Z]Ze, m_agZe hdgjmnx. XXX
+// Guardian4 perso44
+L08D61A
+ Fan, klZ]_Z. XXX
+// Guardian4 perso44
+L08D61B
+ >Znj ]asalfjh, fj^_Z cZb^on pjiZld, ^gjnjf-_lo^je ia kj]la_dn. XXX
+// Arkhan1 O perso1
+L08D62
+ +Z]Ze, jn j_ij^j ^gjnfZ fZfje ]la_?! XXX
+// Arkhan1 O perso1
+L08D63
+ Hjgiwe hlZf! +Z nw, | ]dbo, qZibZ kjsdua klj]d_ra]! +Z]Ze ba, ^gjnid! XXX
+// Guardian4 (irritated) perso44
+L08D64
+ JfZcZg ba, ian bagZid|! XXX
+// Arkhan1 G perso1
+L08D65
+ Vnjn kla_han na[a j s~h-nj ^j]jldn? XXX
+// Guardian4 perso44
+L08D66
+ Fan. N]Zndn nlZndnx hj~ ]lah|. XXX
+// Guardian4 perso44
+L08D228
+ Pnj? Fan... Vnj hai| ia dinalamoan. XXX
+// Guardian4 (hit by A.) perso44
+L08D69
+ #lqZi! Fa mqj_d m ohZ! XXX
+// Guardian4 (hit by A.) perso44
+L08D231
+ A klZ]_Z. Kw kjnal|g sagj]asamfde j[gdf! XXX
+// Guardian5 (sees Arkhan2 1st time) perso45
+L08D117A
+ &j dh| IZqZgZ... #lqZi? XXX
+// Guardian5 (awed) perso45
+L08D117B
+ Fa... Fa kj_qj_d [gdba! XXX
+// Guardian5 perso45
+L08D116
+ Fa ^jl|sdmx, | idsa^j ia m_agZg! XXX
+// Arkhan2 L perso2
+L08D244A
+ $ac kZidfd. XXX
+// Arkhan2 L perso2
+L08D244B
+ X ia duo _lZfd. XXX
+// Guardian5 perso45
+L08D245A
+ Njljtj... Njljtj. XXX
+// Guardian5 perso45
+L08D245B
+ Fj na[a gosta o[lZnxm| jnmz_Z... XXX
+// Guardian5 perso45
+L08D245C
+ Kw ]maq c_amx njgxfj iZkl|^Zatx. XXX
+// Arkhan2 L perso2
+L08D246A
+ HjmgotZe, hje jnar IdgmZ_Zl ciZan gafZlmn]j jn ynje [jgacid. XXX
+// Arkhan2 L perso2
+L08D246B
+ A kj]alx hia, | mj[dlZzmx ]wgasdnxm|! XXX
+// Guardian5 (openly hostile) perso45
+L08D247A
+ Fa ]ma klj]d_rw _ohZzn nZf ba, fZf n]je jnar! XXX
+// Guardian5 perso45
+L08D247B
+ Ejban, ian idfZfj^j gafZlmn]Z! XXX
+// Guardian5 perso45
+L08D247C
+ Ka[a [w gosta kj_j[lo o[lZnxm| ] >ahgd ElZfZ, kjfZ fnj-id[o_x ia iZ_ohZg mZh na[| o[lZnx! XXX
+// Guardian5 perso45
+L08D247D
+ Hj_ohZe, kjfZ au~ ia kjc_ij... XXX
+// Arkhan2 L perso2
+L08D248A
+ &dbo, nw ia _j]al|atx hia. XXX
+// Arkhan2 L perso2
+L08D248B
+ Ew au~ ]ali~hm| f ynje naha, fj^_Z | mij]Z [o_o ] ijlha. XXX
+// Arkhan2 L perso2
+L08D249
+ X _jfZbo, snj nw ia klZ], kZlaix. Jfjlj... o]d_dtx. XXX
+// Guardian5 (hostile) perso45
+L08D250
+ X ia mkouo m na[| ^gZc, #lqZi! XXX
+// Guardian5 (threatening) perso45
+L08D258
+ Vnj hw au~ kj^g|_dh... Hj^g|_dh... XXX
+// Arkhan2 O perso2
+L08D251A
+ IZclZcd hai| h^gZ! +Z, ynj |! XXX
+// Arkhan2 O perso2
+L08D251B
+ Fasa^j iZ hai| nZf nZlZudnxm|! XXX
+// Guardian5 perso45
+L08D252A
+ Ka[a... Ka[a gosta o[lZnxm| jnmz_Z. XXX
+// Guardian5 perso45
+L08D252B
+ Cjhai_Zino ia kjilZ]dnm|, amgd n]Zlx ]lj_a na[| non kj]Z_dnm| lwmfZnx. XXX
+// Arkhan2 O perso2
+L08D253A
+ +Z snj cZ ^gokjmnx! XXX
+// Arkhan2 O perso2
+L08D253B
+ CjhZi_dl kjlosdg hia jmj[ja cZ_Zida! XXX
+// Arkhan2 O perso2
+L08D253C
+ KZf snj rakg|em| f fjho-id[o_x _lo^jho, hatjf [gjq! XXX
+// Arkhan2 O perso2
+L08D254A
+ CZf, _ohZatx, | cZdhag nZfje so_iwe b[Zi? X taae ldmfj]Zg, mkZmZ| &agdfoz klj]d_dro, ]jn fZf! XXX
+// Arkhan2 O perso2
+L08D254B
+ # ^_a [wg nw, fj^_Z | ldmfj]Zg m]jae bdcixz, Z? XXX
+// Guardian5 perso45
+L08D255A
+ &agdfZ| klj]d_drZ, Z?.. GiZ [jgxta ia lZc_Z~n c_amx kldfZcw. XXX
+// Guardian5 perso45
+L08D255B
+ J ynj^j _i| mnZggZenjh cZklZ]g|an +jlfZi d idfnj dije! XXX
+// Guardian5 perso45
+L08D255C
+ A cZlo[d ynj ma[a iZ ijmo! XXX
+// Arkhan2 O (pretends to smell something) perso2
+L08D256A
+ Pnj cZ ]jix? XXX
+// Arkhan2 O perso2
+L08D256B
+ Vnj nw! Kw nZf iZko^Zi, snj ]amx kjnaatx, fZf fjc~g... XXX
+// Guardian5 (furious) perso45
+L08D257A
+ #q... nw...! XXX
+// Guardian5 (furious) perso45
+L08D257B
+ JaesZm | ]labo kj n]jae ^ijeije ljba! XXX
+// Guardian5 (afraid and angry) perso45
+L08D260A
+ Hjljb_aida ElZfZ! XXX
+// Guardian5 perso45
+L08D260B
+ Cg|iomx, ynj nw ]j ]m~h ]dij]Zn! XXX
+// Guardian5 perso45
+L08D260C
+ Kw ^ia] &agdfj^j JjgZZlZ iZ]g~f iZ iZm! XXX
+// Arkhan2 L (softly) perso1
+L08D261A
+ HjmgotZe hai|... Lmkjfjem|... XXX
+// Arkhan2 L perso1
+L08D261B
+ X kldt~g mz_Z ] kjdmfZq jn]anZ... XXX
+// Guardian5 perso45
+L08D262A
+ Dbar! <landf! XXX
+// Guardian5 perso45
+L08D262B
+ K]je sZm iZmnZg! XXX
+// Arkhan2 O perso2
+L08D263A
+ Kw au~ c_amx?! XXX
+// Arkhan2 O perso2
+L08D263B
+ X _ohZg, ]w ]ma jnklZ]dgdmx dmfZnx, ^_a [w mkl|nZnx m]je cZ_! XXX
+// Guardian5 perso45
+L08D264
+ Fan! X ia nlom! XXX
+// Arkhan2 O (threatening) perso2
+L08D265A
+ JgotZe, mgzin|e! +jlfZi mhwgm|. Fdfnj idsa^j ia _agZan. XXX
+// Arkhan2 O perso2
+L08D265B
+ <_dimn]aiiwe, fnj au~ hjban mkZmnd mnZggZen, maesZm kl|hj kla_ nj[je! XXX
+// Arkhan2 O perso2
+L08D265C
+ A gd[j nw jnrakdtxm| jn hai|, gd[j | lZchjcbo na[a salak! XXX
+// Arkhan2 O perso2
+L08D265D
+ Xmij? XXX
+// Guardian5 (awed) perso45
+L08D266
+ X... y-y... _Z. X kji|g. XXX
+// Arkhan2 O perso2
+L08D267A
+ Kw jmnZiatxm| c_amx d [o_atx jqlZi|nx m]je kjmn, fZf qjljtde hZgxsdf! XXX
+// Arkhan2 O perso2
+L08D267B
+ <mgd | ]aliomx, Z na[| ian, | na[| lZcwuo, Z kjnjh kldfjiso! XXX
+// Guardian5 (swallowing) perso45
+L08D268
+ X kji|g. XXX
+// Guardian5 (swallowing) perso45
+L08D269
+ +Z, fjiasij... XXX
+// Guardian5 perso45
+L08D119
+ Fan. X ia qjso m nj[je mmjldnxm|! XXX
+// Guardian5 (hit by A.) perso45
+L08D123
+ Hld^jnj]xm| f ]mnlasa m K]jlrjh! XXX
+// Guardian6 (wary, since Arkhan is on guard) perso46
+L08D114A
+ #lqZi?.. Vnj... Vnj nw? XXX
+// Guardian6 perso46
+L08D114B
+ JgotZe... Kw... Kjgxfj ia ]jgioem|, gZ_ij? XXX
+// Guardian6 perso46
+L08D125
+ #lqZi?! Vnj nw?! XXX
+// Guardian6 perso46
+L08D271
+ Po_j]dua! +aliZf, kjhj^d! XXX
+// Guardian6 (confronting A. in combat) perso46
+L08D115
+ Ve! Gmnwix! XXX
+// Guardian6 (A. puts away weapon) perso46
+L08D272
+ KZf-nj gosta. $o_ah [gZ^jlZcohiw. XXX
+// Arkhan2 L perso2
+L08D273A
+ X ciZz, na[| kla_oklab_Zgd j[j hia. XXX
+// Arkhan2 L perso2
+L08D273B
+ Fj kj]alx hia, ]m~, sa^j | qjso, ynj ]alionxm| ] ijlhZgxija mjmnj|ida. XXX
+// Guardian6 perso46
+L08D274A
+ L^o... X ia mnZio na[a klak|nmn]j]Znx. XXX
+// Guardian6 perso46
+L08D274B
+ Fj njgxfj [ala^d m]jz taz. Eij^da dc mnlZbae njgxfj d b_on, snj[w _j[lZnxm| _j na[|. XXX
+// Arkhan2 L perso2
+L08D275
+ Eia iobij gdtx gafZlmn]j jn cZlZcw. XXX
+// Guardian6 perso46
+L08D276
+ +Z... Fj amgd ragdnag|h ia o_Zgjmx... fnj au~ hjban na[| ]wgasdnx? XXX
+// Arkhan2 L perso2
+L08D277
+ X snj-id[o_x iZe_o, ]jn o]d_dtx! XXX
+// Arkhan2 L perso2
+L08D278
+ Kw ia kljnd], amgd | kje_o _Zgxta? XXX
+// Guardian6 perso46
+L08D279
+ +Z. Kjgxfj ia cZ[o_x, hw ]m~ ]lah| c_amx. XXX
+// Guardian6 perso46
+L08D280
+ JnokZe. Fj jmnjljbij. XXX
+// Arkhan2 O perso2
+L08D281A
+ Hjqjba, nw fja-snj ciZatx! XXX
+// Arkhan2 O perso2
+L08D281B
+ L hai| ]a_x ia [o_an m nj[je klj[gah, klZ]_Z? XXX
+// Guardian6 perso46
+L08D282A
+ X ia qjso _lZnxm| m nj[je, #lqZi. XXX
+// Guardian6 perso46
+L08D282B
+ Fj amgd ]wio_dtx, hia kld_~nm| j[iZbdnx has. XXX
+// Arkhan2 O perso2
+L08D283
+ Fa iZ_j iZlw]Znxm|, mnlZb, ia nj d kjbZganx ia omkaatx! XXX
+// Guardian6 perso46
+L08D284
+ #lqZi, [o_x nw ]m~ au~ mnlZbah j^i|, nw [w kji|g - | kljmnj ]wkjgi|z m]je _jg^! XXX
+// Arkhan2 O perso2
+L08D285
+ Hljsx m _jlj^d, mjkg|f! XXX
+// Guardian6 perso46
+L08D286
+ J hai| q]Zndn! XXX
+// Arkhan2 L perso2
+L08D287A
+ Fa kjc]jg|e mnlZqo kala_ nxhje j]gZ_anx nj[je. XXX
+// Arkhan2 L perso2
+L08D287B
+ Ew au~ hjbah ]wkonZnxm|. XXX
+// Guardian6 perso46
+L08D288
+ Kw ^j]jldtx nZf, [o_nj ciZatx, snj kljdmqj_dn! XXX
+// Arkhan2 L perso2
+L08D289
+ +j]alxm| hia, qjljtj? XXX
+// Arkhan2 L perso2
+L08D290A
+ >Z ]mah yndh mnjdn klj]d_ar KZiZi_Zl. XXX
+// Arkhan2 L perso2
+L08D290B
+ Gi [wg cZlZb~i nZf ba, fZf d |. XXX
+// Arkhan2 L perso2
+L08D290C
+ Fj ji _Zg |_o lZclotdnx a^j lZcoh, Z | [o_o [jljnxm| _j mZhj^j fjirZ! XXX
+// Guardian6 perso46
+L08D291
+ FZ_j jmnZij]dnx a^j! *_a ji mflw]Zanm|? XXX
+// Arkhan2 L perso2
+L08D292A
+ Fa ciZz. Fj [o_x jmnjljbai: ji [jgxta ia sagj]af. XXX
+// Arkhan2 L perso2
+L08D292B
+ X _ohZg, snj o[dg a^j, ij ji ia dmsac. XXX
+// Arkhan2 L perso2
+L08D292C
+ Hla_okla_d jmnZgxiwq mnlZbae. <mgd ]w ia o[x~na a^j, ji kala[x~n ]Zm ]maq _j j_ij^j! XXX
+// Arkhan2 L perso2
+L08D293
+ Jhjnldna ] j[Z, qjljtj? XXX
+// Guardian6 perso46
+L08D294
+ Njljtj. Fa [amkjfjem|. XXX
+// Arkhan2 O perso2
+L08D295
+ X kji|g. Kw njba iZ mnjljia nxhw, Z? XXX
+// Guardian6 perso46
+L08D296A
+ >Znfid m]je ljn, #lqZi, amgd ia qjsatx klj[gah! XXX
+// Guardian6 perso46
+L08D296B
+ Ejban, ynj nw ]j ]m~h ]dij]Zn! XXX
+// Arkhan2 O perso2
+L08D297A
+ X mfZbo na[a, snj mgosdgjmx iZ mZhjh _aga! XXX
+// Arkhan2 O perso2
+L08D297B
+ >Z ]mah yndh mnjdn KZiZi_Zl, klj]d_ar. XXX
+// Arkhan2 O perso2
+L08D297C
+ Gi [wg cZlZb~i, ij idfnj ia jmjciZg ynj^j! XXX
+// Arkhan2 O perso2
+L08D297D
+ &w ]ma [wgd mgdtfjh cZi|nw, ^ji||mx cZ hije! XXX
+// Guardian6 perso46
+L08D298
+ *_a ynjn klj]d_ar? XXX
+// Arkhan2 O perso2
+L08D299A
+ <mgd [w | ciZg! XXX
+// Arkhan2 O perso2
+L08D299B
+ Fj amgd ji _j ]Zm _j[al~nm|, [aenamx ia iZ bdcix, Z iZ mhalnx! XXX
+// Arkhan2 O perso2
+L08D299C
+ & i~h idsa^j sagj]asamfj^j. Gi o[d]Zan lZ_d cZ[Z]w. XXX
+// Arkhan2 O perso2
+L08D299D
+ A ob kj]alx hia, iagxc| [wnx o]alaiiwh, snj ji _aemn]dnagxij h~ln]! XXX
+// Arkhan2 O perso2
+L08D300
+ GmnZ]Zem| c_amx d ^g|_d ] j[Zo, kji|g? XXX
+// Arkhan2 O perso2
+L08D301
+ $ala^d ma[|, gZ_ij? XXX
+// Guardian6 perso46
+L08D302
+ Njljtj. XXX
+// Guardian6 perso46
+L08D138
+ >Z[o_x. XXX
+// Arkhan2 G perso2
+L10D02A
+ =_d c_amx. X mfjlj ]aliomx. XXX
+// Arkhan3 G perso3
+L10D02B
+ JaesZm ]aliomx. XXX
+// Arkhan1 G perso1
+L08D306
+ Qnjgg, Zgfj^jgxiwe iZkdnjf dc ^ld[j]. XXX
+// Arkhan2 G perso2
+L08D307
+ Vnj tnjgg. XXX
+// Arkhan3 G perso3
+L08D308
+ Qnjgg. XXX
+// Arkhan1 G perso1
+L08D70
+ Mg|^Z oba kjgiZ... XXX
+// Arkhan2 G perso2
+L08D71
+ Fan, pg|^Z oba iZkjgiaiZ. XXX
+// Arkhan3 G perso3
+L08D72
+ Mg|^Z iZkjgiaiZ! XXX
+// Arkhan1 G perso1
+L02D299
+ Nh! >_amx njgxfj mnZlwa [jsfd... XXX
+// Arkhan2 G perso2
+L02D302
+ Hljmnj ^lo_Z mnZlwq [jsaf... XXX
+// Arkhan3 G perso3
+L02D303
+ *lo_Z mnZlwq [jsaf... XXX
+//Arkhan1 L perso1
+L08D77
+ Cjimal]iwa [Zifd... oba komnwa. XXX
+//Arkhan2 L perso1
+L08D78
+ & [ZifZq idsa^j ian. XXX
+//Arkhan3 L perso1
+L08D79
+ Homnwa [Zifd. XXX
+// Arkhan1 G perso1
+L08D83A
+ DanosZ| fjgamidrZ, dcj[lan~iiZ| mnljdnag|hd. XXX
+// Arkhan1 G perso1
+L08D83B
+ VnZ qdnljohiZ| tnofj]diZ kjgandn, njgxfj kld jsaix mdgxijh ]anla! XXX
+// Arkhan2 G perso1
+L08D84
+ X ia ]dbo, fZf hia kjhjban ynZ ganosZ| fjgamidrZ. XXX
+//Arkhan3 L perso1
+L08D85
+ VnZ tnofZ ia kjhjban... XXX
+// Arkhan1 G perso1
+L08D86A
+ HZlomiZ| fjgamidrZ. XXX
+// Arkhan1 G perso1
+L08D86B
+ KlZimkjlnija mla_mn]j _g| naq, fnj jn]Zbd]Zanm| jnklZ]dnxm| ] >ahgd ElZfZ. XXX
+// Arkhan2 G perso1
+L08D88
+ HZlomiZ| fjgamidrZ _g| ac_w ] >ahg|q ElZfZ. XXX
+// Arkhan3 G perso1
+L08D90A
+ HZlomiZ| fjgamidrZ. XXX
+// Arkhan3 G perso1
+L08D90B
+ Eia id f saho... XXX
+// Arkhan1 G perso1
+L08D328
+ MjinZi j^i|. XXX
+// Arkhan1 L perso1
+L08D329
+ &jc_]d^ion mnljdnag|hd _j hja^j ljb_aid|. XXX
+// Arkhan1 O (imitates Dhorkan, mocking) perso1
+L08D330
+ "*jl_jmnx mnlZbae j^i|". XXX
+// Arkhan2 G perso2
+L08D331A
+ MjinZi j^i|. XXX
+// Arkhan2 G perso2
+L08D331B
+ X oba so]mn]oz dmqj_|ude jn ia^j bZl. XXX
+// Arkhan3 G perso3
+L08D332A
+ MjinZi j^i|. XXX
+// Arkhan3 G perso3
+L08D332B
+ =Zl... kjsnd ia]wijmdh... XXX
+// Arkhan2 G perso2
+L08D500
+ A_~h. Ea_gaiij d kasZgxij. XXX
+// Arkhan3 G perso3
+L08D501
+ A_~h. XXX
+// Delia (not reassured, low voice) perso10
+L08D502
+ Kw ]kal~_... XXX
+// Arkhan2 G perso2
+L08D503
+ Cj^_Z-id[o_x ]d_agZ kj_j[ija? XXX
+// Arkhan3 G perso3
+L08D504
+ Kw ciZatx, snj ynj? XXX
+// Delia (low voice) perso10
+L08D505
+ Fan! #lqZi, kljto na[|... XXX
+// Kalhi perso13
+L08D339
+ Ve! $ala^dmx! XXX
+// Kalhi perso13
+L08D233
+ #lqZi, ian! XXX
+// Kalhi perso13
+L08D234
+ KZf-nj gosta. Lmkjfjem|. XXX
+// Arkhan2 L perso2
+L08D175
+ Ew _jgbiw ]w[lZnxm| iZlobo, ia kld]gafZ| ]idhZid|. XXX
+// Arkhan3 L perso3
+L08D176
+ Hjklj[oe ]wend iZlobo, snj[w na[| ia kjehZgd. XXX
+// Kalhi perso13
+L08D177
+ KZh mnlZb. $o_an iakljmnj. XXX
+// Arkhan2 O perso2
+L08D178
+ Fd j s~h ia _ohZe, kljmnj _aemn]oe! XXX
+// Arkhan3 O perso3
+L08D179
+ Jkal]Z _aemn]oe, kjnjh _ohZe! +Z]Ze! XXX
+// Kalhi perso13
+L08D180
+ Ejbij kjklj[j]Znx j[jend ynj^j mnlZbZ! XXX
+// Arkhan2 G (low voice) perso2
+L08D203
+ $o_x ^jnj]Z _lZnxm|, amgd mnlZb jmnZij]dn iZm! XXX
+// Arkhan3 G (low voice) perso3
+L08D204
+ <mgd mnlZb snj-id[o_x ]wfdian, | j i~h kjcZ[jsomx! XXX
+// Kalhi (whispers) perso33
+L08D205
+ Njljtj. Fj | ia qjso kljgd]Znx flj]x [ac flZeiae iob_w. XXX
+// Arkhan2 G perso2
+L04D66
+ Fa jnmnZ]Ze jn hai| id iZ tZ^, kji|gZ? XXX
+// Arkhan3 G perso3
+L04D67
+ Jga_oe cZ hije! XXX
+// Kalhi perso13
+L04D68
+ Njljtj. XXX
+// Arkhan2 G perso2
+L02D114A
+ Jhjnld, snj | kjcZdhmn]j]Zg o $j^_ZlZiZ. XXX
+// Arkhan2 G perso2
+L02D114B
+ <^j mnZlZ| pjlhZ - ] na _id ji au~ [wg qo_wh! XXX
+// Arkhan3 G perso3
+L02D115
+ &jn, iZ_a]Ze! XXX
+// Kalhi perso13
+L02D116
+ FZ_azmx, kj_je_~n. XXX
+// Kalhi perso33
+L08D213
+ Kw ^g|_d! A_aZgxiZ| hZmfdlj]fZ. XXX
+// Kalhi (taking charge) perso13
+L08D214
+ A_~h, mga_oe cZ hije! XXX
+// Kalhi (refuses to put on uniform...) perso13
+L08D219
+ Kw jn_Ztx a~ hia, fj^_Z hw mkomndhm| ]idc. XXX
+// Kalhi (refuses to put on uniform...) perso13
+L08D212
+ JnlZb mj]mah l|_jh m iZhd, ji cZhandn! XXX
+// Arkhan2 G perso2
+L08D336
+ Hj^g|_d! XXX
+// Arkhan3 G perso3
+L08D337
+ *g|ix! XXX
+// Kalhi perso13
+L08D338
+ Fan ]lahaid, #lqZi, iZh iobij ]w[dlZnxm| jnmz_Z! XXX
+// Arkhan2 G perso2
+L08D333
+ &m~ ynj mgosdgjmx kj n]jae ]dia! XXX
+// Arkhan3 G perso3
+L08D334
+ Vnj ]m~ dc-cZ na[|! XXX
+// Kalhi (forced to defend herself) perso33
+L04D43
+ #lqZi, ian! XXX
+// Guardian10 perso50
+L08D327
+ Ve, n]Zlx! Hjsaho [w na[a ia ]w[lZnx lZ]ij^j kljnd]idfZ? XXX
+// Kalhi perso13
+L08D341
+ Kw ia jmnZ]dg hia ]w[jlZ! XXX
+// Kalhi perso13
+L08D340
+ Fan, klaflZnd! XXX
+// Arkhan2 G (low voice, mocking) perso2
+L08D200A
+ Vnj fj^j o^j_ij j[hZian. Kw ] njsijmnd Ma_jld|. XXX
+// Arkhan2 G (low voice) perso2
+L08D200B
+ +Z]Ze, kjtgd. XXX
+// Arkhan3 G (low voice) perso3
+L08D201
+ FZmnj|ude mnlZb. A_~h! XXX
+// Kalhi (whispers) perso33
+L08D202A
+ +Z]Ze, mhaem| iZ_j hije! XXX
+// Kalhi (whispers) perso33
+L08D202B
+ A_d kl|hj cZ hije nZf, [o_nj nw hje kgaiidf. XXX
+// Kalhi (whispers) perso33
+L08D202C
+ Jkl|sx m]j~ jlobda... XXX
+// Kalhi (whispers) perso33
+L08D202D
+ A mflamnd kZgxrw, snj[w ]m~ mlZ[jnZgj. XXX
+// Kalhi (whispers) perso33
+L08D202E
+ &kal~_! XXX
+// Guardian10 perso50
+L08D326
+ X d_o, mnlZb! XXX
+// Arkhan2 L perso2
+L08D313
+ $ac kZidfd, _lo^, ynj |, #lqZi. XXX
+// Arkhan2 O perso2
+L08D314
+ &c^g|id hia ] ^gZcZ d kjkljuZem| mj m]anjh. XXX
+// Arkhan3 L perso3
+L08D315
+ Lmkjfjem|. Vnj |, #lqZi. XXX

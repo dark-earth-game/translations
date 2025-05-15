@@ -1,0 +1,409 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL19.TXT
+ // Malrot5 (wird A. gegenübertreten) perso65
+L19D88
+ Ist es das, was Du willst? Mach Dich gefechtsbereit! XXX
+// Kalhi perso13
+L19D01
+ Ich danke Dir, Jenna. Das ist genau das, was ich brauchte. XXX
+// Malrot5 perso65
+L19D02
+ Für eine gute Sache steh' ich Dir immer zu Diensten. XXX
+// Kalhi perso13
+L19D03A
+ Arkhan!  XXX
+// Kalhi perso13
+L19D03B
+ Schau, was ich für Dich aufgetrieben hab'. XXX
+// Kalhi perso13
+L19D03C
+ Das ist zwar nicht viel, aber ich hoffe, es wird Dir helfen, durchzuhalten. XXX
+// Arkhan2 G perso2
+L19D04
+ Danke, Kalhi. Das freut mich. XXX
+// Kalhi perso13
+L19D06A
+ Ich werd' versuchen, einen Heiler für Dich zu finden. XXX
+// Kalhi perso13
+L19D06B
+ Nur Mut, Liebster! XXX
+// Arkhan2 G (stolz auf Kalhi) perso2
+L19D07
+ Dieses Mädchen ist einfach unglaublich! XXX
+// Arkhan3 G (stolz auf Kalhi) perso3
+L19D08
+ Sie ist einfach phantastisch! XXX
+// Delia perso10
+L16D122
+ Halt! Du machst mir Angst! XXX
+// Malrot5 (A. macht sich gefechtsbereit) perso65
+L19D94
+ Hey, hör auf damit, Schlammfresser! XXX
+// Malrot5 perso65
+L19D95
+ An Deiner Stelle würd' ich mich nicht so aufregen! XXX
+// Malrot5 perso65
+L19D89
+ Keinen Schritt näher, Verwandelter! XXX
+// Arkhan2 L perso2
+L19D09
+ Licht sei über Dir, Lumpensammlerin. XXX
+// Malrot5 perso65
+L19D10A
+ Hast Du Dich verirrt? XXX
+// Malrot5 perso65
+L19D10B
+ Dann bist Du hier richtig, bei den Lumpensammlern. XXX
+// Arkhan2 O (mustert die Malrot-Frau von Kopf bis Fuß)perso2
+L19D10
+ Verdammt! Was für Beine! XXX
+// Malrot5 (ironisch, tut so, als erinnere sie sich an Arkhans Namen) perso65
+L19D11
+ Sei gegrüßt ... Rattengesicht, das war doch Dein Name, oder? XXX
+// Arkhan2 O perso2
+L19D12
+ Nein, man nennt mich eher den besten Liebhaber des Stalliten. XXX
+// Malrot5 (amüsiert, geht darauf ein) perso2
+L19D13
+ Ich werd's nicht vergessen, schöner Mann. XXX
+// Arkhan2 G perso2
+L19D15
+ Ich heiße Arkhan, Freund der Lumpensammler. XXX
+// Malrot5 (ironisch) perso65
+L19D16A
+ Das gefällt mir schon besser!  XXX
+// Malrot5 (ironisch) perso65
+L19D16B
+ Schön bist Du ja nicht gerade. XXX
+// Malrot5 (ironisch) perso65
+L19D16C
+ Wenn Du dann noch "Arkhan, Mörder der Lumpensammler" heißen würdest, würd' ich anfangen, mir Sorgen zu machen. XXX
+// Arkhan2 L perso2
+L19D17A
+ Ich seh' so aus, weil ich krank bin. XXX
+// Arkhan2 L perso2
+L19D17B
+ Aber mach Dir keine Sorgen, ich beiß nicht. XXX
+// Arkhan2 O perso2
+L19D18
+ Ich bin krank, und deshalb seh' ich so furchbar aus! XXX
+// Malrot5 perso65
+L19D19
+ Wenn Du krank bist, solltest Du Dich an die Heiler in der Oberen Stadt wenden. XXX
+// Arkhan2 L perso2
+L19D20A
+ In der Oberen Stadt bin ich nicht willkommen. XXX
+// Arkhan2 L perso2
+L19D20B
+ Die Hüter des Feuers sind hinter mir her. XXX
+// Malrot5 perso65
+L19D21A
+ Die Hüter des Feuers? XXX
+// Malrot5 perso65
+L19D21B
+ Du hast doch wohl keine Angst vor diesen Schwächlingen!? XXX
+// Arkhan2 L (vergißt nicht, daß er ein ehemaliger Hüter des Feuers ist) perso2
+L19D22A
+ Ähm ... Nein, aber ich hab' was Besseres zu tun, als mich mit ihnen abzugeben! XXX
+// Arkhan2 L perso2
+L19D22B
+ Auf die Hilfe der Heiler kann ich mich auch nicht verlassen. XXX
+// Arkhan2 L perso2
+L19D22C
+ Wenn ich gesund werden will, muß ich das Gegenmittel selbst finden! XXX
+// Arkhan2 O perso2
+L19D23A
+ In der Oberen Stadt werde ich keine Hilfe bekommen. XXX
+// Arkhan2 O perso2
+L19D23B
+ Die Hüter des Feuers haben sich geschworen, mich umzubringen! XXX
+// Arkhan2 O (vergißt nicht, daß er ein ehemaliger Hüter des Feuers ist) perso2
+L19D24A
+ Sie sind ja nicht alle Schwächlinge ... XXX
+// Arkhan2 O perso2
+L19D24B
+ Aber diskutieren kann ich mit ihnen auf keinen Fall. XXX
+// Arkhan2 O perso2
+L19D24C
+ Das gleiche gilt für die Prediger und die Heiler. XXX
+// Arkhan2 O perso2
+L19D24D
+ Kurz, ich kann mich nur auf mich allein verlassen ...  XXX
+// Arkhan2 O perso2
+L19D24E
+ Und natürlich auf die guten Lumpensammler in der Unteren Stadt! XXX
+// Arkhan2 L perso2
+L19D25
+ Kennst Du jemanden, der mir hier helfen könnte? XXX
+// Arkhan2 O perso2
+L19D26
+ Sag mir, wer mir in diesem elenden Nest helfen kann! XXX
+// Malrot5 perso65
+L19D27A
+ Für diejenigen, die wirklich tief im Dreck stecken, ist Armal Sadak die letzte Chance. XXX
+// Malrot5 perso65
+L19D27B
+ Ich glaub' aber nicht, daß er Dir helfen wird. XXX
+// Arkhan2 G perso2
+L19D28
+ Warum denn nicht? XXX
+// Malrot5 perso65
+L19D29
+ Sagen wir's mal so: Die Duftfahne, die Du mitbringst, könnte ihn stören, wenn Du weißt, was ich meine! XXX
+// Arkhan2 G (kennt Armal Sadak) perso2
+L19D30
+ Mach Dir keine Sorgen, er hat einen besseren Geschmack, als Du denkst ... XXX
+// Arkhan2 L perso2
+L19D31
+ Wo find' ich diesen Armal Sadak? XXX
+// Malrot5 perso65
+L19D32A
+ Schlag Dir das aus dem Kopf.  XXX
+// Malrot5 perso65
+L19D32B
+ Falls Du ihn treffen solltest, wird er Dir nur Deine Leiden verkürzen. XXX
+// Arkhan2 L perso2
+L19D33A
+ Hör mir gut zu, ich mein's ernst. Ich will mit Armal Sadak sprechen. XXX
+// Arkhan2 L perso2
+L19D33B
+ Es ist eine Frage von Leben und Tod! XXX
+// Malrot5 perso65
+L19D34A
+ Also gut. Armal Sadak lebt ein bißchen weiter da hinten. XXX
+// Malrot5 perso65
+L19D34B
+ Er wohnt in 'nem alten Schiff. XXX
+// Malrot5 perso65
+L19D34C
+ Aber wenn Du da hinein willst, mußt Du von jemandem empfohlen sein. XXX
+// Arkhan2 L perso2
+L19D35
+ Von wem? Von Danrys? XXX
+// Malrot5 perso65
+L19D36A
+ Nein, von Delia. Das ist die Tänzerin, die hier auftritt. XXX
+// Malrot5 perso65
+L19D36B
+ Maor, der Besitzer, ist nicht gerade gesprächig, aber sie kennt Armal Sadak. XXX
+// Malrot5 perso65
+L19D36C
+ Wenn Du sie überzeugen kannst, hilft sie Dir vielleicht. XXX
+// Malrot5 (zu sich selbst) perso65
+L19D36D
+ Aber bei Deiner Fresse übernehm' ich keine Garantie ... XXX
+// Arkhan2 L perso2
+L19D37
+ Ist das alles, was Du mir sagen kannst? XXX
+// Malrot5 perso65
+L19D38
+ Ich hab' Dir schon zuviel gesagt! XXX
+// Malrot5 perso65
+L19D39
+ Den Rest mußt Du schon selbst machen! XXX
+// Arkhan2 O perso2
+L19D40A
+ Hör mir gut zu, Schlampe! XXX
+// Arkhan2 O perso2
+L19D40B
+ Du wirst Armal Sadak sagen, daß er mir helfen soll, sonst ... XXX
+// Malrot5 (wütend) perso65
+L19D41
+ Ich werd dafür sorgen, daß Du an Deinen Beleidigungen erstickst, Dreckskerl! XXX
+// Arkhan3 L perso3
+L19D42
+ Licht sei... XXX
+// Malrot5 (hat Angst) perso65
+L19D43A
+ Bleib wo Du bist! XXX
+// Malrot5 (hat Angst) perso65
+L19D43B
+ Wer bist Du? Was willst'n Du von mir? XXX
+// Arkhan3 L perso3
+L19D44
+ Mein Name ist Arkhan. XXX
+// Malrot5 (mißtrauisch) perso65
+L19D45A
+ Ich hab' Dich hier noch nie gesehen. XXX
+// Malrot5 (mißtrauisch) perso65
+L19D45B
+ Was ist mit Dir los? XXX
+// Arkhan3 L perso3
+L19D46A
+ Eine Krankheit.  XXX
+// Arkhan3 L perso3
+L19D46B
+ Ich such' ein Gegenmittel. XXX
+// Malrot5 (mißtrauisch) perso65
+L19D47
+ Hier wirst Du nichts finden ... XXX
+// Arkhan3 L perso3
+L19D48
+ Kennst Du jemanden, der mir ... helfen könnte? XXX
+// Malrot5 perso65
+L19D49A
+ Armal Sadak vielleicht... XXX
+// Malrot5 perso65
+L19D49B
+ Würd' mich aber wundern, daß er das tut! XXX
+// Arkhan3 L perso3
+L19D50
+ Wo finde ich Armal Sadak? XXX
+// Malrot5 perso65
+L19D51A
+ Er wohnt da hinten ... in einem Schiff aus Metall... XXX
+// Malrot5 perso65
+L19D51B
+ Es ist aber nicht unbedingt eine gute Idee, dahin zu gehen ... XXX
+// Arkhan3 L perso3
+L19D52
+ Wer kann mir helfen? XXX
+// Malrot5 perso65
+L19D53A
+ Ach, vergiß es, das hab' ich Dir doch schon gesagt! XXX
+// Malrot5 perso65
+L19D53B
+ Zieh Leine! Ich hab' Dir nichts mehr zu sagen! XXX
+// Malrot5 (wird A. angreifen) perso65
+L19D54
+ Ich mach' Dich fertig! XXX
+// Arkhan2 L perso2
+L19D55
+ Nur keine Angst. XXX
+// Arkhan2 O perso2
+L19D56
+ Reg' Dich nicht auf, ich schlag' keine Frauen! XXX
+// Malrot5 perso65
+L19D57
+ Gut, aber bei der nächsten falschen Bewegung bring' ich Dich um! XXX
+// Arkhan2 L perso2
+L19D58
+ Warum regst Du Dich so auf? XXX
+// Arkhan2 O perso2
+L19D59
+ Warum regst Du Dich eigentlich so auf? XXX
+// Malrot5 perso65
+L19D60A
+ Es passieren Dinge hier, die sind nicht normal! XXX
+// Malrot5 perso65
+L19D60B
+ Ich bin keine Frau, die Angst vor 'ner Maus hat.  XXX
+// Malrot5 perso65
+L19D60C
+ Aber ich hab' in der Gasse direkt neben uns Schatten gesehen, die haben sich bewegt. XXX
+// Malrot5 perso65
+L19D60D
+ Schatten ... keine menschlichen ... ein bißchen wie Du.  XXX
+// Malrot5 perso65
+L19D60E
+ Aber die da beißen zuerst und reden dann ... XXX
+// Malrot5 perso65
+L19D60F
+ Wenn Du weißt, was ich mein'! XXX
+// Arkhan2 L perso2
+L19D61
+ Keine Angst, ich beschütz' Dich. XXX
+// Arkhan2 O (provozierend) perso2
+L19D62
+ So sollen sie doch kommen, Deine Schatten, die knöpf' ich mir vor! XXX
+// Arkhan2 G perso2
+L19D63
+ Hast Du noch was anderes gesehen? XXX
+// Malrot5 perso65
+L19D64
+ Nein, aber das reicht mir! XXX
+// Arkhan3 L perso3
+L19D65
+ Keine Angst... XXX
+// Malrot5 (gewalttätig vor Angst) perso65
+L19D66A
+ Such Dir ein anderes Opfer, Ungeheuer! XXX
+// Malrot5 perso65
+L19D66B
+ Willst Du den Stahl meines Schwertes spüren? XXX
+// Arkhan3 L perso3
+L19D67
+ Wovor hast Du Angst? XXX
+// Malrot5 perso65
+L19D68
+ Vor Kreaturen wie Dir! XXX
+// Arkhan3 L perso3
+L19D69
+ Was hast Du gesehen? XXX
+// Malrot5 perso65
+L19D70
+ Halt's Maul und zieh Leine! XXX
+// Malrot5 (A. zeigt ihm einen Gegenstand) perso65
+L19D97
+ Das ist für Dich. XXX
+// Arkhan2 G perso2
+L19D99
+ Sag mal, Lumpensammlerin ... XXX
+// Malrot5 (unterbricht Arkhan) perso65
+L19D100
+ Pack erstmal Deine Waffe weg, die macht mich nervös! XXX
+// Arkhan3 L perso3
+L19D101
+ Ich will wissen, ob... XXX
+// Arkhan2 G perso2
+L19D93
+ Keine Bewegung! XXX
+// Arkhan2 L perso2
+L19D90
+ Wir müssen zur Oberen Stadt hoch. Komm! XXX
+// Delia (unruhig) perso10
+L19D91
+ Ich folge Dir, Arkhan. XXX
+// Arkhan2 O perso2
+L19D92A
+ Wir steigen zur Oberen Stadt hoch.  XXX
+// Arkhan2 O perso2
+L19D92B
+ Bleib schön hinter mir, ich hab' keine Lust, Dich unterwegs zu verlieren! XXX
+// Arkhan3 G perso3
+L14D239
+ Wir fahren zur Oberen Stadt hoch. XXX
+// Delia perso10
+L14D240
+ Geh nur zu, ich folge Dir. XXX
+// Delia (von Arkhan geschlagen) perso10
+L10D95
+ Nein, Du bist wohl verrückt geworden, hör auf! XXX
+// Arkhan2 G perso2
+L19D73
+ Nichts als Schrott ... XXX
+// Arkhan3 G perso3
+L19D74
+ Schrott ... XXX
+// Arkhan2 G perso2
+L19D75
+ Hey, da ist ein Mädchen, das tanzt da drinnen. XXX
+// Arkhan3 G perso3
+L19D76
+ Hmmm... Da ist ein Mädchen, die tanzt... XXX
+// Arkhan2 G perso2
+L19D77
+ Man sieht nicht gerade viel! XXX
+// Arkhan3 G perso3
+L19D78
+ Da ist alles leer ... XXX
+// Arkhan2 G perso2
+L19D79
+ Eine alte Wassermühle. Völlig verrostet. XXX
+// Arkhan3 G perso3
+L19D80
+ Eine alte Wassermühle. XXX
+// Malrot5 perso65
+L19D81
+ Was willst'n Du noch? XXX
+// Arkhan2 G perso3
+L19D83
+ Von hier aus sieht man nichts ... Schade ... XXX
+// Arkhan3 G perso3
+L19D84
+ Ich seh nichts... XXX
+// Arkhan2 G perso2
+L19D85
+ Eine altes verrottetes Faß ... XXX
+// Arkhan3 G perso3
+L19D86
+ Ein altes Faß... XXX

@@ -1,0 +1,397 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\fr\NWDIAL32.TXT
+ // Sordos perso23
+L32D08
+ Ah! Te voilà, mon bon Gork. XXX
+// Sordos perso23
+L32D70
+ Ah! Te voilà Telk! XXX
+// Gork perso31
+L32D12B
+ Moi je vais te faire mal... et toi tu vas gueuler. XXX
+// Kankalite11 perso81
+L32D71
+ T'as besoin de moi, chef? XXX
+// Sordos perso23
+L32D09A
+ Je t'ai trouvé un nouveau compagnon de jeu. XXX
+// Sordos perso23
+L32D09B
+ Tu peux t'amuser avec lui mais ne le tue pas trop vite celui-là. XXX
+// Kankalite11 perso81
+L32D72
+ Compte sur moi, Sordos! XXX
+// Sordos perso23
+L32D05A
+ Alors abruti, ton heure est venue d'être un héros... mort! XXX
+// Sordos perso23
+L32D05B
+ C'est dommage que tu sois pas là pour voir Sparta aux mains des Konkalites. XXX
+// Sordos perso23
+L32D05C
+ Tu peux me croire, le sang coulera à flots autant que le Stohll! XXX
+// Kankalite11 perso81
+L32D73A
+ Gork sera bientôt là avec son petit matériel. XXX
+// Kankalite11 perso81
+L32D73B
+ Tu vas savoir ce que c'est que la douleur, l'ami! XXX
+// Kankalite11 perso81
+L32D73C
+ Ca, je te le promets! (rire mauvais) XXX
+// Gork (stupide)perso31
+L32D10
+ Oui, Sordos. XXX
+// Gork perso31
+L32D12A
+ Sordos a dit moi je peux te faire mal. XXX
+// Gork perso31
+L32D12C
+ Oh oui toi tu vas gueuler! Oui! XXX
+// Kankalite7 (appelle Gork)perso77
+L32D13
+ Hé, Gork, on a de la visite! XXX
+// Kankalite7 perso77
+L32D14
+ Approche mignon! On a quelque chose pour toi! XXX
+// Malfrat6 perso66
+L32D226
+ Laisse moi sortir, vermine! XXX
+// Malfrat6 perso66
+L32D227
+ Armal Sadak vous tuera tous! XXX
+// Malfrat6 perso66
+L32D228
+ Vous allez pas me laisser pourrir dans cette cage! XXX
+// Kankalite3 perso73
+L32D666
+ Hey! Tiens-toi tranquille! XXX
+// Kankalite3 perso73
+L32D667
+ Silence, bâtard! XXX
+// Kankalite3 perso73
+L32D668
+ Toi, tu vas en baver avant de crever! XXX
+// Kankalite3 (voit Arkhan)perso73
+L32D100
+ Hé, d'où tu sors toi?! XXX
+// Malfrat6 (A. a vaincu le Kankalite3)perso66
+L32D225
+ Bien joué, l'ami! XXX
+// Gork perso31
+L32D505
+ Ferme la! XXX
+// Arkhan2 O perso2
+L32D15
+ Viens là gros lard! XXX
+// Arkhan3 O perso3
+L32D16
+ T'as trouvé ton maître, gros lard! XXX
+// Kankalite7 perso77
+L34D778
+ Tu es mort! XXX
+// Kankalite7 perso77
+L34D777
+ On va te mettre en pièce! XXX
+// Arkhan2 G (trouve Dorkhan à moitié mort)perso2
+L32D40
+ C'est Dhorkan! XXX
+// Arkhan3 G (trouve Dorkhan à moitié mort)perso3
+L32D41
+ C'est Dhorkan! XXX
+// Dorkhan (comateux) perso95
+L32D42
+ Huh... XXX
+// Arkhan2 L perso2
+L32D20
+ Dhorkan? Tu es encore en vie! XXX
+// Arkhan2 O perso2
+L32D21
+ Dhorkan! Tu vis encore, espèce de traître?! XXX
+// Arkhan3 L perso3
+L32D22
+ Dhorkan? Tu vis? XXX
+// Arkhan3 O perso3
+L32D23
+ Dhorkan! Encore en vie, vermine! XXX
+// Dorkhan (mourrant)perso95
+L32D24A
+ Arkhan... c'est toi?..  XXX
+// Dorkhan (mourrant)perso95
+L32D24B
+ Ha... je savais que je te reverrais... avant... la fin. XXX
+// Arkhan2 G perso2
+L32D25
+ Oui, j'suis du genre persévérant! XXX
+// Arkhan3 G perso3
+L32D26
+ Oui, je lutterai... jusqu'au bout! XXX
+// Dorkhan (mourrant)perso95
+L32D27A
+ Pour moi, c'est fini... Mes fautes... m'ont rattrapé... XXX
+// Dorkhan (mourrant)perso95
+L32D27B
+ Je... Je voulais... une nouvelle ère pour Sparta... XXX
+// Dorkhan (mourrant)perso95
+L32D27C
+ J'étais prêt à tout... Prêt à pactiser avec Sordos... A le laisser tuer Lory... A lui livrer ton père... XXX
+// Dorkhan (mourrant)perso95
+L32D27D
+ Mais j'ignorais les plans de Thanandar...  XXX
+// Dorkhan (mourrant)perso95
+L32D27E
+ Lui et Sordos... m'ont possédé! XXX
+// Arkhan2 L perso2
+L32D28
+ Tu as une chance de te racheter, dis moi où est Thanandar. XXX
+// Arkhan2 O perso2
+L32D29
+ Tu as vu Thanandar! Parle! XXX
+// Arkhan3 L perso3
+L32D30
+ Thanandar, où est-il? XXX
+// Arkhan3 O perso3
+L32D31
+ Où est Thanandar? Parle! XXX
+// Dorkhan (mourrant)perso95
+L32D32A
+ Non... Je ne sais pas où il est...  XXX
+// Dorkhan (mourrant)perso95
+L32D32B
+ Ne cherche pas... à l'affronter. Ce n'est plus un homme, Arkhan...  XXX
+// Dorkhan (mourrant)perso95
+L32D32C
+ Il était... contaminé... depuis longtemps... XXX
+// Dorkhan (mourrant)perso95
+L32D32D
+ Soleil-Dieu seul sait comment il a pu le cacher... XXX
+// Dorkhan (mourrant)perso95
+L32D32E
+ C'est avec... son sang... que les Konkalites t'ont empoisonné. XXX
+// Dorkhan (mourrant)perso95
+L32D32F
+ Maintenant que l'obscur est entré dans le Stallite... il révèle sa vraie nature... XXX
+// Dorkhan (mourrant)perso95
+L32D32G
+ D'autres créatures... lui obéissent... on ne peut pas l'arrêter... trop tard... (soupir) XXX
+// Arkhan2 L perso2
+L32D33A
+ Dhorkan! Je cherche un lieu que mon père appelait "Le Tombeau". XXX
+// Arkhan2 L perso2
+L32D33B
+ C'est peut-être le seul moyen de sauver Sparta! XXX
+// Arkhan2 O perso2
+L32D34A
+ Tu récoltes les fruits de ta trahison! XXX
+// Arkhan2 O perso2
+L32D34B
+ Mais moi, ils ne m'auront pas! XXX
+// Arkhan3 L perso3
+L32D35A
+ Je cherche un endroit, le "Tombeau".  XXX
+// Arkhan3 L perso3
+L32D35B
+ Il contiendrait une force capable de nous sauver. XXX
+// Arkhan3 O perso3
+L32D36A
+ Tu meurs comme tu as vécu, sans honneur! XXX
+// Arkhan3 O perso3
+L32D36B
+ Moi, je survivrai! XXX
+// Dorkhan (mourrant)perso95
+L32D37A
+ Le seul salut est dans la fuite... Pars, pendant qu'il est encore temps...  XXX
+// Dorkhan (mourrant)perso95
+L32D37B
+ Le Stallite va disparaître... par ma faute... XXX
+// Dorkhan (dernier soupir)perso95
+L32D37C
+ Puisse le Soleil-Dieu me pardonner... XXX
+// Arkhan2 G perso2
+L32D44
+ Il est mort. C'est fini. XXX
+// Arkhan3 L perso3
+L32D46
+ Cette fois c'est fini. XXX
+// Arkhan2 L perso2
+L32D50
+ Zed, que t'ont-ils fait!? XXX
+// Arkhan2 O perso2
+L32D51
+ Tu n'es plus Zed! XXX
+// Arkhan3 L perso3
+L32D52
+ Zed, qu'ont-ils fait!? XXX
+// Arkhan3 O perso3
+L32D53
+ Tu n'es plus Zed! XXX
+// Arkhan2 L perso2
+L32D500
+ Laisse-moi sortir, j'ai quelque chose pour toi. XXX
+// Arkhan2 O perso2
+L32D501
+ Libère-moi tout de suite, gros lard! XXX
+// Arkhan3 L perso3
+L32D502
+ Fais-moi sortir. J'ai quelque chose pour toi. XXX
+// Gork perso31
+L32D503
+ Toi tu fermes ta gueule! XXX
+// Gork perso31
+L32D504
+ Bientôt toi tu supplieras qu'on te tue! XXX
+// Arkhan2 L perso2
+L32D506
+ Laisse-moi sortir, tu le regretteras pas. XXX
+// Kankalite11 perso81
+L32D509A
+ J'me fous de qui tu es, de ce que t'as fait ou de ce que t'as à dire. XXX
+// Kankalite11 perso81
+L32D509B
+ Tout ce que je veux, c'est t'entendre hurler et me supplier. XXX
+// Arkhan2 O perso2
+L32D507
+ Libère-moi tout de suite et je te laisserai vivre! XXX
+// Kankalite11 perso81
+L32D510A
+ T'es trop bon! XXX
+// Kankalite11 perso81
+L32D510B
+ Mais j'crois que j'préfère quand même te garder là pour te torturer. XXX
+// Arkhan3 L perso3
+L32D508
+ Libère-moi, tu le regretteras pas. XXX
+// Kankalite11 perso81
+L32D511A
+ Grogne autant que tu veux! XXX
+// Kankalite11 perso81
+L32D511B
+ Bientôt tu supplieras qu'on t'égorge! XXX
+// Malfrat6 perso66
+L32D102
+ Occupe-toi d'abord de l'autre crasseux! XXX
+// Arkhan2 L perso2
+L32D200
+ Je vais te sortir de là! XXX
+// Malfrat6 perso66
+L32D201
+ Hé, merci l'ami! Tu crois que tu vas y arriver? XXX
+// Arkhan2 L (n'arrive pas à arracher porte)perso2
+L32D202
+ Huh... C'est du solide! XXX
+// Malfrat6 perso66
+L32D203
+ Essaye de trouver un moyen pour crocheter la serrure. XXX
+// Arkhan3 L perso3
+L32D204
+ J'vais te tirer de là! XXX
+// Arkhan3 L perso3
+L32D205
+ Solide! XXX
+// Arkhan2 L perso2
+L32D206
+ J'vais essayer autre chose. XXX
+// Arkhan3 L perso3
+L32D207
+ J'essaye autre chose. XXX
+// Malfrat6 perso66
+L32D208
+ J'apprécie, l'ami. XXX
+// Malfrat6 perso66
+L32D209
+ Fais gaffe, d'autres de ces salopards pourraient arriver! XXX
+// Arkhan2 L perso2
+L32D210
+ Non, ça va pas! XXX
+// Arkhan3 L perso3
+L32D211
+ Non! Pas bon! XXX
+// Arkhan2 L perso2
+L32D212
+ Avec ça, j'vais te l'ouvrir, cette cage! XXX
+// Arkhan3 L perso3
+L32D213
+ J'vais t'ouvrir la cage! XXX
+// Malfrat6 perso66
+L32D214
+ Merci, l'homme, j'te revaudrai ça! XXX
+// Malfrat6 perso66
+L32D217A
+ Tu m'as sauvé la vie, l'ami. J'oublierai pas! XXX
+// Malfrat6 perso66
+L32D217B
+ Moi j'vais essayer de ressortir en un seul morceau. XXX
+// Malfrat6 perso66
+L32D217C
+ Fais gaffe à toi! XXX
+// Arkhan2 O perso2
+L32D218
+ T'as l'air malin dans ta cage! XXX
+// Arkhan3 O perso3
+L32D219
+ T'as l'air stupide là-dedans! XXX
+// Malfrat6 perso66
+L32D220A
+ J'suis un ennemi des Konkalites, comme toi! XXX
+// Malfrat6 perso66
+L32D220B
+ Libère-moi au lieu de te foutre de ma gueule! XXX
+// Arkhan2 O perso2
+L32D221
+ S'ils t'ont mis en cage, ils avaient sûrement une bonne raison! XXX
+// Arkhan3 O perso3
+L32D222
+ C'est étroit, hein! XXX
+// Malfrat6 perso66
+L32D223
+ Fais-moi sortir et j'te montrerai pourquoi ces salopards m'ont enfermé! XXX
+// Malfrat6 perso66
+L32D224
+ Cause toujours... XXX
+// Malfrat6 perso66
+L32D512
+ Hé, doucement! XXX
+// Malfrat6 perso66
+L32D513
+ Tu veux me tuer ou quoi?! XXX
+// Kankalite3 (frappe)perso73
+L32D888
+ Tu parles trop, l'ami! Ca m'fatigue! XXX
+// Kankalite3 (frappe)perso73
+L32D889
+ J'vais te saigner, grande gueule! XXX
+// Kankalite11 perso81
+L32D515
+ Gueule tant que tu veux ! XXX
+// Kankalite11 perso81
+L32D514
+ J'vais t'en mettre plein la gueule! XXX
+// Arkhan2 G perso2
+L32D60A
+ Des cages de torture. XXX
+// Arkhan2 G perso2
+L32D60B
+ Ces Konkalites sont vraiment des salopards. XXX
+// Arkhan3 G perso3
+L32D61A
+ Des cages de torture. XXX
+// Arkhan3 G perso3
+L32D61B
+ Ces Konkalites sont des bâtards! XXX
+// Arkhan2 G perso2
+L32D58
+ Des os humains...   XXX
+// Arkhan3 G perso3
+L32D59
+ Des os... humains. XXX
+// Arkhan2 G perso2
+L32D56
+ Le morceau de viande est complètement brûlé. XXX
+// Arkhan3 G perso3
+L32D57
+ Un bout de viande complètement brûlé. XXX
+// Arkhan2 G perso2
+L32D54
+ Des cages d'animaux, rouillées. XXX
+// Arkhan3 G perso3
+L32D55
+ Des cages rouillées. XXX

@@ -1,0 +1,544 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL28.TXT
+ // Archivist (fearful) perso5
+L28D100
+ Kto tam? XXX
+// Arkhan2 G perso2
+L28D101
+ Arkhan. Pamietasz mnie? XXX
+// Arkhan3 G perso3
+L28D102
+ Arkhan! XXX
+// Archivist (reassured) perso5
+L28D103A
+ Ah, to ty, Arkhan. XXX
+// Archivist perso5
+L28D103B
+ Podejdz blizej, prosze! XXX
+// Arkhan2 L perso2
+L28D01
+ Nie boj sie, starcze! XXX
+// Archivist perso5
+L28D02
+ Ja? Bac sie? A niby kogo, mlody czlowieku? XXX
+// Arkhan2 L perso2
+L28D03A
+ Uh... mnie... XXX
+// Arkhan2 L perso2
+L28D03B
+ Chodzilo mi o to, ze moze cie odrobine wystraszylem... XXX
+// Archivist perso5
+L28D04A
+ Niech cie o to glowa nie boli, moj mlody przyjacielu. Aby wystraszyc starego Sesekhana, trzeba sie o wiele bardziej postarac. XXX
+// Archivist perso5
+L28D04B
+ Wiesz, bedac tyle lat Archiwista, widzialem juz wiele dziwnych rzeczy... XXX
+// Arkhan2 O perso2
+L28D05
+ Nie boj sie, staruszku! XXX
+// Arkhan2 O perso2
+L28D06
+ Chcesz wiedziec? Mnie, rzecz jasna! Przez to jak wygladam, wszyscy na moj widok uciekaja w panice! XXX
+// Arkhan3 L perso3
+L28D07
+ Nie boj sie! XXX
+// Arkhan3 L perso3
+L28D08
+ Uh... Ja... nic... nic. XXX
+// Archivist perso5
+L28D09
+ Wiec. Co cie sprowadza do Archiwisty, mlody czlowieku? Stary Sesekhan nie przyjmuje ostatnio zbyt wielu gosci... XXX
+// Archivist perso5
+L28D11A
+ Eh?... Oh, ktos z wizyta... wybacz mi... w moim wieku, rozumiesz... XXX
+// Archivist	perso5
+L28D11B
+ Bylem tak zajety praca, ze nie slyszalem jak wchodziles... XXX
+// Arkhan2 G perso2
+L28D84
+ Otwarte! XXX
+// Arkhan3 G perso3
+L28D120
+ Otwarte! XXX
+// Archivist perso5
+L28D22A
+ Przykro mi, moj mlody przyjacielu, troszke slabo slysze. Nie bardzo zrozumialem. XXX
+// Archivist perso5
+L28D22B
+ Czy mozesz mowic glosniej? XXX
+// Arkhan2 L perso2
+L28D72A
+ Niech Swiatlosc bedzie z toba, Archiwisto. XXX
+// Arkhan2 L perso2
+L28D72B
+ Jestem Arkhan, syn Patrzacego w Slonce - Rylsadhara. XXX
+// Archivist perso5
+L28D73A
+ Tys jest synem Rylsadhara? XXX
+// Archivist perso5
+L28D73B
+ Wybacz mi, jestem slepy jak kret. Nie poznalem cie. XXX
+// Archivist perso5
+L28D73C
+ Minelo bardzo duzo czasu, od kiedy tu ostatnio zawitales. XXX
+// Archivist perso5
+L28D73D
+ Byles malym berbeciem, kiedy cie ostatni raz widzialem... Milo widziec, zes tak wyrosl... XXX
+// Arkhan2 L perso2
+L28D74
+ Uh... tak, mi tez jest milo... XXX
+// Arkhan2 O perso2
+L28D75
+ Wiec ty jestes Archiwista? Na imie mi Arkhan... XXX
+// Archivist perso5
+L28D76A
+ Witam w Archiwum, Arkhanie... XXX
+// Archivist perso5
+L28D76B
+ Jesli szukasz oswiecenia i wiedzy, zrobie wszystko, by ci pomoc. XXX
+// Arkhan3 L perso3
+L28D77
+ Jestem Arkhan XXX
+// Arkhan2 L perso2
+L28D26
+ Potrzebuje informacji na temat Krypty... XXX
+// Archivist perso5
+L28D27A
+ Krypty... Moze powinienes sie spotkac z Bandorem, Mistrzem Budowniczym. XXX
+// Archivist perso5
+L28D27B
+ Nikt nie zna zakamarkow Stallite lepiej niz on. XXX
+// Arkhan2 L perso2
+L28D28
+ Mistrz Budowniczy... a gdzie go moge znalezc? XXX
+// Archivist perso5
+L28D29A
+ W Palacu Budowniczych, obok Wielkiej Swiatyni. XXX
+// Archivist perso5
+L28D29B
+ Ale nie wiem, czy on tam na pewno bedzie. XXX
+// Archivist perso5
+L28D29C
+ Czesto zachodzi do Nizszego Miasta, aby nadzorowac place budowy. XXX
+// Arkhan2 O perso2
+L28D30
+ Co wiesz o Krypcie, ktora znajduje sie tu w poblizu? XXX
+// Arkhan2 O perso2
+L28D31
+Ach tak? A gdzie znajde tego "Bandora"? XXX
+// Arkhan3 L perso3
+L28D32
+ Archiwisto, musze dostac sie do tajemniczej Krypty! XXX
+// Arkhan3 L perso3
+L28D33
+ Gdzie ona sie znajduje? XXX
+// Arkhan2 L perso2
+L28D34
+ Archiwisto, madry z ciebie czlek. Czy wiesz moze cokolwiek na temat dziwnej choroby, na ktora zapadlem? XXX
+// Archivist perso5
+L28D35A
+ Czarna Zgnilizna. Tak, slyszalem o niej. XXX
+// Archivist perso5
+L28D35B
+ Nie jestem uzdrowicielem jak Patrzacy w Slonce Thanandar, lecz wiadomym mi jest, ze to straszna choroba. XXX
+// Archivist perso5
+L28D35C
+ Mowisz, ze kto jest chory? XXX
+// Arkhan2 L perso2
+L28D36A
+ Uh... moj przyjaciel. XXX
+// Arkhan2 L perso2
+L28D36B
+ Czy znasz lekarstwo? XXX
+// Archivist perso5
+L28D37A
+ Niestety, nie. Uzdrowiciele od wiekow bezskutecznie staraja sie znalezc antidotum. XXX
+// Archivist perso5
+L28D37B
+ Tak naprawde nikt nigdy nie zdolal wyleczyc sie z Czarnej Zgnilizny. XXX
+// Arkhan2 L perso2
+L28D38
+ Odnajde lekarstwo! XXX
+// Arkhan2 O perso2
+L28D39
+ Musze znalezc lekarstwo na te zaraze, ktora toczy moje cialo! XXX
+// Arkhan2 O perso2
+L28D40
+ Jestem chory, ty smierdzacy stary pryku! Musisz znac lekarstwo! XXX
+// Arkhan2 O perso2
+L28D41
+ Dziekuje, bardzo mi pomogles! XXX
+// Arkhan3 L perso3
+L28D42
+ Szukam lekarstwa na te chorobe! XXX
+// Arkhan3 L perso3
+L28D43
+ Czy znasz lekarstwo? XXX
+// Arkhan3 L perso3
+L28D44
+ Do diabla! XXX
+// Arkhan2 L perso2
+L28D45
+ A moze wiesz cos wiecej, co...mogloby mi pomoc? XXX
+// Archivist perso5
+L28D46
+ Przykro mi, moj mlody przyjacielu, nie wiem, co jeszcze moglbym ci rzec... XXX
+// Arkhan2 O perso2
+L28D47
+ Krew sie we mnie burzy! Moglbys przynajmniej sie postarac! XXX
+// Archivist perso5
+L28D48A
+ Mlodys i krew u ciebie goraca. Potrzebujesz wiecej spokoju, tylko on moze ci pomoc. XXX
+// Archivist perso5
+L28D48B
+ Pomoge, jesli tylko bede mogl, uwierz mi. XXX
+// Archivist perso5
+L28D48C
+ Jesli tak ci na tym zalezy, zajrze do ksiag i poszukam informacji na temat Czarnej Zgnilizny. XXX
+// Archivist perso5
+L28D48D
+ Przyjdz pozniej to ci powiem, czy cos znalazlem. XXX
+// Arkhan2 O perso2
+L28D49
+ Hmm. Okej! XXX
+// Arkhan2 O perso2
+L28D62
+ Na pewno nic wiecej nie udalo ci sie znalezc? XXX
+// Archivist perso5
+L28D61
+ Nie mlodziencze. To wszystko. Przykro mi. XXX
+// Arkhan2 G perso2
+L28D52
+ A wiec Archiwisto, czy dowiedziales sie czegos wiecej na temat tej mrocznej choroby? XXX
+// Archivist perso5
+L28D53A
+ Ekhm, jak dobrze wiesz... XXX
+// Archivist perso5
+L28D53B
+ Nasze archiwa nie sa w stanie pomiescic wszelkiej wiedzy zdobytej przez rodzaj ludzki dzieki blogoslawienstwu Boskiego Slonca. XXX
+// Archivist perso5
+L28D53C
+ Jednakze dokopalem sie do kilku pism dotyczacych tej choroby. XXX
+// Archivist perso5
+L28D53D
+ Nic one nie mowia o remedium, ale czesto pojawia sie slowo "Kamien swietlny". XXX
+// Arkhan2 G perso2
+L28D54
+ Coz to za kamien? XXX
+// Archivist perso5
+L28D55A
+ Nie wiem, ale jeden z autorow mowi, co nastepuje: XXX
+// Archivist perso5
+L28D55B
+ "Jesli zainfekowany osobnik szybko wejdzie w kontakt z kamieniem Swietlnym, choroba byc moze ustapi". XXX
+// Archivist perso5
+L28D55C
+ "Jesli jednak zainfekowany zbyt pozno zacznie sie leczyc, jesli choroba zbyt mocno zapusci swe korzenie w jego ciele, ofiara moze umrzec... w najlepszym wypadku". XXX
+// Archivist perso5
+L28D55D
+ To wszystko, co udalo mi sie odnalezc. XXX
+// Arkhan2 G perso2
+L28D56A
+ Lepszy rydz niz nic. XXX
+// Arkhan2 L perso2
+L28D56B
+ Dzieki ci za twa pomoc, Sesekhanie. XXX
+// Arkhan3 L perso3
+L28D50
+ Archiwisto, sprawa jest nad wyraz pilna, musze miec lekarstwo! XXX
+// Archivist perso5
+L28D51A
+ To bardzo niedobrze... Tak, tak, rozumiem... XXX
+// Archivist perso5
+L28D51B
+ Posluchaj tedy: poszperam w archiwum i moze cos na temat tej choroby znajde. XXX
+// Arkhan3 L perso3
+L28D63
+ To juz wszystko, co masz mi do powiedzenia? XXX
+// Arkhan3 L perso3
+L28D57
+ Masz cos na temat tej mrocznej choroby? XXX
+// Arkhan3 L perso3
+L28D58
+ Cos wiecej? XXX
+// Arkhan3 L perso3
+L28D59
+ Nie, nie ja! Nigdy! XXX
+// Arkhan2 L perso2
+L28D12
+ Mam sie spotkac z moim ojcem, Rylsadharem. Widziales go? XXX
+// Archivist perso5
+L28D13A
+ Ah, twoj ojciec to zacny czlowiek. Czesto mnie tu odwiedza. XXX
+// Archivist perso5
+L28D13B
+ Ma obsesje na punkcie tajemnic Starego Swiata. Prowadzi duzo badan. To bardzo uczony czlowiek. XXX
+// Archivist perso5
+L28D13C
+ Nie tak jak Patrzacy Broguel. Orzeszek zamiast mozgu... taki maly, ze wywoluje echo odbijajac sie o wewnetrzne scianki pustej czaszki...! Wiesz, pewnego dnia on... XXX
+// Arkhan2 L perso2
+L28D14
+ Okej, okej. Juz wystarczy. Widziales mojego ojca, czy nie? XXX
+// Archivist perso5
+L28D15A
+ Eh? Twojego ojca? Uh... W istocie, od wschodu Boskiego Slonca nie mialem przyjemnosci go widziec. XXX
+// Archivist perso5
+L28D15B
+ Moze udal sie na modlitwe do komnaty Rahal? Nie sadzisz, ze to mozliwe?... XXX
+// Arkhan2 O perso2
+L28D16
+ Szukam Rylsadhara. Widziales go? XXX
+// Archivist perso5
+L28D17A
+ Rylsadhara? Nie, mlody czlowieku, jestem tu sam na sam ze zwojami pergaminu. XXX
+// Archivist perso5
+L28D17B
+ Byc moze jednak moge ci pomoc dzieki slowom naszych przodkow, a takze blizszych nam pism, lub swietych manuskryptow... XXX
+// Arkhan2 O perso2
+L28D18
+ STOP! Nic mnie to nie obchodzi! Chce sie zobaczyc z moim ojcem Rylsadharem! XXX
+// Arkhan3 L perso3
+L28D19
+ Czy widziales Rylsadhara? XXX
+// Arkhan3 L perso3
+L28D20
+ Nie. Czekam na Rylsadhara! XXX
+// Archivist perso5
+L28D21A
+ Z przykroscia musze cie poinformowac, ze go tutaj nie ma. XXX
+// Archivist perso5
+L28D21B
+ Moze udal sie na modlitwe do komnaty Rahal... XXX
+// Arkhan2 L perso2
+L28D23A
+ Sesekhanie, czy jestes pewien, ze Rylsadhara nie bylo tu gdzies w poblizu? XXX
+// Arkhan2 L perso2
+L28D23B
+ Mial tu na mnie zaczekac. XXX
+// Archivist perso5
+L28D24A
+ Jestem pewien! Moj wzrok nie jest juz tak bystry jak kiedys, ale zapewniam cie synu Rylsadhara, nikt tedy nie przechodzil... XXX
+// Archivist perso5
+L28D24B
+ Poza toba oczywiscie, co samo w sobie jest juz istotnym wydarzeniem! XXX
+// Arkhan2 O perso2
+L28D25
+ Pomysl, staruszku! Czy jestes absolutnie pewien, ze nie bylo tutaj Rylsadhara? XXX
+// Arkhan2 G perso2
+L28D64
+ Czy wiesz, co to jest? XXX
+// Archivist perso5
+L28D65A
+ Rylsadhar zwykl to nazywac "kluczem do muzyki planet". XXX
+// Archivist perso5
+L28D65B
+ Mimo, iz takowej muzyki nigdy w Swiatyni nie dane mi bylo uslyszec. XXX
+// Archivist perso5
+L28D65C
+ W rzeczy samej, od dluzszego czasu traby niezmiennie milcza. XXX
+// Archivist perso5
+L28D65D
+ Dawniej do takiej muzyki znalezc mozna bylo wiecej kluczy. XXX
+// Archivist perso5
+L28D65E
+ Inne niestety dawno temu gdzies znikly. Sa tacy, co twierdza, ze zostaly skradzione... XXX
+// Archivist perso5
+L28D65F
+ Zostal tylko ten nalezacy do Rylsadhara, a on go oddal na przechowanie tutaj. XXX
+// Arkhan3 G perso3
+L28D66
+ Co to jest? XXX
+// Arkhan2 G perso2
+L28D217
+ Widziales kiedys ten dokument? XXX
+// Archivist perso5
+L28D218A
+ Hm... jakies rysunki... krotki wiersz... XXX
+// Archivist perso5
+L28D218B
+ To pismo Rylsadhara. XXX
+// Archivist perso5
+L28D218C
+ Wszedzie bym je rozpoznal. XXX
+// Arkhan2 G perso2
+L28D113
+ Co to za dysk? XXX
+// Archivist perso5
+L28D114A
+ Cudowny, nieprawdaz? XXX
+// Archivist perso5
+L28D114B
+ To relikt ze Starego Swiata, z pieknych czasow, gdy nasz swiat tonal w promieniujacym sloncu. XXX
+// Archivist perso5
+L28D114C
+ Zatrzymaj go, byc moze przyniesie ci szczescie. XXX
+// Arkhan2 G perso2
+L28D67
+ Co mozesz mi o tym powiedziec? XXX
+// Archivist perso5
+L28D68
+ Co? Hmm... Nic nie moge... bardzo mi przykro... XXX
+// Arkhan2 L perso2
+L28D104
+ Co sie dzieje?! XXX
+// Archivist perso5
+L28D105A
+ Jestem zaklopotany synu Rylsadhara. XXX
+// Archivist perso5
+L28D105B
+ Slyszalem jakies straszne halasy i wrzaski wydobywajace sie z pomieszczenia obok. XXX
+// Archivist perso5
+L28D105C
+ I cos... cos naprawde wielkiego... tak, przeszlo obok moich drzwi. XXX
+// Archivist perso5
+L28D105D
+ Mam nadzieje, ze sie przeslyszalem, ale jestem prawie pewny, ze stalo sie cos okropnego. XXX
+// Arkhan2 L perso2
+L28D107A
+ Nie martw sie, zajme sie tym. XXX
+// Arkhan2 L perso2
+L28D107B
+ A ty tutaj pozostan i sie ukryj - tak bedzie bezpieczniej. XXX
+// Arkhan2 O perso2
+L28D110
+ Co cie tak spielo? XXX
+// Arkhan2 O perso2
+L28D111
+ Okej, uspokoj sie! Zajme sie tym! XXX
+// Arkhan2 L perso2
+L28D108
+ Powiedz mi, co slyszales. XXX
+// Arkhan2 O perso2
+L28D112
+ To juz wszystko? XXX
+// Archivist perso5
+L28D109A
+ Wrzaski, kobiece wrzaski. XXX
+// Archivist perso5
+L28D109B
+ I dziwny glos... jakby nieludzki... nalezacy do pomiotu zla. XXX
+// Archivist perso5
+L28D109C
+ A potem juz nic, cisza. XXX
+// Arkhan3 G perso2
+L28D115
+ Co sie z toba dzieje?! XXX
+// Arkhan3 G perso2
+L28D107
+ Zostan tutaj. Ja sprawdze, co sie dzieje. XXX
+// Arkhan3 G perso2
+L28D116A
+ Co uslyszales? XXX
+// Arkhan3 O perso2
+L28D116B
+ Mow! XXX
+// Arkhan2 G perso2
+L28D118A
+ Sesekhanie, pojawili sie tu nasi nieprzyjaciele. XXX
+// Arkhan2 G perso2
+L28D118B
+ Zamordowano Wielka Patrzaca Lory! XXX
+// Archivist perso5
+L28D119A
+ Lory martwa? XXX
+// Archivist perso5
+L28D119B
+ O Wielki Solaarze, uchowaj nas! XXX
+// Arkhan2 G perso2
+L28D121
+ Zostan tu, ukryj sie i nie halasuj. XXX
+// Archivist perso5
+L28D122
+ Bardzo dobry pomysl. Uwazaj na siebie, mlody przyjacielu! XXX
+// Arkhan3 G perso3
+L28D123A
+ Nasi wrogowie tu sa! XXX
+// Arkhan3 G perso3
+L28D123B
+ Lory nie zyje! XXX
+// Arkhan3 G perso3
+L28D124
+ Zostan tu. Ukryj sie! XXX
+// Arkhan2 G perso2
+L28D71A
+ Historia Stallite wedlug Patrzacego Gabki: XXX
+// Arkhan2 G perso2
+L28D71B
+ Zalozenie Stallite, Sparty, datuje sie na czasy Thelen Khrona. XXX
+// Arkhan2 G perso2
+L28D71C
+ Nastapilo to po zbudowaniu Swiatyni Boskiego Slonca i Wielkiego Placu. XXX
+// Arkhan2 G perso2
+L28D71D
+ Patrzacy w Slonce, wiedzeni swiatlem madrosci i natchnieni przez poslancow Boskiego Slonca, przyjeli do swego swiezo zbudowanego miasta wszystkich Sprawiedliwych, ktorzy poszukiwali tu schronienia. XXX
+// Arkhan2 G perso2
+L28D71E
+ Gwardzisci Ognia, wierne slugi Boskiego Slonca, pomogli Patrzacym w przyjeciu, rozlokowaniu i ochronie nowoprzybylych. XXX
+// Arkhan2 G perso2
+L28D71F
+ Budowle, od najbardziej imponujacych po najskromniejsze, zostaly wzniesione przez Budowniczych. Slawetny Turkhan zaplanowal zagospodarowanie najbardziej prominentnych miejsc Sparty. XXX
+// Arkhan2 G perso2
+L28D71G
+ Mezczyzni i kobiety znajacy sie na uprawach oraz lowiectwie polaczyli swe sily, stajac sie Zaopatrujacymi. XXX
+// Arkhan2 G perso2
+L28D71H
+ Natomiast Lupiezcy -- mlodzi i starzy, mezczyzni i kobiety -- pomogli uczynic Sparte oaza spokoju i jasnosci wsrod wszechogarniajacej Ciemnosci... XXX
+// Arkhan2 G perso2
+L28D71I
+ Hmmm... Troszke sie jednak pozmienialo! XXX
+// Arkhan3 G perso3
+L28D171A
+Historia Stallite wedlug Patrzacego Gabki: XXX
+// Arkhan3 G perso3
+L28D171B
+ Zalozenie Stallite, Sparty, datuje sie na czasy Thelen Khrona. XXX
+// Arkhan3 G perso3
+L28D171C
+ Nastapilo to po zbudowaniu Swiatyni Boskiego Slonca i Wielkiego Placu. XXX
+// Arkhan3 G perso3
+L28D171D
+ Patrzacy w Slonce, wiedzeni swiatlem madrosci i natchnieni przez poslancow Boskiego Slonca, przyjeli do swego swiezo zbudowanego miasta wszystkich Sprawiedliwych, ktorzy poszukiwali tu schronienia. XXX
+// Arkhan3 G perso3
+L28D171E
+ Gwardzisci Ognia, wierne slugi Boskiego Slonca, pomogli Patrzacym w przyjeciu, rozlokowaniu i ochronie nowoprzybylych. XXX
+// Arkhan3 G perso3
+L28D171F
+ Budowle, od najbardziej imponujacych po najskromniejsze, zostaly wzniesione przez Budowniczych. Slawetny Turkhan zaplanowal zagospodarowanie najbardziej prominentnych miejsc Sparty. XXX
+// Arkhan3 G perso3
+L28D171G
+ Mezczyzni i kobiety znajacy sie na uprawach oraz lowiectwie polaczyli swe sily, stajac sie Zaopatrujacymi. XXX
+// Arkhan3 G perso3
+L28D171H
+ Natomiast Lupiezcy -- mlodzi i starzy, mezczyzni i kobiety -- pomogli uczynic Sparte oaza spokoju i jasnosci wsrod wszechogarniajacej Ciemnosci... XXX
+// Arkhan3 G perso3
+L28D171I
+ Ale staroc! XXX
+// Arkhan2 L perso2
+L28D82
+ Jest tu jakis mechanizm, ale nie umiem go uruchomic. XXX
+// Arkhan2 O perso2
+L28D83
+ Co za badziewie! XXX
+// Arkhan3 G perso3
+L28D97
+ Co to za mechanizm? XXX
+// Arkhan3 G perso3
+L28D99
+ Nic nie zostalo!! XXX
+// Arkhan2 L perso2
+L28D88
+ Cos tu jeszcze jest. XXX
+// Arkhan2 O perso2
+L28D87
+ Do czego sluzy ten gadzet?! XXX
+// Arkhan3 L perso3
+L28D90
+ Jakis gadzet! XXX
+// Arkhan3 O perso3
+L28D92
+ Coz to jest? XXX
+// Arkhan2 G perso2
+L28D69
+ Hmm... Pismo jest bardzo niewyrazne... XXX
+// Arkhan3 G perso3
+L28D70
+ (narzekajac)... nie da sie odczytac... XXX

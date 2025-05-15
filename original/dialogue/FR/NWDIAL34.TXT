@@ -1,0 +1,166 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\fr\NWDIAL34.TXT
+ // Kankalite7 perso77
+L34D777
+ On va te mettre en pièce! XXX
+// Kankalite7 perso77
+L34D778
+ Tu es mort! XXX
+// Thanandar perso24
+L34D100A
+ Regarde qui nous arrive! Le fils de Rylsadhar. XXX
+// Thanandar perso24
+L34D100B
+ Tes hommes laissent vraiment passer n'importe qui! XXX
+// Sordos perso23
+L34D101
+ C'est un contaminé, lui aussi! XXX
+// Thanandar perso24
+L34D102A
+ Oui. Mais maintenant que je tiens son père, il ne me sert à rien! XXX
+// Thanandar perso24
+L34D102B
+ Tue-le! XXX
+// Sordos perso23
+L34D04A
+ Hmmm... (crache) XXX
+// Sordos perso23
+L34D04B
+ J'vais pas te tuer tout de suite, ce serait trop facile! XXX
+// Sordos perso23
+L34D04C
+ Mes hommes vont s'occuper de toi à leur manière. XXX
+// Sordos perso23
+L34D04D
+ Et bientôt tu les supplieras de t'achever! XXX
+// Sordos (surpris de trouver Arkhan chez lui)perso23
+L34D38
+ Hé, d'où tu sors toi?! XXX
+// Sordos perso23
+L34D39
+ Réponds, crasseux, ou j't'arrache la langue! XXX
+// Sordos perso23
+L34D40A
+ J'vais te retailler la gueule! XXX
+// Sordos perso23
+L34D40B
+ J'ai toujours voulu être sculpteur! XXX
+// Thanandar perso24
+L34D201
+ Meurs, pauvre fou! XXX
+// Arkhan2 L perso2
+L34D05
+ Thanandar! Qu'est ce que ça veut dire? XXX
+// Arkhan2 O perso2
+L34D06
+ Thanandar, sale bâtard! Tu m'as menti! XXX
+// Arkhan3 G perso3
+L34D07
+ Thanandar! Traître! XXX
+// Thanandar (déçu)perso24
+L34D200A
+ Tu ne comprends rien, comme les autres. Tu refuses d'accepter les ténèbres! XXX
+// Thanandar perso24
+L34D200B
+ La mort est la récompense des imbéciles! XXX
+// Sordos perso23
+L34D202
+ J'vais t'arracher le coeur! XXX
+// Arkhan2 L perso2
+L34D13
+ C'est toi le puissant Sordos? XXX
+// Arkhan2 O perso2
+L34D14
+ Hé, c'est toi le seigneur de ce tas d'immondices? XXX
+// Arkhan3 L perso3
+L34D15
+ C'est bien toi Sordos? XXX
+// Arkhan3 O perso3
+L34D16
+ Je vis dans la merde, par ta faute! Tu vas payer! XXX
+// Sordos (menaçant) perso23
+L34D17A
+ J'sais pas d'où tu sors mais je suis sûr d'une chose : XXX
+// Sordos (menaçant) perso23
+L34D17B
+ T'y retourneras en pièces détachées! XXX
+// Arkhan2 L perso2
+L34D22
+ C'est toi, Sordos? Dhorkan m'envoit. XXX
+// Sordos (agressif) perso23
+L34D23
+ Dhorkan, hein? Et qu'est ce qu'y m'veux? XXX
+// Arkhan2 L perso2
+L34D24
+ Te dire qu'il apprécie pas tes échecs. XXX
+// Sordos (parle puis s'interrompt)perso23
+L34D25
+ Ouais?! Tu diras à ce crétin de Dhorkan qu'il ferait mieux de... XXX
+// Arkhan2 O (deb)perso2
+L34D27
+ Hé, Sordos! J'apporte un message de Dhorkan. XXX
+// Arkhan2 O perso2
+L34D28A
+ Il dit que finalement tu n'es qu'un petit fouineur de merde! XXX
+// Arkhan2 O perso2
+L34D28B
+ Et il espère que tu crèveras sur place dans cette cave puante. XXX
+// Sordos (enragé) perso23
+L34D29
+ QUOI?!  XXX
+// Sordos (réalisant soudain qui est Arkhan) perso23
+L34D26A
+ Mais j'te reconnais, c'est toi le salopard qu'en a pris plein la gueule pour Lory! XXX
+// Sordos (cruel)perso23
+L34D26B
+ T'as bien fait de venir, fallait que je me défoule sur quelqu'un! XXX
+// Arkhan3 L (menaçant) perso3
+L34D30
+ Sordos... Dhorkan m'envoit! XXX
+// Arkhan3 L perso2
+L34D31
+ Te dire que t'es fini! XXX
+// Sordos perso23
+L34D41
+ T'as des envies de suicide, Fouineur! XXX
+// Arkhan2 G perso2
+L04D44
+ C'est pas la bonne clef! XXX
+// Arkhan3 G perso3
+L04D45
+ Mauvaise clef! XXX
+// Arkhan2 L perso2
+L34D34
+ Ca n'a pas l'air confortable! XXX
+// Arkhan2 O perso2
+L34D35
+ Je dormirais pas là-dessus! XXX
+// Arkhan3 G perso3
+L34D36
+ Pas l'air confortable ! XXX
+// Arkhan2 L (examine un tuyau)perso2
+L34D500
+ Un gros tuyau rouillé. XXX
+// Arkhan3 L (examine un tuyau)perso3
+L34D501
+ Tout le tuyau est rouillé. XXX
+// Arkhan2 L (examine la grille)perso2
+L34D506
+ Une grille d'acier. XXX
+// Arkhan3 L (examine la grille)perso3
+L34D507
+ Une lourde grille. XXX
+// Arkhan2 G perso2
+L34D502
+ De gros tonneaux. Vides apparemment. XXX
+// Arkhan3 G perso3
+L34D503
+ Des tonneaux. Vides. XXX
+// Arkhan2 G perso2
+L34D504A
+ Un fût de Stohll renversé. XXX
+// Arkhan2 G perso2
+L34D504B
+ Ces Konkalites sont de foutus buveurs! XXX
+// Arkhan3 G perso3
+L34D505
+ Un fût de Stohll. Vidé. XXX

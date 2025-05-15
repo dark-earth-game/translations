@@ -1,0 +1,166 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL34.TXT
+ // Konkalit7 perso77
+L34D777
+ Udeláme z tebe sekanou! XXX
+// Konkalit7 perso77
+L34D778
+ Jseš mrtvý muz! XXX
+// Thanandar perso24
+L34D100A
+ Podívejme se, kdo prišel! Rylsadharovo Syn. XXX
+// Thanandar perso24
+L34D100B
+ Tvoji muzi nechají skutecne kazdeho projít! XXX
+// Sordos perso23
+L34D101
+ Tento je take kontaminován! XXX
+// Thanandar perso24
+L34D102A
+ Ano. Ale nyní, kdyz já jeho otce ve sve moci mám, nepotrebuju ho! XXX
+// Thanandar perso24
+L34D102B
+ Zabího! XXX
+// Sordos perso23
+L34D40A
+ Vyleštím ti tvojí krysí hubu! XXX
+// Sordos perso23
+L34D40B
+ O tom já vzdy snil! XXX
+// Sordos perso23
+L34D04A
+ Hmmm... (spuckt aus) XXX
+// Sordos perso23
+L34D04B
+ Já ho hned neusmrtím, to by bylo moc jednoduche! XXX
+// Sordos perso23
+L34D04C
+ Moji muzi si ho na jejich zpùsob podají. XXX
+// Sordos perso23
+L34D04D
+ A brzy budeš ùpenlive prosit, o usmrcení! XXX
+// Sordos (erstaunt, Arkhan bei ihm zu sehen)perso23
+L34D38
+ Hej, copak zde deláš?! XXX
+// Sordos perso23
+L34D39
+ Odpovez, ty tlamo, nebo ti vytrhnu jazyk! XXX
+// Thanandar perso24
+L34D201
+ Zemreš, bídný blázne! XXX
+// Arkhan2 L perso2
+L34D05
+ Thanandare! Co to má znamenat? XXX
+// Arkhan2 O perso2
+L34D06
+ Thanandare, prašivý zrádce! Ty jsi my lhal! XXX
+// Arkhan3 G perso3
+L34D07
+ Thanandare! Zrádce! XXX
+// Thanandar (enttäuscht)perso24
+L34D200A
+ Ty nerozumíš nicemu jako ti ostatní. Ty se jednoduše zdráháš, Temnou Zemi prijmout! XXX
+// Thanandar perso24
+L34D200B
+ Smrt je odmenou ty tupá hlavo! XXX
+// Sordos perso23
+L34D202
+ Já ti vytrhnu srdce z zivýho tela! XXX
+// Arkhan2 L perso2
+L34D13
+ Ty jsi ten mocný Sordos? XXX
+// Arkhan2 O perso2
+L34D14
+ Hej, jseš tu pánem ty nebo tento smradlavý kal? XXX
+// Arkhan3 L perso3
+L34D15
+ Ty jseš Sordos? XXX
+// Arkhan3 O perso3
+L34D16
+ Ziju ve špíne, a tím jsi ty vinen! To mi zaplatíš! XXX
+// Sordos (bedrohlich) perso23
+L34D17A
+ Nevím, kde ses tu vzal, ale jedno vím docela jiste: XXX
+// Sordos (bedrohlich) perso23
+L34D17B
+ Ty se vrátíš po cástech! XXX
+// Arkhan2 L perso2
+L34D22
+ Jseš Sordos? Dhorkan mne posílá. XXX
+// Sordos (aggressif) perso23
+L34D23
+ Dhorkan, aha! A co chce on ode mne? XXX
+// Arkhan2 L perso2
+L34D24
+ Ti vzkazuje, ze si on tvých neùspechù nijak zvlášt necení. XXX
+// Sordos (spricht und verstummt)perso23
+L34D25
+ Aha?! Ty mùzeš mu o techto lotrovinách ríct, aby on radeji ... XXX
+// Arkhan2 O (Anfang)perso2
+L34D27
+ Hej, Sordosi! Mám pro tebe zprávu od Dhorkana. XXX
+// Arkhan2 O perso2
+L34D28A
+ On ríká, ze ty jseš jeden smradlavý neùspech! XXX
+// Arkhan2 O perso2
+L34D28B
+ A doufá, ze ty v tvem zamorenem sklepe chcípneš jako krysa. XXX
+// Sordos (wütend) perso23
+L34D29
+ Co?!  XXX
+// Sordos (ihm wird plötzlich klar, wer Arkhan ist) perso23
+L34D26A
+ Ale nyní jsem te poznal, ty jsi prece ten z kurvy syn, který chtel Lory ochránit! XXX
+// Sordos (grausam)perso23
+L34D26B
+ Dobre, prišel jsi, potrebuju práve nekoho, na kterem se mohu vyzurit! XXX
+// Arkhan3 L (bedrohlich) perso3
+L34D30
+ Sordosi ... Dhorkan mne posílá! XXX
+// Arkhan3 L perso2
+L34D31
+ Abych ti rekl, ze je s tebou konec! XXX
+// Sordos perso23
+L34D41
+ Tobe nezálezí na zivote, smetáku? XXX
+// Arkhan2 G perso2
+L04D44
+ To není ten správný klíc! XXX
+// Arkhan3 G perso3
+L04D45
+ Falešný klíc! XXX
+// Arkhan2 L perso2
+L34D34
+ To nevypadá zrovna pohodlne! XXX
+// Arkhan2 O perso2
+L34D35
+ Na tom bych nespal ani minutu! XXX
+// Arkhan3 G perso3
+L34D36
+ Nevypadá to zrovna pohodlne ! XXX
+// Arkhan2 L (untersucht ein Rohr)perso2
+L34D500
+ Tluste zrezivele roury. XXX
+// Arkhan3 L (untersucht ein Rohr)perso3
+L34D501
+ Celá trubka je zrezivelá. XXX
+// Arkhan2 L (untersucht das Gitter)perso2
+L34D506
+ Ocelová mríz. XXX
+// Arkhan3 L (untersucht das Gitter)perso3
+L34D507
+ Tezká mríz. XXX
+// Arkhan2 G perso2
+L34D502
+ Velke sudy. Zrejme prázdne. XXX
+// Arkhan3 G perso3
+L34D503
+ Sudy. Prázdne. XXX
+// Arkhan2 G perso2
+L34D504A
+ Prevrzený sud s alkoholem. XXX
+// Arkhan2 G perso2
+L34D504B
+ Tito Konkaliti jsou porádný pijáci! XXX
+// Arkhan3 G perso3
+L34D505
+ Sud s alkoholem. Vypitý. XXX

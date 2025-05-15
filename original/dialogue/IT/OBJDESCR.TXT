@@ -1,0 +1,204 @@
+12345678901234567890123456789012345678901234567890
+
+@1
+Vecchia uniforme di Bogdaran
+@2
+Anello della chiave di Rylsadhar
+@3
+Tessera di metallo perforata 
+@4
+Piatto
+@5
+Barra di metallo
+@6
+Ricarica per il lanciafuoco
+@7
+Biglie per sputapiombo
+@8
+Bollitore per sputapiombo
+@9
+Impugnatura di metallo
+@10
+Tessera piatta del Prima
+@11
+Chiave di pietra rossa
+@12
+Cristallo scavato in punta
+@13
+Grosso legume
+@14
+Chiave Konkalita
+@15
+Chiave di Sordos
+@16
+Chiave di Bogdaran
+@17
+Martello
+@18
+Cristallo della chiave (molato a sinistra)
+@19
+Cristallo della chiave (molato a destra)
+@20
+Specchio del Prima
+@21
+Ampolla rotonda
+@22
+Flacone
+@23
+Folgore del Prima
+@24
+Borraccia di Stohll (piena)
+@25
+Vestiti
+@26
+Ascia da battaglia
+@27
+Lanciafuoco
+@28
+Lungo coltello
+@29
+Albero per elica
+@30
+Mannaia dell'Allevatrice
+@31
+Pozione di Thanandar
+@32
+Folgore offerta da Kalhi
+@33
+Placca di piombo
+@34
+Patata
+@35
+Folgore di Zed
+@36
+Grossa radice
+@37
+Alabarda corta
+@38
+Sciabola da Custode del Fuoco
+@39
+Munizioni della folgore offerta da Kalhi
+@40
+Oggetto sconosciuto del Prima (isolato nell'olio)
+@41
+Oggetto sconosciuto del Prima 
+@42
+Bicchiere
+@43
+Pesce
+@44
+Carne affumicata
+@45
+Lama di cristallo di rocca
+@46
+Note di Rylsadhar
+@47
+Pesante ascia da Konkalita
+@48
+Albero per elica (rotto)
+@49
+Documento di Sordos
+@50
+Schema d'arma
+@51
+Pala dell'elica del Pozzo
+@52
+Disegni di Rylsadhar
+@53
+Estrattore Konkalita
+@54
+Palla di fuoco
+@55
+Sputapiombo
+@56
+Topo schiacciato
+@57
+Tranciatore di Sordos
+@58
+Sciabola di Zed
+@59
+Sciabola del Marciatore
+@60
+Pezzo d'argento di Dhorkan
+@61
+Flagello d'armi di Phedoria (zzz)
+@62
+Alabarda (zzz)
+@63
+Daga di Kalhi
+@64
+Pezzo di pollastro
+@65
+Bolo di terra cotta
+@66
+Folgore di Lory
+@67
+Ascia da combattimento
+@68
+Folgore di Zed (su Zed)
+@69
+Protezione
+@70
+Schema del Mastro Costruttore
+@71
+Combinazione di metallo (molto pesante)
+@72
+Munizioni per il folgore del Prima
+@73
+Munizioni per il folgore di Zed
+@74
+Piccozza di Danrys
+@75
+Chiave di cristallo di Rylsadhar
+@76
+Mazza di Maor
+@77
+Borraccia
+(vuota)
+@78
+Piccola arma di Danrys
+@79
+Ascia da Custode del Fuoco
+@80
+Spada di Dhorkan
+@81
+Pergamena di Rylsadhar
+@82
+Libro dell'Archivista
+@83
+Sciabola da Custode del Fuoco
+@84
+Casco di metallo
+@85
+Piastrone di metallo (molto pesante)
+@86
+Bombola del Prima
+@87
+Pedina di Yong
+@88
+Tubo di Bogdaran
+@89
+Chiave della Prigione
+@90
+Palla di piombo
+@91
+Pugnale
+@92
+Lungo pugnale
+@93
+Stiletto di Dhorkan
+@94
+Pestello di Kabak
+@95
+Mortaio di Kabak
+@96
+Grande chiave d'acciaio
+@97
+Tanica
+@98
+Pietra per molare
+@99
+Barattolo di metallo sigillato
+@100
+(arma rotta)
+@fin

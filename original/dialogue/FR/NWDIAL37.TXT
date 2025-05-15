@@ -1,0 +1,145 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\fr\NWDIAL37.TXT
+ // Arkhan2 G perso2
+L37D01A
+ L'extérieur! XXX
+// Arkhan2 G perso2
+L37D01B
+ J'ai quitté l'enceinte du Stallite. XXX
+// Arkhan3 G perso3
+L37D02A
+ L'extérieur! XXX
+// Arkhan3 G perso3
+L37D02B
+ J'ai quitté le Stallite. XXX
+// Arkhan2 G (voit une créature)perso2
+L37D01C
+ On dirait que j'suis attendu! XXX
+// Arkhan3 G (voit une créature)perso3
+L37D02C
+ J'suis pas tout seul, on dirait! XXX
+// Arkhan2 G perso2
+L37D03
+ Cet attirail est trop lourd. Faut que j'm'en débarasse. XXX
+// Arkhan3 G perso3
+L37D04
+ Cet attirail est trop lourd. J'le vire! XXX
+// Arkhan2 G perso2
+L37D05
+ C'est profond... Vaut mieux pas m'éloigner. XXX
+// Arkhan3 G perso3
+L37D06
+ Profond... Pas m'éloigner. XXX
+// Arkhan2 G perso2
+L37D07
+ D'ici, on voit les remparts et la caserne des Gardiens du Feu. XXX
+// Arkhan3 G perso3
+L37D08
+ On voit les remparts et la caserne d'ici. XXX
+// Arkhan2 G perso2
+L37D09
+ L'entrée d'une grotte! XXX
+// Arkhan3 G perso3
+L37D10
+ Une grotte! XXX
+// Arkhan2 G (s'enfonce dans l'eau)perso2
+L37D11
+ Il faut que je remette le casque... XXX
+// Arkhan3 G (s'enfonce dans l'eau)perso3
+L37D12
+ J'dois remettre le casque... XXX
+// Arkhan2 L perso2
+L37D13A
+ Alors, tu veux plus te battre?! XXX
+// Arkhan2 L perso2
+L37D13B
+ T'as peur de ce qu'il y a dans cette grotte? XXX
+// Arkhan2 O perso2
+L37D14
+ T'oses pas avancer, hein, saloperie! XXX
+// Arkhan3 L perso3
+L37D15A
+ T'as peur, hein! XXX
+// Arkhan3 L perso3
+L37D15B
+ Peur de la grotte!? XXX
+// Arkhan3 O (enragé) perso3
+L37D16
+ Approche! Viens te battre! XXX
+// Arkhan2 G perso2
+L37D17
+ Viens! Moi aussi j'ai des griffes! XXX
+// Arkhan3 G perso3
+L37D18
+ Approche, monstre! XXX
+// Arkhan2 L perso2
+L37D19A
+ C'était quoi ça avant? Un homme, une bête ? XXX
+// Arkhan2 L perso2
+L37D19B
+ Je dois trouver le remède avant de devenir comme ça! XXX
+// Arkhan3 L perso3
+L37D20A
+ C'était quoi... un homme? Une bête? XXX
+// Arkhan3 L perso3
+L37D20B
+ Je dois guérir... pas devenir comme ça... XXX
+// Arkhan2 O perso2
+L37D21
+ Maudite créature! XXX
+// Arkhan3 O perso3
+L37D22
+ Maudite créature! XXX
+// Arkhan2 L perso2
+L37D23
+ Ma parole, t'as peur de l'eau! C'est parce que ça lave? XXX
+// Arkhan3 L perso3
+L37D24
+ Peur de l'eau, hein? XXX
+// Arkhan2 L perso2
+L37D25A
+ Cette saleté était coriace! XXX
+// Arkhan2 L perso2
+L37D25B
+ Si je trouve pas le Tombeau, toute la population sera décimée! XXX
+// Arkhan3 L perso3
+L37D26A
+ Coriace! XXX
+// Arkhan3 L perso3
+L37D26B
+ Faire vite ou ces monstres raseront le Stallite. XXX
+// Arkhan2 G perso2
+L37D27
+ Rien que des vieux débris rouillés... XXX
+// Arkhan3 G perso3
+L37D28
+ Des vieux débris rouillés... XXX
+// Arkhan2 G perso2
+L37D29
+ Même Danrys n'en tirerait rien. XXX
+// Arkhan2 G perso2
+L37D31
+ Quelle créature peut avoir des os de cette taille? XXX
+// Arkhan3 G perso3
+L37D32
+ Les os d'un animal... énorme... XXX
+// Arkhan2 G perso2
+L37D33A
+ Des marques d'urine par terre... XXX
+// Arkhan2 G perso2
+L37D33B
+ Et une odeur animale. XXX
+// Arkhan3 G perso3
+L37D34
+ Des marques d'urine... et une méchante odeur! XXX
+// Arkhan2 G (trouve un poisson mangé)perso2
+L37D35
+ Des restes de repas... XXX
+// Arkhan3 G (trouve un poisson mangé)perso3
+L37D36
+ Des restes... XXX
+// Arkhan2 G perso2
+L37D37
+ Etrange, à cet endroit la paroi est chaude... XXX
+// Arkhan3 G perso3
+L37D38
+ Je sens de la chaleur. XXX

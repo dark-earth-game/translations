@@ -1,0 +1,499 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\GB\NWDIAL15.TXT
+// Kalhi perso13
+L15D115
+Arkhan, eu explicava ao Danrys... XXX
+// Danrys (de costas) perso9
+L15D116
+Explicar?! Chegaste aos gritos, a gesticular e a falar mais depressa que um Pregador no alto do seu púlpito! XXX
+// Kalhi perso13
+L15D136
+Eh... Danrys, devias olhar para o Arkhan... XXX
+// Kalhi perso13
+L15D459
+Arkhan, finalmente chegaste! XXX
+// Danrys (de costas) perso9
+L15D460
+Kalhi, não grites assim. XXX
+// Kalhi (diante do Danrys morto) perso13
+L15D200A
+Danrys! Danrys! Meu amigo... Não é possível... tu não... XXX
+// Kalhi (encolerizada!) perso13
+L15D200B
+Pelo Fogo! Serás vingado! XXX
+// Kalhi (levanta-se, com determinação) perso13
+L15D200C
+Vingado! XXX
+// Danrys (Arkhan tinha-se ido embora depois da briga) perso9
+L15D02B
+De volta? Espero que te tenhas acalmado! XXX
+// Kalhi (desamparada) perso13
+L03D500A
+Arkhan! Tu... Porque fizeste isso? XXX
+// Kalhi (desamparada) perso13
+L03D500B
+É esse veneno... está a enlouquecer-te! XXX
+// Danrys perso9
+L15D76C
+Enlouqueceste! XXX
+// Kalhi (enlouquecida porque Arkhan golpeou Danrys)perso13
+L15D456
+Arkhan, não! XXX
+// Kalhi (vai ao encontro de Arkhan) perso13
+L15D135A
+Tu aqui! XXX
+// Kalhi (vai ao encontro de Arkhan) perso13
+L15D135B
+Vi-te chegar... XXX
+// Danrys perso9
+L15D02A
+Deus Sol! Arkhan! Estás... XXX
+// Arkhan2 G perso2
+L15D137A
+...Doente. Ao proteger a Lory, fui contaminado por esse veneno da Escuridão. XXX
+// Arkhan3 G perso3
+L15D137B
+...Doente... Contaminado por esse veneno ao proteger a Lory. XXX
+// Danrys perso9
+L15D02Z
+Isto não está bem, nada bem... XXX
+// Arkhan2 G (interpela Danrys, que trabalha) perso2
+L15D01A
+Eh, Danrys! XXX
+// Arkhan3 G (interpela Danrys, que trabalha) perso3
+L15D01B
+Danrys! XXX
+// Danrys perso9
+L15D03A
+Sim, Arkhan? XXX
+// Danrys (Arkhan afasta-se e depois volta) perso9
+L15D03B
+Esqueceste algo? XXX
+// Arkhan2 G (esforçando-se por abafar o barulho da máquina) perso2
+L15D01C
+Danrys! XXX
+// Arkhan3 G (esforçando-se para abafar o barulho da máquina) perso3
+L15D01D
+Danrys! XXX
+// Danrys perso9
+L15D97A
+Não te ouço! XXX
+// Danrys perso9
+L15D97B
+Vou parar a mó! XXX
+// Danrys (desligou a mó) perso9
+L15D03C
+Ah, a calma depois da tempestade! XXX
+// Danrys perso9
+L15D98
+Quem está aí? Arkhan, és tu? XXX
+// Danrys perso9
+L15D99
+Ah! Eras tu! XXX
+// Danrys perso9
+L15D101
+Está bem! Pára a mó! XXX
+// Danrys perso9
+L15D900A
+Aqui está! Talhei o cristal que querias. XXX
+// Danrys perso9
+L15D900B
+Evidentemente não está perfeito, mas deverá servir-te... XXX
+// Danrys (devolve a arma a Arkhan) perso9
+L15D900C
+Aqui está, como nova! XXX
+// Danrys (devolve a arma a Arkhan) perso9
+L15D900D
+Lamento Arkhan... Era demasiado frágil, e parti-a! XXX
+// Danrys (interpela Arkhan que se vai embora) perso9
+L15D505
+Espera! A tua arma! XXX
+// Danrys (alcança Arkhan) perso9
+L15D504
+Volta a trazê-la se realmente queres que ta arranje... XXX
+// Danrys (encara Arkhan agressivo) perso9
+L15D04
+Arkhan, calma! Sou eu, o teu velho amigo Danrys! XXX
+// Danrys (Arkhan acalma-se) perso9
+L15D05
+Uff! Meteste-me um susto de morte! XXX
+// Arkhan2 G perso2
+L15D84A
+O último cristal! A chave está completa! XXX
+// Arkhan3 G perso3
+L15D84B
+O último cristal! A chave está completa! XXX
+// Arkhan2 G (descobre Danrys morto) perso2
+L15D113A
+Danrys... Tu não, meu amigo! XXX
+// Arkhan3 G (descobre Danrys morto) perso3
+L15D113B
+Danrys... Tu também! XXX
+// Arkhan2 G perso2
+L15D114A
+Vão pagá-lo! XXX
+// Arkhan3 G perso3
+L15D114B
+Vão pagá-lo! XXX
+// Danrys (Arkhan golpeia Danrys) perso9
+L15D76A
+Oh! Controla-te! XXX
+// Arkhan2 L perso2
+L15D300A
+Danrys... Preciso da tua ajuda, meu amigo. XXX
+// Arkhan2 L perso2
+L15D300B
+Lá em cima, os Guardiões do Fogo perseguem-me. XXX
+// Arkhan2 O perso2
+L15D301A
+É uma merda, Danrys! XXX
+// Arkhan2 O perso2
+L15D301B
+Não posso contar com ninguém... Exceto com a Kalhi e contigo. XXX
+// Arkhan2 O perso2
+L15D301C
+Lá em cima, os Pregadores e Guardiões do Fogo querem a minha cabeça. XXX
+// Arkhan3 L perso3
+L15D302A
+Danrys, ajuda-me... XXX
+// Arkhan3 L perso3
+L15D302B
+O mal avança em mim. Estou a transformar-me numa besta! XXX
+// Arkhan3 L perso3
+L15D302C
+Lá em cima, procuram-me para me matar. XXX
+// Arkhan3 O perso3
+L15D303A
+Danrys, ajuda-me, vou morrer... XXX
+// Arkhan3 O perso3
+L15D303B
+Este mal mata-me. XXX
+// Arkhan3 O perso3
+L15D303C
+E lá em cima, todos querem a minha pele! XXX
+// Kalhi (enfurecida) perso13
+L15D304A
+É verdade, Danrys. O Dhorkan tomou o controlo da Cidade Alta. XXX
+// Kalhi perso13
+L15D304B
+Os Guardiões do Fogo meteram-me na prisão... XXX
+// Kalhi perso13
+L15D304C
+E perseguem o Arkhan para o matar! XXX
+// Danrys perso9
+L15D305
+Acalma-te, Kalhi. Com tranquilidade. XXX
+// Danrys perso9
+L15D306A
+E tu, Arkhan, sabes que podes contar comigo. XXX
+// Danrys perso9
+L15D306B
+Faria o que fosse preciso para te ajudar... XXX
+// Arkhan2 G perso2
+L15D08A
+Podes arranjar esta arma? XXX
+// Arkhan3 G perso3
+L15D08B
+Esta arma. Reparável? XXX
+// Danrys perso9
+L15D901A
+Não, pelos raios de Antes, não posso fazer nada. XXX
+// Danrys perso9
+L15D901B
+Há demasiadas peças lá dentro, e não tenho as ferramentas necessárias. XXX
+// Danrys perso9
+L15D11A
+Parece estar em muito bom estado. XXX
+// Danrys perso9
+L15D11B
+Verifica se tens as munições adequadas. XXX
+// Danrys perso9
+L15D11C
+Está praticamente intacta, verei o que posso fazer... XXX
+// Danrys perso9
+L15D09
+Sim, acho... XXX
+// Danrys perso9
+L15D21C
+Vai lá atrás pôr a mó a funcionar! XXX
+// Danrys perso9
+L15D131A
+A tua arma está partida. XXX
+// Danrys perso9
+L15D131B
+Nesse caso, não posso fazer nada, lamento... XXX
+// Arkhan2 G perso2
+L15D12C
+Precisas desta peça para fabricar o lança-chamas? XXX
+// Arkhan3 G perso3
+L15D12D
+Achas que isso funcionará no lança-chamas? XXX
+// Danrys perso9
+L15D14A
+Vamos ver... Hum... XXX
+// Danrys perso9
+L15D14B
+Sim... Sim... Acho que isto servirá. XXX
+// Danrys perso9
+L15D14C
+Pronto, mas tem de ser testado. XXX
+// Danrys perso9
+L15D14D
+Vou construir-te essa arma. XXX
+// Danrys perso9
+L15D14E
+Com isso, ninguém se atreverá a enfrentar-te! XXX
+// Arkhan2 G (mostra anel) perso2
+L15D322
+Procuro uns cristais... XXX
+// Arkhan3 G (mostra anel) perso3
+L15D323
+Procuro uns cristais... XXX
+// Danrys (intrigado) perso9
+L15D324
+Que é esse fedor? XXX
+// Arkhan2 L perso2
+L15D325A
+O meu pai tinha uma chave feita com quatro pedaços de cristal. XXX
+// Arkhan2 L perso2
+L15D325B
+Ele entregou cada pedaço a uma pessoa de confiança. XXX
+// Arkhan2 L perso2
+L15D325C
+Quando se ia embora, ela deu-me o anel da chave. XXX
+// Arkhan2 L perso2
+L15D325D
+Mas tenho de encontrar os outros três cristais. XXX
+// Arkhan2 O perso2
+L15D326A
+Deixa-me acabar! XXX
+// Arkhan2 O perso2
+L15D326B
+O meu pai tinha uma chave feita de quatro cristais. XXX
+// Arkhan2 O perso2
+L15D326C
+O problema é que os entregou e não se sabe a quem. XXX
+// Arkhan2 O perso2
+L15D326D
+A Grande Pregadora disse-me que num mês devo encontrar os outros. XXX
+// Arkhan3 G perso3
+L15D327A
+Quatro cristais que formam uma chave. XXX
+// Arkhan3 G perso3
+L15D327B
+O meu pai. Ele entregou os pedaços a outros. XXX
+// Arkhan3 G perso3
+L15D327C
+Devo recuperá-los o quanto antes. XXX
+// Danrys perso9
+L15D324Y
+Raramente vi cristais dessa espécie. XXX
+// Danrys perso9
+L15D324Z
+O mais provável é que objetos luminosos como esses se encontrem em casa dos Pregadores. XXX
+// Arkhan2 G perso2
+L15D328
+A Lory disse-me que o Bandor, o Mestre Construtor, talvez tenha um. XXX
+// Arkhan3 G perso3
+L15D329
+A Lory crê que o Mestre Construtor tem um... talvez. XXX
+// Danrys perso9
+L15D330A
+Bandor! XXX
+// Danrys perso9
+L15D330B
+Está na cidade baixa com os seus arquitetos há algum tempo... XXX
+// Danrys perso9
+L15D330C
+Mas com o que está a acontecer, tenho a certeza que já está a subir lá para cima, para a sua torre. XXX
+// Danrys perso9
+L15D330D
+Se o fores ver, não sejas demasiado brusco: é um maldito cobarde. XXX
+// Danrys (ressalta a palavra "plano") perso9
+L15D330E
+Se não fossem os seus sonhos e os seus planos, nunca se teria atrevido a descer aqui... XXX
+// Arkhan2 G perso2
+L15D331
+Não sabes a quem poderia o meu pai ter dado esses cristais? XXX
+// Arkhan3 G perso3
+L15D332
+A quem poderia o meu pai ter dado esses cristais? XXX
+// Danrys perso9
+L15D333
+Não sei. A mim não, em todo o caso... XXX
+// Danrys (Arkhan repete a pergunta) perso9
+L15D334
+Não, a sério, digo-te que não sei... XXX
+// Arkhan2 G (mostra cristal sem ter mostrado o anel) perso2
+L15D335
+Poderias encontrar-me um cristal deste tipo? XXX
+// Arkhan3 G (mostra cristal sem ter mostrado o anel) perso3
+L15D336
+Terias este tipo de cristal? XXX
+// Danrys (intrigado) perso9
+L15D337
+Que é isso? XXX
+// Arkhan2 L perso2
+L15D338A
+Devo reconstruir uma chave de cristal pertencente ao meu pai. XXX
+// Arkhan2 L perso2
+L15D338B
+São necessários quatro pedaços, mas não os encontrei. XXX
+// Arkhan2 L perso2
+L15D338C
+Sabes como encontrar um? XXX
+// Arkhan2 O perso2
+L15D339A
+O meu pai tinha uma chave composta de quatro pedaços que entregou... mas não sei a quem! XXX
+// Arkhan2 O perso2
+L15D339B
+Preciso dessa chave, e depressa! XXX
+// Arkhan2 O perso2
+L15D339C
+Talvez possas encontrar-me algo que substitua o que me falta. XXX
+// Danrys (reflexivo) perso9
+L15D340A
+Está bem.. Hum... XXX
+// Danrys perso9
+L15D340B
+Se há três pontas e um anel, seria preciso que visse as outras pontas... XXX
+// Danrys perso9
+L15D340C
+Então, poderia deduzir a forma que falta e fabricar uma peça para a substituir. XXX
+// Arkhan2 G perso2
+L15D341
+Encontrei um dos cristais... Mas ainda me faltam. XXX
+// Arkhan2 G perso2
+L15D342
+Então podes fazer-me um? XXX
+// Arkhan3 G perso3
+L15D343
+Então podes? XXX
+// Danrys perso9
+L15D344
+Sim. Mas como te disse, seria preciso que visse primeiro as outras pontas. XXX
+// Arkhan2 L perso2
+L15D345
+Aqui tens outro cristal, como me tinhas pedido. XXX
+// Arkhan2 O perso2
+L15D346
+Tu querias outro cristal, e aqui está! XXX
+// Arkhan3 L perso3
+L15D347
+Eis um segundo cristal. XXX
+// Arkhan3 O (grunhido) perso3
+L15D348
+O outro cristal. XXX
+// Danrys perso9
+L15D23A
+Vamos, vamos... XXX
+// Danrys perso9
+L15D23B
+De acordo, é o Rahal, o símbolo dos Pregadores. XXX
+// Danrys perso9
+L15D23C
+Deverei conseguir talhar-te um cristal com as medidas corretas. XXX
+// Danrys perso9
+L15D23D
+Agora o problema vai ser encontrar um. XXX
+// Danrys perso9
+L15D23E
+Esse tipo de matérias-primas não se encontra na rua... XXX
+// Danrys (primeira vez) perso9
+L15D24B
+Um quartzo em bruto poderia servir uma vez talhado. XXX
+// Danrys (segunda vez) perso9
+L15D24A
+Já te disse, encontra-me um quartzo... XXX
+// Danrys perso9
+L15D21A
+Vou poder fazer-te o pedaço que te falta... XXX
+// Danrys perso9
+L15D21B
+Põe a mó a funcionar, que eu trato disso já. XXX
+// Arkhan2 G perso2
+L15D608
+É uma substância de Antes, explosiva. XXX
+// Arkhan3 G perso3
+L15D609
+Uma substância de Antes. Explosiva. XXX
+// Danrys perso9
+L15D610
+Interessante... Mas que vais fazer? XXX
+// Arkhan2 G perso2
+L15D611
+Ainda não sei... XXX
+// Arkhan3 G perso3
+L15D612
+Não sei... ainda. XXX
+// Arkhan2 G perso2
+L15D604
+Sabes o que é? XXX
+// Arkhan3 G perso3
+L15D605
+Sabes o que é? XXX
+// Danrys perso9
+L15D607A
+Já te disse, o Bogdaran saberá melhor que eu dizer-te o que é. XXX
+// Danrys perso9
+L15D607B
+É um queixoso e um chato, mas é muito sábio. XXX
+// Danrys perso9
+L15D606A
+Um objeto de Antes... Há uma estranha substância lá dentro... XXX
+// Danrys perso9
+L15D606B
+Deverias mostrar isso ao Mestre Oleeiro, o Bogdaran. XXX
+// Arkhan2 L perso2
+L15D468
+Encontrei esta pedra no exterior. XXX
+// Arkhan2 O perso2
+L15D469
+Viste esta pedra? XXX
+// Arkhan3 G perso3
+L15D470
+Encontrei esta pedra... XXX
+// Danrys perso9
+L15D471
+Cristal de rocha! Obrigado, isto ser-me-á útil. XXX
+// Arkhan2 L perso2
+L15D350
+Acho que encontrei o cristal de rocha que querias! XXX
+// Arkhan2 O perso2
+L15D351
+Espero que seja isso que tu querias, porque estive quase a morrer para o conseguir! XXX
+// Arkhan3 L perso3
+L15D352
+Acho que tenho o cristal de rocha. XXX
+// Arkhan3 O perso3
+L15D353
+(grunhido) É o que querias? XXX
+// Danrys perso9
+L15D354
+Bem feito, Arkhan! Vou fazer-te a peça que falta. XXX
+// Arkhan2 G perso2
+L15D356A
+Inútil, finalmente encontrei o último cristal. XXX
+// Arkhan2 G perso2
+L15D356B
+Deixo-te isto aqui. Ser-te-á mais útil que a mim! XXX
+// Arkhan3 G perso3
+L15D357A
+Inútil, encontrei-o. XXX
+// Arkhan3 G perso3
+L15D357B
+Mas podes ficar com o anterior. XXX
+// Arkhan2 L perso2
+L15D600
+Podes ler isto? XXX
+// Arkhan2 O perso2
+L15D601
+Que lês aí? XXX
+// Arkhan3 G perso3
+L15D602
+Lê isso! XXX
+// Danrys perso9
+L15D603A
+Vá lá Arkhan, sabes que a leitura não é o meu forte. XXX
+// Danrys perso9
+L15D603B
+Não é a mim que tens de mostrar esse tipo de coisas... XXX

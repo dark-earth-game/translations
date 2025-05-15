@@ -1,0 +1,607 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\fr\NWDIAL06.TXT
+ // Dorkhan (A. était parti après l'avoir frappé) perso11
+L06D03A
+ Comment oses-tu revenir ici! XXX
+// Dorkhan perso11
+L06D03B
+ Ne me défie plus jamais de la sorte! XXX
+// Dorkhan perso11
+L06D43A
+ Que veut dire cette intrusion?! XXX
+// Dorkhan (désagréablement surpris de voir Arkhan) perso11
+L06D43B
+ Arkhan? C'est bien toi! Tu es... debout. XXX
+// Dorkhan perso11
+L06D43C
+ Encore toi!  XXX
+// Dorkhan perso11
+L06D44A
+ Evite d'aller et venir ainsi! XXX
+// Dorkhan perso11
+L06D44B
+ As-tu au moins fait ce que je t'avais ordonné? XXX
+// Dorkhan (menaçant) perso11
+L06D44C
+ Tu es revenu? Je t'avais pourtant mis en garde! XXX
+// Dorkhan (menaçant) perso11
+L06D44D
+ Sors d'ici ou par mon épée je t'apprendrai qui commande! XXX
+// Dorkhan (Arkhan l'agresse) perso11
+L06D32
+ Gardiens du Feu! A moi! XXX
+// Arkhan1 L perso1
+L06D42A
+ Lumière sur vous, Prévôt Dhorkan! XXX
+// Dorkhan perso11
+L06D05A
+ Ah, Arkhan, te voilà! XXX
+// Arkhan1 L (cherchant à s'excuser) perso1
+L06D42B
+ Prévôt Dhorkan, désolé, je... j'étais... heu... XXX
+// Arkhan1 O  (désinvolte)perso1
+L06D42C
+ Salut, Prévôt! XXX
+// Arkhan1 O (mentant) perso1
+L06D42D
+ Prévôt Dhorkan, désolé, Zed m'a retenu... Vous savez comme il est... XXX
+// Dorkhan perso11
+L06D05B
+ Epargne-moi ton arrogance et tes mauvaises excuses! Pas aujourd'hui! XXX
+// Dorkhan perso11
+L06D05C
+ La Grande Prôneuse Lory préside un conseil important au temple du Soleil-Dieu. XXX
+// Dorkhan perso11
+L06D05D
+ Tu es désigné pour monter la garde à la porte de la salle du conseil. XXX
+// Dorkhan perso11
+L06D05E
+ Le Gardien du Feu Jedar t'attend là-bas depuis un bon moment déjà. XXX
+// Dorkhan perso11
+L06D05F
+ Descends prendre ton poste avant l'arrivée de la Grande Prôneuse. XXX
+// Dorkhan (énervé) perso11
+L06D04
+ Qu'est-ce que tu fais là! Retourne à ton poste immédiatement! XXX
+// Dorkhan perso11
+L06D06A
+ Gardien du Feu, descends immédiatement prendre ton poste! XXX
+// Dorkhan perso11
+L06D06B
+ Arkhan! Quand je donne un ordre, j'entends qu'on l'exécute! XXX
+// Dorkhan perso11
+L06D06C
+ Sors de la caserne et va rejoindre Jedar avant l'arrivée de la Grande Prôneuse! XXX
+// Dorkhan perso11
+L06D06D
+ C'est de la rébellion! XXX
+// Dorkhan (s'apprête à sortir l'épée) perso11
+L06D06E
+ Rejoins ton poste ou je te promets une leçon que tu n'oublieras pas! XXX
+// Dorkhan perso11
+L06D06F
+ Cette fois, tu as gagné le privilège de tâter de mon épée! XXX
+// Dorkhan perso11
+L06D28Z
+ La coupe est pleine! Prépares-toi à mourir! XXX
+// Phedoria (alarmée) perso26
+L06D84
+ Le Prévôt! XXX
+// Phedoria perso26
+L06D07
+ Arkhan! Assassin! XXX
+// Phedoria perso26
+L06D62
+ Dhorkan, ne bouge plus, tu es mon prisonnier! XXX
+// Dorkhan perso11
+L06D39
+ Sombres crétins! Vous ne m'aurez jamais! XXX
+// Phedoria (tire sur Dorkhan et le rate) perso26
+L06D40
+ Foutre-feu! Raté! XXX
+// Arkhan2 G perso2
+L06D35A
+ Il ne doit pas s'échapper! XXX
+// Arkhan3 G perso3
+L06D35B
+ Il faut l'arrêter! XXX
+// Phedoria perso26
+L06D41
+ Poursuis-le, je vais prévenir Lory! XXX
+// Arkhan2 O (furieux) perso2
+L06D33B
+ Par ma torche, tu l'as raté exprès! XXX
+// Arkhan3 O (furieux) perso3
+L06D33D
+ Maudit! Il s'enfuit! XXX
+// Arkhan2 G perso2
+L06D82
+ Dhorkan n'est plus là! XXX
+// Arkhan3 G perso3
+L06D83
+ Dhorkan n'est plus là! XXX
+// Dorkhan (impératif) perso11
+L06D77B
+ Bon, laisse-moi maintenant. XXX
+// Dorkhan perso11
+L06D214B
+ Ne reste pas ici, allez! XXX
+// Dorkhan (impérieux) perso11
+L06D16A
+ Tu t'oublies Arkhan! XXX
+// Dorkhan perso11
+L06D53B
+ Sors avant qu'il ne t'arrive malheur! XXX
+// Dorkhan perso11
+L06D16F
+ Maintenant, hors d'ici! XXX
+// Dorkhan perso11
+L06D80C
+ Allez, dehors! XXX
+// Dorkhan perso11
+L06D18C
+ Hors de ma vue, tu empuantis cette pièce! XXX
+// Dorkhan perso11
+L06D20
+ Hors d'ici raclure difforme ou je te passe par l'épée! XXX
+// Dorkhan (arrogant) perso11
+L06D26A
+ Crois tu pouvoir m'atteindre? Tu n'es qu'une moribonde copie d'humain! XXX
+// Dorkhan (arrogant) perso11
+L06D26H
+ Toi, tu n'es plus rien. Tu ne représentes aucun danger pour moi! XXX
+// Dorkhan perso11
+L06D05G
+ Arkhan! Attends, ne pars pas! XXX
+// Dorkhan perso11
+L06D54A
+ Arkhan! XXX
+// Dorkhan perso11
+L06D54B
+ Que ce soit clair : je te fais une faveur mais ne reviens pas sans informations! XXX
+// Dorkhan perso11
+L06D54C
+ C'est moi qui dirige le Stallite, désormais.  XXX
+// Dorkhan perso11
+L06D54D
+ Si tu viens à l'oublier, tu finiras mort au fond d'un cachot. XXX
+// Dorkhan perso11
+L06D54E
+ C'est le sort que je réserve à ceux qui osent se dresser contre moi! XXX
+// Arkhan1 G perso1
+L06D09A
+ Un mécanisme. XXX
+// Arkhan2 G perso2
+L06D09B
+ Un mécanisme, comme une serrure. XXX
+// Arkhan3 G perso3
+L06D09C
+ Un mécanisme. XXX
+// Arkhan2G perso2
+L06D669
+ C'est par là que Dhorkan a dû s'enfuir... XXX
+// Arkhan3G perso3
+L06D670
+ C'est par là que Dhorkan a dû s'enfuir... XXX
+// Arkhan1 L (pas enthousiaste de devoir monter la garde) perso1
+L06D10A
+ Prévôt Dhorkan, je serais peut-être plus utile en... heu...  XXX
+// Arkhan1 O (pas enthousiaste de devoir monter la garde) perso1
+L06D10B
+ Monter la garde avec Jedar. Oh, non! Vous n'avez pas besoin de moi ailleurs? XXX
+// Dorkhan (énervé) perso11
+L06D10C
+ Arkhan, ça suffit! Les ordres émanent de la Grande Prôneuse Lory en personne! XXX
+// Dorkhan (énervé) perso11
+L06D10D
+ Descends prendre ton poste immédiatement! XXX
+// Arkhan1 L perso1
+L06D11A
+ Un conseil avec la Grande Prôneuse? Qui veut la voir? XXX
+// Arkhan1 O perso1
+L06D11B
+ Qui a réussi à sortir la Grande Prôneuse de son lit aux premières lueurs du jour? XXX
+// Dorkhan (surpris par l'arrogance d'A. puis se reprend) perso11
+L06D12A
+ Qui? Heu... Surveille tes paroles et contente-toi d'obéir, Gardien! XXX
+// Dorkhan perso11
+L06D12B
+ Descends rapidement avec tes armes pour accueillir la Grande Prôneuse. XXX
+// Arkhan1 L perso1
+L06D01A
+ Je... XXX
+// Arkhan1 O perso1
+L06D01B
+ Mais... XXX
+// Dorkhan perso11
+L06D666
+ Allez, à ton poste! XXX
+// Arkhan2 L perso2
+L06D13A
+ Dhorkan, je suis malade!  XXX
+// Arkhan2 L perso2
+L06D13B
+ Les agresseurs de la Grande Prôneuse, ils m'ont... empoisonné avec cette substance noire!  XXX
+// Arkhan2 L perso2
+L06D13C
+ Certains me prennent pour un ennemi. C'est faux : je n'ai fait que mon devoir! XXX
+// Arkhan2 O perso2
+L06D14A
+ Dhorkan, par l'Obscur, rappelle les Gardiens du Feu! XXX
+// Arkhan2 O perso2
+L06D14B
+ Les salopards qui ont attaqué Lory m'ont empoisonné et maintenant on veut ma peau! XXX
+// Arkhan2 O perso2
+L06D14C
+ J'ai fait mon devoir et je suis l'un des vôtres. Vous devez me protéger! XXX
+// Arkhan3 L perso2
+L06D63
+ Les agresseurs de Lory m'ont empoisonné... Tout le monde s'en prend à moi. J'ai besoin d'aide! XXX
+// Arkhan3 O (énervé) perso2
+L06D64
+ Dhorkan, j'suis malade et on veut ma peau. Tu dois m'aider! XXX
+// Dorkhan perso11
+L06D45A
+ Calme-toi, calme-toi... XXX
+// Dorkhan perso11
+L06D45B
+ Le guérisseur, Thanandar, que dit-il? XXX
+// Arkhan2 G perso2
+L06D46A
+ Il m'a parlé d'une crypte et d'un remède qui s'y trouverait...  XXX
+// Arkhan2 G perso2
+L06D46B
+ Il m'a dit d'aller trouver mon père, qu'il pourrait m'y conduire. XXX
+// Arkhan3 G perso3
+L06D47A
+ Il a parlé d'une crypte, d'un remède. Dit que mon père pouvait m'y conduire. XXX
+// Dorkhan perso11
+L06D65A
+ Balivernes! Ce Thanandar t'a menti pour te donner espoir.  XXX
+// Dorkhan perso11
+L06D65B
+ La vérité, c'est que les Prôneurs ne contrôlent plus la situation. XXX
+// Dorkhan (exultant) perso11
+L06D65C
+ C'est pour cela que j'ai dû prendre le commandement du Stallite! XXX
+// Dorkhan (soudain affable) perso11
+L06D65D
+ Tu sais le respect que j'ai pour ton père et la Grande Prôneuse Lory.  XXX
+// Dorkhan perso11
+L06D65E
+ C'est afin de les protéger que j'ai décrété la loi martiale. XXX
+// Dorkhan perso11
+L06D65F
+ Quant à toi... Tu étais certes un bon Gardien du Feu. XXX
+// Dorkhan perso11
+L06D65G
+ Mais, maintenant, qui peut jurer que tu es encore digne de confiance? XXX
+// Arkhan2 L perso2
+L06D72A
+ Dhorkan, je jure par le Soleil-Dieu que je n'ai rien fait de mal. XXX
+// Arkhan2 L perso2
+L06D72B
+ Je suis toujours un homme. Le guérisseur Thanandar m'en sera témoin. XXX
+// Arkhan2 O perso2
+L06D73A
+ J'ai rien fait! C'est les autres qui ont peur de ma gueule! XXX
+// Arkhan2 O perso2
+L06D73B
+ J'suis toujours un homme. Demande au guérisseur! XXX
+// Arkhan3 L perso3
+L06D74
+ Je ne suis pas un traître! Ce sont les autres qui se défient de moi! XXX
+// Arkhan3 O perso3
+L06D75
+ Je n'ai rien fait! XXX
+// Dorkhan perso11
+L06D76A
+ Peut-être mais Thanandar n'aurait pas dû te laisser partir... XXX
+// Dorkhan perso11
+L06D76B
+ Il aurait dû se contenter de son rôle de guérisseur; celui de conseiller lui va très mal! XXX
+// Dorkhan perso11
+L06D76C
+ Je n'ai pas confiance en lui. Si tu veux revenir parmi les tiens, prouve-moi ta loyauté. XXX
+// Dorkhan perso11
+L06D76D
+ Retrouve Thanandar et rapporte-moi ses faits et gestes. XXX
+// Dorkhan perso11
+L06D76E
+ Va! XXX
+// Arkhan2 G perso2
+L06D48A
+ Je n'ai pas vu Thanandar... XXX
+// Arkhan3 G perso2
+L06D48B
+ Je n'ai pas vu Thanandar... XXX
+// Dorkhan perso11
+L06D51A
+ Alors ne restes pas ici, j'ai à faire! XXX
+// Dorkhan perso11
+L06D51B
+ Un autre que moi t'aurait déjà mis aux fers. XXX
+// Dorkhan perso11
+L06D51C
+ J'ai du respect pour toi mais n'abuse pas de ma générosité! XXX
+// Arkhan2 L perso2
+L06D204A
+ Je suis retourné voir Thanandar. XXX
+// Arkhan2 L perso2
+L06D204B
+ Il est en train de soigner quelqu'un. XXX
+// Arkhan3 L perso2
+L06D205A
+ J'ai revu Thanandar. XXX
+// Arkhan3 L perso2
+L06D205B
+ Il... soigne quelqu'un. XXX
+// Dorkhan perso11
+L06D206A
+ Hum... Bien... XXX
+// Dorkhan perso11
+L06D206B
+ S'il se passe autre chose, préviens-moi de suite. XXX
+// Dorkhan perso11
+L06D206C
+ Et d'ici là, reste discret, les autres Gardiens ne sont pas aussi magnanimes que moi. XXX
+// Arkhan2 O perso2
+L06D207A
+ J'ai vu Thanandar. XXX
+// Arkhan2 O perso2
+L06D207B
+ Il essaye d'arranger la gueule de Dulnys. XXX
+// Arkhan2 O perso2
+L06D207C
+ Après ce que je lui ai mis, il va avoir du mal! XXX
+// Arkhan3 O perso3
+L06D208A
+ J'ai vu Thanandar. XXX
+// Arkhan3 O perso3
+L06D208B
+ Il essaye de soigner le Gardien Dulnys! XXX
+// Arkhan3 O perso3
+L06D208C
+ Vu comme j'l'ai cogné, faudra un miracle du Soleil-Dieu! XXX
+// Dorkhan (en colère) perso11
+L06D209A
+ Tu oublies à qui tu parles, Arkhan! XXX
+// Dorkhan perso11
+L06D209B
+ Si j'étais toi, je ne viendrais pas ici me vanter d'avoir frappé un Gardien du Feu. XXX
+// Dorkhan perso11
+L06D209C
+ Sors d'ici avant que j'oublie ma sympathie à ton égard! XXX
+// Arkhan2 L perso2
+L06D210
+ Thanandar est toujours au chevet de Dulnys. XXX
+// Arkhan2 O perso2
+L06D211
+ Thanandar est toujours occupé à recoudre Dulnys. XXX
+// Arkhan3 L perso3
+L06D212
+ Thanandar soigne toujours Dulnys. XXX
+// Arkhan3 G perso3
+L06D213
+ Thanandar continue de recoudre Dulnys! XXX
+// Dorkhan perso11
+L06D214A
+ Ce n'était pas la peine de revenir pour me dire ça. XXX
+// Arkhan2 G perso2
+L06D49A
+ J'ai dû tuer Thanandar! XXX
+// Arkhan2 G perso2
+L06D49B
+ J'ai pas eu le choix... C'est lui qui m'a agressé! XXX
+// Arkhan2 G perso2
+L06D49C
+ Et il y avait un autre type avec lui... XXX
+// Arkhan3 G perso3
+L06D50A
+ J'ai tué Thanandar, lui et un autre type... XXX
+// Dorkhan perso11
+L06D77A
+ Thanandar mort? Parfait! J'ai eu tort de m'inquiéter.  XXX
+// Arkhan2 G perso2
+L06D78
+ Oui, mais attends... XXX
+// Arkhan3 G perso3
+L06D79
+ Attends... XXX
+// Dorkhan (interrompant Arkhan) perso11
+L06D80A
+ Arkhan, je suis un homme de parole et je vais te laisser partir...  XXX
+// Dorkhan perso11
+L06D80B
+ Mais ne t'avise jamais de me barrer la route! XXX
+// Arkhan2 L perso2
+L06D21A
+ Mon père m'a dit qu'il passait te voir... où est-il? XXX
+// Arkhan2 O perso2
+L06D21B
+ Mon père est passé te voir... Dis moi où il est! XXX
+// Arkhan3 L perso3
+L06D21C
+ Où est mon père? XXX
+// Arkhan3 O perso3
+L06D21D
+ Dis moi où est mon père! XXX
+// Dorkhan (feignant d'ignorer où est Rylsadhar) perso11
+L06D22A
+ Ton père? Comment veux-tu que je le sache. Je suppose qu'il est allé se cacher quelque part... se mettre en sécurité. XXX
+// Dorkhan perso11
+L06D22B
+ Maintenant disparais si tu ne veux pas goûter au cachot! XXX
+// Arkhan2 G perso2
+L06D52A
+ Mais, on ne devrait pas... XXX
+// Arkhan3 G perso3
+L06D52B
+ Dhorkan, attends... XXX
+// Dorkhan perso11
+L06D53A
+ Arkhan! Les Prôneurs ne sont pas aussi magnanimes que moi.  XXX
+// Arkhan2 L perso2
+L06D15A
+ Dhorkan j'ai besoin de ton aide. XXX
+// Arkhan2 O perso2
+L06D81A
+ Ca y est, tu n'as plus besoin de moi, tu me jettes! XXX
+// Arkhan2 O perso2
+L06D81B
+ Tu n'es pas digne de ton rang, Dhorkan. Tu me dégoûtes! XXX
+// Arkhan3 L perso3
+L06D15C
+ Dhorkan. Sans ton aide, je suis perdu! XXX
+// Arkhan3 O perso3
+L06D15D
+ Foutre noir, tu m'abandonnes! XXX
+// Dorkhan perso11
+L06D16B
+ Tu as agressé des Gardiens du Feu... Ca mériterait le bannissement! XXX
+// Dorkhan perso11
+L06D16C
+ Mais j'ai eu du respect pour toi et pour ça je vais te laisser partir. XXX
+// Dorkhan perso11
+L06D16D
+ Si c'est de l'aide que tu veux, va geindre chez les Prôneurs! XXX
+// Dorkhan perso11
+L06D16E
+ Ils sont responsables de ton triste destin! XXX
+// Arkhan2 L perso2
+L06D17A
+ Et cette crypte dont Thanandar m'a parlé... XXX
+// Arkhan2 O perso2
+L06D17B
+ Dis moi au moins ce que tu sais sur la crypte! XXX
+// Arkhan3 G perso3
+L06D17C
+ Que sais-tu de la crypte? XXX
+// Dorkhan (dédaigneux) perso11
+L06D18A
+ Cette crypte... encore une invention des Prôneurs pour te berner. XXX
+// Dorkhan perso11
+L06D18B
+ Un conseil : oublie ces mensonges. XXX
+// Arkhan2 L perso2
+L06D19A
+ Tu me déçois Dhorkan.  XXX
+// Arkhan2 L perso2
+L06D19B
+ Tu te crois un maître et tu n'es qu'un lâche sans honneur! XXX
+// Arkhan2 O perso2
+L06D19C
+ Par ma torche, tu n'es qu'un lâche sans honneur! XXX
+// Arkhan3 L perso3
+L06D19D
+ Tu m'abandonnes! XXX
+// Arkhan3 O perso3
+L06D19E
+ Traître! XXX
+// Arkhan2 G (sort son atout) perso2
+L06D23A
+ Dis-moi... Et si on parlait de... SORDOS! XXX
+// Arkhan3 G (sort son atout) perso3
+L06D23B
+ Et si on parlait de... SORDOS! XXX
+// Dorkhan (pris de court) perso11
+L06D24
+ Hein? Que... Que veux-tu insinuer? XXX
+// Arkhan2 G perso2
+L06D25A
+ Je suis au courant de tout. Et j'attends des explications! XXX
+// Arkhan2 O perso2
+L06D25B
+ Je sais tout!  XXX
+// Arkhan3 G (menaçant) perso3
+L06D25D
+ Je sais tout. Ta folie prend fin! XXX
+// Dorkhan (arrogant) perso11
+L06D26B
+ Tu crois tout savoir mais ton esprit malade ne comprends plus rien. XXX
+// Dorkhan (arrogant) perso11
+L06D26C
+ J'ai de grands projets pour ce Stallite.  XXX
+// Dorkhan (arrogant) perso11
+L06D26D
+ Les Prôneurs sont des faibles incapables de prendre les décisions qui s'imposent. XXX
+// Dorkhan (arrogant) perso11
+L06D26E
+ Sous mon règne, une nouvelle ère s'annonce! XXX
+// Dorkhan (arrogant) perso11
+L06D26F
+ Et s'il faut s'allier à une crapule comme Sordos pour imposer la grandeur de mes desseins aux larves qui peuplent Sparta... XXX
+// Dorkhan (arrogant) perso11
+L06D26G
+ Je le ferai sans hésiter! XXX
+// Dorkhan (dédaigneux) perso11
+L06D26I
+ Qui irait croire un champignon humain, hein? XXX
+// Dorkhan (dédaigneux) perso11
+L06D26J
+ Même tes amis se retournent contre toi! XXX
+// Arkhan2 G (menaçant) perso2
+L06D27
+ Par la lumière du Soleil-Dieu, je montrerai à tous ton vrai visage! XXX
+// Arkhan3 G perso3
+L06D667A
+ J'aurai ta tête! XXX
+// Arkhan3 G perso3
+L06D667B
+ Ils verront que le monstre n'est pas celui qu'on croit! XXX
+// Dorkhan perso11
+L06D28A
+ Personne ne t'écoutera, il te faudrait des preuves. XXX
+// Dorkhan perso11
+L06D28B
+ Et tu n'as rien! XXX
+// Arkhan1 G perso1
+L06D200
+ Prevôt, vous connaissez ceci? XXX
+// Dorkhan (sec) perso11
+L06D203
+ Suffit! Je m'en moque! XXX
+// Arkhan1 G perso1
+L06D66
+ Gare à toi, Dhorkan! XXX
+// Arkhan2 G perso2
+L06D67
+ Crève Dhorkan! XXX
+// Arkhan3 G perso3
+L06D68
+ Crève! XXX
+// Arkhan2 G perso2
+L06D69
+ Ton heure est venue, traître! XXX
+// Arkhan3 G perso3
+L06D70
+ Meurs, traître! XXX
+// Arkhan2 L perso2
+L06D33A
+ Un passage secret! Rattrapons-le! XXX
+// Arkhan3 L perso3
+L06D33C
+ Rattrapons-le! XXX
+// Phedoria (pour elle-même) perso26
+L06D34A
+ Je ne connaissais pas ce passage. XXX
+// Phedoria perso26
+L06D34B
+ Ne reste pas là, rattrape-le! XXX
+// Phedoria (excédée) perso26
+L06D60
+ Ca suffit! Rattrape Dhorkan! XXX
+// Phedoria perso26
+L23D107
+ Tu scelles ton destin! XXX
+// Arkhan2 G perso2
+L06D55C
+ Il n'y a plus rien. XXX
+// Arkhan3 G perso3
+L06D55D
+ Plus rien. XXX
+// Phedoria perso26
+L06D61A
+ Vois si tu peux le rattraper par là! XXX
+// Phedoria perso26
+L06D61B
+ Je vais tenter d'ouvrir le passage! XXX

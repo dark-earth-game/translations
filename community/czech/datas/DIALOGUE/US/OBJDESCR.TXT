@@ -1,0 +1,203 @@
+12345678901234567890123456789012345678901234567890
+
+@1
+Bogdarans alte Uniform
+@2
+Rylsadhars Schlüsselring
+@3
+Metall-Lochkarte
+@4
+Teller
+@5
+Metallstab
+@6
+Munition für Feuerwerfer
+@7
+Bleikugeln für Bleispucker
+@8
+Kocher für Bleispucker
+@9
+Metallgriff
+@10
+Karte von Vorher
+@11
+Schlüssel aus rotem Stein
+@12
+Zugespitzter Kristall
+@13
+Gemüse
+@14
+Konkalitenschlüssel
+@15
+Sordos' Schlüssel
+@16
+Bogdarans Schlüssel
+@17
+Hammer
+@18
+Kristallteil für Schlüssel (Abschrägung links)
+@19
+Kristallteil für Schlüssel (Abschrägung rechts)
+@20
+Spiegel von Vorher
+@21
+Fläschchen
+@22
+Flakon
+@23
+Blitz von Vorher
+@24
+Feldflasche mit Stohll (voll)
+@25
+Kleidungsstücke
+@26
+Kampfaxt
+@27
+Feuerwerfer
+@28
+Langes Messer
+@29
+Propellerstab
+@30
+Hackbeil der Ernährerin
+@31
+Thanandars Trunk
+@32
+Blitz (Geschenk von Kalhi)
+@33
+Bleiplatte
+@34
+Kartoffel
+@35
+Zeds Blitz
+@36
+Dicke Wurzel
+@37
+Kurze Hellebarde
+@38
+Säbel eines Hüters des Feuers
+@39
+Mun. für Blitz (von Kalhi)
+@40
+Unbekanntes Objekt von Vorher (in Öl konserviert)
+@41
+Unbekanntes Objekt von Vorher
+@42
+Trinkgefäß aus Glas
+@43
+Fisch
+@44
+Geräuchertes Fleisch
+@45
+Bergkristall-Lamelle
+@46
+Rylsadhars Aufzeichnungen
+@47
+Schwere Konkalitenaxt
+@48
+Propellerstab (zerbrochen)
+@49
+Sordos' Pakt
+@50
+Waffenplan
+@51
+Blatt des Brunnenpropellers
+@52
+Rylsadhars Zeichnungen
+@53
+Konkalitenwaffe
+@54
+Feuerkugel
+@55
+Bleispucker
+@56
+Zerquetschte Ratte
+@57
+Sordos' Waffe
+@58
+Zeds Säbel
+@59
+Säbel des Wanderers
+@60
+Dhorkans Geldstück
+@61
+Phedorias Waffe (zzz)
+@62
+Hellebarde (zzz)
+@63
+Kalhis Dolch
+@64
+Hähnchenkeule
+@65
+Keramikschüssel
+@66
+Lorys Blitz
+@67
+Kampfaxt
+@68
+Zeds Blitz (auf Zed)
+@69
+Sichern
+@70
+Plan des Meisters der Erbauer
+@71
+Metallanzug (sehr schwer)
+@72
+Munition für den Blitz von Vorher
+@73
+Munition für Zeds Blitz
+@74
+Danrys' Eispickel
+@75
+Rylsadhars Kristallschlüssel
+@76
+Maors Hammer
+@77
+Feldflasche (leer)
+@78
+Danrys' kleine Waffe
+@79
+Axt eines Hüters des Feuers
+@80
+Dhorkans Schwert
+@81
+Rylsadhars Pergament
+@82
+Buch des Archivisten
+@83
+Säbel eines Hüters des Feuers
+@84
+Metallhelm
+@85
+Metallener Brustharnisch (sehr schwer)
+@86
+Sauerstoff-Flasche von Vorher
+@87
+Yong-Spielstein
+@88
+Bogdarans Rohr
+@89
+Gefängnisschlüssel
+@90
+Bleikugel
+@91
+Dolch
+@92
+Langer Dolch
+@93
+Dhorkans Stilett
+@94
+Kabaks Stößel
+@95
+Kabaks Mörser
+@96
+Großer Stahlschlüssel
+@97
+Kanister
+@98
+Schleifstein
+@99
+Verschlossene Metallbüchse
+@100
+(arme brisée)
+@Ende

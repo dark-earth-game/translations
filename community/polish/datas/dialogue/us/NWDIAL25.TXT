@@ -1,0 +1,388 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL25.TXT
+ // Kalhi (frightened) perso13
+L25D106
+ Arkhan, wrociles? Co sie dzieje? XXX
+// Arkhan2 G perso2
+L25D200A
+ Nikogo! XXX
+// Arkhan2 G perso2
+L25D200B
+ Gdzie poszla Kalhi i moj ojciec?! XXX
+// Arkhan3 G perso3
+L25D201A
+ Nikogo! XXX
+// Arkhan3 G perso3
+L25D201B
+ Gdzie jest Kalhi i moj ojciec?! XXX
+// Kalhi (arrives shouting, interrupts) perso13
+L25D15
+ Patrzacy w Slonce Rylsadhar, co... XXX
+// Kalhi (frightened) perso13
+L25D16A
+ Na wielkie Boskie Slonce! A... Arkhan? XXX
+// Kalhi (frightened) perso13
+L25D16B
+ To... To ty? XXX
+// Rylsadhar perso20
+L25D100A
+ Tak, to naprawde Arkhan. XXX
+// Rylsadhar perso20
+L25D100B
+ Zainfekowali go ci sami ludzie, ktorzy probowali zamordowac Lory. XXX
+// Rylsadhar (uneasy in Kalhi's presence) perso20
+L25D17A
+ Arkhan, jak juz mowilem... ja... zabiore cie tam, gdzie sie umawialismy. XXX
+// Rylsadhar (uneasy in Kalhi's presence) perso20
+L25D17B
+ Jednak najpierw musze sie rozmowic z komendantem Dhorkanem i otrzymac jego zezwolenie. XXX
+// Rylsadhar (uneasy in Kalhi's presence) perso20
+L25D17C
+ Idz sie spotkac z Archiwista Sesekhanem i zaczekaj tam na mnie. XXX
+// Kalhi (tearfully) perso13
+L25D18A
+ Arkhan! Oh, kochanie, co oni ci zrobili? XXX
+// Kalhi (tearfully) perso13
+L25D18B
+ Twoja... twoja twarz, twoje rece... XXX
+// Kalhi (tearfully) perso13
+L25D18C
+ Musisz sie udac na konsultacje z uzdrowicielami ze szpitala! XXX
+// Rylsadhar1 perso20
+L25D93
+ Nie zapomnij Arkhanie: spotkasz sie ze mna w Swiatyni, u Archiwisty! XXX
+// Rylsadhar (A. hits him) perso20
+L25D26
+ Klatwa Mroku odebrala ci zmysly! XXX
+// Rylsadhar (A. hits him) perso20
+L25D55
+ Moj synu, nie! Daj odpor truciznie, ktora zzera twoja dusze! XXX
+// Rylsadhar (alarmed by Arkhan's appearance) perso20
+L25D07A
+ Arkhan! Na Wielkiego Solaara! Czy to na pewno ty? XXX
+// Rylsadhar (alarmed by Arkhan's appearance) perso20
+L25D07B
+ Lory miala racje, oni zatruli twoja dusze. To Klatwa Mroku! XXX
+// Rylsadhar perso20
+L25D27
+ Prosze, synu moj. Uspokoj sie! XXX
+// Arkhan1 L perso1
+L25D01A
+ Swiatlosc niech bedzie z toba, Ojcze. XXX
+// Arkhan1 L perso1
+L25D01B
+ Dobrze sie czujesz? Wygladasz na zdenerwowanego... XXX
+// Arkhan1 O perso1
+L25D106A
+ Witaj ojcze! XXX
+// Arkhan1 O perso1
+L25D106B
+ Nie wygladasz najlepiej! XXX
+// Rylsadhar perso20
+L25D02A
+ Niech Swiatlosc kroczy z toba, Arkhanie. XXX
+// Rylsadhar perso20
+L25D02B
+ Moj umysl wypelniaja mroczne problemy, ktorym musze zaradzic. XXX
+// Arkhan1 L perso1
+L25D03
+ Jestes pewien, ze wszystko u ciebie w porzadku? XXX
+// Arkhan1 O perso1
+L25D06
+ Co sie dzieje? Wielki Patrzacy zgasil przeznaczone dla ciebie swiatlo? XXX
+// Rylsadhar perso20
+L25D04A
+ Wystarczy, Arkhan. XXX
+// Rylsadhar (wearily)perso20
+L25D04B
+ Prosze cie, synu. Pozwol mi byc z ciebie dumnym. Powroc na swoje stanowisko. XXX
+// Rylsadhar perso20
+L25D04C
+ Komendant uwielbia przypominac mi jak czesto spozniasz sie do pracy! XXX
+// Arkhan2 G perso1
+L25D104
+ Czy z czyms ci sie to kojarzy, ojcze? XXX
+// Rylsadhar perso20
+L25D105A
+ Nie zawracaj mi glowy, Arkhanie, zbyt wiele mam teraz spraw do przemyslenia. XXX
+// Rylsadhar perso20
+L25D105B
+ A i ty chyba masz bardziej istotne sprawy na glowie! XXX
+// Arkhan2 L perso2
+L25D08
+ Ojcze, co sie ze mna dzieje? Co za licho mnie opetalo? XXX
+// Rylsadhar (touched by the fate of his son) perso20
+L25D09A
+ Arkhan... synu drogi. Twoja odwaga uratowala Wielka Patrzaca. XXX
+// Rylsadhar perso20
+L25D09B
+ Ale nie mam pojecia,  w jaki sposob uratowac cie przed zlem. XXX
+// Rylsadhar perso20
+L25D09C
+ Zrobimy wszystko, co w naszej mocy, by przyniesc ci uzdrowienie. XXX
+// Rylsadhar perso20
+L25D09D
+ Thanandar, nasz najlepszy uzdrowiciel, juz nad tym ciezko pracuje. XXX
+// Arkhan2 L perso2
+L25D10A
+ Thanandar powiedzial, ze nie jest w stanie nic dla mnie zrobic. XXX
+// Arkhan2 L perso2
+L25D10B
+ Twierdzi, ze prawdziwe lekarstwo znajduje sie tylko w jakiejs Krypcie. XXX
+// Rylsadhar (startled) perso20
+L25D11
+ Co? Thanandar powiedzial ci o tym... miejscu? XXX
+// Arkhan2 G perso2
+L25D12A
+ Tak, dodal tez, ze jedynie ty mozesz mnie tam zaprowadzic... XXX
+// Arkhan2 G perso2
+L25D12B
+ Ojcze, potrzebuje twojej pomocy! XXX
+// Rylsadhar (making his decision) perso20
+L25D13A
+ Gdybym wiedzial, ze taki dzien nastanie... XXX
+// Rylsadhar perso20
+L25D13B
+ Twoja odwaga oraz poswiecenie uprawniaja cie do tego, bys poznal tajemnice! XXX
+// Rylsadhar perso20
+L25D13C
+ Zapamietaj sobie jedno: normalnie nie wolno mi ciebie do tego swietego miejsca doprowadzic. XXX
+// Rylsadhar perso20
+L25D13D
+ Musze zlamac swoja przysiege by cie uzdrowic. XXX
+// Rylsadhar perso20
+L25D13E
+ Musisz mi przysiac,  ze nigdy nikomu nie opowiesz o rzeczach, ktore tam ujrzysz. XXX
+// Arkhan2 L perso2
+L25D14
+ Przyrzekam. XXX
+// Arkhan2 O perso2
+L25D19
+ Ojcze, co sie ze mna dzieje? Przekleta niedolo, to naprawde boli! XXX
+// Arkhan2 O perso2
+L25D20A
+ Thanandar! On nic nie moze zrobic! XXX
+// Arkhan2 O perso2
+L25D20B
+ Twierdzi, ze lekarstwo znajduje sie w sekretnym miejscu. Jakiejs Krypcie! XXX
+// Arkhan2 O perso2
+L25D21
+ Tak..tak... Przysiegne co zechcesz, tylko pomoz mi wreszcie! XXX
+// Arkhan3 G perso3
+L25D22
+ Ojcze, to boli! XXX
+// Arkhan3 G perso3
+L25D23A
+ Thanandar... nie robi nic! XXX
+// Arkhan3 G perso3
+L25D23B
+ Rzekl, ze lekarstwo jest w Krypcie. XXX
+// Arkhan3 G perso3
+L25D24
+ Powiedzial, ze mnie tam zaprowadzisz! XXX
+// Arkhan3 G perso3
+L25D25
+ Okej. XXX
+// Kalhi perso13
+L25D85
+ Arkhan, nie! XXX
+// Kalhi perso13
+L25D86
+ No juz. Uspokoj sie. XXX
+// Kalhi (afraid) perso33
+L04D41
+ Arkhanie! Co cie naszlo? XXX
+// Arkhan2 L perso2
+L25D62
+ Nie martw sie, Kalhi, nic sie nam nie stanie. XXX
+// Arkhan2 O perso2
+L25D64
+ To naprawde zaczyna bolec. Lepiej znajde ojca! XXX
+// Kalhi (moved) perso13
+L25D63A
+ Tak, ufam Rylsadharowi. XXX
+// Kalhi (moved) perso13
+L25D63B
+ Powinienes natychmiast sie z nim zobaczyc. XXX
+// Arkhan2 L perso2
+L25D58
+ Moj ojciec nam pomoze, nie martw sie! XXX
+// Arkhan2 O perso2
+L25D61
+ Nie zamartwiaj sie, moj ojciec wszystkim sie zajmie! XXX
+// Kalhi (moved) perso13
+L25D59A
+ Na wielkie Boskie Slonce, mam nadzieje, ze on jest w stanie ci pomoc. XXX
+// Kalhi (moved) perso13
+L25D59B
+ Boje sie o ciebie, Arkhan. XXX
+// Kalhi (moved) perso13
+L25D59C
+ A co Patrzacy w Slonce powiedza, jak zobacza, ze... sie tak zmieniles. XXX
+// Kalhi (moved) perso13
+L25D59D
+ Beda sie bali. Wygnaja cie do Mrocznych Ziem! XXX
+// Arkhan2 L (reassuringly) perso2
+L25D56A
+ Kalhi... nie panikuj... XXX
+// Arkhan2 L perso2
+L25D56B
+ Posluchaj, musialem pojsc do szpitala. XXX
+// Arkhan2 L perso2
+L25D56C
+ Gwardzista Ognia mnie zaatakowal. XXX
+// Arkhan2 L perso2
+L25D56D
+ Nie rozpoznal mnie. Myslal, ze jestem stworem z Mroku. XXX
+// Arkhan2 O perso2
+L25D60A
+ Trzeba sie uspokoic! I nie wszczynaj halasu! XXX
+// Arkhan2 O perso2
+L25D60B
+ Nie moge isc do szpitala.. XXX
+// Arkhan2 O perso2
+L25D60C
+ Zawedrowalem tam, ale zanim cokolwiek zdazylem zrobic, napadl na mnie Gwardzista Ognia. XXX
+// Arkhan2 O perso2
+L25D60D
+ Darl sie, ze jestem Kreatura Mroku. Nie mialem wyjscia - musialem mu oddac! XXX
+// Kalhi (moved) perso13
+L25D57A
+ To co sie tutaj dzieje pokrotce nazwac trzeba stanem paniki. XXX
+// Kalhi (moved) perso13
+L25D57B
+ Komendant przejal kontrole nad Stallite. Bramy miasta sa zamkniete. XXX
+// Kalhi (moved) perso13
+L25D57C
+ Dostep do Nizszego Miasta jest odciety, nie moge wrocic. XXX
+// Kalhi (moved) perso13
+L25D57D
+ A Gwardzisci Ognia wszedzie szukaja winnych. XXX
+// Kalhi (moved) perso13
+L25D57E
+ Trwoze sie na mysl, co sie stanie, jesli mnie odnajda! XXX
+// Arkhan2 G perso2
+L25D94A
+ To musi nalezec do mojego ojca. XXX
+// Arkhan2 G perso2
+L25D94B
+ Czy wiesz, co to moze byc? XXX
+// Kalhi perso13
+L25D95
+ Nie, przeciez dobrze wiesz, ze nigdy nie nauczylam sie czytac... XXX
+// Kalhi perso13
+L25D101A
+ Nie, nic. XXX
+// Kalhi perso13
+L25D101B
+ Arkhan, zapomnij o tym! XXX
+// Kalhi perso13
+L25D101C
+ Najwazniejsze w tej chwili to odszukac dla ciebie lekarstwo! XXX
+// Arkhan3 G perso3
+L25D66
+ Musze odszukac ojca. XXX
+// Arkhan3 G perso3
+L25D67
+ Zaufaj Rylsadharowi. XXX
+// Arkhan3 G perso3
+L25D68A
+ Kalhi... spokojnie... XXX
+// Arkhan3 G perso3
+L25D68B
+ Szpital odpada... Gwardzista probowal mnie zabic. XXX
+// Arkhan3 G perso3
+L25D68C
+ A ja musialem sie bronic... no i go wykonczylem. XXX
+// Arkhan3 G perso3
+L25D102A
+ Nalezy do mojego ojca... XXX
+// Arkhan3 G perso3
+L25D102B
+ Czy wiesz, co to jest? XXX
+// Arkhan2 O perso2
+L04D37
+ Walczysz jak lalus! XXX
+// Arkhan2 L perso2
+L04D38
+ Hej, umiesz porzadnie sie bic, nie?! XXX
+// Arkhan3 O perso3
+L04D39
+ Taa.....to ma byc walka?! XXX
+// Arkhan3 L perso3
+L04D40
+ Hej, z pewnoscia umiesz walczyc! XXX
+// Kalhi (forced to defend herself) perso33
+L04D43
+ Arkhan, nie! XXX
+// Kalhi (frightened) perso33
+L04D42
+ Nie, Arkhan! Musisz sie bronic! XXX
+// Arkhan1 G perso1
+L25D28
+ Co tam sie dzieje? XXX
+// Arkhan1 G perso1
+L25D29
+ Nic godnego zachodu! XXX
+// Arkhan1 G perso1
+L25D30
+ Na tych polkach panuje straszny balagan! XXX
+// Arkhan2 G perso1
+L25D31
+ Tu nic nie ma. XXX
+// Arkhan2 G perso1
+L25D33
+ Do diabla! Nic. XXX
+// Arkhan3 G perso1
+L25D35
+ Nic. XXX
+// Arkhan1 L perso1
+L25D43
+ To pracownia mojego ojca. XXX
+// Arkhan1 O perso1
+L25D44
+ Biuro mojego ojca. XXX
+// Arkhan1 L (facing globe) perso1
+L25D49
+ Moj ojciec twierdzi, ze ta kula przedstawia nasz swiat. XXX
+// Arkhan1 O (facing globe) perso1
+L25D50
+ Nastepny bezuzyteczny kawalek smiecia ze Starego Swiata. XXX 
+// Arkhan1 G perso1
+L25D76
+ Z cala pewnoscia wyglada jak zamek. XXX
+// Arkhan2 G perso2
+L25D77
+ Wyglada na zamek. XXX
+// Arkhan2 L perso2
+L25D81
+ Tym nie dam rady otworzyc. XXX
+// Arkhan3 G perso3
+L25D78
+Dziwny ten zamek. XXX
+// Arkhan3 L perso3
+L25D84
+ Na nic mi sie to nie przyda! XXX
+// Arkhan2 L perso2
+L25D79
+ Nie, brakuje jakiegos elementu klucza. XXX
+// Arkhan2 O perso2
+L25D80
+ Do diabla! Nie pasuje! XXX
+// Arkhan3 L perso3
+L25D82
+ Brakuje jakiegos elementu klucza! XXX
+// Arkhan3 O perso3
+L25D83
+ Nie dziala! XXX
+// Arkhan2 O (frustrated) perso2
+L25D74
+ Gdzie poszedl moj ojciec!? XXX
+// Arkhan3 O (frustrated) perso3
+L25D75
+ Ojcze! Gdzie jestes!? XXX
+// Arkhan2 G perso1
+L25D87
+ A co tu jest pod spodem? XXX
+// Arkhan3 G perso1
+L25D88
+ Co lezy pod spodem? XXX

@@ -1,0 +1,82 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\fr\NWDIAL13.TXT
+ // Arkhan2 G (stupéfait)perso2
+L13D01
+ Incroyable... Un... Un sanctuaire de l'Avant... XXX
+// Arkhan3 G (stupéfait)perso3
+L13D02
+ Incroyable... Un... Un sanctuaire de l'Avant... XXX
+// Arkhan2 G (découvre un mécanisme)perso2
+L13D07
+ Ca bouge... XXX
+// Arkhan3 G (découvre un mécanisme)perso3
+L13D08
+ Ca bouge... XXX
+// Arkhan2 G (devant console inopérante)perso2
+L13D09
+ Non... la machine est morte. XXX
+// Arkhan3 G (devant console inopérante)perso3
+L13D10
+ La machine est morte. XXX
+// Arkhan2 G (examine caisson cryo)perso2
+L13D11A
+ Un lit qui se ferme comme une boîte. XXX
+// Arkhan2 G perso2
+L13D11B
+ L'homme là-dedans est aussi vieux que le Grand Cataclysme. XXX
+// Arkhan3 G perso3
+L13D12A
+ Etrange, ce lit... XXX
+// Arkhan3 G perso3
+L13D12B
+ Et ces restes... un ancien aussi vieux que le Grand Cataclysme. XXX
+// Arkhan2 G (examine caisson cryo)perso2
+L13D13A
+ Il y avait un homme là-dedans... XXX
+// Arkhan2 G perso2
+L13D13B
+ Plus que du verre et de la poussière maintenant. XXX
+// Arkhan3 G (examine caisson cryo)perso3
+L13D14
+ Il ne reste que de la poussière... XXX
+// Arkhan2 L perso2
+L13D15
+ Ca suffit, ça fait trop mal ! XXX
+// Arkhan2 O perso2
+L13D23
+ Ca a allumé des petites lumières vertes! XXX
+// Arkhan3 L perso3
+L13D16
+ Non, trop mal! XXX
+// Arkhan3 O perso2
+L13D24
+ Des lumières vertes sont allumées! XXX
+// Arkhan2 L (examine la console) perso2
+L13D17
+ Jolies ces lumières... jamais vu ça avant. XXX
+// Arkhan3 L perso3
+L13D18
+ C'est quoi ces petits feux? XXX
+// Arkhan2 O (examine des debris)perso2
+L13D19
+ Tout est en morceaux! XXX
+// Arkhan3 O (examine des debris)perso2
+L13D20
+ Tout est en miettes! XXX
+// Arkhan2 G perso2
+L13D03
+ Rien que des débris... XXX
+// Arkhan3 G perso3
+L13D04
+ Des débris... XXX
+// Arkhan2 G perso2
+L13D05
+ Tout s'est écroulé... XXX
+// Arkhan3 G perso3
+L13D06
+ Tout s'est écroulé... XXX
+// Arkhan2 G (examine caisson cryo)perso2
+L13D21
+ Ce lit est brisé... Celui qui reposait là n'est plus que poussière... XXX
+// Arkhan3 G (examine caisson cryo)perso3
+L13D22
+ Un ancien de l'Avant... réduit en poussière... XXX

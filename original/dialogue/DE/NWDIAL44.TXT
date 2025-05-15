@@ -1,0 +1,16 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL44.TXT
+ // Arkhan3 O perso3
+L41D15
+ Was ist denn das für ein Ort?! XXX
+// Arkhan3 L perso3
+L41D05
+ Die ist verschlossen! Ich muß wohl weitergehen. XXX
+// Arkhan3 O perso3
+L41D06
+ Ich bin eingesperrt! XXX
+// Arkhan3 L perso3
+L41D07
+ Keine Möglichkeit, die aufzumachen ... XXX
+// Arkhan3 O perso3
+L41D08
+ Nichts zu machen! Ich bin eingesperrt! XXX

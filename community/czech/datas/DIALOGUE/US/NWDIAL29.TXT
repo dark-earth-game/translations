@@ -1,0 +1,382 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL29.TXT
+ // Phedoria perso26
+L29D200
+ Jdi a promluv si s Lory. Já ohlídám vchod. XXX
+// Phedoria (hat Arkhan niedergeschlagen, nachdem dieser Lory getötet hat) perso26
+L29D201
+ Ty neštastníku! Ty jsi nás zavrhl! XXX
+// Lory (hat Arkhan niedergeschlagen, nachdem dieser Phedoria getötet hat)perso15
+L29D202
+ Jaká šílenost! XXX
+// Phedoria (A. zieht eine Pistole heraus) perso26
+L29D203
+ Arkhane, zastrc tu zbran! XXX
+// Phedoria (A. packt seine Waffe weg) perso26
+L29D204
+ Naše zbrane jsou prece na naše neprátele, nebo? XXX
+// Phedoria perso26
+L29D52
+ Ješte jednou, a budeš toho litovat! XXX
+// Phedoria perso26
+L29D53
+ Já te varovala! XXX
+// Phedoria (schießt auf Arkhan, der Lory geschlagen hat) perso26
+L29D47
+ Arkhane! Ne! XXX
+// Arkhan2 G perso2
+L29D01
+ Velká knezko, co se stalo? XXX
+// Arkhan3 G perso3
+L29D02
+ Lory, co se zde deje? XXX
+// Lory perso15
+L29D03A
+ Arkhane, Stallit je v nebezpecí.  XXX
+// Lory perso15
+L29D03B
+ Pote co Thanandar srdce našeho vùdce znicil, ponoril on nás do Temne Zeme. XXX
+// Lory perso15
+L29D03C
+ On je bytostí, v ktere se Temná Zeme skrývá, brány a dvere otevírá. Naše zdi nás nemohou pred tím ochránit! XXX
+// Lory perso15
+L29D03D
+ Energie srdce vysychá, a nic ho nemùze odvrátit od toho, aby napadl Stallit. XXX
+// Lory perso15
+L29D03E
+ Pokud nebudeme rychle jednat, budeme všichni brzo mrtvý nebo kontaminovaný, jako ty. XXX
+// Arkhan2 L perso2
+L29D04A
+ Zed a Rylsadhar díky Thanandarovi zahynuli! XXX
+// Arkhan2 L perso2
+L29D04B
+ Musíme ho zastavit! XXX
+// Arkhan2 O perso2
+L29D05
+ Ne! Musím Zeda a mýho otce pomstít! XXX
+// Arkhan3 L perso3
+L29D06
+ Já, Zed, mùj otec ... Má být tato nemoc nepomstena?! XXX
+// Arkhan3 O (regt sich auf) perso3
+L29D07
+ Ne! Pomsta! XXX
+// Lory perso15
+L29D08A
+ Poslouchej, zùstává nám ješte jedna nadeje, jak Spartu zachránit ... a tebe vylecit. XXX
+// Lory perso15
+L29D08B
+ Tvùj otec znal mnoho tajemství.  XXX
+// Lory perso15
+L29D08C
+ On hledal dlouho ... pramen energie, která plnila srdce vùdce.  XXX
+// Lory perso15
+L29D08D
+ Snad nalezneme v tajemne místnosti vedle jeho pokoje nejaký odkaz.  XXX
+// Arkhan2 G perso2
+L29D09A
+ Nejprve se tam musíme dostat! XXX
+// Arkhan2 G perso2
+L29D09B
+ Já se o to casto pokoušel, kdyz jsem byl chlapec. To je nemozne! XXX
+// Arkhan3 G perso3
+L29D10A
+ Tam se nedá dostat! XXX
+// Arkhan3 G perso3
+L29D10B
+ Dvere nejdou otevrít. XXX
+// Lory perso15
+L29D11A
+ Prece. On je nejaký klíc. On se skládá ze ctyr krystalù, ktere pak spojeni, dávají obraz Rahaly. XXX
+// Lory perso15
+L29D11B
+ Dnes ráno mi tvùj otec kruh od techto klícù dal.  XXX
+// Lory perso15
+L29D11C
+ Musíme zbývající tri krystali najít rychle, jak je to jen mozne a klíc sestavit. XXX
+// Lory perso15
+L29D11D
+ Seznámila jsem se s objevem tveho otce a doufám, ze se prostredek nalezne, který svetlo do Sparty znovu privede. XXX
+// Lory (Ende) perso15
+L29D11E
+ Zde, Arkhane, je kruh od klícù. Chran ho svým zivotem. XXX
+// Arkhan2 G perso2
+L29D12A
+ Lory. Tajemná hrobka ... Srdce vùdce ... Tajemství tveho otce ... XXX
+// Arkhan2 G perso2
+L29D12B
+ Rekni mi, co se zde deje! Rekni mi, co my skutecne pátráme! XXX
+// Arkhan3 L perso3
+L29D13A
+ Lory! XXX
+// Arkhan3 L perso3
+L29D13B
+ Hrobka ... Tajemná místnost ... srdce vùdce ... XXX
+// Arkhan3 L perso3
+L29D13C
+ Co skutecne hledáme? XXX
+// Lory perso15
+L29D14A
+ Poslouchej, Arkhane, nemám cas, ti všechno znova vysvetlovat ... XXX
+// Lory perso15
+L29D14B
+ Ty potrebuješ pouze vedet, ze nekde pod námi je nejake místo ... ktere my "hrobkou" nazýváme. XXX
+// Lory perso15
+L29D14C
+ Tam se nachází mocná nekonecná energie ... XXX
+// Lory perso15
+L29D14D
+ Ale tato síla ... spí. XXX
+// Lory perso15
+L29D14E
+ Naší jedinou šancí je, jí najít ... a probudit jí. XXX
+// Lory (Ende) perso15
+L29D14F
+ Pokud my jí pred Thanandar naleznem, zloba, která te z jeho prstù drzí, s ním spolecne uhasne! XXX
+// Arkhan2 G perso2
+L29D15
+ Ale co mel mùj otec s tím spolecne? XXX
+// Arkhan3 G perso3
+L29D16
+ A mùj otec, proc on? XXX
+// Lory perso15
+L29D17A
+ Tvùj otec nejakou cást jeho zivota tím strávil, aby vchod ke hrobce nalezl. XXX
+// Lory perso15
+L29D17B
+ On byl presvedcen o tom, ze se nekde vchod nalezá, který vede ke hrobce. XXX
+// Lory perso15
+L29D17C
+ Dosud byly všechno jeho výzkumy po hrobce, ve Stallitu a v ríši Temne Zeme bez ùspechu. XXX
+// Lory perso15
+L29D17D
+ Já vím ale, ze se nadeje nikdy nevzdával. XXX
+// Lory perso15
+L29D17E
+ A jeho výzkumy jiste ne bezdùvodne tajne drzel. XXX
+// Lory perso15
+L29D17F
+ Ve svem podvedomí tvùj otec Thanandarovu zradu cítil. XXX
+// Lory perso15
+L29D17G
+ Rylsadhar byl velmi citový clovek, on v sobe nosil zvláštní energii, která mu umoznovala, budoucnost predvídat. XXX
+// Arkhan2 O (Ende) perso2
+L29D18
+ Tato energie mu v kazdem prípade od smrti nepomohla! XXX
+// Arkhan2 G perso2
+L29D19
+ Vyprávej mi o Thanandarovi. XXX
+// Arkhan3 L perso3
+L29D20
+ Vyprávej mi o Thanandarovi. XXX
+// Lory perso15
+L29D21A
+ On je ... on byl knezí, lecitel. XXX
+// Lory perso15
+L29D21B
+ Ale nyní je Temná Zeme v nem, uz není více clovekem. XXX
+// Arkhan2 G perso2
+L29D22
+ Na tom není zádná pochybnost, nebot normální clovek se neobrací do smrtelne ríše! XXX
+// Arkhan2 O perso2
+L29D23
+ Predevším, já jeho vlastnorucne v rukách roztrhám! XXX
+// Arkhan3 L perso3
+L29D24
+ Jiste, normální clovek neprezil by mùj hnev. XXX
+// Lory perso15
+L29D25A
+ Vypadá jako clovek, ale jím uz není. XXX
+// Lory perso15
+L29D25B
+ Jed jeho telo zmenilo a soucasne jeho ducha a jeho lidskost z nej odešla. XXX
+// Lory perso15
+L29D25C
+ On chce naší zkázu a ví, kde musí uderit. XXX
+// Lory (Ende) perso15
+L29D25D
+ Proto si musíme pospíšit. XXX
+// Arkhan2 G perso2
+L29D26
+ Co chcete nyní delat? XXX
+// Arkhan3 L perso3
+L29D27
+ A vy? Co chcete nyní delat? XXX
+// Lory perso15
+L29D28A
+ Musíme se pokusit, opet do Stallitu vrátit porádek.  XXX
+// Lory perso15
+L29D28B
+ Dhorkan byl díky jeho ctizádosti oslnen. On chtel vyuzít událostí, a do Sparty prinest jeho moc. XXX
+// Lory perso15
+L29D28C
+ Tento neprítel ale ztratil kontrolu. On upláchl, a pouze Bùh Slunce ví, kam!  XXX
+// Lory perso15
+L29D28D
+ Phedorie se pokusí, Strázce ohne dát dohromady. XXX
+// Lory perso15
+L29D28E
+ Musíme se na nejhorší pripravit. XXX
+// Lory perso15
+L29D28F
+ Mùzeme se pokusit, utok Temne Zeme oddálit, prece se mu nevyhneme. XXX
+// Lory (Ende) perso15
+L29D28G
+ Osud Sparty lezí ve tvých rukou, Arkhane! XXX
+// Arkhan2 L perso2
+L29D29
+ Nic jineho mi nereknete?  XXX
+// Arkhan2 O perso2
+L29D30
+ To je všechno, co mi reknete, knezko? XXX
+// Arkhan3 L perso3
+L29D31
+ Je to všechno? XXX
+// Lory perso15
+L29D32
+ To je všechno, Arkhane. Pospeš si , nesmíme ztrácet cas! XXX
+// Lory perso15
+L29D33
+ Hledej klíc Rylsadharùv, to je to jediný, co skutecne je nyní jedine! XXX
+// Lory perso15
+L29D34
+ Arkhane, zùstan klidný a nedopust, aby dábel tvojí duši ztemnel! XXX
+// Phedoria (bereit zu handeln) perso26
+L29D35
+ Má pravdu, Arkhane. Nenut mne, strílet. XXX
+// Lory perso15
+L29D36
+ Phedorie! Pomoz mi! XXX
+// Arkhan2 L (zeigt den Schlüsselring) perso2
+L29D37
+ Kdo krome vás mohl by cást klíce mít? XXX
+// Arkhan2 O (zeigt den Schlüsselring) perso2
+L29D38
+ A kde mohli by ostatní cásti být? XXX
+// Arkhan3 G (zeigt den Schlüsselring) perso2
+L29D39
+ Kdo by mohl krome vás cást klícù mít? XXX
+// Lory perso15
+L29D40A
+ Rylsadhar je vydal jiste lidem, kterým on dùveroval. XXX
+// Lory perso15
+L29D40B
+ Mne ... Zedovi ... A snad Dhorkanovi, bohuzel! XXX
+// Arkhan2 G perso2
+L29D41
+ To je všechno, co vy o klících víte? XXX
+// Arkhan3 G perso3
+L29D42
+ Je ješte jiná stopa? XXX
+// Lory perso15
+L29D43
+ Ne, Arkhane, více já nevím. XXX
+// Arkhan2 G perso2
+L29D44
+ Velká Knezko ... XXX
+// Arkhan3 G (dumpf) perso3
+L29D45
+ Lory ... XXX
+// Lory perso15
+L29D46
+ Arkhane, prosím te, dej pryc zbran! XXX
+// Arkhan2 G perso2
+L29D66
+ Znáte to zde? XXX
+// Arkhan3 G perso3
+L29D67
+ Co je to, Lory? XXX
+// Lory perso15
+L29D68A
+ Arkhane, nemáme cas. XXX
+// Lory perso15
+L29D68B
+ Jdi a hledej klíc tveho otce. XXX
+// Arkhan2 G perso2
+L29D48
+ Phedorie ... XXX
+// Arkhan3 G perso3
+L29D49
+ Phedorie ... XXX
+// Phedoria perso26
+L29D50
+ Velká Knezka Lory ti všechno vysvetlí. XXX
+// Phedoria perso26
+L29D51
+ Lory ti rekla, co ti mela ríci. Bez nyní! XXX
+// Phedoria perso26
+L29D69
+ Spoleháme na tebe, Arkhane. XXX
+// Lory perso15
+L29D54A
+ Arkhane! XXX
+// Lory perso15
+L29D54B
+ Je muz, kteremu tvùj otec cást jeho klícù mohl sverit. XXX
+// Lory perso15
+L29D54C
+ Bandor, Mistr stavitel. XXX
+// Lory perso15
+L29D54D
+ Zije ve vezi Stavitelù, na centrálním námestí. XXX
+// Arkhan2 G perso2
+L29D55
+ Jak vypadá? XXX
+// Arkhan3 G perso3
+L29D56
+ Jak vypadá? XXX
+// Lory perso15
+L29D57
+ On se dá snadno poznat: On je zralým muzem s ebenove zbarvenou kùzí a kovovou nohou! XXX
+// Lory (A. will hinausgehen)perso15
+L29D74
+ Arkhane, pockej! My musíme spolu mluvit! XXX
+// Arkhan2 G (vor einer Uhr) perso2
+L29D58
+ Vzpomen si na to, ze máme málo casu! XXX
+// Arkhan3 G (vor einer Uhr) perso3
+L29D59
+ Kazdá vterina se pocítá! XXX
+// Arkhan2 L (findet die tote Lory) perso2
+L29D60A
+ Lory ... vy take ... Jedna další obet od Thanandara! XXX
+// Arkhan2 L perso2
+L29D60B
+ On mne chce vyzvat! XXX
+// Arkhan2 L perso2
+L29D60C
+ Ale zádný starosti, jeho zlociny nezùstanou nepotrestány! XXX
+// Arkhan2 L perso2
+L29D61
+ Clovek nemùze nic pro ne udelat. XXX
+// Arkhan2 O perso2
+L29D62
+ Nemá nic u sebe. XXX
+// Arkhan3 L (findet die tote Lory) perso3
+L29D63A
+ Lory ... Ne ...  XXX
+// Arkhan3 L perso3
+L29D63B
+ Najdu si te, Thanandare, i kdybych mel já u toho zemrít! XXX
+// Arkhan3 L perso2
+L29D64
+ Príliš pozde pro ne. XXX
+// Arkhan3 O (durchsucht Lory) perso3
+L29D65
+ Mrrr ... Nic. XXX
+// Arkhan2 L (sieht die tote Phedoria)perso2
+L29D70A
+ Phedorie ... ne ... XXX
+// Arkhan2 L perso2
+L29D70B
+ To mi zaplatíte! XXX
+// Arkhan2 O perso2
+L29D72
+ Ona je mrtvá ... a její zbrane zmizely. XXX
+// Arkhan3 L (sieht die tote Phedoria)perso3
+L29D71A
+ Phedorie ... XXX
+// Arkhan3 L perso3
+L29D71B
+ Já te pomstím! XXX
+// Arkhan3 O perso3
+L29D73
+ Mrtvá ... A nic u ní ... XXX

@@ -1,0 +1,22 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL43.TXT
+ // Arkhan3 L perso3
+L43D01
+ Poddaj sie Thanandar!  XXX
+// Arkhan3 O (mad with rage) perso3
+L43D02
+ No dalej, pokaz co potrafisz! XXX
+// Arkhan3 G perso3
+L43D03A
+ Nie moge! Ani drgnie! XXX
+// Arkhan3 G perso3
+L43D03B
+ Musze walczyc! XXX
+// Arkhan3 G perso3
+L43D04
+ Te kamyki go nie powstrzymaja! XXX
+// Arkhan3 G perso3
+L43D05A
+ Sciana... potwornie goraca! XXX
+// Arkhan3 G perso3
+L43D05B
+ Moc Swiatlosci jest za tymi drzwiami! XXX

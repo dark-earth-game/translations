@@ -1,0 +1,91 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL46.TXT
+ // Arkhan2 G (entdeckt seinen Vater, der verletzt auf dem Boden liegt) perso2
+L46D01
+ U Boha Slunce! Otec! XXX
+// Arkhan3 G (entdeckt seinen Vater, der verletzt auf dem Boden liegt) perso3
+L46D02
+ Otce, ne! XXX
+// Rylsadhar kontaminiert perso21
+L46D03
+ Arkhane ... Já ... Já nic nestihnul ... XXX
+// Arkhan2 G perso2
+L46D04
+ Otce, kdo ... kdo Vám to udelal? XXX
+// Arkhan3 G perso3
+L46D05
+ Otce, kdo Vám to udelal?! XXX
+// Rylsadhar kontaminiert perso21
+L46D06A
+ Dhorkan ... Ten zrádce ... XXX
+// Rylsadhar kontaminiert perso21
+L46D06B
+ On na mne poslal Konkality ... XXX
+// Arkhan2 G perso2
+L46D07
+ Já ho najdu, Otce. To mi zaplatí! XXX
+// Arkhan3 G perso3
+L46D08
+ Za to mi zaplatí, Otce! XXX
+// Rylsadhar kontaminiert perso21
+L46D09A
+ Ne, mùj Synu ... Dhorkan je pouze šílenec, který neví, co delá! XXX
+// Rylsadhar kontaminiert perso21
+L46D09B
+ Skutecným nebezpecím je Thanandar! On ovládá Konkality ... XXX
+// Rylsadhar kontaminiert perso21
+L46D09C
+ Dhorkan neví o tom nic. XXX
+// Rylsadhar kontaminiert perso21
+L46D09D
+ Zeda a já ... našli ... kontaminovali ... XXX
+// Rylsadhar kontaminiert perso21
+L46D09E
+ Já chtel jsem ... utect ... ale jsem príliš slabý ... XXX
+// Arkhan2 G perso2
+L46D10
+ Ale otce, Thanandar je mrtvý! XXX
+// Arkhan3 G perso3
+L46D11
+ Thanandar je mrtvý! XXX
+// Rylsadhar kontaminiert perso21
+L46D12A
+ Thanandar ten lecitel, ano ... Ale ne ta zrùda, co se z nej stala! XXX
+// Rylsadhar kontaminiert perso21
+L46D12B
+ On je nyní ... bytostí Temne Zeme. XXX
+// Rylsadhar kontaminiert perso21
+L46D12C
+ On chce ... srdce ... srdce svetla znicit ... XXX
+// Rylsadhar kontaminiert perso21
+L46D12D
+ Jdi do chrámu ... do hrobky ... XXX
+// Rylsadhar (in seinem letzten Atemzug) perso21
+L46D12E
+ Ochran svetlo ... XXX
+// Rylsadhar (letzter Seufzer) perso21
+L46D12F
+ Aaaaah... XXX
+// Arkhan2 G (rachsüchtig, zu sich selbst) perso2
+L46D14
+ Thanandare! XXX
+// Arkhan3 G (rachsüchtig, zu sich selbst) perso3
+L46D15
+ Thanandare! XXX
+// Arkhan2 L (vor Rylsadhars Leiche) perso2
+L22D12A
+ Otce! XXX
+// Arkhan2 L (vor Rylsadhars Leiche) perso2
+L22D12B
+ Prísahám, já Vás pomstím! Thanandar zemre! XXX
+// Arkhan2 O perso2
+L22D13A
+ Thanandare! Usmrtil jsi meho otce! XXX
+// Arkhan2 O perso2
+L22D13B
+ To mi zaplatíš! XXX
+// Arkhan3 L perso3
+L22D14
+ Otce! Já Vás pomstím! XXX
+// Arkhan3 O (zu sich selbst murmelnd)perso3
+L22D15
+ Otce! ... Po... pomsta! XXX

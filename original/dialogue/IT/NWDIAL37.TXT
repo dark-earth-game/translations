@@ -1,0 +1,145 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\IT\NWDIAL37.TXT
+ // Arkhan2 G (parlando nella sua maschera)perso2
+L37D01A
+L'esterno! XXX
+// Arkhan2 G (parlando nella sua maschera)perso2
+L37D01B
+Ho lasciato la cinta dello Stallite. XXX
+// Arkhan3 G (parlando nella sua maschera)perso3
+L37D02A
+L'esterno! XXX
+// Arkhan3 G (parlando nella sua maschera)perso3
+L37D02B
+Ho lasciato lo Stallite. XXX
+// Arkhan2 G (vede una creatura)perso2
+L37D01C
+Si direbbe che sono atteso! XXX
+// Arkhan3 G (vede una creatura)perso3
+L37D02C
+Non sono del tutto solo, si direbbe! XXX
+// Arkhan2 G (parlando nella sua maschera)perso2
+L37D03
+Questo armamentario è troppo pesante. Devo sbarazzarmene. XXX
+// Arkhan3 G (parlando nella sua maschera)perso3
+L37D04
+Questo armamentario è troppo pesante. Lo butto! XXX
+// Arkhan2 G perso2
+L37D05
+È profondo... Meglio non allontanarsi. XXX
+// Arkhan3 G perso3
+L37D06
+Profondo... Non devo allontanarmi. XXX
+// Arkhan2 G perso2
+L37D07
+Da qui, si vedono i bastioni e la caserma dei Custodi del Fuoco. XXX
+// Arkhan3 G perso3
+L37D08
+Si vedono i bastioni e la caserma da qui. XXX
+// Arkhan2 G perso2
+L37D09
+L'entrata di una grotta! XXX
+// Arkhan3 G perso3
+L37D10
+Una grotta! XXX
+// Arkhan2 G (s'immerge nell'acqua)perso2
+L37D11
+Bisogna rimettere il casco... XXX
+// Arkhan3 G (s'immerge nell'acqua)perso3
+L37D12
+Devo rimettere il casco... XXX
+// Arkhan2 L perso2
+L37D13A
+Allora, non vuoi più batterti? XXX
+// Arkhan2 L perso2
+L37D13B
+Hai paura di quello che c'è in questa grotta? XXX
+// Arkhan2 O perso2
+L37D14
+Non osi avanzare, eh? Porcheria! XXX
+// Arkhan3 L perso3
+L37D15A
+Hai paura, eh? XXX
+// Arkhan3 L perso3
+L37D15B
+Paura della grotta? XXX
+// Arkhan3 O (rabbioso) perso3
+L37D16
+Avvicinati! Vieni a batterti! XXX
+// Arkhan2 G perso2
+L37D17
+Vieni! Anch'io ho gli artigli! XXX
+// Arkhan3 G perso3
+L37D18
+Avvicinati, mostro! XXX
+// Arkhan2 L perso2
+L37D19A
+Cos'era lì davanti? Un uomo, una bestia? XXX
+// Arkhan2 L perso2
+L37D19B
+Devo trovare il rimedio prima di diventare così! XXX
+// Arkhan3 L perso3
+L37D20A
+Cos'era... un uomo, una bestia? XXX
+// Arkhan3 L perso3
+L37D20B
+Devo guarire... non voglio diventare così... XXX
+// Arkhan2 O perso2
+L37D21
+Maledetta creatura! XXX
+// Arkhan3 O perso3
+L37D22
+Maledetta creatura! XXX
+// Arkhan2 L perso2
+L37D23
+Parola mia, tu hai paura dell'acqua! È perché lava? XXX
+// Arkhan3 L perso3
+L37D24
+Paura dell'acqua, eh? XXX
+// Arkhan2 L perso2
+L37D25A
+Questa schifezza era coriacea! XXX
+// Arkhan2 L perso2
+L37D25B
+Se non trovo il Sepolcro, tutta la popolazione verrà decimata! XXX
+// Arkhan3 L perso3
+L37D26A
+Coriaceo! XXX
+// Arkhan3 L perso3
+L37D26B
+Far presto o questi mostri raderanno al suolo lo Stallite. XXX
+// Arkhan2 G perso2
+L37D27
+Nient'altro che vecchi rottami arrugginiti... XXX
+// Arkhan3 G perso3
+L37D28
+Dei vecchi rottami arrugginiti... XXX
+// Arkhan2 G perso2
+L37D29
+Persino Danrys non ne caverebbe niente. XXX
+// Arkhan2 G perso2
+L37D31
+Quale creatura può avere ossa di queste dimensioni? XXX
+// Arkhan3 G perso3
+L37D32
+Le ossa di un animale... enorme... XXX
+// Arkhan2 G perso2
+L37D33A
+Delle tracce di urina per terra... XXX
+// Arkhan2 G perso2
+L37D33B
+E un odore animale. XXX
+// Arkhan3 G perso3
+L37D34
+Tracce d'urina... e un cattivo odore! XXX
+// Arkhan2 G (trova un pesce mangiato)perso2
+L37D35
+Dei resti di cibo... XXX
+// Arkhan3 G (trova un pesce mangiato)perso3
+L37D36
+Dei resti... XXX
+// Arkhan2 G perso2
+L37D37
+Strano, in questo punto la parete è calda... XXX
+// Arkhan3 G perso3
+L37D38
+Sento del calore. XXX

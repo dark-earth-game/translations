@@ -1,0 +1,492 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\GB\NWDIAL08.TXT
+// Delia (aterrorizada) perso10
+L08D215A
+Arkhan! XXX
+// Delia (aterrorizada) perso10
+L08D215B
+Lá em baixo... Uma criatura da escuridão! XXX
+// Delia (aterrorizada) perso10
+L08D215C
+Que... Que vamos fazer? XXX
+// Arkhan2 G perso2
+L08D217A
+Não te preocupes, eu trato disso... XXX
+// Arkhan2 G perso2
+L08D217B
+Sobretudo, não te mexas! XXX
+// Arkhan3 G perso3
+L08D218
+Encontrarei uma maneira... Fica aqui! XXX
+// Kalhi perso33
+L08D153
+Tem cuidado, Arkhan. Mantenhamo-nos juntos. XXX
+// Gardien3 perso43
+L08D92
+Achas que o Pregador diz a verdade? Que as Trevas nos ameaçam? XXX
+// Gardien4 perso44
+L08D93A
+Não sei... XXX
+// Gardien4 perso44
+L08D93B
+Desde o ataque contra a Grande Pregadora é preciso ter os olhos bem abertos! XXX
+// Gardien4 perso44
+L08D93C
+Se esses sacanas voltam, vão ter uma surpresa comigo! XXX
+// Gardien3 perso43
+L08D94A
+Far-se-ão pagar pela morte do Jedar... XXX
+// Gardien3 perso43
+L08D94B
+E pelo que fizeram ao Arkhan! XXX
+// Gardien4 perso44
+L08D95
+E a Grande Pregadora? XXX
+// Gardien3 perso43
+L08D96A
+Com a lei marcial ela está segura, bem escondida. XXX
+// Gardien3 perso43
+L08D96B
+O Dhorkan tem tudo sob controlo. XXX
+// Gardien4 perso44
+L08D97A
+E parece que o Zed está na cidade baixa, no encalço dos culpados... XXX
+// Gardien4 perso44
+L08D97B
+Bem, vamos, será melhor voltarmos aos nossos postos. XXX
+// Gardien5 perso45
+L08D223
+Os Pregadores dizem que a Escuridão está nele! Que já não é dos nossos! XXX
+// Gardien6 perso46
+L08D224A
+Apesar de tudo, não é cúmplice dos Konkalites! XXX
+// Gardien6 perso46
+L08D224B
+Se o Arkhan lhe tivesse feito mal, a Grande Pregadora tê-lo-ia dito. XXX
+// Gardien5 perso45
+L08D225A
+Como saber? O Dhorkan proibiu que alguém se aproximasse da Grande Pregadora. XXX
+// Gardien5 perso45
+L08D225B
+Medidas de segurança. XXX
+// Gardien6 perso46
+L08D226
+Não posso acreditar que o Arkhan seja um traidor. XXX
+// Gardien5 perso45
+L08D227A
+Bem... salvo se a sua doença lhe sugou o juízo. XXX
+// Gardien5 perso45
+L08D227B
+Se tentar algo que não esteja muito claro, não o deixarei escapar! XXX
+// Gardien5 perso45
+L08D316
+Encontraram algo? XXX
+// Gardien6 perso46
+L08D317A
+Nada por enquanto... além de uma rapariga, uma Buscadora. XXX
+// Gardien6 perso46
+L08D317B
+Mas surpreender-me-ia que nos servisse para algo... XXX
+// Gardien5 perso45
+L08D318A
+Tu não sabes nada! Passam-se muitas coisas estranhas. XXX
+// Gardien5 perso45
+L08D318B
+De qualquer maneira, os Buscadores não têm nada que fazer aqui. XXX
+// Gardien6 perso46
+L08D319
+Meteram-na na masmorra. Se sabe algo, acabará por falar. XXX
+// Gardien5 perso45
+L08D320
+Daqui para a frente, será preciso ter os olhos abertos! XXX
+// Gardien7 perso47
+L08D143
+Ouviste? O Kabak diz que há criaturas da Escuridão na cidade baixa. XXX
+// Gardien8 perso48
+L08D144A
+O Kabak é um velho louco! XXX
+// Gardien8 perso48
+L08D144B
+O Deus Sol põe à prova a nossa fé. XXX
+// Gardien8 perso48
+L08D144C
+Tenho confiança, não nos abandonará. XXX
+// Gardien7 perso47
+L08D145A
+Não sei... Tenho medo. XXX
+// Gardien7 perso47
+L08D145B
+E se a noite durasse sempre?! XXX
+// Gardien8 perso48
+L08D146A
+Pára de dizer isso! XXX
+// Gardien8 perso48
+L08D146B
+O medo faz-te blasfemar. XXX
+// Kalhi perso33
+L08D220
+Vá, saiamos daqui. Estamo-nos a deixar ver demasiado... XXX
+// Kalhi perso33
+L08D321
+Arkhan, não te afastes! XXX
+// Kalhi perso33
+L08D322
+Que fazes? XXX
+// Kalhi perso33
+L08D323
+Arkhan, fica comigo! XXX
+// Kalhi2 (sussurra) perso33
+L08D209A
+Caminha ao meu lado e não te afastes demasiado. XXX
+// Kalhi2 (sussurra) perso33
+L08D209B
+Há um Guardião lá em baixo! XXX
+// Kalhi (desamparada) perso13
+L08D335A
+Voltaste... para me procurar? XXX
+// Kalhi (desamparada) perso13
+L08D335B
+A quem atacaste? XXX
+// Kalhi (quase chorando) perso13
+L08D335C
+É o mal, que te enlouquece! XXX
+// Kalhi perso13
+L08D157
+Arkhan! Despacha-te, pelo amor do Deus Sol! XXX
+// Kalhi perso13
+L08D156
+Se ficamos aqui vamo-nos fazer notar! XXX
+// Kalhi perso13
+L08D155
+Arkhan, vamo-nos embora daqui! XXX
+// Gardien10 perso50
+L08D310
+Deus Sol! A criatura és tu! XXX
+// Kalhi perso13
+L08D158
+Espero por ti. Faz isso rápido. XXX
+// Gardien3 perso43
+L08D303
+Alerta! XXX
+// Gardien6 perso46
+L08D304
+Alerta! XXX
+// Gardien7 perso47
+L08D305
+Alerta! XXX
+// Gardien8 perso48
+L08D147
+Bem, volto a subir, preciso de munições! XXX
+// Gardien7 perso47
+L08D148
+Tem os olhos abertos! XXX
+// Gardien7 (interpela Arkhan) perso47
+L08D149
+Um intruso! XXX
+// Gardien5 perso45
+L08D141
+Quem está aí! XXX
+// Gardien6 (corre para Arkhan) perso46
+L08D124
+Eh? Quem está aí! XXX
+// Gardien3 (depois do grito de guerra de Arkhan) perso43
+L08D01
+Quem te ataca? XXX
+// Gardien4 (depois do grito de guerra de Arkhan) perso44
+L08D02
+Vou acalmar-te! XXX
+// Gardien5 perso45
+L08D270
+Vou sangrar-te! XXX
+// Gardien6 (atacado por Arkhan) perso46
+L08D140
+Não te farás comigo! XXX
+// Gardien4 perso44
+L08D242
+Detenham-no! XXX
+// Gardien3 (alarmado porque Arkhan se aproxima, dirige-se ao seu companheiro, tipo "que faço?") perso43
+L08D243
+Garn?! XXX
+// Gardien4 (sacando as armas, assustado) perso44
+L08D222
+Fogo bendito, um demónio da Escuridão! XXX
+// Gardien3 (sacando as armas, assustado) perso43
+L08D309
+Fogo bendito, um demónio da Escuridão! XXX
+// Gardien3 perso43
+L08D241
+Garn, tem cuidado! XXX
+// Gardien4 perso44
+L08D324
+Eh, lá em baixo! Alto! XXX
+// Gardien10 perso50
+L08D229
+Saudações, minha bela! XXX
+// Kalhi perso33
+L08D312A
+Saudações, Guardião do Fogo. XXX
+// Kalhi perso33
+L08D312B
+Escolto este tipo até ao Hospital. XXX
+// Gardien10 perso50
+L08D210
+Atenção, o teu prisioneiro está a escapar! XXX
+// Gardien10 perso50
+L08D311
+Eh! Onde vão assim! XXX
+// Kalhi perso13
+L08D230
+Apesar de tudo, poderia ter-te ajudado a neutralizar esse Guardião! XXX
+// Gardien3 (atacado por Arkhan) perso43
+L08D152
+Oh! Paz! XXX
+// Gardien3 (Arkhan guarda a sua arma) perso43
+L08D235
+Assim está melhor! XXX
+// Arkhan1 L perso1
+L08D03
+Que a luz esteja contigo, Teskhan. XXX
+// Gardien3 perso43
+L08D04
+E que a luz esteja contigo, Arkhan. XXX
+// Arkhan1 L perso1
+L08D05
+Que estás a fazer? XXX
+// Gardien3 perso43
+L08D06A
+Não sabes? O grande Zed prepara uma nova expedição à Escuridão. A capitã Phedoria pediu-me que o 
+ajudasse. XXX
+// Gardien3 perso43
+L08D06B
+Como vês, tenho muitas máquinas para arranjar para a sua partida. XXX
+// Gardien3 perso43
+L08D06C
+E partem da próxima vez que o Deus Sol sair! XXX
+// Arkhan1 L perso1
+L08D07
+Ânimo! XXX
+// Gardien3 perso43
+L08D08
+Dizes bem, é fantástico poder ajudar um homem como o Zed. Tens a sorte de o conhecer... XXX
+// Arkhan1 L perso1
+L08D17
+Devo ir montar guarda ao Grande Templo. XXX
+// Gardien3 perso43
+L08D18
+Bem, acho que o Jedar também está lá... XXX
+// Arkhan1 L perso1
+L08D19
+Sabes o que se passa lá? XXX
+// Gardien3 perso43
+L08D20A
+A Grande Pregadora recebe uns Buscadores que fizeram uma descoberta, acho. XXX
+// Gardien3 perso43
+L08D20B
+Repara que se o Dhorkan não enviou mais que o Jedar e tu, isso não deverá durar muito 
+tempo... XXX
+// Arkhan1 L perso1
+L08D236
+Vou-me, é um pouco tarde. XXX
+// Gardien3 (primeira vez) perso43
+L08D237
+Boa sorte, Arkhan. XXX
+// Gardien3 (segunda vez, impaciente) perso43
+L08D238
+Sim. Vai bem então! XXX
+// Arkhan1 O (resmunga) perso1
+L08D10
+Primeira, Teskhan. XXX
+// Arkhan1 O perso1
+L08D11
+Sempre a trabalhar para nada, como um imbecil. XXX
+// Gardien3 perso43
+L08D12
+Brincas? A Capitã Phedoria pediu-me que a ajudasse a preparar a próxima expedição do grande 
+Zed. XXX
+// Arkhan1 O perso1
+L08D13A
+Ah, ditosa vida de Guardião do Fogo! Deveria ter feito como o meu pai e ter sido Pregador! XXX
+// Arkhan1 O perso1
+L08D13B
+Tudo o que há para fazer é, de vez em quando, murmurar sermões sobre o Deus Sol. XXX
+// Arkhan1 O perso1
+L08D13C
+Além disso, ele passa a vida com o nariz metido nos seus velhos escritos empoeirados que ninguém 
+compreende... XXX
+// Gardien3 perso43
+L08D14A
+Não deverias dizer isso, o Rylsadhar é um dos homens mais sábios e respeitados do Stallite. XXX
+// Gardien3 perso43
+L08D14B
+É um exemplo para os outros Pregadores. XXX
+// Arkhan1 O perso1
+L08D23A
+Bem, eu também tenho os meus afazeres: devo montar guarda no Vestíbulo do Grande Templo com 
+o Jedar. XXX
+// Arkhan1 O perso1
+L08D23B
+Que aventura! Que jornada mais iluminada! XXX
+// Gardien3 perso43
+L08D24
+Tem em conta que nestes casos, o Dhorkan costuma enviar pelo menos dez Guardiões para ficarem 
+no local durante umas horas. XXX
+// Arkhan1 O perso1
+L08D239A
+Bem, não és tu que me vais subir a moral! XXX
+// Arkhan1 O perso1
+L08D239B
+Como se tivesse algo melhor para fazer... XXX
+// Gardien3 perso43
+L08D240
+Boa sorte! XXX
+// Arkhan2 L perso2
+L08D126
+Teskhan, não temas. XXX
+// Gardien3 (não dá crédito aos seus olhos) perso43
+L08D127
+Arkhan... Tu... Eu... Que maldição é essa? XXX
+// Arkhan2 L perso1
+L08D100B
+Os que atacaram a Grande Pregadora envenenaram-me. XXX
+// Arkhan2 L perso1
+L08D100C
+E devo encontrar uma maneira de me curar. XXX
+// Gardien3 perso43
+L08D129A
+Não te preocupes! O Dhorkan mandou bloquear todos os acessos. XXX
+// Gardien3 perso43
+L08D129B
+Investiga-se todos os intrusos: o Zed em pessoa persegue-os. XXX
+// Gardien3 perso43
+L08D129C
+Dir-te-ei que aqueles que ousaram atacar a Lory pagá-lo-ão com as suas vidas! XXX
+// Gardien3 perso43
+L08D129D
+Quem tenha feito... isso... XXX
+// Arkhan2 L perso2
+L08D130A
+Eh, Teskhan, não ponhas essa cara! XXX
+// Arkhan2 L perso2
+L08D130B
+Ainda sou um Guardião do Fogo, como tu. XXX
+// Gardien3 perso43
+L08D131
+Deverias ir ver o Preboste. XXX
+// Arkhan2 O perso2
+L08D132
+Peço-te, não me olhes como se fosse um demónio da Escuridão! XXX
+// Arkhan2 O perso2
+L08D133A
+Arde-me todo o corpo por causa do veneno! XXX
+// Arkhan2 O perso2
+L08D133B
+Não tenho tempo a perder, preciso de me curar. XXX
+// Gardien3 perso43
+L08D134
+Se estás doente, deves ir ver os Curadores. XXX
+// Arkhan2 O perso2
+L08D135
+Não penso que me possas prestar mais ajuda que essa... XXX
+// Arkhan1 L perso1
+L08D25
+Eh, queres beber um gole? XXX
+// Gardien3 perso43
+L08D26
+Já sabes que não suporto o Stohll! XXX
+// Arkhan1 L perso1
+L08D27
+Tens a certeza? Não tens sede? XXX
+// Gardien3 perso43
+L08D28
+Não, não gosto muito dessa mistura. XXX
+// Arkhan1 O perso1
+L08D29
+Eh, tens sede? Tenho um cantil cheio de Stohll! XXX
+// Gardien3 perso43
+L08D30
+Deixa lá, não gosto de Stohll! XXX
+// Arkhan1 O perso1
+L08D31
+És um Guardião do Fogo ou uma empregada de limpeza da cidade baixa? Vá, bebe! XXX
+// Gardien3 perso43
+L08D32
+Deixa-me em paz, Arkhan, não quero o teu sumo de cogumelo! XXX
+// Arkhan1 G perso1
+L08D33
+Eh, interessa-te isto? XXX
+// Gardien3 perso43
+L08D34
+Não. Deixa estar. XXX
+// Gardien3 perso43
+L08D325
+Deixa estar! XXX
+// Arkhan1 G perso1
+L08D37
+Eh! Calma! XXX
+// Gardien3 perso43
+L08D232
+Espera um pouco, monstro! XXX
+// Gardien4 perso44
+L08D221
+Arkhan?... XXX
+// Gardien4 perso44
+L08D151
+Eh... com suavidade! XXX
+// Arkhan1 L perso1
+L08D39
+Que a luz esteja contigo, Garn. XXX
+// Gardien4 perso44
+L08D40
+Que a luz esteja contigo, Arkhan. XXX
+// Gardien4 perso44
+L08D41
+Estou de guarda, o Preboste Dhorkan pediu-me que ficasse aqui até nova ordem. XXX
+// Arkhan1 L perso1
+L08D48
+Devo ir ao Grande Templo montar guarda. XXX
+// Gardien4 perso44
+L08D49
+O Grande Templo, eh? XXX
+// Gardien4 perso44
+L08D50
+Podes ir, o caminho está livre! XXX
+// Arkhan1 L perso1
+L08D51
+Sabes o que se passa lá? XXX
+// Gardien4 perso44
+L08D52A
+Uma assembleia extraordinária com a Grande Pregadora ou algo assim... XXX
+// Gardien4 perso44
+L08D52B
+Como é habitual, não temos a oportunidade de nos antecipar, e toda a gente se coloca. XXX
+// Arkhan1 L perso1
+L08D42
+Espero que tenhamos uma boa jornada. XXX
+// Gardien4 perso44
+L08D43
+Sim, eu também... XXX
+// Arkhan1 O perso1
+L08D53
+Garn, parece apaixonante isso que fazes... XXX
+// Gardien4 perso44
+L08D54
+Não troces, Arkhan. Se isto se soubesse, seria a ti que o Dhorkan designaria para me substituir ao cair a 
+noite... XXX
+// Arkhan1 O perso1
+L08D45
+Não pareces divertir-te! XXX
+// Arkhan1 O perso1
+L08D55
+Insistes, eh? Eu também, designaram-me uma tarefa: devo montar guarda no Vestíbulo do Grande 
+Templo. XXX
+// Arkhan1 O perso1
+L08D46
+Continua! Se tiveres sorte, o Dhorkan voltará a chamar-te antes que apareçam as tuas botas! XXX
+// Gardien4 perso44
+L08D47A
+Sim... Talvez devesse dizer-lhe que não tens nada para fazer e que podes substituir-me! XXX
+// Arkhan1 O perso1
+L08D56
+Bem, não vou reter-te! Tenho a impressão de que te resta caminho para percorrer! XXX
+// Gardien4 (enervado por Arkhan e ligeiramente ameaçador) perso44
+L08D57
+Um conselho: retira-te ou terás problemas... XXX

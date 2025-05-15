@@ -1,0 +1,406 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL24.TXT
+ // Thanandar perso24
+L34D201
+ Zemreš, bídný cerve! XXX
+// Thanandar (plötzlich bösartig)perso24
+L24D70
+ Podepsal jsi si svùj rozsudek smrti! XXX
+// Hüter16 (von einer abergläubischen Wut ergriffen) perso56
+L24D02
+ U Boha Slunce! Nejaká ... nejaká Kreatura Temne Zeme! XXX
+// Arkhan2 G (geschwächt) perso2
+L24D01
+ Dulnysi ... Já ... Co se stalo se mnou?! XXX
+// Hüter16 perso56
+L24D03
+ Pomoc! Stráz! XXX
+// Arkhan2 L perso2
+L24D05
+ Je mi líto, Strázci ohne, nedal jsi mi jinou moznost ... XXX
+// Arkhan2 O perso2
+L24D06
+ Bídný cerve! Nemel jsi mne provokovat! XXX
+// Thanandar (wohlwollend) perso24
+L24D07A
+ Neuveritelne! Ty ziješ! XXX
+// Thanandar perso24
+L24D07B
+ Jak se cítíš? Ty vypadáš, jako kdybys to prestál docela dobre ... XXX
+// Thanandar perso24
+L24D08
+Uklidni se, nejsem tvùj neprítel. XXX
+// Thanandar perso24
+L24D09
+ Tak se mi líbíš jiz lepe. XXX
+// Arkhan2 G perso2
+L24D10
+ Thanandar! XXX
+// Arkhan3 G perso3
+L24D11
+ Thanandar! XXX
+// Thanandar perso24
+L24D12
+ Videl jsi Rylsadhara? Povedlo se ti, vchod do hrobky otevrít? XXX
+// Thanandar (ungeduldig) perso24
+L24D13
+ Tedy, co je s hrobkou? XXX
+// Thanandar perso24
+L24D14A
+ Arkhane! Musíme rychle pracovat! XXX
+// Thanandar perso24
+L24D14B
+ Najdi hrobku! XXX
+// Thanandar (honigsüß) perso24
+L24D15A
+ Arkhane! To jsi ty! Dobrá, ze jsi se vrátil ... XXX
+// Thanandar (regt sich plötzlich auf) perso24
+L24D15B
+ Nebot je nejvyší cas, abys ty do ríše stínù prešel! Definitivne! XXX
+// Thanandar (wütend) perso24
+L24D16
+ Pokud já postavím otázku, pak ocekávám nejakou odpoved! XXX
+// Thanandar (ruft durch die Tür hindurch) perso24
+L24D17
+ Všechno v porádku, Komandantko Phedorie! Všechno v porádku! XXX
+// Thanandar perso24
+L24D18A
+ Musíme rychle jednat! XXX
+// Thanandar perso24
+L24D18B
+ Prijde jich sem více, a take by te mohli jako divoke zvíre zadrzet. XXX
+// Thanandar perso24
+L24D18C
+ Jdi k tvemu otci a popros ho, aby te zavedl k hrobce. XXX
+// Thananadar perso24
+L24D19A
+ Prestan! XXX
+// Thananadar perso24
+L24D19B
+ Nedotýkej se! XXX
+// Arkhan2 G perso2
+L24D93
+ Thanandarova mrtvola zmizela! XXX
+// Arkhan3 G perso3
+L24D94
+ Thanandarova mrtvola zmizela! XXX
+// Arkhan2 L perso2
+L24D23
+ Tento Strázce ohne mne napadl, musel jsem se bránit! XXX
+// Thanandar perso24
+L24D24A
+ Ano ... Nejaká tupá hlava! XXX
+// Thanandar perso24
+L24D24B
+ Nedelej si starosti, já ti rozumím. On nebo ty, nemel jsi jinou moznost! XXX
+// Arkhan2 L perso2
+L24D25
+ Ty víš, co se se mnou stalo? Kdo jsi? XXX
+// Arkhan2 O perso2
+L24D26
+ Kdo jsi - nepriblizuj se, nebo skoncíš jako tento bídný cerv tam vzadu! XXX
+// Thanandar perso24
+L24D27A
+ V klidu, já ti chci pomoci. XXX
+// Thanandar perso24
+L24D27B
+ Toto hloupá hlava nevedela, co delá. XXX
+// Thanandar perso24
+L24D27C
+ Já ti rozumím, a chci pro tebe to nejlepší.  XXX
+// Arkhan2 O perso2
+L24D28
+ Pak mi rekni, kdo jsi ... a co se se mnou stalo! XXX
+// Thanandar perso24
+L24D29A
+ Jsem Thanandar, knez, jako tvùj otec, ale já jsem predevším lecitel. XXX
+// Thanandar perso24
+L24D29B
+ A já vím, který dábel te nicí, Arkhane, já znám ho velmi dobre. XXX
+// Thanandar perso24
+L24D29C
+ Temná Zeme do tebe vstoupila ...  XXX
+// Thanandar perso24
+L24D29D
+ A ona ti dá klid teprve, az ona tvoje telo a tvojí mysl plne obsadí.  XXX
+// Arkhan2 L perso2
+L24D30
+ Máš nejaký prostredek, který mne vylecí? XXX
+// Arkhan2 O perso2
+L24D31
+ Tvrdíš, ze jsi svetec. Pak najdi nejaký prostredek, který mne vylecí! XXX
+// Thanandar perso24
+L24D32A
+ Je snad nejaký prostredek ...  XXX
+// Thanandar perso24
+L24D32B
+ Tajemná energie, ze starých casù. Ona vyverá ze srdce z hrobky. XXX
+// Thanandar perso24
+L24D32C
+ Ale o tom já ti nesmím vlastne vùbec vyprávet.Já ti rekl jiz mnoho.  XXX
+// Thanandar perso24
+L24D32D
+ Pouze tvùj otec zná toto tajemství a tebe tam zavede.  XXX
+// Thanandar perso24
+L24D32E
+ On patrí k málo vyvoleným, kterí vchod ke hrobce znají. XXX
+// Arkhan2 G perso2
+L24D33
+ Ríkáš, ze mùj otec toto ... tajemnou hrobku zná? XXX
+// Thanandar perso24
+L24D34A
+ Ano. Promluv si s Rylsadharem. On je jediný, který ti to mùze ríci.  XXX
+// Thanandar perso24
+L24D34B
+ Všechno co mohu pro tebe udelat, je, dát ti prostredek, aby tve bolesti se zmírnily a tím se postaral, ze dábel pomaleji v tobe se rozrùstal.  XXX
+// Thanandar perso24
+L24D34C
+ Prij zpátky, pote co si s otcem promluvíš.  XXX
+// Phedoria (entfernte Stimme) perso26
+L24D35
+ (Phedoria draußen) Je všechno v porádku uvnitr? XXX
+// Arkhan2 G perso2
+L24D36
+ Thanandare, co mám delat? XXX
+// Arkhan3 G perso3
+L24D37
+ Thanandare, co mám udelat? XXX
+// Thanandar perso24
+L24D38A
+ Jdi za tvým otcem, on je hned vedle.  XXX
+// Thanandar perso24
+L24D38B
+ Popros ho, aby ti ukázal hrobku, to je jediný prostredek, který te vylecí.  XXX
+// Thanandar perso24
+L24D38C
+ A pracuj rychle, tvùj cas se pocítá! XXX
+// Arkhan2 G perso2
+L24D43
+ Thanandare, potrebuju pomoc. XXX
+// Arkhan3 G perso3
+L24D44
+ Musíš mi pomoci. XXX
+// Thanandar perso24
+L24D45A
+ Rekl jsem ti prece: Musíš si promluvit s Rylsadharem. XXX
+// Thanandar perso24
+L24D45B
+ To je jediný prostredek! XXX
+// Arkhan2 Gperso2
+L24D46
+ Je to pro mne? XXX
+// Arkhan3 Gperso3
+L24D47
+ Je to pro mne? XXX
+// Thanandar perso24
+L24D48
+ Ne, nedotýkej se toho. XXX
+// Arkhan2 G perso2
+L24D49
+ Poslouchej mne...  XXX
+// Arkhan3 G perso3
+L24D50
+ Poslouchej mne...  XXX
+// Thanandar perso24
+L24D51
+ Bez nyní, Arkhane, tvùj cas se pocítá! XXX
+// Arkhan2 L perso2
+L24D52A
+ Já jsem hrobku ješte nenašel. XXX
+// Arkhan2 L perso2
+L24D52B
+ Ale ty jsi mluvil o nejakem prostredku, se kterým ty moje bolesti zmírníš ... XXX
+// Arkhan2 O perso2
+L24D53A
+ Es reicht mir, nach dieser Gruft zu suchen! XXX
+// Arkhan2 O perso2
+L24D53B
+ Neslíbil jsi mi lek? Kde je?! XXX
+// Arkhan3 G perso3
+L24D54A
+ Nemohu najít hrobku, a dábel se ve mne zhoršuje! XXX
+// Arkhan3 G perso3
+L24D54B
+ Potrebuju protilek, rychle! XXX
+// Thanandar perso24
+L24D55A
+ Já nyní zádný protilek nemám pro tebe. XXX
+// Thanandar perso24
+L24D55B
+Rylsadhar musí ti vchod k hrobce otevrít, to je jedine rešení.  XXX
+// Thanandar perso24
+L24D55C
+ Pak ti mohu pomoci! XXX
+// Arkhan2 G perso2
+L24D56
+ Co s ním deláš? XXX
+// Arkhan3 G perso3
+L24D57
+ Co s ním deláš? XXX
+// Thanandar perso24
+L24D58
+ Ošetruju ho! XXX
+// Arkhan2 G perso2
+L24D59
+ Ale on je prece mrtvý! XXX
+// Arkhan3 G perso3
+L24D95
+ Ale on je prece mrtvý! XXX
+// Thanandar perso24
+L24D60A
+ Ne, nerozumo, on zije ješte! XXX
+// Thanandar perso24
+L24D60B
+ A brzy on opet pùjde ... XXX
+// Arkhan2 L perso2
+L24D61A
+ Já všechno zkusil, ale tuto hrobku jsem nenalezl! XXX
+// Arkhan2 L perso2
+L24D61B
+ Není jiný prostredek? XXX
+// Arkhan2 O perso2
+L24D62A
+ Já nenašel tu prokletou hrobku! XXX
+// Arkhan2 O perso2
+L24D62B
+ Musí být prece jiný prostredek, který by mne vylecil, nez tato energie, o ktere nikdo nic neví! XXX
+// Arkhan3 G perso3
+L24D63A
+ Hrobka ... nemohu jí najít! XXX
+// Arkhan3 G perso3
+L24D63B
+Dej mi jiný prostredek! XXX
+// Thanandar perso24
+L24D64
+ Já mohu ti pouze opakovat: Pokud nenajdeš hrobku, nemohu pro tebe nic udelat! XXX
+// Arkhan2 L perso2
+L24D65A
+ Kdo je tento muz? XXX
+// Arkhan2 L perso2
+L24D65B
+ Toho já zde ješte nikdy nevidel! XXX
+// Arkhan2 O perso2
+L24D66A
+ Je to tvùj pomocník? XXX
+// Arkhan2 O perso2
+L24D66B
+ Jeho ksicht se mi nelíbí! XXX
+// Arkhan3 L perso3
+L24D67A
+ To je tvùj Asistent? XXX
+// Arkhan3 L perso3
+L24D67B
+ Já ho ješte nikdy predtím nevidel! XXX
+// Arkhan3 O perso3
+L24D68
+ Kdo je jiný vevnitr?! XXX
+// Thanandar perso24
+L24D69A
+ To je Strázce ohne, mimoto ... XXX
+// Thanandar perso24
+L24D69B
+ Ale zádný strach, on je docela jiný. XXX
+// Thanandar perso24
+L24D69C
+ Pokud budeš rozumný, všechno dobre dopadne. XXX
+// Thanandar perso24
+L24D20
+ Dost! Já chci ti prece pouze pomoct! XXX
+// Arkhan2 G perso2
+L24D71
+ Proklate, Dulnysi! Jsem Arkhan! XXX
+// Hüter16 perso56
+L24D72
+ Ne, ty jsi demon! Znám Arkhana, tebe ale ne! XXX
+// Arkhan2 G perso2
+L24D73
+ Pockej! XXX
+// Hüter16 (wird A. schlagen) perso56
+L24D04
+ Zemreš! XXX
+// Arkhan2 G perso2
+L24D74
+ Známe se? XXX
+// Arkhan3 G perso3
+L24D75
+ Znám te? XXX
+// Konkalit1 (weiß nicht, was er sagen soll) perso71
+L24D76
+ Mmm... Thanandar?  XXX
+// Thanandar perso24
+L24D77
+ V porádku, to je prítel, všechno je v porádku. XXX
+// Arkhan2 L perso2
+L24D78
+ Tvoje uniforma je roztrhaná. Nejsi zranený? XXX
+// Konkalit1 perso71
+L24D79
+ Ehm ... Ne ... Darí se mi jiz lepe... XXX
+// Arkhan2 O perso2
+L24D80
+ Podívejme se, máš zvláštní oblicej na Strázce ohne. XXX
+// Konkalit1 perso71
+L24D81
+ Podívejme se prece! Pockej, dokud ... XXX
+// Arkhan3 G perso3
+L24D82A
+ Já si myslím, ze te znám ... XXX
+// Arkhan3 G perso3
+L24D82B
+ Videl jsem te jiz, nebo? XXX
+// Konkalit1 perso71
+L24D83
+ Nemozne! Já mám tuto uniformu poprve na sobe! XXX
+// Thanandar (scharf) perso24
+L24D84
+ Bud ticho, hloupá hlavo! To stacilo! XXX
+// Arkhan2 G perso2
+L24D85A
+ On te nazval tupou hlavou. XXX
+// Arkhan2 G perso2
+L24D85B
+ To je tvoje hlavní jmeno? XXX
+// Arkhan3 G (spöttisch) perso3
+L24D86
+ Halo, Tupá hlavo! XXX
+// Konkalit1 perso71
+L24D87
+ (unzufriedenes Knurren) XXX
+// Thanandar perso24
+L24D21
+ Dosti, vy dva! XXX
+// Thanandar (plötzlich bösartig)perso24
+L24D22
+ Ty slabomyslný! Pak ho zlikvidujeme rovnez! XXX
+// Arkhan2 G (schaut sich ein Skelett an) perso2
+L24D88
+ Tento je s jeho bolestmi na konci... XXX
+// Arkhan3 G (schaut sich ein Skelett an) perso3
+L24D89
+ Ten nebude více trpet. XXX
+// Arkhan2 G perso2
+L05D183
+ Ztracený cas ... XXX
+// Arkhan3 G perso3
+L05D184
+ Nic zajímaveho ... XXX
+// Arkhan2 G perso2
+L24D90
+ Myslíš, ze mùzeš s ním pocítat? XXX
+// Arkhan3 G perso3
+L24D91
+ Myslíš, ze s ním mùzeš pocítat? XXX
+// Thanandar (überschwenglich) perso24
+L24D92A
+ Docela jiste! XXX
+// Thanandar perso24
+L24D92B
+ Brzo bude zivejší nez byl pred tím! XXX
+// Arkhan2 L perso2
+L34D05
+ Thanandare! Co to má znamenat? XXX
+// Arkhan2 O perso2
+L34D06
+ Thanandare, zatracený zrádce! Ty jsi mne obelhal! XXX
+// Arkhan3 G perso3
+L34D07
+ Thanandare! Zrádce! XXX

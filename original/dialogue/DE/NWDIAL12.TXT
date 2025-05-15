@@ -1,0 +1,523 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL12.TXT
+ // Bandor perso7
+L12D03
+ Was machst Du hier? XXX
+// Bandor perso7
+L12D04
+ Warum kommst Du zurück? XXX
+// Bandor perso7
+L12D05
+ Wir können nichts mehr für Dich tun. XXX
+// Bandor perso7
+L12D01
+ Zurück! Ihr habt kein Recht, hier zu sein! XXX
+// Khorad perso83
+L12D02
+ Geht oder wir rufen die Hüter des Feuers! XXX
+// Arkhan2 G perso2
+L12D108
+ Ein Geheimversteck! XXX
+// Arkhan3 G perso2
+L12D109
+ Ein Versteck! XXX
+// Bandor (verängstigt)perso7
+L12D128
+ Nein! Ich flehe Dich an! XXX
+// Khorad (verängstigt)perso83
+L12D129
+ Hilfe! XXX
+// Bandor perso7
+L12D112
+ Nein nein, schlag uns nicht! XXX
+// Bandor perso7
+L12D113
+ So ist es gut, seien wir vernünftig. XXX
+// Arkhan2 L perso2
+L12D06A
+ Keine Angst, ich will Euch nichts Böses.  XXX
+// Arkhan2 L perso2
+L12D06B
+ Ich suche Bandor, den Meister der Erbauer. XXX
+// Khorad (eifrig) perso83
+L12D10
+ Bandor ist nicht da!  XXX
+// Bandor (versucht, seine Angst zu verbergen) perso7
+L12D11
+ Er ... er ist in der Unteren Stadt, auf einer neuen Baustelle. XXX
+// Khorad perso83
+L12D12
+ Ja. Er ist unten geblieben. XXX
+// Arkhan2 O (ungeduldig) perso2
+L12D07
+Wo ist Bandor, der Meister der Erbauer? XXX
+// Arkhan2 L perso2
+L12D13A
+ Die Große Predigerin selbst schickt mich, Euch um Hilfe zu bitten. XXX
+// Arkhan2 L perso2
+L12D13B
+ Sie hat mir Bandor recht gut beschrieben: Es kann nur einer von Euch beiden sein.  XXX
+// Arkhan2 L perso2
+L12D13C
+ Der ganze Stallit ist in Gefahr, es muß schnell gehandelt werden!  XXX
+// Bandor perso7
+L12D24
+ Nein, die Große Predigerin hat das nie gesagt!  XXX
+// Khorad (besänftigend) perso83
+L12D25
+ Oder sie hat sich geirrt ... XXX
+// Bandor perso7
+L12D26
+ Jedenfalls ist Bandor nicht da. XXX
+// Khorad perso83
+L12D27
+ Und wir wissen nicht, wo er ist! XXX
+// Arkhan2 O (ungeduldig) perso2
+L12D14A
+ Versucht nicht, mich reinzulegen! XXX
+// Arkhan2 O perso2
+L12D14B
+ Lory selbst hat mir von Bandor erzählt. Ich bin sicher, daß er einer von Euch beiden ist! XXX
+// Arkhan2 O perso2
+L12D14C
+ Ich hab' keine Zeit zu verlieren: Wer von Euch ist Bandor?! XXX
+// Arkhan2 L perso2
+L12D19A
+ Ich versichere Euch, ich will Euch nichts Böses! XXX
+// Arkhan2 L perso2
+L12D19B
+ Ich muß wissen, ob Rylsadhar Euch etwas gegeben hat ... einen Kristall.  XXX
+// Arkhan2 O (regt sich auf) perso2
+L12D20A
+ Wollt Ihr mir etwa erzählen, daß alle Erbauer farbig sind und ein Bein zuwenig haben?! XXX
+// Arkhan2 O perso2
+L12D20B
+ Genug jetzt! Wer von Euch ist Bandor? XXX
+// Bandor (einlenkend) perso7
+L12D22
+ Tut mir leid, wir wissen nichts. XXX
+// Khorad (blufft) perso83
+L12D23A
+ Ihr solltet lieber gehen, die Hüter des Feuers werden gleich da sein. XXX
+// Khorad perso83
+L12D23B
+ Und die werden nicht gerade freundlich mit Euch umgehen! XXX
+// Arkhan2 L perso2
+L12D200
+ Hört mir gut zu, ich brauch' Eure Hilfe. XXX
+// Bandor perso7
+L12D202
+ Tut uns leid, wir wissen nichts. XXX
+// Khorad perso83
+L12D203
+ Wir können nichts für Euch tun! XXX
+// Arkhan2 O (regt sich auf) perso2
+L12D201
+ Gleich reicht's mir! XXX
+// Arkhan3 L perso3
+L12D08
+ Ruhe! Ich suche Bandor! XXX
+// Arkhan3 O perso3
+L12D09
+ Bandor! XXX
+// Arkhan3 L perso3
+L12D15A
+ Lory hat mir gesagt: Er ist Mann von schwarzer Hautfarbe mit einem Metallbein! XXX
+// Arkhan3 L perso3
+L12D15B
+ Wer von Euch ist Bandor? XXX
+// Arkhan3 L perso3
+L12D21A
+ Ich bin nicht Euer Feind.  XXX
+// Arkhan3 L perso3
+L12D21B
+ Ich suche einen Kristall. Den Rylsadhar Euch gegeben hat. XXX
+// Arkhan3 L perso3
+L12D300
+ Ich brauche Euch! XXX
+// Khorad (erschreckt) perso83
+L12D17
+ Nein! Rühr uns nicht an! XXX
+// Bandor (erschreckt) perso7
+L12D18A
+ Zurück, Kreatur! XXX
+// Bandor perso7
+L12D18B
+ Mach es nicht schlimmer, indem Du Hand an uns legst! XXX
+// Arkhan2 G perso2
+L12D32
+ Ich habe den Plan, der für Euch so wertvoll ist. Also, wer von Euch ist Bandor? XXX
+// Arkhan3 G perso3
+L12D34
+ Ich habe den Plan. Also, wer von Euch ist Bandor?! XXX
+// Khorad (blufft) perso83
+L12D33A
+ Der Plan nützt Dir nichts.  XXX
+// Khorad perso83
+L12D33B
+ Und keiner von uns ist Bandor... XXX
+// Arkhan2 G perso2
+L12D121
+ Sagt Euch das hier was? XXX
+// Arkhan3 G perso3
+L12D122
+ Kennt Ihr das hier? XXX
+// Bandor perso7
+L12D123
+ Nein, tut mir leid. XXX
+// Khorad perso83
+L12D124
+ Nein, kennen wir nicht. XXX
+// Arkhan2 G perso2
+L12D40
+ Ha, ha, gleich ist's aus mit Eurem Spielchen! XXX
+// Bandor perso07
+L12D43
+ Also gut. Gib mir den Plan! XXX
+// Arkhan3 G perso3
+L12D42
+ Schluß jetzt mit dem dummen Zeug! XXX
+// Arkhan2 L perso2
+L12D47A
+ Meister der Erbauer. Ich wollte Euch nichts tun. XXX
+// Arkhan2 L perso2
+L12D47B
+ Das Gift der Finsternis läuft durch meine Adern, doch ich bin und bleibe Arkhan, Hüter des Feuers und Sohn Rylsadhars. XXX
+// Arkhan2 L perso2
+L12D47C
+ Ich habe geschworen, alles zu tun, um ihn zu rächen und den Stalliten zu retten. XXX
+// Bandor (vorsichtig) perso7
+L12D50A
+ Das sind nichts als leere Worte. Warum sollten wir Dir vertrauen? XXX
+// Bandor perso7
+L12D50B
+ Beweis mir, daß Du Rylsadhars Sohn bist, und ich werde sehen, ob ich Dir helfen kann. XXX
+// Arkhan2 O perso2
+L12D48
+ Wir haben keine Zeit zu verlieren. Ich bin Arkhan, Sohn des Rylsadhar, und suche die Kristalle, die mein Vater versteckt hat.  XXX
+// Arkhan3 L perso3
+L12D49A
+ Ich bin Rylsadhars Sohn.  XXX
+// Arkhan3 L perso3
+L12D49B
+ Ich suche die Kristalle, die er versteckt hat. XXX
+// Arkhan2 L perso2
+L12D51A
+ Ich hab' keine Zeit zu verlieren, Bandor.  XXX
+// Arkhan2 L perso2
+L12D51B
+ Lory schickt mich, Ihr müßt mir glauben! XXX
+// Bandor (entschieden) perso7
+L12D54A
+ Nein. Rylsadhar würde es nicht zulassen, daß ich mit so jemandem spreche ... mit... XXX
+// Bandor perso7
+L12D54B
+ ... einer Kreatur wie Dir, ohne Beweis ihres guten Willens. XXX
+// Arkhan2 O perso2
+L12D52A
+ Es ist nicht der richtige Zeitpunkt, um sich zu mißtrauen! XXX
+// Arkhan2 O perso2
+L12D52B
+ Wenn Ihr einen Kristall habt, gebt ihn mir sofort! XXX
+// Arkhan3 L perso3
+L12D53
+ So vertraut mir doch! XXX
+// Arkhan2 G perso2
+L12D55A
+ Du willst einen Beweis? Schau, ich hab' den Kristallring. XXX
+// Arkhan2 G perso2
+L12D55B
+ Ich muß die anderen Teile finden, um Zugang zum Kellergewölbe meines Vaters zu bekommen.  XXX
+// Arkhan2 G perso2
+L12D55C
+ Lory denkt, daß in diesem Gewölbe Kenntnisse verborgen sind, die uns retten können. XXX
+// Bandor (plötzlich entschlossen) perso7
+L12D57A
+ Einverstanden. Ich glaube Dir. XXX
+// Bandor perso7
+L12D57B
+ Ja, Rylsadhar hat mir einen dieser Kristalle gegeben. Ich geb' ihn Dir. XXX
+// Bandor perso7
+L12D57C
+ Aber wenn sich herausstellt, daß Du ihn für schlechte Absichten benutzt, sollst Du hundertmal verflucht sein! XXX
+// Arkhan2 L perso2
+L12D58
+ Ich danke Dir, Meister Bandor. XXX
+// Arkhan2 O perso2
+L12D59A
+ Mmm... XXX
+// Arkhan2 O (nimmt Bandors Äußerung wieder auf)perso2
+L12D59B
+ Und wenn sich herausstellt, daß ich durch Dein Mißtrauen Zeit verloren habe, komm' ich zurück und rechne mit Dir ab! XXX
+// Arkhan3 G perso3
+L12D56A
+ Du willst einen Beweis? Hier! XXX
+// Arkhan3 G perso3
+L12D56B
+ Ich hab' den Kristallring! XXX
+// Arkhan3 L perso3
+L12D60
+ Danke. XXX
+// Arkhan3 O perso3
+L12D61
+ (leicht freundliches Knurren) XXX
+// Arkhan2 G perso2
+L12D125
+ Reicht Dir das als Beweis? XXX
+// Arkhan3 G perso2
+L12D126
+ Hier ist der Beweis! XXX
+// Bandor perso7
+L12D127
+ Nein, das beweist nichts! XXX
+// Arkhan2 L perso2
+L12D62A
+ Wem sonst könnte mein Vater wohl einen Kristall gegeben haben? XXX
+// Arkhan2 L perso2
+L12D62B
+ Habt Ihr eine Idee? XXX
+// Arkhan2 O perso2
+L12D63A
+ Wem hat mein Vater außer Dir einen Kristall gegeben? XXX
+// Arkhan2 O perso2
+L12D63B
+ Antworte! XXX
+// Bandor (überlegt schnell) perso7
+L12D65
+ Ähm... Der Großen Predigerin Lory, ganz sicher. Und sicher auch dem großen Zed. XXX
+// Arkhan2 G perso2
+L12D66
+ Hmm ... Wem noch? XXX
+// Bandor (zögert) perso7
+L12D68A
+ Hmm ... vielleicht hat Rylsadhar Zeit gehabt, zu Leona zu gehen. XXX
+// Bandor perso7
+L12D68B
+ Das ist eine seltsame Frau, sie lebt im Reich der Finsternis. Nur wenige Leute hätten Ihr vertraut ... XXX
+// Bandor perso7
+L12D68C
+ Aber Dein Vater schien mit Ihr befreundet zu sein. XXX
+// Arkhan2 G perso2
+L12D69
+ Ich habe Leona gefunden. Mein Vater hat Ihr nichts gegeben. XXX
+// Bandor perso7
+L12D71
+ Dann weiß ich auch niemand anderen... Tut mir leid ... XXX
+// Arkhan2 L perso2
+L12D72
+ Wo finde ich Leona? XXX
+// Arkhan2 O perso2
+L12D73
+ Wo finde ich diese Leona? XXX
+// Bandor perso7
+L12D75A
+ Sie lebt außerhalb des Stalliten, im Reich der Finsternis. Niemand weiß genau wo ... XXX
+// Bandor perso7
+L12D75B
+ Einige sagen, daß sie sich in der Nähe des Ufers versteckt ... XXX
+// Bandor perso7
+L12D75C
+ Und andere behaupten, daß man sie nur finden kann, wenn sie es will. XXX
+// Khorad perso83
+L12D76A
+ Auf jeden Fall wäre es Wahnsinn, den Stalliten zu verlassen ...  XXX
+// Khorad perso83
+L12D76B
+ Schließlich sind die Straßen verbarrikadiert und die Tore des Stalliten verschlossen! XXX
+// Arkhan2 G perso2
+L12D77A
+ Beim Rahal, aber Du bist doch der Meister der Erbauer! XXX
+// Arkhan2 G perso2
+L12D77B
+ Du kennst sicher einen anderen Weg, um den Stalliten zu verlassen! XXX
+// Bandor perso7
+L12D78
+ Nein. Früher gab es Tunnel, aber die wurden verschüttet oder überflutet, als die Erde bebte. XXX
+// Khorad perso83
+L12D79
+ Ja, und das war vor vielen Sonnenzyklen ... XXX
+// Arkhan2 L perso2
+L12D81A
+ Lory hat mir von einem unterirdischen Ort erzählt, von einer Grabstätte. Da muß ich hin. XXX
+// Arkhan2 L perso2
+L12D81B
+ Wißt Ihr etwas darüber? XXX
+// Bandor perso7
+L12D84
+ "Grabstätte". Nein. So einen Ort kenn' ich nicht. XXX
+// Khorad perso83
+L12D85A
+ Der Stallit wurde vor sehr langer Zeit erbaut.  XXX
+// Khorad perso83
+L12D85B
+ Selbst Meister Bandor kennt nicht alle seine Geheimnisse. XXX
+// Arkhan2 O perso2
+L12D82A
+ Lory hat von einer Grabstätte gesprochen. Ihr und Eure Arbeiter, Ihr habt den Stalliten erbaut. XXX
+// Arkhan2 O perso2
+L12D82B
+ Wo ist diese Grabstätte? XXX
+// Arkhan2 L perso2
+L12D91A
+ Ich hab' in der Unteren Stadt den Eingang zu einem Gebäude gesehen. Sieht aus wie eine Tür vom Vorher.  XXX
+// Arkhan2 L perso2
+L12D91B
+ Ihr wißt doch alles über den Stalliten - könnt Ihr mir sagen, wie man dort hineinkommt? XXX
+// Bandor perso7
+L12D92
+ Dieser Ort ist ein Geheimnis, selbst für mich. XXX
+// Khorad perso83
+L12D93A
+ Man erzählt, einem Lumpensammler sei es gelungen, dort hineinzukommen. Aber Dhorkan hat ihn festnehmen lassen. XXX
+// Khorad perso83
+L12D93B
+ Und seitdem hat niemand mehr damit angegeben, in das Gebäude eingedrungen zu sein. XXX
+// Arkhan2 O perso2
+L12D94A
+ Unten gibt es eine seltsame Tür, eine Tür vom Vorher. XXX
+// Arkhan2 O perso2
+L12D94B
+ Ich will da hinein, und Ihr werdet mir sagen, wie! XXX
+// Khorad perso83
+L12D95
+ Das Gebäude ist seit langem leer, niemand kann dort hinein. XXX
+// Arkhan2 L perso2
+L12D86A
+ Danke für Eure Hilfe. XXX
+// Arkhan2 L perso2
+L12D86B
+ Ich stör' Euch jetzt nicht länger. Licht sei über Euch! XXX
+// Bandor perso7
+L12D87
+ Viel Glück, Sohn Rylsadhars. XXX
+// Khorad perso83
+L12D88
+ Und sei vorsichtig... XXX
+// Arkhan2 O perso2
+L12D89A
+ So, wir haben jetzt genug Zeit verloren. XXX
+// Arkhan2 O perso2
+L12D89B
+ Geht zur Seite, ich hab' zu tun! XXX
+// Arkhan3 L perso3
+L12D64A
+ Wo find ich die anderen Kristalle? XXX
+// Arkhan3 L perso3
+L12D64B
+ Wißt Ihr wo? XXX
+// Arkhan3 L perso3
+L12D67
+ Hmm ... Wem noch? XXX
+// Arkhan3 L perso3
+L12D70
+ Ich hab' mit Leona gesprochen. Fehlanzeige. XXX
+// Arkhan3 L perso3
+L12D74
+ Wo finde ich Leona? XXX
+// Arkhan3 L perso3
+L12D80
+ Es muß doch noch einen anderen Weg geben ... XXX
+// Arkhan3 L perso3
+L12D83
+ Ich suche einen Ort, die Grabstätte. Wo ist das? XXX
+// Arkhan3 L perso3
+L12D96A
+ In der Unteren Stadt gibt es eine Tür. Sicher ein Gebäude vom Vorher. XXX
+// Arkhan3 L perso3
+L12D96B
+ Ich will da hinein. Könnt Ihr mir helfen? XXX
+// Arkhan3 L perso3
+L12D90
+ Danke. Licht sei über Euch. XXX
+// Bandor perso7
+L12D105A
+ Du bist wahnsinnig! Hör auf! XXX
+// Bandor perso7
+L12D105B
+ Wir können nichts für Dich tun, laß uns in Ruhe! XXX
+// Bandor (ist gezwungen, sich zu wehren) perso7
+L12D107
+ Khorad, greif ihn an! XXX
+// Khorad perso83
+L12D41
+ Gebt Meister Bandor sofort den Plan zurück! XXX
+// Arkhan2 G perso2
+L12D110
+ Seine Taschen sind leer! XXX
+// Arkhan3 G perso3
+L12D111
+ Verdammt, nichts! XXX
+// Khorad perso83
+L12D30
+ Rührt diesen Plan nicht an, er ist ein Dokument von großem Wert! XXX
+// Bandor perso7
+L12D31
+ Er gehört dem Meister der Erbauer! XXX
+// Arkhan2 G perso2
+L12D28
+ Da ist nichts mehr zu holen! XXX
+// Arkhan3 perso3
+L12D29
+ Nichts mehr zu holen. XXX
+// Arkhan2 G (dreht den Kopf in Richtung von Bandor & Khorad) perso2
+L12D35A
+ Wenn keiner von Euch Bandor ist.  XXX
+// Arkhan2 G (dreht den Kopf in Richtung von Bandor & Khorad) perso2
+L12D35B
+ Stört es Euch sicher nicht, wenn ich diesen wertvollen Plan verbrenne! XXX
+// Bandor (panisch) perso7
+L12D38
+ NEIN! XXX
+// Bandor (geht zu Arkhan) perso7
+L12D39
+ Also gut, ich bin Bandor. Gib mir den Plan! XXX
+// Arkhan2 Gperso2
+L14D45
+ Na endlich! XXX
+// Arkhan3 G perso3
+L12D36
+ Zum letzten Mal: Wer von Euch ist Bandor? XXX
+// Arkhan3 G perso3
+L12D37
+ Oder der Plan hier geht in Flammen auf! XXX
+// Arkhan3 G perso3
+L14D46
+ Bandor, na endlich! XXX
+// Arkhan2 G perso2
+L12D45
+ Ich weiß, wer Bandor ist, ich werde den Plan nicht verbrennen! XXX
+// Arkhan3 G perso3
+L12D46
+ Ich kenne Bandor, ich werde den Plan nicht verbrennen! XXX
+// Arkhan2 G perso2
+L12D103
+ Nichts Interessantes auf dem Schreibtisch ... XXX
+// Arkhan3 G perso3
+L12D104
+ Nichts auf dem Schreibtisch... XXX
+// Arkhan2 G perso2
+L12D97
+ Auf dem Schreibtisch da liegt nichts. XXX
+// Arkhan3 perso3
+L12D98
+ Hier ist nichts! XXX
+// Arkhan2 G perso2
+L12D99
+ Auf diesem Pult liegt nichts. XXX
+// Arkhan2 G perso2
+L12D101
+ Ein Ding vom Vorher. XXX
+// Arkhan3 G perso3
+L12D102
+ Ein Ding vom Vorher. XXX
+// Khorad (flüsternd) perso83
+L12D119
+ Er berührt die Schlange! XXX
+// Bandor (flüsternd) perso7
+L12D120
+ Wir können nichts dabei machen. Es ist besser, nichts zu tun. XXX
+// Arkhan2 G perso2
+L12D117
+ Ich hab' den Hebel gezogen. XXX
+// Arkhan3 G perso3
+L12D118
+ Ich hab' den Hebel gezogen. XXX

@@ -1,0 +1,397 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL32.TXT
+ // Sordos perso23
+L32D08
+ Ah! Tu jestes, Gork, stary druhu. XXX
+// Sordos perso23
+L32D70
+ Ah! Tu jestes, Telk! XXX
+// Gork perso31
+L32D12B
+ Ja cie ranie... a ty wrzeszczysz, okej? XXX
+// Konkalite11 perso81
+L32D71
+ Potrzebujesz mnie, szefie? XXX
+// Sordos perso23
+L32D09A
+ Znalazlem ci nowa zabawke. XXX
+// Sordos perso23
+L32D09B
+ Baw sie dobrze, tylko zbyt szybko go nie zabij. XXX
+// Konkalite11 perso81
+L32D72
+ Mozesz na mnie liczyc, Sordosie! XXX
+// Sordos perso23
+L32D05A
+ Wiec, przyjacielu, bedziesz bohaterem. Martwym bohaterem! XXX
+// Sordos perso23
+L32D05B
+ Szkoda tylko, ze cie tu nie bedzie, gdy Konkalici przejma Sparte. XXX
+// Sordos perso23
+L32D05C
+ Uwierz w to, co mowie: krew poplynie wartkim strumieniem, niczym Stohll! XXX
+// Konkalite11 perso81
+L32D73A
+ Gork zaraz tu powroci ze swoimi malymi gadzetami. XXX
+// Konkalite11 perso81
+L32D73B
+ A wtedy zrozumiesz, co to znaczy zadac prawdziwy bol! XXX
+// Konkalite11 perso81
+L32D73C
+ Mozesz na to liczyc! (diabelski smiech) XXX
+// Gork (stupidly)perso31
+L32D10
+ Taa... Jasna sprawa, Sordosie. XXX
+// Gork perso31
+L32D12A
+ Sordos nakazal cie mocno poturbowac. XXX
+// Gork perso31
+L32D12C
+ I pewnie zdrowo sobie pokrzyczysz! O tak! XXX
+// Konkalite7 (calling Gork)perso77
+L32D13
+ Ha Ha! A teraz... Hej, Gork, spojrz ktoz nam tu wpadl! XXX
+// Konkalite7 perso77
+L32D14
+ Podejdz no tu blizej, slodziutki! Mam cos dla ciebie. XXX
+// Malrot6 perso66
+L32D226
+Hej... Puszczaj mnie, scierwo! XXX
+// Malrot6 perso66
+L32D227
+ Armal Sadak was wszystkich zabije! XXX
+// Malrot6 perso66
+L32D228
+Hej.. Chyba nie pozwolisz bym zgnil w tej celi, co?! XXX
+// Konkalite3 perso73
+L32D666
+ Hej! Siedz spokojnie, dobra?! XXX
+// Konkalite3 perso73
+L32D667
+ Cicho, wszo! XXX
+// Konkalite3 perso73
+L32D668
+ Bedziesz wic sie jak deptany robak, zanim zginiesz! XXX
+// Konkalite3 (seeing Arkhan)perso73
+L32D100
+ Hej, a tys skad sie tu wzial?! XXX
+// Malrot6 (A. having overcome Konkalite3)perso66
+L32D225
+ Niezle idzie, koles! XXX
+// Gork perso31
+L32D505
+ Zamknij sie! XXX
+// Arkhan2 O perso2
+L32D15
+ Chodz po swoja czesc, obwiesiu! XXX
+// Arkhan3 O perso3
+L32D16
+ Twoja godzina wlasnie wybila, beczko loju! XXX
+// Konkalite7 perso77
+L34D778
+ Juz nie zyjesz! XXX
+// Konkalite7 perso77
+L34D777
+ Posiekamy cie na plasterki! XXX
+// Arkhan2 G (finding Dhorkan half-dead)perso2
+L32D40
+ To Dhorkan! XXX
+// Arkhan3 G (finding Dhorkan half-dead)perso3
+L32D41
+ Dhorkan! XXX
+// Dhorkan (semi-conscious) perso95
+L32D42
+ Oooh... XXX
+// Arkhan2 L perso2
+L32D20
+ Dhorkan? Zyjesz jeszcze?! XXX
+// Arkhan2 O perso2
+L32D21
+ Dhorkan! Ciagle zyw, przebrzydly zdrajco?! XXX
+// Arkhan3 L perso3
+L32D22
+ Dhorkan? Zywy? XXX
+// Arkhan3 O perso3
+L32D23
+ Dhorkan! A wiec ciagle jeszcze zyjesz, podly szczurze! XXX
+// Dhorkan (dying)perso95
+L32D24A
+ Arkhan... to ty?..  XXX
+// Dhorkan (dying)perso95
+L32D24B
+ Aah... Wiedzialem... ze cie jeszcze spotkam... przed... koncem. XXX
+// Arkhan2 G perso2
+L32D25
+ Tak, ja sie latwo nie poddaje! XXX
+// Arkhan3 G perso3
+L32D26
+ Tak, ja zawsze walcze... do konca! XXX
+// Dhorkan (dying)perso95
+L32D27A
+ Nastal dla mnie gorzki kres... moje grzechy... mnie dopadly... XXX
+// Dhorkan (dying)perso95
+L32D27B
+ Ja... Ja pragnalem... nowej ery dla Sparty... XXX
+// Dhorkan (dying)perso95
+L32D27C
+ Bylem gotow zrobic wszystko... Kolaborowac z Sordosem... pozwolic mu na morderstwo Lory... Wydac mu twego ojca... XXX
+// Dhorkan (dying)perso95
+L32D27D
+ Ale nie mialem pojecia, co szykuje Thanandar...  XXX
+// Dhorkan (dying)perso95
+L32D27E
+ On i  Sordos... wykorzystali mnie! XXX
+// Arkhan2 L perso2
+L32D28
+ Mozesz odkupic swoje grzechy. Powiedz mi, gdzie znalezc Thanandara. XXX
+// Arkhan2 O perso2
+L32D29
+ Widziales Thanandara! Mow! XXX
+// Arkhan3 L perso3
+L32D30
+ Thanandar, gdzie on jest? XXX
+// Arkhan3 O perso3
+L32D31
+ Gdzie jest Thanandar? Mow! XXX
+// Dhorkan (dying)perso95
+L32D32A
+ Nie... Nie wiem, gdzie on przebywa...  XXX
+// Dhorkan (dying)perso95
+L32D32B
+ Nie zadzieraj z nim. On juz nie jest istota ludzka, Arkhanie...  XXX
+// Dhorkan (dying)perso95
+L32D32C
+ Zostal... zainfekowany... dawno temu... XXX
+// Dhorkan (dying)perso95
+L32D32D
+ Jedno Boskie Slonce tylko wie, jak on zdolal przez tak dlugi okres czasu ukryc ten fakt przed wszystkimi... XXX
+// Dhorkan (dying)perso95
+L32D32E
+ Konkalici zatruli cie... jego krwia... XXX
+// Dhorkan (dying)perso95
+L32D32F
+ A teraz, gdy sily Mroku wkroczyly do Stallite... Thanandar moze wreszcie spokojnie ujawnic swa prawdziwa nature... XXX
+// Dhorkan (dying)perso95
+L32D32G
+ Inne kreatury... sa mu posluszne... nikt nie moze go powstrzymac... za pozno... (wzdycha) XXX
+// Arkhan2 L perso2
+L32D33A
+ Dhorkanie! Szukam miejsca, ktore moj ojciec nazywal "Krypta". XXX
+// Arkhan2 L perso2
+L32D33B
+ To moze byc jedyny sposob na uratowanie Sparty! XXX
+// Arkhan2 O perso2
+L32D34A
+ Spotkala cie zasluzona kara za wszelkie twoje przewinienia! XXX
+// Arkhan2 O perso2
+L32D34B
+ Ale oni mnie nie dostana! XXX
+// Arkhan3 L perso3
+L32D35A
+ Szukam pewnego miejsca - "Krypty".  XXX
+// Arkhan3 L perso3
+L32D35B
+ Rzekomo ma ono sile, by uratowac nas wszystkich. XXX
+// Arkhan3 O perso3
+L32D36A
+ Zginiesz tak, jak zyles! W nieslawie! XXX
+// Arkhan3 O perso3
+L32D36B
+ Ale ja przetrwam! XXX
+// Dhorkan (dying)perso95
+L32D37A
+ Jedyna nadzieja dla ciebie tkwi w ucieczce... Uchodz stad, poki jeszcze jest na to czas...  XXX
+// Dhorkan (dying)perso95
+L32D37B
+ Stallite wkrotce przestanie istniec... przeze mnie... XXX
+// Dhorkan (last breath)perso95
+L32D37C
+ Niech Wielki Solaar mi wybaczy... XXX
+// Arkhan2 G perso2
+L32D44
+ Nie zyje. Juz po wszystkim. XXX
+// Arkhan3 L perso3
+L32D46
+ Tym razem to naprawde koniec. XXX
+// Arkhan2 L perso2
+L32D50
+ Zed, coz oni ci zrobili!? XXX
+// Arkhan2 O perso2
+L32D51
+To nie jest Zed! XXX
+// Arkhan3 L perso3
+L32D52
+ Zed, co oni zrobili?! XXX
+// Arkhan3 O perso3
+L32D53
+ To nie jest Zed! XXX
+// Arkhan2 L perso2
+L32D500
+ Wypusc mnie, mam cos dla ciebie. XXX
+// Arkhan2 O perso2
+L32D501
+ Wypusc mnie stad, tlusciochu! XXX
+// Arkhan3 L perso3
+L32D502
+ Pusc mnie. Mam cos dla ciebie. XXX
+// Gork perso31
+L32D503
+ Zamknij sie smieciu! XXX
+// Gork perso31
+L32D504
+ Nastepna rzecz, jaka zrobisz, to blaganie nas o szybka smierc! XXX
+// Arkhan2 L perso2
+L32D506
+ Wypusc mnie, wynagrodze ci to. XXX
+// Konkalite11 perso81
+L32D509A
+ Nie interesuje mnie ,ani to kim jestes, ani to co zrobiles, ani co masz na swoje usprawiedliwienie. XXX
+// Konkalite11 perso81
+L32D509B
+ Jedyne czego pragne, to uslyszec twoje wrzaski i blagania o litosc. XXX
+// Arkhan2 O perso2
+L32D507
+ Wypusc mnie, a moze pozwole ci zostac przy zyciu! XXX
+// Konkalite11 perso81
+L32D510A
+ A to ci dopiero! XXX
+// Konkalite11 perso81
+L32D510B
+ Mysle jednak, ze bede trzymac sie pierwotnego planu. Nigdy nie wiadomo, kiedy znowu zatesknie za torturowaniem... XXX
+// Arkhan3 L perso3
+L32D508
+ Pusc mnie wolno, nie pozalujesz. XXX
+// Konkalite11 perso81
+L32D511A
+ Marudz, jecz i stekaj ile sobie tylko zapragniesz! XXX
+// Konkalite11 perso81
+L32D511B
+ Wkrotce poprosisz nas, bysmy poderzneli ci gardlo! XXX
+// Malrot6 perso66
+L32D102
+ Zajmij sie najpierw druga gadzina! XXX
+// Arkhan2 L perso2
+L32D200
+ Wydostane cie stad. XXX
+// Malrot6 perso66
+L32D201
+ Hej, dzieki kolego! Myslisz, ze dasz rade? XXX
+// Arkhan2 L (can't break down the door)perso2
+L32D202
+ Uh... Calkiem solidne! XXX
+// Malrot6 perso66
+L32D203
+ Trzeba poszukac sposobu na wylamanie zamka. XXX
+// Arkhan3 L perso3
+L32D204
+ Wydostane cie stad! XXX
+// Arkhan3 L perso3
+L32D205
+ Twarde! XXX
+// Arkhan2 L perso2
+L32D206
+ Trzeba sprobowac innego sposobu. XXX
+// Arkhan3 L perso3
+L32D207
+ Sprobujemy jakos inaczej. XXX
+// Malrot6 perso66
+L32D208
+ Doceniam twoje wysilki, kolego. XXX
+// Malrot6 perso66
+L32D209
+ Miej oczy szeroko otwarte. W kazdej chwili moze sie tutaj zjawic wiecej tego robactwa! XXX
+// Arkhan2 L perso2
+L32D210
+ Nie, nie dziala! XXX
+// Arkhan3 L perso3
+L32D211
+ Nie da rady! XXX
+// Arkhan2 L perso2
+L32D212
+ Przy pomocy tego powinienem otworzyc cele! XXX
+// Arkhan3 L perso3
+L32D213
+ Otworze cele! XXX
+// Malrot6 perso66
+L32D214
+ Hej, dzieki czlowieku, jestem twoim dluznikiem! XXX
+// Malrot6 perso66
+L32D217A
+ Uratowales mi zycie, nigdy o tym nie zapomne! XXX
+// Malrot6 perso66
+L32D217B
+ Po prostu sprobuje sie stad wydostac w jednym kawalku. XXX
+// Malrot6 perso66
+L32D217C
+ Uwazaj na siebie! XXX
+// Arkhan2 O perso2
+L32D218
+ Nienajlepiej wygladasz w tej celi! XXX
+// Arkhan3 O perso3
+L32D219
+ Wygladasz tu w srodku jak kretyn! XXX
+// Malrot6 perso66
+L32D220A
+ Tak jak i ty, jestem wrogiem Konkalitow! XXX
+// Malrot6 perso66
+L32D220B
+ Jak juz sie nacieszysz widokiem, moze bys tak pomogl mi sie stad wydostac? XXX
+// Arkhan2 O perso2
+L32D221
+ Skoro juz cie tu wrzucono, to znaczy, ze musial istniec jakis powazny powod! XXX
+// Arkhan3 O perso3
+L32D222
+ Nie ma tu zbyt wiele miejsca, co?! XXX
+// Malrot6 perso66
+L32D223
+ Wydostan mnie stad, a pokaze ci, dlaczego te tepe lby mnie tu zamknely! XXX
+// Malrot6 perso66
+L32D224
+ Gadka szmatka... XXX
+// Malrot6 perso66
+L32D512
+ Hej, hej, spokojnie! XXX
+// Malrot6 perso66
+L32D513
+ Probujesz mnie zabic, czy jak?! XXX
+// Konkalite3 (hitting)perso73
+L32D888
+ Za duzo mowisz, kolego. To mnie troche wnerwia! XXX
+// Konkalite3 (hitting)perso73
+L32D889
+ Upuszcze ci troche krwi, niewyparzona gebo! XXX
+// Konkalite11 perso81
+L32D515
+ Wrzeszcz. No dalej, krzycz! XXX
+// Konkalite11 perso81
+L32D514
+ Za chwile dostaniesz to, na co zaslugujesz! XXX
+// Arkhan2 G perso2
+L32D60A
+ Cele tortur. XXX
+// Arkhan2 G perso2
+L32D60B
+ Ci Konkalici to zmije! XXX
+// Arkhan3 G perso3
+L32D61A
+ Cele tortur. XXX
+// Arkhan3 G perso3
+L32D61B
+ Konkalici, zmije! XXX
+// Arkhan2 G perso2
+L32D58
+ Ludzkie kosci...   XXX
+// Arkhan3 G perso3
+L32D59
+ Kosci... ludzkie kosci. XXX
+// Arkhan2 G perso2
+L32D56
+ Polac zweglonego ciala. XXX
+// Arkhan3 G perso3
+L32D57
+ Zweglone cialo. XXX
+// Arkhan2 G perso2
+L32D54
+ Zardzewiale klatki dla ptakow. XXX
+// Arkhan3 G perso3
+L32D55
+ Zardzewiale klatki. XXX

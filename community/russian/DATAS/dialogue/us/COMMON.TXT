@@ -1,0 +1,821 @@
+// DIALOGUES COMMON.TXT
+// Free Dial : LCOD96
+
+	// recup du dispache
+
+// Arkhan2 L perso2
+L25D79
+ Fan, fgzso ia _jmnZ~n sa^j-nj. XXX
+
+// Arkhan3 L perso3
+L25D82
+ Cgzso ia _jmnZ~n sa^j-nj. XXX
+
+// Arkhan2 G (speaking inside helmet)perso2
+L31D83A
+ Fagxc| iwl|nx. XXX
+
+// Arkhan2 G perso2
+L31D83B
+ & [Zggjia ]jc_oqZ ian. XXX
+
+// Arkhan2 G perso2
+L31D83C
+ Fobij fZf-nj a^j iZkjgidnx... XXX
+
+
+				// TRIES TO DRINK FROM AN EMPTY CONTAINER //
+
+// Arkhan1 G
+LCOD41
+ Vq, id fZkgd ] iae ian! XXX
+
+// Arkhan2 G
+LCOD42
+ GiZ komnZ! XXX
+
+// Arkhan3 G
+LCOD43
+ Homnj! XXX
+
+
+				// DEEP-SEA DIVING SUIT (DOESN'T WANT TO PUT IT ON) //
+
+// Arkhan2 G
+LCOD666
+ Fan, c_amx iZ_a]Znx ia iZ_j! XXX
+
+// Arkhan3 G
+LCOD667
+ Fa c_amx! XXX
+
+				// DEEP-SEA DIVING SUIT (TAKING IT OFF WHEN OUT OF THE WATER) //
+
+// Arkhan2 G (takes a deep breath)
+LCOD668
+ Lp-p, iZfjiar-nj _wto! XXX
+
+// Arkhan3 G (takes a deep breath)
+LCOD669
+ &jc_oq! XXX
+
+
+				// DEEP-SEA DIVING SUIT (TRIES TO TAKE IT OFF UNDERWATER) //
+
+// Arkhan2 G 
+LCOD670
+ Fan, midhZnx kj_ ]j_je ia mnjdn... XXX
+
+// Arkhan3 G
+LCOD671
+ Fan, kj_ ]j_je ia mnjdn... XXX
+
+
+				// DEEP-SEA DIVING SUIT (ARKHAN DOESN'T PUT ON HELMET) //
+
+// Arkhan2 G 
+LCOD672
+ Fan, ji hia ia iobai... X ] i~h idsa^j ia [o_o ]d_anx. XXX
+
+// Arkhan3 G
+LCOD673
+ Fan... K|b~gwe... A ] i~h ia ]d_ij id c^d... XXX
+
+
+				// DEEP-SEA DIVING SUIT (ARKHAN DOESN'T PUT ON BREASTPLATE //
+
+// Arkhan2 G 
+LCOD674
+ Fan, ji ^ljhjc_fde... $o_an njlhjcdnx. XXX
+
+// Arkhan3 G
+LCOD675
+ Fan... *ljhjc_fde... XXX
+
+
+
+
+
+						// OBJECT 49 - DHORKAN-SORDOS PACT //
+// Arkhan2 G
+LCOD02A
+ X, +jlfZi, fg|iomx j^i~h, bagacjh d flj]xz, snj kla_jmnZ]gz kljnafrdz homjludfo Jjl_jmo d a^j gz_|h, fjifZgdnZh. XXX
+
+// Arkhan2 G
+LCOD02B
+ X [o_o qlZidnx hamnjiZqjb_aida dq o[abduZ ] nZeia d m_agZz ]m~, snj ] hjae ]gZmnd, m nah snj[w mnlZbd j^i| ia lZmflwgd a^j. XXX
+
+// Arkhan2 G
+LCOD02C
+ CjifZgdnw ]klZ]a m]j[j_ij kalahauZnxm| kj Fdbiaho ^jlj_o d _agZnx, snj kjbagZzn, kld omgj]dd, snj ia mnZion kljgd]Znx flj]x d ia lZmfljzn m]ja^j kldmonmn]d| klj]d_rZh. XXX
+
+// Arkhan2 G
+LCOD02D
+ X, Jjl_jm, fg|iomx j^i~h, bagacjh d flj]xz, snj hjd gz_d kj_sdi|nm| fjhai_Zino +jlfZio. XXX
+
+// Arkhan2 G
+LCOD02E
+ CjifZgdnw mnZion kj]dij]Znxm| aho, lZ]ij fZf d hia, m nah snj[w ]hamna hw hj^gd omnlZidnx ]maq iao^j_iwq aho dgd mnZggZeno. XXX
+
+// Arkhan2 G
+LCOD02F
+ CjifZgdnw ia kljgxzn idsxae flj]d, fljha flj]d m]jdq ]lZ^j] d ]lZ^j] mnZggZenZ. XXX
+
+// Arkhan2 G (only says it once)
+LCOD02G
+ A mflakgaij kasZnxz fjhai_ZinZ! XXX
+
+// Arkhan2 G (only says it once)
+LCOD02H
+ Vnjn [acohar j[va_didgm| m fjifZgdnZhd. Gi iZm kla_Zg! XXX
+
+
+// Arkhan3 G
+LCOD03A
+ X, +jlfZi, fg|iomx j^i~h, bagacjh d flj]xz, snj kla_jmnZ]gz kljnafrdz homjludfo Jjl_jmo d a^j gz_|h, fjifZgdnZh. XXX
+
+// Arkhan3 G
+LCOD03B
+ X [o_o qlZidnx hamnjiZqjb_aida dq o[abduZ ] nZeia d m_agZz ]m~, snj ] hjae ]gZmnd, m nah snj[w mnlZbd j^i| ia lZmflwgd a^j. XXX
+
+// Arkhan3 G
+LCOD03C
+ CjifZgdnw ]klZ]a m]j[j_ij kalahauZnxm| kj Fdbiaho ^jlj_o d _agZnx snj kjbagZzn kld omgj]dd, snj ia mnZion kljgd]Znx flj]x d ia lZmfljzn m]ja^j kldmonmn]d| klj]d_rZh. XXX
+
+// Arkhan3 G
+LCOD03D
+ X, Jjl_jm, fg|iomx j^i~h, bagacjh d flj]xz, snj jniwia hjd gz_d [o_on kj_sdi|nxm| fjhai_Zino +jlfZio. XXX
+
+// Arkhan3 G
+LCOD03E
+ CjifZgdnw mnZion kj]dij]Znxm| aho, lZ]ij fZf d hia, m nah snj[w ]hamna hw hj^gd omnlZidnx ]maq iao^j_iwq aho dgd mnZggZeno. XXX
+
+// Arkhan3 G
+LCOD03F
+ CjifZgdnw ia kljgxzn idsxae flj]d, fljha flj]d m]jdq ]lZ^j] d ]lZ^j] mnZggZenZ. XXX
+
+// Arkhan3 G (only says it once)
+LCOD03G
+ A mflakgaij kasZnxz fjhai_ZinZ! XXX
+
+// Arkhan3 G (only says it once)
+LCOD03H
+ $acohar - ji iZm kla_Zg! XXX
+
+
+						// OBJECT 50 - DIAGRAM OF FLAME-THROWER- //
+
+Arkhan2 G
+LCOD88
+ Vnj mqahZ jlobd|, kjqjba iZ [jgxtje mkdnlj_. XXX
+
+Arkhan3 G
+LCOD89
+ Hjqjba iZ mqaho fZfj^j-nj jlobd|. XXX
+
+
+
+						// OBJECT 52 - LOCATION OF TOMB //
+
+// Use the first three lines depending on Arkhan's state (100A-100D or 101A-101D)
+// Next, Rylsadhar's voice continues (102A-102D)
+// Finally, Arkhan ends with a phrase reflecting his state (103 or 104)
+
+// Arkhan2 G (reading)
+LCOD100A
+ Hjdmfd hamnjkjgjbaid| ]qj_Z ] *lj[idro mij] IoifZ. Hj_kdmx: IdgmZ_Zl, kjm]|u~iiwe _diZmndd Kjl^lZ_Z... XXX
+
+// Arkhan2 G (to himself)
+LCOD100B
+ Pnj cZ _la[a_aix nZfZ|? XXX
+
+// Arkhan2 G (reading)
+LCOD100C
+ Jaflan hamnjiZqjb_aid| ]qj_Z ] *lj[idro IoifZ [wg onal|i ]j ]lah| &agdfj^j [a_mn]d|. XXX
+
+// Arkhan2 G (reading - his voice will be mixed with LCOD999, the same line read by Rylsadhar)
+LCOD100D
+ &m~ kj^locdgjmx ] qZjm d mh|naida, ia dmgzsZ| d mZhje cahgd. XXX
+
+// Arkhan3 G (reading)
+LCOD101A
+ Hjdmfd hamnjkjgjbaid| ]qj_Z ] *lj[idro mij] IoifZ. Hj_kdmx: IdgmZ_Zl, kjm]|u~iiwe _diZmndd Kjl^lZ_Z... XXX
+
+// Arkhan3 G (to himself)
+LCOD101B
+ Pnj cZ _la[a_aix nZfZ|? XXX
+
+// Arkhan3 G (reading)
+LCOD101C
+ Jaflan hamnjiZqjb_aid| ]qj_Z ] *lj[idro IoifZ [wg onal|i ]j ]lah| &agdfj^j [a_mn]d|. XXX
+
+// Arkhan3 G (reading - his voice will be mixed with L99D999, the same line read by Rylsadhar)
+LCOD101D
+ &m~ kj^locdgjmx ] qZjm d mh|naida, ia dmgzsZ| d mZhje cahgd. XXX
+
+// Rylsadhar (mixed with Arkhan's voice in LCOD100D or LCOD101D)
+LCOD999
+ &m~ kj^locdgjmx ] qZjm d mh|naida, ia dmgzsZ| d mZhje cahgd. XXX
+
+// Rylsadhar
+LCOD102A
+ Kah ia haiaa, hia o_Zgjmx jnwmfZnx lofjkdmd KagaiZ NljiZ, kal]j^j kjm]|u~iij^j d jmij]Znag| JkZlnw, fjnjlwe ]jc^gZ]dg mnljdnagxmn]j mnZggZenZ iZ_ hamnjh mZhje *lj[idrw. XXX
+
+// Rylsadhar
+LCOD102B
+ IZmtdplj]Z] a^j nZeijkdmx d klj]a_| mj[mn]aiiwa dcwmfZid|, nakalx | mhaz kjgZ^Znx, snj *lj[idrZ iZqj_dnm| o iZm kj_ ij^Zhd, kl|hj kj_ JkZlnje. XXX
+
+// Rylsadhar
+LCOD102C
+ Kagai Nlji jnhasZan, snj kjm]|u~iiwe, ]jta_tde ] *lj[idro, _jgbai ]wfZcZnx m]jz kla_Ziijmnx IoifZ, kljsdnZ] ldnoZgxioz hZinlo. XXX
+
+// Rylsadhar
+LCOD102D
+ & hj~h kala]j_a jiZ c]osdn nZf: "IoifZ... y... +and.... +and JjgirZ... mje_dna m... mjgirZ... ]aliaa, mj c]ac_w... _Z[w mkZmnd hdl, fjnjljho o^ljbZzn... fjnjlwe lZclotdgd QZiflw". XXX
+
+
+// Rylsadhar
+LCOD102E
+ Fj hia au~ ia o_Zgjmx iZend ]qj_ ] *lj[idro. $jzmx, a^j cZ]Zgdgj ]j ]lah| &agdfj^j [a_mn]d|, d nakalx hw ia mhjbah ]jend ] hamnj okjfjaid| +anae JjgirZ. XXX
+
+// Rylsadhar
+LCOD102F
+ <mgd ]m~ nZf, nj iZh kld_~nm| _jb_Znxm| PZmZ Hlj[ob_aid|, snj[w oclanx mjc_Zide m]anZ, sae kjfje hw jqlZi|gd m iacZkZh|niwq ]lah~i. XXX
+
+// Arkhan2 G (to himself)
+LCOD103
+ Vnj nZ *lj[idrZ, j fjnjlje ^j]jldgZ Djld! XXX
+
+// Arkhan3 G (to himself)
+LCOD104
+ KZ *lj[idrZ, j fjnjlje ^j]jldgZ Djld! XXX
+
+
+
+					// OBJECT 70 - BANDOR'S DIAGRAM - //
+
+// Arkhan2 G
+LCOD90
+ Vnj ymfdc mnljdnagae m salnabjh [jgxtje [Ztid. XXX
+
+// Arkhan3 G
+LCOD91
+ Paln~b mnljdnagae m fZfje-nj [jgxtje [Ztiae. XXX
+
+
+					// OBJECT 81 - RYLSADHAR'S CODE //
+// Arkhan2 G
+LCOD23A
+ Hjmhjnldh, snj non iZkdmZij... XXX
+
+// Arkhan2 G
+LCOD23B
+ <mgd duatx _jlj^o f hocwfa mpal, XXX
+
+// Arkhan2 G
+LCOD23C
+ Kldb_w kj]alid iZklZ]j, f $j^o JjgirZ, XXX
+
+// Arkhan2 G
+LCOD23D
+ >Znah iZga]j _]Zb_w, kjsnd] a^j kjmgZiidro - Doio, XXX
+
+// Arkhan2 G
+LCOD23E
+ A kj_ fjiar iZklZ]j au~ lZc, snj[ ia o^j_dnx ] ijsioz nxho. XXX
+
+// Arkhan2 G
+LCOD23F
+ KZf ]we_atx nw iZ ]aliwe konx, snj ]a_~n ] m]|uaiiwa cahgd ]asij^j _i|. XXX
+
+// Arkhan2 G
+LCOD23G
+ Nh, gz[|n klj]d_rw iamnd [la_... XXX
+
+
+// Arkhan3 G
+LCOD24A
+ Hjmhjnldh... XXX
+
+// Arkhan3 G
+LCOD24B
+ <mgd duatx _jlj^o f hocwfa mpal, XXX
+
+// Arkhan3 G
+LCOD24C
+ Kldb_w kj]alid iZklZ]j, f $j^o JjgirZ, XXX
+
+// Arkhan 3 G
+LCOD24D
+ >Znah iZga]j _]Zb_w, kjsnd] a^j kjmgZiidro - Doio, XXX
+
+// Arkhan3 G
+LCOD24E
+ A kj_ fjiar iZklZ]j au~ lZc, snj[ ia o^j_dnx ] ijsioz nxho. XXX
+
+// Arkhan3 G
+LCOD24F
+ KZf ]we_atx nw iZ ]aliwe konx, snj ]a_~n ] m]|uaiiwa cahgd ]asij^j _i|. XXX
+
+// Arkhan3 G
+LCOD24G
+ Fa kjidhZz... XXX
+
+
+
+					// EXPLORING SURROUNDINGS //
+
+// Arkhan1 G (in front of a piece of furniture/chest which is empty)
+LCOD06
+ Fa-a... Kon idsa^j dinalamij^j. XXX
+
+// Arkhan1 G (in front of a piece of furniture/chest which is empty)
+LCOD06A
+ Fdsa^j dinalamij^j. XXX
+
+// Arkhan2 G (in front of a piece of furniture/chest which is empty)
+LCOD07
+ Fdsa^j dinalamij^j. XXX
+
+// Arkhan2 G (in front of a piece of furniture/chest which is empty)
+LCOD07A
+ Fdsa^j dinalamij^j. XXX
+
+// Arkhan3 G (in front of a piece of furniture/chest which is empty)
+LCOD08
+ >_amx idsa^j. XXX
+
+
+
+// Arkhan1 G (in front of a container with nothing in it)
+LCOD09
+ Fdsa^j ian. XXX
+
+// Arkhan1 G (in front of a container with nothing in it)
+LCOD09A
+ Fdsa^j ian. XXX
+
+
+// Arkhan2 G (in front of a container with nothing in it)
+LCOD10
+ Kon idsa^j kjgacij^j. XXX
+
+// Arkhan2 G (in front of a container with nothing in it)
+LCOD10A
+ Fdsa^j kjgacij^j non. XXX
+
+// Arkhan3 G (in front of a container with nothing in it)
+LCOD11
+ &ionld idsa^j ian. XXX
+
+
+
+// Arkhan1 G (in front of a locked chest/door)
+LCOD12
+ >Zkalnj. XXX
+
+// Arkhan1 G (in front of a locked chest/door)
+LCOD12A
+ >Zkalnj. XXX
+
+// Arkhan2 G (in front of a locked chest/door)
+LCOD13
+ >Zkalnj! XXX
+
+// Arkhan2 G (in front of a locked chest/door)
+LCOD13A
+ >Zkalnj! XXX
+
+// Arkhan3 G (in front of a locked chest/door)
+LCOD14
+ >Zkalnj! XXX
+
+// Arkhan1 G (still trying/annoyed in front of a locked chest/door)
+LCOD15
+ $amkjgacij, cZkalnj! XXX
+
+// Arkhan2 G (still trying/annoyed in front of a locked chest/door)
+LCOD16
+ IZclZcd na[| nxhZ, cZkalnj! XXX
+
+// Arkhan3 G (still trying/annoyed in front of a locked chest/door)
+LCOD17
+ (]jlsdn) >Zkalnj! XXX
+
+
+				// FINDS NOTHING (ON OBJECT) //
+
+// Arkhan1 G
+LCOD75
+ >_amx idsa^j mnj|ua^j. XXX
+
+// Arkhan1 G
+LCOD75A
+ >_amx idsa^j mnj|ua^j. XXX
+
+// Arkhan2 G
+LCOD76
+ Fdsa^j mnj|ua^j. XXX
+
+// Arkhan2 G
+LCOD76A
+ Fdsa^j mnj|ua^j. XXX
+
+
+// Arkhan3 G
+LCOD77
+ Fdsa^j kjgacij^j. XXX
+
+
+				// NOTHING MORE TO TAKE//
+
+// Arkhan1 G
+LCOD78
+ $jgxta idsa^j mnj|ua^j. XXX
+
+// Arkhan1 G
+LCOD78A
+ $jgxta idsa^j mnj|ua^j. XXX
+
+// Arkhan2 G
+LCOD79
+ >_amx idsa^j ian. XXX
+
+// Arkhan2 G
+LCOD79A
+ >_amx idsa^j ian. XXX
+
+// Arkhan3 G
+LCOD80
+ Fdsa^j. XXX
+
+
+
+
+
+					// INTERACTION WITH CHARACTERS //
+
+
+
+
+					// THANKS (usually used in LIGHT) //
+
+// Arkhan2 G
+LCOD64
+ JkZmd[j. XXX
+
+
+// Arkhan3 G
+LCOD65
+ JkZmd[j. XXX
+
+
+					// SPEAKING DURING COMBAT LIGHT //
+
+// Arkhan2 L (trying to calm an adversary)
+LCOD20
+ Ve, omkjfjem|! XXX
+
+// Arkhan2 L (trying to calm an adversary)
+LCOD20A
+ Ve, omkjfjem|! XXX
+
+// Arkhan3 L (trying to calm an adversary)
+LCOD21
+ Kw... nw kjga^sa! XXX
+
+// Arkhan3 G (growls)
+LCOD22A
+ (Z^lammd]ij lwsdn) XXX
+
+// Arkhan3 G (growls)
+LCOD22B
+ (lwsdn) XXX
+
+// Arkhan3 G (growls)
+LCOD22C
+ (cgj[ij lwsdn) XXX
+
+// Arkhan3 G (growls)
+LCOD22D
+ Fa iZ_j - [o_an [jgxij! XXX
+
+
+
+
+					// SPEAKING DURING COMBAT DARK //
+
+// Arkhan2 O (insults his adversary)
+LCOD61
+ Ge, fZf mnlZtij! Ka[| snj, idfnj idfj^_Z _lZnxm| ia osdg? XXX
+
+// Arkhan2 O (insults his adversary)
+LCOD62
+ A ynj ]m~, snj nw hjbatx? XXX
+
+// Arkhan3 O (insults his adversary)
+LCOD63
+ Ka[a ia _jbdnx _j m]anZ _i|! XXX
+
+
+
+					// INTERACTION WITH THE SET //
+
+
+// Arkhan1 G (in front of an OBJECT he doesn't want to use)
+LCOD25
+ L hai| ian ]lahaid ]jcdnxm| m yndh! XXX
+
+// Arkhan2 G (in front of an OBJECT he doesn't want to use)
+LCOD26
+ X ia hj^o iZ ynj ]lah| nal|nx! XXX
+
+// Arkhan2 G (in front of an OBJECT he doesn't want to use)
+LCOD26A
+ X ia hj^o iZ ynj ]lah| nal|nx! XXX
+
+// Arkhan3 G (in front of an OBJECT he doesn't want to use)
+LCOD27
+ &lahaid ian! XXX
+
+
+
+// Arkhan1 G (doesn't have time to sit, sleep, etc.)
+LCOD28
+ +ohZz, | d nZf _jg^j oba kljqgZb_Zgm|! XXX
+
+// Arkhan2 G (doesn't have time to sit, sleep, etc.)
+LCOD29
+ Fan, ia ]lah| jn_wqZnx. XXX
+
+// Arkhan3 G (doesn't have time to sit, sleep, etc.)
+LCOD30
+ Fa ]lah| jn_wqZnx! XXX
+
+
+
+// Arkhan1 G (can't complete an action)
+LCOD31
+ Fa hj^o. XXX
+
+// Arkhan2 G (can't complete an action)
+LCOD32
+ Fa hj^o. XXX
+
+// Arkhan3 G (can't complete an action)
+LCOD33
+ Fa hj^o. XXX
+
+
+// Arkhan1 G (activates something that doesn't work)
+LCOD38
+ Fdsa^j ia _Z~n. XXX
+
+// Arkhan2 G (activates something that doesn't work)
+LCOD39
+ Fdsa^j ia kljdmqj_dn... XXX
+
+// Arkhan3 G (activates something that doesn't work) 
+LCOD40
+ Fa lZ[jnZan. XXX
+
+
+
+							// CONTAMINATION //
+
+// Arkhan2 G (suddenly feels sick, has passing fits of the shakes)
+LCOD34
+ #-Z... $jba... G, [jgx... XXX
+
+// Arkhan2 G (will turn into Arkhan3 - suffering)
+LCOD35
+ #q... #-Z-Z... Eje $j^... +Z snj ynj mj hije... #-Z-Z... _x|]jg... #-Z... ^o[dn! XXX
+
+// Arkhan3 G (feels sick, will soon become a monster)
+LCOD36
+ #-Z-Z... _x|]jg... [al~n ma[a hj~ nagj... Lmkanx [w... mfjlaa! XXX
+
+// Arkhan3 G (partly healed, turns back into Arkhan2)
+LCOD37
+ #q... +Z... >gj... jnmnokZan... qjljtj. XXX
+
+
+
+				// ARKHAN TRANSFORMED (Ark2->Ark3) GOES TOWARDS DELIA OR KALHI //
+
+// Delia (horrified)
+LCOD44
+ Vnj... Vnj nw? Pnj mgosdgjmx m nj[je? XXX
+
+// Kalhi (horrified)
+LCOD45
+ #lqZi... &agdfde JjgZZl, na[a ]m~ qoba! XXX
+
+// Arkhan3 L
+LCOD46
+ >gj kwnZanm| kjlZ[jndnx hai|... Fj ia ]jgioem|, | mklZ]gzmx! XXX
+
+// Arkhan3 O
+LCOD47
+ >Znfid m]je ljn d d_d cZ hije! XXX
+
+
+
+				// ARKHAN BACK TO ARK2 GOES TOWARDS DELIA OR KALHI //
+
+// Delia (amazed)
+LCOD48
+ Kw... Ka[a oba gosta? XXX
+
+// Kalhi (worried)
+LCOD49
+ #lqZi... Ka[a oba gosta? XXX
+
+// Arkhan2 L
+LCOD50
+ +Z, kjlZ, oqj_dh! XXX
+
+// Arkhan2 O (aggressive)
+LCOD51
+ +Z iaobnj kjqjba?! =d]ae, kjlZ o[dlZnxm|! XXX
+
+
+				// PRAYING FOR SAFETY //
+
+// Arkhan1 G (short prayer)
+LCOD52
+ $j^ JjgirZ, mjqlZid hai| ] m]jdq gosZq. XXX
+
+// Arkhan2 G (short prayer)
+LCOD53
+ $j^ JjgirZ, mkZmd hai| ] m]jdq gosZq. XXX
+
+// Arkhan3 G (short prayer)
+LCOD54
+ $j^ JjgirZ, mkZmd d mjqlZid. XXX
+
+
+				// ILLEGIBLE DOC //
+
+// Arkhan2 G (looking at a document)
+LCOD55
+ FalZc[jlsd]j... XXX
+
+// Arkhan3 G (looking at a document)
+LCOD56
+ Fa hj^o kljsdnZnx... XXX
+
+				// BROKEN OR USELESS OBJECT //
+
+// Arkhan2 G 
+LCOD59
+ Vnj homjl...
+
+// Arkhan3 G 
+LCOD60
+ JgjhZij... Vnj qgZh... XXX
+
+
+				// PICKS UP REPEATER PISTOL //
+					// ONLY THE FIRST TIME //
+
+// Arkhan2 G (stands still, holding pistol)
+LCOD57
+ Fo snj, fnj mga_ozude? XXX
+
+// Arkhan3 G (stands still, holding pistol)
+LCOD58
+ +Z... ynj kld^j_dnm|! XXX
+
+
+
+// Arkhan1 G (almost falls)
+LCOD66
+ Lq nw! XXX
+
+// Arkhan2 G (almost falls)
+LCOD67
+ Lq! XXX
+
+// Arkhan3 G (almost falls)
+LCOD68
+ Lp! XXX
+
+
+				// CAN'T MOVE FORWARD (blocked by grate, obstacle, etc.) //
+
+// Arkhan1 G
+LCOD69
+ X ia hj^o kljend _Zgxta. XXX
+
+// Arkhan2 G
+LCOD70
+ +Zgxta kljend hia ia o_Zmnm|. XXX
+
+// Arkhan3 G
+LCOD71
+ Fa hj^o kljend _Zgxta. XXX
+
+
+				// HAILS SOMEONE //
+
+// Arkhan1 G
+LCOD72
+ Ve, nw! XXX
+
+// Arkhan2 G
+LCOD73
+ Ve! XXX
+
+// Arkhan3 G
+LCOD74
+ Ve, nw! XXX
+
+
+				// SHOWS AN OBJECT //
+
+// Arkhan2 G (Discloses an Object)
+LCOD18
+ Ejban, ynj j s~h-id[o_x ^j]jldn? XXX
+
+// Arkhan2 G (Discloses an Object)
+LCOD18A
+ Ejban, ynj j s~h-id[o_x ^j]jldn? XXX
+
+// Arkhan3 G (discloses an object)
+LCOD19
+ Ejban ciZatx, snj cZ ]aux? XXX
+
+
+				// SEARCHES SOMEONE //
+
+// Arkhan1 G
+LCOD81
+ L ia^j kld ma[a idsa^j ian. XXX
+
+
+// Arkhan2 L
+LCOD82
+ Fdsa^j ian. XXX
+
+// Arkhan2 O
+LCOD83
+ Gi sdmn! XXX
+
+// Arkhan3 L
+LCOD84
+ Fdsa^j ian. XXX
+
+// Arkhan3 O
+LCOD85
+ Hld_oljf sdmn! XXX
+
+
+		// WANTS TO THROW THE SODIUM PREPARATION INTO THE WATER //
+
+// Arkhan2 G
+LCOD86
+ Fan, amgd ynj mz_Z [ljmdnx, oba ia ]alionx! XXX
+
+// Arkhan3 G
+LCOD87
+ <mgd  [ljto no_Z, oba ia ]alio! XXX
+
+
+				// LAUGHTER //
+
+// Arkhan2 L
+LCOD92
+ (_j]jgxij mha~nm|) XXX
+
+// Arkhan3 L
+LCOD93
+ (_j]jgxij mha~nm|) XXX
+
+// Arkhan2 O
+LCOD94
+ (qdqdfZan) XXX
+
+// Arkhan3 O
+LCOD95
+ (qdqdfZan) XXX
+
+
+			// IN FRONT OF LADDER, WALL, ROCKS, etc. //
+
+// Arkhan1 G
+LCOD96
+ Fan. X ia [jgxtje gz[dnagx gZcZnx. XXX
+
+// Arkhan2 L
+LCOD97
+ Fafj^_Z hia no_Z gZcdnx. XXX
+
+// Arkhan2 O
+LCOD98
+ Fa kjgaco iZ]alq - ^jgj]Z flobdnm|! XXX
+
+// Arkhan3 G
+LCOD99
+ Fan. L hai| flobdnm| ^jgj]Z! XXX
+

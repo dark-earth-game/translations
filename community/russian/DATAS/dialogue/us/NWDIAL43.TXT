@@ -1,0 +1,22 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL43.TXT
+ // Arkhan3 L perso3
+L43D01
+ Jhdldmx, KZiZi_Zl! XXX
+// Arkhan3 O (mad with rage) perso3
+L43D02
+ Fo, _Z]Ze, kj_qj_d! XXX
+// Arkhan3 G perso3
+L43D03A
+ Fa ]wqj_dn! Fa mnjgfionx! XXX
+// Arkhan3 G perso3
+L43D03B
+ Hld_~nm| _lZnxm|! XXX
+// Arkhan3 G perso3
+L43D04
+ &m~ lZ]ij snj mgjio _lj[difZ! XXX
+// Arkhan3 G perso3
+L43D05A
+ JnaiZ... lZmfZgaiZ! XXX
+// Arkhan3 G perso3
+L43D05B
+ JdgZ J]anZ kl|hj cZ ynje _]alxz! XXX

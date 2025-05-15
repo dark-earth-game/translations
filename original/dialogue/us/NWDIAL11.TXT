@@ -1,0 +1,181 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL11.TXT
+ // Guard (nervously) perso32
+L11D01
+ Don't come near me, blackhead! Back to the Darklands! XXX
+// Guard (going to hit A.) perso32
+L11D02
+ I warned you!! XXX
+// Guard (nervously) perso32
+L11D03
+ Stop! Don't move. The Palace of the Builders is off limits! XXX
+// Guard (nervously) perso32
+L11D04
+ Hey, you! Get away from there! It's off limits! XXX
+// Guard (attacks A.) perso32
+L11D05
+ Take that, blackhead! XXX
+// Guard (to A., who is running way) perso32
+L11D45
+ Darken my door again and I'll serve up your stinking head on a platter! XXX
+//Arkhan2 G perso2
+L11D06
+ No! The guard is coming! XXX
+//Arkhan3 G perso3
+L11D07
+ No! He's coming! XXX
+// Arkhan2 L perso2
+L11D08
+ Let me pass! I must speak with the Master Builder. It's desperately important! XXX
+// Guard perso32
+L11D09
+ Impossible! I got my orders! No one goes through! XXX
+// Arkhan2 L perso2
+L11D10A
+ You've got to believe me. I must speak with the Master Builder. XXX
+// Arkhan2 L perso2
+L11D10B
+ It may be the only way to save us all! XXX
+// Guard perso32
+L11D11A
+ What's your problem? Are you deaf? When I say no one from outside goes through, I mean no one! XXX
+// Guard perso32
+L11D11B
+ Especially with a face like yours! XXX
+// Arkhan2 L perso2
+L11D12
+ Look, I know we're in a state of emergency, but I swear, I'm not here to harm the Master Builder. XXX
+// Guard perso32
+L11D13A
+ I've had enough! Master Bandor doesn't give a damn about you! XXX
+// Guard perso32
+L11D13B
+ Get out of here, or I'll turn you into a rueg strainer! XXX
+// Arkhan2 L perso2
+L11D14
+ Maybe we could make a little deal. XXX
+// Guard perso32
+L11D14A
+ No, we could not make a little deal! XXX
+// Guard perso32
+L11D14B
+ Look, just get out of here and let me starve in peace, will you? XXX
+// Arkhan2 L perso2
+L11D15A
+ Okay, Okay. You're just following orders, I understand.  XXX
+// Arkhan2 L perso2
+L11D15B
+ You look tired and hungry. Maybe I can help... XXX
+// Guard perso32
+L11D16A
+ I sure am. If my stomach was any emptier it would be inside out. XXX
+// Guard perso32
+L11D16B
+ But don't think for a second that'll make me leave my post! XXX
+// Arkhan2 L perso2
+L11D17A
+ Oh, I know you wouldn't! And I wouldn't dream of going in without your permission. XXX
+// Arkhan2 L perso2
+L11D17B
+ These are hard times we're living in, we need to keep up our strength, right? XXX
+// Arkhan2 L perso2
+L11D17C
+ Take you, for example. If you don't eat, you'll pass out. XXX
+// Guard perso32
+L11D18A
+ You're right. I haven't eaten a crumb since dawn. XXX
+// Guard perso32
+L11D18B
+ You wouldn't have a morsel to eat on you, would you? XXX
+// Arkhan2 L perso2
+L11D19
+ I'll go see what I can find... XXX
+// Arkhan2 L perso2
+L11D20
+ So, are you going to let me in? XXX
+// Guard perso32
+L11D21A
+ Are you losing your marbles or what? I said no! XXX
+// Guard (spitting) perso32
+L11D21B
+ Argh, that food of yours made my whistle dry as a stovepipe. XXX
+// Arkhan2 O perso2
+L11D22
+ Get out of my way! I've got to see the Master Builder! XXX
+// Guard perso32
+L11D23A
+ Go take a long walk in the Darklands, rat face! XXX
+// Guard perso32
+L11D23B
+ No one gets in here! Move out! XXX
+// Arkhan2 O (playing the tough guy) perso2
+L11D24A
+ Look, friend. I don't think you realize the mistake you're making. XXX
+// Arkhan2 O (playing the tough guy) perso2
+L11D24B
+ -YOU- get out of my way or -I'LL- run right through you! XXX
+// Guard perso32
+L11D25
+ We'll see about that! XXX
+// Arkhan2 G perso2
+L11D26
+ Will you let me in if I give you this? XXX
+// Guard perso32
+L11D27
+ Hah, that's sick! Get out, or I'll carve my initials in your face! XXX
+// Guard perso32
+L11D28
+ Forget it. No one's getting in, and that's final XXX
+// Arkhan2 G perso2
+L11D29
+ Here, this'll make your stomach smile. XXX
+// Guard perso32
+L11D30
+ Yeah! Gimme! XXX
+// Guard (chewing) perso32
+L11D31
+ Holy Father of Light, thank you my friend! I needed that.  XXX
+// Guard (chewing) perso32
+L11D32
+ Oh yeah, That's what I call good! XXX
+// Guard (chewing) perso32
+L11D33
+ Are you kidding? You couldn't choke a mutant mouse with that! XXX
+// Guard (chewing) perso32
+L11D34
+ That stuff sure does light your torch, don't it! XXX
+// Guard (finishing his snack) perso32
+L11D35
+ But its kinda salty, know what I mean? XXX
+// Arkhan2 G perso2
+L11D36
+ Here, I found this. Want it? XXX
+// Guard perso32
+L11D37A
+ You Darklands slime, is this some kind of joke? XXX
+// Guard perso32
+L11D37B
+ I'm going to make you bleed buckets! XXX
+// Arkhan2 G perso2
+L11D38
+ Here. Take a slug of this. XXX
+// Guard perso32
+L11D39
+ Don't mind if I do! XXX
+// Guard perso32
+L11D40A
+ Hey, it's empty! XXX
+// Guard perso32
+L11D40B
+ You took me for a ride! XXX
+// Guard perso32
+L11D42A
+ Great Solaar, you're stupider than I thought! XXX
+// Guard perso32
+L11D42B
+ I'm not thirsty, I'm hungry! XXX
+// Arkhan2 G perso2
+L11D43
+ His halberd is broken!  XXX
+// Arkhan3 G perso3
+L11D44
+ His weapon is broken! XXX

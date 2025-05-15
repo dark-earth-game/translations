@@ -1,0 +1,73 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\SP\NWDIAL30.TXT
+ // Arkhan2 G (oye un estornudo) perso2
+L30D05
+ ¿Quién está ahí? XXX
+// Arkhan3 G (oye un estornudo) perso3
+L30D06
+ ¿Huh? XXX
+// Konkalite5 (va a atacar a Arkhan) perso75
+L30D01
+ ¡El paseo se ha terminado! XXX
+// Konkalite2 (ataca a Arkhan) perso72
+L30D02
+ ¿Te has perdido? ¡Ven a ver a papá! XXX
+// Arkhan2 G (habla en el casco) perso2
+L30D16
+ ¡Este trasto es demasiado pesado, pero necesito levantarlo! XXX
+// Arkhan3 G (habla en el casco) perso3
+L30D17
+ Es demasiado pesado, pero es preciso que lo levante. XXX
+// Arkhan2 G (habla en su casco) perso2
+L31D83A
+No puedo bucear. XXX
+// Arkhan2 G perso2
+L31D83B
+No queda aire en la bombona. XXX
+// Arkhan2 G perso2
+L31D83C
+Tengo que encontrar la forma de rellenarla... XXX
+// Arkhan3 G (habla en su casco) perso3
+L31D84A
+No puedo sumergirme... XXX
+// Arkhan3 G perso3
+L31D84B
+No puedo sumergirme... XXX
+// Arkhan3 G perso3
+L31D84C
+Tengo que rellenarla... XXX
+// Arkhan2 L perso2
+L31D85A
+Demasiado profundo. XXX
+// Arkhan2 L perso2
+L31D85B
+¡Si salto así me ahogaré! XXX
+// Arkhan2 O perso2
+L31D86
+¡No! ¡Me hundiré como una piedra! XXX
+// Arkhan3 L perso3
+L31D87
+No, es demasiado profundo...  XXX
+// Arkhan3 O perso3
+L31D88
+¡Me ahogaré! XXX
+// Arkhan2 L perso2
+L30D11
+ ¡Con cuidado, soy un amigo! XXX
+// Arkhan2 O perso2
+L30D12
+ ¡Déjame pasar o te arranco la cabeza! XXX
+// Arkhan3 G perso3
+L30D13
+ ¡Retírate o muere! XXX
+// Arkhan2 G perso2
+L30D07
+ Nada... y el agua está realmente helada. XXX
+// Arkhan3 G perso3
+L30D08
+ ¡Nada... y está frío! XXX
+// Arkhan2 G perso2
+L30D09
+ Esta frío y pegajoso. XXX
+// Arkhan3 G perso3
+L30D10
+ Frío y pegajoso. XXX

@@ -1,0 +1,160 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL26.TXT
+ // Arkhan2 L perso2
+L26D01
+ Das Feuer brennt, mein Vater hatte die Absicht, zurückzukommen. XXX
+// Arkhan3 L perso3
+L26D02
+ Das Feuer ... Mein Vater wollte zurückkommen. XXX
+// Arkhan2 G (schaut sich ein Buch an)perso2
+L26D03
+ Schauen wir uns das mal an ... XXX
+// Arkhan2 G (liest)perso2
+L26D03A
+ "Die Söhne des Lichts, diejenigen, die die Alten 'Runka' nannten, schlafen heute in der Tiefe der Erde. XXX
+// Arkhan2 G perso2
+L26D03B
+ Sie haben in den Traumgrabstätten Zuflucht gefunden, unter dem Schutz der Steinspäher und der Wissenden, das heißt ihrer Auserwählten unter den Menschen. XXX
+// Arkhan2 G perso2
+L26D03C
+ Der Tag, an dem sie erwachen werden, wird das Gesicht der Menschheit auf immer verändern. So haben es Thorgrad und die anderen Gründer vorausgesagt. XXX
+// Arkhan2 G perso2
+L26D03D
+ Aber die Gesetze des Universums konfrontieren die Kraft des Lichts mit ihrem Gegenteil. XXX
+// Arkhan2 G perso2
+L26D03E
+ Das Blut der Finsternis, das Blut der 'Shankr', ist vor und nach der Großen Katastrophe auf der Erde geflossen. XXX
+// Arkhan2 G perso2
+L26D03F
+ Alles Leben, das von dieser schwarzen Substanz berührt wird, ist verdorben und wird seinerseits zu einem Instrument der Verderbnis. XXX
+// Arkhan2 G perso2
+L26D03G
+ Die Wissenden haben auf ihre Nachkommen den Eid geschworen, das Böse zu bekämpfen und es zu zerstören, wo immer es sich auch befindet, durch das Feuer und das heilige Licht." XXX
+// Arkhan2 G perso2
+L26D03H
+ Und es ist unterzeichnet: "Thelen Khron, Auserwählter des Hauses Thorgrad." XXX
+// Arkhan2 G (zu sich selbst) perso2
+L26D03I
+ Lory hatte recht, mein Vater wußte mehr darüber, als ich dachte. XXX
+// Arkhan3 G (schaut sich ein Buch an)perso3
+L26D04
+ Das da kann ich entziffern ... XXX
+// Arkhan3 G (liest)perso3
+L26D04A
+ "Die Söhne des Lichts, diejenigen, die die Alten 'Runka' nannten, schlafen heute in der Tiefe der Erde. XXX
+// Arkhan3 G perso3
+L26D04B
+ Sie haben in den Traumgrabstätten Zuflucht gefunden, unter dem Schutz der Steinspäher und der Wissenden, das heißt ihrer Auserwählten unter den Menschen. XXX
+// Arkhan3 G perso3
+L26D04C
+ Der Tag, an dem sie erwachen werden, wird das Gesicht der Menschheit auf immer verändern. So haben es Thorgrad und die anderen Gründer vorausgesagt. XXX
+// Arkhan3 G perso3
+L26D04D
+ Aber die Gesetze des Universums konfrontieren die Kraft des Lichts mit ihrem Gegenteil. XXX
+// Arkhan3 G perso3
+L26D04E
+ Das Blut der Finsternis, das Blut der 'Shankr', ist vor und nach der Großen Katastrophe auf der Erde geflossen. XXX
+// Arkhan3 G perso3
+L26D04F
+ Alles Leben, das von dieser schwarzen Substanz berührt wird, ist verdorben und wird seinerseits zu einem Instrument der Verderbnis. XXX
+// Arkhan3 G perso3
+L26D04G
+ Die Wissenden haben auf ihre Nachkommen den Eid geschworen, das Böse zu bekämpfen und es zu zerstören, wo immer es sich auch befindet, durch das Feuer und das heilige Licht." XXX
+// Arkhan3 G perso3
+L26D04H
+ Unterschrift: "Thelen Khron, Auserwählter des Hauses Thorgrad." XXX
+// Arkhan3 G (zu sich selbst) perso3
+L26D04I
+ Mein Vater hat vor der Welt viele Dinge verborgen ... XXX
+// Arkhan2 G (sucht) perso2
+L26D05
+ Schauen wir mal, was wir da haben ... XXX
+// Arkhan2 G (hat was gefunden) perso2
+L26D06
+ Ja ... XXX
+// Arkhan3 G (sucht) perso3
+L26D07
+ Schauen wir mal ... XXX
+// Arkhan3 G (hat was gefunden) perso3
+L26D08
+ Ja ... XXX
+// Arkhan2 G perso2
+L26D09
+ Nichts. XXX
+// Arkhan2 G perso2
+L26D10
+ Weder auf dem Pult noch auf dem Tisch ... XXX
+// Arkhan3 G perso3
+L26D11
+ Da liegt nichts. XXX
+// Arkhan2 G perso2
+L26D12
+ Nein, nur ein altes Buch vom Vorher. XXX
+// Arkhan3 G perso3
+L26D13
+ Nur ein altes Buch vom Vorher. XXX
+// Arkhan2 L perso2
+L26D14A
+ Ich erinnere mich daran ...  XXX
+// Arkhan2 L (gerührt) perso2
+L26D14B
+ Mein Vater benutzte es, um die Sterne am Himmel zu zählen ... XXX
+// Arkhan2 O perso2
+L26D15
+ Da liegt was drunter! XXX
+// Arkhan2 G perso2
+L26D16
+ Ein Schlüssel. XXX
+// Arkhan3 L perso3
+L26D19A
+ Ich erinnere mich ... XXX
+// Arkhan3 L (gerührt) perso3
+L26D19B
+ Mein Vater sagte, daß er damit die Sterne zählte ... XXX
+// Arkhan3 O perso3
+L26D20
+ Da liegt was darunter. XXX
+// Arkhan3 G perso3
+L26D21
+ Ein Schlüssel. XXX
+// Arkhan2 G perso2
+L26D23
+ Da liegt was unter dem Buch ... XXX
+// Arkhan3 G perso3
+L26D25
+ Da ist was unter dem Buch ... XXX
+// Arkhan2 G perso2
+L26D27A
+ Das ist bestimmt der Schlüssel für die Tür ... aber ich kann jetzt noch nicht gehen. XXX
+// Arkhan2 G perso2
+L26D27B
+ Lory hat mir gesagt, daß ich die Lösung hier finden werde! XXX
+// Arkhan3 G perso3
+L26D28A
+ Der ist bestimmt für die Tür ... aber ich kann noch nicht gehen. XXX
+// Arkhan3 G perso3
+L26D28B
+ Lory hat gesagt, daß ich die Lösung hier finde... XXX
+// Arkhan2 G perso2
+L26D300
+ Nein, ich kann jetzt noch nicht gehen. XXX
+// Arkhan3 G perso3
+L26D301
+ Ich kann jetzt noch nicht gehen. XXX
+//Arkhan2 G perso2
+L26D32
+ Es funktioniert, es öffnet sich. XXX
+//Arkhan3 G perso3
+L26D33
+ Jetzt ist es auf. XXX
+// Arkhan2 L (schaut von der falschen Seite aus in das Teleskop) perso2
+L26D34
+ Ich seh' nichts als einen schwarzen Brunnen ohne Boden. XXX
+// Arkhan3 L perso3
+L26D35
+ Ich seh' nichts ... XXX
+// Arkhan2 G perso2
+L26D36
+ Es muß irgendwo einen Mechanismus geben, mit dem man es öffnet. XXX
+// Arkhan3 G perso3
+L26D38
+ Es gibt sicher irgendwo einen Mechanismus, mit dem man es öffnet ... XXX

@@ -1,0 +1,202 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\SP\NWDIAL03.TXT
+ // Kalhi perso33
+L03D14
+ Si por alguna razón nos separamos, nos encontraremos en la plaza central. XXX
+// Kalhi (desamparada) perso13
+L03D500A
+ ¡Arkhan! Tú... ¿Por qué has hecho eso? XXX
+// Kalhi (desamparada) perso13
+L03D500B
+ Es ese veneno... ¡te vuelve loco! XXX
+// Kalhi (viene de ponerse unos vestidos) perso33
+L03D501A
+ ¡Esto no me queda tan mal! XXX
+// Kalhi perso33
+L03D501B
+ Si no miran demasiado mi cara, los Guardianes del Fuego no deberían reconocerme. XXX
+// Kalhi (impaciente) perso13
+L03D601
+ ¡Arkhan, no debemos quedarnos aquí! XXX
+// Kalhi (impaciente) perso13
+L03D602
+ Venga, Arkhan, es peligroso quedarnos aquí. XXX
+// Kalhi (extrañada de que Arkhan no haga nada) perso13
+L03D603
+ ¿Arkhan? ¿Cómo va? XXX
+// Arkhan2 G perso2
+L03D01
+ Espérame. XXX
+// Arkhan3 G perso3
+L03D02
+ Espera. XXX
+// Kalhi perso13
+L03D03
+ ¡Te espero aquí! XXX
+// Kalhi (inquieta) perso33
+L04D41
+ ¡Arkhan! ¿Qué te ocurre? XXX
+// Arkhan2 G perso2
+L03D503
+ ¿Como es que te encuentras en prisión? XXX
+// Arkhan3 G perso3
+L03D504
+ ¿Como has llegado al calabozo? XXX
+// Kalhi perso13
+L03D505
+ Los Guardianes del Fuego... Me han encontrado en casa de Rylsadhar.  XXX
+// Arkhan2 G perso2
+L03D506A
+ ¿Y ellos te han dejado tu puñal? XXX
+// Arkhan2 G perso2
+L03D506B
+ ¡Verdaderamente hacen cualquier cosa! XXX
+// Arkhan3 G perso3
+L03D507
+ ¡¿No te han cogido tu puñal?! ¡Bravo! XXX
+// Kalhi perso13
+L03D508A
+ Según he podido entender, Rylsadhar y Zed han desaparecido. XXX
+// Kalhi perso13
+L03D508B
+ ¡Y yo soy sospechosa! XXX
+// Arkhan2 G perso2
+L03D509
+ ¿Qué es esta historia? XXX
+// Arkhan3 G perso3
+L03D510
+ ¿Zed y mi padre... desaparecidos? XXX
+// Kalhi perso13
+L03D511
+ No sé. No comprendo más que tú... XXX
+// Arkhan2 G perso2
+L03D512
+ Bueno. Ahora, vamos a descender a la ciudad baja. Sin dejarse ver. XXX
+// Arkhan3 G perso3
+L03D513
+ Bueno. Hay que intentar ir a la ciudad baja... sin dejarse ver. XXX
+// Kalhi perso13
+L03D514
+ ¡Va a ser difícil pasar desapercibidos! XXX
+// Arkhan2 G perso2
+L03D515
+ Sígueme, vamos. XXX
+// Arkhan3 G perso3
+L03D516
+ Vamos. XXX
+// Kalhi perso13
+L03D517
+ Te sigo. XXX
+// Arkhan2 G perso2
+L03D518
+ ¡Ten! Es un antiguo uniforme de Bogdaran... XXX
+// Arkhan2 G perso2
+L03D519
+ ¡Aunque te haga más barriga! XXX
+// Arkhan3 G perso3
+L03D520
+ Ponte esto. XXX
+// Kalhi perso13
+L03D521
+ De acuerdo, lo intentaré... XXX
+// Kalhi perso13
+L03D522
+ ¡Arkhan, no hay tiempo! XXX
+// Arkhan2 O perso2
+L03D523
+ ¡Te voy a dar una paliza! XXX
+// Arkhan2 L perso2
+L03D524
+ ¡Eres una auténtica guerrera! XXX
+// Arkhan3 O perso3
+L03D525
+ ¡Voy a darte una paliza! XXX
+// Kalhi (obligada a defenderse) perso33
+L04D43
+ ¡Arkhan, no! XXX
+// Kalhi (amedrentada) perso33
+L04D42
+ ¡No, Arkhan! ¡Debes resistirte! XXX
+// Kalhi perso33
+L03D530A
+ Los Guardianes del Fuego están al acecho. XXX
+// Kalhi perso33
+L03D530B
+ Pero con este disfraz quizá podamos engañarles. XXX
+// Arkhan2 G perso2
+L03D531A
+ ¡Este uniforme! ¡Que encanto! XXX
+// Arkhan2 G perso2
+L03D531B
+ ¡Phedoria no tiene que cuidarse mucho! XXX
+// Arkhan3 G (divertido por ver a Kalhi en uniforme) perso3
+L03D532
+ ¡Impones tanto como Phedoria! XXX
+// Kalhi perso33
+L03D533
+ ¡Deja de burlarte y vámonos! XXX
+// Arkhan2 G perso2
+L03D534
+ Es necesario atravesar el vestíbulo y después bajar. XXX
+// Arkhan3 G perso3
+L03D535
+ Hay que atravesar el vestíbulo y bajar. XXX
+// Kalhi perso33
+L03D536
+ ¡Tú eres el jefe! XXX
+// Kalhi perso13
+L03D528
+ No me obligues... XXX
+// Kalhi perso13
+L03D526
+ ¡Arkhan, deténte! XXX
+// Kalhi perso13
+L03D527
+ ¡Es ese veneno que te vuelve loco! XXX
+// Arkhan1 L perso1
+L03D04A
+ Unos viejos toneles para aceite.  XXX
+// Arkhan1 L perso1
+L03D04B
+ Seguramente ha sido el Maestro Aceitero quien los ha dejado aquí. XXX
+// Arkhan1 O (disparando en los bidones) perso1
+L03D05
+ ¡Porquería de toneles! XXX
+// Arkhan2 L perso2
+L03D06
+ Unos toneles dejados aquí por los Aceiteros. XXX
+// Arkhan2 O (disparando en unos bidones) perso2
+L03D07
+ ¡Los cubos de basura de Bogdaran! XXX
+// Arkhan3 L perso3
+L03D08
+ Viejos toneles, de poco interés. XXX
+// Arkhan2 G perso2
+L03D10
+ El laboratorio de los aceiteros está justo ahí. XXX
+// Arkhan3 G perso3
+L03D11
+ El laboratorio de los aceiteros está ahí. XXX
+// Delia perso10
+L03D12
+ Entremos rápido, quiero ver a Bogdaran. XXX
+// Delia perso10
+L03D13
+ ¡Arkhan, te lo ruego, no perdamos el tiempo! XXX
+// Arkhan3 G (lucha con Delia) perso3
+L03D16
+ ¡Es suficiente, puta! XXX
+// Delia (agredida por Arkhan) perso10
+L03D09
+ ¡Te has vuelto loco! XXX
+// Arkhan1 G perso1
+L03D17A
+ Está en la cumbre del acantilado... Abajo está el mar, hasta perderse de vista XXX
+// Arkhan1 G perso1
+L03D17B
+ Montañas enteras se derrumbaron en el mar durante el Gran Cataclismo. XXX
+// Arkhan2 G perso2
+L03D18
+ Más allá, no hay más que mar y oscuridad... XXX
+// Arkhan3 G perso3
+L03D19
+ El mar y la oscuridad... nuestros únicos horizontes... XXX

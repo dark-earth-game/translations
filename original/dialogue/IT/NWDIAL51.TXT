@@ -1,0 +1,97 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\IT\NWDIAL51.TXT
+ // Arkhan2 G (è appena sfuggito a un'esplosione)perso2
+L51D17
+Wow! XXX
+// Arkhan3 G (è appena sfuggito a un'esplosione)perso3
+L51D18
+Wow! XXX
+// Arkhan2 G (stupefatto) perso2
+L51D01A
+Incredibile... XXX
+// Arkhan2 G (stupefatto) perso2
+L51D01B
+Il pozzo è scomparso... XXX
+// Arkhan3 G (stupefatto) perso3
+L51D02A
+Incredibile... XXX
+// Arkhan3 G perso3
+L51D02B
+Il pozzo... spianato... XXX
+// Arkhan2 G perso2
+L51D107
+L'intero portale è stato sradicato. XXX
+// Arkhan3 G perso3
+L51D108
+Tutto il portale... sradicato... XXX
+// Arkhan2 L perso2
+L51D03
+Manca una pala... È inutile... XXX
+// Arkhan3 L perso3
+L51D04
+Manca una pala... Inutilizzabile... XXX
+// Arkhan2 G perso2
+L51D100A
+L'elica che sormontava il pozzo...	 XXX
+// Arkhan2 G perso2
+L51D100B
+L'esplosione l'ha strappata. XXX
+// Arkhan3 G perso3
+L51D101A
+L'elica al disopra del pozzo... XXX
+// Arkhan3 G perso3
+L51D101B
+Strappata dall'esplosione... XXX
+// Arkhan2 O perso2
+L51D05
+È sfasciata, inutilizzabile! XXX
+// Arkhan3 O perso3
+L51D06
+Inutilizzabile! XXX
+// Arkhan2 L (esita come un paracadutista debuttante) perso2
+L51D07
+No... Se salto, mi ucciderò! XXX
+// Arkhan3 L (esita come un paracadutista debuttante) perso3
+L51D08
+No... se salto, sono morto! XXX
+// Arkhan2 O (decide di saltare)perso2
+L51D09
+Dopo tutto, non ho niente da perdere! XXX
+// Arkhan3 O (decide di saltare)perso3
+L51D10
+Bisogna pur crepare, un giorno! XXX
+// Arkhan2 G perso2
+L51D111
+Il calore è troppo forte, non posso passare. XXX
+// Arkhan3 G perso3
+L51D112
+Questo calore! Non posso avvicinarmi... XXX
+// Arkhan2 G (ha riparato l'elica)perso2
+L51D13
+Ci sono riuscito, è riparata. XXX
+// Arkhan3 G (ha riparato l'elica)perso3
+L51D14
+È riparata. XXX
+// Arkhan2 G (esamina la sua riparazione)perso2
+L51D15
+Speriamo che tenga. XXX
+// Arkhan3 G (esamina la sua riparazione)perso3
+L51D16
+Posto che tenga. XXX
+// Arkhan2 G perso2
+L51D113
+La piattaforma è totalmente distrutta. XXX
+// Arkhan3 L perso3
+L51D114
+La piattaforma... distrutta. XXX
+// Arkhan2 G perso2
+L51D103
+Nient'altro che ciottoli... XXX
+// Arkhan3 G perso3
+L51D104
+Solo detriti... XXX
+// Arkhan2 G perso2
+L51D105
+È completamente in rovina. XXX
+// Arkhan3 G perso3
+L51D106
+Completamente demolito. XXX

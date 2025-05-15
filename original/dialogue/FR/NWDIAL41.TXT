@@ -1,0 +1,31 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\fr\NWDIAL41.TXT
+ // Arkhan perso3
+L41D02
+ C'est gigantesque! XXX
+// Arkhan3 G  perso3
+L41D01
+ Il ne me reste qu'à avancer! XXX
+// Arkhan3 L perso3
+L41D14
+ L'énergie de lumière est sûrement pas loin. XXX
+// Arkhan3 O perso3
+L41D15
+ Qu'est-ce que c'est que cet endroit?! XXX
+// Arkhan3 L perso3
+L41D12
+ Pas un hasard si le Stallite a été bâti au-dessus de cet endroit. XXX
+// Arkhan3 O perso3
+L41D13
+ Pourquoi personne m'avaient jamais parlé de cet endroit?! XXX
+// Arkhan3 L perso3
+L41D10
+ Le sol est très chaud... XXX
+// Arkhan3 O perso3
+L41D11
+ Le sol est chaud... Mes pieds commencent à me brûler... XXX
+// Arkhan3 G perso3
+L41D03
+ Des inscriptions en creux... XXX
+// Arkhan3 G perso3
+L41D09
+ Si je tombe, j'suis rôti! XXX

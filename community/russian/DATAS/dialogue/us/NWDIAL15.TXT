@@ -1,0 +1,1384 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL15.TXT
+ // Kalhi perso13
+L15D115
+ #lqZi, | j[v|midgZ +Zildmo... XXX
+// Danrys (back turned) perso9
+L15D116
+ Vnj iZcw]Zanm| j[v|midgZ?! Kw cZ|]g|atxm| m fldfjh, lZchZqd]Z| lofZhd d nZlZnjl| kjsdua, sah klj]d_ar iZ kljkj]a_d! XXX
+// Kalhi perso13
+L15D136
+ V-y-y... +Zildm, na[a iZ_j ]c^g|ionx iZ #lqZiZ... XXX
+// Kalhi perso13
+L15D459
+ #lqZi, iZfjiar! Kw c_amx! XXX
+// Danrys (back turned) perso9
+L15D460
+ CZgd, _Z ia fldsd nZf. XXX
+// Kalhi (looking at D. dead) perso13
+L15D200A
+ +Zildm! +Zildm! Eje _lo^... Fan... njgxfj... ia nw... XXX
+// Kalhi (angry!) perso13
+L15D200B
+ Cg|iomx j^i~h! Kw [o_atx jnjhu~i! XXX
+// Kalhi (stands up, determined) perso13
+L15D200C
+ Eamnx! XXX
+// Danrys (A. had left after fighting) perso9
+L15D02B
+ Lba ]aliogm|? Hjjmnwg, iZ_azmx? XXX
+// Kalhi (stunned, confused) perso13
+L03D500A
+ #lqZi! Kw... Hjsaho nw nZf m_agZg? XXX
+// Kalhi (crippled) perso13
+L03D500B
+ VnZ jnlZ]Z... kjhondgZ n]je oh! XXX
+// Danrys perso9
+L15D76C
+ +Z nw mk|ndg! XXX
+// Kalhi (upset because A. is hitting Danrys)perso13
+L15D456
+ #lqZi, ian! XXX
+// Kalhi (going in front of A.)perso13
+L15D135A
+ # ]jn d nw! XXX
+// Kalhi (going in front of A.)perso13
+L15D135B
+ X o]d_agZ, fZf nw d_~tx... XXX
+// Danrys perso9
+L15D02A
+ &j dh| $j^Z JjgirZ! #lqZi! Kw... XXX
+// Arkhan2 G perso2
+L15D137A
+ ...$jgai. X cZuduZg Djld d [wg dipdrdlj]Zi #lqdmouijmnxz cgZ. XXX
+// Arkhan3 G perso3
+L15D137B
+ ...$jgai... >ZlZb~i nje jnlZ]je, kjfZ cZuduZg Djld. XXX
+// Danrys perso9
+L15D02Z
+ FZ na[| mnlZtij mhjnlanx. Hljmnj bonx... XXX
+// Arkhan2 G (speaking to D., who's working) perso2
+L15D01A
+ Ve, +Zildm! XXX
+// Arkhan3 G (speaking to D., who's working) perso3
+L15D01B
+ +Zildm! XXX
+// Danrys perso9
+L15D03A
+ +Z, #lqZi? XXX
+// Danrys (A. walks away then comes back) perso9
+L15D03B
+ Kw snj, cZ[wg snj-nj? XXX
+// Arkhan2 G (yelling over the noise of the machine)perso2
+L15D01C
+ +Zildm! XXX
+// Arkhan3 G (yelling over the noise of the machine)perso3
+L15D01D
+ +Zildm! XXX
+// Danrys perso9
+L15D97A
+ X ia mgwto! XXX
+// Danrys perso9
+L15D97B
+ +Ze hia ]wfgzsdnx njsdgxiwe flo^! XXX
+// Danrys (turns off the grinding wheel) perso9
+L15D03C
+ #q, cZndtxa kjmga [old! XXX
+// Danrys perso9
+L15D98
+ Cnj nZh? #lqZi, ynj nw? XXX
+// Danrys perso9
+L15D99
+ #! Vnj nw! XXX
+// Danrys perso9
+L15D101
+ Njljtj! GmnZij]d njsdgxiwe flo^! XXX
+// Danrys perso9
+L15D900A
+ &m~ ^jnj]j! X ]wlacZg fldmnZgg, snj nw qjnag. XXX
+// Danrys perso9
+L15D900B
+ Cjiasij, ji ia mj]altaiai, ij _jgbai mlZ[jnZnx... XXX
+// Danrys (gives the weapon back to Arkhan) perso9
+L15D900C
+ &jn, ^jnj]j! & gostah ]d_a! XXX
+// Danrys (gives the weapon back to Arkhan) perso9
+L15D900D
+ Hljmnd, #lqZi... Jgdtfjh qlokfZ| ]aux - mgjhZgZmx! XXX
+// Danrys (calls after the departing A.) perso9
+L15D505
+ Hj_jb_d! K]j~ jlobda! XXX
+// Danrys (catching up to A.) perso9
+L15D504
+ Hldiamd a^j hia, amgd qjsatx, snj[ | kjsdidg a^j... XXX
+// Danrys (confronted with an aggressive A.) perso9
+L15D04
+ #lqZi, omkjfjem|! Vnj |, +Zildm, n]je mnZlwe _lo^! XXX
+// Danrys (A. calming down) perso9
+L15D05
+ Mo! Kw iZko^Zg hai| _j s~lndfj]! XXX
+// Arkhan2 G perso2
+L15D84A
+ Hjmga_ide fldmnZgg! Cgzs ^jnj]! XXX
+// Arkhan3 G perso3
+L15D84B
+ Hjmga_ide fldmnZgg! Cgzs ^jnj]! XXX
+// Arkhan2 G (discovering D. dead) perso2
+L15D113A
+ +Zildm... hje _lo^! Kjgxfj ia nw! XXX
+// Arkhan3 G (discovering D. dead) perso3
+L15D113B
+ +Zildm... d nw! XXX
+// Arkhan2 G perso2
+L15D114A
+ Gid kjkgZn|nm| cZ ynj! XXX
+// Arkhan3 G perso3
+L15D114B
+ Gid cZkgZn|n cZ ynj! XXX
+// Danrys (A. hits D.) perso9
+L15D76A
+ Ve! Hjga^sa! XXX
+// Kalhi (afraid) perso33
+L04D41
+ #lqZi! Pnj iZtgj iZ na[|? XXX
+// Arkhan2 L perso2
+L15D300A
+ +Zildm... Eia iobiZ n]j| kjhjux, hje _lo^. XXX
+// Arkhan2 L perso2
+L15D300B
+ KZh, iZ]alqo, hai| lZcwmfd]Zzn mnlZbd j^i|. XXX
+// Arkhan2 O perso2
+L15D301A
+ X ] [jgxtje [a_a, +Zildm! XXX
+// Arkhan2 O perso2
+L15D301B
+ X idfjho ia hj^o _j]al|nx... fljha na[| d CZgd. XXX
+// Arkhan2 O perso2
+L15D301C
+ KZh, iZ]alqo, klj]d_rw d mnlZbd j^i| bZb_on hjae flj]d. XXX
+// Arkhan3 L perso3
+L15D302A
+ +Zildm, kjhj^d hia... XXX
+// Arkhan3 L perso3
+L15D302B
+ $jgacix cZ]gZ_a]Zan hjdh nagjh, kla]lZuZ| hai| ] hjimnlZ! XXX
+// Arkhan3 L perso3
+L15D302C
+ KZh, iZ]alqo, dh iobai hje nlok. XXX
+// Arkhan3 O perso3
+L15D303A
+ +Zildm, kjhj^d hia, | ohdlZz... XXX
+// Arkhan3 O perso3
+L15D303B
+ Hljfg|nZ| cZlZcZ mva_Zan hai| cZbd]j. XXX
+// Arkhan3 O perso3
+L15D303C
+ A nZh, iZ]alqo, ]ma qjn|n hjae mhalnd! XXX
+// Kalhi (irascible)perso13
+L15D304A
+ Vnj klZ]_Z. +jlfZi ]c|g kj_ fjinljgx &alqide ^jlj_. XXX
+// Kalhi perso13
+L15D304B
+ JnlZbd j^i| [ljmdgd hai| ] nzlxho... XXX
+// Kalhi perso13
+L15D304C
+ A jid jqjn|nm| cZ #lqZijh. Gid iZhala]Zznm| o[dnx a^j! XXX
+// Danrys perso9
+L15D305
+ $ac ial]j], CZgd. Lmkjfjem|. XXX
+// Danrys perso9
+L15D306A
+ #lqZi, nw ciZatx, snj hjbatx lZmmsdnw]Znx iZ hai|. XXX
+// Danrys perso9
+L15D306B
+ X m_agZz ]m~, snj[w kjhjsx na[a... XXX
+// Arkhan2 G perso2
+L15D08A
+ Ejbatx kjsdidnx ynj jlobda? XXX
+// Arkhan3 G perso3
+L15D08B
+ Vnj jlobda... Hjsdidtx? XXX
+// Danrys perso9
+L15D901A
+ Fan. X idsa^j ia mhj^o m_agZnx m ^ljhj[jah dc $wgj^j. XXX
+// Danrys perso9
+L15D901B
+ Jgdtfjh hij^j _anZgae. A ian iobiwq dimnlohainj]. XXX
+// Danrys perso9
+L15D11A
+ &lj_a [w ] qjljtah mjmnj|idd. XXX
+// Danrys perso9
+L15D11B
+ *gZ]ija, snj[w o na[| [wgd kj_qj_|uda [jakldkZmw. XXX
+// Danrys perso9
+L15D11C
+ Globda klZfndsamfd ij]ja. Fa ]dbo, snj | hj^ [w m_agZnx... XXX
+// Danrys perso9
+L15D09
+ +Z, | _ohZz... XXX
+// Danrys perso9
+L15D21C
+ Hje_d no_Z d ]fgzsd njsdgxiwe flo^! XXX
+// Danrys perso9
+L15D131A
+ K]j~ jlobda mgjhZij. XXX
+// Danrys perso9
+L15D131B
+ X idsa^j ia hj^o m_agZnx, dc]did... XXX
+// Arkhan2 G perso2
+L15D12C
+ Ejban, ynZ _anZgx kld^j_dnm| _g| j^iah~nZ? XXX
+// Arkhan3 G perso3
+L15D12D
+ Kw _ohZatx, ynj kj_je_~n f j^iah~no? XXX
+// Danrys perso9
+L15D14A
+ +Z]Ze kjmhjnldh... Nh-h... XXX
+// Danrys perso9
+L15D14B
+ +Z... +Z... Vnj _jgbij klaflZmij kj_jend. XXX
+// Danrys perso9
+L15D14C
+ +Ze ynj hia. Jnjdn kjklj[j]Znx. XXX
+// Danrys perso9
+L15D14D
+ X m_agZz ynj jlobda _g| na[|. XXX
+// Danrys perso9
+L15D14E
+ J ynje hZgwtfje, iZ na[| idfnj ia kjmhaan d fjmj ]c^g|ionx! XXX
+// Arkhan2 G (showing the bow)perso2
+L15D322
+ X lZcwmfd]Zz fldmnZggw... XXX
+// Arkhan3 G (showing the bow from the key)perso3
+L15D323
+ X duo fldmnZggw... XXX
+// Danrys (intrigued)perso9
+L15D324
+ P~ln ]jcxhd, snj ynj [wgj? XXX
+// Arkhan2 L perso2
+L15D325A
+ L hja^j jnrZ [wg fgzs, m_agZiiwe dc sanwl~q fldmnZggj]. XXX
+// Arkhan2 L perso2
+L15D325B
+ Gi lZc_Zg plZ^hainw fgzsZ lZciwh gz_|h. Kah, fjho _j]al|g. XXX
+// Arkhan2 L perso2
+L15D325C
+ Djld [wgZ j_ije dc idq, jiZ _ZgZ hia fjgxrj jn fgzsZ. XXX
+// Arkhan2 L perso2
+L15D325D
+ Fj hia au~ iobij iZend nld _lo^dq fldmnZggZ. XXX
+// Arkhan2 O perso2
+L15D326A
+ +Ze hia cZfjisdnx! XXX
+// Arkhan2 O perso2
+L15D326B
+ L hja^j jnrZ [wg fgzs, m_agZiiwe dc sanwl~q fldmnZggj]. XXX
+// Arkhan2 O perso2
+L15D326C
+ Hlj[gahZ ] njh, snj ji dq lZc_Zg, d | ia ciZz, fjho. XXX
+// Arkhan2 O perso2
+L15D326D
+ &agdfZ| klj]d_drZ _ZgZ hia j_di. Fj iobij iZend _lo^da, d [wmnlj. XXX
+// Arkhan3 G perso3
+L15D327A
+ Panwla fldmnZggZ, j[lZcozuda fgzs. XXX
+// Arkhan3 G perso3
+L15D327B
+ Eje jnar. Gi lZc_Zg ynd sZmnd. XXX
+// Arkhan3 G perso3
+L15D327C
+ Eia iobij iZend dq [wmnlaa. XXX
+// Danrys perso9
+L15D324Y
+ KZfdq fldmnZggj] | lZixta kjsnd ia ]mnlasZg. XXX
+// Danrys perso9
+L15D324Z
+ KZfda m]alfZzuda ]aud hjbij iZend gdtx o klj]d_ra]. XXX
+// Arkhan2 G perso2
+L15D328
+ Djld mfZcZgZ, snj j_di hjban [wnx o ^gZ]ij^j mnljdnag| $Zi_jlZ. XXX
+// Arkhan3 G perso3
+L15D329
+ Djld _ohZan, j_di o ^gZ]ij^j mnljdnag|... ]jchjbij. XXX
+// Danrys perso9
+L15D330A
+ $Zi_jl! XXX
+// Danrys perso9
+L15D330B
+ Fo, ] kjmga_ida _id ji klj]j_dg hij^j ]lahaid ] Fdbiah ^jlj_a m ZlqdnafnjlZhd... XXX
+// Danrys perso9
+L15D330C
+ Fj m os~njh ]maq mj[wnde, o]alai, ji oflwgm| iZ]alqo, ] m]j~h _]jlra. XXX
+// Danrys perso9
+L15D330D
+ <mgd kje_~tx f iaho, ia mgdtfjh iZ ia^j _Z]d. Gi obZmiwe nlom. XXX
+// Danrys (indicates the word "diagram") perso9
+L15D330E
+ <mgd [w ia a^j hasnw d salnabd, ji [w idfj^_Z ia jmhagdgm| mkomndnxm| mz_Z. XXX
+// Arkhan2 G perso2
+L15D331
+ Kw ia ciZatx, fjho hje jnar jn_Zg fldmnZggw? XXX
+// Arkhan3 G perso3
+L15D332
+ Cjho hje jnar hj^ jn_Znx fldmnZggw? XXX
+// Danrys perso9
+L15D333
+ Fo, | ia ciZz. & gz[jh mgosZa, ia hia... XXX
+// Danrys (A. asking the question again) perso9
+L15D334
+ Fan, ] mZhjh _aga. *j]jlz, | ia ciZz... XXX
+// Arkhan2 G (shows crystal without showing the bow)perso2
+L15D335
+ Fa iZe_~tx hia nZfj^j fldmnZggZ? XXX
+// Arkhan3 G (shows crystal without showing the bow)perso3
+L15D336
+ Ejban, amnx kjqjbde fldmnZgg? XXX
+// Danrys (intrigued)perso9
+L15D337
+ Pnj ynj? XXX
+// Arkhan2 L perso2
+L15D338A
+ Eia iobij ]jmmnZij]dnx qlomnZgxiwe fgzs hja^j jnrZ. XXX
+// Arkhan2 L perso2
+L15D338B
+ +jgbij [wnx sanwla plZ^hainZ, ij | ia iZt~g dq. XXX
+// Arkhan2 L perso2
+L15D338C
+ Kw hjbatx iZend _g| hai| plZ^hain? XXX
+// Arkhan2 O perso2
+L15D339A
+ L hja^j jnrZ [wg fgzs, mjmnj|ude dc sanwl~q sZmnae. Gi lZc_Zg plZ^hainw lZciwh gz_|h... ij | ia ciZz, fjho! XXX
+// Arkhan2 O perso2
+L15D339B
+ Eia iobai ynjn fgzs, d fZf hjbij mfjlae! XXX
+// Arkhan2 O perso2
+L15D339C
+ Ejban, nw iZe_~tx, sah cZhaidnx ia_jmnZzude plZ^hain. XXX
+// Danrys (thinking) perso9
+L15D340A
+ +Z... +Z... Nh-h... XXX
+// Danrys perso9
+L15D340B
+ <mgd ynjn fgzs - fjgxrj m nlah| co[rZhd, iZ_j [w ]c^g|ionx iZ _lo^da co[rw... XXX
+// Danrys perso9
+L15D340C
+ KZf | mhj^ [w kla_mnZ]dnx pjlho ia_jmnZzua^j plZ^hainZ d m_agZnx aho cZhaio. XXX
+// Arkhan2 G perso2
+L15D341
+ L hai| amnx j_di dc fldmnZggj]... Fj _lo^dq kjfZ ia q]ZnZan. XXX
+// Arkhan2 G perso2
+L15D342
+ Ejbatx m_agZnx nZfje? XXX
+// Arkhan3 G perso3
+L15D343
+ Ejbatx? XXX
+// Danrys perso9
+L15D344
+ +Z. Fj, fZf | oba mfZcZg, miZsZgZ hia iobij o]d_anx _lo^da co[rw. XXX
+// Arkhan2 L perso2
+L15D345
+ &jn au~ fldmnZgg, fZf nw d kljmdg. XXX
+// Arkhan2 O perso2
+L15D346
+ Kw qjnag au~ fldmnZgg? +albd! XXX
+// Arkhan3 L perso3
+L15D347
+ &jn au~ fldmnZgg. XXX
+// Arkhan3 O (grunting)perso3
+L15D348
+ <u~ fldmnZgg. XXX
+// Danrys perso9
+L15D23A
+ Fo, maesZm kjmhjnldh... XXX
+// Danrys perso9
+L15D23B
+ Cjiasij, ynj IZqZg - mdh]jg klj]d_ra]. XXX
+// Danrys perso9
+L15D23C
+ $o_an iamgjbij mnjsdnx fldmnZgg iobiwq lZchalj]. XXX
+// Danrys perso9
+L15D23D
+ Hlj[gahZ gdtx ] njh, fZf iZend fldmnZggw. XXX
+// Danrys perso9
+L15D23E
+ EZnaldZg kj_j[ij^j lj_Z iZ _jlj^a ia ]Zg|anm|... XXX
+// Danrys (1st time) perso9
+L15D24B
+ Hldlj_iwe f]Zlr kj_je_~n, amgd jntgdpj]Znx. XXX
+// Danrys (2nd time) perso9
+L15D24A
+ JfZcZg ba, kje_d iZe_d f]Zlr... XXX
+// Danrys perso9
+L15D21A
+ X mhj^o m_agZnx _g| na[| ia_jmnZzuoz sZmnx... XXX
+// Danrys perso9
+L15D21B
+ &fgzsd njsdgxija fjgamj, | iZsio kl|hj maesZm. XXX
+// Arkhan2 G perso2
+L15D608
+ Vnj ]auamn]j dc $wgj^j, ]clw]sZnfZ. XXX
+// Arkhan3 G perso3
+L15D609
+ &auamn]j dc $wgj^j. &clw]sZnfZ. XXX
+// Danrys perso9
+L15D610
+ Ainalamij... Fj snj nw mj[dlZatxm| _agZnx m idh? XXX
+// Arkhan2 G perso2
+L15D611
+ Fa ciZz kjfZ... XXX
+// Arkhan3 G perso3
+L15D612
+ X ia ciZz. HjfZ, ]j ]m|fjh mgosZa. XXX
+// Arkhan2 G perso2
+L15D604
+ Kw ciZatx, snj ynj? XXX
+// Arkhan3 G perso3
+L15D605
+ Kw ciZatx, snj ynj? XXX
+// Danrys perso9
+L15D607A
+ *j]jlz ba, $j^_ZlZi mhjban j[ ynjh lZmmfZcZnx gosta gz[j^j. XXX
+// Danrys perso9
+L15D607B
+ Gi cZio_Z d iwndf au~ njn, ij ciZan iahZgj. XXX
+// Danrys perso9
+L15D606A
+ #lnapZfn dc $wgj^j... Faj[wsija ]auamn]j ]ionld... XXX
+// Danrys perso9
+L15D606B
+ Dosta komnx ^g|ian $j^_ZlZi, ]Zt hZmg~iudf. XXX
+// Arkhan2 L perso2
+L15D468
+ X iZt~g ynjn fZhaix miZlobd. XXX
+// Arkhan2 O perso2
+L15D469
+ &c^g|id iZ ynjn fZhaix. XXX
+// Arkhan3 G perso3
+L15D470
+ FZt~g ynjn fZhaix... XXX
+// Danrys perso9
+L15D471
+ *jliwe qlomnZgx! JkZmd[j. XXX
+// Arkhan2 L perso2
+L15D350
+ +ohZz, | iZt~g ^jliwe fldmnZgg, fjnjlwe nw qjnag! XXX
+// Arkhan2 O perso2
+L15D351
+ FZ_azmx, ynj nj, snj na[a iobij. X sonx ia o[dgm|, snj[ _j[wnx a^j! XXX
+// Arkhan3 L perso3
+L15D352
+ +ohZz, | iZt~g ^jliwe qlomnZgx. XXX
+// Arkhan3 O perso3
+L15D353
+ (]jlsZ) Vnj nj, snj iobij? XXX
+// Danrys perso9
+L15D354
+ Gngdsij, #lqZi! Kakalx | hj^o m_agZnx ia_jmnZzuoz sZmnx. XXX
+// Arkhan2 G perso2
+L15D356A
+ Fa iobij. X iZfjiar iZt~g kjmga_ide fldmnZgg. XXX
+// Arkhan2 G perso2
+L15D356B
+ GmnZ]x ma[a. Ka[a ynj kldiam~n [jgxta kjgxcw, sah hia. XXX
+// Arkhan3 G perso3
+L15D357A
+ Fa iobij. X iZt~g a^j. XXX
+// Arkhan3 G perso3
+L15D357B
+ Fj nw hjbatx jmnZ]dnx ynjn. XXX
+// Arkhan2 L perso2
+L15D600
+ Ejbatx ynj kljsamnx? XXX
+// Arkhan2 O perso2
+L15D601
+ Pnj c_amx mfZcZij? XXX
+// Arkhan3 G perso3
+L15D602
+ Hljsnd! XXX
+// Danrys perso9
+L15D603A
+ JgotZe, #lqZi, nw ba ciZatx, snj snaida - ynj ia  hje fji~f. XXX
+// Danrys perso9
+L15D603B
+ & ynjh kgZia | ia hj^o na[a kjhjsx... XXX
+// Arkhan2 L perso2
+L15D358A
+ X iZt~g yno mqaho ] kld[abdua fjifZgdnj]. XXX
+// Arkhan2 L perso2
+L15D358B
+ Kw lZc[dlZatxm| ] yndq ]auZq. Ejbatx mfZcZnx, snj ynj nZfja? XXX
+// Arkhan2 O perso2
+L15D359A
+ X lZc_j[wg yno mqaho. XXX
+// Arkhan2 O perso2
+L15D359B
+ Kw ba ]m~ ciZatx, nZf snj mfZbd hia. Jnjdgj gd ]w[d]Znx _oq dc klabia^j ]gZ_agxrZ lZ_d ynj^j? XXX
+// Arkhan3 L perso3
+L15D360
+ VnZ mqahZ... Kw ciZatx, snj ynj? XXX
+// Arkhan3 O perso3
+L15D361
+ VnZ mqahZ... Pnj ynj? XXX
+// Danrys perso9
+L15D362A
+ Hjmhjnldh... Nh... +Z, | ciZz, snj ynj... XXX
+// Danrys perso9
+L15D362B
+ Vnj kljafn ij]j^j jlobd|, dcj[lan~iij^j mnljdnag|hd. XXX
+// Danrys perso9
+L15D362C
+ A au~, kjhiz, | mgwtZg, [o_nj a^j oflZgd. XXX
+// Danrys perso9
+L15D362D
+ Hj_i|gm| Z_mfde toh, fj^_Z jiZ kljkZgZ, ij +jlfZi jmj[j ia mnZg a~ lZcwmfd]Znx... XXX
+// Danrys perso9
+L15D362E
+ A lZc ob $j^ JjgirZ ]losdg a~ na[a, hia _Zba dinalamij, mhj^o gd | mj[lZnx mnjgx _lZ^jraiiwe _g| idq "j^iah~n". XXX
+// Arkhan2 G perso2
+L15D363
+ G^iah~n? XXX
+// Arkhan3 G perso3
+L15D364
+ G^iah~n? XXX
+// Danrys perso9
+L15D365A
+ E-h-h, _Z, nZf jid a^j iZc]Zgd. XXX
+// Danrys perso9
+L15D365B
+ Vnj hjuija jlobda, mnlag|zuaa cZl|_Zhd m cZbd^Znagxije mhamxz. XXX
+// Danrys (looking at the diagram) perso9
+L15D365C
+ Hlobdiw... mkomfj]je haqZidch... foljf. &ma ynd sZmnd | mhj^o iZend... XXX
+// Danrys perso9
+L15D365D
+ Eia iobiZ gdtx [jgxtZ| lofj|nx _g| cZflakgaid| d Zfnd]Zrdd haqZidchZ. XXX
+// Danrys perso9
+L15D365E
+ JgotZe, kjsaho [w na[a ia kjdmfZnx lofj|nfo, kjfZ | cZidhZzmx jmnZgxiwh? XXX
+// Danrys perso9
+L15D365F
+ Hj[jgnZg [w m klabidh qjc|dijh mqahw  - ^g|_dtx, _Z ]wo_dtx o ia^j lofj|nx. XXX
+// Arkhan2 G perso2
+L15D463
+ Fan, ji ia ] nje pjlha, snj[w ^j]jldnx. Fj | iZe_o a~. XXX
+// Arkhan3 G perso3
+L15D464
+ Gi [jgxta idsa^j ia mfZban! Fj | iZe_o a~. XXX
+// Arkhan2 G perso2
+L15D366A
+ X iZt~g [Zggji dc $wgj^j... XXX
+// Arkhan2 G perso2
+L15D366B
+ <mgd iZbZnx iZ flo^goz tnosfo iZ]alqo, jnno_Z ]jc_oq _oan, tdk|, fZf cha|. XXX
+// Arkhan3 G perso3
+L15D367A
+ &jn [Zggji dc $wgj^j... XXX
+// Arkhan3 G perso3
+L15D367B
+ Cj^_Z _Z]dtx iZ yno flo^goz tnofo, ji tdkdn... XXX
+// Danrys perso9
+L15D368A
+ +Z, | ]d_ag kj_j[iwe. XXX
+// Danrys perso9
+L15D368B
+ J kjhjuxz ]ji nj^j hjnjlZ, ]jc_oq hjbij jnfZsd]Znx dgd cZfZsd]Znx ] [Zggji. XXX
+// Danrys perso9
+L15D368C
+ KZf hjbij _agZnx d m [ZifZhd dc $wgj^j. >iZatx, na, snj m ]wmotaiije a_je ]ionld. XXX
+// Arkhan2 G perso2
+L15D369
+ Pnj nw ^j]jldg j[ ynjh [Zggjia? XXX
+// Arkhan3 G perso3
+L15D370
+ IZmmfZbd hia [jgxta j[ ynjh [Zggjia. XXX
+// Danrys perso9
+L15D371A
+ &d_dtx njn lagdfn dc $wgj^j ] ^go[dia hZmnalmfje? XXX
+// Danrys perso9
+L15D371B
+ FZcw]Zanm| "hjnjl". Ah hjbij jnfZsZnx ]jc_oq dc [ZggjiZ dgd iZkjgidnx a^j ]ij]x m _lo^je mnjljiw. XXX
+// Danrys perso9
+L15D371C
+ Dz_d dc $wgj^j dmkjgxcj]Zgd ynd [Zggjiw, snj[w _wtZnx kj_ ]j_je. XXX
+// Danrys perso9
+L15D371D
+ Gid [lZgd m mj[je ]jc_oq ] nZfdq ba [ZggjiZq, fZf d njn, snj nw _albdtx. XXX
+// Danrys perso9
+L15D371E
+ L]w! <mgd ]w, hjgj_~bx, ia [o_ana mgotZnx hai| sonx ]idhZnagxiaa, ]ma hjd ciZid| kljkZ_on, fj^_Z | ]mnlasomx m ]agdfdh $j^jh JjgirZ... XXX
+// Arkhan2 L (tin can)perso2
+L15D372
+ Kw _Zg ynj nje _j[wnsdra iZ ogdra, ia nZf gd? Pnj ynj? XXX
+// Arkhan2 O perso2
+L15D373A
+ VnZ [ZifZ, nw _Zg a~ nje _j[wnsdra, ia nZf gd? XXX
+// Arkhan2 O perso2
+L15D373B
+ Eai| ia dinalamoan, snj jiZ _ZgZ ]cZhai... X kljmnj qjso ciZnx, snj ynj nZfja! XXX
+// Danrys (not amused) perso9
+L15D375A
+ NZ-qZ-qZ! Gsaix mhatj! Hjqjba, cZlZcZ _j[lZgZmx _j hjc^j]! XXX
+// Arkhan3 G perso3
+L15D374
+ Pnj ynj cZ [ZifZ? XXX
+// Danrys perso9
+L15D375B
+ Dz_d dc $wgj^j ]wmotd]Zgd m]jz a_o d ] [ZifZq qlZidgd a~. XXX
+// Danrys perso9
+L15D375C
+ A jid kjhauZgd a~ ] [Zifd ]lj_a ynje. XXX
+// Arkhan2 G perso2
+L15D376
+ # snj nw _ohZatx j[ ynjh, +Zildm? XXX
+// Arkhan3 G perso3
+L15D377
+ +Zildm, nw ]d_ag nZfja? XXX
+// Danrys perso9
+L15D378
+ >Z[o_x j[ ynjh. L na[| kj]Zbiaa amnx _agZ, sah kj_lZ[Znw]Znx homjludfjh. XXX
+// Danrys perso9
+L15D379
+ Ac]did, ynj ia kj hjae sZmnd. XXX
+// Arkhan2 L perso2
+L15D380A
+ Kw qjsatx, snj[w | kldi~m na[a lofj|nx _g| j^iah~nZ. XXX
+// Arkhan2 L perso2
+L15D380B
+ CZf jiZ _jgbiZ ]w^g|_anx? XXX
+// Arkhan2 O perso2
+L15D381
+ JgotZe, lZc ob | _jgbai, fZf homjludf, dmfZnx na[a lofj|nx _g| j^iah~nZ, mfZbd qjnx, fZf jiZ ]w^g|_an. XXX
+// Arkhan3 G perso3
+L15D382
+ CZfZ| iobiZ lofj|nx _g| j^iah~nZ? XXX
+// Danrys perso9
+L15D383A
+ GiZ _jgbiZ [wnx kljsije d kj_qj_dnx na[a kj lofa. XXX
+// Danrys perso9
+L15D383B
+ GiZ [o_an flakdnxm| f mn]jgo m j[adq mnjlji d m]alqo. XXX
+// Danrys perso9
+L15D383C
+ *_a-nj mZindhanlj] mahx ] tdldio, kgzm-hdiom. XXX
+// Danrys perso9
+L15D383D
+ Hjklj[oe iZend snj-nj kjqjbaa, Z | cZehomx jmnZgxiwh. XXX
+// Arkhan2 G perso2
+L15D384
+ G[v|mid au~ lZc klj lofj|nfo. XXX
+// Arkhan3 G perso3
+L15D385
+ IZmmfZbd hia au~ lZc j lofj|nfa. XXX
+// Danrys perso9
+L15D386A
+ Kw snj, qjsatx m]amnd hai| m ohZ? XXX
+// Danrys perso9
+L15D386B
+ =agaciZ| losfZ, snj[w f mn]jgo kldgZ_dnx, kji|g? XXX
+// Danrys perso9
+L15D386C
+ <mgd idsa^j ia ]mnlandnm|, [a_Z! XXX
+// Arkhan2 L perso2
+L15D387
+ CZf nZh, nw oba m_agZg hje j^iah~n? XXX
+// Arkhan2 O perso2
+L15D388
+ Ve, hje j^iah~n cZfjisai? XXX
+// Arkhan3 L perso3
+L15D389
+ KZf, j^iah~n ^_a? XXX
+// Arkhan3 O perso3
+L15D390
+ Eia iobai hje j^iah~n! XXX
+// Danrys perso9
+L15D391A
+ X ia cZfjisdg. Fa [o_x nZfdh ianalkagd]wh! XXX
+// Danrys perso9
+L15D391B
+ +Ze hia au~ iahij^j ]lahaid, qjljtj? XXX
+// Danrys (irritated)perso9
+L15D392A
+ +ohZatx, kljmnj mjjlo_dnx nZfoz ]aux? XXX
+// Danrys (irritated)perso9
+L15D392B
+ +Ze hia ]lah|, qjljtj? XXX
+// Danrys perso9
+L15D393A
+ &jn n]je j^iah~n! X _Zba cZklZ]dg a^j _g| na[|. XXX
+// Danrys perso9
+L15D393B
+ Fj dhae ] ]d_o, o na[| ia nZf hij^j cZl|_j]. XXX
+// Danrys (irritated) perso9
+L15D394A
+ &jn ji! CZf ]d_dtx, iacZsah [wgj hai| _jidhZnx! XXX
+// Danrys perso9
+L15D394B
+ $jakldkZmw cl| ia lZmnlZsd]Ze. >Zl|_w nlo_ij _jmnZnx. XXX
+// Arkhan2 L perso2
+L15D395
+ CZgd ia c_amx? XXX
+// Arkhan2 O perso2
+L15D396
+ Co_Z CZgd _agZmx?! XXX
+// Arkhan3 L perso3
+L15D397
+ # ^_a CZgd?! XXX
+// Arkhan3 O perso3
+L15D398
+ CZgd?! XXX
+// Danrys perso9
+L15D399A
+ GiZ otgZ ia nZf _Z]ij... XXX
+// Danrys perso9
+L15D399B
+ JfZcZgZ, ia hjban iZ na[| nZf kljmnj mhjnlanx, ia kjkwnZ]tdmx sah-nj kjhjsx. XXX
+// Danrys perso9
+L15D399C
+ Kw ciZatx, fZfZ| jiZ. LkjliZ|! XXX
+// Arkhan2 L perso2
+L15D400
+ CZgd ia m nj[je? XXX
+// Arkhan2 O perso2
+L15D401
+ *_a jiZ iZ ynjn lZc? XXX
+// Arkhan3 L perso3
+L15D402
+ CZgd ia c_amx? XXX
+// Danrys perso9
+L15D403A
+ Fan, jk|nx otgZ. XXX
+// Danrys perso9
+L15D403B
+ Fa hj^gZ omd_anx... XXX
+// Arkhan2 G (worried)perso2
+L15D404
+ Co_Z CZgd _agZmx?! XXX
+// Arkhan3 G (worried)perso3
+L15D405
+ CZgd... *_a jiZ? XXX
+// Danrys perso9
+L15D406A
+ X ia ciZz, ^_a jiZ, ij na[a gosta jnwmfZnx a~. XXX
+// Danrys perso9
+L15D406B
+ Hjmkatd. Cj^_Z ]jflo^ nZfja n]jldnm|, | kalabd]Zz cZ ia~! XXX
+// Arkhan2 L perso2
+L15D902
+ +Zildm... CZgd haln]Z... XXX
+// Arkhan2 O perso2
+L15D903
+ CZgd?! GiZ ohalgZ? LhalgZ! XXX
+// Arkhan3 L perso3
+L15D904
+ +Zildm... CZgd... haln]Z! XXX
+// Arkhan3 O perso3
+L15D905
+ CZgd ohalgZ! #-Z-Z! XXX
+// Danrys perso9
+L15D906A
+ Fan! XXX
+// Danrys (heartbroken)perso9
+L15D906B
+ $a_ija _dn|... HjgiZ bdcid... KZf lZij ohalanx... XXX
+// Danrys perso9
+L15D906C
+ +albdmx, #lqZi! <mgd nw m_Ztxm| maesZm, a~ mhalnx [o_an iZklZmije! XXX
+// Danrys perso9
+L15D906D
+ <mgd nw gz[dg a~, nZf mkZmd hdl, snj gz[dgZ jiZ, - hdl, snj n]jldgZ ] n]j~h mal_ra fZb_we _aix! XXX
+// Danrys perso9
+L15D906E
+ Njsatx jmnZnxm| sagj]afjh, nj^_Z [jldmx! XXX
+// Arkhan2 G perso2
+L15D55A
+ X _jgbai iZend mkjmj[ dcgasdnx ma[|. A [wmnlj! XXX
+// Arkhan3 G perso3
+L15D55B
+ X _jgbai iZend gafZlmn]j, d [wmnlj. XXX
+// Danrys (thinking) perso9
+L15D56A
+ DafZlmn]j... +Z... XXX
+// Danrys perso9
+L15D56B
+ Kon | ]l|_ gd hj^o kjhjsx. XXX
+// Danrys perso9
+L15D56C
+ <mgd c_amx fnj-nj d hj^ [w snj-nj m_agZnx, ynj #lhZg JZ_Zf. XXX
+// Arkhan2 G perso2
+L15D457
+ X oba ^j]jldg m idh. Fa o]alai, snj ji hia mdgxij kjhjban. XXX
+// Arkhan3 G perso3
+L15D458
+ X a^j ]d_ag. Fa o]alai, snj ji kjhjban. XXX
+// Arkhan2 G perso2
+L15D57A
+ Cnj ji nZfje, #lhZg JZ_Zf? XXX
+// Arkhan3 G perso3
+L15D57B
+ IZmmfZbd, snj cZ #lhZg JZ_Zf. XXX
+// Danrys perso9
+L15D58A
+ Gi hij^ja ciZan j hij^dq ]auZq... XXX
+// Danrys perso9
+L15D58B
+ <^j _jh iakj_Zg~fo, ]lj_a [jgxtj^j bagacij^j mo_iZ. XXX
+// Danrys perso9
+L15D58C
+ $jgxtdimn]j homjludfj] ] yndq hamnZq lZ[jnZzn iZ ia^j. XXX
+// Danrys perso9
+L15D58D
+ Gi j[amkasd]Zan cZudno. & j[hai, jid m idh _ag|nm| nah, snj iZe_on. XXX
+// Arkhan2 G perso2
+L15D500
+ A nw? XXX
+// Arkhan3 G perso3
+L15D501
+ # nw? XXX
+// Danrys perso9
+L15D502A
+ Jj hije _lo^ja _agj. X aho idsah ia j[|cZi, d ji jmnZ]dg hai| ] kjfja. XXX
+// Danrys perso9
+L15D502B
+ A, fZf d ]ma jmnZgxiwa, ji _j]jgai, snj | l|_jh, amgd iobai... XXX
+// Danrys perso9
+L15D502C
+ Pnj [w nZh id mgosdgjmx, amgd j[lZndtxm| f iaho, [o_x iZsafo. XXX
+// Danrys perso9
+L15D502D
+ #lhZg JZ_Zf idsa^j ia _agZan [ac kldsdiw. XXX
+// Arkhan2 G perso2
+L15D550A
+ X qj_dg iZ fjlZ[gx #lhZgZ JZ_ZfZ. XXX
+// Arkhan2 G perso2
+L15D550B
+ G_ij | hj^o mfZcZnx - ia jsaix-nj lZc^j]jlsd]we iZlj_! XXX
+// Arkhan3 G perso3
+L15D551A
+ X qj_dg iZ fjlZ[gx #lhZgZ JZ_ZfZ. XXX
+// Arkhan3 G perso3
+L15D551B
+ Fj ynd kZlid hZgj snj ^j]jl|n! XXX
+// Danrys perso9
+L15D552A
+ Nh-h... jsa]d_ij, jid ia ciZzn, fnj nw nZfje... XXX
+// Danrys perso9
+L15D552B
+ X hj^ [w _j^Z_Znxm|, snj jid na[| ]wklon. XXX
+// Danrys perso9
+L15D552C
+ JgotZe, ]alidmx d mfZbd dh, snj nw jn hai|. JfZbatx dh ynjn kZljgx: XXX
+// Danrys perso9
+L15D552D
+ "Ij_ gz_mfje ]ma^j gdtx katfZ, snj ]jgaz lofd Jo_x[w nj _]dbanm| iZ kjga J]anZ, Z nj iZ kjga Kxhw". XXX
+// Arkhan2 G (repeating) perso2
+L15D553
+ Ij_ gz_mfje ]ma^j gdtx katfZ... snj ]jgaz lofd Jo_x[w... nj _]dbanm|... iZ kjga J]anZ, Z nj iZ kjga Kxhw. XXX
+// Arkhan3 G (repeating) perso3
+L15D554
+ Ij_ gz_mfje ]ma^j gdtx katfZ... snj ]jgaz lofd Jo_x[w... nj _]dbanm|... iZ kjga J]anZ, Z nj iZ kjga Kxhw. XXX
+// Danrys perso9
+L15D555A
+ Kjsij. KZf jid ociZzn, snj nw jn _lo^Z. XXX
+// Danrys perso9
+L15D555B
+ Fj [o_x jmnjljbai, ynd kZlid n]~lba ^]jc_ae! XXX
+// Arkhan2 L perso2
+L15D312A
+ <u~ iZ]alqo, klj]d_rw lZmmfZcw]Zgd klj mfgak. XXX
+// Arkhan2 L perso2
+L15D312B
+ CZfje-nj nZeiwe ^ljn, ^_a | iZe_o mla_mn]j jn hjae [jgacid. XXX
+// Arkhan2 O perso2
+L15D313A
+ Hljnd]j|_da jn ynje halcfje cZlZcw _jgbij [wnx mkl|nZij ^_a-nj ] nZeijh mfgaka. XXX
+// Arkhan2 O perso2
+L15D313B
+ Vnj nj, snj ragdnagx KZiZi_Zl mfZcZg hia. XXX
+// Arkhan3 L perso3
+L15D314A
+ Hlj]d_rw ^j]jl|n, amnx gafZlmn]j. XXX
+// Arkhan3 L perso3
+L15D314B
+ & mfgaka... fZfjh-nj...XXX
+// Arkhan3 O perso3
+L15D315A
+ DafZlmn]j... XXX
+// Arkhan3 O perso3
+L15D315B
+ Hlj]d_rw ^j]jl|n, jij ^_a-nj ] mfgaka. XXX
+// Danrys perso9
+L15D316A
+ KZeiwe mfgak? G s~h nw njgfoatx, kld|nagx? XXX
+// Danrys (hesitating) perso9
+L15D316B
+ X ciZz, na[a qjsanm| ynjho ]aldnx, ij... XXX
+// Danrys perso9
+L15D316C
+ X _ohZz, jid mfZcZgd nZf, snj[ na[| omkjfjdnx. XXX
+// Arkhan2 G perso2
+L15D317A
+ Gid mfZcZgd, mla_mn]j ] nZeijh mfgaka. XXX
+// Arkhan2 G perso2
+L15D317B
+ X iZt~g a^j, ij jij ia dcgasdgj hai|. XXX
+// Arkhan3 G perso3
+L15D318A
+ X iZt~g mla_mn]j ] mfgaka... XXX
+// Arkhan3 G perso3
+L15D318B
+ Fj jij ia mkZmgj. XXX
+// Danrys perso9
+L15D319A
+ +jgbai [wnx mkjmj[ au~... XXX
+// Danrys perso9
+L15D319B
+ C mjbZgaidz, | ia ciZz, fZfje. XXX
+// Arkhan2 G perso2
+L15D320A
+ +Zildm, iZt~g | njn nZeiwe mfgak, j fjnjljh hia ^j]jldgd. XXX
+// Arkhan2 G perso2
+L15D320B
+ Fj | ia dcgasdgm|! +jgbai [wnx _lo^je mkjmj[. XXX
+// Arkhan3 G perso3
+L15D321A
+ Kjn nZeiwe mfgak, | iZt~g a^j... XXX
+// Arkhan3 G perso3
+L15D321B
+ Kjgxfj ji ia ]wgasdg! XXX
+// Arkhan2 L perso2
+L15D307A
+ Eje jnar, fZbanm|, ciZg j[ ynje [jgacid. XXX
+// Arkhan2 L perso2
+L15D307B
+ Gi hia mfZcZg _jb_Znxm| a^j ] qlZha $j^Z JjgirZ, ij ji nZf d ia kldt~g. XXX
+// Arkhan2 L perso2
+L15D307C
+ Kw a^j ia ]d_ag? XXX
+// Arkhan2 O perso2
+L15D308A
+ Hj-]d_dhjho, hje jnar ciZg j[ ynje cZlZca. XXX
+// Arkhan2 O perso2
+L15D308B
+ JfZcZg hia _jbd_Znxm| a^j ] qlZha, ij ia |]dgm|! XXX
+// Arkhan2 O perso2
+L15D308C
+ # nw a^j ia ]d_ag? XXX
+// Arkhan3 G perso3
+L15D309A
+ Eje jnar ciZan mla_mn]j. XXX
+// Arkhan3 G perso3
+L15D309B
+ X _jgbai iZend a^j! XXX
+// Arkhan3 G perso3
+L15D309C
+ Kw a^j ia ]d_ag? XXX
+// Danrys perso9
+L15D311A
+ K]ja^j jnrZ? XXX
+// Danrys perso9
+L15D311B
+ Fan. Gi la_fj mkomfZanm| ] Fdbide ^jlj_. XXX
+// Danrys perso9
+L15D311C
+ <mgd ji ^_a-id[o_x c_amx, nj ia kj mj[mn]aiije ]jga! XXX
+// Arkhan2 G perso2
+L15D407A
+ +Zildm, kjmgotZe hai|. XXX
+// Arkhan2 G perso2
+L15D407B
+ Jfjlj [o_an jsaix jkZmij c_amx jmnZ]Znxm|. XXX
+// Arkhan2 G perso2
+L15D407C
+ Fa njgxfj dc-cZ ElZfZ... <mnx au~ j_di... au~ j_di "dchai~iiwe", fZf |. XXX
+// Arkhan2 G perso2
+L15D407D
+ KZiZi_Zl... Vnj dc-cZ ia^j | nakalx jnlZ]gai... XXX
+// Arkhan2 G perso2
+L15D407E
+ Gi... Gi qjsan kjfjisdnx mj ]mah mnZggZenjh... A ynj oba iZsZgjmx. XXX
+// Arkhan2 G perso2
+L15D407F
+ KZf snj ^g|_d ] j[Z, hje mnZlwe _lo^! XXX
+// Arkhan3 G perso2
+L15D408A
+ +Zildm, kjmgotZe! XXX
+// Arkhan3 G perso2
+L15D408B
+ >_amx ]m~ jkZmiaa... XXX
+// Arkhan3 G perso2
+L15D408C
+ Fa njgxfj dc-cZ ElZfZ... <mnx au~ j_di... au~ j_di "dchai~iiwe", fZf |. XXX
+// Arkhan3 G perso2
+L15D408D
+ KZiZi_Zl... Gi qjsan lZclotdnx mnZggZen. XXX
+// Arkhan3 G perso2
+L15D408E
+ A ynj oba iZsZgjmx! XXX
+// Arkhan3 G perso2
+L15D408F
+ $ala^d ma[|, hje _lo^! XXX
+// Danrys perso9
+L15D409A
+ X... +Z, qjljtj. XXX
+// Danrys perso9
+L15D409B
+ Fa ]jgioem|, | [o_o jmnjljbai! XXX
+// Danrys perso9
+L15D409C
+ J kldqj_jh ElZfZ ]ma iZmnjljba... Dz_d #lhZgZ JZ_ZfZ ^jnj]w f ]jeia. XXX
+// Danrys perso9
+L15D409D
+ Cjgx [o_an qo_j, jid hia kjhj^on. XXX
+// Arkhan2 L perso2
+L15D410
+ G nZfjh hamna, fZf "*lj[idrZ", nw id jn fj^j ia mgwqZg? XXX
+// Arkhan2 O perso2
+L15D411
+ "*lj[idrZ", mgwqZg j iae? XXX
+// Arkhan3 G perso3
+L15D412
+ X duo hamnj kj_ iZc]Zidah "*lj[idrZ". XXX
+// Danrys perso9
+L15D413
+ *lj[idrZ? Pnj ynj? XXX
+// Arkhan2 L perso2
+L15D414A
+ Hj mgj]Zh Djld, d cZkdmd jnrZ kj_n]alb_Zzn, ynj hamnj - [jgxtje maflan. XXX
+// Arkhan2 L perso2
+L15D414B
+ Gij ]lj_a [w kj_ mnZggZenjh... Fj idfnj oba ia kjhidn, ^_a ]qj_ lZmkjgjbai. XXX
+// Arkhan2 L perso2
+L15D414C
+ Gnar msdnZg, snj nZh, ]ionld, "+dn| JjgirZ". XXX
+// Arkhan2 L perso2
+L15D414D
+ Cah [w dgd sah [w ynj id [wgj, ynj iZtZ kjmga_i|| iZ_ab_Z, amgd hw qjndh mkZmnd JkZlno! XXX
+// Arkhan2 O perso2
+L15D415A
+ <mgd ]aldnx mgj]Zh Djld d hja^j jnrZ, ynj jsaix _la]iaa hamnj. XXX
+// Arkhan2 O perso2
+L15D415B
+ Gij |fj[w kj_ iZtdh mnZlwh _j[lwh mnZggZenjh, ij, fjiasij ba, ^_a _]alx idfnj ia ciZan! XXX
+// Arkhan2 O perso2
+L15D415C
+ Fj jnar mfZcZg, snj nZh gabdn "+dn| JjgirZ" . XXX
+// Arkhan2 O perso2
+L15D415D
+ Fa ciZz ob, snj cZ c]alx, ij lZ_d mkZmaid| JkZlnw, | iZe_o a^j! XXX
+// Arkhan3 L perso3
+L15D416A
+ Djld d IdgmZ_Zl ^j]jldgd, ynj jsaix _la]iaa hamnj... kj_ mnZggZenjh. XXX
+// Arkhan3 L perso3
+L15D416B
+ Fj idfnj ia ciZan, ^_a iZqj_dnm| ]qj_. XXX
+// Arkhan3 L perso3
+L15D416C
+ KZh | iZe_o "+dn| JjgirZ". XXX
+// Arkhan3 L perso3
+L15D416D
+ Ejban, ynj kjmga_i|| iZ_ab_Z... mkZmnd JkZlno. XXX
+// Arkhan3 O perso3
+L15D417A
+ +la]iaa hamnj ^_a-nj kj_ mnZggZenjh. XXX
+// Arkhan3 O perso3
+L15D417B
+ X _jgbai iZend ]qj_... XXX
+// Arkhan3 O perso3
+L15D417C
+ KZh, ]ionld... "+dn| JjgirZ". XXX
+// Arkhan3 O perso3
+L15D417D
+ FZt kjmga_ide tZim! XXX
+// Danrys perso9
+L15D418A
+ "+dn| JjgirZ", _Z? XXX
+// Danrys perso9
+L15D418B
+ FZ_azmx, klj]d_rw ynj ia ko_ldgd na[a hjc^d! XXX
+// Danrys perso9
+L15D418C
+ Fj fZf jfZcZnxm| kj_ mnZggZenjh, ia ciZz. Gi kl|hj iZ flZz on~mZ! XXX
+// Danrys perso9
+L15D418D
+ Ejban, nw njiiagx kljlwnx ij^n|hd mj[dlZatxm|? XXX
+// Arkhan2 G perso2
+L15D86A
+ <mnx ij]jmnd, _lo^? XXX
+// Arkhan3 G perso3
+L15D86B
+ Fj]jmnd amnx? XXX
+// Danrys perso9
+L15D87
+ Fan, kljmnd. Kw _albdmx ob, #lqZi. XXX
+// Arkhan2 G perso2
+L15D59A
+ X cZe_o f na[a kjkjcba. XXX
+// Arkhan3 G perso3
+L15D59B
+ X cZe_o f na[a kjkjcba. XXX
+// Danrys perso9
+L15D60
+ Kw _albdmx ob, hje _lo^. XXX
+// Arkhan2 G perso2
+L15D130A
+ Vnj jlobda... XXX
+// Arkhan3 G perso3
+L15D130B
+ Vnj jlobda... XXX
+// Danrys perso9
+L15D103A
+ CZf hij^j mgj]! +j]jgxij [jgnZnx, ]fgzsd-fZ njsdgxiwe flo^. XXX
+// Arkhan2 G perso2
+L15D102A
+ CldmnZgg, nw... XXX
+// Arkhan3 G perso3
+L15D102B
+ CldmnZgg, nw... XXX
+// Arkhan2 G perso2
+L15D95
+ &acaida fjisdgjmx, +Zildm! XXX
+// Arkhan3 G perso2
+L15D96
+ Kw kldaqZg! XXX
+// Danrys perso9
+L15D76B
+ Ve! Lmkjfjem|! XXX
+// Danrys perso9
+L15D100A
+ # io, _j]jgxij! XXX
+// Danrys perso9
+L15D100B
+ Faha_g|! XXX
+// Arkhan2 G (no electricity)perso2
+L15D461
+ Clo^ ia lZ[jnZan... XXX
+// Arkhan3 G (no electricity)perso3
+L15D462
+ Fa lZ[jnZan... XXX
+// Arkhan2 G perso2
+L15D506
+ Kjsdgxiwe flo^ +ZildmZ, _g| j[lZ[jnfd hanZggZ d fZhi|. XXX
+// Arkhan3 G perso3
+L15D507
+ Kjsdgxiwe flo^... _g| hanZggZ d fZhi|. XXX
+// Arkhan2 G perso2
+L15D112A
+ Kjsdgxiwe flo^ +ZildmZ mgjhZgm|. XXX
+// Arkhan3 G perso3
+L15D112B
+ Kjsdgxiwe flo^ mgjhZgm|. XXX
+// Arkhan2 L (in front of the turning grinder)perso2
+L15D80A
+ Dosta ia nlj^Znx... XXX
+// Arkhan3 L (in front of the turning grinder)perso3
+L15D80B
+ Fan! Klj^Znx iagxc|. XXX
+// Arkhan2 G (with weapon in front of the grinder)perso2
+L15D81A
+ Fan. X fZb_we lZc gjhZz fgdijf. XXX
+// Arkhan2 G perso2
+L15D81B
+ Kjgxfj +Zildm ciZan, fZf ynj _agZnx. XXX
+// Arkhan3 G (with weapon in front of the grinder)perso3
+L15D81C
+ Fan, | njgxfj mgjhZz fgdijf. XXX
+// Arkhan3 G perso3
+L15D81D
+ Kjgxfj +Zildm ciZan, fZf ynj _agZnx. XXX
+// Arkhan2 G perso2
+L15D82A
+ Vnjn fldmnZgg ia iobij j[lacZnx... XXX
+// Arkhan3 G perso3
+L15D82B
+ G[lacZnx fldmnZgg ia iobij! XXX
+// Arkhan2 G perso2
+L15D465A
+ +Z, | hj^ [w m_agZnx dc fldmnZggZ sZmnx fgzsZ... XXX
+// Arkhan2 G perso2
+L15D465B
+ Fj hia iobij qjn| [w nld sZmnd, snj[w ]wlacZnx klZ]dgxij kjmga_izz. XXX
+// Arkhan3 G perso3
+L15D466A
+ +Z, | hj^o ]wlacZnx... sZmnx fgzsZ. XXX
+// Arkhan3 G perso2
+L15D466B
+ Fj hia iobij dhanx qjn| [w nld sZmnd, klab_a sah kjmga_izz m_agZnx. XXX
+// Arkhan2 G perso2
+L15D419
+ X mZh j[lZ[jnZz ynjn fldmnZgg d m_agZz fgzs. XXX
+// Arkhan3 G perso3
+L15D420
+ G[labo kjmga_ide fldmnZgg d m_agZz fgzs. XXX
+// Arkhan2 G perso2
+L15D89A
+ L hai| oba amnx ]ma fldmnZggw. Vnj ia iobij. XXX
+// Arkhan3 G perso3
+L15D89B
+ Fa iobij. L hai| oba amnx ]ma fldmnZggw. XXX
+// Arkhan2 G (with different objects)perso2
+L15D85A
+ Fa]jchjbij! XXX
+// Arkhan3 G (with different objects)perso3
+L15D85B
+ Fa]jchjbij! XXX
+// Arkhan2 G perso2
+L15D104A
+ G_iZ dc naq mnZlwq hZtdi dc $wgj^j. XXX
+// Arkhan3 G perso3
+L15D104B
+ EZtdiZ dc $wgj^j. XXX
+// Arkhan2 G perso2
+L15D105A
+ &jn jiZ, nZ hZtdiZ, j fjnjlje ^j]jldg +Zildm. XXX
+// Arkhan3 G perso3
+L15D105B
+ +jgbij [wnx, ]jc_otiZ| hZtdiZ +ZildmZ. XXX
+// Arkhan2 G perso2
+L15D421
+ <mnx, cZkjgidg. XXX
+// Arkhan3 G perso3
+L15D422
+ Hjgiwe. XXX
+// Arkhan2 G (to an aggressive Konkalite)perso2
+L15D91A
+ Pnj-nj qjnag? XXX
+// Arkhan3 G perso3
+L15D91B
+ Kw snj-nj duatx? XXX
+// Konkalite9 perso79
+L15D92
+ K]jz ^jgj]o! XXX
+// Arkhan2 G (defiantly)perso2
+L15D94A
+ A_d d ]jcxhd! XXX
+// Arkhan3 G (defiantly)perso3
+L15D94B
+ +Z]Ze! XXX
+// Arkhan2 G perso2
+L15D425
+ >_amx nw [o_atx ] [acjkZmijmnd! XXX
+// Arkhan3 G perso3
+L15D426
+ >_amx nw [o_atx ] [acjkZmijmnd. XXX
+// Kalhi perso13
+L15D427
+ Kw _ohZatx, | hj^o kljmnj md_anx mgjbZ lofd, kjfZ... kjfZ na[| mbdlZan dcionld ynZ kljfg|nZ| cZlZcZ? XXX
+// Arkhan2 L (Danrys dead)perso2
+L15D428
+ $a_iwe +Zildm! Gi ia cZmgobdg ynj^j. XXX
+// Arkhan2 O (Danrys dead)perso2
+L15D429
+ +Zildm! &a_x | kla_oklab_Zg a^j, ij ji ba ia mgotZg hai|! XXX
+// Arkhan3 G perso3
+L15D430
+ FamsZmniwe +Zildm. XXX
+// Kalhi (Danrys dead)perso13
+L15D431
+ Ew jnjhmndh cZ ia^j! XXX
+// Arkhan2 G perso2
+L15D432
+ Fan! Kw jmnZ~txm|! XXX
+// Arkhan3 G perso3
+L15D433
+ Kon jmnZ]Zem|! XXX
+// Arkhan2 L perso2
+L15D434
+ CZgd, nZh nw hjbatx kj^d[ionx! Kw _jgbiZ jmnZ]Znxm| c_amx, kji|gZ? XXX
+// Arkhan2 O perso2
+L15D435
+ Kw qjnx mgotZatx hai|? Kw jmnZ~txm| c_amx, dgd ba | ]wlo[gz na[|, kji|gZ? XXX
+// Arkhan3 G perso3
+L15D436
+ $o_x c_amx! XXX
+// Kalhi (determined) perso13
+L15D437
+ X ia _dn|! X qjso kjhjsx na[a d, $j^ JjgirZ ]d_dn, | ynj m_agZz. XXX
+// Arkhan2 G perso2
+L15D438
+ ([amkjhjuij ]c_wqZan) XXX
+// Arkhan3 G perso3
+L15D439
+ ([amkjhjuij ]c_wqZan) XXX
+// Arkhan2 L perso2
+L15D440
+ CZgd! Kw - ]m~, snj o hai| amnx, | ia qjso kjnal|nx na[|. XXX
+// Arkhan2 O perso2
+L15D441A
+ FZ_azmx, oljf [wg iZ kjgxco! XXX
+// Arkhan2 O perso2
+L15D441B
+ Eia mj[mn]aiioz tfolo kldqj_dnm| kjmnj|iij mkZmZnx, Z non au~ nw! XXX
+// Arkhan3 L perso3
+L15D472
+ Fan! Fasa^j na[a bdcixz ldmfj]Znx! XXX
+// Arkhan3 O perso3
+L15D473
+ &we_atx jnmz_Z... d | na[| o[xz gdsij! XXX
+// Kalhi perso13
+L15D467
+ +Z ob, [wgj mnlZtij! Eia ia kldqj_dgjmx ] nZfda kala_l|^d kjkZ_Znx! XXX
+// Kalhi perso13
+L15D443A
+ X kjhj^gZ na[a, ]a_x nZf? XXX
+// Kalhi perso13
+L15D443B
+ Fo nZf q]Zndn d^lZnx ] mnlj^j^j _|_z! XXX
+// Kalhi perso13
+L15D444A
+ CZf mfZbatx. X [o_o b_Znx c_amx. XXX
+// Kalhi perso13
+L15D444B
+ Fj [ala^d ma[|. XXX
+// Arkhan2 L perso2
+L15D445
+ $o_x c_amx, qjljtj? XXX
+// Arkhan2 O perso2
+L15D446
+ Fa ]c_ohZe fo_Z-nj oend! XXX
+// Arkhan3 L perso3
+L15D447
+ $o_x c_amx. XXX
+// Arkhan3 O perso3
+L15D448
+ $o_x c_amx, |mij?! XXX
+// Kalhi perso13
+L15D449A
+ X oba ]cljmgZ|, nZf ]a_x? Pnj msdnZz iobiwh, nj d [o_o _agZnx. XXX
+// Kalhi perso13
+L15D449B
+ A nw ia cZklandtx hia kjhj^Znx na[a! XXX
+// Arkhan2 G perso2
+L15D450
+ G[auZe, snj [o_atx b_Znx hai| c_amx. XXX
+// Arkhan3 G perso3
+L15D451
+ Kw j[auZatx b_Znx? XXX
+// Kalhi perso13
+L15D452
+ G[auZz. XXX
+// Kalhi (hesitating) perso13
+L15D453
+ X ia ciZz... Dosta mkljmd o +ZildmZ. XXX
+// Kalhi perso13
+L15D454
+ Fan, #lqZi, | ia [jgxta n]ja^j ciZz! XXX
+// Kalhi perso13
+L15D455
+ #lqZi, kj^j]jldh j[ ynjh kjcba... XXX
+// Arkhan2 O perso2
+L04D37
+ +al~txm|, fZf nlom! XXX
+// Arkhan2 L perso2
+L04D38
+ Ve, Z nw iakgjqj _al~txm|, ]alij?! XXX
+// Arkhan3 O perso3
+L04D39
+ Gq ob... IZc]a nZf _alonm|?! XXX
+// Arkhan3 L perso3
+L04D40
+ Ve, Z nw d ]kl|hx ohaatx _lZnxm|, ]alij? XXX
+// Kalhi (frightened) perso33
+L04D42
+ Fan, #lqZi! Kw _jgbai omnj|nx! XXX
+// Kalhi (forced to defend herself) perso33
+L04D43
+ #lqZi, ian! XXX

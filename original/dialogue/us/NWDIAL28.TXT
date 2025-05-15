@@ -1,0 +1,544 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL28.TXT
+ // Archivist (fearful) perso5
+L28D100
+ Who's there? XXX
+// Arkhan2 G perso2
+L28D101
+ Arkhan. You remember me? XXX
+// Arkhan3 G perso3
+L28D102
+ Arkhan! XXX
+// Archivist (reassured) perso5
+L28D103A
+ Ah, it's you, Arkhan. XXX
+// Archivist perso5
+L28D103B
+ Come closer, closer! XXX
+// Arkhan2 L perso2
+L28D01
+ Don't be afraid, old man! XXX
+// Archivist perso5
+L28D02
+ Me? Afraid? Afraid of whom, young man? XXX
+// Arkhan2 L perso2
+L28D03A
+ Uh... of me... XXX
+// Arkhan2 L perso2
+L28D03B
+ What I mean is, maybe I startled you... XXX
+// Archivist perso5
+L28D04A
+ Do not be concerned about that, my young friend. It would take a lot more than you to frighten old Sesekhan. XXX
+// Archivist perso5
+L28D04B
+ You know, I've seen many strange things in my time as Archivist... XXX
+// Arkhan2 O perso2
+L28D05
+ Don't be afraid, ancient one! XXX
+// Arkhan2 O perso2
+L28D06
+ You want to know? Me, of course! The way I look, everyone runs away screaming! XXX
+// Arkhan3 L perso3
+L28D07
+ Don't be afraid! XXX
+// Arkhan3 L perso3
+L28D08
+ Uh... I... nothing... nothing. XXX
+// Archivist perso5
+L28D09
+ So. What brings you see the Archivist, young man? Old Sesekhan doesn't get many visitors... XXX
+// Archivist perso5
+L28D11A
+ Eh?... Oh, a visitor... Forgive me... at my age, you know... XXX
+// Archivist	perso5
+L28D11B
+ I was absorbed in my work, I didn't hear you come in... XXX
+// Arkhan2 G perso2
+L28D84
+ It's opening! XXX
+// Arkhan3 G perso3
+L28D120
+ It's opening! XXX
+// Archivist perso5
+L28D22A
+ Sorry, my young friend, I am a little hard of hearing. I do not quite understand. XXX
+// Archivist perso5
+L28D22B
+ Can you speak up? XXX
+// Arkhan2 L perso2
+L28D72A
+ Light be with you, Archivist. XXX
+// Arkhan2 L perso2
+L28D72B
+ I'm Arkhan, son of Sunseer Rylsadhar. XXX
+// Archivist perso5
+L28D73A
+ You are the son of Rylsadhar? XXX
+// Archivist perso5
+L28D73B
+ Forgive me, but I am as blind as a Temple bat. I did not recognize you. XXX
+// Archivist perso5
+L28D73C
+ And it has been many, many moons since you last came here. XXX
+// Archivist perso5
+L28D73D
+ You were just a wee scamp the last time... It's a pleasure to see you all grown up... XXX
+// Arkhan2 L perso2
+L28D74
+ Uh... yeah, me too... XXX
+// Arkhan2 O perso2
+L28D75
+ So you're the Archivist? My name is Arkhan... XXX
+// Archivist perso5
+L28D76A
+ Welcome to the Archive Room, Arkhan... XXX
+// Archivist perso5
+L28D76B
+ If you're looking for the guiding lights of knowledge, I'll do my best to help you. XXX
+// Arkhan3 L perso3
+L28D77
+ I'm Arkhan XXX
+// Arkhan2 L perso2
+L28D26
+ I'm looking for information about a crypt... XXX
+// Archivist perso5
+L28D27A
+ A crypt... Maybe you should go see Bandor the Master Builder. XXX
+// Archivist perso5
+L28D27B
+ No one knows the Stallite from top to bottom better than he does. XXX
+// Arkhan2 L perso2
+L28D28
+ The Master Builder... And where would I find him? XXX
+// Archivist perso5
+L28D29A
+ In the Builders' Palace, next-door to the Great Temple. XXX
+// Archivist perso5
+L28D29B
+ But I don't know if he will be there. XXX
+// Archivist perso5
+L28D29C
+ He often goes down to the Lower City to supervise his work sites. XXX
+// Arkhan2 O perso2
+L28D30
+ What do you know about a crypt located near here? XXX
+// Arkhan2 O perso2
+L28D31
+Oh yeah? And where would I find this "Bandor"? XXX
+// Arkhan3 L perso3
+L28D32
+ Archivist, I must find a secret crypt! XXX
+// Arkhan3 L perso3
+L28D33
+ Where is it? XXX
+// Arkhan2 L perso2
+L28D34
+ Archivist, you're wise. Do you know what weird disease has infected me? XXX
+// Archivist perso5
+L28D35A
+ The Black Rot. Yes, I have heard of it. XXX
+// Archivist perso5
+L28D35B
+ I am not a healer-Sunseer like Thanandar, but I know this is a dreadful illness. XXX
+// Archivist perso5
+L28D35C
+ Who do you say is sick? XXX
+// Arkhan2 L perso2
+L28D36A
+ Uh... a friend of mine. XXX
+// Arkhan2 L perso2
+L28D36B
+ Do you know of a cure? XXX
+// Archivist perso5
+L28D37A
+ Alas, no. The healers have been seeking a cure for centuries. XXX
+// Archivist perso5
+L28D37B
+ But no one has ever really been able to cure the Black Rot. XXX
+// Arkhan2 L perso2
+L28D38
+ I'll find a cure! XXX
+// Arkhan2 O perso2
+L28D39
+ I've got to find a cure for this dark sickness infecting me! XXX
+// Arkhan2 O perso2
+L28D40
+ I am sick, you smelly old fart! You must know of a remedy! XXX
+// Arkhan2 O perso2
+L28D41
+ Thank you, you've been helpful! XXX
+// Arkhan3 L perso3
+L28D42
+ I'm looking for a cure for  this disease! XXX
+// Arkhan3 L perso3
+L28D43
+ Do you know a cure? XXX
+// Arkhan3 L perso3
+L28D44
+ Blast it! XXX
+// Arkhan2 L perso2
+L28D45
+ You don't know anything else that... that might help me? XXX
+// Archivist perso5
+L28D46
+ Sorry, my young friend, I don't know what else to tell you... XXX
+// Arkhan2 O perso2
+L28D47
+ Boiling Blood! You could at least try to help me! XXX
+// Archivist perso5
+L28D48A
+ You are young and hot-blooded. Try relaxing, it will do you a world of good. XXX
+// Archivist perso5
+L28D48B
+ If I can help you, I will, believe me. XXX
+// Archivist perso5
+L28D48C
+ If you want, I can look in my archives for information on the Black Rot. XXX
+// Archivist perso5
+L28D48D
+ Come back later and I will tell you if I found anything. XXX
+// Arkhan2 O perso2
+L28D49
+ Hmm. Okay! XXX
+// Arkhan2 O perso2
+L28D62
+ Sure you didn't find anything else? XXX
+// Archivist perso5
+L28D61
+ No, my young friend. That's all. I'm sorry. XXX
+// Arkhan2 G perso2
+L28D52
+ So, Archivist, have you found out more about this disease from the dark? XXX
+// Archivist perso5
+L28D53A
+ Ahem, as you well know... XXX
+// Archivist perso5
+L28D53B
+ Our archives could not possibly contain all the knowledge acquired by mankind under the light of the Sun God. XXX
+// Archivist perso5
+L28D53C
+ However, I did find some writings about this sickness. XXX
+// Archivist perso5
+L28D53D
+ No mention of a remedy, but the phrase "Lightstone" crops up often. XXX
+// Arkhan2 G perso2
+L28D54
+ What kind of stone is that? XXX
+// Archivist perso5
+L28D55A
+ I do not know, but one of the writers has said this: XXX
+// Archivist perso5
+L28D55B
+ "If the stricken one is rapidly put into contact with the Lightstone, the sickness can be eradicated". XXX
+// Archivist perso5
+L28D55C
+ "But if the stricken one is treated too late, if the roots of the sickness run too deep, the victim may die... or worse". XXX
+// Archivist perso5
+L28D55D
+ That's all I could find. XXX
+// Arkhan2 G perso2
+L28D56A
+ It's better than nothing. XXX
+// Arkhan2 L perso2
+L28D56B
+ Thanks for your help, Sesekhan. XXX
+// Arkhan3 L perso3
+L28D50
+ Archivist, this is an emergency, I must have a cure! XXX
+// Archivist perso5
+L28D51A
+ It's that bad then... Yes, yes, I see, I understand... XXX
+// Archivist perso5
+L28D51B
+ Hark, I will see what I can find in my Archives about this illness. XXX
+// Arkhan3 L perso3
+L28D63
+ No more to tell me? XXX
+// Arkhan3 L perso3
+L28D57
+ Anything about this sickness from the dark? XXX
+// Arkhan3 L perso3
+L28D58
+ Anything else? XXX
+// Arkhan3 L perso3
+L28D59
+ No, not me! Never! XXX
+// Arkhan2 L perso2
+L28D12
+ I'm supposed to meet my father, Rylsadhar. Have you seen him? XXX
+// Archivist perso5
+L28D13A
+ Ah, your father is a fine man. He often comes to see me. XXX
+// Archivist perso5
+L28D13B
+ He is obsessed with the mysteries of Before. He does a lot of research. He is very learned. XXX
+// Archivist perso5
+L28D13C
+ Not like Sunseer Broguel. I pity his pea-sized brain... so tiny, banging around in that empty skull of his...! You know, one day, he... XXX
+// Arkhan2 L perso2
+L28D14
+ Okay, okay. that's enough. Have you seen my father or not? XXX
+// Archivist perso5
+L28D15A
+ Eh? Your father? Uh... Why, no, I haven't seen him since the Sun God rose today. XXX
+// Archivist perso5
+L28D15B
+ Maybe he's praying in the Rahal Room, could that not be so?... XXX
+// Arkhan2 O perso2
+L28D16
+ I'm looking for Rylsadhar. Seen him? XXX
+// Archivist perso5
+L28D17A
+ Rylsadhar? No, my young friend, I am alone here with my scrolls. XXX
+// Archivist perso5
+L28D17B
+ But maybe I can help you look through the writings of our ancestors, more recent writings, or holy manuscripts... XXX
+// Arkhan2 O perso2
+L28D18
+ Hold it! I couldn't care less about that! I want to see my father Rylsadhar! XXX
+// Arkhan3 L perso3
+L28D19
+ Have you seen Rylsadhar? XXX
+// Arkhan3 L perso3
+L28D20
+ No. I'm waiting for Rylsadhar! XXX
+// Archivist perso5
+L28D21A
+ I regret to say he is not here. XXX
+// Archivist perso5
+L28D21B
+ Maybe he is praying in the Rahal Room... XXX
+// Arkhan2 L perso2
+L28D23A
+ Sesekhan, are you sure Rylsadhar hasn't been by? XXX
+// Arkhan2 L perso2
+L28D23B
+ He was supposed to wait for me here. XXX
+// Archivist perso5
+L28D24A
+ I am sure! My poor eyes are no longer very keen, but I assure you, son of Rylsadhar, no one has come by... XXX
+// Archivist perso5
+L28D24B
+ Apart from you, of course, which is already quite an event! XXX
+// Arkhan2 O perso2
+L28D25
+ Think, old man! Are you sure that Rylsadhar hasn't been by here? XXX
+// Arkhan2 G perso2
+L28D64
+ Do you know what this is? XXX
+// Archivist perso5
+L28D65A
+ That is what Rylsadhar called "the key to the music of the spheres". XXX
+// Archivist perso5
+L28D65B
+ Although I have never heard music of that kind in the Temple. XXX
+// Archivist perso5
+L28D65C
+ In fact, the great trumpets have been silent for a long time now. XXX
+// Archivist perso5
+L28D65D
+ Before, there were many keys to music like this one. XXX
+// Archivist perso5
+L28D65E
+ But the others disappeared some time ago. Stolen, certain people claim... XXX
+// Archivist perso5
+L28D65F
+ Only Rylsadhar's remained, and so he entrusted it to safekeeping here. XXX
+// Arkhan3 G perso3
+L28D66
+ What is it? XXX
+// Arkhan2 G perso2
+L28D217
+ You ever seen this document? XXX
+// Archivist perso5
+L28D218A
+ Hm... some drawings... a short poem... XXX
+// Archivist perso5
+L28D218B
+ The handwriting is that of Rylsadhar. XXX
+// Archivist perso5
+L28D218C
+ I'd know it anywhere. XXX
+// Arkhan2 G perso2
+L28D113
+ What is this disk? XXX
+// Archivist perso5
+L28D114A
+ Magnificent, isn't it? XXX
+// Archivist perso5
+L28D114B
+ It's a relic from Before, from that glorious era when our world basked in radiant light. XXX
+// Archivist perso5
+L28D114C
+ Keep it, I hope it will bring you good luck. XXX
+// Arkhan2 G perso2
+L28D67
+ What can you tell me about it? XXX
+// Archivist perso5
+L28D68
+ What? Hmm... I really could not say... I am very sorry... XXX
+// Arkhan2 L perso2
+L28D104
+ What's going on?! XXX
+// Archivist perso5
+L28D105A
+ I am troubled, son of Rylsadhar. XXX
+// Archivist perso5
+L28D105B
+ I heard screams and horrible noises next door. XXX
+// Archivist perso5
+L28D105C
+ And something... something enormous, yes, went past my door. XXX
+// Archivist perso5
+L28D105D
+ I am old and my ears play tricks on me, but I am sure something horrible has happened. XXX
+// Arkhan2 L perso2
+L28D107A
+ Don't worry, I'll take care of it. XXX
+// Arkhan2 L perso2
+L28D107B
+ As for you, stay here and hide, it'll be safer. XXX
+// Arkhan2 O perso2
+L28D110
+ What's got you all wound up? XXX
+// Arkhan2 O perso2
+L28D111
+ Okay, calm down! I'll take care of it! XXX
+// Arkhan2 L perso2
+L28D108
+ Tell me what you heard. XXX
+// Arkhan2 O perso2
+L28D112
+ That's all? XXX
+// Archivist perso5
+L28D109A
+ Screams, women screaming. XXX
+// Archivist perso5
+L28D109B
+ And a kind of voice... it was inhuman... evil. XXX
+// Archivist perso5
+L28D109C
+ And then nothing, silence. XXX
+// Arkhan3 G perso2
+L28D115
+ What's wrong with you! XXX
+// Arkhan3 G perso2
+L28D107
+ Stay here. I'll go check it out. XXX
+// Arkhan3 G perso2
+L28D116A
+ What did you hear? XXX
+// Arkhan3 O perso2
+L28D116B
+ Talk! XXX
+// Arkhan2 G perso2
+L28D118A
+ Sesekhan, our enemies are here. XXX
+// Arkhan2 G perso2
+L28D118B
+ The Great Sunseer Lory has been assassinated! XXX
+// Archivist perso5
+L28D119A
+ Lory, dead? XXX
+// Archivist perso5
+L28D119B
+ Great Solaar, preserve us! XXX
+// Arkhan2 G perso2
+L28D121
+ Stay here, hide, and don't make any noise. XXX
+// Archivist perso5
+L28D122
+ Very well. Be careful, my young friend! XXX
+// Arkhan3 G perso3
+L28D123A
+ Our enemies are here! XXX
+// Arkhan3 G perso3
+L28D123B
+ Lory is dead! XXX
+// Arkhan3 G perso3
+L28D124
+ Stay here. Hide! XXX
+// Arkhan2 G perso2
+L28D71A
+ The History of our Stallite by Sunseer Gabka: XXX
+// Arkhan2 G perso2
+L28D71B
+ The organization of our Stallite, Sparta, dates from the time of Thelen Khron. XXX
+// Arkhan2 G perso2
+L28D71C
+ This came after construction of the Temple to the Sun God and the Great Square. XXX
+// Arkhan2 G perso2
+L28D71D
+ The Sunseers, initiated by the light of wisdom and messengers from the Sun God, welcomed into their newly-built city all of the Just who sought refuge there. XXX
+// Arkhan2 G perso2
+L28D71E
+ The Guardians of Fire, loyal servants of the Sun God, helped the Sunseers welcome, lodge, and protect the new arrivals. XXX
+// Arkhan2 G perso2
+L28D71F
+ The structures, from the finest to the most humble, were erected by the Builders. It was the famous Turkhan who planned the most resplendent of Sparta's spaces. XXX
+// Arkhan2 G perso2
+L28D71G
+ Men and women skilled in farming and hunting joined together to form the Providers. XXX
+// Arkhan2 G perso2
+L28D71H
+ And the many Scavengers -- old and young, men and women -- helped everyone make Sparta a haven of peace and light amid the Darkness... XXX
+// Arkhan2 G perso2
+L28D71I
+ Hmmm... Things aren't what they used to be, are they?! XXX
+// Arkhan3 G perso3
+L28D171A
+The History of the Stallite by Sunseer Gabka. XXX
+// Arkhan3 G perso3
+L28D171B
+ The organization of our Stallite, Sparta, dates from the time of Thelen Khron. XXX
+// Arkhan3 G perso3
+L28D171C
+ This came after construction of the Temple to the Sun God and the Great Square. XXX
+// Arkhan3 G perso3
+L28D171D
+ The Sunseers, initiated by the light of wisdom and messengers from the Sun God, welcomed into their newly-built city all of the Just who sought refuge there. XXX
+// Arkhan3 G perso3
+L28D171E
+ And The Guardians of Fire, loyal servants of the Sun God, helped the Sunseers welcome, lodge, and protect the new arrivals. XXX
+// Arkhan3 G perso3
+L28D171F
+ The structures, from the finest to the most humble, were erected by the Builders. It was the famous Turkhan who planned the most resplendent of Sparta's spaces. XXX
+// Arkhan3 G perso3
+L28D171G
+ Men and women skilled in farming and hunting joined together to form the Providers. XXX
+// Arkhan3 G perso3
+L28D171H
+ And the many Scavengers -- old and young, men and women -- helped everyone make Sparta a haven of peace and light amid the Darkness... XXX
+// Arkhan3 G perso3
+L28D171I
+ That's old stuff! XXX
+// Arkhan2 L perso2
+L28D82
+ There's a mechanism, but I can't get it to work. XXX
+// Arkhan2 O perso2
+L28D83
+ Piece of crap! XXX
+// Arkhan3 G perso3
+L28D97
+ What's this mechanism? XXX
+// Arkhan3 G perso3
+L28D99
+ There's nothing left!! XXX
+// Arkhan2 L perso2
+L28D88
+ There's something here. XXX
+// Arkhan2 O perso2
+L28D87
+ What's this gizmo?! XXX
+// Arkhan3 L perso3
+L28D90
+ Some kind of gizmo here! XXX
+// Arkhan3 O perso3
+L28D92
+ What's this thing? XXX
+// Arkhan2 G perso2
+L28D69
+ Hmm... The writing's illegible... XXX
+// Arkhan3 G perso3
+L28D70
+ (grunting)... illegible... XXX

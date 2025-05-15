@@ -1,0 +1,67 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL45.TXT
+ // Delia perso10
+L16D122
+ Przestan! Boje sie Ciebie! XXX
+// Arkhan2 G perso2
+L45D15
+ Tylko te schody, prowadza na gore... XXX
+// Arkhan3 G perso3
+L45D16
+ Tedy, w gore! XXX
+// Delia perso10
+L45D17
+ Chodzmy. XXX
+// Delia (Arkhan shows her an object) perso10
+L02D104
+ Nie. Prosze, pospiesz sie... XXX
+// Arkhan2 L (has fought with Delia) perso2
+L45D01
+ Przestan Delia. Uspokoj sie! XXX
+// Arkhan2 O (has fought with Delia) perso2
+L45D02
+ Chcesz jeszcze szmato?! XXX
+// Arkhan3 L (has fought with Delia) perso3
+L45D03
+ Przestan! XXX
+// Delia (hit by Arkhan) perso10
+L45D04
+ Co w ciebie wstapilo?!? XXX
+// Arkhan2 G perso2
+L45D05
+ Wroce... XXX
+// Arkhan3 G perso3
+L45D06
+ Wroce... XXX
+// Arkhan2 G perso2
+L45D07
+ Nic tu nie zostalo. XXX
+// Arkhan3 G perso3
+L45D08
+ Nic nie ma. XXX
+// Arkhan2 L perso2
+L45D200
+ Beczki znikly! XXX
+// Arkhan3 L perso3
+L45D201
+ Nie ma beczek! XXX
+// Arkhan1 L perso1
+L45D09A
+ Lancuch jest zardzewialy. XXX
+// Arkhan1 L perso1
+L45D09B
+ To kolo pamieta lepsze czasy. XXX
+// Arkhan2 L perso2
+L45D10
+ Bezuzyteczne, sama rdza.  XXX
+// Arkhan3 L perso3
+L45D11
+ Bezuzyteczne, wszystko przerdzewialo. XXX
+// Arkhan1 O (hitting the pulley) perso1
+L45D12
+ Bezuzyteczny szmelc! XXX
+// Arkhan2 O (hitting the pulley) perso2
+L45D13
+ Przerdzewiale! XXX
+// Arkhan3 O (hitting the pulley) perso3
+L45D14
+ Zardzewiale! XXX

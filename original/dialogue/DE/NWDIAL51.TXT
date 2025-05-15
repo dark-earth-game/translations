@@ -1,0 +1,97 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL51.TXT
+ // Arkhan2 G (ist einer Explosion knapp entgangen)perso2
+L51D17
+ Verdammt, das war knapp! XXX
+// Arkhan3 G (ist einer Explosion knapp entgangen)perso3
+L51D18
+ Verdammt, das war knapp! XXX
+// Arkhan2 G (erstaunt) perso2
+L51D01A
+ Unglaublich ... XXX
+// Arkhan2 G (erstaunt) perso2
+L51D01B
+ Der Brunnen ist nicht mehr da ... XXX
+// Arkhan3 G (erstaunt) perso3
+L51D02A
+ Unglaublich ... XXX
+// Arkhan3 G perso3
+L51D02B
+ Der Brunnen ... wie weggeblasen ... XXX
+// Arkhan2 G perso2
+L51D107
+ Das ganze Tor ist aus den Angeln gerissen. XXX
+// Arkhan3 G perso3
+L51D108
+ Das ganze Tor ... herausgerissen ... XXX
+// Arkhan2 L perso2
+L51D03
+ Es fehlt ein Blatt ... So nützt er mir nichts ... XXX
+// Arkhan3 L perso3
+L51D04
+ Es fehlt ein Blatt ... Nutzlos ... XXX
+// Arkhan2 G perso2
+L51D100A
+ Der Propeller vom Brunnen ... XXX
+// Arkhan2 G perso2
+L51D100B
+ Die Explosion hat ihn heruntergerissen. XXX
+// Arkhan3 G perso3
+L51D101A
+ Der Propeller vom Brunnen ... XXX
+// Arkhan3 G perso3
+L51D101B
+ Durch die Explosion herausgerissen ... XXX
+// Arkhan2 O perso2
+L51D05
+ Der ist hin, zu nichts mehr nütze! XXX
+// Arkhan3 O perso3
+L51D06
+ Nutzlos! XXX
+// Arkhan2 L (zögert wie ein Fallschirmspringer beim ersten Sprung) perso2
+L51D07
+ Nein ... Das kann einfach nicht gut gehen ...! XXX
+// Arkhan3 L (zögert wie ein Fallschirmspringer beim ersten Sprung) perso3
+L51D08
+ Nein ... Das kann nicht gut gehen! XXX
+// Arkhan2 O (entschließt sich zu springen)perso2
+L51D09
+ Ach, ich hab' doch nichts zu verlieren! XXX
+// Arkhan3 O (entschließt sich zu springen)perso3
+L51D10
+ Irgendwann muß jeder dran glauben! XXX
+// Arkhan2 G perso2
+L51D111
+ Es wird zu heiß, ich kann nicht weiter. XXX
+// Arkhan3 G perso3
+L51D112
+ Welche Hitze! Weiter kann ich nicht ... XXX
+// Arkhan2 G (hat den Propeller repariert)perso2
+L51D13
+ Ich hab's geschafft, er ist wieder heil. XXX
+// Arkhan3 G (hat den Propeller repariert)perso3
+L51D14
+ Der ist wieder heil. XXX
+// Arkhan2 G (untersucht die Reparatur)perso2
+L51D15
+ Hoffentlich hält das. XXX
+// Arkhan3 G (untersucht die Reparatur)perso3
+L51D16
+ Hoffentlich hält das. XXX
+// Arkhan2 G perso2
+L51D113
+ Die Plattform ist völlig zerstört. XXX
+// Arkhan3 L perso3
+L51D114
+ Die Plattform ... zerstört. XXX
+// Arkhan2 G perso2
+L51D103
+ Nichts als Steine ... XXX
+// Arkhan3 G perso3
+L51D104
+ Nichts als Geröll ... XXX
+// Arkhan2 G perso2
+L51D105
+ Völlig zerfallen. XXX
+// Arkhan3 G perso3
+L51D106
+ Völlig kaputt. XXX

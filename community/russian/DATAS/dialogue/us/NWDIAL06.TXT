@@ -1,0 +1,607 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL06.TXT
+ // Dhorkan (A. had left after hitting him) perso11
+L06D03A
+ CZf nw mhaatx mij]Z |]g|nxm| mz_Z? XXX
+// Dhorkan perso11
+L06D03B
+ $jgxta ia mhae hia o^ljbZnx! XXX
+// Dhorkan perso11
+L06D43A
+ Pnj ynj nw ]_lo^ ]c_ohZg... ]gZhw]Znxm| mz_Z ]jn nZf? XXX
+// Dhorkan (unpleasantly surprised to see Arkhan) perso11
+L06D43B
+ #lqZi? Kw?! Kw... ]m~ au~ c_amx?! XXX
+// Dhorkan perso11
+L06D43C
+ Fo, mij]Z nw! XXX
+// Dhorkan perso11
+L06D44A
+ HlaflZnd ]gZhw]Znxm| mz_Z! XXX
+// Dhorkan perso11
+L06D44B
+ Kw qjn| [w ]wkjgidg nj, snj | na[a kldfZcZg? XXX
+// Dhorkan (threatening) perso11
+L06D44C
+ Gk|nx? X ]lj_a [w kla_oklab_Zg na[|! XXX
+// Dhorkan (threatening) perso11
+L06D44D
+ L[dlZem|, ia nj hje has iZkjhidn na[a, fnj non ^gZ]iwe! XXX
+// Dhorkan (Arkhan attacks him) perso11
+L06D32
+ JnlZbd j^i|! Cj hia! XXX
+// Arkhan1 L perso1
+L06D42A
+ +Z kla[o_an m ]Zhd J]an, fjhai_Zin +jlfZi! XXX
+// Dhorkan perso11
+L06D05A
+ #, #lqZi, ynj nw. XXX
+// Arkhan1 L (apologizing) perso1
+L06D42B
+ Cjhai_Zin +jlfZi, kljmndna, |... | [wg... y... XXX
+// Arkhan1 O  (offhand)perso1
+L06D42C
+ Hld]an, fjhai_Zin! XXX
+// Arkhan1 O (making excuses/with girlfriend) perso1
+L06D42D
+ Cjhai_Zin +jlfZi, ynj >a_... V... ji cZ_albZg hai|... XXX
+// Dhorkan perso11
+L06D05B
+ GmnZ]x cZijmsd]jmnx d ^gokwa jn^j]jlfd. Eia ia _j idq! XXX
+// Dhorkan perso11
+L06D05C
+ &agdfZ| klj]d_drZ Djld omnlZd]Zan ]Zbioz ]mnlaso ] qlZha $j^Z JjgirZ. XXX
+// Dhorkan perso11
+L06D05D
+ Ka[a kjlosaij jqlZi|nx _]alx ] >Zg mj]anZ. XXX
+// Dhorkan perso11
+L06D05E
+ JnlZb +ba_Zl oba b_~n na[|. XXX
+// Dhorkan perso11
+L06D05F
+ Jkomndmx d cZehd m]je kjmn _j kj|]gaid| &agdfje klj]d_drw. XXX
+// Dhorkan (irritated) perso11
+L06D04
+ Pnj nw c_amx _agZatx? &alidmx iZ m]je kjmn iaha_gaiij! XXX
+// Dhorkan perso11
+L06D06A
+ JnlZb j^i|, jnklZ]g|em| d cZmnokd iZ m]je kjmn iaha_gaiij! XXX
+// Dhorkan perso11
+L06D06B
+ #lqZi! Cj^_Z | jn_Zz kldfZc, ji _jgbai [wnx dmkjgiai! XXX
+// Dhorkan perso11
+L06D06C
+ Hjfdix fZcZlhw d kldhfid f +ba_Zlo _j kj|]gaid| &agdfje klj]d_drw! XXX
+// Dhorkan perso11
+L06D06D
+ Vnj iakj]dij]aida! XXX
+// Dhorkan (preparing to unsheathe his sword) perso11
+L06D06E
+ &alidmx iZ m]je kjmn, dgd | klakj_Zh na[a oljf, fjnjlwe nw iamfjlj cZ[o_atx! XXX
+// Dhorkan perso11
+L06D06F
+ Fo ]m~, nw cZmgobdg kld]dga^dz jn]a_Znx hja^j fgdifZ! XXX
+// Dhorkan perso11
+L06D28Z
+ Kw kalakjgidg sZto! *jnj]xm| f mhalnd! XXX
+// Phedoria (alarmed) perso26
+L06D84
+ CjhZi_dl! XXX
+// Phedoria perso26
+L06D07
+ #lqZi! L[derZ! XXX
+// Phedoria perso26
+L06D62
+ Jnj|nx, +jlfZi. Kw kj_ Zlamnjh! XXX
+// Dhorkan perso11
+L06D39
+ Hljmnj_otiwa d_djnw! &Zh ia ]c|nx hai|! XXX
+// Phedoria (fires at Dhorkan and misses) perso26
+L06D40
+ Hljfg|nxa! HljhZqiogZmx! XXX
+// Arkhan2 G perso2
+L06D35A
+ Fagxc| _Znx aho oend! XXX
+// Arkhan3 G perso3
+L06D35B
+ FZ_j jmnZij]dnx a^j! XXX
+// Phedoria perso26
+L06D41
+ $a^d cZ idh, | kla_oklabo Djld! XXX
+// Arkhan2 O (furious) perso2
+L06D33B
+ Cg|iomx m]jdh j^i~h... nw kljhZcZgZ iZljsij! XXX
+// Arkhan3 O (furious) perso3
+L06D33D
+ =Zgfde o[gz_jf! Gi oqj_dn! XXX
+// Arkhan2 G perso2
+L06D82
+ +jlfZi mhwgm|! XXX
+// Arkhan3 G perso3
+L06D83
+ +jlfZi ot~g! XXX
+// Dhorkan (commanding) perso11
+L06D77B
+ Njljtj, | ia _albo na[|. XXX
+// Dhorkan perso11
+L06D214B
+ Pnj nw c_amx cZ[wg, ]whanZem|! XXX
+// Dhorkan (domineering) perso11
+L06D16A
+ G... Kw cZ[w]Zatxm|, #lqZi! XXX
+// Dhorkan perso11
+L06D53B
+ L[dlZem|, kjfZ ia iZl]Zgm| iZ iakld|nijmnd! XXX
+// Dhorkan perso11
+L06D16F
+ # nakalx ]whanZem|! XXX
+// Dhorkan perso11
+L06D80C
+ +Z]Ze, ]whanZem|! XXX
+// Dhorkan perso11
+L06D18C
+ Gq, oe_d m ^gZc _jgje, ] fjhiZna oba iasah _wtZnx! XXX
+// Dhorkan perso11
+L06D20
+ Amsacid, [jgxije olj_, kjfZ | na[| ia klj_wl|]dg! XXX
+// Dhorkan (arrogant) perso11
+L06D26A
+ Kw d klZ]_Z latdg mj hije mgZ_dnx? Kw ba kljmnj qj_|sZ| fosZ ^idgx|! XXX
+// Dhorkan (arrogant) perso11
+L06D26H
+ Kw... _Z nw ]ma^j gdtx bZgfde olj_. Ka[a ia dmko^Znx hai|! XXX
+// Dhorkan perso11
+L06D05G
+ #lqZi! Hjmnje, jmnZixm|! XXX
+// Dhorkan perso11
+L06D54A
+ #lqZi! XXX
+// Dhorkan perso11
+L06D54B
+ +Ze-fZ | lZmmnZ]gz ]ma njsfd iZ_ "d". X kje_o iZ]mnlaso, ij ia ]jc]lZuZem| [ac dipjlhZrdd, dinalamozuae hai|! XXX
+// Dhorkan perso11
+L06D54C
+ Gniwia d ]kla_x dhaiij | klZ]gz mnZggZenjh. XXX
+// Dhorkan perso11
+L06D54D
+ Njljtaixfj cZkjhid, amgd ia qjsatx _j fjirZ _iae sZqionx ] mwlje fZhala. XXX
+// Dhorkan perso11
+L06D54E
+ VnZ osZmnx jbd_Zan fZb_j^j, fnj kjmhaan kljnd] hai| ]wmnokdnx! XXX
+// Arkhan1 G perso1
+L06D09A
+ CZfje-nj haqZidch. XXX
+// Arkhan2 G perso2
+L06D09B
+ CZfje-nj haqZidch ]lj_a cZhfZ. XXX
+// Arkhan3 G perso3
+L06D09C
+ EaqZidch. XXX
+// Arkhan2G perso2
+L06D669
+ +jlfZi, _jgbij [wnx, klj[abZg c_amx... XXX
+// Arkhan3G perso3
+L06D670
+ +jlfZi, _jgbij [wnx, klj[abZg c_amx... XXX
+// Arkhan1 L (not happy about being put on guard duty) perso1
+L06D10A
+ Cjhai_Zin +jlfZi, hjban, | [wg [w kjgaciae... y... XXX
+// Arkhan1 O (not happy about being put on guard duty) perso1
+L06D10B
+ & fZlZoga m +ba_Zljh? G, ian! Ejban, | iobai ^_a-nj au~? XXX
+// Dhorkan (irritated) perso11
+L06D10C
+ +j]jgxij, #lqZi! Vnj kl|hja lZmkjl|baida mZhje &agdfje klj]d_drw Djld! XXX
+// Dhorkan (irritated) perso11
+L06D10D
+ Faha_gaiij jnklZ]g|em| ]idc d cZmnokZe iZ kjmn! XXX
+// Arkhan1 L perso1
+L06D11A
+ &mnlasZ m &agdfje klj]d_drae? A fnj qjsan ]d_anx a~? XXX
+// Arkhan1 O perso1
+L06D11B
+ Cjho ynj o_Zgjmx ]wnZudnx &agdfoz klj]d_dro dc kjmnagd ] nZfoz lZix? XXX
+// Dhorkan (surprised by A's arrogance, then catches himself) perso11
+L06D12A
+ Cjho? KZf... Jga_d cZ m]jdh |cwfjh, mnlZb... kljmnj dmkjgi|e kldfZcw! XXX
+// Dhorkan perso11
+L06D12B
+ $ald jlobda d kjmkatd ]mnlandnx &agdfoz klj]d_dro ]idco. XXX
+// Arkhan1 L perso1
+L06D01A
+ X... XXX
+// Arkhan1 O perso1
+L06D01B
+ Fj... XXX
+// Dhorkan perso11
+L06D666
+ GnklZ]g|em|, cZmnokZe iZ kjmn! XXX
+// Arkhan2 L perso2
+L06D13A
+ +jlfZi, | [jgai! XXX
+// Arkhan2 L perso2
+L06D13B
+ FZkZ]tda iZ &agdfoz klj]d_dro... jnlZ]dgd hai| ynje s~lije _l|ixz! XXX
+// Arkhan2 L perso2
+L06D13C
+ *j]jl|n, | dc mnZiZ ]lZ^Z. Vnj ia nZf: | ]wkjgi|g m]je _jg^, d njgxfj! XXX
+// Arkhan2 O perso2
+L06D14A
+ +jlfZi, lZclZcd na[| ElZf, jncj]d mnlZbae j^i|! XXX
+// Arkhan2 O perso2
+L06D14B
+ Hj_jijf, iZkZ]tde iZ Djld, jnlZ]dg hai|... # nakalx mZhd mnlZbd kwnZznm| hai| o[dnx! XXX
+// Arkhan2 O perso2
+L06D14C
+ X ]wkjgi|g m]je _jg^... X iZ ]Ztae mnjljia. &w _jgbiw cZudndnx hai|! XXX
+// Arkhan3 L perso2
+L06D63
+ FZkZ]tda iZ Djld jnlZ]dgd hai|... &ma cZ hije jqjn|nm|. Eia iobiZ kjhjux! XXX
+// Arkhan3 O (irritated) perso2
+L06D64
+ +jlfZi, | [jgai... hj| bdcix ] jkZmijmnd. Kw _jgbai kjhjsx hia! XXX
+// Dhorkan perso11
+L06D45A
+ Lmkjfjem|, omkjfjem|... XXX
+// Dhorkan perso11
+L06D45B
+ Pnj mfZcZg ragdnagx KZiZi_Zl? XXX
+// Arkhan2 G perso2
+L06D46A
+ Gi lZmmfZcZg hia j mfgaka, ] fjnjljh hjban [wnx gafZlmn]j... XXX
+// Arkhan2 G perso2
+L06D46B
+ Gi mfZcZg hia kjend f jnro... hjg hje jnar hjban jn]amnd hai| no_Z. XXX
+// Arkhan3 G perso3
+L06D47A
+ Gi ^j]jldg j mfgaka, j gafZlmn]a. JfZcZg, hje jnar jn]a_~n hai|. XXX
+// Dhorkan perso11
+L06D65A
+ Potx! KZiZi_Zl mjg^Zg, snj[w ]magdnx ] na[| iZ_ab_o. XXX
+// Dhorkan perso11
+L06D65B
+ HlZ]_Z ] njh, snj... klj]d_rw [jgxta ia fjinljgdlozn mdnoZrdz. XXX
+// Dhorkan (bragging) perso11
+L06D65C
+ &jn kjsaho | [wg ]wiob_ai ]c|nx mnZggZen kj_ m]je fjinljgx! XXX
+// Dhorkan (suddenly affable) perso11
+L06D65D
+ Kw ciZatx, fZf mdgxij | o]ZbZz n]ja^j jnrZ d &agdfoz klj]d_dro Djld. XXX
+// Dhorkan perso11
+L06D65E
+ X j[v|]dg ]jaiija kjgjbaida, snj[w iZ_~biaa dq cZudndnx. XXX
+// Dhorkan perso11
+L06D65F
+ Pnj _j na[|... Kw jkla_ag~iij [wg jngdsiwh mnlZbah j^i|. XXX
+// Dhorkan perso11
+L06D65G
+ Fj fnj nakalx kjlosdnm|, snj na[a au~ hjbij _j]al|nx? XXX
+// Arkhan2 L perso2
+L06D72A
+ +jlfZi, fg|iomx $j^jh JjgirZ... X ia mjn]jldg cgZ. XXX
+// Arkhan2 L perso2
+L06D72B
+ KZiZi_Zl hjban cZm]d_anagxmn]j]Znx ynj... X ]m~ au~ sagj]af. XXX
+// Arkhan2 O perso2
+L06D73A
+ X idsa^j ia m_agZg! &m~ _agj ] jmnZgxiwq... Gid [j|nm| hai|! XXX
+// Arkhan2 O perso2
+L06D73B
+ X ]m~ au~ sagj]af. Jkljmdna ragdnag|! XXX
+// Arkhan3 L perso3
+L06D74
+ X ia kla_Znagx! Fj nakalx hia idfnj ia ]aldn! XXX
+// Arkhan3 O perso3
+L06D75
+ Fj | ia m_agZg idsa^j _olij^j! XXX
+// Dhorkan perso11
+L06D76A
+ Ejban, d ian, ij KZiZi_Zlo ]m~ ba ia mnjdgj na[| ]wkomfZnx... XXX
+// Dhorkan perso11
+L06D76B
+ <^j _agj ragdnagxmn]j. # lZc_Z]Znx mj]anw ia ] a^j fjhkanairdd! XXX
+// Dhorkan perso11
+L06D76C
+ X aho ia _j]al|z. <mgd qjsatx, snj[w na[| kldi|gd j[lZnij, _jfZbd m]jz kla_Ziijmnx hia. XXX
+// Dhorkan perso11
+L06D76D
+ &alidmx f KZiZi_Zlo, Z cZnah lZmmfZbatx hia ]m~, snj ji ^j]jldg d _agZg. XXX
+// Dhorkan perso11
+L06D76E
+ JnokZe! XXX
+// Arkhan2 G perso2
+L06D48A
+ X ia mhj^ iZend KZiZi_ZlZ... XXX
+// Arkhan3 G perso2
+L06D48B
+ X ia mhj^ iZend KZiZi_ZlZ... XXX
+// Dhorkan perso11
+L06D51A
+ Kj^_Z o[dlZem| jnmz_Z. L hai| hij^j _ag! XXX
+// Dhorkan perso11
+L06D51B
+ +lo^je _Z]ij [w oba cZfj]Zg na[| ] fZi_Zgw! XXX
+// Dhorkan perso11
+L06D51C
+ X jsaix o]ZbZz na[|, ij ia mnjdn cgjokjnla[g|nx hjdh ]agdfj_otdah! XXX
+// Arkhan2 L perso2
+L06D204A
+ X ]aliogm| f KZiZi_Zlo. XXX
+// Arkhan2 L perso2
+L06D204B
+ Gi cZi|n: gasdn fj^j-nj. XXX
+// Arkhan3 L perso2
+L06D205A
+ X mij]Z ]d_ag KZiZi_ZlZ. XXX
+// Arkhan3 L perso2
+L06D205B
+ Gi... fj^j-nj gasdn. XXX
+// Dhorkan perso11
+L06D206A
+ Nh... Gsaix qjljtj... XXX
+// Dhorkan perso11
+L06D206B
+ <mgd snj-nj kljdcje_~n, iaha_gaiij _jgjbd. XXX
+// Dhorkan perso11
+L06D206C
+ # kjfZ mnZlZem| ia ]wmj]w]Znxm|... +lo^da mnlZbd j^i| ia mnjgx nalkdhw, fZf |. XXX
+// Arkhan2 O perso2
+L06D207A
+ X ]d_ag KZiZi_ZlZ. XXX
+// Arkhan2 O perso2
+L06D207B
+ Gi kwnZanm| cZgZnZnx gdrj +ZgidmZ. XXX
+// Arkhan2 O perso2
+L06D207C
+ Hjmga nj^j, snj | m idh m_agZg, ynj [o_an iaga^fj! XXX
+// Arkhan3 O perso3
+L06D208A
+ X ]d_ag KZiZi_ZlZ. XXX
+// Arkhan3 O perso3
+L06D208B
+ Gi nlZndn ]lah|, kwnZ|mx mkZmnd +ZgidmZ! XXX
+// Arkhan3 O perso3
+L06D208C
+ Hjmga hjae ]c[osfd... aho kjhjban gdtx so_j $j^Z JjgirZ! XXX
+// Dhorkan (angry) perso11
+L06D209A
+ #lqZi, ia cZ[w]Ze, m fah nw lZc^j]Zld]Zatx! XXX
+// Dhorkan perso11
+L06D209B
+ A | [w iZ n]j~h hamna ia cZ|]g|gm| mz_Z, [Zq]Zg|mx, snj jn_agZg mnlZbZ j^i|. XXX
+// Dhorkan perso11
+L06D209C
+ L[dlZem|, kjfZ | ia cZ[wg j m]jdq mdhkZnd|q f na[a! XXX
+// Arkhan2 L perso2
+L06D210
+ KZiZi_Zl ]m~ au~ o kjmnagd +ZgidmZ. XXX
+// Arkhan2 O perso2
+L06D211
+ KZiZi_Zl ]m~ au~ cZtd]Zan +ZgidmZ. XXX
+// Arkhan3 L perso3
+L06D212
+ KZiZi_Zl ]m~ au~ cZidhZanm| +Zgidmjh. XXX
+// Arkhan3 O perso3
+L06D213
+ KZiZi_Zl cZtd]Zan +ZgidmZ! XXX
+// Dhorkan perso11
+L06D214A
+ Fa mnjdgj hai| [amkjfjdnx, snj[w mfZcZnx njgxfj ynj. XXX
+// Arkhan2 G perso2
+L06D49A
+ Eia kldtgjmx o[dnx KZiZi_ZlZ! XXX
+// Arkhan2 G perso2
+L06D49B
+ L hai| ia [wgj ]w[jlZ... Gi iZkZg kal]wh! XXX
+// Arkhan2 G perso2
+L06D49C
+ A m idh [wg au~ fja-fnj... XXX
+// Arkhan3 G perso3
+L06D50A
+ X o[dg KZiZi_ZlZ. <^j d au~ j_ij^j kZli|... XXX
+// Dhorkan perso11
+L06D77A
+ KZiZi_Zl h~ln]? Hla]jmqj_ij! Ejd jkZmaid| [wgd [amkjs]aiiw. XXX
+// Arkhan2 G perso2
+L06D78
+ +Z, ij kjmnje... XXX
+// Arkhan3 G perso3
+L06D79
+ Hjmnje... XXX
+// Dhorkan (interrupting Arkhan) perso11
+L06D80A
+ #lqZi, | sagj]af mgj]Z. X mj[dlZzmx jnkomndnx na[|... XXX
+// Dhorkan perso11
+L06D80B
+ Fj ia ]mnZ]Ze o hai| iZ kond! XXX
+// Arkhan2 L perso2
+L06D21A
+ Eje jnar mfZcZg, snj qjnag iZiamnd na[a ]dcdn... *_a ji? XXX
+// Arkhan2 O perso2
+L06D21B
+ Eje jnar kldqj_dg f na[a... JfZbd hia, ^_a ji! XXX
+// Arkhan3 L perso3
+L06D21C
+ *_a hje jnar? XXX
+// Arkhan3 O perso3
+L06D21D
+ JaesZm nw mfZbatx hia, ^_a hje jnar! XXX
+// Dhorkan (pretending not to know where Rylsadhar is) perso11
+L06D22A
+ K]je jnar? +Z jnfo_Z hia ciZnx? HjgZ^Zz, ji oflwgm| ^_a-id[o_x... ] [acjkZmijh hamna. XXX
+// Dhorkan perso11
+L06D22B
+ # nakalx dmsacid... <mgd ia qjsatx jfZcZnxm| cZ lat~nfje! XXX
+// Arkhan2 G perso2
+L06D52A
+ Fj lZc]a hw ia _jgbiw... XXX
+// Arkhan3 G perso3
+L06D52B
+ +jlfZi, kj^j_d... XXX
+// Dhorkan perso11
+L06D53A
+ #lqZi! Hlj]d_rw _Zgafj ia nZf ]agdfj_otiw, fZf |. XXX
+// Arkhan2 L perso2
+L06D15A
+ +jlfZi, hia iobiZ n]j| kjhjux. XXX
+// Arkhan2 O perso2
+L06D81A
+ &jn ciZsdn fZf! X na[a [jgxta ia iobai, kjynjho nw ^jnj] jn hai| dc[Z]dnxm|! XXX
+// Arkhan2 O perso2
+L06D81B
+ +jlfZi, nw ia _jmnjdi m]ja^j hamnZ. Kw hia halcjf! XXX
+// Arkhan3 L perso3
+L06D15C
+ +jlfZi, kljto. <mgd nw ia kjhjbatx hia, o hai| ian tZimj]! XXX
+// Arkhan3 O perso3
+L06D15D
+ *ijeidf ]jizsde, nw qjsatx hai| ]wt]wlionx! XXX
+// Dhorkan perso11
+L06D16B
+ Kw iZkZg iZ mnlZbae j^i|... G_ij ynj _jmnjeij dc^iZid|! XXX
+// Dhorkan perso11
+L06D16C
+ X na[| o]ZbZg, kjynjho kjc]jgz na[a kljmnj oend. XXX
+// Dhorkan perso11
+L06D16D
+ <mgd na[a iobiZ kjhjux, d_d kjkgZsxm| klj]d_rZh! XXX
+// Dhorkan perso11
+L06D16E
+ K]j| kasZgxiZ| osZmnx iZ dq mj]amnd! XXX
+// Arkhan2 L perso2
+L06D17A
+ # mfgak, j fjnjljh KZiZi_Zl ^j]jldg... XXX
+// Arkhan2 O perso2
+L06D17B
+ Njn| [w mfZbd hia, snj nw ciZatx j mfgaka! XXX
+// Arkhan3 G perso3
+L06D17C
+ Pnj nw ciZatx j mfgaka? XXX
+// Dhorkan (scornful) perso11
+L06D18A
+ Kjn mfgak... ynj au~ j_iZ ]w_ohfZ klj]d_ra] - jid iZ_ogd na[|. XXX
+// Dhorkan perso11
+L06D18B
+ Hldhd hje mj]an: cZ[o_x ]mz yno gjbx. XXX
+// Arkhan2 L perso2
+L06D19A
+ Kw lZcjsZlj]w]Zatx hai|, +jlfZi. XXX
+// Arkhan2 L perso2
+L06D19B
+ Kw iZcw]Zatx ma[| ^gZ]iwh, ij nw kljmnj nlom iamsZmniwe! XXX
+// Arkhan2 O perso2
+L06D19C
+ Cg|iomx m]jdh j^i~h... nw kljmnj nlom iamsZmniwe! XXX
+// Arkhan3 L perso3
+L06D19D
+ Kw qjsatx ]wt]wlionx hai|! XXX
+// Arkhan3 O perso3
+L06D19E
+ Hla_Znagx! XXX
+// Arkhan2 G (plays his trump) perso2
+L06D23A
+ JgotZe... kj^j]jldh j... JGI+GJ<! XXX
+// Arkhan3 G (plays his trump) perso3
+L06D23B
+ E-h... kj^j]jldh j... JGI+GJ<! XXX
+// Dhorkan (caught off-balance) perso11
+L06D24
+ Pnj? Pnj... FZ snj nw iZhafZatx? XXX
+// Arkhan2 L perso2
+L06D25A
+ X ciZz ]m~. A nla[oz j[v|miaide! XXX
+// Arkhan2 O perso2
+L06D25B
+ X ciZz ]m~! XXX
+// Arkhan3 G (threatening) perso3
+L06D25D
+ X ciZz ]m~, [acohar! XXX
+// Dhorkan (arrogant) perso11
+L06D26B
+ Kw _ohZatx, snj ]m~ ciZatx, ij n]je [jgxije oh ia ] mdgZq snj-gd[j kji|nx. XXX
+// Dhorkan (arrogant) perso11
+L06D26C
+ L hai| [jgxtda ]d_w iZ ynjn mnZggZen. XXX
+// Dhorkan (arrogant) perso11
+L06D26D
+ Hlj]d_rw mgZ[w... Gid ia mkjmj[iw f kldi|ndz iaj[qj_dhwq lataide. XXX
+// Dhorkan (arrogant) perso11
+L06D26E
+ Ej~ klZ]gaida kjgjbdn iZsZgj ij]je yla! XXX
+// Dhorkan (arrogant) perso11
+L06D26F
+ A amgd kjiZ_j[dnm| mjendmx m hlZcxz ]lj_a Jjl_jmZ, snj[w _jiamnd hjd ]agdfda kgZiw _j bZgfdq sal]ae, iZmag|zudq JkZlno, nj... XXX
+// Dhorkan (arrogant) perso11
+L06D26G
+ X m_agZz ynj [ac fjga[Zide! XXX
+// Dhorkan (disdainful) perso11
+L06D26I
+ JfZbd, io fnj kj]aldn, snj fomjf kgamaid ]lj_a na[| - au~ sagj]af? XXX
+// Dhorkan (disdainful) perso11
+L06D26J
+ +Zba n]jd _locx| j[lZndgdmx kljnd] na[|! XXX
+// Arkhan2 G (threatening) perso2
+L06D27
+ Cg|iomx m]anjh $j^Z JjgirZ, | |]gz n]j~ dmndiija gdrj ]maho hdlo! XXX
+// Arkhan3 G perso3
+L06D667A
+ Co_Z [w nw id mflwgm|, sa^j [w ynj id mnjdgj, | _j[alomx _j na[|! XXX
+// Arkhan3 G perso3
+L06D667B
+ &ma ociZzn, fnj iZ mZhjh _aga so_j]dua! XXX
+// Dhorkan perso11
+L06D28A
+ Fdfnj na[a ia kj]aldn. Ka[a iobiw _jfZcZnagxmn]Z. XXX
+// Dhorkan perso11
+L06D28B
+ # o na[| dq ian! XXX
+// Arkhan1 G perso1
+L06D200
+ Cjhai_Zin, ciZatx, snj ynj nZfja? XXX
+// Dhorkan (dry) perso11
+L06D203
+ +j]jgxij! Eia snj cZ _agj?! XXX
+// Arkhan1 G perso1
+L06D66
+ $ala^dmx, +jlfZi! XXX
+// Arkhan2 G perso2
+L06D67
+ Lhld, +jlfZi! XXX
+// Arkhan3 G perso3
+L06D68
+ Lhld! XXX
+// Arkhan2 G perso2
+L06D69
+ K]je sZm iZmnZg, kla_Znagx! XXX
+// Arkhan3 G perso3
+L06D70
+ Lhld, kla_Znagx! XXX
+// Arkhan2 L perso2
+L06D33A
+ HjnZeije qj_! >Z idh! XXX
+// Arkhan3 L perso3
+L06D33C
+ &c|nx a^j! XXX
+// Phedoria (to herself) perso26
+L06D34A
+ X ia ciZgZ, snj non amnx kjnZeije qj_. XXX
+// Phedoria perso26
+L06D34B
+ Fa mnjen mnjg[jh, cZ idh! XXX
+// Phedoria (furious) perso26
+L06D60
+ +j]jgxij! FZe_d +jlfZiZ! XXX
+// Phedoria perso26
+L23D107
+ Kw kj_kdmZg ma[a kld^j]jl! XXX
+// Arkhan2 G perso2
+L06D55C
+ Fdsa^j. XXX
+// Arkhan3 G perso3
+L06D55D
+ Fd salnZ. XXX
+// Phedoria perso26
+L06D61A
+ Kw _Z]Ze no_Z! XXX
+// Phedoria perso26
+L06D61B
+ # | kjklj[oz jnflwnx kljqj_! XXX

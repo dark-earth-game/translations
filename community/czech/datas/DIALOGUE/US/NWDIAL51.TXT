@@ -1,0 +1,97 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL51.TXT
+ // Arkhan2 G (ist einer Explosion knapp entgangen)perso2
+L51D17
+ Proklate, to bylo tesne! XXX
+// Arkhan3 G (ist einer Explosion knapp entgangen)perso3
+L51D18
+ Proklate, to bylo tesne! XXX
+// Arkhan2 G (erstaunt) perso2
+L51D01A
+ Neuveritelne ... XXX
+// Arkhan2 G (erstaunt) perso2
+L51D01B
+ Studna není více tu ... XXX
+// Arkhan3 G (erstaunt) perso3
+L51D02A
+ Neuveritelne ... XXX
+// Arkhan3 G perso3
+L51D02B
+ Studna ... odfouklá ... XXX
+// Arkhan2 G perso2
+L51D107
+ Celá brána je rekou strzena. XXX
+// Arkhan3 G perso3
+L51D108
+ Celá brána ... znicena ... XXX
+// Arkhan2 L perso2
+L51D03
+ Tu schází list ... So nützt er mir nichts ... XXX
+// Arkhan3 L perso3
+L51D04
+ Chybí list ... bezvyuzití ... XXX
+// Arkhan2 G perso2
+L51D100A
+ Vrtule ze studny ... XXX
+// Arkhan2 G perso2
+L51D100B
+ Exploze jí znicila. XXX
+// Arkhan3 G perso3
+L51D101A
+ Vrtule od studny ... XXX
+// Arkhan3 G perso3
+L51D101B
+ Skrz explosi strzená ... XXX
+// Arkhan2 O perso2
+L51D05
+ To je k nicemu nevyuzitelne! XXX
+// Arkhan3 O perso3
+L51D06
+ Nevyuzitelne! XXX
+// Arkhan2 L (zögert wie ein Fallschirmspringer beim ersten Sprung) perso2
+L51D07
+ Ne ... To nemùze jednoduše dobre jít ...! XXX
+// Arkhan3 L (zögert wie ein Fallschirmspringer beim ersten Sprung) perso3
+L51D08
+ Ne ... To nemùze dobre jít! XXX
+// Arkhan2 O (entschließt sich zu springen)perso2
+L51D09
+ Ach, já prece nemám co ztratit! XXX
+// Arkhan3 O (entschließt sich zu springen)perso3
+L51D10
+ Nekdy musí kazdý verit! XXX
+// Arkhan2 G perso2
+L51D111
+ Je to horký, nemohu cekat. XXX
+// Arkhan3 G perso3
+L51D112
+ Jaký horko! Dále nemohu já ... XXX
+// Arkhan2 G (hat den Propeller repariert)perso2
+L51D13
+ Ich hab's geschafft, jí opet vylecena. XXX
+// Arkhan3 G (hat den Propeller repariert)perso3
+L51D14
+ Je opet vylecena. XXX
+// Arkhan2 G (untersucht die Reparatur)perso2
+L51D15
+ Doufejme ze to stací. XXX
+// Arkhan3 G (untersucht die Reparatur)perso3
+L51D16
+ Doufejme ze to stací. XXX
+// Arkhan2 G perso2
+L51D113
+ Plošina je plne znicená. XXX
+// Arkhan3 L perso3
+L51D114
+ Znicená ... plošina. XXX
+// Arkhan2 G perso2
+L51D103
+ Nic nez kameny ... XXX
+// Arkhan3 G perso3
+L51D104
+ Nic nez kameny ... XXX
+// Arkhan2 G perso2
+L51D105
+ Všechno roztrháno. XXX
+// Arkhan3 G perso3
+L51D106
+ Všechno dokonale rozbite. XXX

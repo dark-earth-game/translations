@@ -1,0 +1,145 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\GB\NWDIAL37.TXT
+// Arkhan2 G perso2
+L37D01A
+O exterior! XXX
+// Arkhan2 G perso2
+L37D01B
+Já abandonei o recinto do Stallite. XXX
+// Arkhan3 G perso3
+L37D02A
+O exterior! XXX
+// Arkhan3 G perso3
+L37D02B
+Já abandonei o Stallite. XXX
+// Arkhan2 G (vê uma criatura) perso2
+L37D01C
+Dir-se-ia que me esperam! XXX
+// Arkhan3 G (vê uma criatura) perso3
+L37D02C
+Diria que não estou só! XXX
+// Arkhan2 G perso2
+L37D03
+Esta coisa é demasiado pesada. É preciso que me livre dela. XXX
+// Arkhan3 G perso3
+L37D04
+Esta coisa é demasiado pesada. Vou deitá-la fora! XXX
+// Arkhan2 G perso2
+L37D05
+É profundo... Mais vale não me afastar. XXX
+// Arkhan3 G perso3
+L37D06
+Profundo... Não me afastarei. XXX
+// Arkhan2 G perso2
+L37D07
+Daqui, veem-se as muralhas e o quartel dos Guardiões do Fogo. XXX
+// Arkhan3 G perso3
+L37D08
+Veem-se as muralhas e o quartel daqui. XXX
+// Arkhan2 G perso2
+L37D09
+A entrada de uma gruta! XXX
+// Arkhan3 G perso3
+L37D10
+Uma gruta! XXX
+// Arkhan2 G (afunda-se na água) perso2
+L37D11
+Preciso de voltar a pôr o capacete... XXX
+// Arkhan3 G (afunda-se na água) perso3
+L37D12
+Devo voltar a pôr o capacete... XXX
+// Arkhan2 L perso2
+L37D13A
+Então, queres lutar?! XXX
+// Arkhan2 L perso2
+L37D13B
+Tens medo do que há nessa gruta? XXX
+// Arkhan2 O perso2
+L37D14
+Não te atreves a avançar, eh, cabrão?! XXX
+// Arkhan3 L perso3
+L37D15A
+Tens medo, eh?! XXX
+// Arkhan3 L perso3
+L37D15B
+Medo da gruta?! XXX
+// Arkhan3 O (furioso) perso3
+L37D16
+Aproxima-te! Vem lutar! XXX
+// Arkhan2 G perso2
+L37D17
+Vem! Eu também tenho garras! XXX
+// Arkhan3 G perso3
+L37D18
+Aproxima-te, monstro! XXX
+// Arkhan2 L perso2
+L37D19A
+Que era aquilo antes? Um homem, uma besta? XXX
+// Arkhan2 L perso2
+L37D19B
+Devo encontrar o remédio antes de me transformar naquilo! XXX
+// Arkhan3 L perso3
+L37D20A
+Que era aquilo... um homem? Uma besta? XXX
+// Arkhan3 L perso3
+L37D20B
+Devo curar-me... para não me transformar naquilo... XXX
+// Arkhan2 O perso2
+L37D21
+Maldita criatura! XXX
+// Arkhan3 O perso3
+L37D22
+Maldita criatura! XXX
+// Arkhan2 L perso2
+L37D23
+Por Deus, tens medo da água! É porque te lava? XXX
+// Arkhan3 L perso3
+L37D24
+Medo da água, eh? XXX
+// Arkhan2 L perso2
+L37D25A
+Esta sujidade estava agarrada! XXX
+// Arkhan2 L perso2
+L37D25B
+Se não encontrar o Túmulo, toda a população será dizimada! XXX
+// Arkhan3 L perso3
+L37D26A
+Duro de roer! XXX
+// Arkhan3 L perso3
+L37D26B
+Tenho de agir depressa ou estes monstros arrastarão o Stallite. XXX
+// Arkhan2 G perso2
+L37D27
+Nada mais que velhas ruínas bolorentas... XXX
+// Arkhan3 G perso3
+L37D28
+Velhas ruínas bolorentas... XXX
+// Arkhan2 G perso2
+L37D29
+Nem o próprio Danrys poderia fazer algo. XXX
+// Arkhan2 G perso2
+L37D31
+Que criatura pode ter ossos deste tamanho? XXX
+// Arkhan3 G perso3
+L37D32
+Os ossos de um animal... enorme... XXX
+// Arkhan2 G perso2
+L37D33A
+Marcas de urina na terra... XXX
+// Arkhan2 G perso2
+L37D33B
+E cheiro a animal. XXX
+// Arkhan3 G perso3
+L37D34
+Marcas de urina... e um cheiro desagradável! XXX
+// Arkhan2 G (encontra um peixe comido) perso2
+L37D35
+Restos de comida... XXX
+// Arkhan3 G (encontra um peixe comido) perso3
+L37D36
+Uns restos... XXX
+// Arkhan2 G perso2
+L37D37
+Estranho, neste lugar a parede está quente... XXX
+// Arkhan3 G perso3
+L37D38
+Sinto calor. XXX

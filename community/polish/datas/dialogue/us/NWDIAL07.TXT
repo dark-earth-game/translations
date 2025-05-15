@@ -1,0 +1,307 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL07.TXT
+ // Zed (after a long or short battle) perso27
+L07D01A
+ Mmm... Wciaz musisz sie wiele nauczyc! XXX
+// Zed (in friendly jest) perso27
+L07D01B
+ Zardzewiales albo jeszcze spisz!  XXX
+// Zed (after a long or short battle) perso27
+L07D01C
+ Cwicz dalej, to jedyny sposob na zwiekszenie swych umiejetnosci.  XXX
+// Zed perso27
+L07D05A
+ Jesli chcesz walczyc, "en garde"!  XXX
+// Zed perso27
+L07D05B
+ W przeciwnym razie daj mi pocwiczyc w spokoju, okej? XXX
+// Phedoria perso26
+L07D02A
+ Juz zmeczony?  XXX
+// Phedoria perso26
+L07D02B
+ Musisz popracowac nad wytrzymaloscia... XXX
+// Zed perso27
+L07D03A
+ Podejdz i pocwicz ze mna!  XXX
+// Zed perso27
+L07D03B
+ Nie martw sie, nie zranie cie... nie bedziemy zadawali prawdziwych ciosow!  XXX
+// Zed perso27
+L07D04
+ Zmieniles zdanie? XXX
+// Zed perso27
+L07D06
+ W porzadku, sam tego chciales!  Walcz! XXX
+// Zed perso27
+L07D08
+ Okej, jesli nie chcesz cwiczyc, pozwol, ze naucze cie paru rzeczy! XXX
+// Zed perso27
+L07D09
+ Zdecyduj sie! XXX
+// Zed (fed up) perso27
+L07D10
+ Nie podchodz do mnie jesli boisz sie trafienia!  XXX
+// Phedoria (mocking) perso26
+L07D32
+ Juz wychodzisz! XXX
+// Phedoria perso26
+L07D11
+ Podejdz tutaj.... Naucze cie walczyc!  XXX
+// Phedoria perso26
+L07D12
+ Do pioruna! "En garde"! XXX
+// Phedoria perso26
+L07D13
+ W porzadku, wystarczy! XXX
+// Phedoria perso26
+L07D14
+ Sprobujmy jeszcze raz! XXX
+// Phedoria perso26
+L07D74
+ Z drogi, nie moge cwiczyc kiedy tu stoisz! XXX
+// Phedoria perso26
+L07D75
+ Cofnij sie, albo rozpruje ci brzuch moim mieczem! XXX
+// Phedoria perso26
+L07D76
+ Po raz ostatni... Rusz sie! XXX
+// Phedoria perso26
+L07D77
+ Kretyn! XXX
+// Phedoria perso26
+L07D54
+ Stoj, kto idzie?! XXX
+// Phedoria perso26
+L07D55
+ Gadaj kim jestes, albo wysle cie do Mrocznych Ziem!  XXX
+// Phedoria (coolly fires her weapon) perso26
+L01D45B
+ Nie pozostawiasz mi wyboru! XXX
+// Phedoria (Arkhan goes "en garde") perso26
+L07D78
+ Myslalam, ze jestes madrzejszy! XXX
+// Zed perso27
+L07D07
+No dobra, zaczynajmy. En garde! XXX
+// Zed perso27
+L07D16
+ Uh oh!  Wyglada na to, ze jestes dzis w swietnej formie! XXX
+// Arkhan1 L perso1
+L07D18
+ A wiec, jestes gotow na maly przyjacielski sparring? XXX
+// Zed perso27
+L07D19
+ Kiedy tylko bedziesz gotow! "En garde"... zaczynajmy! XXX
+// Arkhan1 O perso1
+L07D20
+ Przygotuj sie Zed! Zamierzam ci spuscic niezle baty!  XXX
+// Zed perso27
+L07D21
+ Przekonamy sie jeszcze madralo! Zaczynajmy, "en garde"! XXX
+// Phedoria perso26
+L07D22
+ Jestes gotow? Zaczynajmy! XXX
+// Phedoria perso26
+L07D23
+ Znajdz sobie jakas bron, jesli chcesz ze mna cwiczyc!  XXX
+// Phedoria (Arkhan comes back with a weapon) perso26
+L07D24
+ Nareszcie! Prawie zasnelam! XXX
+// Phedoria (Arkhan comes back with an object) perso26
+L07D25
+ Nie badz smieszny, zdobadz prawdziwa bron!  XXX
+// Arkhan1 L perso1
+L07D26
+ Kapitan Phedorio co bys powiedziala na mala przyjacielska sesje treningowa? XXX
+// Phedoria (self-confident)perso26
+L07D27
+ Przyjacielska co? "En garde". XXX
+// Arkhan1 O perso1
+L07D28
+ Dam ci popalic! XXX
+// Phedoria perso26
+L07D29
+ Ach tak? "En garde," chwalipieto! XXX
+// Arkhan2 G perso2
+L07D57
+ Phedoria to ja Arkhan! XXX
+// Arkhan3 G perso3
+L07D58
+ To ja Arkhan! XXX
+// Phedoria perso26
+L07D59A
+ Arkhan!? XXX
+// Phedoria perso26
+L07D59B
+ Trucizna zmienila cie nie do poznania!  XXX
+// Arkhan2 G perso2
+L07D60A
+ Wierzysz mi. Nie boisz sie. XXX
+// Arkhan2 G perso2
+L07D60B
+ To mila odmiana po reakcjach innych Gwardzistow Ognia!  XXX
+// Phedoria perso26
+L07D61A
+ Jestes zywym obrazem wszystkiego czego nauczono ich sie bac.  XXX
+// Phedoria perso26
+L07D61B
+ Mi nie robi to zadnej roznicy dopoty twoja dusza pozostaje czysta. XXX
+// Phedoria perso26
+L07D61C
+ Nie otrzymalam zadnych rozkazow by cie zabic lub aresztowac.  XXX
+// Arkhan2 G perso2
+L07D62A
+ Nie wiem gdzie sie zwrocic...  XXX
+// Arkhan2 G perso2
+L07D62B
+ Wiekszosc moich tak zwanych przyjaciol zwrocila sie przeciw mnie albo probuje mnie oszukac.  XXX
+// Phedoria perso26
+L07D63
+ Jesli masz wiare w siebie i w Boskie Slonce, odnajdziesz wlasciwa droge.  XXX
+// Arkhan2 G perso2
+L07D65
+ Czy mozesz mi pomoc? XXX
+// Phedoria perso26
+L07D64A
+ Nie. XXX
+// Phedoria perso26
+L07D64B
+ Nie moge sie w to mieszac. XXX
+// Phedoria perso26
+L07D64C
+ Musisz sam znalezc rozwiazanie. XXX
+// Arkhan2 G perso2
+L07D79
+ Phedoria... XXX
+// Phedoria perso26
+L07D80A
+ Dosyc. XXX
+// Phedoria perso26
+L07D80B
+ To wszystko co mam do powiedzenia.  XXX
+// Phedoria perso26
+L07D81
+ Nie ma sensu bys nalegal. XXX
+// Arkhan3 G perso2
+L07D70A
+ Widze, ze mi wierzysz... XXX
+// Arkhan3 G perso2
+L07D70B
+ Wszyscy inni mysla, ze jestem potworem... XXX
+// Arkhan3 G perso2
+L07D72
+ Nikomu nie moge ufac. XXX
+// Arkhan3 G perso2
+L07D82
+ Czy mozesz mi pomoc? XXX
+// Arkhan3 G perso3
+L07D73
+ Phedoria... XXX
+// Phedoria perso26
+L07D30
+ "En garde"! XXX
+// Arkhan1 G perso1
+L07D51
+ Na lawce nic nie ma. XXX
+// Arkhan2 G perso2
+L07D52
+ Na lawce nic nie ma. XXX
+// Arkhan3 G perso3
+L07D53
+ Nic. XXX
+// Arkhan1 L perso1
+L07D33A
+ To manekin treningowy, baranie! XXX
+// Arkhan1 L perso1
+L07D33B
+ Wole cwiczyc z zywym przeciwnikiem.  XXX
+// Arkhan1 O perso1
+L07D34A
+ Jeden z tych bezuzytecznych manekinow treningowych. XXX
+// Arkhan1 O perso1
+L07D34B
+ Na co on komu bez kosci i zebow do lamania? XXX
+// Arkhan2 G perso2
+L07D35
+ Manekin treningowy. Nie czas na cwiczenia! XXX
+// Arkhan3 G perso3
+L07D37
+ Nie czas na cwiczenia. XXX
+// Arkhan1 G perso1
+L07D39A
+ To strzelnica.  XXX
+// Arkhan1 G perso1
+L07D39B
+ Niektorzy gwardzisci lubia cwiczyc tutaj strzelanie ze spluwaczek.  XXX
+// Arkhan2 G perso2
+L07D41
+ Strzelnica. Nic tu nie ma. XXX
+// Arkhan3 G perso3
+L07D43
+ Strzelnica jest pusta. XXX
+// Arkhan1 G perso1
+L07D45
+ Najwiekszy cel. Dobry dla poczatkujacych. XXX
+// Arkhan2 G perso2
+L07D46
+ To duzy cel cwiczebny. XXX
+// Arkhan3 G perso3
+L07D47
+ Duzy cel. XXX
+// Arkhan1 G perso1
+L07D48
+ Maly cel. Dla ekspertow pokroju Zeda! XXX
+// Arkhan2 G perso2
+L07D49
+ Maly cel cwiczebny. XXX
+// Arkhan3 G perso3
+L07D50
+ Maly cel. XXX
+// Arkhan2 L perso2
+L16D300A
+ Witaj... Maor racja? XXX
+// Maor perso17
+L16D301
+ Hmm... Czego chcesz? XXX
+// Arkhan2 L perso2
+L16D304A
+ Jestem Arkhan, przyjaciel Lupiezcow. XXX
+// Arkhan2 L perso2
+L16D304B
+ Mam pewne problemy z Gwardzistami Ognia... przydalaby mi sie drobna pomoc. XXX
+// Maor perso17
+L16D305
+ Rozumiem... Ale tu jej nie znajdziesz. XXX
+// Arkhan2 O perso2
+L16D311A
+ Zastanawialem sie - czy ty sie kiedykolwiek usmiechasz? XXX
+// Arkhan2 O perso2
+L16D311B
+ Czy przez caly czas probujesz wygladac jak twardziel? XXX
+// Maor perso17
+L16D312A
+ Usmiecham sie tylko do ladnych dziewczat, okej? XXX
+// Maor perso17
+L16D312B
+ Idz juz, jestem zajety... XXX
+// Arkhan2 G perso2
+L18D184
+ Chcesz grzdyla Stohllu? XXX
+// Malrot2 perso62
+L18D187
+ Troszke Stohllu? Nie mam nic przeciwko. XXX
+// Malrot2 (after drinking) perso62
+L18D189
+ Aaahhh... hej nie mialbym nic przeciwko kolejnemu lykowi! XXX
+// Malrot2 (burping) perso62
+L18D188
+ ... Dzieki. XXX
+// Malrot2 perso62
+L18D153A
+ Sluchaj, tutaj lubimy sobie popic i podjesc. XXX
+// Bogdaran perso8
+L05D110A
+ Nie martw sie. XXX
+// Bogdaran perso8
+L05D110B
+ Jesli na cos wpadne, bedziesz pierwsza osoba, ktora sie dowie.  XXX

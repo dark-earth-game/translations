@@ -1,0 +1,41 @@
+00:28:08	00:29:14		{Proyección automatizada Holotrek}
+00:29:16	00:31:24		{del 26 de diciembre de 2054.}
+00:32:18	00:33:14		{Grabamos este mensaje}
+00:33:16	00:35:20		{desde el búnquer subterráneo Renacimiento A-1,}
+00:36:00	00:37:12		{poco menos de seis horas después}
+00:37:14	00:38:18		{del primer impacto de meteorito}
+00:38:20	00:40:06		{registrado en Oriente Medio.}
+00:40:22	00:41:20		{Como temíamos,}
+00:41:22	00:42:20		{el plan Ángeles Guardianes}
+00:42:22	00:43:24		{puesto en marcha para intentar}
+00:43:26	00:45:28		{desviar el cometa, ha sido un fracaso.}
+00:46:04	00:47:00		{La trayectoria del cometa}
+00:47:02	00:47:22		{pasó solamente a algunos}
+00:47:24	00:49:20		{millares de kilómetros de nuestro planeta.}
+00:49:22	00:51:20		{Se cuentan ya más de}
+00:51:22	00:53:06		{cinco mil cien impactos de meteoritos}
+00:53:08	00:54:20		{sobre la superficie del globo,}
+00:54:22	00:56:22		{y se esperan los meteoros más grandes}
+00:56:24	00:58:16		{en las doce horas siguientes...}
+00:58:26	00:59:28		{Los continentes están ya}
+01:00:00	01:01:04		{devastados por los incendios,}
+01:01:06	01:02:04		{las erupciones volcánicas}
+01:02:06	01:03:06		{y los maremotos.}
+01:04:18	01:06:02		{El 30% de la atmósfera está ya}
+01:06:04	01:08:08		{oculto por las gigantescas nubes de polvo}
+01:08:10	01:10:12		{formadas en el momento de los impactos}
+01:10:14	01:11:08		{y el conjunto del globo}
+01:11:10	01:13:00		{está amenazado por un invierno nuclear.}
+01:13:20	01:15:08		{El término catástrofe ecológica}
+01:15:10	01:16:26		{ya no tiene sentido.}
+01:16:28	01:18:18		{Nuestras previsiones más optimistas}
+01:18:20	01:20:10		{estiman que el 87.3%}
+01:20:12	01:21:20		{de la vida terrestre}
+01:21:22	01:23:08		{está en peligro de extinción.}
+01:23:10	01:24:08		{El proyecto Renacimiento}
+01:24:10	01:25:24		{es una tentativa para preservar...}
+01:26:16	01:28:22		{...Algunos elementos de la tecnología serán almacenados...}
+01:30:16	01:32:04		{...Utilizamos unos arcones criogénicos}
+01:32:06	01:33:12		{que permitirán la reconstrucción}
+01:33:14	01:35:18		{de la civilización...}
+01:36:08	01:38:18		{Aquí están los procedimientos de reactivación de los...}

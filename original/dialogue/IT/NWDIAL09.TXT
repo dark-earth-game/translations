@@ -1,0 +1,70 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\IT\NWDIAL09.TXT
+ // Gardien8 (sorpreso da Arkhan, sta per tirargli addosso) perso48
+L09D31A
+Maledizione! XXX
+// Gardien8 perso48
+L09D31B
+Non mi avrai! XXX
+// Arkhan1 L perso1
+L09D04A
+Questa macchina fabbrica munizioni per lo sputapiombo. XXX
+// Arkhan1 L perso1
+L09D04B
+Ma mi occorre del metallo da fondere. XXX
+// Arkhan2 L perso2
+L09D05
+Mi occorrerebbe del metallo da fondere per fare con questa macchina delle munizioni per lo sputapiombo. XXX
+// Arkhan3 L perso3
+L09D06
+Mi occorre del metallo da fondere per fare delle munizioni. XXX
+// Arkhan1 O perso1
+L09D01
+Diavolo, come funziona questo aggeggio? XXX
+// Arkhan2 O perso2
+L09D02
+Non capisco niente di questo aggeggio! XXX
+// Arkhan3 O perso3
+L09D03
+Macchina oscura! XXX
+//Arkhan1 L perso1
+L09D13
+Dei vecchi fusti senza interesse. XXX
+//Arkhan2 L perso2
+L09D14
+Nient'altro che dei fusti vuoti. XXX
+//Arkhan3 L perso3
+L09D15
+Dei fusti... vuoti. XXX
+// Arkhan2 G perso2
+L04D44
+Non è la chiave giusta! XXX
+// Arkhan3 G perso3
+L04D45
+Chiave sbagliata! XXX
+//Arkhan1 G perso1
+L09D20
+Il serbatoio dell'acqua è vuoto. XXX
+//Arkhan2 L perso2
+L09D22
+Un serbatoio d'acqua. Vuoto. XXX
+//Arkhan3 L perso3
+L09D24
+Un serbatoio. Vuoto. XXX
+//Arkhan1 L perso1
+L09D25
+Credo che non sia il momento di sedersi! XXX
+//Arkhan1 O perso1
+L09D26
+Non ho voglia di sedermi! XXX
+//Arkhan2 L perso2
+L09D27
+Forse non è il momento di sedersi! XXX
+//Arkhan2 O perso2
+L09D28
+Non ho mica voglia di sedermi! XXX
+//Arkhan3 L perso3
+L09D29
+Non mi siedo! XXX
+//Arkhan3 O perso3
+L09D30
+Non mi siedo! XXX

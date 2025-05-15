@@ -1,0 +1,37 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL40.TXT
+ // Arkhan3 G (groggy) perso3
+L40D07A
+ Gq... Fo d kjg~n... XXX
+// Arkhan3 G (groggy) perso3
+L40D07B
+ Ejd fjmnd... ]ma ] fljtfo... XXX
+// Arkhan3 G perso3
+L40D04A
+ &jn jiZ ^_a... nZ... *lj[idrZ... XXX
+// Arkhan3 G perso3
+L40D04B
+ &m~ ]wtgj... X iZt~g a~! XXX
+// Arkhan3 G perso3
+L40D05A
+ >gj... Ej~ nagj... m^jlZan... XXX
+// Arkhan3 G perso3
+L40D05B
+ Fobij njljkdnxm|... $wmnlaa! XXX
+// Arkhan3 G perso3
+L40D01
+ GliZhain... &wmasai jsaix _Z]ij... sagj]afjh...XXX
+// Arkhan3 G perso3
+L40D02
+ G^ljhiZ| rakx, ]wmasaiiZ| ] fZhia. XXX
+// Arkhan3 G perso3
+L40D03
+ CZhaix ^jl|sde... XXX
+// Arkhan3 G perso3
+L40D06A
+ G[gjhfd... XXX
+// Arkhan3 G perso3
+L40D06B
+ Hljmnj j[gjhfd... XXX
+// Arkhan3 G perso3
+L40D08
+ GmnZnfd fjgj_rZ... XXX

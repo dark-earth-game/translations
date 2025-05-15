@@ -1,0 +1,203 @@
+12345678901234567890123456789012345678901234567890
+
+@1
+Old Uniform of Bogdaran's
+@2
+Bow of Rylsadhar's Key
+@3
+Punched Metal Plate
+@4
+Dish
+@5
+Metal Pole
+@6
+Refill for Flame-thrower
+@7
+Lead Bullets for Spitrod
+@8
+Boiler for Spitrod
+@9
+Metal Handle
+@10
+Plate from Before
+@11
+Key made of Red Gemstone
+@12
+Pointed Cut-crystal
+@13
+Large Vegetable
+@14
+Konkalite Key
+@15
+Sordos' Key
+@16
+Bogdaran's key
+@17
+Hammer
+@18
+Key Crystal (bevelled on left)
+@19
+Key Crystal (bevelled on right)
+@20
+Mirror from Before
+@21
+Round Vial
+@22
+Flagon
+@23
+Thunderbolt from Before
+@24
+Gourd of Stohll (full)
+@25
+Clothing
+@26
+Battle-ax
+@27
+Flame-thrower
+@28
+Long Knife
+@29
+Pulley Shaft
+@30
+Provider Woman's Cleaver
+@31
+Thanandar's Potion
+@32
+Thunderbolt from Kalhi
+@33
+Lead Plaque
+@34
+Potato
+@35
+Zed's Thunderbolt
+@36
+Large Root
+@37
+Short Halberd
+@38
+Guardian of Fire Saber
+@39
+Ammo for Thunderbolt from Kalhi
+@40
+Unknown Object from Before (soaked in oil)
+@41
+Unknown Object from Before
+@42
+Flagon
+@43
+Fish
+@44
+Smoked Meat
+@45
+Sliver of Rock Crystal
+@46
+Rylsadhar's Notes
+@47
+Heavy Konkalite Ax
+@48
+Pulley Shaft (broken)
+@49
+Sordos' Document
+@50
+Diagram of Weapon
+@51
+Pulley Blade from Well
+@52
+Rylsadhar's Drawings
+@53
+Konkalite Spear
+@54
+Fireball
+@55
+Spitrod
+@56
+Crushed Rat
+@57
+Sordos' Weapon
+@58
+Zed's Saber
+@59
+Wanderer's Saber
+@60
+Dhorkan's Coin
+@61
+Phedoria's Flail (zzz)
+@62
+Halberd (zzz)
+@63
+Kalhi's Dagger
+@64
+Piece of Roast Bird
+@65
+Terra-cotta Bowl
+@66
+Lory's Thunderbolt
+@67
+Battle-ax
+@68
+Zed's Thunderbolt (on Zed)
+@69
+"Save" icon
+@70
+Master Builder's Diagram
+@71
+Metal suit (very heavy)
+@72
+Ammunition for Thunderbolts from Before
+@73
+Ammunition for Zed's Thunderbolt
+@74
+Danrys' Pick-ax
+@75
+Rylsadhar's Crystal Key
+@76
+Maor's Mace
+@77
+Flask (empty)
+@78
+Danrys' Small Weapon
+@79
+Guardian of Fire Ax
+@80
+Dhorkan's Sword
+@81
+Rylsadhar's Parchment
+@82
+Archivist's Book
+@83
+Guardian of Fire Saber
+@84
+Metal Helmet
+@85
+Metal Breastplate (very heavy)
+@86
+Flask from Before
+@87
+Counter for Game of Yong
+@88
+Bogdaran's Tube
+@89
+Stockade Key
+@90
+Lead Bullet
+@91
+Dagger
+@92
+Long Dagger
+@93
+Dhorkan's Stiletto
+@94
+Kabak's Pestle
+@95
+Kabak's Mortar
+@96
+Large Steel Key
+@97
+Jerrycan
+@98
+Grindstone
+@99
+Sealed Metal Can
+@100
+(Broken Weapon)
+@end

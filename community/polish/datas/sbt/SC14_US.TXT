@@ -1,0 +1,41 @@
+00:28:08	00:29:14		{Automatyczna projekcja z Holotreku}
+00:29:16	00:31:24		{26 grudnia 2054.}
+00:32:18	00:33:14		{Nagrywamy tê wiadomoœæ}
+00:33:16	00:35:20		{w podziemnym bunkrze Odrodzenie A-1}
+00:36:00	00:37:12		{oko³o szeœæ godzin po tym jak}
+00:37:14	00:38:18		{pierwszy meteoryt uderzy³}
+00:38:20	00:40:06		{na Bliskim Wschodzie.}
+00:40:22	00:41:20		{Tak jak siê obawialiœmy,}
+00:41:22	00:42:20		{wysi³ki Anio³a Stro¿a}
+00:42:22	00:43:24		{maj¹ce na celu zmienienie toru lotu meteorytu}
+00:43:26	00:45:16		{spe³z³y na niczym.}
+00:46:04	00:47:00		{Trajektoria lotu komety}
+00:47:02	00:47:22		{minê³a nasz¹ planetê}
+00:47:24	00:49:20		{o kilka tysiêcy mil.}
+00:49:22	00:51:20		{Zgodnie z doniesieniami przychodz¹cymi z ca³ego œwiata,}
+00:51:22	00:53:06		{ponad tysi¹c piêæset meteorytow}
+00:53:08	00:54:20		{uderzy³o ju¿ w powierzchniê Ziemi,}
+00:54:22	00:56:22		{a najwiêksze uderz¹ w nasz¹ planetê}
+00:56:24	00:58:16		{w przeci¹gu nastêpnych dwunastu godzin...}
+00:58:26	00:59:28		{Nasz kontynent ju¿ jest}
+01:00:00	01:01:04		{targany po¿arami,}
+01:01:06	01:02:04		{erupcjami wulkanicznymi}
+01:02:06	01:03:26		{i powodziami.}
+01:04:18	01:06:02		{30% atmosfery ju¿ zosta³o}
+01:06:04	01:08:08		{zanieczyszczone gigantycznymi chmurami py³u}
+01:08:10	01:10:12		{wznieconymi przez si³ê zderzenia z meteorytami,}
+01:10:14	01:11:08		{zaœ ca³y glob}
+01:11:10	01:13:16		{stoi w obliczu nuklearnej zimy.}
+01:13:20	01:15:08		{Termin "katastrofa œrodowiska naturalnego"}
+01:15:10	01:16:26		{straci³ na znaczeniu.}
+01:16:28	01:18:18		{Nasze najbardziej optymistyczne przewidywania}
+01:18:20	01:20:10		{zak³adaj¹, ¿e 87.3%}
+01:20:12	01:21:20		{ca³ego ziemskiego ¿ycia}
+01:21:22	01:23:08		{stoi w obliczu zag³ady.}
+01:23:10	01:24:08		{Projekt Odrodzenie}
+01:24:10	01:25:24		{to ostatnia proba uratowania...}
+01:26:16	01:28:22		{...Ro¿ne technologie bêd¹ przechowane...}
+01:30:16	01:32:04		{U¿ywamy pojemnikow kriogenicznych,}
+01:32:06	01:33:12		{ktore pozwol¹ nam...}
+01:33:14	01:35:18		{odbudowaæ cywilizacjê...}
+01:36:08	01:38:18		{Oto procedury reaktywuj¹ce...}

@@ -1,0 +1,392 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL21.TXT
+ // Arkhan2 G (distressed) perso2
+L21D202
+ Oh, Wielka Patrzaca! XXX
+// Arkhan3 G (distressed) perso3
+L21D203
+ Lory! XXX
+// Lory (greeting Arkhan up above) perso15
+L21D26A
+ Arkhan! Przybywam za pozno. XXX
+// Lory (greeting Arkhan up above) perso15
+L21D26B
+ Phedoria powiedziala mi co sie stalo... XXX
+// Lory perso15
+L21D26C
+ Boskie Slonce dalo nam jeszcze jedna szanse Arkhan. By przywrocic sprawiedliwosc naszym braciom... XXX
+// Lory perso15
+L21D26D
+ ... By ocalic Stallite. XXX
+// Lory perso15
+L21D26E
+ Chodz za mna, nie mamy wiele czasu! XXX
+// Thanandar25 perso25
+L21D45A
+ Arkhan! Zyjesz jeszcze! Dobra robota! XXX
+// Arkhan2 G (stupefied) perso2
+L21D200
+ Thanandar! XXX
+// Arkhan3 G (stupefied) perso3
+L21D201
+ Thanandar! XXX
+// Thanandar25 perso25
+L21D45B
+ Spozniles sie. Losy Stallite spoczywaja w moich rekach! XXX
+// Thanandar25 perso25
+L21D46A
+ Przez to, ze sie wmieszales, nie dopadlem Lory. XXX
+// Thanandar25 perso25
+L21D46B
+ Ale dostalem cos lepszego: Rylsadhara, twojego ojca! XXX
+// Thanandar25 perso25
+L21D46C
+ Wypil esencje zla, przepelniajaca ma dusze. Teraz jest w mojej wladzy. XXX
+// Thanandar25 perso25
+L21D46D
+ Wyznawca, obronca swiatlosci, teraz pociagnie swiat w kompletny mrok! XXX
+// Thanandar25 perso25
+L21D47
+ Ale dostalem cos lepszego: twego przyjaciela Zeda! XXX
+// Arkhan1 G perso1
+L21D90
+ Zawsze marzylem by tam wejsc! XXX
+// Arkhan2 G perso2
+L21D91
+ Zawsze chcialem tam wejsc! XXX
+// Arkhan3 G perso3
+L21D92
+ Zawsze pragnalem tam wejsc! XXX
+// Thanandar25 perso25
+L21D71
+ Nedzny robak..... XXX
+// Phedoria perso26
+L20D38
+ Wlasnie podpisales na siebie wyrok smierci Arkhan! XXX
+// Sunseer1 (frightened by Arkhan's appearance) perso18
+L21D19
+ Aaah! Nie podchodz do mnie heretyku! XXX
+// Sunseer1 perso18
+L21D20A
+ Spokojnie przyjacielu. XXX
+// Sunseer1 perso18
+L21D20B
+ To miejsce jest oaza spokoju. XXX
+// Zed84 perso84
+L21D22
+ Ah Arkhan, szukalem ciebie. Czemu nie jestes na stanowisku? Musisz ... XXX
+// Zed84 perso84
+L21D23
+ Ale... co sie stalo? Cos ty zrobil Arkhan? Patrzacy w Slonce... XXX
+// Arkhan 1 G perso1
+L21D24
+ Czekaj! Moge wyjasnic! XXX
+// Zed84 perso84
+L21D25A
+ Nie ma tu nic do wyjasniania! Zabiles Patrzacego w Slonce! XXX
+// Zed84 (preparing to kill A.) perso84
+L21D25B
+ Wiesz rownie dobrze jak ja jaka jest za to kara! XXX
+// Zed84 (wretched after having killed Arkhan) perso84
+L21D44
+ Arkhan, przeciez bylismy prawie bracmi... XXX
+// Sunseer2 (terrified)perso19
+L21D89
+ Aaah! Nie! XXX
+// Sunseer 19 perso19
+L21D73
+ Aaah! Przyszedles zabic i mnie! Przepadnij Kreaturo Ciemnosci! XXX
+// Sunseer2 perso19
+L21D84B
+ No juz, dokoncz swe haniebne zadanie! XXX
+// Arkhan1 L perso1
+L21D01
+ Niech swiatlosc bedzie z toba Patrzacy w Slonce. XXX
+// Sunseer1 perso18
+L21D02A
+ I z toba przyjacielu. XXX
+// Sunseer1 perso18
+L21D02B
+ Przybyles medytowac przy Rahalu, symbolu Boskiego Slonca. XXX
+// Sunseer1 perso18
+L21D02C
+ Dobrze. Medytacja pozwoli wzmocnic twe wewnetrzne swiatlo. XXX
+// Arkhan1 L perso1
+L21D03
+ Czy jestes apostolem Boskiego Slonca? XXX
+// Sunseer1(preaching) perso18
+L21D04A
+ Tak przyjacielu. Symbol na moim czole, Rahal, oznacza, ze jestem poslancem Boskiego Slonca. XXX
+// Sunseer1(preaching) perso18
+L21D04B
+ Jego duch jest we mnie. Widzi moimi oczyma i przemawia moimi ustami... XXX
+// Sunseer1(preaching) perso18
+L21D04C
+ Uwierz mi, Jego swiete swiatlo oswietla nasze serca i broni sprawiedliwych przed Mrokiem. XXX
+// Sunseer1(preaching) perso18
+L21D04D
+ A o zmroku, sprawiedliwi, skapani w swietle swojej wiary, nie musza sie niczego bac kiedy widza jak Jego boskie swiatlo zanika. XXX
+// Sunseer1(preaching) perso18
+L21D04E
+ Poniewaz noc to proba, ktore obawiaja sie tylko nieczysci. XXX
+// Sunseer1(preaching) perso18
+L21D04F
+ Tak jak nasi przodkowie ze Starego Swiata, sa oni pozbawieni Jego swiatla na zawsze. 
+XXX
+// Sunseer1(preaching) perso18
+L21D04G
+ Pamietaj, ze tylko sprawiedliwi moga wystawic sie na promienie Boskiego Slonca, nie bojac sie zguby. XXX
+// Sunseer1(preaching) perso18
+L21D04G
+ Pamietaj, ze tylko sprawiedliwi moga wystawic sie na promienie Boskiego Slonca, nie bojac sie zguby. XXX
+// Sunseer1 perso18
+L21D06
+ Idz w pokoju Gwardzisto Ognia. XXX
+// Arkhan 1 O perso1
+L21D07
+ Witaj Patrzacy w Slonce. XXX
+// Sunseer1 (standing on ceremony) perso18
+L21D08
+ Niech swiatlosc bedzie z toba przyjacielu. XXX
+// Arkhan 1 O (mocking) perso1
+L21D09
+ Dalej wierzysz w Boskie Slonce? XXX
+// Arkhan 1 O perso1
+L21D10
+ Taa, Chyba uslyszalem wystarczajaco wiele... XXX
+// Arkhan2 G perso2
+L21D11
+ Patrzacy musisz mi pomoc! XXX
+// Sunseer1 (stunned by Arkhan's appearance.) perso18
+L21D12
+ Wielki Solaarze! Mrok... Mrok w tobie zamieszkal! XXX
+// Arkhan2 L perso2
+L21D13A
+ Patrzacy naprawde potrzebuje twej pomocy! XXX
+// Arkhan2 L perso2
+L21D13B
+ Zatruto mnie gdy ratowalem Lory. XXX
+// Arkhan2 L perso2
+L21D13C
+ Ale nadal jestem Gwardzista Ognia, wiernym sluga Boskiego Slonca. XXX
+// Arkhan2 L perso2
+L21D13D
+ Wyjasnij ludziom, ze nie powinni sie mnie obawiac! XXX
+// Arkhan2 O perso2
+L21D14A
+ Dobra Patrzacy, wystarczy tego! Od kiedy bycie brzydkim jest przestepstwem? XXX
+// Arkhan2 O perso2
+L21D14B
+ Ta trucizna mnie pozera! XXX
+// Arkhan2 O perso2
+L21D14C
+ Posluchaj, zamiast zanudzac ludzi swoja gadka, moze zrobilbys cos uzytecznego? Na przyklad wyleczyl mnie! XXX
+// Sunseer1 (dogmatic) perso18
+L21D15A
+ Nie! Nie oszukasz mnie! XXX
+// Sunseer1 perso18
+L21D15B
+ Symbol Boskiego Slonca oswietla ma twarz. XXX
+// Sunseer1 perso18
+L21D15C
+ Moje oczy przebijaja sie przez mrok twoich klamstw! XXX
+// Sunseer1 perso18
+L21D15D
+ A moimi ustami przemawia sam Wielki Solaar. XXX
+// Sunseer1 perso18
+L21D15E
+ Jesli Mrok zamieszkal w tobie, znaczy to, ze nie jestes juz godzien Jego swiatla! XXX
+// Arkhan2 G perso2
+L21D16
+ Co?!! Przeciez dopiero co uratowalem zycie Lory! XXX
+// Sunseer1 perso18
+L21D72A
+ Twoje ciemne sztuczki na mnie nie dzialaja! XXX
+// Sunseer1 perso18
+L21D72B
+ Kiedy wroci, Wielka Patrzaca wygna cie ze Stallite! XXX
+// Sunseer1 perso18
+L21D72C
+ A jesli komendant Dhorkan nie chce by spotkal go ten sam los, musi ujawnic heretykow! XXX
+// Sunseer1 perso18
+L21D72D
+ Odejdz albo wezwe straze! XXX
+// Arkhan2 G (disgusted) perso2
+L21D17
+ Jestes tylko glupim, szalonym fanatykiem! XXX
+// Sunseer1 perso18
+L21D18
+ Jesli sprobujesz jakichs sztuczek, Boskie Slonce cie pokara! XXX
+// Arkhan3 G perso3
+L21D100
+ Patrzacy w Slonce! XXX
+// Sunseer1 perso18
+L21D101A
+ Trzymaj sie z dala Stworze Ciemnosci! XXX
+// Sunseer1 perso18
+L21D101B
+ Odejdz! Zbeszczesciles swiete miejsce! XXX
+// Arkhan3 L perso3
+L21D102
+ Uspokoj sie Patrzacy, jestem zwyklym czlowiekiem! XXX
+// Arkhan3 O perso3
+L21D103
+ Nie jestem potworem! XXX
+// Sunseer1 perso18
+L21D104
+ Powiedzialem wynos sie! XXX
+// Sunseer1 perso18
+L21D21
+ Boskie Slonce, chron mnie! XXX
+// Arkhan2 L perso2
+L20D30
+ Czemu nie rozstrzygniemy tego teraz? XXX
+// Arkhan2 O perso2
+L20D31
+ Rozstrzygnijmy to teraz! XXX
+// Arkhan3 L perso3
+L20D32
+ Rozstrzygnijmy to, teraz! XXX
+// Arkhan3 O perso3
+L20D33
+ Gadanie! XXX
+// Lory perso15
+L20D34
+ Nie mozemy tu zostac. Chodz. XXX
+// Arkhan2 G perso2
+L20D35
+ Ale... Wielka Patrzaca... XXX
+// Arkhan3 G perso3
+L20D36
+ Wielka Patrzaca... XXX
+// Lory perso15
+L20D37
+ Sluchaj mnie! Chodzmy, natychmiast! XXX
+// Arkhan2 L perso2
+L20D39
+ Phedoria, co sie dzieje? XXX
+// Arkhan2 O perso2
+L20D40
+ Hej..co sie dzieje? XXX
+// Arkhan3 L perso3
+L20D41
+ Phedoria powiedz mi! XXX
+// Arkhan3 O perso3
+L20D42
+ Mow! XXX
+// Phedoria perso26
+L20D43
+ Lory wyjasni wszystko! XXX
+// Arkhan2 G perso2
+L20D44
+ Ale... Kapitanie... XXX
+// Arkhan3 G perso3
+L20D45
+ Kapitanie... XXX
+// Phedoria perso26
+L20D46
+ Chodz za nami! XXX
+// Arkhan2 G perso2
+L21D74
+ Uspokoj sie, nie skrzywdze cie! XXX
+// Arkhan3 G perso3
+L21D75
+ Uspokoj sie! XXX
+// Sunseer2 (terrified) perso19
+L21D76
+ Przyszedles mnie zabic, wiem o tym, tak jak jeden z twoich probowal zabic Wielka Patrzaca! XXX
+// Arkhan2 L perso2
+L21D77
+ Powiedz mi co widziales, to wazne! XXX
+// Arkhan2 O perso2
+L21D78
+ Gadaj co widziales albo skrece ci kark! XXX
+// Arkhan2 O perso3
+L21D79
+ Co widziales? Gadaj! XXX
+// Sunseer2 (terrified) perso19
+L21D80A
+ Olbrzymi cien! Wielki, mroczny! Wcielenie smierci! XXX
+// Sunseer2 perso19
+L21D80B
+ Ruszal sie z niezwykla predkoscia. XXX
+// Sunseer2 perso19
+L21D80C
+ Wtargnal do Komnaty Obrad... Slyszalem krzyczacych ludzi... XXX
+// Sunseer2 (voice cracking) perso19
+L21D80D
+ Wielka Patrzaca... XXX
+// Arkhan2 G perso2
+L21D81
+ Thanandar! On zabil! XXX
+// Arkhan2 G perso2
+L21D82
+ Thanandar! To byl on! XXX
+// Arkhan3 G perso3
+L21D83
+ Thanandar! Znowu! XXX
+// Sunseer2 perso19
+L21D84A
+ Wyslal cie bys mnie zabil, wiem o tym! XXX
+// Sunseer2 perso19
+L21D84C
+ Ale moje Swiatlo jeszcze powstanie! XXX
+// Arkhan2 G perso2
+L21D85
+ Wstawaj! XXX
+// Arkhan2 O perso2
+L21D86
+ Podnies sie! XXX
+// Arkhan 1 G perso1
+L21D48
+ W podlodze jest maly otwor. XXX
+// Arkhan2 G perso2
+L21D57
+ Co za pech! A myslalem, ze mam wlasciwy klucz! XXX
+// Arkhan2 G perso2
+L21D58
+ To wlasciwy klucz... Ale nie dziala. XXX
+// Arkhan2 G perso2
+L21D59
+ To wlasciwy klucz, ale musze uruchomic mechanizm gdzies indziej. XXX
+// Arkhan2 G perso2
+L21D60
+ Tam, mala dziura w podlodze. XXX
+// Arkhan2 G perso2
+L21D61
+ Wiedzialem! XXX
+// Arkhan2 G perso2
+L21D62
+ Czegos brakuje! XXX
+// Arkhan2 G perso2
+L21D63
+ Znowu sie zamyka! XXX
+// Arkhan3 G perso3
+L21D64
+ To wlasciwy klucz... ale nic z tego! XXX
+// Arkhan3 G perso3
+L21D65
+ Mam wlasciwy klucz... lepiej sprobuje czegos innego! XXX
+// Arkhan3 G perso3
+L21D66
+ Wlasciwy klucz... musze uruchomic mechanizm gdzies indziej... XXX
+// Arkhan3 G perso3
+L21D67
+ O, dziura w podlodze. XXX
+// Arkhan3 G perso3
+L21D68
+ Wiedzialem! XXX
+// Arkhan3 G perso3
+L21D69
+ Czegos mi brakuje! XXX
+// Arkhan3 G perso3
+L21D70
+ Zamyka sie! XXX
+// Arkhan1 G perso1
+L21D49
+ Rahal. Symbol Boskiego Slonca. XXX
+// Arkhan2 G perso2
+L21D50
+ Nie mam czasu na modlitwy. XXX
+// Arkhan3 G perso3
+L21D51
+ Nie czas na modly. XXX

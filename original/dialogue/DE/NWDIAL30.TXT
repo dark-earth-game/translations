@@ -1,0 +1,73 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL30.TXT
+ // Arkhan2 G (hört Niesen)perso2
+L30D05
+ Was war das denn? XXX
+// Arkhan3 G (hört Niesen)perso3
+L30D06
+ Häh? XXX
+// Konkalit5 (wird Arkhan angreifen) perso75
+L30D01
+ Der Spaziergang ist zuende! XXX
+// Konkalit2 (greift A. an) perso72
+L30D02
+ Hast Du Dich verlaufen? Komm her zu Papa! XXX
+// Arkhan2 G (spricht unter seinem Helm)perso2
+L30D16
+ Dieses Ding ist zu schwer, ich muß es abnehmen! XXX
+// Arkhan3 G (spricht unter seinem Helm)perso3
+L30D17
+ Der ist zu schwer, ich muß ihn abnehmen. XXX
+// Arkhan2 G (spricht unter seinem Helm)perso2
+L31D83A
+ Ich kann nicht hinuntertauchen. XXX
+// Arkhan2 G perso2
+L31D83B
+ Es ist keine Luft mehr in der Sauerstoff-Flasche. XXX
+// Arkhan2 G perso2
+L31D83C
+ Ich muß ein Mittel finden, um sie aufzufüllen ... XXX
+// Arkhan3 G (spricht unter seinem Helm)perso3
+L31D84A
+ Ich kann nicht hinuntertauchen ... XXX
+// Arkhan3 G perso3
+L31D84B
+ Keine Luft mehr in der Flasche. XXX
+// Arkhan3 G perso3
+L31D84C
+ Ich muß ein Mittel finden, um sie aufzufüllen ... XXX
+// Arkhan2 L perso2
+L31D85A
+ Zu tief. XXX
+// Arkhan2 L perso2
+L31D85B
+ Wenn ich hier einfach so hineinspringe, werde ich ertrinken! XXX
+// Arkhan2 O perso2
+L31D86
+ Nein! Ich werde ertrinken! XXX
+// Arkhan3 L perso3
+L31D87
+ Nein! Das ist zu tief...  XXX
+// Arkhan3 O perso3
+L31D88
+ Da werd' ich garantiert ertrinken! XXX
+// Arkhan2 L perso2
+L30D11
+ Immer langsam, ich bin ein Freund! XXX
+// Arkhan2 O perso2
+L30D12
+ Laß mich hier durch oder ich reiß' Dir den Kopf ab! XXX
+// Arkhan3 G perso3
+L30D13
+ Verschwinde hier oder Du bist ein toter Mann! XXX
+// Arkhan2 G perso2
+L30D07
+ Nichts ... und das Wasser ist wirklich eiskalt. XXX
+// Arkhan3 G perso3
+L30D08
+ Nichts ...  es ist kalt! XXX
+// Arkhan2 G perso2
+L30D09
+ Kalt und eklig. XXX
+// Arkhan3 G perso3
+L30D10
+ Kalt und eklig. XXX

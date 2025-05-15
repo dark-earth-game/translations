@@ -1,0 +1,181 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL11.TXT
+ // Guard (nervously) perso32
+L11D01
+ Fa kj_qj_d fj hia, salianx! &jc]lZuZem| ] >ahgd ElZfZ! XXX
+// Guard (going to hit A.) perso32
+L11D02
+ X kla_okla_dg! XXX
+// Guard (nervously) perso32
+L11D03
+ Jnje! Fd m hamnZ! &j +]jlar Jnljdnagae ]qj_ ]jmklau~i! XXX
+// Guard (nervously) perso32
+L11D04
+ Ve, nw! Hjt~g ]ji jnmz_Z! &qj_ ]jmklau~i! XXX
+// Guard (attacks A.) perso32
+L11D05
+ Hjgosd, ^jgj]atfZ! XXX
+// Guard (to A., who is running way) perso32
+L11D45
+ <u~ lZc cZnhdtx hia m]an, d n]j| halcfZ| [ZtfZ kje_~n iZ bZlfja! XXX
+//Arkhan2 G perso2
+L11D06
+ Fan! GqlZiidf d_~n! XXX
+//Arkhan3 G perso3
+L11D07
+ Fan! Gi d_~n! XXX
+// Arkhan2 L perso2
+L11D08
+ +Ze hia kljend! X _jgbai kj^j]jldnx m ^gZ]iwh mnljdnagah. Vnj jsaix ]Zbij! XXX
+// Guard perso32
+L11D09
+ Fa]jchjbij! L hai| kldfZc! Fdfnj ia klje_~n! XXX
+// Arkhan2 L perso2
+L11D10A
+ KZf iobij, kj]alx hia. X _jgbai ^j]jldnx m ^gZ]iwh mnljdnagah. XXX
+// Arkhan2 L perso2
+L11D10B
+ &jchjbij, ynj a_dimn]aiiwe mkjmj[ mkZmnd iZm ]maq! XXX
+// Guard perso32
+L11D11A
+ & s~h klj[gahZ? Kw ^goqje? <mgd | mfZcZg, snj idfnj mz_Z ia ]je_~n, ciZsdn - idfnj! XXX
+// Guard perso32
+L11D11B
+ Gmj[aiij m nZfje ljbae, fZf o na[|! XXX
+// Arkhan2 L perso2
+L11D12
+ JgotZe, | ciZz, o iZm slac]wsZeija kjgjbaida, ij fg|iomx, | ia kldsdiz ]la_Z ^gZ]ijho mnljdnagz! XXX
+// Guard perso32
+L11D13A
+ J hai| q]Zndn! Jnljdnagz $Zi_jlo iZkga]Znx iZ na[|! XXX
+// Guard perso32
+L11D13B
+ L[dlZem| jnmz_Z, dgd | kla]lZuo na[| ] mdnj! XXX
+// Arkhan2 L perso2
+L11D14
+ Ejban [wnx, hw hj^gd [w _j^j]jldnxm|. XXX
+// Guard perso32
+L11D14A
+ Fan, hw ia hj^gd [w _j^j]jldnxm|! XXX
+// Guard perso32
+L11D14B
+ JgotZe, kljmnj oe_d d _Ze hia mkjfjeij kj_jqionx m ^jgj_o, gZ_ij? XXX
+// Arkhan2 L perso2
+L11D15A
+ Njljtj, qjljtj. Kw kljmnj ]wkjgi|atx kldfZc, | kji|g. XXX
+// Arkhan2 L perso2
+L11D15B
+ Kw ]w^g|_dtx omnZgwh d ^jgj_iwh. Ejban, | hj^o... XXX
+// Guard perso32
+L11D16A
+ <u~ [w. Eje bago_jf nZf komn, [o_nj a^j ]w]aliogd iZdciZifo. XXX
+// Guard perso32
+L11D16B
+ Fj _Zba ia kj_ohZe, snj ynj cZmnZ]dn hai| jmnZ]dnx kjmn! XXX
+// Arkhan2 L perso2
+L11D17A
+ G, | ciZz, ynj^j ia [o_an! X d ia hasnZz kjkZmnx ]ionlx [ac n]ja^j lZclataid|. XXX
+// Arkhan2 L perso2
+L11D17B
+ Ew kalabd]Zah nlo_iwa ]lahaiZ d _jgbiw kj__albd]Znx m]jd mdgw, nZf? XXX
+// Arkhan2 L perso2
+L11D17C
+ &jn nw, iZkldhal. <mgd ia kjatx - kjnal|atx mjciZida. XXX
+// Guard perso32
+L11D18A
+ Kw klZ]. L hai| ]j lno d fljtfd ia [wgj m onlZ. XXX
+// Guard perso32
+L11D18B
+ L na[| ian m mj[je sa^j kjba]Znx, mgosZeij? XXX
+// Arkhan2 L perso2
+L11D19
+ Hje_o kjduo snj-id[o_x... XXX
+// Arkhan2 L perso2
+L11D20
+ Fo nZf, nw kjc]jgdtx hia ]jend? XXX
+// Guard perso32
+L11D21A
+ L na[| ia ]ma _jhZ, dgd fZf? X mfZcZg, ian! XXX
+// Guard (spitting) perso32
+L11D21B
+ Vq, ciZatx, fZf ^j]jldnm|, moqZ| gjbfZ ljn _al~n. XXX
+// Arkhan2 O perso2
+L11D22
+ Fa mnje iZ kond! Eia iobij ]d_anx ^gZ]ij^j mnljdnag|! XXX
+// Guard perso32
+L11D23A
+ >iZatx, t~g [w nw ] m]jd >ahgd ElZfZ, flwmZ! XXX
+// Guard perso32
+L11D23B
+ Fdfnj mz_Z ia ]je_~n! Hjt~g kljsx! XXX
+// Arkhan2 O (playing the tough guy) perso2
+L11D24A
+ JgotZe, _lo^. +ohZz, nw ia jmjciZ~tx, fZfoz mj]altZatx jtd[fo. XXX
+// Arkhan2 O (playing the tough guy) perso2
+L11D24B
+ KT oe_~tx m hja^j kond, dgd X klje_o mf]jcx na[|. XXX
+// Guard perso32
+L11D25
+ Vnj hw au~ kjmhjnldh! XXX
+// Arkhan2 G perso2
+L11D26
+ Kw kljkomndtx hai|, amgd | _Zh na[a ynj? XXX
+// Guard perso32
+L11D27
+ NZ, mhatij! Hljsx, dgd | ]wlabo m]jd didrdZgw iZ n]j~h gdra! XXX
+// Guard perso32
+L11D28
+ >Z[o_x. Fdfnj ia ]je_~n, d njsfZ. XXX
+// Arkhan2 G perso2
+L11D29
+ Jhjnld, n]je bago_jf [o_an ynjho lZ_. XXX
+// Guard perso32
+L11D30
+ #^Z! +Z]Ze! XXX
+// Guard (chewing) perso32
+L11D31
+ J]|nje Gnar J]anZ, mkZmd[j, hje _lo^! Kj, snj iZ_j. XXX
+// Guard (chewing) perso32
+L11D32
+ G, _Z, ]jn nj, snj | iZcw]Zz "qjljtj"! XXX
+// Guard (chewing) perso32
+L11D33
+ Kw snj, tondtx? Vndh [w _Zba hwtx ia iZagZmx! XXX
+// Guard (chewing) perso32
+L11D34
+ &jn snj hjban lZcbasx n]je j^jix, klZ]_Z?! XXX
+// Guard (finishing his snack) perso32
+L11D35
+ Kjgxfj mjgjij]Znj, kjidhZatx, | j s~h? XXX
+// Arkhan2 G perso2
+L11D36
+ Jhjnld, snj | iZt~g. Njsatx? XXX
+// Guard perso32
+L11D37A
+ #q nw, hlZsiZ| hlZcx, ynj snj, tonfZ? XXX
+// Guard perso32
+L11D37B
+ +Z | na[a ]mz flj]x ]wkouo! XXX
+// Arkhan2 G perso2
+L11D38
+ &jn. *gjnid sonx-sonx. XXX
+// Guard perso32
+L11D39
+ Fa jnfZbomx! XXX
+// Guard perso32
+L11D40A
+ Ve, c_amx komnj! XXX
+// Guard perso32
+L11D40B
+ Kw hai| lZcw^lZg! XXX
+// Guard perso32
+L11D42A
+ &agdfde JjgZZl, nw nokaa, sah | jbd_Zg! XXX
+// Guard perso32
+L11D42B
+ X ia qjso kdnx, | qjso amnx! XXX
+// Arkhan2 G perso2
+L11D43
+ <^j Zga[Zl_Z mgjhZiZ! XXX
+// Arkhan3 G perso3
+L11D44
+ <^j jlobda mgjhZij! XXX

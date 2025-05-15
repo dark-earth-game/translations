@@ -1,0 +1,61 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL42.TXT
+ // Arkhan3 G perso3
+L42D01
+ Umkehren kann ich nicht ... XXX
+// Arkhan3 G perso3
+L42D05
+ Sieht aus, als wäre dies das Ende meiner Reise ... XXX
+// Arkhan3 G perso3
+L42D02A
+ Ich bin draußen ... Die Klippe ... XXX
+// Arkhan3 G perso3
+L42D02B
+ Der Eingang zur Grabstätte muß hier gewesen sein ... Aber bei der Großen Katastrophe wurde er verschüttet! XXX
+// Arkhan3 G perso3
+L42D02C
+ Deshalb hat Vater ihn nie gefunden! XXX
+// Arkhan3 L perso3
+L42D08
+ Es ist brennend heiß ... Dieses Licht ... Wie in der Gruft. XXX
+// Arkhan3 O perso3
+L42D09
+ Verdammt! Ich hab' mir die Hand verbrannt! XXX
+// Arkhan3 L perso3
+L42D10
+ Da faß' ich nicht mehr an ... XXX
+// Arkhan3 O perso3
+L42D11
+ Das faß' ich nicht mehr an! XXX
+// Arkhan3 G (hat den Hebel hochgedrückt, um die Tür zu öffnen) perso3
+L42D07A
+ Sie bewegt sich nicht. XXX
+// Arkhan3 G perso3
+L42D07B
+ Da bewegt sich nichts. XXX
+// Arkhan3 G perso3
+L42D07C
+ Da passiert nichts. XXX
+// Arkhan3 G perso3
+L42D06
+ Der Mechanismus ist blockiert. XXX
+// Arkhan3 G perso3
+L42D12
+ Dieser Stein hier ist leicht warm ... XXX
+// Arkhan3 G perso3
+L42D13A
+ Geröll ... XXX
+// Arkhan3 G perso3
+L42D13B
+ Das ist schon so alt ... Zu Ruinen zerfallen  ... XXX
+// Arkhan3 L (schaut nach unten) perso3
+L42D03
+ Der Rest der Grotte ist zusammengebrochen und ins Meer gestürzt. XXX
+// Arkhan3 O (schaut nach unten) perso3
+L42D04
+  Wer hier hinunterspringt, ist ein toter Mann! XXX
+// Arkhan3 G perso3
+L42D14
+ Ein riesiges Rad ... und eine Öffnung, da oben. XXX
+// Arkhan3 G perso3
+L42D15
+ Ich muß ein Mittel finden, das Rad zu drehen ... XXX

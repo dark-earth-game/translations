@@ -1,0 +1,523 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL12.TXT
+ // Bandor perso7
+L12D03
+ Co zde deláš? XXX
+// Bandor perso7
+L12D04
+ Proc jsi prišel zpátky? XXX
+// Bandor perso7
+L12D05
+ My nemùzeme pro tebe nic více udelat. XXX
+// Bandor perso7
+L12D01
+ Zpet! Nemáte právo, být zde! XXX
+// Khorad perso83
+L12D02
+ Jdi nebo zavoláme Strázce ohne! XXX
+// Arkhan2 G perso2
+L12D108
+ Nejaký tajemný ùkryt! XXX
+// Arkhan3 G perso2
+L12D109
+ Nejaký ùkryt! XXX
+// Bandor (verängstigt)perso7
+L12D128
+ Ne! Já te prosím! XXX
+// Khorad (verängstigt)perso83
+L12D129
+ Pomoc! XXX
+// Bandor perso7
+L12D112
+ Ne ne, nemlat nás! XXX
+// Bandor perso7
+L12D113
+ Tak je to správne, budme rozumný. XXX
+// Arkhan2 L perso2
+L12D06A
+ Zádný strach, nechci vám delat nic zleho.  XXX
+// Arkhan2 L perso2
+L12D06B
+ Hledám Bandora, Mistra Stavitele. XXX
+// Khorad (eifrig) perso83
+L12D10
+ Bandor tu není!  XXX
+// Bandor (versucht, seine Angst zu verbergen) perso7
+L12D11
+ On ... on je ve Spodním meste, na novem stavebním míste. XXX
+// Khorad perso83
+L12D12
+ Ano. Zùstal dole. XXX
+// Arkhan2 O (ungeduldig) perso2
+L12D07
+Kde je Bandor, Mistr stavitel? XXX
+// Arkhan2 L perso2
+L12D13A
+ Velká Knezka mne sama posílá, Vás o pomoc prosit. XXX
+// Arkhan2 L perso2
+L12D13B
+ Ona mi Bandora dobre popsala: On mùze být pouze jeden z Vás.  XXX
+// Arkhan2 L perso2
+L12D13C
+ Celý Stallit je v nebezpecí, musí se rychle jednat!  XXX
+// Bandor perso7
+L12D24
+ Ne, Velká Knezka to nikdy nerekla!  XXX
+// Khorad (besänftigend) perso83
+L12D25
+ Nebo se zmýlila ... XXX
+// Bandor perso7
+L12D26
+ Na kazdý pád tu Bandor není. XXX
+// Khorad perso83
+L12D27
+ A nevíme, kde je on! XXX
+// Arkhan2 O (ungeduldig) perso2
+L12D14A
+ Nepokoušejte se, mne oklamat! XXX
+// Arkhan2 O perso2
+L12D14B
+ Lory sama mi o Bandorovi vyprávela. Jsem si jistý, ze je to jeden z vás! XXX
+// Arkhan2 O perso2
+L12D14C
+ Nechci ztrácet cas: Kdo z vás je Bandor?! XXX
+// Arkhan2 L perso2
+L12D19A
+ Ujištuji Vás, neuciním nic zleho! XXX
+// Arkhan2 L perso2
+L12D19B
+ Musím vedet, zdali vám Rylsadhar neco nedal ... nejaký Kristall.  XXX
+// Arkhan2 O (regt sich auf) perso2
+L12D20A
+ Chcete mi namluvit, ze všichni stavitele jsou barevní a o nohu kratší?! XXX
+// Arkhan2 O perso2
+L12D20B
+ Dost nyní! Kdo je z vás Bandor? XXX
+// Bandor (einlenkend) perso7
+L12D22
+ Je mi líto, my nevíme nic. XXX
+// Khorad (blufft) perso83
+L12D23A
+ Mel byste radeji jít, Strázci ohne budou tu hned. XXX
+// Khorad perso83
+L12D23B
+ A oni práve prátelsky s váma nevyjdou! XXX
+// Arkhan2 L perso2
+L12D200
+ Poslouchejte mne dobre, potrebuju vaší pomoc. XXX
+// Bandor perso7
+L12D202
+ Je nám líto, nevíme nic. XXX
+// Khorad perso83
+L12D203
+ Nemùzeme pro Vás nic udelat! XXX
+// Arkhan2 O (regt sich auf) perso2
+L12D201
+ Dost, mne to stacilo! XXX
+// Arkhan3 L perso3
+L12D08
+ Klid! Hledám Bandora! XXX
+// Arkhan3 O perso3
+L12D09
+ Bandor! XXX
+// Arkhan3 L perso3
+L12D15A
+ Lory mi rekla: Je to muz s cernou barvou pleti s kovovou nohou! XXX
+// Arkhan3 L perso3
+L12D15B
+ Kdo je z vás Bandor? XXX
+// Arkhan3 L perso3
+L12D21A
+ Nejsem Váš neprítel.  XXX
+// Arkhan3 L perso3
+L12D21B
+ Hledám Kristal. Rylsadhar ho vám dal. XXX
+// Arkhan3 L perso3
+L12D300
+ Potrebuju vás! XXX
+// Khorad (erschreckt) perso83
+L12D17
+ Ne! Nedotýkej se nás! XXX
+// Bandor (erschreckt) perso7
+L12D18A
+ Zpátky, Kreaturo! XXX
+// Bandor perso7
+L12D18B
+ Mach es nicht schlimmer, indem Du Hand an uns legst! XXX
+// Arkhan2 G perso2
+L12D32
+ Mám plán, který je pro vás velmi hodnotný. Tedy, kdo z vás je Bandor? XXX
+// Arkhan3 G perso3
+L12D34
+ Mám plán. Tedy, kdo z vás je Bandor?! XXX
+// Khorad (blufft) perso83
+L12D33A
+ Plán nevyuziješ.  XXX
+// Khorad perso83
+L12D33B
+ A z nás není nikdo Bandor... XXX
+// Arkhan2 G perso2
+L12D121
+ Reknete co to zde je? XXX
+// Arkhan3 G perso3
+L12D122
+ Znáte to zde? XXX
+// Bandor perso7
+L12D123
+ Ne, je mi líto. XXX
+// Khorad perso83
+L12D124
+ Ne, my to neznáme. XXX
+// Arkhan2 G perso2
+L12D40
+ Ha, ha, hned je s váma porízení! XXX
+// Bandor perso07
+L12D43
+ Tedy dobre. Dej mi plán! XXX
+// Arkhan3 G perso3
+L12D42
+ Konec nyní s temnými casy! XXX
+// Arkhan2 L perso2
+L12D47A
+ Mistre staviteli. Já nechtel vám nic udelat. XXX
+// Arkhan2 L perso2
+L12D47B
+ Jed Temne Zeme behá v mých zilách,prece já jsem a zùstávám Arkhanem, Strázcem ohne a synem Rylsadharovým. XXX
+// Arkhan2 L perso2
+L12D47C
+ Prísahám, všechno udelat, abych ho pomstil a Stallit zachránil. XXX
+// Bandor (vorsichtig) perso7
+L12D50A
+ To není nic nez prázdná slova. Proc meli bychom ti dùverovat? XXX
+// Bandor perso7
+L12D50B
+ Dokaz mi, ze jsi Rylsadharovo syn, a já uvidím, zda ti mohu pomoci. XXX
+// Arkhan2 O perso2
+L12D48
+ Nesmíme ztrácet cas. Jsem Arkhan, syn Rylsadhara, a hledám Kristall, který mùj otec schoval.  XXX
+// Arkhan3 L perso3
+L12D49A
+ Jsem syn Rylsadhara.  XXX
+// Arkhan3 L perso3
+L12D49B
+ Hledám kristaly, ktere on schoval. XXX
+// Arkhan2 L perso2
+L12D51A
+ Nesmím ztrácet cas, Bandore.  XXX
+// Arkhan2 L perso2
+L12D51B
+ Lory mne poslala, musíte mi verit! XXX
+// Bandor (entschieden) perso7
+L12D54A
+ Ne. Rylsadhar by to nedovolil, abych já s nekým takovým mluvil ... s... XXX
+// Bandor perso7
+L12D54B
+ ... nejakou Kreaturou jako ty, bez dùkazu jeho dobre vùle. XXX
+// Arkhan2 O perso2
+L12D52A
+ To není ten správný ton, k nedùvere! XXX
+// Arkhan2 O perso2
+L12D52B
+ Pokud vy kristal máte, dejte mi ho hned! XXX
+// Arkhan3 L perso3
+L12D53
+ Tak mi prece dùverujte! XXX
+// Arkhan2 G perso2
+L12D55A
+ Chceš dùkaz? Podívej, já mám kruh na kristaly. XXX
+// Arkhan2 G perso2
+L12D55B
+ Musím najít jinou cást, od vchodu sklepa meho otce.  XXX
+// Arkhan2 G perso2
+L12D55C
+ Lory si myslí, ze v teto klenute místnosti jsou vedomosti, ktere nás mohou zachránit. XXX
+// Bandor (plötzlich entschlossen) perso7
+L12D57A
+ Rozumím. Já ti verím. XXX
+// Bandor perso7
+L12D57B
+ Ano, Rylsadhar mi dal tento krystal. Já ti ho dám. XXX
+// Bandor perso7
+L12D57C
+ Ale pokud by se stalo, ze ho pouziješ na špatne ùmysly, jseš stokrát proklet! XXX
+// Arkhan2 L perso2
+L12D58
+ Dekuji ti, mistre Bandore. XXX
+// Arkhan2 O perso2
+L12D59A
+ Mmm... XXX
+// Arkhan2 O (nimmt Bandors Äußerung wieder auf)perso2
+L12D59B
+ Und wenn sich herausstellt, daß ich durch Dein Mißtrauen Zeit verloren habe, komm' ich zurück und rechne mit Dir ab! XXX
+// Arkhan3 G perso3
+L12D56A
+ Chceš dùkaz? Zde! XXX
+// Arkhan3 G perso3
+L12D56B
+ Mám kruh na kristaly! XXX
+// Arkhan3 L perso3
+L12D60
+ Díky. XXX
+// Arkhan3 O perso3
+L12D61
+ (leicht freundliches Knurren) XXX
+// Arkhan2 G perso2
+L12D125
+ Stací ti to jako dùkaz? XXX
+// Arkhan3 G perso2
+L12D126
+ Zde je dùkaz! XXX
+// Bandor perso7
+L12D127
+ Ne, to nic nedokazuje! XXX
+// Arkhan2 L perso2
+L12D62A
+ Komu jinak mohl by mùj otec kristal dát? XXX
+// Arkhan2 L perso2
+L12D62B
+ Máte nejaký nápad? XXX
+// Arkhan2 O perso2
+L12D63A
+ Komu mohl mùj otec krom tebe kristal dát? XXX
+// Arkhan2 O perso2
+L12D63B
+ Odpovez! XXX
+// Bandor (überlegt schnell) perso7
+L12D65
+ Ehm... Velke Knezce, docela jiste. A jiste take velkemu Zedovi. XXX
+// Arkhan2 G perso2
+L12D66
+ Hmm ... Komu ješte? XXX
+// Bandor (zögert) perso7
+L12D68A
+ Hmm ... snad mel Rylsadhar cas, za Leonou jít. XXX
+// Bandor perso7
+L12D68B
+ To je zvláštní paní, oan zije v ríši Temne Zeme. Pouze málo lidem ona dùveruje ... XXX
+// Bandor perso7
+L12D68C
+ Ale tvùj otec s ní byl zadobre. XXX
+// Arkhan2 G perso2
+L12D69
+ Našel jsem Leonu. Mùj otec jí nic nedal. XXX
+// Bandor perso7
+L12D71
+ Pak nevím já o nikom jinem... Je mi líto ... XXX
+// Arkhan2 L perso2
+L12D72
+ Kde najdu Leonu? XXX
+// Arkhan2 O perso2
+L12D73
+ Kde najdu tuto Leonu? XXX
+// Bandor perso7
+L12D75A
+ Ona zije mimo Stalit, v ríši Temne Zeme. Nikdo neví presne kde ... XXX
+// Bandor perso7
+L12D75B
+ Nekterí ríkají, ze se ona v blízkosti príšer schovává ... XXX
+// Bandor perso7
+L12D75C
+ A jiní tvrdí, ze se nachází pouze tam, kde ona chce. XXX
+// Khorad perso83
+L12D76A
+ Na kazdý pád byl by nesmysl, Stallit opouštet ...  XXX
+// Khorad perso83
+L12D76B
+ Konecne jsou cesty zabarikádovaný a brány Stallitu zamcený! XXX
+// Arkhan2 G perso2
+L12D77A
+ U Rahala, ale ty jsi prece mistr Stavitel! XXX
+// Arkhan2 G perso2
+L12D77B
+ Znáš jiste nejakou jinou cestu, k opuštení Stallitu! XXX
+// Bandor perso7
+L12D78
+ Ne. Dríve tu byl Tunel, ale bud je zasypán nebo zatopen, kdyz bylo zemetresení. XXX
+// Khorad perso83
+L12D79
+ Ano, a to bylo pred mnoha slunecnímy cykly ... XXX
+// Arkhan2 L perso2
+L12D81A
+ Lory mi o takovem míste vyprávela, o hrobce. Tam musím já jít. XXX
+// Arkhan2 L perso2
+L12D81B
+ Víš ty cosi o tom? XXX
+// Bandor perso7
+L12D84
+ "Hrobka". Ne. Takove místo já neznám. XXX
+// Khorad perso83
+L12D85A
+ Stallit byl velmi dlouho staven.  XXX
+// Khorad perso83
+L12D85B
+ Sám mistr Bandor nezná všechny jeho tajemství. XXX
+// Arkhan2 O perso2
+L12D82A
+ Lory my o nejake hrobce vykládala. Vy a vaši pomocníci, vy jste staveli Stallit. XXX
+// Arkhan2 O perso2
+L12D82B
+ Kde je tato hrobka? XXX
+// Arkhan2 L perso2
+L12D91A
+ Videl jsem ve Spodním meste vchod do budovy. Vypadá jako dvere od predkù.  XXX
+// Arkhan2 L perso2
+L12D91B
+ Vy víte prece všechno o Stallitu - mohli byste mi ríci, jak se tam dovnitr dostanu? XXX
+// Bandor perso7
+L12D92
+ Toto místo je tajemstvím, i pro mne. XXX
+// Khorad perso83
+L12D93A
+ Ríká se, nekterí smetáci se tam pokoušeli, dovnitr dostat.Ale Dhorkan je nechal zatknout. XXX
+// Khorad perso83
+L12D93B
+ A od te doby se nikdo více nepokoušel, vniknout do budovy. XXX
+// Arkhan2 O perso2
+L12D94A
+ Dole jsou podivne dvere, nejake dvere od predkù. XXX
+// Arkhan2 O perso2
+L12D94B
+ Chci jít dovnitr, a vy mi reknete jak! XXX
+// Khorad perso83
+L12D95
+ Budova je dlouho prázdná, nikdo nemùze dovnitr. XXX
+// Arkhan2 L perso2
+L12D86A
+ Dekuji za vaši pomoc. XXX
+// Arkhan2 L perso2
+L12D86B
+ Já nechci vás rušit dele. Svetlo s vámi! XXX
+// Bandor perso7
+L12D87
+ Mnoho štestí, synu Rylsadharovo. XXX
+// Khorad perso83
+L12D88
+ A bud opatrný... XXX
+// Arkhan2 O perso2
+L12D89A
+ Tak, ztrácíme dosti casu. XXX
+// Arkhan2 O perso2
+L12D89B
+ Jdi stranou, nez ti neco udelám! XXX
+// Arkhan3 L perso3
+L12D64A
+ Kde se nachází další kristaly? XXX
+// Arkhan3 L perso3
+L12D64B
+ Víte kde? XXX
+// Arkhan3 L perso3
+L12D67
+ Hmm ... Komu ješte? XXX
+// Arkhan3 L perso3
+L12D70
+ Mluvil jsem s Leonou. Fehlanzeige. XXX
+// Arkhan3 L perso3
+L12D74
+ Kde najdu Leonu? XXX
+// Arkhan3 L perso3
+L12D80
+ Musí prece ješte jiná cesta být ... XXX
+// Arkhan3 L perso3
+L12D83
+ Hledám místo, hrobku. Kde je. XXX
+// Arkhan3 L perso3
+L12D96A
+ Ve Spodním meste jsou nejake dvere. Jiste budova od predkù. XXX
+// Arkhan3 L perso3
+L12D96B
+ Chci jít dovnitr. Mùzete mi pomoci? XXX
+// Arkhan3 L perso3
+L12D90
+ Díky. Svetlo s váma. XXX
+// Bandor perso7
+L12D105A
+ Jsi šílený! Dávej pozor! XXX
+// Bandor perso7
+L12D105B
+ Nedeláme ti nic, nech nás v klidu! XXX
+// Bandor (ist gezwungen, sich zu wehren) perso7
+L12D107
+ Khorade, napadni ho! XXX
+// Khorad perso83
+L12D41
+ Dej mistru Bandorovi hned plán nazpet! XXX
+// Arkhan2 G perso2
+L12D110
+ Jeho kapsi jsou prázdne! XXX
+// Arkhan3 G perso3
+L12D111
+ Proklate nic! XXX
+// Khorad perso83
+L12D30
+ Nedotýkej se toho plánu, je to dokument velke hodnoty! XXX
+// Bandor perso7
+L12D31
+ On patrí Mistrovi staviteli! XXX
+// Arkhan2 G perso2
+L12D28
+ Nic více k potrebe! XXX
+// Arkhan3 perso3
+L12D29
+ Nic více k potrebe. XXX
+// Arkhan2 G (dreht den Kopf in Richtung von Bandor & Khorad) perso2
+L12D35A
+ Pokud zádný z vás není Bandor.  XXX
+// Arkhan2 G (dreht den Kopf in Richtung von Bandor & Khorad) perso2
+L12D35B
+ Nebude vám jiste vadit, pokud vám tento plán spálím! XXX
+// Bandor (panisch) perso7
+L12D38
+ NE! XXX
+// Bandor (geht zu Arkhan) perso7
+L12D39
+ Tedy dobre, jsem Bandor. Dej mi mùj plán! XXX
+// Arkhan2 Gperso2
+L14D45
+ No konecne! XXX
+// Arkhan3 G perso3
+L12D36
+ Naposledy: Kdo z vás je Bandor? XXX
+// Arkhan3 G perso3
+L12D37
+ Nebo tento plán zde jde do plamenù! XXX
+// Arkhan3 G perso3
+L14D46
+ Bandore, no konecne! XXX
+// Arkhan2 G perso2
+L12D45
+ Vím, který z vás je Bandor, nespálím plán! XXX
+// Arkhan3 G perso3
+L12D46
+ Znám Bandora, já plán nespálím! XXX
+// Arkhan2 G perso2
+L12D103
+ Nic zajímaveho na psacím stole ... XXX
+// Arkhan3 G perso3
+L12D104
+ Nic na psacím stole... XXX
+// Arkhan2 G perso2
+L12D97
+ Na psacím stole nelezí nic. XXX
+// Arkhan3 perso3
+L12D98
+ Zde nic není! XXX
+// Arkhan2 G perso2
+L12D99
+ Na tomto pultu nelezí nic. XXX
+// Arkhan2 G perso2
+L12D101
+ Nejaká vec od predkù. XXX
+// Arkhan3 G perso3
+L12D102
+ Nejaká vec od predkù. XXX
+// Khorad (flüsternd) perso83
+L12D119
+ Dotkl se tyce! XXX
+// Bandor (flüsternd) perso7
+L12D120
+ My nemùzeme nic delat. Bude lepší, nic nedelat. XXX
+// Arkhan2 G perso2
+L12D117
+ Zatáhl jsem za páku. XXX
+// Arkhan3 G perso3
+L12D118
+ Zatáhl jsem za páku. XXX

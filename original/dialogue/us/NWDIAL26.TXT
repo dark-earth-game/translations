@@ -1,0 +1,160 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL26.TXT
+ // Arkhan2 L perso2
+L26D01
+ Father was planning to come back. XXX
+// Arkhan3 L perso3
+L26D02
+ Fire... XXX
+// Arkhan2 G (looking at a book)perso2
+L26D03
+ Let's take a look at this... XXX
+// Arkhan2 G (reading)perso2
+L26D03A
+ "The Children of  the Sun, those whom the Ancients called 'Runka,' today slumber in the bowels of the earth. XXX
+// Arkhan2 G perso2
+L26D03B
+ The Tombs of Dreams are their retreat, protected by their stone watchmen and the vigilance of the Initiates, the elect among humankind. XXX
+// Arkhan2 G perso2
+L26D03C
+ The day of their Awakening will change the face of mankind forever. Thus has it been foretold by Thorgrad and the other founders. XXX
+// Arkhan2 G perso2
+L26D03D
+ But the laws of the universe oppose the forces of light and their opposite. XXX
+// Arkhan2 G perso2
+L26D03E
+ The evil blood, the blood of the 'Shankrs,' flowed upon the Earth before and after the Great Cataclysm. XXX
+// Arkhan2 G perso2
+L26D03F
+ All life touched by the Darkness is corrupted and itself becomes a tool of corruption. XXX
+// Arkhan2 G perso2
+L26D03G
+ The Initiates have vowed upon the heads of their descendants to fight this evil wherever it is found, with fire and the sacred light." XXX
+// Arkhan2 G perso2
+L26D03H
+ It's signed "Thelen Khron, Initiate of the House of Thorgrad." XXX
+// Arkhan2 G (to himself) perso2
+L26D03I
+ Lory was right, my father knows more that I thought he did. XXX
+// Arkhan3 G (looking at a book)perso3
+L26D04
+ I can read that... XXX
+// Arkhan3 G (reading)perso3
+L26D04A
+"The Children of Sun, those whom the Ancients called 'Runka,' today slumber in the bowels of the earth. XXX
+// Arkhan3 G perso3
+L26D04B
+ The Tombs of Dreams are their retreat, protected by their stone watchmen and the vigilance of the Initiates, the elect among humankind. XXX
+// Arkhan3 G perso3
+L26D04C
+ The day of their Awakening will change the face of mankind forever. Thus it has been foretold by Thorgrad and the other founders. XXX
+// Arkhan3 G perso3
+L26D04D
+ But the laws of the universe oppose the forces of light and their opposite. XXX
+// Arkhan3 G perso3
+L26D04E
+The evil blood, the blood of the 'Shankrs,' flowed upon the Earth before and after Great Cataclysm. XXX
+// Arkhan3 G perso3
+L26D04F
+ All life touched by the Darkness is corrupted and itself becomes a tool of corruption. XXX
+// Arkhan3 G perso3
+L26D04G
+ The Initiates have vowed upon the heads of their descendants to fight this evil wherever it is found, with fire and the sacred light." XXX
+// Arkhan3 G perso3
+L26D04H
+ Signed "Thelen Khron, Initiate of the House of Thorgrad." XXX
+// Arkhan3 G to himself) perso3
+L26D04I
+ Hmm... Father kept things to himself... XXX
+// Arkhan2 G (searching) perso2
+L26D05
+ Let's see what's over here... XXX
+// Arkhan2 G (finding something) perso2
+L26D06
+ Yes... XXX
+// Arkhan3 G (searching) perso3
+L26D07
+ Looky here... XXX
+// Arkhan3 G (finding something) perso3
+L26D08
+ Yes... XXX
+// Arkhan2 G perso2
+L26D09
+ Nothing. XXX
+// Arkhan2 G perso2
+L26D10
+ Nothing on the lectern, nothing on the table... XXX
+// Arkhan3 G perso3
+L26D11
+ Nothing up there. XXX
+// Arkhan2 G perso2
+L26D12
+ No, it's just an old book from Before. XXX
+// Arkhan3 G perso3
+L26D13
+  Just an old book from Before. XXX
+// Arkhan2 L perso2
+L26D14A
+ I remember that...  XXX
+// Arkhan2 L (reminiscent) perso2
+L26D14B
+ My father used it to count the stars in the sky... XXX
+// Arkhan2 O perso2
+L26D15
+ There's something underneath! XXX
+// Arkhan2 G perso2
+L26D16
+ A key. XXX
+// Arkhan3 L perso3
+L26D19A
+ I remember... XXX
+// Arkhan3 L (reminiscent) perso3
+L26D19B
+ Father said he counted stars with this... XXX
+// Arkhan3 O perso3
+L26D20
+ Something underneath. XXX
+// Arkhan3 G perso3
+L26D21
+ A key. XXX
+// Arkhan2 G perso2
+L26D23
+ There's something under the book... XXX
+// Arkhan3 G perso3
+L26D25
+ Something under book... XXX
+// Arkhan2 G perso2
+L26D27A
+ It must open the door... but I can't leave now. XXX
+// Arkhan2 G perso2
+L26D27B
+ Lory told me I'd find the answer here! XXX
+// Arkhan3 G perso3
+L26D28A
+ This must open door... but I can't leave. XXX
+// Arkhan3 G perso3
+L26D28B
+ Lory said the answer was here... XXX
+// Arkhan2 G perso2
+L26D300
+ No, I can't leave. XXX
+// Arkhan3 G perso3
+L26D301
+ I can't leave. XXX
+//Arkhan2 G perso2
+L26D32
+ It works, it's opening. XXX
+//Arkhan3 G perso3
+L26D33
+ Open. XXX
+// Arkhan2 L (looking through the wrong end of the telescope) perso2
+L26D34
+ Hmm... Nothing but a big black hole. XXX
+// Arkhan3 L perso3
+L26D35
+ Can't see anything... XXX
+// Arkhan2 G perso2
+L26D36
+ There must be a mechanism somewhere that opens it. XXX
+// Arkhan3 G perso3
+L26D38
+ To open it. Must be a mechanism... XXX

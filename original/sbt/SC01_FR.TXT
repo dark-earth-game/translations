@@ -1,0 +1,43 @@
+00:52:00	00:53:20		{L'ancien monde,}
+00:53:22	00:55:28		{l'époque dorée de l'Avant,}
+00:56:00	00:59:08		{prit fin avec le Grand Cataclysme.}
+00:59:10	01:02:14		{Le feu noir venu du ciel engloutit la terre,}
+01:02:16	01:07:00		{la terre se fendit et la mer submergea la terre.}
+01:08:12	01:10:10		{Les cités de lumière élevées par les anciens}
+01:10:12	01:12:02		{redevinrent poussière et les ténèbres}
+01:12:04	01:14:06		{envahirent le monde à jamais.}
+01:16:24	01:19:06		{Lorsque les coupes pleines de la colère divine}
+01:19:08	01:21:22		{eurent fini de se vider sur notre monde,}
+01:21:24	01:23:18		{les élus épargnés par le Soleil-Dieu}
+01:23:20	01:25:16		{se levèrent au milieu du chaos.}
+01:26:14	01:27:14		{Guidés par leur foi,}
+01:27:16	01:29:02		{ils partirent à la recherche d'une terre}
+01:29:04	01:30:16		{oubliée des ténèbres}
+01:30:18	01:32:20		{où la vie pourrait renaître.}
+01:33:08	01:35:02		{Ils furent "les marcheurs",}
+01:35:04	01:36:24		{en quête de lumière et d'espérance}
+01:36:26	01:39:00		{au milieu des dangers de l'Obscur.}
+02:03:06	02:05:28		{Leur périple dura des lunes et des lunes,}
+02:06:00	02:07:08		{jusqu'au jour glorieux où}
+02:07:10	02:09:10		{les pères des pères de nos pères}
+02:09:12	02:13:04		{parvinrent enfin au terme de leur exode.}
+02:15:24	02:17:12		{Ils découvrirent une terre bénie}
+02:17:14	02:21:06		{par la lumière du Soleil-Dieu, un Stallite.}
+02:22:08	02:24:14		{Ils y bâtirent une cité et un temple}
+02:24:16	02:27:02		{à la gloire du Père-Lumière.}
+02:27:26	02:30:12		{Ils l'appelèrent Sparta.}
+02:31:14	02:34:00		{Aujourd'hui, une terrible menace}
+02:34:02	02:36:02		{pèse sur Sparta.}
+02:37:04	02:38:22		{Le destin de la cité toute entière}
+02:38:24	02:40:16		{se trouve lié à celui d'un seul homme.}
+02:41:24	02:44:00		{Arkhan, le Gardien du Feu.}
+02:45:10	02:48:10		{Pour faire face aux terribles épreuves qui l'attendent,}
+02:48:12	02:50:10		{il devra compter sur les siens.}
+02:51:24	02:53:16		{Sa douce Kalhi...}
+02:55:14	02:58:12		{Zed, son frère d'armes...}
+02:59:02	03:01:14		{Son père Rylsadhar...}
+03:02:28	03:05:28		{Lory, la Grande Prôneuse...}
+03:06:20	03:09:04		{Danrys, le fouineur...}
+03:09:06	03:10:24		{Mais s'ils échouent,}
+03:10:26	03:13:00		{jamais plus la lumière du Soleil-Dieu}
+03:13:02	03:16:08		{ne brillera sur Sparta!}

@@ -1,0 +1,91 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL35.TXT
+ // Arkhan2 G (discovering the underwater tunnel) perso2
+L35D01
+ Cg|iomx IZqZgjh, | hj^o qj_dnx kj_ ]j_je! XXX
+// Arkhan3 G (discovering the underwater tunnel) perso3
+L35D02
+ &agdfde JjgZZl! X qjbo kj_ ]j_je! XXX
+// Arkhan2 G (inside helmet) perso2
+L35D27
+ &jc_oq fjisdgm|... Fan! XXX
+// Arkhan3 G (inside helmet) perso3
+L35D28
+ &jc_oq fjisdgm|... Fan! XXX
+// Arkhan2 G (coming across a drowned body) perso2
+L35D03
+ $a_jgZ^Z... Gid iZrakdgd aho fZhid ]hamnj mZkj^! XXX
+// Arkhan3 G (coming across a drowned body) perso3
+L35D04
+ Hjmga_i|| baln]Z fjifZgdnj]. XXX
+// Arkhan2 G perso2
+L35D100
+ Kon ian idsa^j dinalamij^j. XXX
+// Arkhan3 G perso3
+L35D101
+ Kon idsa^j ian. XXX
+// Arkhan2 G perso2
+L35D102
+ Kon idsa^j ian. XXX
+// Arkhan3 G perso3
+L35D103
+ Fdsa^j. XXX
+// Arkhan2 G perso2
+L35D104
+ Fdsa^j jmj[aiij^j. XXX
+// Arkhan3 G perso3
+L35D105
+ Fdsa^j ia ]dbo. XXX
+// Arkhan2 G (looking at a skeleton) perso2
+L35D07
+ &jn snj mgosZanm|, fj^_Z fjifZgdnw mZbZzn na[| iZ _dano... XXX
+// Arkhan3 G (looking at a skeleton) perso3
+L35D08
+ <u~ j_iZ baln]Z fjifZgdnj]. XXX
+// Arkhan2 L perso2
+L35D09
+ Hwnjsiwa fganfd fjifZgdnj]. XXX
+// Arkhan3 L perso3
+L35D10
+ Hwnjsiwa fganfd fjifZgdnj]. XXX
+// Arkhan2 O (hitting a cell) perso2
+L35D11
+ Hj^ZiZ| fganfZ _g| kwnjf! XXX
+// Arkhan3 O (hitting a cell) perso3
+L35D12
+ Hj^Ziwa fjifZgdnw! XXX
+// Arkhan2 L perso2
+L35D15
+ JnZlZ| [jsfZ. XXX
+// Arkhan2 O (crashing around) perso2
+L35D16
+ +Z mfjgxfj b yndq [jsaf non! XXX
+// Arkhan3 L perso3
+L35D17
+ JnZlZ| [jsfZ. XXX
+// Arkhan3 O (crashing around) perso3
+L35D18
+ HZltd]wa [jsfd! XXX
+// Arkhan2 G (searching skeleton) perso2
+L35D19
+ G_id gdtx fjmnd... XXX
+// Arkhan3 G (searching skeleton) perso3
+L35D20
+ Cjmnd! XXX
+// Arkhan2 G (finding object under skeleton) perso2
+L35D21
+ Ve, hjbij j_jgbdnx?.. <mgd na[a ia iobij. XXX
+// Arkhan3 G (finding object under skeleton) perso3
+L35D22
+ G^j... JkZmd[j, _lo^! XXX
+// Arkhan2 G perso2
+L35D23
+ Iodiw dc $wgj^j... XXX
+// Arkhan3 G perso3
+L35D24
+ Iodiw dc $wgj^j... XXX
+// Arkhan2 G (sea monster) perso2
+L35D25
+ Fa-a... ia mnjdn amnx! XXX
+// Arkhan3 G ("searching" the sea monster) perso3
+L35D26
+ Fan... non iasa^j amnx! XXX

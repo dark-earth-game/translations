@@ -1,0 +1,1156 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL08.TXT
+ // Delia (panicked) perso10
+L08D215A
+ Arkhan! XXX
+// Delia (panicked) perso10
+L08D215B
+ Tam... Kreatura z Mrocznych Ziem! XXX
+// Delia (panicked) perso10
+L08D215C
+ Co... Co my teraz zrobimy? XXX
+// Arkhan2 G perso2
+L08D217A
+ Nie martw sie, ja sie nim zajme... XXX
+// Arkhan2 G perso2
+L08D217B
+ Nie ruszaj sie chocby nie wiem co! XXX
+// Arkhan3 G perso3
+L08D218
+ Cos wymysle... Zostan tu! XXX
+// Kalhi perso33
+L08D153
+ Ostroznie Arkhan. Trzymajmy sie razem. XXX
+// Guardian3 perso43
+L08D92
+ Czy sadzisz zatem, ze Patrzacy w Slonce mowi prawde? ...Ze Calun Mroku rzeczywiscie nam zagraza? XXX
+// Guardian4 perso44
+L08D93A
+ Nie wiem... XXX
+// Guardian4 perso44
+L08D93B
+ Ale po ataku na Wielka Patrzaca lepiej badzmy czujni! XXX
+// Guardian4 perso44
+L08D93C
+ Jesli te smiecie wroca, dostana mala niespodzianke ode mnie! XXX
+// Guardian3 perso43
+L08D94A
+ Dobrze gadasz! Zaplaca za smierc Jedara wlasna krwia! XXX
+// Guardian3 perso43
+L08D94B
+ I za to co zrobili Arkhanowi! XXX
+// Guardian4 perso44
+L08D95
+ A co z Wielka Patrzaca? XXX
+// Guardian3 perso43
+L08D96A
+ Po ogloszeniu stanu wyjatkowego ukryla sie. XXX
+// Guardian3 perso43
+L08D96B
+ Dhorkan trzyma wszystko pod kontrola. XXX
+// Guardian4 perso44
+L08D97A
+ Tak! Powiadaja, ze Zed poluje w Nizszym Miescie na stwory, ktore to zrobily... XXX
+// Guardian4 perso44
+L08D97B
+ Okej, chodzmy. Lepiej wrocmy na stanowiska. XXX
+// Guardian5 perso45 
+L08D223
+ Patrzacy w Slonce mowia, ze Mrok nim owladnal! Ze nie jest juz jednym z nas! XXX
+// Guardian6 perso46
+L08D224A
+ To nie oznacza, ze knuje z Konkalitami! XXX
+// Guardian6 perso46
+L08D224B
+ Gdyby Arkhan probowal skrzywdzic Wielka Patrzaca, powiedzialaby. XXX
+// Guardian5 perso45
+L08D225A
+ Skad wiesz? Dhorkan nie dopuszcza nikogo do Wielkiej Patrzacej. XXX
+// Guardian5 perso45
+L08D225B
+ Kwestia bezpieczenstwa. XXX
+// Guardian6 perso46
+L08D226
+ Nikt nie wmowi mi, ze Arkhan to zdrajca. XXX
+// Guardian5 perso45
+L08D227A
+ Taa... Chyba, ze choroba przezarla juz jego mozg.... XXX
+// Guardian5 perso45
+L08D227B
+ Nie martw sie, jesli sprobuje czegokolwiek dostane go! XXX
+// Guardian5 perso45
+L08D316
+ Znalezli cos? XXX
+// Guardian6 perso46
+L08D317A
+ Jeszcze nie.. poza dziewczyna Lupiezcow. XXX
+// Guardian6 perso46
+L08D317B
+ Ale bylbym zaskoczony gdyby ona miala cos z tym wspolnego....  XXX
+// Guardian5 perso45
+L08D318A
+ Skad wiesz?! Bardzo dziwne rzeczy sie tu ostatnio dzialy... XXX
+// Guardian5 perso45
+L08D318B
+ Tak czy owak Lupiezcy powinni sie stad trzymac z daleka. XXX
+// Guardian6 perso46
+L08D319
+ Wsadzili ja do paki. Jesli wie cokolwiek, zlamie sie i zacznie mowic. XXX
+// Guardian5 perso45
+L08D320
+ Taa. Nim to sie stanie miejcie oczy otwarte! XXX
+// Guardian7 perso47
+L08D143
+ Slyszales to? Kabak mowi, ze kreatury z Zewnetrznych Ziem sa w Nizszym Miescie. XXX
+// Guardian8 perso48
+L08D144A
+ Kabak to tylko stary, sfiksowany pierdziel! XXX
+// Guardian8 perso48
+L08D144B
+ Boskie Slonce poddaje probie nasza wiare. XXX
+// Guardian8 perso48
+L08D144C
+ Nie martwie sie. Boskie Slonce nas nie opusci. XXX
+// Guardian7 perso47
+L08D145A
+ No nie wiem... cala ta sprawa przyprawia mnie o dreszcze. XXX
+// Guardian7 perso47
+L08D145B
+ A co jesli noc nigdy sie nie skonczy?! XXX
+// Guardian8 perso48
+L08D146A
+ Nie badz smieszny! XXX
+// Guardian8 perso48
+L08D146B
+ Boisz sie i dlatego bluznisz! XXX
+// Kalhi perso33
+L08D220
+ Chodzmy stad. I tak zbyt wielu ludzi nas widzialo... XXX
+// Kalhi perso33
+L08D321
+ Arkhan nie odchodz za daleko! XXX
+// Kalhi perso33
+L08D322
+ Co robisz? XXX
+// Kalhi perso33
+L08D323
+ Arkhan zostan tu ze mna! XXX
+// Kalhi2 (whispers) perso33
+L08D209A
+ Zostan przy mnie i nie odchodz za daleko. XXX
+// Kalhi2 (whispers) perso33
+L08D209B
+ Tam jest Gwardzista! XXX
+// Kalhi (stunned) perso13
+L08D335A
+ Ty... wrociles po mnie? XXX
+// Kalhi (stunned) perso13
+L08D335B
+ Co cie podkusilo? XXX
+// Kalhi (close to tears) perso13
+L08D335C
+ To zlo odbiera ci rozum! XXX
+// Kalhi perso13
+L08D157
+ Arkhan! Na milosc Boskiego Slonca pospiesz sie! XXX
+// Kalhi perso13
+L08D156
+ Jesli zostaniemy tu dluzej, ktos nas zauwazy! XXX
+// Kalhi perso13
+L08D155
+ Arkhan wynosmy sie stad! XXX
+// Guardian10 perso50
+L08D310
+ Wielki Solaarze! Jestes potworem! XXX
+// Kalhi perso13
+L08D158
+ Zaczekam tu. Szybko! XXX
+// Guardian3 perso43
+L08D303
+ Uwaga! XXX
+// Guardian6 perso46
+L08D304
+ Uwaga! XXX
+// Guardian7 perso47
+L08D305
+ Uwaga! XXX
+// Guardian8 perso48
+L08D147
+ Okej, ide po wsparcie. Potrzebuje amunicji! XXX
+// Guardian7 perso47
+L08D148
+ Miejcie oczy otwarte! XXX
+// Guardian7 (shouting in Arkhan's direction) perso47
+L08D149
+ Ktos probuje sie przekrasc! XXX
+// Guardian5 perso45
+L08D141
+ Kto idzie?! XXX
+// Guardian6 (towards A.) perso46
+L08D124
+ Stoj! Kto idzie! XXX
+// Guardian3 (after Arkhan's battle cry) perso43
+L08D01
+ Co cie napadlo? XXX
+// Guardian4 (after Arkhan's battle cry) perso44
+L08D02
+ Zamkne twoja gebe! XXX
+// Guardian5 perso45
+L08D270
+ Upuszcze troche twojej krwi! XXX
+// Guardian6 (attacked by A.) perso46
+L08D140
+ Nie dostaniesz mnie! XXX
+// Guardian4 perso44
+L08D242
+ Zatrzymac go! XXX
+// Guardian3 (alarmed to see A. advance, addresses his partner as if to say "what do we do now"?) perso43
+L08D243
+ Garn?! XXX
+// Guardian4 (taking out his weapons, frightened) perso44
+L08D222
+ Do diabla, to demon z Mrocznych Ziem! XXX
+// Guardian3 perso43
+L08D241
+ Garn uwazaj! XXX
+// Guardian4 perso44
+L08D324
+ Hej ty tam! Stoj! XXX
+// Guardian10 perso50
+L08D229
+ Witaj zlotko! XXX
+// Kalhi perso33
+L08D312A
+ Witaj Gwardzisto Ognia. XXX
+// Kalhi perso33
+L08D312B
+ Eskortuje tego wieznia do szpitala. XXX
+// Guardian10 perso50
+L08D210
+ Uwazaj twoj wiezien ucieka! XXX
+// Guardian10 perso50
+L08D311
+ Hej tam! Gdzie idziesz! XXX
+// Kalhi perso13
+L08D230
+ Mogles mi chociaz pomoc pozbyc sie tego gwardzisty! XXX
+// Guardian3 (attacked by Arkhan) perso43
+L08D152
+ Hej! Rozejm! XXX
+// Guardian3 (A. puts away his weapon) perso43
+L08D235
+ Teraz lepiej! XXX
+// Arkhan1 L perso1
+L08D03
+ Niech swiatlosc bedzie z toba Teskhan. XXX
+// Guardian3 perso43
+L08D04
+ I z toba Arkhan. XXX
+// Arkhan1 L perso1
+L08D05
+ Co porabiasz? XXX
+// Guardian3 perso43
+L08D06A
+ Nie slyszales? Wielki Zed szykuje sie do nowej wyprawy do Mrocznych Ziem. Kapitan Phedoria rozkazala mi pomoc jemu. XXX
+// Guardian3 perso43
+L08D06B
+ Jak widzisz trzeba zreperowac mase sprzetu nim wyruszy. XXX
+// Guardian3 perso43
+L08D06C
+ A wyrusza wraz z nastepnym wschodem Boskiego Slonca! XXX
+// Arkhan1 L perso1
+L08D07
+ Jestes stworzony do tej pracy! XXX
+// Guardian3 perso43
+L08D08
+ Radze sobie, to zaszczyt pomagac czlowiekowi pokroju Zeda. Masz szczescie, ze jestes jego przyjacielem... XXX
+// Arkhan1 L perso1
+L08D17
+ Musze isc trzymac straz przy Wielkiej Swiatyni. XXX
+// Guardian3 perso43
+L08D18
+ Taa, wydaje mi sie, ze Jedar juz tam jest... XXX
+// Arkhan1 L perso1
+L08D19
+ Nie wiesz co sie dzieje? XXX
+// Guardian3 perso43
+L08D20A
+ Wielka Patrzaca w Slonce spotyka sie z Lupiezcami. Wydaje mi sie, ze cos odkryli. XXX
+// Guardian3 perso43
+L08D20B
+ Nie przejmuj sie, jesli Dhorkan wysyla tylko ciebie i Jedara, nie powinno potrwac dlugo.... XXX
+// Arkhan1 L perso1
+L08D236
+ Ide, do zobaczenia. XXX
+// Guardian3 (1st time) perso43
+L08D237
+ Powodzenia Arkhan. XXX
+// Guardian3 (2nd time, impatient) perso43
+L08D238
+ Taa. Lepiej juz ruszaj! XXX
+// Arkhan1 O (mumbles) perso1
+L08D10
+ Mmmm... Teskhan. XXX
+// Arkhan1 O perso1
+L08D11
+ Dalej zaharowujesz sie jak kretyn? XXX
+// Guardian3 perso43
+L08D12
+ Zartujesz? Kapitan Phedoria poprosila mnie bym pomogl wielkiemu Zedowi przygotowac sie do jego kolejnej wyprawy. XXX
+// Arkhan1 O perso1
+L08D13A
+ Parszywy zywot Gwardzisty Ognia! Powinienem pojsc w slady mojego ojca i zostac Patrzacym w Slonce! XXX
+// Arkhan1 O perso1
+L08D13B
+ Wszystko co musi robic to wymamrotac raz na jakis czas kazanie o Boskim Sloncu. XXX
+// Arkhan1 O perso1
+L08D13C
+ Poza tym, spedza caly czas z nosem w starych, zakurzonych dokumentach, ktorych nikt nie pojmuje.... XXX
+// Guardian3 perso43
+L08D14A
+ Nie mow tak. Rylsadhar jest jednym z najmadrzejszych i najbardziej szanowanych ludzi w Stallite. XXX
+// Guardian3 perso43
+L08D14B
+ Jest przykladem dla wszystkich innych Patrzacych w Slonce. XXX
+// Arkhan1 O perso1
+L08D23A
+ No coz, mam wlasna robote. Musze pilnowac Holu w Wielkiej Swiatyni z Jedarem. XXX
+// Arkhan1 O perso1
+L08D23B
+ To dopiero bedzie ubaw! Na pewno ubarwi ten dzien! XXX
+// Guardian3 perso43
+L08D24
+ Sluchaj, masz szczescie. W takich przypadkach Dhorkan zwykle wysyla przynajmniej dziesieciu Gwardzistow, ktorzy musza potem stac w szyku godzinami. XXX
+// Arkhan1 O perso1
+L08D239A
+ Dzieki. Widze, ze nie poprawisz mi humoru. XXX
+// Arkhan1 O perso1
+L08D239B
+ Musze odwalic ciezka robote i... XXX
+// Guardian3 perso43
+L08D240
+ Baw sie dobrze! XXX
+// Arkhan2 L perso2
+L08D126
+ Teskhan nie boj sie. XXX
+// Guardian3 (can't believe his eyes) perso43
+L08D127
+ Arkhan... Ty... Ja... Co za przeklenstwo spadlo na ciebie? XXX
+// Arkhan2 L perso1
+L08D100B
+ Kreatury, ktore zaatakowaly Wielka Patrzaca zatruly mnie. XXX
+// Arkhan2 L perso1
+L08D100C
+ Musze znalezc sposob na wyleczenie tej choroby. XXX
+// Guardian3 perso43
+L08D129A
+ Nie martw sie. Dhorkan zablokowal wszystkie wejscia. XXX
+// Guardian3 perso43
+L08D129B
+ Zlapiemy wszystkich intruzow.  Zed osobiscie wyruszyl by ich upolowac. XXX
+// Guardian3 perso43
+L08D129C
+ Mozesz byc pewien, ze kreatury, ktore zaatakowaly Lory zaplaca zyciem! XXX
+// Guardian3 perso43
+L08D129D
+ Kreatury, ktore zrobily... to... tobie. XXX
+// Arkhan2 L perso2
+L08D130A
+ Hej Teskhan, nie patrz tak na mnie! XXX
+// Arkhan2 L perso2
+L08D130B
+ Nadal jestem Gwardzista Ognia jak ty. XXX
+// Guardian3 perso43
+L08D131
+ Sluchaj..Powinienes spotkac sie z komendantem. XXX
+// Arkhan2 O perso2
+L08D132
+ Hej daj spokoj! Przestan gapic sie na mnie jakbym byl kreatura z Mrocznych Ziem! XXX
+// Arkhan2 O perso2
+L08D133A
+ Moje cialo plonie od tej trucizny! XXX
+// Arkhan2 O perso2
+L08D133B
+ Musze dzialac szybko. Musze znalezc lek. XXX
+// Guardian3 perso43
+L08D134
+ Jesli jestes chory, pogadaj z uzdrowicielami. XXX
+// Arkhan2 O perso2
+L08D135
+ Chyba nie mozesz juz nic dla mnie zrobic... XXX
+// Arkhan1 L perso1
+L08D25
+ Hej, chcesz lyka? XXX
+// Guardian3 perso43
+L08D26
+ Stohll nie dziala zbyt dobrze na mnie! XXX
+// Arkhan1 L perso1
+L08D27
+ Na pewno? Na pewno nie jestes spragniony? XXX
+// Guardian3 perso43
+L08D28
+ Zapomnij. Nie szaleje za tym grzybowym swinstwem. XXX
+// Arkhan1 O perso1
+L08D29
+ Spragniony? Mam flaszke pelna Stohllu! XXX
+// Guardian3 perso43
+L08D30
+ Zapomnij, mowilem, ze nie lubie Stohllu! XXX
+// Arkhan1 O perso1
+L08D31
+ Jestes Gwardzista Ognia czy jakims mieczakiem z Nizszego Miasta? No dalej, napij sie! XXX
+// Guardian3 perso43
+L08D32
+ Przestan Arkhan. Nie chce zadnego soku z grzybow! XXX
+// Arkhan1 G perso1
+L08D33
+ Czy ten przedmiot cos ci mowi? XXX
+// Guardian3 perso43
+L08D34
+ Nie. Daj spokoj. XXX
+// Guardian3 perso43
+L08D325
+ Daj spokoj! XXX
+// Arkhan1 G perso1
+L08D37
+ Hej! Spokojnie! XXX
+// Guardian3 perso43
+L08D232
+ Czekaj no potworze! XXX
+// Guardian4 perso44
+L08D221
+ Arkhan?... XXX
+// Guardian4 perso44
+L08D151
+ Hej... Spokojnie! XXX
+// Arkhan1 L perso1
+L08D39
+ Niech swiatlosc bedzie z toba Garn. XXX
+// Guardian4 perso44
+L08D40
+ Swiatlosc z toba Arkhan. XXX
+// Guardian4 perso44
+L08D41
+ Jestem na sluzbie. Komendant Dhorkan stac tutaj az do odwolania. XXX
+// Arkhan1 L perso1
+L08D48
+ Musze isc pilnowac Wielkie Swiatyni. XXX
+// Guardian4 perso44
+L08D49
+ Wielka Swiatynia co? XXX
+// Guardian4 perso44
+L08D50
+ Mozesz ruszac, droga wolna! XXX
+// Arkhan1 L perso1
+L08D51
+ Wiesz co sie tam dzieje? XXX
+// Guardian4 perso44
+L08D52A
+ Specjalna narada Wielkiej Patrzacej, cos w tym stylu...XXX
+// Guardian4 perso44
+L08D52B
+ To nie nasz dzien. Zwykle powiadamiaja nas wczesniej i wszyscy idziemy razem. XXX
+// Arkhan1 L perso1
+L08D42
+ Mam nadzieje, ze sie zabawimy. XXX
+// Guardian4 perso44
+L08D43
+ Taa, ja tez... XXX
+// Arkhan1 O perso1
+L08D53
+ Rety Garn, wyglada na ekscytujaca prace... XXX
+// Guardian4 perso44
+L08D54
+ Smiej sie Arkhan! Nigdy wiadomo, Dhorkan moze zdecydowac sie zastapic mnie toba o zmroku.... XXX
+// Arkhan1 O perso1
+L08D45
+ Nie bawisz sie zbyt dobrze, prawda? XXX
+// Arkhan1 O perso1
+L08D55
+ Niewiele sie dzieje, prawda? Ja tez mam nudne zadanie: musze isc pilnowac Holu w Wielkiej Swiatyni. XXX
+// Arkhan1 O perso1
+L08D46
+ Tak trzymaj! Przy odrobinie szczescia Dhorkan zwolni cie zanim wychodzisz dziury w butach! XXX
+// Guardian4 perso44
+L08D47A
+ Taa... Moze powinienem mu powiedziec, ze szukasz czegos do roboty i ze moglbys mnie zastapic! XXX
+// Arkhan1 O perso1
+L08D56
+ Nie bede cie zatrzymywal! Mam wrazenie, ze daleka przed toba droga! XXX
+// Guardian4 (irritated by Arkhan and beginning to get nasty) perso44
+L08D57
+ Dam ci drobna rade: wynos sie stad albo bedziesz mial klopoty... XXX
+// Arkhan2 L perso2
+L08D98A
+ W porzadku Garn, to ja. XXX
+// Arkhan2 L perso2
+L08D98B
+ Nie pogryze cie! XXX
+// Guardian4 (still not reassured) perso44
+L08D99A
+ Nie.. Nie... Ale jestes... inny. XXX
+// Guardian4 (still unsure) perso44
+L08D99B
+ Nie bierz tego do siebie, ale skad mam wiedziec, ze mowisz prawde? XXX
+// Arkhan2 L perso1
+L08D100A
+ Garn, wiem co ci powiedzieli i w co chcieliby zebys wierzyl... ale ja nie zrobilem nic zlego. XXX
+// Guardian4 perso44
+L08D101A
+ Tak... Wierze ci. XXX
+// Guardian4 perso44
+L08D101B
+ Jestes przyjacielem wielkiego Zeda, a wiec ufam tobie. XXX
+// Guardian4 perso44
+L08D101C
+ Ale Dhorkan oglosil stan wyjatkowy. Wszyscy intruzi co do jednego sa wylapywani. XXX
+// Guardian4 perso44
+L08D101D
+ Powinienes pojsc powiedziec mu co sie stalo. XXX
+// Arkhan2 L perso1
+L08D102A
+ Nadal jestem Gwardzista Ognia. XXX
+// Arkhan2 L perso1
+L08D102B
+ Przysiegam na Boskie Slonce, to prawda! XXX
+// Guardian4 perso44
+L08D103A
+ Okej. XXX
+// Guardian4 perso44
+L08D103Z
+ Wierze ci. XXX
+// Arkhan2 O (threatening) perso1
+L08D104
+ Sluchaj Garn, jesli chcesz cieszyc sie zdrowie, trzymaj sie z dala ode mnie! XXX
+// Guardian4 perso44
+L08D105A
+ Co w ciebie wstapilo Arkhan! XXX
+// Guardian4 perso44
+L08D105B
+ Mamy teraz stan wyjatkowy. XXX
+// Guardian4 perso44
+L08D105C
+ Wypelnie moj obowiazek. Nie straszne mi twe pogrozki! XXX
+// Arkhan2 O perso1
+L08D106A
+ Z drogi! Musze znalezc antidotum na te trucizne zanim mnie zniszczy! XXX
+// Arkhan2 O perso1
+L08D106B
+ A jesli po drodze bede musial rozpruc kilku idiotow jak ty, zrobie to bez wahania! XXX
+// Guardian4 (furious) perso44
+L08D107A
+ Patrzacy w Slonce mial racje, choroba odbiera ci rozum. XXX
+// Guardian4 (furious) perso44
+L08D107B
+ Nie jestes juz Gwardzista Ognia! XXX
+// Arkhan2 O perso1
+L08D108
+ Odsun sie slabeuszu! XXX
+// Guardian4 (prepares to hit A.) perso44
+L08D109
+ Nie pozostawiasz mi wyboru! XXX
+// Arkhan1 L perso1
+L08D58
+ Pewnie zrobiles sie spragniony od tego maszerowania! XXX
+// Guardian4 perso44
+L08D59
+ Nie dziekuje. Nie na sluzbie. XXX
+// Arkhan1 L perso1
+L08D60
+ No dalej, zrob mi przysluge. XXX
+// Guardian4 perso44
+L08D61A
+ Nie, doprawdy. XXX
+// Guardian4 perso44
+L08D61B
+ Ale pozniej, kiedy zapala sie juz lampy, nie odmowie malego lyczka. XXX
+// Arkhan1 O perso1
+L08D62
+ No juz, maly lyk ci nie zaszkodzi! XXX
+// Arkhan1 O perso1
+L08D63
+ Tam do kata, jestes jeszcze sztywniejszy niz Patrzacy w Slonce! No juz, napij sie! XXX
+// Guardian4 (irritated) perso44
+L08D64
+ Mowilem juz, nie chce mi sie pic! XXX
+// Arkhan1 G perso1
+L08D65
+ Czy ten przedmiot cos ci mowi? XXX
+// Guardian4 perso44
+L08D66
+ Nie. Przestan marnowac moj czas. XXX
+// Guardian4 perso44
+L08D228
+ Co? Nie... Nie interesuje mnie to. XXX
+// Guardian4 (hit by A.) perso44
+L08D69
+ Arkhan! Nie szalej! XXX
+// Guardian4 (hit by A.) perso44
+L08D231
+ To prawda, jestes zupelnie nieludzki! XXX
+// Guardian5 (sees Arkhan2 1st time) perso45
+L08D117A
+ Na Rahala... Arkhan? XXX
+// Guardian5 (awed) perso45
+L08D117B
+ Nie...... Nie podchodz blizej! XXX
+// Guardian5 perso45
+L08D116
+ Nie ekscytuj sie, nie zrobilem nic zlego! XXX
+// Arkhan2 L perso2
+L08D244A
+ Nie panikuj. XXX
+// Arkhan2 L perso2
+L08D244B
+ Nie szukam bojki. XXX
+// Guardian5 perso45
+L08D245A
+ Okej... Okej. XXX
+// Guardian5 perso45
+L08D245B
+ Ale lepiej juz daj spokoj... XXX
+// Guardian5 perso45
+L08D245C
+ Nikt cie tu nie chce. XXX
+// Arkhan2 L perso2
+L08D246A
+ Posluchaj, moj ojciec Rylsadhar zna lek na te chorobe. XXX
+// Arkhan2 L perso2
+L08D246B
+ I uwierz mi. zamierzam sie wyleczyc! XXX
+// Guardian5 (openly hostile) perso45
+L08D247A
+ Nie wszyscy Patrzacy w Slonce mysla podobnie do twojego ojca! XXX
+// Guardian5 perso45
+L08D247B
+ Moze nie ma leku! XXX
+// Guardian5 perso45
+L08D247C
+ Byloby lepiej gdybys poszedl na wygnanie do Mrocznych Ziem zanim ktos sprobuje zalatwic cie na dobre! XXX
+// Guardian5 perso45
+L08D247D
+ Przemysl to, zanim bedzie za pozno... XXX
+// Arkhan2 L perso2
+L08D248A
+ Widze, ze mi nie ufasz. XXX
+// Arkhan2 L perso2
+L08D248B
+ Porozmawiamy o tym innym razem, kiedy wroce juz do normalnego stanu. XXX
+// Arkhan2 L perso2
+L08D249
+ Udowodnie, ze sie mylisz kolezko. Wkrotce... przekonasz sie. XXX
+// Guardian5 (hostile) perso45
+L08D250
+ Bede mial na ciebie oko Arkhan! XXX
+// Guardian5 (threatening) perso45
+L08D258
+ Przekonamy sie o tym.... Przekonamy... XXX
+// Arkhan2 O perso2
+L08D251A
+ Do diaska! Tak, to ja! XXX
+// Arkhan2 O perso2
+L08D251B
+ Nie stoj tak z wywalonym jezykiem! XXX
+// Guardian5 perso45
+L08D252A
+ Le... Lepiej idz stad. XXX
+// Guardian5 perso45
+L08D252B
+ Komendant nie chcialby, zeby stwor jak ty krecil sie tutaj. XXX
+// Arkhan2 O perso2
+L08D253A
+ Nie wierz w to! XXX
+// Arkhan2 O perso2
+L08D253B
+ Komendant dal mi specjalne zadanie! XXX
+// Arkhan2 O perso2
+L08D253C
+ A wiec idz czepiac sie kogo innego! XXX
+// Arkhan2 O perso2
+L08D254A
+ Jak myslisz, jak nabawilem sie takiej pieknej buzki? Nadstawiajac karku za Wielka Patrzaca! XXX
+// Arkhan2 O perso2
+L08D254B
+ Gdzie byles kiedy ja ryzykowalem wlasny zyciem, co? XXX
+// Guardian5 perso45
+L08D255A
+ Wielka Patrzaca?... Ona juz tu nie rozkazuje. XXX
+// Guardian5 perso45
+L08D255B
+ Od teraz wladca Stallite jest Dhorkan i nikt inny! XXX
+// Guardian5 perso45
+L08D255C
+ Wiec wbij to sobie do glowy! XXX
+// Arkhan2 O (pretends to smell something) perso2
+L08D256A
+ Co to za smrod? XXX
+// Arkhan2 O perso2
+L08D256B
+ To ty! Tak bardzo sie boisz, ze caly sie spociles ty psie.. XXX
+// Guardian5 (furious) perso45
+L08D257A
+ Orzesz... ty...! XXX
+// Guardian5 (furious) perso45
+L08D257B
+ Rozwale ci te przebrzydla morde!  XXX
+// Guardian5 (afraid and angry) perso45
+L08D260A
+ Kreatura z Mrocznych Ziem! XXX
+// Guardian5 perso45
+L08D260B
+ Zaloze sie, ze to twoja wina! XXX
+// Guardian5 perso45
+L08D260C
+ Sciagnales na nas gniew Wielkiego Solaara! XXX
+// Arkhan2 L (softly) perso1
+L08D261A
+ Posluchaj mnie... Uspokoj sie... XXX
+// Arkhan2 L perso1
+L08D261B
+ Przyszedlem tu w poszukiwaniu odpowiedzi... XXX
+// Guardian5 perso45
+L08D262A
+ Klamca! Heretyk! XXX
+// Guardian5 perso45
+L08D262B
+ Nadszedl twoj czas! XXX
+// Arkhan2 O perso2
+L08D263A
+ Ty wciaz tutaj! XXX
+// Arkhan2 O perso2
+L08D263B
+ Myslalem, ze bedziesz szukal sobie kryjowki! XXX
+// Guardian5 perso45
+L08D264
+ Nie! Nie jestem tchorzem! XXX
+// Arkhan2 O (threatening) perso2
+L08D265A
+ Sluchaj frajerze! Dhorkan nawial stad. Nikt niczego nie zrobi. XXX
+// Arkhan2 O perso2
+L08D265B
+ Jedyny czlowiek, ktory wciaz ma szanse uratowac Stallite stoi przed toba! XXX
+// Arkhan2 O perso2
+L08D265C
+ A teraz albo sie ode mnie odczepisz, albo rozwale ci leb! XXX
+// Arkhan2 O perso2
+L08D265D
+ Dociera? XXX
+// Guardian5 (awed) perso45
+L08D266
+ Ja... uh... taa. Pojalem. XXX
+// Arkhan2 O perso2
+L08D267A
+ Zostaniesz tu i bedziesz pilnowal swego stanowiska jak grzeczny chlopczyk! XXX
+// Arkhan2 O perso2
+L08D267B
+ Jesli nie bedzie cie tutaj kiedy wroce, znajde cie i zabije! XXX
+// Guardian5 (swallowing) perso45
+L08D268
+ Rozumiem. XXX
+// Guardian5 (swallowing) perso45
+L08D269
+ ... Pewnie, oczywiscie. XXX
+// Guardian5 perso45
+L08D119
+ Nie. Nie chce sie z toba zadawac! XXX
+// Guardian5 (hit by A.) perso45
+L08D123
+ Przygotuj sie na spotkanie ze stworca! XXX
+// Guardian6 (wary, since Arkhan is on guard) perso46
+L08D114A
+ Arkhan..? Czy to... czy to ty? XXX
+// Guardian6 perso46
+L08D114B
+ Sluchaj... Tyl... Tylko spokojnie, okej? XXX
+// Guardian6 perso46
+L08D125
+ Arkhan?! Czy to ty?! XXX
+// Guardian6 perso46
+L08D271
+ Potwor! Dernak, ratunku! XXX
+// Guardian6 (confronting A. in combat) perso46
+L08D115
+ Hej! Spokojnie! XXX
+// Guardian6 (A. puts away weapon) perso46
+L08D272
+ Tak lepiej. A teraz zachowujmy sie rozsadnie. XXX
+// Arkhan2 L perso2
+L08D273A
+ Wiem, ze ostrzegali cie przede mna. XXX
+// Arkhan2 L perso2
+L08D273B
+ Ale uwierz mi, pragne tylko powrocic do normalnego stanu. XXX
+// Guardian6 perso46
+L08D274A
+ Uh-huh... Nie bede cie zatrzymywal. XXX
+// Guardian6 perso46
+L08D274B
+ Lepiej jednak badz czujny. Wielu innych Gwardzistow chcialoby cie dostac w swoje rece. XXX
+// Arkhan2 L perso2
+L08D275
+ Pragne tylko leku na moja chorobe. XXX
+// Guardian6 perso46
+L08D276
+ Taa... Ale jesli uzdrowiciele nie byli w stanie ci pomoc... kto inny moze cie wyleczyc? XXX
+// Arkhan2 L perso2
+L08D277
+ Znajde cos, zobaczysz! XXX
+// Arkhan2 L perso2
+L08D278
+ Nie masz nic przeciwko temu, zebym ruszal dalej? XXX
+// Guardian6 perso46
+L08D279
+ Nie. Ale nie zapominaj, ze tu jestesmy. XXX
+// Guardian6 perso46
+L08D280
+ Idz. Ale zachowaj spokoj. XXX
+// Arkhan2 O perso2
+L08D281A
+ Wygladasz na takiego co wie o wielu sprawach! XXX
+// Arkhan2 O perso2
+L08D281B
+ Nie chcesz mi sprawiac klopotow, prawda? XXX
+// Guardian6 perso46
+L08D282A
+ Nie chce z toba walczyc Arkhan. XXX
+// Guardian6 perso46
+L08D282B
+ Ale jesli mnie sprowokujesz bede musial dobyc miecza. XXX
+// Arkhan2 O perso2
+L08D283
+ Nie szukaj klopotow Gwardzisto, albo nie pozyjesz by tego pozalowac! XXX
+// Guardian6 perso46
+L08D284
+ Arkhan, gdybys ciagle byl Gwardzista Ognia, zrozumialbys, ze wypelniam tylko moje obowiazki! XXX
+// Arkhan2 O perso2
+L08D285
+ Z drogi psie! XXX
+// Guardian6 perso46
+L08D286
+ Tego juz za wiele! XXX
+// Arkhan2 L perso2
+L08D287A
+ Nie pozwol by ogarnal cie strach przed mrokiem. XXX
+// Arkhan2 L perso2
+L08D287B
+ Wciaz mozemy z tego wyjsc. XXX
+// Guardian6 perso46
+L08D288
+ Mowisz jakbys wiedzial co sie dzieje! XXX
+// Arkhan2 L perso2
+L08D289
+ Zaufaj mi, okej? XXX
+// Arkhan2 L perso2
+L08D290A
+ Patrzacy w Slonce Thanandar stoi za wszystkim. XXX
+// Arkhan2 L perso2
+L08D290B
+ Zostal zarazony, tak jak ja. XXX
+// Arkhan2 L perso2
+L08D290C
+ Pozwolil by trucizna zniszczyla jego umysl, ale ja zamierzam walczyc do samego konca! XXX
+// Guardian6 perso46
+L08D291
+ Musimy go powstrzymac! Gdzie sie ukrywa? XXX
+// Arkhan2 L perso2
+L08D292A
+ Nie wiem. Ale badz ostrozny, on nie jest juz czlowiekiem. XXX
+// Arkhan2 L perso2
+L08D292B
+ Myslalem, ze go zabilem, ale nie chcial umrzec . XXX
+// Arkhan2 L perso2
+L08D292C
+ Ostrzez pozostalych Gwardzistow. Jesli go nie zabijecie, on zniszczy was wszystkich! XXX
+// Arkhan2 L perso2
+L08D293
+ Miej oczy otwarte, okej? XXX
+// Guardian6 perso46
+L08D294
+ Tak. Nie martw sie. XXX
+// Arkhan2 O perso2
+L08D295
+ Pojmuje. Ty tez nic nie wiesz?  XXX
+// Guardian6 perso46
+L08D296A
+ Zamknij jadaczke jesli wiesz co dla ciebie dobre Arkhan! XXX
+// Guardian6 perso46
+L08D296B
+ Moze to wszystko twoja wina! XXX
+// Arkhan2 O perso2
+L08D297A
+ Powiem ci co naprawde sie stalo! XXX
+// Arkhan2 O perso2
+L08D297B
+ Czlowiek, ktory za tym wszystkim stoi to Patrzacy w Slonce Thanandar. XXX
+// Arkhan2 O perso2
+L08D297C
+ Zostal zarazony, ale nikt nie zdawal sobie z tego sprawy! XXX
+// Arkhan2 O perso2
+L08D297D
+ Wszyscy byliscie zbyt zajeci polowaniem na mnie! XXX
+// Guardian6 perso46
+L08D298
+ Gdzie jest ten Patrzacy w Slonce? XXX
+// Arkhan2 O perso2
+L08D299A
+ Gdybym tylko wiedzial! XXX
+// Arkhan2 O perso2
+L08D299B
+ Ale jesli sie na niego natkniesz, przygotuj sie na walke swego zycia! XXX
+// Arkhan2 O perso2
+L08D299C
+ Nie jest czlowiekiem. Zabija dla zabawy. XXX
+// Arkhan2 O perso2
+L08D299D
+ I uwierz mi, nigdy nie mozesz byc pewien, ze rzeczywiscie go zabiles!  XXX
+// Arkhan2 O perso2
+L08D300
+ Zostan tu i miej oczy otwarte, zrozumiales? XXX
+// Arkhan2 O perso2
+L08D301
+ Uwazaj na siebie, w porzadku? XXX
+// Guardian6 perso46
+L08D302
+ Okej. XXX
+// Guardian6 perso46
+L08D138
+ Daj spokoj. XXX
+// Arkhan2 G perso2
+L10D02A
+ Czekaj tu. Wkrotce wroce. XXX
+// Arkhan3 G perso3
+L10D02B
+ Zaraz wracam.  XXX
+// Arkhan1 G perso1
+L08D306
+ Stohll, grzybowy alkohol. XXX
+// Arkhan2 G perso2
+L08D307
+ To Stohll. XXX
+// Arkhan3 G perso3
+L08D308
+ Stohll. XXX
+// Arkhan1 G perso1
+L08D70
+ Flaszka jest juz pelna... XXX
+// Arkhan2 G perso2
+L08D71
+ Nie, flaszka jest juz pelna. XXX
+// Arkhan3 G perso3
+L08D72
+ Flaszka jest pelna! XXX
+// Arkhan1 G perso1
+L02D299
+ Huh! Nic tylko stare beczki... XXX
+// Arkhan2 G perso2
+L02D302
+ Tylko sterta starych beczek... XXX
+// Arkhan3 G perso3
+L02D303
+  Sterta starych beczek... XXX
+//Arkhan1 L perso1
+L08D77
+ Puszki z racjami zywnosciowymi... puste. XXX
+//Arkhan2 L perso1
+L08D78
+ W tych puszkach nic nie ma. XXX
+//Arkhan3 L perso1
+L08D79
+ Puste puszki. XXX
+// Arkhan1 G perso1
+L08D83A
+ Latajacy rydwan wynaleziony przez Budowniczych.  XXX
+// Arkhan1 G perso1
+L08D83B
+ Ta konstrukcja nie poleci dopoki nie bedzie mocnego wiatru! XXX
+// Arkhan2 G perso1
+L08D84
+ Nie rozumiem w czym ten latajacy rydwan mialby pomoc. XXX
+//Arkhan3 L perso1
+L08D85
+ Ta rzecz jest mi nie pomoze... XXX
+// Arkhan1 G perso1
+L08D86A
+ To zeglujacy rydwan. XXX
+// Arkhan1 G perso1
+L08D86B
+ Pojazd dla tych, ktorzy osmielaja sie wyruszyc do Mrocznych Ziem. XXX
+// Arkhan2 G perso1
+L08D88
+ Zeglujacy rydwan dla podrozujacych do Mrocznych Ziem. XXX
+// Arkhan3 G perso1
+L08D90A
+ Zeglujacy rydwan. XXX
+// Arkhan3 G perso1
+L08D90B
+ Mi sie nie przyda... XXX
+// Arkhan1 G perso1
+L08D328
+ Fontanna ognia. XXX
+// Arkhan1 L perso1
+L08D329
+ Wzniesiona przez Budowniczych zanim sie urodzilem. XXX
+// Arkhan1 O (imitates Dhorkan, mocking) perso1
+L08D330
+ "Duma Gwardzistow Ognia". XXX
+// Arkhan2 G perso2
+L08D331A
+ Fontanna ognia. XXX
+// Arkhan2 G perso2
+L08D331B
+ Juz czuje bijace cieplo. XXX
+// Arkhan3 G perso3
+L08D332A
+ Fontanna ognia. XXX
+// Arkhan3 G perso3
+L08D332B
+ Zar... niemal nie do zniesienia... XXX
+// Arkhan2 G perso2
+L08D500
+ Idziemy, powoli i spokojnie. XXX
+// Arkhan3 G perso3
+L08D501
+ Ruszajmy. XXX
+// Delia (not reassured, low voice) perso10
+L08D502
+ Ty idz pierwszy... XXX
+// Arkhan2 G perso2
+L08D503
+ Widzialas kiedys cos takiego? XXX
+// Arkhan3 G perso3
+L08D504
+ Czy wiesz co to jest? XXX
+// Delia (low voice) perso10
+L08D505
+ Nie! Arkhan blagam.. XXX
+// Kalhi perso13
+L08D339
+ Hej, uwazaj! XXX
+// Kalhi perso13
+L08D233
+ Arkhan nie! XXX
+// Kalhi perso13
+L08D234
+ Teraz lepiej. Uspokoj sie. XXX
+// Arkhan2 L perso2
+L08D175
+ Musimy wydostac sie na zewnatrz niepostrzezenie. XXX
+// Arkhan3 L perso3
+L08D176
+ Sprobuj wrocic na zewnatrz nie dajac sie zlapac. XXX
+// Kalhi perso13
+L08D177
+ Tam jest gwardzista, nie bedzie latwo. XXX
+// Arkhan2 O perso2
+L08D178
+ Nie mysl o tym, po prostu zrob to! XXX
+// Arkhan3 O perso3
+L08D179
+ Najpierw skacz, potem patrz! Ruszaj ! XXX
+// Kalhi perso13
+L08D180
+ Mozemy chociaz sprobowac najpierw obejsc straznika! XXX
+// Arkhan2 G (low voice) perso2
+L08D203
+ Badz gotowa do walki gdy straznik nas zatrzyma! XXX
+// Arkhan3 G (low voice) perso3
+L08D204
+ Jesli gwardzista sie ruszy, ja sie nim zajme! XXX
+// Kalhi (whispers) perso33
+L08D205
+ Okej. Ale nie chce przelewac krwi jesli nie musze. XXX
+// Arkhan2 G perso2
+L04D66
+ Trzymaj sie mnie, zrozumiano? XXX
+// Arkhan3 G perso3
+L04D67
+ Za mna! XXX
+// Kalhi perso13
+L04D68
+ Okej. XXX
+// Arkhan2 G perso2
+L02D114A
+ Zobacz, znalazlem to u Bogdarana. XXX
+// Arkhan2 G perso2
+L02D114B
+ Stary uniform z czasow gdy jeszcze byl szczuply! XXX
+// Arkhan3 G perso3
+L02D115
+ Zaloz to! XXX
+// Kalhi perso13
+L02D116
+ Mam nadzieje, ze bedzie pasowac. XXX
+// Kalhi perso33
+L08D213
+ Spojrz na to! Idealne przebranie. XXX
+// Kalhi (taking charge) perso13
+L08D214
+ Dalej, za mna! XXX
+// Kalhi (refuses to put on uniform...) perso13
+L08D219
+ Dasz mi to kiedy bedziemy na dole! XXX
+// Kalhi (refuses to put on uniform...) perso13
+L08D212
+ Jestesmy zbyt blisko Gwardzisty, moze nas zobaczyc! XXX
+// Arkhan2 G perso2
+L08D336
+ Patrz na to! XXX
+// Arkhan3 G perso3
+L08D337
+ Patrz! XXX
+// Kalhi perso13
+L08D338
+ Nie ma czasu Arkhan, musimy stad isc! XXX
+// Arkhan2 G perso2
+L08D333
+ Wszystko co sie stalo to twoja wina! XXX
+// Arkhan3 G perso3
+L08D334
+ Wszystko przez ciebie! XXX
+// Kalhi (forced to defend herself) perso33
+L04D43
+ Arkhan nie! XXX
+// Guardian10 perso50
+L08D327
+ Hej stworze! Nie czemu nie zaczepisz kogo wlasnych rozmiarow! XXX
+// Kalhi perso13
+L08D341
+ Nie pozostawiasz mi wyboru! XXX
+// Kalhi perso13
+L08D340
+ Nie, przestan! XXX
+// Arkhan2 G (low voice, mocking) perso2
+L08D200A
+ Oszukasz kazdego. Wygladasz zupelnie jak Phedoria. XXX
+// Arkhan2 G (low voice) perso2
+L08D200B
+ Dalej, chodzmy. XXX
+// Arkhan3 G (low voice) perso3
+L08D201
+ Prawdziwy gwardzista. Chodzmy! XXX
+// Kalhi (whispers) perso33
+L08D202A
+ Dalej, smiej sie jeszcze! XXX
+// Kalhi (whispers) perso33
+L08D202B
+ Idz za mna jakbys byl moim wiezniem. XXX
+// Kalhi (whispers) perso33
+L08D202C
+ Odloz swoja bron.. XXX
+// Kalhi (whispers) perso33
+L08D202D
+ I trzymaj kciuki, zeby wszystko sie udalo. XXX
+// Kalhi (whispers) perso33
+L08D202E
+ Idziemy! XXX
+// Guardian10 perso50
+L08D326
+ Ide, Gwardzista! XXX
+// Arkhan2 L perso2
+L08D313
+ Nie panikuj kolego, to ja Arkhan. XXX
+// Arkhan2 O perso2
+L08D314
+ Spojrzyj mi w oczy i pozegnaj sie ze swiatlem. XXX
+// Arkhan3 L perso3
+L08D315
+ Uspokoj sie. To ja Arkhan. XXX

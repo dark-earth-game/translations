@@ -1,0 +1,16 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL44.TXT
+ // Arkhan3 O perso3
+L41D15
+ Copak je to za místo?! XXX
+// Arkhan3 L perso3
+L41D05
+ Je zavrene! Musím jiste jít dál. XXX
+// Arkhan3 O perso3
+L41D06
+ Jsem zavrený! XXX
+// Arkhan3 L perso3
+L41D07
+ Zádná moznost, otevrít ... XXX
+// Arkhan3 O perso3
+L41D08
+ Nic se nedá delat! Jsem zavrený! XXX

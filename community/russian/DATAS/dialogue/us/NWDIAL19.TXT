@@ -1,0 +1,409 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL19.TXT
+ // Malrot5 (challenges Arkhan) perso65
+L19D88
+ FZlw]Zatxm| iZ _lZfo? +Z]Ze! XXX
+// Kalhi perso13
+L19D01
+ JkZmd[j, +baiiZ. Ahaiij nj, snj iobij. XXX
+// Malrot5 perso65
+L19D02
+ &ma^_Z f n]jdh omgo^Zh, amgd mje_~hm| ] raia. XXX
+// Kalhi perso13
+L19D03A
+ #lqZi! XXX
+// Kalhi perso13
+L19D03B
+ &jn snj | lZc_j[wgZ _g| na[|. XXX
+// Kalhi perso13
+L19D03C
+ Fa nZf hij^j, ij iZ_azmx, kjhjban klj_albZnxm|. XXX
+// Arkhan2 G perso2
+L19D04
+ JkZmd[j, CZgd. X jsaix raiz ynj. XXX
+// Kalhi perso13
+L19D06A
+ X kjklj[oz iZend na[a ragdnag|. XXX
+// Kalhi perso13
+L19D06B
+ Clakdmx, hdgwe! XXX
+// Arkhan2 G (proud of Kalhi) perso2
+L19D07
+ GiZ o_d]dnagxiZ! XXX
+// Arkhan3 G (proud of Kalhi) perso3
+L19D08
+ GiZ - iasnj! XXX
+// Malrot5 (A. takes "en garde" position) perso65
+L19D94
+ Ve! Gn]Zgd, hjl_Z! XXX
+// Malrot5 perso65
+L19D89
+ FZcZ_, honZin! XXX
+// Delia perso10
+L16D122
+ N]Zndn! Kw ko^Zatx hai|! XXX
+// Malrot5 perso65
+L19D95
+ IZmmgZ[xm|, ]jn nZf gosta! XXX
+// Arkhan2 L perso2
+L19D09
+ +Z kla[o_an m nj[je J]an, homjludrZ. XXX
+// Malrot5 perso65
+L19D10A
+ Kw ia cZkgonZg, _lo^? XXX
+// Malrot5 perso65
+L19D10B
+ Kw kldt~g kj Z_lamo. +j[lj kjbZgj]Znx f homjludfZh. XXX
+// Arkhan2 O (giving the Malrot the once-over)perso2
+L19D10
+ Hljfg|nxa! Fo d [~_lZ! XXX
+// Malrot5 (ironic, as if recalling Arkhan's name) perso65
+L19D11
+ KZf-nZf... Ewtdiwe fjljgx, ]alij? XXX
+// Arkhan2 O perso2
+L19D12
+ Fan, nw jtd[gZmx... Ragfoisdf. XXX
+// Malrot5 (amused, playing the game) perso2
+L19D13
+ CZf | hj^gZ cZ[wnx na[|, mnZlwe saln|fZ. XXX
+// Arkhan2 G perso2
+L19D15
+ Eai| cj]on #lqZi, _lo^ homjludfj]. XXX
+// Malrot5 (ironic) perso65
+L19D16A
+ Vnj _lo^ja _agj! XXX
+// Malrot5 (ironic) perso65
+L19D16B
+ +g| iZsZgZ, nw ia kjqjb iZ kldirZ. XXX
+// Malrot5 (ironic) perso65
+L19D16C
+ # amgd [w nw au~ c]Zgm| "#lqZi, kjnljtdnagx homjludfj]", | [w iZmnjljbdgZmx. XXX
+// Arkhan2 L perso2
+L19D17A
+ X ]w^g|bo nZf, kjnjho snj hai| kjlZcdg ia_o^. XXX
+// Arkhan2 L perso2
+L19D17B
+ Fj ia ]jgioem|, | ia bagZz na[a cgZ. XXX
+// Arkhan2 O perso2
+L19D18
+ Pnj nw iam~tx? X [jgai, ]jn kjsaho o hai| nZfja gdrj! XXX
+// Malrot5 perso65
+L19D19
+ Fo, amgd nw [jgai, na[a iobij kjdmfZnx ragdnag| ] &alqiah ^jlj_a. XXX
+// Arkhan2 L perso2
+L19D20A
+ & &alqiah ^jlj_a _g| hai| maesZm bZlfj]Znj. XXX
+// Arkhan2 L perso2
+L19D20B
+ Eai| klamga_ozn mnlZbd j^i|. XXX
+// Malrot5 perso65
+L19D21A
+ JnlZbd j^i|? XXX
+// Malrot5 perso65
+L19D21B
+ Fa mfZbd, snj nw [jdtxm| yndq ljqgae! XXX
+// Arkhan2 L (ex-Guardian of Fire, don't forget) perso2
+L19D22A
+ *h... Fan, ij | kjfZ snj ia qjnag [w m idhd _lZnxm|! XXX
+// Arkhan2 L perso2
+L19D22B
+ +Z d ragdnagd, hia ]l|_ gd sah-nj kjhj^on. XXX
+// Arkhan2 L perso2
+L19D22C
+ X _jgbai mZh gafZlmn]j iZend, amgd qjso mnZnx fZf ]ma! XXX
+// Arkhan2 O perso2
+L19D23A
+ Fa mnjdn d _ohZnx, snj ] &alqiah ^jlj_a hia kjhj^on. XXX
+// Arkhan2 O perso2
+L19D23B
+ JnlZbd j^i| ^jnj]w jm]aba]Znx hai| bd]x~h! XXX
+// Arkhan2 O (ex-Guardian of Fire, don't forget) perso2
+L19D24A
+ Ve, ia nZfda ob jid d ljqgd, fZf na[a fZbanm|... XXX
+// Arkhan2 O perso2
+L19D24B
+ A jid o[xzn hai| [ac fjga[Zide. XXX
+// Arkhan2 O perso2
+L19D24C
+ A klj]d_rw m dq ragdnag|hd ia gosta. XXX
+// Arkhan2 O perso2
+L19D24D
+ KZf snj _j]al|nx hj^o | njgxfj ma[a... XXX
+// Arkhan2 O perso2
+L19D24E
+ A fjiasij _j[lwh homjludfZh Fdbia^j ^jlj_Z! XXX
+// Arkhan2 L perso2
+L19D25
+ Kw ciZatx c_amx fj^j-id[o_x, fnj hia kjhjban? XXX
+// Arkhan2 O perso2
+L19D26
+ JfZbd, fnj hia kjhjban ] ynje fgjZfa?! XXX
+// Malrot5 perso65
+L19D27A
+ & iZtdq flZ|q, amgd nw kj mZhoz taz ] _alxha, kjhjban njgxfj #lhZg JZ_Zf. XXX
+// Malrot5 perso65
+L19D27B
+ Fj ji ]l|_ gd kjhjban na[a. XXX
+// Arkhan2 G perso2
+L19D28
+ Hjsaho? XXX
+// Malrot5 perso65
+L19D29
+ Hljmnj mfZbah, n]j~ [agx~ ia nj^j r]anZ, amgd nw ogj]dg hjz hwmgx! XXX
+// Arkhan2 G (knows Armal Sadak) perso2
+L19D30
+ +Z gZ_ij, nw a^j ]fom kljmnj ia_jjraid]Zatx... XXX
+// Arkhan2 L perso2
+L19D31
+ #lhZg JZ_Zf, ^_a hia iZend a^j? XXX
+// Malrot5 perso65
+L19D32A
+ >Z[o_x j[ ynjh. XXX
+// Malrot5 perso65
+L19D32B
+ <mgd na[a kj]ac~n, ] gostah mgosZa ji dc[Z]dn na[| jn mnlZ_Zide. XXX
+// Arkhan2 L perso2
+L19D33A
+ JgotZe, malx~cij. X qjso o]d_anx ynj^j #lhZgZ JZ_ZfZ. XXX
+// Arkhan2 L perso2
+L19D33B
+ Vnj ]jkljm bdcid d mhalnd! XXX
+// Malrot5 perso65
+L19D34A
+ #lhZg JZ_Zf bd]~n iZ "IZc]Zgzqa" iakj_Zgafo. XXX
+// Malrot5 perso65
+L19D34B
+ Vnj mnZlja mo_ij, fjnjlja jid kj_gZnZgd. XXX
+// Malrot5 perso65
+L19D34C
+ Fj amgd qjsatx kljend hdhj ]wtd[Zg, iobiw lafjhai_Zrdd. XXX
+// Arkhan2 L perso2
+L19D35
+ A sxd? +ZildmZ? XXX
+// Malrot5 perso65
+L19D36A
+ Fan, +agdd. GiZ nZirj]udrZ ] ijsijh fgo[a. XXX
+// Malrot5 perso65
+L19D36B
+ <~ [jmm, EZjl, ia [jgngd]. Fj jiZ ciZan #lhZgZ JZ_ZfZ. XXX
+// Malrot5 perso65
+L19D36C
+ <mgd mohaatx a~ o[a_dnx, ]jchjbij, jiZ d kjhjban na[a. XXX
+// Malrot5 (to herself) perso65
+L19D36D
+ Fj ^g|_| iZ na[|, | [w iZ ynj ia mnZ]dgZ... XXX
+// Arkhan2 L perso2
+L19D37
+ IZmmfZbatx snj-id[o_x au~? XXX
+// Malrot5 perso65
+L19D38
+ A nZf mgdtfjh hij^j mfZcZgZ! XXX
+// Malrot5 perso65
+L19D39
+ +Zgxta ob mZhd, &Zta [acj[lZcda! XXX
+// Arkhan2 0 perso2
+L19D40A
+ PdnZe kj ^o[Zh, t]Zgx! XXX
+// Arkhan2 O perso2
+L19D40B
+ Kw m_agZatx nZf, snj[ #lhZg JZ_Zf kjhj^ hia, dgd | na[a... XXX
+// Malrot5 (furious) perso65
+L19D41
+ X na[a ] ^gjnfo cZnjgfio n]jd mgj]Z, kZ_Zgx! XXX
+// Arkhan3 L perso3
+L19D42
+ +Z kla[o_an... XXX
+// Malrot5 (impressed) perso65
+L19D43A
+ Gn]Zgd! XXX
+// Malrot5 (impressed) perso65
+L19D43B
+ Kw au~ fnj? Ka[a sa^j? XXX
+// Arkhan3 L perso3
+L19D44
+ Eai| cj]on #lqZi. XXX
+// Malrot5 (warily) perso65
+L19D45A
+ X na[| lZixta ia ]d_agZ non. XXX
+// Malrot5 (warily) perso65
+L19D45B
+ & s~h klj[gahZ? XXX
+// Arkhan3 L perso3
+L19D46A
+ $jgacix. XXX
+// Arkhan3 L perso3
+L19D46B
+ X duo gafZlmn]j. XXX
+// Malrot5 (warily) perso65
+L19D47
+ >_amx ]l|_ gd jnwuatx... XXX
+// Arkhan3 L perso3
+L19D48
+ Kw ciZatx fj^j-id[o_x, fnj [w... kjhj^ hia? XXX
+// Malrot5 perso65
+L19D49A
+ Ejban, #lhZg JZ_Zf... XXX
+// Malrot5 perso65
+L19D49B
+ Fj | [w iZ ynj ia mnZ]dgZ! XXX
+// Arkhan3 L perso3
+L19D50
+ *_a hia iZend #lhZgZ JZ_ZfZ? XXX
+// Malrot5 perso65
+L19D51A
+ <^j _jh sonx _Zgxta... bagaciwe fjlZ[gx... XXX
+// Malrot5 perso65
+L19D51B
+ Fj no_Z [ac kld^gZtaid| gosta ia cZ|]g|nxm|... XXX
+// Arkhan3 L perso3
+L19D52
+ Cnj hjban kjhjsx hia? XXX
+// Malrot5 perso65
+L19D53A
+ >Z[o_x, ^j]jlz! XXX
+// Malrot5 perso65
+L19D53B
+ Amsacid! X oba ]m~ na[a mfZcZgZ! XXX
+// Malrot5 (going to attack A.) perso65
+L19D54
+ X na[| kjl]o iZ fomfd! XXX
+// Arkhan2 L perso2
+L19D55
+ Fa ko^Zem|. XXX
+// Arkhan2 O perso2
+L19D56
+ Fa [jem|, | baiudio ia nljio! XXX
+// Malrot5 perso65
+L19D57
+ DZ_ij. Fj j_di ia]aliwe bamn, d nw kjfjeidf! XXX
+// Arkhan2 L perso2
+L19D58
+ Cnj nZf ]c]dindg na[|? XXX
+// Arkhan2 O perso2
+L19D59
+ Pnj nw kmdqoatx-nj nZf? XXX
+// Malrot5 perso65
+L19D60A
+ Kon snj-nj ia nj kljdmqj_dn! XXX
+// Malrot5 perso65
+L19D60B
+ X ia dc ko^gd]wq. XXX
+// Malrot5 perso65
+L19D60C
+ Fj... | ]d_agZ naid... kl|hj cZ o^gjh ] kalaogfa. XXX
+// Malrot5 perso65
+L19D60D
+ Kaid... ia sagj]asxd... ndkZ na[|. XXX
+// Malrot5 perso65
+L19D60E
+ Jkal]Z blon, kjnjh cZ_Zzn ]jkljmw... XXX
+// Malrot5 perso65
+L19D60F
+ <mgd nw kji|g hwmgx! XXX
+// Arkhan2 L perso2
+L19D61
+ Fa [jem|, | cZuduo na[|. XXX
+// Arkhan2 O (defiantly) perso2
+L19D62
+ Homnx n]jd naid njgxfj ]wmoion c_amx m]jd ^jgj]w, jid kjbZgazn! XXX
+// Arkhan2 G perso2
+L19D63
+ &d_agZ snj-nj au~? XXX
+// Malrot5 perso65
+L19D64
+ Fan, ij m hai| d nj^j q]Zndn! XXX
+// Arkhan3 L perso3
+L19D65
+ Fan, ia ko^Zem|... XXX
+// Malrot5 (violent because scared) perso65
+L19D66A
+ Hjdud _lo^oz baln]o, hjimnl! XXX
+// Malrot5 perso65
+L19D66B
+ Ka[a ia kjilZ]dnm| iZ ]fom hje fgdijf! XXX
+// Arkhan3 L perso3
+L19D67
+ Pa^j nw [jdtxm|? XXX
+// Malrot5 perso65
+L19D68
+ K]Zlae, nZfdq ba, fZf nw! XXX
+// Arkhan3 L perso3
+L19D69
+ Pnj nw ]d_agZ? XXX
+// Malrot5 perso65
+L19D70
+ >Znfidmx. Jhjem|! XXX
+// Malrot5 (A. shows him an object) perso65
+L19D97
+ Jkl|sx, qjljtj? XXX
+// Arkhan2 G perso2
+L19D99
+ JfZbd, homjludrZ... XXX
+// Malrot5 (interrupting Arkhan) perso65
+L19D100
+ Jkal]Z jlobda mkl|sx, kZlaix. Eai| ial]dloan! XXX
+// Arkhan3 L perso3
+L19D101
+ X qjso ciZnx... XXX
+// Arkhan2 G perso2
+L19D93
+ Fa _]d^Zem|! XXX
+// Arkhan2 L perso2
+L19D90
+ Fobij ]alionxm| ] &alqide ^jlj_. Hjtgd! XXX
+// Delia (worried) perso10
+L19D91
+ X cZ nj[je mga_jh, #lqZi. XXX
+// Arkhan2 O perso2
+L19D92A
+ Ew kj_idhZahm| ] &alqide ^jlj_. XXX
+// Arkhan2 O perso2
+L19D92B
+ +albdmx mlZco cZ hije, | ia qjso kjnal|nx na[| kj kond! XXX
+// Arkhan3 G perso3
+L14D239
+ Hj_idhahm| ] &alqide ^jlj_. XXX
+// Delia perso10
+L14D240
+ A_~h. X cZ nj[je mga_jh. XXX
+// Delia (hit by Arkhan) perso10
+L10D95
+ Fan! Kw m_olag? N]Zndn! XXX
+// Arkhan2 G perso2
+L19D73
+ >_amx njgxfj homjl... XXX
+// Arkhan3 G perso3
+L19D74
+ Eomjl... XXX
+// Arkhan2 G perso2
+L19D75
+ Ve, nZh _a]otfZ nZiroan ]ionld. XXX
+// Arkhan3 G perso3
+L19D76
+ Nh-h... nZh _a]otfZ nZiroan... XXX
+// Arkhan2 G perso2
+L19D77
+ Fa lZc^g|_anx! XXX
+// Arkhan3 G perso3
+L19D78
+ >_amx komnj... XXX
+// Arkhan2 G perso2
+L19D79
+ JnZlja fjgamj. &m~ kljlbZ]agj. XXX
+// Arkhan3 G perso3
+L19D80
+ JnZlja ]j_|ija fjgamj. XXX
+// Malrot5 perso65
+L19D81
+ Pnj na[a au~ iZ_j? XXX
+// Arkhan2 G perso3
+L19D83
+ KZh ia ]d_ij idsa^j... # bZgx... XXX
+// Arkhan3 G perso3
+L19D84
+ Fa ]d_ij... XXX
+// Arkhan2 G perso2
+L19D85
+ JnZlZ| ^idgZ| [jsfZ... XXX
+// Arkhan3 G perso3
+L19D86
+ JnZlZ| [jsfZ... XXX

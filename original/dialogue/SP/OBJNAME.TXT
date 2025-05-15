@@ -1,0 +1,202 @@
+123456789012
+
+@1
+Uniforme
+@2
+Anillo Llave
+@3
+Placa metal
+@4
+Plato
+@5
+Barra metal
+@6
+Mun. Lanzall.
+@7
+Bolas
+@8
+Líquido Hir.
+@9
+Tirador
+@10
+Mapa Antes
+@11
+Llave Roja
+@12
+Cristal 2
+@13
+Legum. gorda
+@14
+Llave Konk.
+@15
+Llave Sordos
+@16
+Llave Bogd.
+@17
+Martillo
+@18
+Cristal 1
+@19
+Cristal 3
+@20
+Espejo
+@21
+Frasco
+@22
+Frasquito
+@23
+Rayo Antes
+@24
+Cantimplora
+@25
+Ropas
+@26
+Hacha
+@27
+Lanzallamas
+@28
+Cuch. Largo
+@29
+Palo
+@30
+Picador
+@31
+Poción
+@32
+Rayo pequeño
+@33
+Placa plomo
+@34
+Patata
+@35
+Rayo Zed
+@36
+Raíz
+@37
+Alabarda
+@38
+Sable
+@39
+Mun. Rayo peq.
+@40
+Objeto Antes
+@41
+Objeto Antes
+@42
+Vaso
+@43
+Pescado
+@44
+Carne
+@45
+Lámina roca
+@46
+Notas Ryls.
+@47
+Hacha Konk.
+@48
+Palo roto
+@49
+Doc. Sordos
+@50
+Plano arma
+@51
+Pala
+@52
+Dibujos
+@53
+Trinchador
+@54
+Bola de fuego
+@55
+Escupidor
+@56
+Rata
+@57
+Arma Sordos
+@58
+Sable Zed
+@59
+Sable Vagab.
+@60
+Moneda
+@61
+Mangual
+@62
+Alabarda
+@63
+Daga
+@64
+Pollo
+@65
+Tazón
+@66
+Rayo
+@67
+Hacha
+@68
+Rayo Zed
+@69
+Salvaguarda
+@70
+Plano Bandor
+@71
+Combinación
+@72
+Mun. rayo
+@73
+Mun. Zed
+@74
+Piolet
+@75
+Llave Crist.
+@76
+Maza
+@77
+Cantimplora
+@78
+Maza Danrys
+@79
+Hacha
+@80
+Espada Dhor.
+@81
+Pergamino
+@82
+Libro
+@83
+Sable
+@84
+Casco
+@85
+Peto
+@86
+Bombona
+@87
+Ficha Yong
+@88
+Tubo
+@89
+Llave Pris.
+@90
+Bala
+@91
+Puñal
+@92
+Puñal largo
+@93
+Estilete
+@94
+Mazo
+@95
+Mortero
+@96
+Gran llave
+@97
+Tonel
+@98
+Piedra moler
+@99
+Lata
+@fin
+

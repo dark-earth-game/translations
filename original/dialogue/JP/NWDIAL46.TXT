@@ -1,0 +1,91 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL46.TXT
+ // Arkhan2 G (discovering his father lying wounded) perso2
+L46D01
+ Great Solaar! Father! XXX
+// Arkhan3 G (discovering his father lying wounded) perso3
+L46D02
+ Father, no! XXX
+// Rylsadhar (contaminated) perso21
+L46D03
+ Arkhan... I... I did not succeed... XXX
+// Arkhan2 G perso2
+L46D04
+ Father, what... who did this to you? XXX
+// Arkhan3 G perso3
+L46D05
+ Father, who did this?! XXX
+// Rylsadhar c(contaminated) perso21
+L46D06A
+ Dhorkan... That miserable traitor... XXX
+// Rylsadhar (contaminated) perso21
+L46D06B
+ Handed me over to the Konkalites... XXX
+// Arkhan2 G perso2
+L46D07
+ I'll get him, father. I promise you, he'll pay for this! XXX
+// Arkhan3 G perso3
+L46D08
+ He'll pay, father! XXX
+// Rylsadhar (contaminated) perso21
+L46D09A
+ No, my son... Dhorkan is nothing but an ignorant fool! XXX
+// Rylsadhar (contaminated) perso21
+L46D09B
+ Thanandar is the real threat! He controls the Konkalites... XXX
+// Rylsadhar (contaminated) perso21
+L46D09C
+ Dhorkan knows nothing. XXX
+// Rylsadhar (contaminated) perso21
+L46D09D
+ Zed and I... were captured... contaminated... XXX
+// Rylsadhar (contaminated) perso21
+L46D09E
+ I... I escaped... but I am too weak... XXX
+// Arkhan2 G perso2
+L46D10
+ But father, Thanandar is dead! XXX
+// Arkhan3 G perso3
+L46D11
+ Thanandar's dead! XXX
+// Rylsadhar (contaminated) perso21
+L46D12A
+ Thanandar the healer, yes... But not the monster he has become! XXX
+// Rylsadhar (contaminated) perso21
+L46D12B
+ He is... a Creature of Darkness. XXX
+// Rylsadhar (contaminated) perso21
+L46D12C
+ He wants... to destroy the Well... of Light... XXX
+// Rylsadhar (contaminated) perso21
+L46D12D
+ Go to the Temple... the crypt... XXX
+// Rylsadhar (breathing his last) perso21
+L46D12E
+ Protect the Light... XXX
+// Rylsadhar (breathing his last) perso21
+L46D12F
+ Aaaaah... XXX
+// Arkhan2 G (vengefully, to himself) perso2
+L46D14
+ Thanandar! XXX
+// Arkhan3 G (vengefully, to himself) perso3
+L46D15
+ Thanandar! XXX
+// Arkhan2 L (by Rylsadhar's corpse) perso2
+L22D12A
+ Father! XXX
+// Arkhan2 L (by Rylsadhar's corpse) perso2
+L22D12B
+ I swear to avenge you! Thanandar will die! He'll pay for this ! XXX
+// Arkhan2 O perso2
+L22D13A
+ Thanandar! You killed my father! XXX
+// Arkhan2 O perso2
+L22D13B
+ You're going to pay! XXX
+// Arkhan3 L perso3
+L22D14
+ Father! I want vengeance! XXX
+// Arkhan3 O (grunting to himself)perso3
+L22D15
+ Father! ... RAAAH! Vengeance! XXX

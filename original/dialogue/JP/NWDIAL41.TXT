@@ -1,0 +1,31 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL41.TXT
+ // Arkhan perso3
+L41D02
+ It's huge! XXX
+// Arkhan3 G  perso3
+L41D01
+ Let's go for it! XXX
+// Arkhan3 L perso3
+L41D14
+ The Light Force can't be far away. XXX
+// Arkhan3 O perso3
+L41D15
+ Where am I?! XXX
+// Arkhan3 L perso3
+L41D12
+ The Stallite was built on top of this place on purpose. XXX
+// Arkhan3 O perso3
+L41D13
+ Why didn't anyone tell me about it?! XXX
+// Arkhan3 L perso3
+L41D10
+ The floor's so hot... XXX
+// Arkhan3 O perso3
+L41D11
+ Blast this floor's hot... My feet are burning... XXX
+// Arkhan3 G perso3
+L41D03
+ Engraved inscriptions... XXX
+// Arkhan3 G perso3
+L41D09
+ If I fall, I'm history! XXX

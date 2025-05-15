@@ -1,0 +1,393 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL21.TXT
+ // Arkhan2 G (distressed) perso2
+L21D202
+ Oh, Great Sunseer! XXX
+// Arkhan3 G (distressed) perso3
+L21D203
+ Lory! XXX
+// Lory (greeting Arkhan up above) perso15
+L21D26A
+ Arkhan! I'm too late. XXX
+// Lory (greeting Arkhan up above) perso15
+L21D26B
+ Phedoria told me what happened... XXX
+// Lory perso15
+L21D26C
+ The Sun-God has accorded us one last chance, Arkhan. To render justice to our brothers... XXX
+// Lory perso15
+L21D26D
+ ... To save the Stallite. XXX
+// Lory perso15
+L21D26E
+ Follow me, we don't have much time! XXX
+// Thanandar25 perso25
+L21D45A
+ Arkhan! You're still alive! Well done! XXX
+// Arkhan2 G (stupefied) perso2
+L21D200
+ Thanandar! XXX
+// Arkhan3 G (stupefied) perso3
+L21D201
+ Thanandar! XXX
+// Thanandar25 perso25
+L21D45B
+ You're too late. The fate of the Stallite is in my hands! XXX
+// Thanandar25 perso25
+L21D46A
+ Thanks to your meddling, I didn't get Lory. XXX
+// Thanandar25 perso25
+L21D46B
+ But I picked up something even better: Rylsadhar, your father! XXX
+// Thanandar25 perso25
+L21D46C
+ He drank the Archessence that fills my soul. Now I control him. XXX
+// Thanandar25 perso25
+L21D46D
+ The Initiate, defender of the light, will now plunge the world into total darkness! XXX
+// Thanandar25 perso25
+L21D47
+ But I picked up something even better: your friend Zed! XXX
+// Arkhan1 G perso1
+L21D90
+ I always dreamed of climbing up there! XXX
+// Arkhan2 G perso2
+L21D91
+ I always dreamed of climbing up there! XXX
+// Arkhan3 G perso3
+L21D92
+ Always dreamed of climbing up there! XXX
+// Thanandar25 perso25
+L21D71
+ Miserable maggot..... XXX
+// Phedoria perso26
+L20D38
+ You just signed your death warrant, Arkhan! XXX
+// Sunseer1 (frightened by Arkhan's appearance) perso18
+L21D19
+ Aaah! Don't come near me, heretic! XXX
+// Sunseer1 perso18
+L21D20A
+ Stay calm, my friend. XXX
+// Sunseer1 perso18
+L21D20B
+ This place is a house of peace. XXX
+// Zed84 perso84
+L21D22
+ Ah Arkhan, I was looking for you. Why aren't you at your post? You must ... XXX
+// Zed84 perso84
+L21D23
+ But... what's going on here? What have you done, Arkhan? The Sunseer... XXX
+// Arkhan 1 G perso1
+L21D24
+ Wait! I can explain! XXX
+// Zed84 perso84
+L21D25A
+ There's nothing to explain! You've killed a Sunseer! XXX
+// Zed84 (preparing to kill A.) perso84
+L21D25B
+ You know what the penalty is as well as I do! XXX
+// Zed84 (wretched after having killed Arkhan) perso84
+L21D44
+ Arkhan, we were practically brothers... XXX
+// Sunseer2 (terrified)perso19
+L21D89
+ Aaah! No! XXX
+// Sunseer 19 perso19
+L21D73
+ Aaah! You've come to kill me as well! Be gone, Creature of Darkness! XXX
+// Sunseer2 perso19
+L21D84B
+ Go ahead, finish the ignoble task you came here to do! XXX
+// Arkhan1 L perso1
+L21D01
+ Light be with you, Sunseer. XXX
+// Sunseer1 perso18
+L21D02A
+ And Light be with you too, friend. XXX
+// Sunseer1 perso18
+L21D02B
+ You have come to meditate before the Rahal, symbol of the Sun God. XXX
+// Sunseer1 perso18
+L21D02C
+ Good. Meditation will help strengthen your inner light. XXX
+// Arkhan1 L perso1
+L21D03
+ Are you an apostle of the Sun God? XXX
+// Sunseer1(preaching) perso18
+L21D04A
+ Yes, my friend. This symbol on my forehead, the Rahal, marks me as a messenger of the Sun God. XXX
+// Sunseer1(preaching) perso18
+L21D04B
+ His spirit is within me. He sees through my eyes and speaks through my lips... XXX
+// Sunseer1(preaching) perso18
+L21D04C
+ Believe me when I tell you His sacred light illuminates our hearts and protects the just from the Darkness. XXX
+// Sunseer1(preaching) perso18
+L21D04D
+ And at nightfall, the just, illuminated by their faith, have nothing to fear when they see themselves abandoned by His divine light. XXX
+// Sunseer1(preaching) perso18
+L21D04E
+ Because night is an ordeal feared only by the impure. XXX
+// Sunseer1(preaching) perso18
+L21D04F
+ As with our ancestors from Before, they are deprived of His light forever. 
+XXX
+
+// Sunseer1(preaching) perso18
+L21D04G
+ Remember that only the just can expose themselves to the rays of the Sun God without fear of death. XXX
+// Sunseer1(preaching) perso18
+L21D04G
+ Remember that only the just can expose themselves to the rays of the Sun God without fear of death. XXX
+// Sunseer1 perso18
+L21D06
+ Go in peace, Guardian of Fire. XXX
+// Arkhan 1 O perso1
+L21D07
+ Hi, Sunseer. XXX
+// Sunseer1 (standing on ceremony) perso18
+L21D08
+ Light be with you, friend. XXX
+// Arkhan 1 O (mocking) perso1
+L21D09
+ Still believe in the Sun God? XXX
+// Arkhan 1 O perso1
+L21D10
+ Yeah, I think I've heard about enough... XXX
+// Arkhan2 G perso2
+L21D11
+ Sunseer, you've got to help me! XXX
+// Sunseer1 (stunned by Arkhan's appearance.) perso18
+L21D12
+ Great Solaar! The Darkness... the Darkness is within you! XXX
+// Arkhan2 L perso2
+L21D13A
+ Sunseer, I really need your help! XXX
+// Arkhan2 L perso2
+L21D13B
+ I was poisoned while I was saving Lory. XXX
+// Arkhan2 L perso2
+L21D13C
+ But I'm still a Guardian of Fire, a faithful servant of the Sun God. XXX
+// Arkhan2 L perso2
+L21D13D
+ Help explain to people that they shouldn't fear me! XXX
+// Arkhan2 O perso2
+L21D14A
+ Listen Sunseer, that's enough! Since when is being ugly a criminal offense? XXX
+// Arkhan2 O perso2
+L21D14B
+ This poison is eating me alive! XXX
+// Arkhan2 O perso2
+L21D14C
+ Look, instead of boring people to death with your drivel, why don't you do something useful? Like heal me! XXX
+// Sunseer1 (dogmatic) perso18
+L21D15A
+ No! You can't fool me! XXX
+// Sunseer1 perso18
+L21D15B
+ The symbol of the Sun God illuminates my face. XXX
+// Sunseer1 perso18
+L21D15C
+ My eyes pierce your dark lies! XXX
+// Sunseer1 perso18
+L21D15D
+ And through my lips, the Great Solaar himself speaks. XXX
+// Sunseer1 perso18
+L21D15E
+ If the Darkness has invaded you, it means you are no longer worthy of His light! XXX
+// Arkhan2 G perso2
+L21D16
+ What?!! I just saved Lory's life! XXX
+// Sunseer1 perso18
+L21D72A
+ Your dark tricks won't work! XXX
+// Sunseer1 perso18
+L21D72B
+ When she returns, the Great Sunseer will banish you from the Stallite! XXX
+// Sunseer1 perso18
+L21D72C
+ And if Provost Dhorkan doesn't want to suffer the same fate, he must unmask the heretics! XXX
+// Sunseer1 perso18
+L21D72D
+ Depart, or I will call the guards! XXX
+// Arkhan2 G (disgusted) perso2
+L21D17
+ You're nothing but a half-baked, crazy old fanatic! XXX
+// Sunseer1 perso18
+L21D18
+ If you try any tricks, the Sun God will strike you down! XXX
+// Arkhan3 G perso3
+L21D100
+ Sunseer! XXX
+// Sunseer1 perso18
+L21D101A
+ Keep away, Creature of Darkness! XXX
+// Sunseer1 perso18
+L21D101B
+ Depart! You have defiled a sacred place! XXX
+// Arkhan3 L perso3
+L21D102
+ Calm down, Sunseer, I'm just a man! XXX
+// Arkhan3 O perso3
+L21D103
+ I'm not a monster! XXX
+// Sunseer1 perso18
+L21D104
+ Get away, I said! XXX
+// Sunseer1 perso18
+L21D21
+ Sun God, protect me! XXX
+// Arkhan2 L perso2
+L20D30
+ Why don't we settle this right now? XXX
+// Arkhan2 O perso2
+L20D31
+ Let's settle this right now! XXX
+// Arkhan3 L perso3
+L20D32
+ Settle this, now! XXX
+// Arkhan3 O perso3
+L20D33
+ You talk! XXX
+// Lory perso15
+L20D34
+ We can't stay here. Come on. XXX
+// Arkhan2 G perso2
+L20D35
+ But... Great Sunseer... XXX
+// Arkhan3 G perso3
+L20D36
+ Great Sunseer... XXX
+// Lory perso15
+L20D37
+ Listen to me! Come on, lets go! XXX
+// Arkhan2 L perso2
+L20D39
+ Phedoria, what's going on? XXX
+// Arkhan2 O perso2
+L20D40
+ Hey..what's going on? XXX
+// Arkhan3 L perso3
+L20D41
+ Phedoria, tell me! XXX
+// Arkhan3 O perso3
+L20D42
+ Tell me! XXX
+// Phedoria perso26
+L20D43
+ Lory will explain! XXX
+// Arkhan2 G perso2
+L20D44
+ But... Captain... XXX
+// Arkhan3 G perso3
+L20D45
+ Captain... XXX
+// Phedoria perso26
+L20D46
+ Follow us! XXX
+// Arkhan2 G perso2
+L21D74
+ Calm down, I won't hurt you! XXX
+// Arkhan3 G perso3
+L21D75
+ Calm down! XXX
+// Sunseer2 (terrified) perso19
+L21D76
+ You have come to kill me, I know it, just as one like you tried to kill the Great Sunseer! XXX
+// Arkhan2 L perso2
+L21D77
+ Tell me what you saw, it's important! XXX
+// Arkhan2 O perso2
+L21D78
+ You tell me what you saw or I'll break your neck! XXX
+// Arkhan2 O perso3
+L21D79
+ What did you see? Tell me! XXX
+// Sunseer2 (terrified) perso19
+L21D80A
+ An enormous shadow! Huge, dark! Death incarnate! XXX
+// Sunseer2 perso19
+L21D80B
+ It moved with supernatural speed. XXX
+// Sunseer2 perso19
+L21D80C
+ It entered the Council Chamber... I heard people screaming... XXX
+// Sunseer2 (voice cracking) perso19
+L21D80D
+ The Great Sunseer... XXX
+// Arkhan2 G perso2
+L21D81
+ Thanandar! He killed Lory! XXX
+// Arkhan2 G perso2
+L21D82
+ Thanandar! It was him! XXX
+// Arkhan3 G perso3
+L21D83
+ Thanandar! Again! XXX
+// Sunseer2 perso19
+L21D84A
+ He sent you to kill me, I know it! XXX
+// Sunseer2 perso19
+L21D84C
+ But my Light will rise again! XXX
+// Arkhan2 G perso2
+L21D85
+ Stand up! XXX
+// Arkhan2 O perso2
+L21D86
+ Get up! XXX
+// Arkhan 1 G perso1
+L21D48
+ There's a small opening in the floor. XXX
+// Arkhan2 G perso2
+L21D57
+ No luck! But I thought I had the right key! XXX
+// Arkhan2 G perso2
+L21D58
+ It is the right key... But it's not working. XXX
+// Arkhan2 G perso2
+L21D59
+ It's the right key, but I need to activate the mechanism somewhere else. XXX
+// Arkhan2 G perso2
+L21D60
+ There, a little hole in the floor. XXX
+// Arkhan2 G perso2
+L21D61
+ I knew it! XXX
+// Arkhan2 G perso2
+L21D62
+ Something is missing! XXX
+// Arkhan2 G perso2
+L21D63
+ It's closing again! XXX
+// Arkhan3 G perso3
+L21D64
+ It's the right key... but nothing! XXX
+// Arkhan3 G perso3
+L21D65
+ Got the right key... better try something else! XXX
+// Arkhan3 G perso3
+L21D66
+ Right key... gotta activate the mechanism somewhere else... XXX
+// Arkhan3 G perso3
+L21D67
+ There, a hole in the floor. XXX
+// Arkhan3 G perso3
+L21D68
+ I knew it! XXX
+// Arkhan3 G perso3
+L21D69
+ I'm missing something! XXX
+// Arkhan3 G perso3
+L21D70
+ It's closing! XXX
+// Arkhan1 G perso1
+L21D49
+ The Rahal. Icon of the Sun God. XXX
+// Arkhan2 G perso2
+L21D50
+ I haven't got time to pray. XXX
+// Arkhan3 G perso3
+L21D51
+ No time to pray. XXX

@@ -1,0 +1,481 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL36.TXT
+ // Lodar perso86
+L36D85
+ Klid, nejsem neprítel! XXX
+// Konkalit12 perso82
+L36D01A
+ Víš, jak se bojuje! XXX
+// Lodar perso86
+L36D146
+ Tak jednoduše mne nedostaneš! XXX
+// Konkalit12 perso82
+L36D01B
+ Delej, pokud jsi ho usmrtil, korist patrí tobe. XXX
+// Konkalit12 perso82
+L36D02
+ Jsi silnejší! Vem si, co chceš, korist patrí tobe. XXX
+// Lodar (unruhig, als er Arkhan sieht)perso86
+L36D04
+ Budu nyní v me ceste pokracovat ... rozumíš? XXX
+// Hüter20 perso60
+L36D147
+ Stát XXX
+// Hüter20 (von Arkhan3 erschreckt) perso60
+L36D148
+ Boze Slunce ... Ved mojí pazi! XXX
+// Hüter20 perso60
+L36D08
+ Hej, kam tak rychle?! XXX
+// Hüter20 (provoziert Arkhan)perso60
+L36D144
+ Nemáš ješte dost?! XXX
+// Konkalit12 perso82
+L36D145
+ Jiz opet! XXX
+// Hüter23 (spricht laut, weit von Arkhan entfernt)  perso1
+L36D05A
+ (unten) Rozumneli jste rozkazùm profose Dhorkana? XXX
+// Hüter23 perso1
+L36D05B
+ (unten) Zùstante spolu a drzte oci otevrene! XXX
+// Hüter23 perso1
+L36D05C
+ (unten) Zadrzte všechny podezrelá nebo nebezpecná individua. XXX
+// Hüter23 perso1
+L36D05D
+ (unten) Ale co vám ríkám - nevzdalujte se více nez sto loktù od vašich postavení. XXX
+// Hüter22 (spricht laut, weit von Arkhan entfernt)  perso1
+L36D06A
+ (unten) Obdrzeli jste vaše rozkazy? XXX
+// Hüter24 (erschöpft) perso1
+L36D06B
+ (unten) Ano, pokud jsme je nepochopili, pak já take nevím ... ! XXX
+// Hüter22 perso1
+L36D06C
+ (unten) Já bych chtel být pouze jistejší! XXX
+// Hüter23 (spricht laut, weit von Arkhan entfernt) perso1
+L36D07A
+ (unten) Hlavne oci otevrene! Utok mùze prijít odevšad! XXX
+// Hüter24 perso1
+L36D07B
+ (unten) Jasne! XXX
+// Arkhan2 L perso2
+L36D87
+ Co se zde deje!? XXX
+// Arkhan3 L perso3
+L36D88
+ Co se zde deje?! XXX
+// Arkhan2 O perso2
+L36D89
+ Tebe docela pekne chytli! XXX
+// Arkhan3 O perso3
+L36D90
+ Jeden krásný zázrak! XXX
+// Lodar perso86
+L36D91A
+ Pomoz mi a bohate se ti odmením! XXX
+// Konkalit12 perso82
+L36D92A
+ To je problem mezi ním a mnou, ty hnusná kryso! XXX
+// Konkalit12 perso82
+L36D92B
+ Nemíchej se do toho! XXX
+// Arkhan2 G perso2
+L36D78
+ Nevzdávej to. XXX
+// Arkhan3 G perso3
+L36D79
+ Jen kdyz mne mysl zradí! XXX
+// Lodar perso86
+L36D99
+ Kdo jsi, pomoz mi! XXX
+// Arkhan2 G perso2
+L36D93
+ Jak se darí? XXX
+// Arkhan3 G perso3
+L36D94
+ Jak se darí? XXX
+// Arkhan2 O perso2
+L36D55
+ Máš bolesti, príteli? XXX
+// Arkhan3 O perso3
+L36D56
+ Tobe to nejde zrejme dobre! XXX
+// Lodar perso86
+L36D03
+ Díky ... Dekuji ti za mùj zivot. XXX
+// Lodar perso86
+L36D57C
+ Zde, vem si to ... Mne je to k nicemu. XXX
+// Arkhan2 L perso2
+L36D58
+ Ty jsi poutník z Temne Zeme? Jak jsi se sem dostal? XXX
+// Arkhan3 L perso3
+L36D59
+ Odkud jsi prišel? XXX
+// Arkhan2 O perso2
+L36D60
+ Odkud jsi prišel? Jak jsi se sem dostal? XXX
+// Arkhan3 O (aggressif) perso3
+L36D61
+ Kdopak jsi? XXX
+// Lodar perso86
+L36D62A
+ Jsem Lodar, vyjednávac jedne poutní karavany, vzdálene nekolik dní odsud. XXX
+// Lodar perso86
+L36D62B
+ Pricházel jsem práve  ... kdyz bránu za mnou zamykali. XXX
+// Lodar (bitter)perso86
+L36D62C
+ A myslel jsem si, ze já budu ve Stallitu v bezpecí ... XXX
+// Arkhan2 L perso2
+L36D63
+ Videl jsi neco venku? XXX
+// Arkhan3 L perso3
+L36D64
+ Videl jsi neco v ríši Temne Zeme? XXX
+// Lodar perso86
+L36D65A
+ Ano ... Zvláštní veci ... Bytosti, ktere uvnitr jsou tak tmave jako zvencí ... XXX
+// Lodar perso86
+L36D65B
+ Mel jsem štestí, nepozorovane sem prijít. XXX
+// Lodar perso86
+L36D65C
+ Dole, v blízkosti vody, videl jsem nejakou paní. XXX
+// Arkhan2 L perso2
+L36D66
+ Nejakou paní? XXX
+// Arkhan3 L perso3
+L36D67
+ Nejakou paní? XXX
+// Lodar perso86
+L36D68A
+ Všechno, co já vím, je, ze nebyla z mojí karavany. XXX
+// Lodar perso86
+L36D68B
+ Ona zmizela, dríve nez jsem se k ní mohl priblízit. XXX
+// Arkhan2 O perso2
+L36D69
+ Ríkám si, jak mùze nekdo jako ty v ríši Temne Zeme prezít! XXX
+// Arkhan3 O perso3
+L36D70
+ Na poutníka nevypadáš práve statne. XXX
+// Lodar (durch A. genervt) perso86
+L36D71A
+ Poslouchej, mùj príteli. Jsem unavený. XXX
+// Lodar perso86
+L36D71B
+ Dekuji ti za tvojí pomoc, ale nemohu ti víc ríci. XXX
+// Lodar perso86
+L36D71C
+ Já jdu svojí cestou a ty tvojí, rozumíš? XXX
+// Arkhan2 L perso2
+L36D72
+ Mohl bys mi více vyprávet, co jsi videl v ríši Temne Zeme? XXX
+// Arkhan3 L perso3
+L36D73
+ Mùzeš mi více o Temne Zemi vyprávet? XXX
+// Lodar perso86
+L36D74A
+ Tam jsem se narodil ... Tam jsem zil ... XXX
+// Lodar perso86
+L36D74B
+ A to je to poslední, co chci videt, dríve nez zemru. XXX
+// Arkhan2 O perso2
+L36D75
+ Poutník jako ty má jiste mnoho k vyprávení! XXX
+// Arkhan3 O perso3
+L36D76
+ Mùzeš ty mi více o Temne Zemi vyprávet? XXX
+// Lodar perso86
+L36D77A
+ Ne, já nic nevím. XXX
+// Lodar (zum Abschied) perso86
+L36D77B
+ Pokracuj v ceste, mùj príteli. Aby tvùj kazdý krok ke svetlu vedl. XXX
+// Arkhan2 G perso2
+L36D998
+ Co je to za helmu? XXX
+// Arkhan3 G perso3
+L36D999
+ Co je to? XXX
+// Lodar perso86
+L36D82A
+ Tento kousek pochází ze vzdáleneho Stallitu Phenizia. XXX
+// Lodar perso86
+L36D82B
+ Je to dobrá ochrana proti prašným bourím.  XXX
+// Lodar perso86
+L36D82C
+ A má vzduchový otvor na strane. XXX
+// Arkhan2 G perso2
+L36D124
+ Videl jsi nekdy takový kristal? XXX
+// Arkhan3 G perso3
+L36D125
+ Znáš ty tento druh kristalu? XXX
+// Lodar perso86
+L36D83
+ Ne, to já ješte nikdy nevidel. Je mi líto. XXX
+// Lodar perso86
+L36D81
+ Nyní není ten správný cas k výmenám, mùj príteli. XXX
+// Lodar perso86
+L36D84
+ Proc mne musíš take provokovat! XXX
+//  Lodar perso86
+L36D86
+ Nedáváš mi jinou moznost! XXX
+// Konkalit12 perso82
+L36D105
+ Zmizni odsud! XXX
+// Arkhan2 L perso2
+L36D103
+ Oho, klídek! XXX
+// Arkhan3 L perso3
+L36D104
+ Dej si pozor s tím! XXX
+// Arkhan2 O (aggressif) perso2
+L36D106
+ Toho budeš litovat! XXX
+// Arkhan3 O (aggressif) perso3
+L36D107
+ Toho budeš litovat! XXX
+// Konkalit12 (brüllt vor Wut)perso82
+L36D108
+ Raaaah! XXX
+// Arkhan2 L perso2
+L36D96
+ Dej si pozor, ty kryso! XXX
+// Arkhan3 L perso3
+L36D97
+ Dosti! Dej si pozor! XXX
+// Konkalit12 perso82
+L36D98
+ Nechod blíz, nebo vás zabiju oba! XXX
+// Arkhan2 O perso2
+L36D100
+ Nech ho nebo te zabiju! XXX
+// Arkhan3 O (bedrohlich) perso3
+L36D101
+ Nech ho volnýho! XXX
+// Konkalit12 perso82
+L36D102
+ Nemíchej se do toho! XXX
+// Arkhan2 G perso2
+L36D110
+ Mrtvý navíc ... XXX
+// Arkhan3 G perso3
+L36D111
+ Mrtvý navíc ... XXX
+// Konkalit12 perso82
+L36D112
+ Ano! Nic jineho si take nezaslouzil! XXX
+// Arkhan2 G perso2
+L36D113
+ Prohledáváš kapsy mrtveho? XXX
+// Arkhan3 G perso3
+L36D114
+ Ty mu prohledáváš kapsy? XXX
+// Konkalit12 perso82
+L36D115A
+ No a. XXX
+// Konkalit12 perso82
+L36D115B
+ Dívej se jinam, pokud se ti to nelíbí! XXX
+// Arkhan2 G (aggressif) perso2
+L36D119
+ Nejsi nic jineho nez odporný had! XXX
+// Arkhan3 G (aggressif) perso3
+L36D120
+ Nejsi nic jineho nez odporný had! XXX
+// Konkalit12 perso82
+L36D121
+ Ano! A ty jsi zmrd! XXX
+// Konkalit12 perso82
+L36D109
+ Behalt' es, vezmu všechno, co potrebuju! XXX
+// Konkalit12 perso82
+L36D200
+ Rozmlátím ti tlamu, kryso! XXX
+// Arkhan2 Gperso2
+L36D149
+ Klid, Strázci ohne, já nechci delat problemy. XXX
+// Arkhan2 Gperso2
+L36D150
+ Nehledám nic jineho nez lecicí prostredek. XXX
+// Hüter20 perso60
+L36D151A
+ Já ti prece ríkal, zde nic nenajdeš. XXX
+// Hüter20 perso60
+L36D151B
+Kdybych já byl tebou, zmizel bych odsud. XXX
+// Hüter20 perso60
+L36D251A
+ Zde nic nenajdeš, co ty hledáš. XXX
+// Hüter20 perso60
+L36D251B
+ Pokud chceš dobrou radu? Vrat se zpet, odkud jsi prišel! XXX
+// Arkhan2 L perso2
+L36D135A
+ Hledám prostredek proti mojí nemoci. XXX
+// Arkhan2 L perso2
+L36D135B
+ Prosím te pouze, nech mne projít. XXX
+// Hüter20 perso60
+L36D137A
+ Asi jsi se ješte nedozvedel: Ve Stallitu bylo vyhlášeno stanne právo. XXX
+// Hüter20 perso60
+L36D137B
+ Velká brána je zavrena, vetšina ulic je zablokována. XXX
+// Hüter20 perso60
+L36D137C
+ ... A nekdo jako ... nekdo jako ty zde nemá nic co pohledávat! XXX
+// Hüter20 perso60
+L36D137D
+ Na tvým míste bych odsud zmizel. XXX
+// Arkhan2 O perso2
+L36D138A
+ To stacilo! XXX
+// Arkhan2 O perso2
+L36D138B
+ Jdi mi z cesty nebo te hodím do Temne Zeme odsud! XXX
+// Hüter20 perso60
+L36D140
+ Pak spadneme spolecne, nestvùro! XXX
+// Arkhan2 L perso2
+L36D123A
+ Pomaloucku, mùj príteli. Jsem Arkhan, Strázce ohne jako ty. XXX
+// Arkhan2 L perso2
+L36D123B
+ Byl jsem otráven, kdyz jsem chtel ochránit Velkou Knezku. XXX
+// Hüter20 (beeindruckt) perso60
+L36D136
+ Otrávený! Neco takoveho já ješte nikdy nevidel! XXX
+// Arkhan2 O perso2
+L36D126
+ Jdi ke strane nebo te hodím do Temne Zeme pres zed! XXX
+// Hüter20 perso60
+L36D141A
+ Nehnu se odsud, ani k vyjednávání! XXX
+// Hüter20 perso60
+L36D141B
+ Opust okamzite pevnostní hradbu. XXX
+// Hüter20 perso60
+L36D142
+ Ty plítváš svými chrchli, príšero! XXX
+// Hüter20 perso60
+L36D143
+ Já to vedel! XXX
+// Arkhan2 L perso2
+L36D32
+ Kanon, se kterým Strázci ohnù pri slavnostech  strílí, nebo pro prípad napadení. XXX
+// Arkhan2 O perso2
+L36D33
+ jeden kanon. Skoda, ze není doutnák, jinak bych temto zde správne pritopil! XXX
+// Arkhan3 L perso3
+L36D34
+ Tento kanon nás v zádnem prípade neochrání  proti silám z Temne Zeme ... XXX
+// Arkhan3 O perso3
+L36D35
+ Nemáme zádnou zbran, která by nás proti Temne Zemi ochránila! XXX
+// Arkhan2 G perso2
+L36D36
+ Ne, to je príliš tezke! XXX
+// Arkhan3 G perso3
+L36D37
+ Ne, to je príliš tezke! XXX
+// Arkhan2 L perso2
+L36D38
+ Velká brána se s tímto retezem otvírá. XXX
+// Arkhan2 O (zieht an der Kette, vergeblich) perso2
+L36D39
+ Ne, nepohybuje se zádný Zoll! XXX
+// Arkhan3 L perso3
+L36D40
+ Arkhan3 L: Retez, s kterým se brána otevírá. XXX
+// Arkhan3 O (zieht an der Kette, vergeblich) perso3
+L36D41
+ Ne! Tu se nepohybuje nic! XXX
+// Arkhan2 L perso2
+L36D46
+ Proti otevrení velke brány jsou chráneny temito pery.  XXX
+// Arkhan3 L perso3
+L36D48
+ Pera ... Oni blokují vytazení velke brány. XXX
+// Arkhan2 L perso2
+L36D49
+ Tento vchod je blokován. Zde já neprojdu dále. XXX
+// Arkhan2 O (schlägt auf die Barrikade ein) perso2
+L36D50
+ Ty hloupe hlavy! Oni všechno zabarikádovali! XXX
+// Arkhan3 O (schlägt auf die Barrikade ein) perso3
+L36D52
+ Proklate, zde nemohu pokracovat! XXX
+// Arkhan2 G perso2
+L36D24
+ Odsud lze celý Stallit prehlednout. XXX
+// Arkhan3 G perso3
+L36D25
+ Zde je videt celý Stallit.. XXX
+// Arkhan2 G perso2
+L36D26
+ Stallit tvorí nyní s Temnou Zemí jednotu. XXX
+// Arkhan3 G perso3
+L36D27
+ Temná Zeme je všude ... XXX
+// Arkhan2 G perso2
+L36D28
+ Prach a Temná Zeme po celem horizontu. XXX
+// Arkhan3 G perso3
+L36D29
+ Temná Zeme je náš horizont ... XXX
+// Arkhan2 G perso2
+L36D30
+ Sparta nezná nic jineho nez Temnou Zemi ... XXX
+// Arkhan2 L perso2
+L36D09
+ Velká brána Stallitu ... Kvùli stannemu právu jí Strázci ohne zavreli. XXX
+// Arkhan2 O perso2
+L36D10
+ Dhorkan, ten hajzl, nechal velkou bránu zavrít! XXX
+// Arkhan3 L perso3
+L36D11
+ To je to stanne právo: Oni zavreli velkou bránu Stallitu.  XXX
+// Arkhan3 O perso3
+L36D12
+ Velká brána je zavrená ... Dhorkan a jeho stanne právo! XXX
+// Arkhan2 L perso2
+L36D13
+ Zavrená nebo ne - velká brána nás pred Temnou zemí neochrání! XXX
+// Arkhan2 O perso2
+L36D14
+ A oni si myslí, ze by nás mohlo ochránit, pokud nechají velkou bránu zavrít. To je prece nesmysl! XXX
+// Arkhan3 O perso3
+L36D16A
+ Arme Irre! XXX
+// Arkhan3 G perso3
+L36D16B
+ Oni zavreli velkou bránu ... príliš pozde! XXX
+// Arkhan2 G perso2
+L36D17
+ Nic nez tyto zdi oddelující nás od Temne Zeme. XXX
+// Arkhan2 G perso2
+L36D18
+ Vzadu není nic nez Temná Zeme, zima a smrt ... XXX
+// Arkhan3 G perso3
+L36D19
+ Temná Zeme, zima a smrt ... Jinak není venku nic ... XXX
+// Arkhan2 L (düster) perso2
+L36D20
+ Já je cítím, ze jsou tam venku, pripravují se, cekají ... XXX
+// Arkhan2 O (ein herausfordernder Schrei) perso2
+L36D21
+ Pojdte, Kreatury z Temne Zeme, pojdte z chládku ven, já ocekávám vás! XXX
+// Arkhan3 L perso3
+L36D22
+ Kreatury Temne Zeme ... nejsou daleko, já to cítím ... XXX
+// Arkhan3 O (mit einem herausfordernden Schrei) perso3
+L36D23
+ Pojdte, príšery! Ocekávám vás! XXX

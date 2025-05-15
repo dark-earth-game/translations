@@ -1,0 +1,637 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL39.TXT
+ // Arkhan2 G perso2
+L39D110
+ Fobij [wnx _dfj qlZ[lwh, snj[w mkZnx c_amx. XXX
+// Arkhan3 G perso3
+L39D111
+ JkZnx c_amx... Fobij [wnx qlZ[lwh... XXX
+// Leona (imperiously) perso14
+L39D01A
+ Cnj nw nZfje? XXX
+// Leona (imperiously) perso14
+L39D01B
+ Pnj nw _agZatx iZ hjae cahga? XXX
+// Leona (angry) perso14
+L39D107
+ CZf nw kjmhag ]alionxm|? XXX
+// Leona perso14
+L39D03A
+ #lqZi. XXX
+// Leona perso14
+L39D03B
+ >Zsah nw kldt~g fj hia? XXX
+// Leona perso14
+L39D02
+ Jij]Z nw? XXX
+// Leona (warily) perso14
+L39D04
+ Jkjfjeij! Kw ia _jgbai [j|nxm| hai|. XXX
+// Leona (attacked by A.) perso14
+L39D108
+ Kw mnZg lZ[jh fljhatij^j hlZfZ! XXX
+// Leona (relaxing) perso14
+L39D05
+ KZf gosta. Gmnwix, d kj^j]jldh. XXX
+// Arkhan2 L perso2
+L39D06A
+ X #lqZi, mwi IdgmZ_ZlZ. XXX
+// Arkhan2 L perso2
+L39D06B
+ X kldt~g m hdljh. XXX
+// Arkhan2 O perso2
+L39D07A
+ X #lqZi, mwi IdgmZ_ZlZ. XXX
+// Arkhan2 O perso2
+L39D07B
+ Kw nZ DajiZ? Co_amidrZ? XXX
+// Leona (on the defensive) perso14
+L39D08A
+ #lqZi, ^j]jldtx? GnrZ | ciZz. XXX
+// Leona perso14
+L39D08B
+ Pa^j ia hj^o j na[a mfZcZnx. XXX
+// Leona perso14
+L39D08C
+ Pah nw _jfZbatx, snj nw hia ia gb~tx? XXX
+// Arkhan2 L perso2
+L39D09A
+ Pah? XXX
+// Arkhan2 L perso2
+L39D09B
+ Ej~ mgj]j - ynj ]m~, snj o hai| amnx! XXX
+// Arkhan2 O perso2
+L39D10A
+ Fasah. XXX
+// Arkhan2 O perso2
+L39D10B
+ Fj lZ_d iZta^j j[ua^j mkZmaid| gosta kj]alx hia! XXX
+// Leona perso14
+L39D11A
+ Fa Zqnd... XXX
+// Leona perso14
+L39D11B
+ Fj ] mgj]Zq n]jdq ian id fZkgd gbd. XXX
+// Leona perso14
+L39D11C
+ X so]mn]oz, snj hj^o _j]al|nx na[a. XXX
+// Arkhan2 L perso2
+L39D18A
+ Hjgjbaida fldndsamfja. XXX
+// Arkhan2 L perso2
+L39D18B
+ JnZggZen nakalx kjgijmnxz ]j ElZfa. XXX
+// Arkhan2 O perso2
+L39D19A
+ Ve, ga_d! FZ mgosZe amgd fnj ia cZhandg, nZh oba ]ma m ohZ kjmqj_dgd! XXX
+// Arkhan2 O perso2
+L39D19B
+ JnZggZen nakalx kjgijmnxz ]j ElZfa. XXX
+// Leona (alarmed) perso14
+L39D20A
+ Cjgj_ar m]|uaiij^j J]anZ! XXX
+// Leona (alarmed) perso14
+L39D20B
+ Cnj hj^ lZclotdnx a^j? XXX
+// Arkhan2 G perso2
+L39D21A
+ Kw, ]dbo, ] folma ]ma^j. XXX
+// Arkhan2 G perso2
+L39D21B
+ Hlj]d_ar-jnmnokidf, a^j dh| KZiZi_Zl. XXX
+// Leona (stupefied) perso14
+L39D22
+ KZiZi_Zl-ragdnagx? XXX
+// Arkhan2 G perso2
+L39D23A
+ & kljtgjh ragdnagx... XXX
+// Arkhan2 G perso2
+L39D23B
+ Kakalx ia iZcj]~tx sagj]afjh. XXX
+// Arkhan2 G perso2
+L39D23C
+ Hj a^j hdgjmnd ohalgd d >a_... d jnar hje! XXX
+// Arkhan2 G perso2
+L39D24
+ KZiZi_Zl cZlZcdg jnrZ. Kjsij nZf ba, fZf lZixta hai|. XXX
+// Arkhan2 G perso2
+L39D25
+ KZiZi_Zl cZlZcdg >a_Z. Kjsij nZf ba, fZf lZixta hai|. XXX
+// Arkhan2 G perso2
+L39D26A
+ A njn oba ia [wg mj[je... jn [jgd mgakje... [acohiwe... XXX
+// Arkhan2 G perso2
+L39D26B
+ KZiZi_Zl cZmnZ]dg a^j fjmionxm| Cjgj_rZ m]|uaiij^j J]anZ. XXX
+// Arkhan2 G perso2
+L39D26C
+ A non hjgidd cZm]alfZgd, d Cjgj_ar J]anZ mnZg halfionx, fZf [o_nj a^j dcionld cZkjgi|g hlZf. XXX
+// Arkhan2 G perso2
+L39D26D
+ # ]mfjla cZnah P~liwe mZ]Zi jfonZg mnZggZen. XXX
+// Arkhan2 L perso2
+L39D33A
+ X duo j_ij hamnj. &agdfZ| Hlj]d_drZ iZc]ZgZ a^j *lj[idrae. XXX
+// Arkhan2 L perso2
+L39D33B
+ Kj nZeija hamnj, snj jnar lZcwmfd]Zg _jg^da ^j_w. XXX
+// Arkhan2 L perso2
+L39D34A
+ Eia iobiw a^j cZkdmd. Gid mkl|nZiw o ia^j ] nZeidfa. XXX
+// Arkhan2 L perso2
+L39D34B
+ Fobai qlomnZgxiwe fgzs dc iamfjgxfdq plZ^hainj]. XXX
+// Arkhan2 O perso2
+L39D35A
+ Djld mfZcZgZ, amnx j_ij hamnj, "*lj[idrZ". XXX
+// Arkhan2 O perso2
+L39D35B
+ Vnj kjmga_i|| iZ_ab_Z, ij hje jnar - a_dimn]aiiwe, fnj ciZan, fZf kjkZmnx no_Z... ]jchjbij! XXX
+// Arkhan2 O perso2
+L39D36A
+ HjiZ_j[dnm| fgzs, snj[w kjkZmnx no_Z, ^_a ji mkl|nZg cZkdmfd. XXX
+// Arkhan2 O perso2
+L39D36B
+ Cgzs, fgzs - qlomnZgxiwe fgzs dc iamfjgxfdq plZ^hainj]! XXX
+// Leona perso14
+L39D37A
+ Kw klZ]. PZm _aemn]d| iZmnZg. XXX
+// Leona perso14
+L39D37B
+ Djld ]ma^_Z [wgZ ho_lje. X ciZz, amgd [ ia [wgj [jgxtje iob_w, jiZ [w ia mfZcZgZ. XXX
+// Leona perso14
+L39D37C
+ X kjhj^o na[a, #lqZi. XXX
+// Arkhan2 G perso2
+L39D40A
+ Gnar f na[a mgosZeij ia cZ^g|_w]Zg ia_Z]ij? XXX
+// Leona perso14
+L39D41A
+ Fan, | ia ]d_agZ IdgmZ_ZlZ ob hij^j, hij^j goi. XXX
+// Leona perso14
+L39D41B
+ Gi [wg j[amkjfjai. FZ]alij, ji kla_]d_ag, snj ^l|_~n ElZf. XXX
+// Leona perso14
+L39D41C
+ K]je jnar [wg kjm]|u~iiwh, j_idh dc naq iahij^dq, fnj ciZg j njh mfgaka d Cjgj_ra J]anZ. XXX
+// Leona perso14
+L39D41D
+ Gi nZfba [wg dc naq, fnj hj^ kldfjmionxm| f Cjgj_ro J]anZ. XXX
+// Leona perso14
+L39D41E
+ &jn kjsaho KZiZi_Zl kgaidg a^j! XXX
+// Arkhan2 L perso2
+L39D43A
+ &m~ ynj id j s~h hia ia ^j]jldn. XXX
+// Arkhan2 L perso2
+L39D43B
+ Pnj ynj cZ "Cjgj_ar J]anZ"? XXX
+// Arkhan2 O perso2
+L39D44A
+ X mwn kj ^jlgj yndhd nZeiZhd! XXX
+// Arkhan2 O perso2
+L39D44B
+ Cnj-id[o_x mfZban hia, snj non kljdmqj_dn?! XXX
+// Leona perso14
+L39D45A
+ CZf nw hj^ _j^Z_Znxm|, Cjgj_ar J]anZ d... *lj[idrZ... m]|cZiw _lo^ m _lo^jh. XXX
+// Leona perso14
+L39D45B
+ Cjgj_ar J]anZ - ynj _Zl. Gi salkZan yial^dz ] *lj[idra d cZuduZan iZm jn ElZfZ. XXX
+// Leona perso14
+L39D45C
+ VnZ yial^d|, ia]d_dhj _g| gz_mfdq ^gZc, kdnZan cahgz ]jflo^ mnZggZenZ. XXX
+// Leona perso14
+L39D45D
+ GiZ ia komfZan f iZh P~liwe mZ]Zi d a^j n]Zlae. XXX
+// Leona perso14
+L39D45E
+ GiZ kld]gafZan gosd $j^Z JjgirZ, snj kld_Zzn iZh mdg, Z ]lZ^j] _agZzn mgZ[whd. XXX
+// Leona perso14
+L39D45F
+ Fj [ac iZta^j Cjgj_rZ iZh ia mkZmndmx jn ElZfZ. XXX
+// Arkhan2 G perso2
+L39D46A
+ Hjsaho [jgxta idfnj ia ciZg j[ yndq m]|uaiiwq hamnZq? XXX
+// Arkhan2 G perso2
+L39D46B
+ A fZf >a_, Djld d hje jnar m yndh m]|cZiw? XXX
+// Leona perso14
+L39D47A
+ >a_, IdgmZ_Zl d &agdfZ| Hlj]d_drZ, Z nZfba | d au~ fja-fnj, -  iZm m]|cw]Zan... _j^j]jl. XXX
+// Leona perso14
+L39D47B
+ +j^j]jl, [aloude iZsZgj au~ iZ cZla ]lah~i, cZ_jg^j _j &agdfj^j [a_mn]d|. XXX
+// Leona perso14
+L39D47C
+ +j^j]jl, cZfgzs~iiwe hab_o kla_fZhd kla_fj] iZtdq kla_fj] d Kahd, snj _lahgzn ] *lj[idra. XXX
+// Leona perso14
+L39D47D
+ Ew kjfg|gdmx cZudndnx Cjgj_ar J]anZ d *lj[idro, jflobd] dq nZeije d qlZi| a~ _j klj[ob_aid| mk|udq kj_ cahg~e. XXX
+// Leona perso14
+L39D47E
+ # ]cZhai dc[lZiiwh dc sdmgZ gz_ae [wgZ _Zlj]ZiZ sZmndrZ yndq mdg. XXX
+// Leona perso14
+L39D47F
+ Jdg bdcid, fjnjlwa jid hj^gd [lZnx dc Cjgj_rZ d ]jc]lZuZnx kj hala iob_w. XXX
+// Leona perso14
+L39D47G
+ Kaq mdg, snj kjc]jg|gd dh _agZnx nj, snj j[wsiwa gz_d ia hj^gd. XXX
+// Leona perso14
+L39D47H
+ J ]afZhd mdgZ bdcid ia o^ZmgZ: a~ kldi|gd >a_, IdgmZ_Zl d Djld - kjm]|u~iiwa. XXX
+// Arkhan2 G perso2
+L39D48
+ KZ mdgZ, snj >a_ kala_Zg hia, klab_a sah j[lZndgm| ] n]Zlx! XXX
+// Arkhan2 G perso2
+L39D49
+ KZ mdgZ, snj >a_ kala_Zg hia, fj^_Z ohdlZg! XXX
+// Arkhan2 G perso2
+L39D50
+ KZf ]jn ynj snj! XXX
+// Arkhan2 L perso2
+L39D55A
+ <mgd mdgZ m]anZ amnx... XXX
+// Arkhan2 L perso2
+L39D55B
+ Kj^_Z cgj - njn |_, fjnjlwh KZiZi_Zl iZm jnlZ]dg... ynj kljnd]jkjgjbijmnx a~! XXX
+// Arkhan2 O perso2
+L39D56A
+ # nZ halcfZ| _l|ix, snj KZiZi_Zl iZ iZm iZkomndg? XXX
+// Arkhan2 O perso2
+L39D56B
+ Vnj nj, snj mdga J]anZ kljnd]jmnjdn, ia nZf gd? XXX
+// Leona perso14
+L39D57A
+ +Z. XXX
+// Leona perso14
+L39D57B
+ ElZf mouamn]oan cZ ms~n yial^dd ]ma^j bd]j^j. XXX
+// Leona perso14
+L39D57C
+ Cnj ia ohdlZan, mnZij]dnm| nZfdh... fZf nw. XXX
+// Leona perso14
+L39D57D
+ EZgj-kjhZgo ji cZ[w]Zan, fah ji fj^_Z-nj [wg. XXX
+// Leona perso14
+L39D57E
+ Gi mnZij]dnm| flj]jbZ_ije n]Zlxz, qduije d iaiZmwnije. XXX
+// Arkhan2 G perso2
+L39D58
+ Fj nZ mdgZ ] *lj[idra hjban mklZ]dnxm| m |_jh, ]alij? XXX
+// Leona perso14
+L39D59A
+ +Z, ynd mdgw kj^gjuZzn _lo^ _lo^Z. XXX
+// Leona perso14
+L39D59B
+ Fj amgd jnlZ]Z oba kljidfgZ ^go[jfj ] n]j~ nagj, nj jl^Zidch n]je kljmnj ia ]w_albdn... XXX
+// Leona perso14
+L39D59C
+ Kw nj^_Z mZh kj^d[iatx! XXX
+// Leona perso14
+L39D60
+ &jn snj dmkwnZg IdgmZ_Zl, kldfjmio]tdmx f Cjgj_ro m]anZ. XXX
+// Leona perso14
+L39D61
+ &jn snj dmkwnZg >a_, kldfjmio]tdmx f Cjgj_ro m]anZ. XXX
+// Arkhan2 L perso2
+L39D64A
+ # KZiZi_Zl? XXX
+// Arkhan2 L perso2
+L39D64B
+ Pnj ji-nj dmfZg? XXX
+// Arkhan2 O perso2
+L39D65A
+ # ynjn _]ogdsiwe KZiZi_Zl? XXX
+// Arkhan2 O perso2
+L39D65B
+ Pa^j ji qjnag? XXX
+// Leona perso14
+L39D66A
+ KZiZi_Zl [wg kjm]|u~iiwh. CZf hw. XXX
+// Leona perso14
+L39D66B
+ CZf ragdnagx, ji [wg cZsZlj]Zi ynje mdgje ElZfZ. XXX
+// Leona perso14
+L39D66C
+ Gi kwnZgm| ] iae lZcj[lZnxm|, iZend gafZlmn]j. XXX
+// Leona perso14
+L39D66D
+ X ia ciZz, snj kj_]d^gj a^j jn]alionx m kond, mj]altdnx ]ma na [acohmn]Z. XXX
+// Leona perso14
+L39D66E
+ &jchjbij, ji cZlZcdgm| kj mgosZeijmnd... XXX
+// Leona perso14
+L39D66F
+ <mgd ] i~h md_dn jnlZ]Z, a^j _otZ d lZcoh dmkwnZgd kljmnj so_j]duiwa dchaiaid|. XXX
+// Leona perso14
+L39D66G
+ G_ij dc]amnij: amgd a^j ia jmnZij]dnx, iZm jbd_Zan kasZgxiwe fjiar! XXX
+// Leona perso14
+L39D66H
+ Kw ia ciZatx, ^_a ji maesZm? XXX
+// Arkhan2 G perso2
+L39D67A
+ Fan. Fj | kjgZ^Zz, ji ^_a-nj ] mnZggZena, fZf d kljsda n]Zld... XXX
+// Arkhan2 G perso2
+L39D67B
+ X o]alai, ji [o_an nZh _j kjmga_ia^j! XXX
+// Leona perso14
+L39D68
+ GmnZij]d a^j, kj]al^id. XXX
+// Arkhan2 L perso2
+L39D69A
+ X oba kwnZgm|. XXX
+// Arkhan2 L perso2
+L39D69B
+ ElZf _Zg aho salamsol hij^j mdg. XXX
+// Arkhan2 L perso2
+L39D69C
+ X... | ia _ohZz, snj mklZ]gzmx. XXX
+// Arkhan2 O perso2
+L39D70A
+ CZf ba! XXX
+// Arkhan2 O perso2
+L39D70B
+ Ve, | ]dbo, na[a ia kldtgjmx m idh ]mnlasZnxm|! XXX
+// Arkhan2 O perso2
+L39D70C
+ Kw nZf flonZ - nw d [aem| m idh! XXX
+// Leona perso14
+L39D71A
+ >iZsdn, amnx j_di gdtx ]wqj_: iZe_d *lj[idro d ]alid mdgo J]anZ mnZggZeno! XXX
+// Leona perso14
+L39D71B
+ HjfZ KZiZi_Zl d a^j n]Zld ia _j]altdgd cgj! XXX
+// Arkhan2 L perso2
+L39D75A
+ Hj na[a ]d_ij, nw ciZatx hij^j ]ma^j. XXX
+// Arkhan2 L perso2
+L39D75B
+ Ejban, ciZatx, fZf kjkZmnx ] *lj[idro? XXX
+// Arkhan2 O perso2
+L39D76
+ IZc nw nZf ohiZ, ciZsdn mfZbatx, fZf hia no_Z kjkZmnx, nZf? XXX
+// Leona perso14
+L39D77A
+ Fan. Jaflan oiamgj &agdfja [a_mn]da. XXX
+// Leona perso14
+L39D77B
+ *lj[idrZ mjflwnZ ^_a-nj kj_ mnZggZenjh. XXX
+// Leona perso14
+L39D77C
+ A _la]ida ^j]jldgd, snj konx f iae _jgj^ d jkZmai. XXX
+// Leona perso14
+L39D77D
+ +Zba amgd nw iZe_~tx no_Z _jlj^o, iahZgj dmkwnZide na[| b_~n kala_ ]qj_jh ] mal_ra *lj[idrw. XXX
+// Arkhan2 G perso2
+L39D78
+ Pnj cZ dmkwnZid|? XXX
+// Leona perso14
+L39D79A
+ X j njh ia ciZz. XXX
+// Leona perso14
+L39D79B
+ Ejban, IdgmZ_Zl d ociZg snj-nj, ij ji idsa^j ia lZmmfZcw]Zg. XXX
+// Arkhan2 L perso2
+L39D82
+ Ejbij gd fZf-nj jmgZ[dnx _aemn]da nje jnlZ]w ]ionld hai|? XXX
+// Arkhan2 O perso2
+L39D83
+ # fZf iZms~n nj^j, snj[ dcgasdnx hai|? XXX
+// Leona (suddenly recalling that Arkhan is suffering) perso14
+L39D84A
+ +Z, fjiasij! XXX
+// Leona perso14
+L39D84B
+ X ia ] mdgZq na[| kjgijmnxz dc[Z]dnx jn h~ln]je q]Znfd cgZ. XXX
+// Leona perso14
+L39D84C
+ Fj nZ mdgZ, snj _Zldn =dcix, jiZ ]m~ au~ c_amx. XXX
+// Leona perso14
+L39D84D
+ &jn kjsaho c_amx kldlj_Z nZfZ|. XXX
+// Leona perso14
+L39D84E
+ Jf]jcx fZhaix fjgjmmZ - mnZnod, mnj|uae ] rainla ^ljnZ... XXX
+// Leona perso14
+L39D84F
+ ...kljnafZgZ yial^d| jn Cjgj_rZ J]anZ. XXX
+// Leona perso14
+L39D84G
+ <mgd ]wkxatx ]j_w kj_ga mnZnod, jiZ jsdmndn na[|. XXX
+// Leona perso14
+L39D84H
+ Fj kae ia mgdtfjh hij^j, ]a_x jnlZ]Z oba kljidfgZ ]j ]ma bd]wa nfZid ] n]j~h naga. XXX
+// Leona perso14
+L39D84I
+ KZf d ma[| hjbij o[dnx! XXX
+// Arkhan2 L perso2
+L39D86A
+ JkZmd[j, DajiZ. XXX
+// Arkhan2 L perso2
+L39D86B
+ FZ_azmx, | mklZ]gzmx! XXX
+// Arkhan2 O perso2
+L39D87A
+ &m~ [wgj hdgj, ij | m]Zgd]Zz! XXX
+// Arkhan2 O perso2
+L39D87B
+ Eia au~ bdcid mkZmZnx... XXX
+// Arkhan2 O perso2
+L39D87C
+ A ^gZ]ija, m]jz! XXX
+// Leona perso14
+L39D88
+ L_Zsd, #lqZi. XXX
+// Leona perso14
+L39D89
+ $o_x jmnjljbai. XXX
+// Leona perso14
+L39D90
+ X ciZz, nw ]m~ mhjbatx, mwi IdgmZ_ZlZ! XXX
+// Arkhan2 G perso2
+L39D95
+ LciZ~tx ynj? XXX
+// Leona (wary) perso14
+L39D96
+ JiZsZgZ mfZbd, fnj nw nZfje d sa^j qjnag. XXX
+// Arkhan2 G perso2
+L39D97
+ &jn sZmnx fgzsZ hja^j jnrZ. XXX
+// Leona perso14
+L39D98
+ Hljmnd, ij idsa^j kjqjba^j o hai| ian. XXX
+// Arkhan2 G perso2
+L39D99
+ Vnj snj? XXX
+// Leona perso14
+L39D100
+ G[gjhjf ^jlij^j qlomnZg|. XXX
+// Leona perso14
+L39D101
+ $ac j^lZifd. X _ohZz, nw ia mj]mah nj dmfZg. XXX
+// Arkhan2 G perso2
+L39D102
+ Pnj-id[o_x ciZatx j[ ynjh? XXX
+// Leona perso14
+L39D103
+ Fa jmj[aiij, kljmnd ob. XXX
+// Arkhan3 L perso3
+L39D12
+ X duo Dajio. XXX
+// Arkhan3 O perso3
+L39D13
+ DajiZ? XXX
+// Leona (alarmed) perso14
+L39D014A
+ &agdfde JjgZZl, ynj klj|]gaida ElZfZ! XXX
+// Leona (prudent) perso14
+L39D014B
+ Ka[| kjbdlZan dcionld #lqdmouijmnx QZiflj]. XXX
+// Leona (wary) perso14
+L39D014C
+ Cnj ba nw? XXX
+// Arkhan3 L perso3
+L39D15
+ X #lqZi, mwi IdgmZ_ZlZ. XXX
+// Arkhan3 O perso3
+L39D16
+ #lqZi! XXX
+// Leona perso14
+L39D17A
+ Jwi IdgmZ_ZlZ! XXX
+// Leona perso14
+L39D17B
+ Fj snj kljdmqj_dn ] mnZggZena? XXX
+// Arkhan3 L perso3
+L39D27
+ JnZggZen... ji... a^j jfonZg P~liwe mZ]Zi. XXX
+// Arkhan3 L perso3
+L39D28A
+ +Z, Cjgj_ar J]anZ. XXX
+// Arkhan3 L perso3
+L39D28B
+ Vnj KZiZi_Zl, klj]d_ar. XXX
+// Arkhan3 L perso3
+L39D28C
+ Vnj ]m~ a^j ]diZ. XXX
+// Arkhan3 L perso3
+L39D29A
+ Fan-ian-ian! Fa ragdnagx [jgxta ji! XXX
+// Arkhan3 L perso3
+L39D29B
+ Fa sagj]af _Zba! XXX
+// Arkhan3 L perso3
+L39D29C
+ Gi j[l~f >a_Z d hja^j jnrZ iZ mhalnx! XXX
+// Arkhan3 L perso3
+L39D30
+ KZiZi_Zl cZlZcdg hja^j jnrZ, fZf cZlZcdg hai|. XXX
+// Arkhan3 L perso3
+L39D31
+ KZiZi_Zl cZlZcdg >a_Z, fZf cZlZcdg hai|. XXX
+// Arkhan3 L perso3
+L39D32A
+ FamnalkdhZ| [jgx... XXX
+// Arkhan3 L perso3
+L39D32B
+ KZiZi_Zl cZmnZ]dg a^j nljionx m]an. XXX
+// Arkhan3 L perso3
+L39D32C
+ J]alfiogd hjgidd... Cjgj_ar J]anZ kjhalf... XXX
+// Arkhan3 L perso3
+L39D32D
+ Gi [o_nj [w ]kdnZg mdgo ElZfZ... XXX
+// Arkhan3 L perso3
+L39D32E
+ A P~liwe mZ]Zi mkomndgm|. XXX
+// Arkhan3 L perso3
+L39D38A
+ Djld mfZcZgZ, amnx j_ij hamnj - "*lj[idrZ". XXX
+// Arkhan3 L perso3
+L39D38B
+ Hjmga_ide iZt tZim... XXX
+// Arkhan3 L perso3
+L39D38C
+ Gnar, ]jchjbij, kji|g, ^_a jiZ. XXX
+// Arkhan3 L perso3
+L39D39A
+ Fj maflanw qlZidnx ohag. XXX
+// Arkhan3 L perso3
+L39D39B
+ A | duo qlomnZgxiwe fgzs dc lZciwq plZ^hainj]. XXX
+// Arkhan3 L perso3
+L39D42A
+ Eje jnar ia _Z]Zg na[a fldmnZggZ? XXX
+// Arkhan3 L perso3
+L39D109
+ Cjgj_ar J]anZ... *lj[idrZ... G[v|mid ynj hia. XXX
+// Arkhan3 L perso3
+L39D51A
+ C saho nZdimn]aiijmnx? XXX
+// Arkhan3 L perso3
+L39D51B
+ A kld s~h non >a_, hje jnar d Djld? XXX
+// Arkhan3 L perso3
+L39D52
+ >a_ kala_Zg hia fZfoz-nj mdgo, fj^_Z ohdlZg! XXX
+// Arkhan3 L perso3
+L39D53
+ >a_ kala_Zg hia mdgo, klab_a sah dh cgj j]gZ_agj. XXX
+// Arkhan3 L perso3
+L39D54
+ &jn ynj snj! XXX
+// Arkhan3 L perso3
+L39D62A
+ # mdgZ ElZfZ... XXX
+// Arkhan3 L perso3
+L39D62B
+ ...nje mdga kljnd]jmnjdn? XXX
+// Arkhan3 L perso3
+L39D63
+ JdgZ ] *lj[idra kj[a_dn jnlZ]o! XXX
+// Arkhan3 L perso3
+L39D72
+ # KZiZi_Zl? XXX
+// Arkhan3 L perso3
+L39D73A
+ Gi ]m~ au~ ] mnZggZena, fZf d _lo^da n]Zld. XXX
+// Arkhan3 L perso3
+L39D73B
+ Gi njsij ia oe_~n, kjfZ ia _j]altdn m]j~ cgj! XXX
+// Arkhan3 L perso3
+L39D74A
+ Lba kwnZgm|. XXX
+// Arkhan3 L perso3
+L39D74B
+ >gj a^j dchaidgj, ji mgdtfjh mdg~i. XXX
+// Arkhan3 L perso3
+L39D80A
+ Kw ciZatx hij^j ]ma^j. XXX
+// Arkhan3 L perso3
+L39D80B
+ Ejban, ciZatx, fZf hia iZend *lj[idro? XXX
+// Arkhan3 L perso3
+L39D81
+ Pnj cZ dmkwnZid|? XXX
+// Arkhan3 L perso3
+L39D85
+ Kw kjhjbatx dcgasdnx [jgacix? XXX
+// Arkhan3 O (as if getting ready to devour Leona) perso3
+L39D92
+ DajiZ-Z-Z... XXX
+// Leona perso14
+L39D93
+ #lqZi! Fan, ia kj__Z]Zem| ]jga ElZfZ! XXX
+// Leona perso14
+L39D94
+ Fan! #lqZi, ]gZ_ae mj[je! XXX
+// Arkhan3 G perso3
+L39D104
+ &d_ZgZ nZfja? XXX
+// Arkhan3 L perso3
+L39D105
+ Vnj sZmnx fgzsZ hja^j jnrZ. XXX
+// Arkhan3 L perso3
+L39D106
+ Pnj ynj? XXX

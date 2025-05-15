@@ -1,0 +1,907 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL14.TXT
+ // Kalhi1 perso13
+L14D108
+ Komm jetzt, wir laufen schnell zu Danrys! XXX
+// Arkhan2 Gperso2
+L14D45
+ Na endlich! XXX
+// Arkhan3 G perso3
+L14D46
+ Bandor, na endlich! XXX
+// Malrot4 (A. schreit sie an) perso64
+L14D235
+ Du Wahnsinniger, ich werd's Dir zeigen ! XXX
+// Ernährerin (A. schreit sie an) perso16
+L14D236
+ Hilfe! Ein Wahnsinniger! XXX
+// Malrot1 (A. schreit ihn an) perso61
+L14D237
+ Du wirst schon wissen, warum Du so brüllst! XXX
+// Delia perso10
+L16D122
+ Halt! Du machst mir Angst! XXX
+// Ernährerin perso16
+L14D263
+ Da bist Du ja wieder, mein Freund. XXX
+// Malrot1 perso61
+L14D171
+ Wenn Du noch einen Schritt näher kommst, spieß' ich Dich auf! XXX
+// Arkhan2 L perso2
+L14D139A
+ Beruhig Dich doch! Ich such' keinen Streit! XXX
+// Arkhan2 O perso2
+L14D139B
+ Versuch es doch ... aber sei nicht allzu sicher, daß es klappt! XXX
+// Malrot1 perso61
+L14D140
+ Hmm... Einverstanden, aber keine Tricks! XXX
+// Malrot1 (alarmiert) perso61
+L14D172
+ Ein Verwandelter! Alarm! XXX
+// Ernährerin perso16
+L14D167
+ Hey Du, hör auf, mit Deinen Muskeln zu spielen! XXX
+// Ernährerin perso26
+L14D168
+ Hast Du Dich jetzt beruhigt? So ist es gut! XXX
+// Malrot4 (A. bedroht ihn mit einer Pistole) perso64
+L14D169
+ Hey, vorsichtig mit dem Ding da! XXX
+// Malrot4 (A. packt seine Pistole wieder weg) perso64
+L14D170A
+ So gefällst Du mir schon besser! XXX
+// Malrot4 perso64
+L14D170B
+ Wenn Du mit diesem Ding hier herumknallst, schaffst Du Dir nicht viele Freunde! XXX
+// Malrot1 perso2
+L14D203
+ Hey, vorsichtig! XXX
+// Malrot1 perso61
+L14D204
+ Das gefällt mir schon besser! XXX
+// Arkhan2 L perso2
+L14D05
+ Licht sei über Dir, Lumpensammler. XXX
+// Malrot4 perso64
+L14D07A
+ Wer bist Du denn, hab' Dich hier noch nie gesehen. XXX
+// Malrot4 perso64
+L14D07B
+ Denn eine Fresse wie Deine vergißt man nicht so leicht! XXX
+// Arkhan2 L perso2
+L14D177
+ Ich heiße Arkhan, bin ein Freund vom alten Danrys. XXX
+// Malrot4 perso64
+L14D178A
+ Ich heiße Kubert.  XXX
+// Malrot4 (halb ernst, halb scherzhaft) perso64
+L14D178B
+ Ich schüttel' Dir nicht die Flosse, denn Du könntest sie dabei verlieren! XXX
+// Malrot4 perso64
+L14D178C
+ (Lachen) XXX
+// Arkhan2 O perso2
+L14D08
+ Hey, rollender Bandit! XXX
+// Malrot4 (genervt) perso64
+L14D09A
+ Was'n los mit Dir? XXX
+// Malrot4 (genervt) perso64
+L14D09B
+ Du suchst wohl jemanden, der Dir die Knopflöcher durchschießt! XXX
+// Arkhan2 O perso2
+L14D179A
+ Du bist wohl Komiker von Beruf! XXX
+// Arkhan2 O perso2
+L14D179B
+ Ich bin Arkhan. Ein Kumpel vom alten Danrys. XXX
+// Malrot4 perso64
+L14D180
+ "Arkhan", aha? Ich hätte Dich eher "Furzgesicht" genannt! XXX
+// Arkhan2 L perso2
+L14D10
+ Du kannst mir vielleicht helfen, Kubert. XXX
+// Malrot4 perso64
+L14D11A
+ Mal sehen, ich bin ein sehr beschäftigter Mann! XXX
+// Malrot4 perso64
+L14D11B
+ Ein Lumpensammler wie ich muß sich sein Brot verdienen! XXX
+// Malrot4 perso64
+L14D11C
+ Ich bin kein erleuchteter Prediger, der sich von Licht und Luft ernährt! XXX
+// Arkhan2 O perso2
+L14D12A
+ Ich hab' mich gefragt, ob... XXX
+// Arkhan2 O perso2
+L14D12B
+ Hast Du die Maske da aufgesetzt, damit Dich Deine Mutter nicht erkennt? XXX
+// Arkhan2 O perso2
+L14D12C
+ Die freut sich bestimmt nicht, daß sie eine halbe Portion wie Dich zur Welt gebracht hat! XXX
+// Malrot4 (wütend) perso64
+L14D13A
+ Ich brauchte 'ne Schüssel, um zu essen... XXX
+// Malrot4 (wütend) perso64
+L14D13B
+ Dein leerer Spatzenschädel wär' da doch genau richtig gewesen! XXX
+// Arkhan2 L perso2
+L14D34A
+ Es ist wichtig. XXX
+// Arkhan2 L perso2
+L14D34B
+ Ich brauch' Hilfe, um wieder gesund zu werden.  XXX
+// Malrot4 perso64
+L14D35A
+ Aha, so ist das also! Es wird aber noch einige Zeit dauern, bis Du zu einem echten Lumpensammler geworden bist. XXX
+// Malrot4 perso64
+L14D35B
+ Du solltest vielleicht damit anfangen, Dich zu waschen. XXX
+// Malrot4 perso64
+L14D35C
+ Das tut aber weh, mein Freund! XXX
+// Malrot4 perso64
+L14D35D
+ Eine tote Ratte, die zehn Sonnenzyklen lang im Schlamm vor sich hingefault hat, stinkt nicht so wie Du! XXX
+// Arkhan2 L perso2
+L14D36A
+ Ich suche einen Heiler in der Gegend. XXX
+// Malrot4 perso64
+L14D37A
+ Von welchem Stern kommst Du denn? Die einzigen Heiler, die es hier gibt, sind da oben, bei den Predigern! XXX
+// Malrot4 perso64
+L14D37B
+ Aber wenn wir versuchen, da hochzufahren, bekommen wir von den Hütern des Feuers einen kräftigen Tritt in den Hintern. XXX
+// Arkhan2 L perso2
+L14D36B
+ An Dir könnten sie sich die Knöchel brechen! XXX
+// Malrot4 (der Witz gefällt ihm) perso64
+L14D37C
+ Da hast Du recht, Furzgesicht! XXX
+// Arkhan2 L perso2
+L14D38
+ Habt ihr eigentlich keinen Chef? XXX
+// Malrot4 perso64
+L14D39A
+ Es gibt hier unten nur einen Chef, Armal Sadak. XXX
+// Malrot4 perso64
+L14D39B
+ Wenn Dir jemand helfen kann, dann er. XXX
+// Malrot4 perso64
+L14D39C
+ Ich kann Dich aber nur warnen: Deine Fresse gefällt ihm sicher nicht! XXX
+// Arkhan2 L perso2
+L14D181
+ Wer kann mir sonst noch helfen? XXX
+// Malrot4 perso64
+L14D182A
+ Die "Anderen", die Konkaliten.  XXX
+// Malrot4 perso64
+L14D182B
+ Aber glaub mir, es ist angenehmer, sich von den Ratten den Arsch auffressen zu lassen, als mit den Konkaliten zu tun zu haben. XXX
+// Malrot4 perso64
+L14D182C
+ Sordos ist krank im Kopf! XXX
+// Arkhan2 L perso2
+L14D183
+ Sordos? XXX
+// Malrot4 perso64
+L14D184
+ Ihr Chef! Er hat Armal Sadak die Stirn geboten, und seitdem versteckt er sich mit seiner Bande und brütet finstere Pläne aus. XXX
+// Arkhan2 L perso2
+L14D40
+ Erzähl mir ein bißchen mehr über ihn ... XXX
+// Malrot4 perso64
+L14D41A
+Oho, das reicht! XXX
+// Malrot4 perso64
+L14D41B
+ Ich bin kein Märchenerzähler! XXX
+// Arkhan2 O (drohend) perso2
+L14D42
+ Hör jetzt auf mit dem Quatsch und antworte! XXX
+// Malrot4 (wird A. schlagen) perso64
+L14D43
+ Klar! Aber meine Antwort könnten die letzte sein, die Du in Deinem Leben hörst! XXX
+// Arkhan2 L perso2
+L14D00
+ Hey, Lumpensammler... XXX
+// Malrot4 (drohend) perso64
+L14D01A
+ Zuerst packst Du diese Waffe weg, die macht mich nervös! XXX
+// Malrot4 (drohend) perso64
+L14D01B
+ Dann sehen wir weiter ... XXX
+// Arkhan2 L perso2
+L14D04
+ Reg Dich nicht auf, ihr will Dir nichts tun! XXX
+// Malrot4 perso64
+L14D06
+ Pack das Ding da weg, hab' ich gesagt! XXX
+// Arkhan2 O perso2
+L14D02
+ Was ist los, Du halbe Portion? Hast Du Schiß? XXX
+// Malrot4 perso64
+L14D03
+ Du wirst schon sehen, ob ich Schiß habe! XXX
+// Malrot4 perso64
+L14D13
+ Ich reiß' Dir die Gedärme raus! XXX
+// Arkhan2 G perso2
+L14D44
+ Hast Du hieran interesse? XXX
+// Malrot4 perso64
+L14D45A
+ Nein, vergiß es. XXX
+// Malrot4 perso64
+L14D45B
+ Meine Mutter hat mir immer gesagt, nie was von jemandem anzunehmen, der den Arsch im Gesicht trägt! XXX
+// Arkhan3 L perso3
+L14D18
+ Hey Du! XXX
+// Malrot4 (von Arkhan3 beeindruckt) perso64
+L14D19A
+ Hör mal, ähm ... mein Freund. Ich will keinen Ärger. XXX
+// Malrot4 (von Arkhan3 beeindruckt) perso64
+L14D19B
+ Sagen wir, Du hast mich nicht gesehen, und alles ist in Ordnung, einverstanden? XXX
+// Malrot4 (sehr beeindruckt von Arkhan3) perso64
+L14D15
+ Oh oh, reg Dich nicht auf, ich hab' doch nichts getan, oder?! XXX
+// Arkhan3 L perso3
+L14D20
+ Warte, ich will mit Dir sprechen! XXX
+// Malrot4 perso64
+L14D21A
+ Rühr mich nicht an! XXX
+// Malrot4 (wird A. schlagen) perso64
+L14D21B
+ Ich hab' auch Krallen! XXX
+// Malrot4 (wird A. schlagen) perso64
+L14D185
+ Du wirst schon sehen! XXX
+// Malrot4 (spöttisch) perso64
+L14D206A
+ "Licht sei über Dir", richtig so? XXX
+// Malrot4 perso64
+L14D206B
+ Falls Du es nicht gemerkt haben solltest, hier hört das Licht auf! XXX
+// Malrot4 perso64
+L14D207A
+ Der Sonnengott hat uns im Stich gelassen, mein Freund! XXX
+// Malrot4 perso64
+L14D207B
+ Wenn Du an Deinem Leben hängst, solltest Du hier nicht herumhängen. XXX
+// Arkhan2 O perso2
+L14D214
+ Und was machst Du hier? XXX
+// Malrot4 perso64
+L14D223
+ Hier fühle ich mich am wohlsten, die Stimmung ist hier am gastfreundlichsten! XXX
+// Arkhan2 L perso2
+L14D208
+ Was ist denn hier unten passiert? XXX
+// Malrot4 perso64
+L14D209
+ Das ist so, seit die Finsternis über uns gekommen ist! XXX
+// Malrot4 perso64
+L14D210A
+ Manche sagen, daß Dinge aus dem Reich der Finsternis in die Stadt eingedrungen sind. XXX
+// Malrot4 perso64
+L14D210B
+ Und wir, die Lumpensammler, sind das Wild, das sie jagen XXX
+// Malrot4 perso64
+L14D210C
+ Und diejenigen, die nicht sterben ... verwandeln sich ...  XXX
+// Malrot4 perso64
+L14D210D
+ Sie werden wie diese Kreaturen. XXX
+// Malrot4 perso64
+L14D213
+ Aber wenn sie kommen, um mich zu holen, werden sie meine Krallen als erstes verdauen müssen! XXX
+// Arkhan2 L perso2
+L14D211
+ Was weißt Du noch über die Kreaturen der Finsternis? XXX
+// Malrot4 perso64
+L14D212
+ Nichts ... und mehr will ich darüber auch nicht wissen! XXX
+// Arkhan2 O perso2
+L14D215
+ Was ist das für ein Gestank? Hast Du Dir vor Angst in die Hosen geschissen? XXX
+// Arkhan3 L perso3
+L14D217
+ Sei gegrüßt, Lumpensammler! XXX
+// Malrot4 (erschreckt) perso64
+L14D218A
+ Komm nicht näher! XXX
+// Malrot4 (erschreckt) perso64
+L14D218B
+ Ich weiß, was Du bist, aber mich verwandelst Du nicht! XXX
+// Arkhan3 L perso3
+L14D219
+ Reg Dich nicht auf, ich tu' Dir nichts! XXX
+// Malrot4 (mißtrauisch) perso64
+L14D220
+ Ist das wahr? Dann tu mir einen Gefallen und hau ab! XXX
+// Arkhan2 G perso2
+L14D165
+ Dieser Halunke hat nichts bei sich. XXX
+// Arkhan3 G perso3
+L14D166
+ Nichts hat der Halunke bei sich. XXX
+// Arkhan2 L perso2
+L14D49
+Licht sei über Dir, Ernährerin. XXX
+// Arkhan2 O perso3
+L14D59
+Sei gegrüßt, Mutter Ernährerin! XXX
+// Ernährerin perso16
+L14D50A
+ Und über Dir. XXX
+// Ernährerin perso16
+L14D50B
+ Sieht aus, als seist Du in der Oberen Stadt nicht willkommen! XXX
+// Ernährerin perso16
+L14D50C
+ Die Hüter des Feuers haben die Plattform aber hoffentlich nicht Deinetwegen blockiert? XXX
+// Arkhan2 L perso2
+L14D186
+Nein, damit hab' ich nichts zu tun. XXX
+// Arkhan2 O perso3
+L14D187
+Wenn man Dir Fragen stellt, hast Du mich nie gesehen, verstanden? XXX
+// Arkhan2 L perso2
+L14D51
+ Mein Name ist Arkhan, ich bin ein Freund des Lumpensammlers Danrys. XXX
+// Arkhan2 O perso2
+L14D60
+ Ich heiße Arkhan, bin ein Freund von Danrys. XXX
+//Ernährerin perso16
+L14D52A
+ Also gut, was willst Du, Arkhan? XXX
+//Ernährerin perso16
+L14D52B
+ Falls Du Hunger hast, hab' ich ein paar gute Sachen zum Tauschen!  XXX
+// Arkhan2 L perso2
+L14D53
+ Du könntest mir mehr über diesen Ort hier erzählen. XXX
+// Arkhan2 O perso2
+L14D61
+ Sag mir, was Du über diese Ecke des Stalliten weißt. XXX
+// Ernährerin (erstaunt) perso16
+L14D54A
+ Was willst Du wissen? XXX
+// Ernährerin perso16
+L14D54B
+ Du bist hier in der Unteren Stadt. XXX
+// Ernährerin perso16
+L14D54C
+ Die ist voller Lumpensammler und Ernährer, die keine Zeit mit Gesprächen zu verlieren haben. XXX
+// Ernährerin perso16
+L14D54D
+ Wenn Du mit mir nichts tauschen willst, kann ich nicht viel für Dich tun. XXX
+// Arkhan2 G perso2
+L14D55
+ Tauschen? XXX
+// Ernährerin perso16
+L14D56A
+ Ja. Zeig mir, was Du hast. XXX
+// Ernährerin perso16
+L14D56B
+ Ich werd' mal sehen, was ich Dir geben kann. XXX
+// Arkhan2 L perso2
+L14D57
+ Hör mal, eigentlich will ich nichts tauschen. XXX
+// Ernährerin perso16
+L14D58
+ Wenn das so ist, kann ich nichts für Dich tun ... XXX
+// Arkhan2 O perso2
+L14D63
+ Tauschen interessiert mich nicht! XXX
+// Ernährerin perso16
+L14D188A
+ Kein Problem ... alles in Ordnung. XXX
+// Ernährerin perso16
+L14D188B
+ Aber wenn Du was zu Futtern suchst, meld Dich bei mir ... XXX
+// Arkhan2 G perso2
+L14D28
+ Du kannst mir vielleicht helfen. XXX
+// Ernährerin perso16
+L14D29
+ Sicher ... Aber Du brauchst diese Waffe da nicht, um mit mir zu reden... XXX
+// Arkhan2 G perso2
+L14D30
+ Hör mit gut zu, Ernährerin... XXX
+// Ernährerin perso16
+L14D31A
+ Ich hab' Dir doch gesagt, pack die Waffe weg.  XXX
+// Ernährerin perso16
+L14D31B
+ Die brauchst Du nicht, um mit mir zu reden... XXX
+// Arkhan2 G perso2
+L14D77
+ Ich hab' hier was ... XXX
+// Ernährerin perso16
+L14D78A
+ Warte! Ich verhandle nicht mit Unbekannten. XXX
+// Ernährerin perso16
+L14D78B
+ Wie heißt Du? XXX
+// Arkhan2 G perso2
+L14D74A
+ Gefällt Dir dieser Spiegel von Vorher? XXX
+// Arkhan2 G perso2
+L14D74B
+ Schau nur, das Licht! XXX
+// Ernährerin perso16
+L14D152A
+ Ja! Der gefällt mir! XXX
+// Ernährerin perso16
+L14D152B
+ Ich geb' Dir dafür diese Metallbüchse. XXX
+// Ernährerin perso16
+L14D152D
+ Die hat mir der Lumpensammler Danrys geschenkt.  XXX
+// Ernährerin perso16
+L14D152E
+ Er ist der einzige, der sowas herstellen kann. XXX
+// Arkhan2 G perso2
+L14D76A
+ Einverstanden. XXX
+// Arkhan2 L perso2
+L14D76B
+ Danke. XXX
+// Arkhan2 G perso2
+L14D82
+ Was gibst Du mir für diesen Flakon? XXX
+// Ernährerin perso16
+L14D83A
+ Ist'n schönes Stück. XXX
+// Ernährerin perso16
+L14D83B
+ Ich geb' Dir dafür diese dicke Scheibe gesalzenes Fleisch. XXX
+// Arkhan2 G perso2
+L14D85
+ Willst Du einen Glasbecher? XXX
+// Ernährerin (überlegt) perso16
+L14D86
+ Hmm... Dafür geb' ich Dir diesen Fisch. XXX
+// Arkhan2 G perso2
+L14D225
+ Gibst Du mir für diesen Mörser etwas zu essen? XXX
+// Ernährerin perso16
+L14D226A
+ Ja, ich geb' Dir diese dicke Wurzel. XXX
+// Ernährerin perso16
+L14D226B
+ Du wirst sehen, sie schmeckt besser, als sie aussieht. XXX
+// Arkhan2 G perso2
+L14D227
+ Was gibst Du mir für diesen Teller? XXX
+// Ernährerin perso16
+L14D228A
+ Dafür geb ich Dir das Gemüse hier, eine schöne Portion... kaum angefressen! XXX
+// Ernährerin perso16
+L14D228B
+ Paß auf, daß Du Dich nicht an den Kernen verschluckst! XXX
+// Arkhan2 G perso2
+L14D229
+ Hier ist ein Stößel, mit dem Du Dein Essen zerkleinern kannst. XXX
+// Ernährerin perso16
+L14D230A
+ Tja ... das könnte nützlich sein. XXX
+// Ernährerin perso16
+L14D230B
+ Dafür geb' ich Dir einen Sonnenapfel. XXX
+// Arkhan2 G perso2
+L14D231
+ Gibst Du mir was für diese Schüssel? XXX
+// Ernährerin perso16
+L14D232
+ Ja, ich hab' da einen Hähnchenschenkel, der kommt aus der Silbernen Rohrpfeife. XXX
+// Arkhan2 G perso2
+L14D233
+ Hast Du Interesse an diesem Fläschchen? XXX
+// Ernährerin perso16
+L14D234
+ Ja, ich tausch' es Dir gegen eine Feldflasche voller Stohll. XXX
+// Arkhan2 G perso2
+L14D157
+ Interessiert Dich das? XXX
+// Ernährerin perso16
+L14D191
+ Das nicht. Hast Du nicht was anderes? XXX
+// Ernährerin perso16
+L14D192
+ Nein, das interessiert mich nicht. XXX
+// Ernährerin perso16
+L14D193
+ Dafür kann ich Dir nichts geben. XXX
+// Arkhan2 L perso2
+L14D243
+ Ist hier jemand vorbeigekommen? XXX
+// Ernährerin perso16
+L14D244A
+ Ja, ein Mann mit einem Schwert, der ist hier vorbeigeschossen wie ein Pfeil! XXX
+// Ernährerin perso16
+L14D244B
+ Sah aus wie ein Hüter des Feuers, bin aber nicht sicher. XXX
+// Arkhan2 L perso2
+L14D245
+ In welche Richung ist er gelaufen? XXX
+// Ernährerin perso16
+L14D246
+ Das weiß ich nicht... XXX
+// Arkhan2 L perso2
+L14D247
+ Also gut... Trotzdem vielen Dank. XXX
+// Arkhan2 O perso2
+L14D248
+ Hey! Ist hier jemand vorbeigekommen? XXX
+// Arkhan2 O perso2
+L14D249
+ Und in welche Richtung ist er gelaufen? XXX
+// Ernährerin (verlegen)perso16
+L14D250
+ Hmm... XXX
+// Arkhan2 O perso2
+L14D251
+ Also, wohin?! XXX
+// Ernährerin (verlegen)perso16
+L14D252
+ Ich weiß nicht, ich hab' mich hinter meinem Wagen versteckt. XXX
+// Arkhan2 O perso2
+L14D253
+ Das habe ich mir gedacht! XXX
+// Arkhan3 L perso3
+L14D64
+ Ernährerin... XXX
+// Ernährerin (erschreckt) perso16
+L14D65
+ Was willst Du von mir? XXX
+// Arkhan3 L perso3
+L14D66
+ Beruhig Dich, ich bin Arkhan, ich tu' Dir nichts! XXX
+// Ernährerin (nicht überzeugt) perso16
+L14D67A
+ Also gut... XXX
+// Ernährerin (nicht überzeugt) perso16
+L14D67B
+ Hier ist ein kleines Geschenk. XXX
+// Ernährerin (nicht überzeugt) perso16
+L14D67C
+ Der Lumpensammler Danrys hat sie gemacht. XXX
+// Ernährerin (nicht überzeugt) perso16
+L14D67D
+ Iß. Du wirst sehen, es ist lecker! XXX
+// Arkhan3 L perso3
+L14D68
+ Hast Du noch was anderes für mich? XXX
+// Ernährerin (nicht überzeugt) perso16
+L14D69
+ Nein, tut mir leid... XXX
+// Ernährerin (erschreckt) perso16
+L14D48
+ Hilfe! Lumpensammler, helft mir! XXX
+// Arkhan3 L perso3
+L14D254
+ Hast Du hier jemanden vorbeikommen sehen? XXX
+// Arkhan3 L perso3
+L14D255
+ Du weißt also, wo er ist! XXX
+// Arkhan3 L perso2
+L14D256
+ Also? XXX
+// Arkhan3 L perso2
+L14D257
+ Hrrr... Dann eben nicht. XXX
+// Arkhan2 L perso3
+L14D149
+ Hey, sag ihm, er soll sich beruhigen! XXX
+// Ernährerin perso16
+L14D150
+ Eure Schlägereien gehen mich nichts an! XXX
+// Arkhan3 O perso3
+L14D189
+ Hilf mir! XXX
+// Ernährerin perso16
+L14D190
+ Nein! Ich ... ich hab' damit nichts zu tun! XXX
+// Arkhan2 O perso2
+L14D194
+ Glaubst Du etwa, Du könntest mich besiegen?! XXX
+// Ernährerin perso16
+L14D195
+ Das wirst Du schon sehen, Du Dreckskerl! XXX
+// Arkhan2 G perso2
+L03D01
+ Warte auf mich. XXX
+// Arkhan3 G perso3
+L03D02
+ Warte. XXX
+// Arkhan2 G perso2
+L14D105
+ Alte Stücke von Maschinen vom Vorher, die die Lumpensammler da hingeworfen haben. XXX
+// Arkhan3 G perso3
+L14D106
+ Alteisen vom Vorher, das die Lumpensammler da hingeworfen haben. XXX
+//Arkhan2 G perso2
+L14D95
+ Nichts als Alteisen... XXX
+//Arkhan3 G perso3
+L14D96
+ Alteisen. XXX
+// Arkhan2 G perso2
+L14D97
+ Ein alter Ölkarren ... XXX
+// Arkhan2 G perso2
+L14D100
+ Alte Bleche! XXX
+// Arkhan3 G perso3
+L14D101
+ Verrottete Bleche! XXX
+// Malrot1 perso61
+L14D137
+ Hey, Finger weg, oder Du bekommst es mit mir zu tun! XXX
+// Malrot1 perso61
+L14D138A
+ Halt Dich bloß nicht zurück, Kumpel. XXX
+// Malrot1 perso61
+L14D138B
+ Wenn Du was findest, was Dir gefällt, behalt es! XXX
+// Arkhan2 G perso2
+L14D89
+ Blechplatten, völlig nutzlos! XXX
+// Arkhan3 G perso3
+L14D90
+ Nichts als Blech. XXX
+// Arkhan2 G perso2
+L14D265
+ Da füllt Danrys das Öl hinein, um die Maschine zum Laufen zu bringen. XXX
+// Arkhan3 Gperso3
+L14D266
+ Das ist der Öltank für die Maschine. XXX
+// Arkhan2 G perso2
+L14D267
+ Sieht aus, als wär' der Tank leer. XXX
+// Arkhan3 G perso3
+L14D268
+ Der Tank ist leer. XXX
+// Arkhan2 G perso2
+L14D269
+ Damit müßte die Maschine eigentlich wieder anlaufen. XXX
+// Arkhan3 G perso3
+L14D270
+ Damit wird die Maschine wieder anlaufen ... XXX
+// Arkhan2 G perso2
+L14D271
+ Nein, der Tank ist schon gut gefüllt. XXX
+// Arkhan3 G perso3
+L14D272
+ Es ist schon genug Öl im Tank. XXX
+// Arkhan2 G perso2
+L14D273
+ Der Tank ist gut gefüllt. XXX
+// Arkhan3 G perso3
+L14D274
+ Gut gefüllt. XXX
+// Arkhan2 L perso2
+L14D104A
+ Das ist ein Überbleibsel vom Vorher. XXX
+// Arkhan2 L perso2
+L14D104B
+ Sieht aus wie eine große Maschine. XXX
+// Arkhan2 O perso2
+L14D196
+Zu schwer! XXX
+// Arkhan3 L perso3
+L14D107
+ Ein Stück einer Maschine vom Vorher ... XXX
+// Arkhan3 O perso3
+L14D197
+ Zu schwer! XXX
+// Arkhan2 L perso2
+L14D113
+ Reg Dich nicht auf, ich bin ein Freund. XXX
+// Malrot1 perso61
+L14D114A
+ Das ist leicht gesagt!  XXX
+// Malrot1 perso61
+L14D114B
+ Wer ist in dieser Finsternis Freund und wer Feind? XXX
+// Arkhan2 O perso2
+L14D109
+ Was machst Du da? XXX
+// Malrot1 perso61
+L14D110A
+ Das müßte ich eigentlich Dich fragen! XXX
+// Malrot1 perso61
+L14D110B
+ Verschwinde jetzt, sonst bekommst Du mein Messer zwischen die Rippen! XXX
+// Arkhan2 L perso2
+L14D115
+ Weißt Du, was hier los ist? XXX
+// Malrot1 (erschreckt und aggressiv) perso61
+L14D116A
+ Der Sonnengott hat uns im Stich gelassen, das ist hier los! XXX
+// Malrot1 (erschreckt und aggressiv) perso61
+L14D116B
+ Die Finsternis ist da! Sie überkommt die Menschen und macht aus ihnen wilde Tiere! XXX
+// Malrot1 (erschreckt und aggressiv) perso61
+L14D116C
+ Und wenn ich mir Deine Visage anguck', hab' ich den Eindruck, daß Du der nächste auf der Liste bist! XXX
+// Malrot1 (provozierend) perso61
+L14D116D
+ An Deiner Stelle würd' ich mich aus dem Staub machen! XXX
+// Arkhan2 O (drohend) perso2
+L14D111
+ Ich geb Dir einen Rat: Provozier mich nicht! XXX
+// Malrot1 (aggressiv) perso61
+L14D112
+ Deine Ratschläge kannst Du Dir hinstecken, wo Du willst! XXX
+// Arkhan2 L perso2
+L14D118A
+ Mach Dir keine Sorgen, ich bin auf Deiner Seite. XXX
+// Arkhan2 L perso2
+L14D118B
+ Die Konkaliten sind schuld an allem.  XXX
+// Arkhan2 L perso2
+L14D118C
+ Sie und ... ähm ... ein Prediger ... mit dem Namen Thanandar. XXX
+// Malrot1 perso61
+L14D119A
+ Die Konkaliten! Klar, sie sind an allem schuld! XXX
+// Malrot1 (rachsüchtig) perso61
+L14D119B
+ Das werden sie uns bezahlen! XXX
+// Arkhan2 L perso2
+L14D121
+ Ich denke, daß Thanandar hier irgendwo im Stalliten ist. XXX
+// Malrot1 perso61
+L14D122A
+ Der Prediger, der bei den Konkaliten ist? XXX
+// Malrot1 perso61
+L14D122B
+ Ein Prediger bleibt nicht lange hier! XXX
+// Arkhan2 L perso2
+L14D198A
+ Glaub das nicht, der hat nichts Menschliches mehr an sich. XXX
+// Arkhan2 L perso2
+L14D198B
+ Die Finsternis ist in ihm, der fühlt sich in der Finsternis genauso wohl wie eine Ratte im Schlamm! XXX
+// Arkhan2 L perso2
+L14D198C
+ Und er will uns alle umbringen! XXX
+// Malrot1 perso61
+L14D199
+ Wie sieht dieses schreckliche Wesen denn aus? XXX
+// Arkhan2 L perso2
+L14D198D
+ Er ist sehr groß, mit einer Art Rüstung aus schwarzem Stahl. XXX
+// Arkhan2 L perso2
+L14D198E
+ Glaub mir, es ist besser, hundert Konkaliten mit nackten Händen zu bekämpfen, als es einmal mit Thanandar zu tun zu bekommen! XXX
+// Arkhan2 L perso2
+L14D200
+ Nimm Dich vor Thanandar in acht! XXX
+// Arkhan2 L perso2
+L14D242
+ Sei trotzdem vorsichtig! XXX
+// Malrot1 perso61
+L14D201
+ Mach Dir keine Sorgen um mich, ich kann mich verteidigen! XXX
+// Arkhan2 O perso2
+L14D277
+ Sag mal, für einen starken Mann wie Du scheißt Du Dir ganz schön in die Hosen! XXX
+// Malrot1 perso61
+L14D278
+ Das hättest Du nicht sagen sollen! XXX
+// Arkhan2 G perso2
+L14D123
+ Hör mir zu, Lumpensammler... XXX
+// Malrot1 perso61
+L14D124
+ Pack das weg, oder Du bekommst Ärger mit mir! XXX
+// Arkhan2 L perso2
+L14D125A
+ Immer mit der Ruhe, Freundchen! XXX
+// Arkhan2 L perso2
+L14D125B
+ Ich hab' eine Waffe, um mich zu verteidigen, genau wie Du! XXX
+// Malrot1 perso61
+L14D126
+ Ich werd' mich abregen, wenn Du sie weggepackt hast, verstanden? XXX
+// Arkhan2 O perso2
+L14D127
+ Sag mal ehrlich, Rotznase, glaubst Du wirklich, daß Du mich zwingen kannst, meine Waffe wegzupacken? XXX
+// Malrot1 perso61
+L14D130
+ Nein, Du kannst sie behalten. XXX
+// Arkhan2 G perso2
+L14D129
+ Hey, kennst Du das da? XXX
+// Malrot1 perso61
+L14D131
+ Nicht besser als Dich! XXX
+// Arkhan2 G perso2
+L14D144
+ Willst Du einen Schluck aus der Flasche? XXX
+// Malrot1 perso61
+L14D133
+ Wer bist Du eigentlich, daß Du mir zu trinken anbietest? XXX
+// Malrot1 perso61
+L14D135
+ So gefällst Du mir schon besser! XXX
+// Malrot1 (hat ein scheußliches Gebräu probiert) perso61
+L14D175A
+ Ahhhh ... Das schmeckt ja wie Leichensaft! XXX
+// Malrot1 perso61
+L14D175B
+ Steck das sofort wieder ein! Aaaah... XXX
+// Arkhan2 G perso2
+L14D134
+ Noch einen Schluck? XXX
+// Malrot1 perso61
+L14D136
+ Oh nein! Lieber einen Liter Konkalitenpisse als dieses Gebräu! XXX
+// Arkhan2 L perso2
+L14D162
+ Wasser, Schlamm, Asche .. ein Lumpensammlerrezept! XXX
+// Arkhan3 L perso3
+L14D279
+ Dreckiges Wasser... XXX
+// Arkhan2 G perso2
+L14D258
+ Wenn ich da anfasse, bin ich meine Hand los! XXX
+// Arkhan3 G perso3
+L14D259
+ Nein, wenn ich da anfasse, bin ich meine Hand los! XXX
+// Arkhan2 G perso2
+L14D260
+ Die funktioniert nicht mehr. XXX
+// Arkhan3 G perso3
+L14D261
+ Die funktioniert nicht mehr. XXX
+// Arkhan2 G perso2
+L14D262
+ Sie ist wieder angelaufen! XXX
+// Arkhan3 G perso3
+L14D264
+ Sie läuft wieder an! XXX
+// Arkhan2 G perso2
+L14D275A
+ Mit diesen Dosen und Seilen bringt Danrys seine Maschinen zum Laufen. XXX
+// Arkhan2 G perso2
+L14D275B
+ Ich hab' nie richtig verstanden, wie das funktioniert ... XXX
+// Arkhan3 G perso3
+L14D276A
+ Damit bringt Danrys seine Maschinen zum Laufen. XXX
+// Arkhan3 G perso3
+L14D276B
+ Ich hab' nie verstanden, wie... XXX
+// Arkhan2 G perso2
+L14D238
+ Wir fahren jetzt mit der Plattform wieder hoch.  XXX
+// Arkhan3 G perso3
+L14D239
+ Wir fahren zur Oberen Stadt hoch. XXX
+// Delia perso10
+L14D240
+ Geh nur zu, ich folge Dir. XXX
+// Delia (Arkhan zeigt ihr was) perso10
+L14D241A
+ Arkhan, wir sollten uns zuerst in der Oberen Stadt verstecken. XXX
+// Delia perso10
+L14D241B
+ Es ist gefährlich, hier zu bleiben! XXX
+// Arkhan2 G (Delia oder Kalhi schlagen ihn) perso2
+L10D93
+ Du hast keine Chance, meine Süße! XXX
+// Arkhan3 G (Delia oder Kalhi schlagen ihn) perso3
+L10D94
+ Gleich ist's aus mit Dir, mein Schatz! XXX
+// Delia (von Arkhan geschlagen) perso10
+L10D95
+ Nein, Du bist wohl verrückt geworden, hör auf! XXX

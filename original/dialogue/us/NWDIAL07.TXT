@@ -1,0 +1,307 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL07.TXT
+ // Zed (after a long or short battle) perso27
+L07D01A
+ Mmm... You still have a few things to learn! XXX
+// Zed (in friendly jest) perso27
+L07D01B
+ You rusty, or still asleep!  XXX
+// Zed (after a long or short battle) perso27
+L07D01C
+ Keep on practicing, it's the only way to get any better.  XXX
+// Zed perso27
+L07D05A
+ If you want to fight, "en garde"!  XXX
+// Zed perso27
+L07D05B
+ Otherwise, let me work out in peace, okay? XXX
+// Phedoria perso26
+L07D02A
+ Tired already?  XXX
+// Phedoria perso26
+L07D02B
+ You need to work on endurance... XXX
+// Zed perso27
+L07D03A
+ Come over and practice with me!  XXX
+// Zed perso27
+L07D03B
+ Don't worry, you won't get hurt... we won't land real blows!  XXX
+// Zed perso27
+L07D04
+ You change your mind? XXX
+// Zed perso27
+L07D06
+ All right, you asked for it!  Fight back! XXX
+// Zed perso27
+L07D08
+ Okay, if you don't want to practice, let me teach you a few things! XXX
+// Zed perso27
+L07D09
+ Make up your mind! XXX
+// Zed (fed up) perso27
+L07D10
+ Don't come near me if you're afraid of getting hit!  XXX
+// Phedoria (mocking) perso26
+L07D32
+ Leaving already! XXX
+// Phedoria perso26
+L07D11
+ Come over here.... I'll teach you how to fight!  XXX
+// Phedoria perso26
+L07D12
+ Blasted gloom! "En garde"! XXX
+// Phedoria perso26
+L07D13
+ All right, that's enough! XXX
+// Phedoria perso26
+L07D14
+ Let's try again! XXX
+// Phedoria perso26
+L07D74
+ Get out of my way, I can't work out with you standing there! XXX
+// Phedoria perso26
+L07D75
+ Get back, or I'll carve out your guts with my sword! XXX
+// Phedoria perso26
+L07D76
+ For the last time... Move! XXX
+// Phedoria perso26
+L07D77
+ Moron! XXX
+// Phedoria perso26
+L07D54
+ Halt, who goes there?! XXX
+// Phedoria perso26
+L07D55
+ Tell me who you are, or I'll dispatch you to the Darklands!  XXX
+// Phedoria (coolly fires her weapon) perso26
+L01D45B
+ You don't leave me much choice! XXX
+// Phedoria (Arkhan goes "en garde") perso26
+L07D78
+ I thought you were smarter than that! XXX
+// Zed perso27
+L07D07
+Alright, let's go. En garde! XXX
+// Zed perso27
+L07D16
+ Uh oh!  You look like you're in great shape today! XXX
+// Arkhan1 L perso1
+L07D18
+ So, you ready for a little friendly sparring? XXX
+// Zed perso27
+L07D19
+ Whenever you're ready! "En garde"... let's go! XXX
+// Arkhan1 O perso1
+L07D20
+ Get ready, Zed! I'm going to give you the beating of your life!  XXX
+// Zed perso27
+L07D21
+ We'll see about that, wise guy! Come on, "en garde"! XXX
+// Phedoria perso26
+L07D22
+ Are you ready? Let's go! XXX
+// Phedoria perso26
+L07D23
+ Get yourself a weapon if you want to practice with me!  XXX
+// Phedoria (Arkhan comes back with a weapon) perso26
+L07D24
+ Finally! I almost fell asleep! XXX
+// Phedoria (Arkhan comes back with an object) perso26
+L07D25
+ Don't be ridiculous, get yourself a real weapon!  XXX
+// Arkhan1 L perso1
+L07D26
+ Captain Phedoria, how would you like a friendly little training session? XXX
+// Phedoria (self-confident)perso26
+L07D27
+ Friendly, huh? "En garde". XXX
+// Arkhan1 O perso1
+L07D28
+ You're gonna bite the dust! XXX
+// Phedoria perso26
+L07D29
+ Oh yeah? "En garde," braggart! XXX
+// Arkhan2 G perso2
+L07D57
+ Phedoria, it's me, Arkhan! XXX
+// Arkhan3 G perso3
+L07D58
+ It's Arkhan! XXX
+// Phedoria perso26
+L07D59A
+ Arkhan!? XXX
+// Phedoria perso26
+L07D59B
+ The poison has changed you beyond recognition!  XXX
+// Arkhan2 G perso2
+L07D60A
+ You believe me. You're not afraid. XXX
+// Arkhan2 G perso2
+L07D60B
+ That's a welcome change from the other Guardians of Fire!  XXX
+// Phedoria perso26
+L07D61A
+ You're the living image of everything they've been taught to fear.  XXX
+// Phedoria perso26
+L07D61B
+ It makes no difference to me, as long as your soul remains pure. XXX
+// Phedoria perso26
+L07D61C
+ I haven't received any orders to kill or arrest you.  XXX
+// Arkhan2 G perso2
+L07D62A
+ I don't know where to turn...  XXX
+// Arkhan2 G perso2
+L07D62B
+ Most of my so-called friends have turned against me or are trying to trick me.  XXX
+// Phedoria perso26
+L07D63
+ If you have faith in yourself and in the Sun God, you'll find a way out.  XXX
+// Arkhan2 G perso2
+L07D65
+ Can you help me? XXX
+// Phedoria perso26
+L07D64A
+ No. XXX
+// Phedoria perso26
+L07D64B
+ I can't get involved. XXX
+// Phedoria perso26
+L07D64C
+ You have to find the solution by yourself. XXX
+// Arkhan2 G perso2
+L07D79
+ Phedoria... XXX
+// Phedoria perso26
+L07D80A
+ Enough. XXX
+// Phedoria perso26
+L07D80B
+ That's all I have to say.  XXX
+// Phedoria perso26
+L07D81
+ There's no use insisting. XXX
+// Arkhan3 G perso2
+L07D70A
+ I can tell you believe me... XXX
+// Arkhan3 G perso2
+L07D70B
+ Everyone else thinks I'm a monster... XXX
+// Arkhan3 G perso2
+L07D72
+ I can't trust no one. XXX
+// Arkhan3 G perso2
+L07D82
+ Can you help me? XXX
+// Arkhan3 G perso3
+L07D73
+ Phedoria... XXX
+// Phedoria perso26
+L07D30
+ "En garde"! XXX
+// Arkhan1 G perso1
+L07D51
+ Nothing on the bench. XXX
+// Arkhan2 G perso2
+L07D52
+ Nothing on the bench. XXX
+// Arkhan3 G perso3
+L07D53
+ Nothing. XXX
+// Arkhan1 L perso1
+L07D33A
+ It's a combat dummy, dummy! XXX
+// Arkhan1 L perso1
+L07D33B
+ I prefer practicing with a human opponent.  XXX
+// Arkhan1 O perso1
+L07D34A
+ One of those useless combat dummies. XXX
+// Arkhan1 O perso1
+L07D34B
+ With no bones or teeth to break, what good is it? XXX
+// Arkhan2 G perso2
+L07D35
+ A combat dummy. No time to use it! XXX
+// Arkhan3 G perso3
+L07D37
+ No time to practice. XXX
+// Arkhan1 G perso1
+L07D39A
+ It's the shooting range.  XXX
+// Arkhan1 G perso1
+L07D39B
+ Some guards like to use it to practice shooting their spitrods.  XXX
+// Arkhan2 G perso2
+L07D41
+ The shooting range. Nothing here. XXX
+// Arkhan3 G perso3
+L07D43
+ The shooting range is empty. XXX
+// Arkhan1 G perso1
+L07D45
+ The biggest target. Handy for beginners. XXX
+// Arkhan2 G perso2
+L07D46
+ It's the large training target. XXX
+// Arkhan3 G perso3
+L07D47
+ The large target. XXX
+// Arkhan1 G perso1
+L07D48
+ The small target. For experts like Zed! XXX
+// Arkhan2 G perso2
+L07D49
+ A small training target. XXX
+// Arkhan3 G perso3
+L07D50
+ A small target. XXX
+// Arkhan2 L perso2
+L16D300A
+ Hi... Maor, right? XXX
+// Maor perso17
+L16D301
+ Hmm... What do you want? XXX
+// Arkhan2 L perso2
+L16D304A
+ I'm Arkhan, friend of the Scavengers. XXX
+// Arkhan2 L perso2
+L16D304B
+ I've got some problems with the Guardians of Fire... and could use a little help. XXX
+// Maor perso17
+L16D305
+ I see... But you won't have any luck here. XXX
+// Arkhan2 O perso2
+L16D311A
+ I was wondering-do you ever smile? XXX
+// Arkhan2 O perso2
+L16D311B
+ Or do you spend all your time trying to look tough? XXX
+// Maor perso17
+L16D312A
+ I only smile at pretty girls, okay? XXX
+// Maor perso17
+L16D312B
+ Get going, I'm a busy man... XXX
+// Arkhan2 G perso2
+L18D184
+ Want a swig of Stohll? XXX
+// Malrot2 perso62
+L18D187
+ A little Stohll? Don't mind if I do. XXX
+// Malrot2 (after drinking) perso62
+L18D189
+ Aaahhh... hey wouldn't mind another! XXX
+// Malrot2 (burping) perso62
+L18D188
+ ... Thanks. XXX
+// Malrot2 perso62
+L18D153A
+ Hey listen around here, we like drinkin' and eatin'. XXX
+// Bogdaran perso8
+L05D110A
+ Don't worry. XXX
+// Bogdaran perso8
+L05D110B
+ If I find out anything, you'll be the first to know.  XXX

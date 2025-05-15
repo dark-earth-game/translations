@@ -1,0 +1,70 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\fr\NWDIAL09.TXT
+ // Gardien8 (surpris par Arkhan, va lui tirer dessus) perso48
+L09D31A
+ Foutrefeu! XXX
+// Gardien8 perso48
+L09D31B
+ Tu m'auras pas! XXX
+// Arkhan1 L perso1
+L09D04A
+ Cette machine fabrique des munitions de cracheur. XXX
+// Arkhan1 L perso1
+L09D04B
+ Mais il me faut du métal à fondre. XXX
+// Arkhan2 L perso2
+L09D05
+ Il me faudrait du métal à fondre pour faire des munitions de cracheur avec cette machine. XXX
+// Arkhan3 L perso3
+L09D06
+ Il me faut du métal à fondre pour faire des munitions. XXX
+// Arkhan1 O perso1
+L09D01
+  Sang Noir, comment marche cet engin? XXX
+// Arkhan2 O perso2
+L09D02
+  Je comprends rien à cet engin! XXX
+// Arkhan3 O perso3
+L09D03
+  Machine obscure! XXX
+//Arkhan1 L perso1
+L09D13
+ De vieux fûts sans intérêt. XXX
+//Arkhan2 L perso2
+L09D14
+ Rien que des fûts vides. XXX
+//Arkhan3 L perso3
+L09D15
+ Des fûts... vides. XXX
+// Arkhan2 G perso2
+L04D44
+ C'est pas la bonne clef! XXX
+// Arkhan3 G perso3
+L04D45
+ Mauvaise clef! XXX
+//Arkhan1 G perso1
+L09D20
+ Le réservoir d'eau est vide. XXX
+//Arkhan2 L perso2
+L09D22
+ Un réservoir d'eau. Vide. XXX
+//Arkhan3 L perso3
+L09D24
+ Un réservoir. Vide. XXX
+//Arkhan1 L perso1
+L09D25
+ Je crois que c'est pas le moment de s'assoir ! XXX
+//Arkhan1 O perso1
+L09D26
+ J'ai pas envie de m'assoir ! XXX
+//Arkhan2 L perso2
+L09D27
+ C'est peut-être pas le moment de s'asseoir ! XXX
+//Arkhan2 O perso2
+L09D28
+ Pas envie de m'asseoir ! XXX
+//Arkhan3 L perso3
+L09D29
+ Je m'assieds pas ! XXX
+//Arkhan3 O perso3
+L09D30
+ M'assois pas ! XXX

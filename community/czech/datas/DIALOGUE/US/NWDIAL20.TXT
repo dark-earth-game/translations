@@ -1,0 +1,439 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL20.TXT
+ // Zed84 perso84
+L20D01
+ Arkhane! Co se deje? XXX
+// Arkhan1 G perso1
+L20D02
+ Usmrtili Velkou Knezku! Uprchli nám! XXX
+// Zed84 (wütend) perso84
+L20D03
+ Uprchli? Ty bídný zrádce! XXX
+// Arkhan2 G perso2
+L20D85
+ Ano. XXX
+// Arkhan2 G perso2
+L20D93
+ Aktivoval jsem mechanismus. XXX
+// Arkhan3 G perso3
+L20D86
+ Ano! XXX
+// Arkhan3 G perso3
+L20D94
+ Funguje to! XXX
+// Thanandar25 (wirft A. zu Boden)perso25
+L20D95
+ Myslíš si snad, ze mohl bys mi uniknout? XXX
+// Hüter1 perso41
+L20D121
+ Ah ! To jsi ty konecne! Jdi na sve místo ... XXX
+// Zed84 (wütend) perso84
+L20D04
+ Arkhane! XXX
+// Arkhan1 G (sieht, wie Zed wütend angelaufen kommt) perso1
+L20D05
+ Ne, Zede, to tak není ... XXX
+// Zed84 (will Arkhan töten) perso84
+L20D06
+ Ty hnusný zrádce! XXX
+// Hüter1 (mürrisch) perso41
+L20D07A
+ Co pak je to za zvláštní schùzku? XXX
+// Hüter1 (mürrisch) perso41
+L20D07B
+ Doufám, ze nebude príliš dlouho trvat... XXX
+// Hüter1 perso41
+L20D08A
+ Hej, Arkhane! XXX
+// Hüter1 perso41
+L20D08B
+ Máš v ùmyslu, bez tveho mece na strázi stát? XXX
+// Hüter1 perso41
+L20D08C
+ Máš v ùmyslu s touto sekerou zde na strázi stát? XXX
+// Hüter1 perso41
+L20D09A
+ Pokud te Dhorkan zde beze zbrane zde uvidí, mùzeš to zabalit! XXX
+// Hüter1 perso41
+L20D09B
+ Pokud Dhorkan te zde bez mece Strázce ohne uvidí, bila tvoje poslední hodinka! XXX
+// Hüter1 perso41
+L20D10A
+ Pojd jiz, Arkhane, pospeš si! XXX
+// Hüter1 perso41
+L20D10B
+ Vem si tvùj mec, u Boha Slunce! XXX
+// Hüter1 (außer sich) perso41
+L20D11A
+ Arkhane, ty jsi jiste zlostný! XXX
+// Hüter1 perso41
+L20D11B
+ Bez tveho mece nemùzeš zde na strázi stát! XXX
+// Hüter1 perso41
+L20D12
+ Slyšíš? Neco se deje! XXX
+// Arkhan1 G perso1
+L20D13
+ Podíváme se! XXX
+// Hüter1 perso41
+L20D14
+ Svetlo s tebou, Velká Knezko! XXX
+// Phedoria perso26
+L20D38
+ Podepsal jsi si tvùj rozsidek smrti, Arkhane! XXX
+// Hüter9 perso49
+L20D96
+ Stùj! Kdo jsi? XXX
+// Hüter10 perso50
+L20D97
+ Arkhane... U Boha Slunce, jseš to ty? XXX
+// Hüter9 perso49
+L20D99
+ Kdo jsi? Mluv! XXX
+// Hüter9 perso49
+L20D112
+ Smrt neprátelùm! XXX
+// Hüter11 perso51
+L20D120
+ Nejaká Kreatura! Alarm! XXX
+// Hüter1 perso41
+L20D28
+ Hej! Nervuj nekoho jineho, ale ne mne! XXX
+// Arkhan1 L perso1
+L20D15A
+ Svetlo s tebou, Jedare. XXX
+// Hüter1 perso41
+L20D16A
+ Proklatý ohnivý roh, Arkhane! Ty pricházíš jako vzdy pozde! XXX
+// Hüter1 perso41
+L20D16B
+ Nestydíš se, prijít pozdeji nez Velká Knezka? XXX
+// Arkhan1 L perso1
+L20D15B
+ Omlouvám se. Mel jsem neco ... ehm ... ve strázním sálu co do cinení. XXX
+// Hüter1 (verstimmt) perso41
+L20D16C
+ Mmmm. To je typický ... XXX
+// Arkhan1 L perso1
+L20D17A
+ Jsme tu jediný na strázi? XXX
+// Arkhan1 L perso1
+L20D17B
+ To je dosti lehká eskorta pro Velkou Knezku a její rádce. XXX
+// Hüter1 (zuckt die Achseln) perso41
+L20D18A
+ Ano, predevším pokud jeden ze dvou strázcù neprijde! XXX
+// Hüter1 perso41
+L20D18B
+ Asi to nebylo plánovaný, myslím, ze Profos to nestihnul, všechny stráze dát dohromady. XXX
+// Hüter1 (bitter) perso41
+L20D18C
+ Pokazde najdou se dva hlupáci!... XXX
+// Hüter1 (spöttisch) perso41
+L20D18D
+ Bud nemel cas nebo to bylo zámerem. XXX
+// Hüter1 (spöttisch) perso41
+L20D18E
+ Ty prijdeš vzdy pozde, je ti jasne, ze stráz byla omezena! XXX
+// Arkhan1 L perso1
+L20D19
+ Ty jsi dnes nabrucený. XXX
+// Hüter1 perso41
+L20D20A
+ Pojd jiz, bez na sve místo na druhe strane dverí. XXX
+// Hüter1 perso41
+L20D20B
+ Nesmíme vlaste spolu navzájem mluvit! XXX
+// Hüter1 (außer sich) perso41
+L20D21
+ Bud zticha a jdi na sve místo, rozumíš? XXX
+// Arkhan1 O perso1
+L20D22
+ Bud pozdraven, Jedaer. Jak je videt, bavíš se dobre. XXX
+// Hüter1 perso41
+L20D23A
+ Na tvem míste dal bych si pozor, co ríkáš.  XXX
+// Hüter1 perso41
+L20D23B
+ Pokud se Dhorkan dozví, ze jsi tu nebyl, kdyz se sem Velká Knezka dostavila, budeš hnít v zalári! XXX
+// Arkhan1 O perso1
+L20D24A
+ Co my zde vlastne deláme? Pred nejakými dvermi se k smrti nudit! XXX
+// Arkhan1 O perso1
+L20D24B
+ Mùzeš mi to vysvetlit? XXX
+// Arkhan1 O perso1
+L20D25
+ Nyní uz toho mám skutecne dost. Mel jsem se stát radeji knezem, jako mùj otec. XXX
+// Hüter1 perso41
+L20D26A
+ Knezem? Ty jsi se jiste zbláznil! XXX
+// Hüter1 (ein wenig verlegen) perso41
+L20D26B
+ Ah ... Já myslím ... Knezem, to by bylo neco! XXX
+// Hüter1 perso41
+L20D26C
+ Take já dekuju Slunecnímu Bohu, který nám svetlo a teplo posílá, kazdý den za jeho dobrotu. XXX
+// Hüter1 perso41
+L20D26D
+ Ale zas tak daleko bych nezacházel, abych pred krystalem v sálu Rahaly spal ... XXX
+// Hüter1 perso41
+L20D26E
+ Ne, to není mùj styl! XXX
+// Arkhan1 O perso1
+L20D27
+ To je prece práce pro idioty! XXX
+// Hüter1 perso41
+L20D29
+ Tyjsi prece jenom nemocný v hlave! XXX
+// Arkhan2 L perso2
+L20D30
+ Proc neríkáš ty, co je pravda? XXX
+// Arkhan2 O perso2
+L20D31
+ Rekni mi zde, co se deje! XXX
+// Arkhan3 L perso3
+L20D32
+ Rekni hned, co se deje! XXX
+// Arkhan3 O perso3
+L20D33
+ Mluv! XXX
+// Lory perso15
+L20D34
+ Nesmíme zde zùstávat. Pojd. XXX
+// Arkhan2 G perso2
+L20D35
+ Ale ... Velká Knezko... XXX
+// Arkhan3 G perso3
+L20D36
+ Velká Knezko... XXX
+// Lory perso15
+L20D37
+ Poslouchej mne, pojd se mnou! XXX
+// Arkhan2 L perso2
+L20D39
+ Phedorie, co se stalo? XXX
+// Arkhan2 O perso2
+L20D40
+ Co se zde deje? XXX
+// Arkhan3 L perso3
+L20D41
+ Phedorie, vysvetli mi, co se zde deje! XXX
+// Arkhan3 O perso3
+L20D42
+ Vysvetli mi, co se zde deje! XXX
+// Phedoria perso26
+L20D43
+ Lory ti vysvetlí, co se stalo! XXX
+// Arkhan2 G perso2
+L20D44
+ Ale ... Komandantko ... XXX
+// Arkhan3 G perso3
+L20D45
+ Komandantko ... XXX
+// Phedoria perso26
+L20D46
+ Pojd s námi! XXX
+// Arkhan2 L perso2
+L20D100
+ Jezda! Jsem Arkhan! Poznáváš mne? XXX
+// Hüter9 perso49
+L20D101A
+ Arkhane... Ano, to jsi ty... XXX
+// Hüter9 perso49
+L20D101B
+ U Boha Slunce, Komandantka Phedorie nás varovala. XXX
+// Hüter9 perso49
+L20D101C
+ Já ale nemyslel, ze je to tak vázne. XXX
+// Arkhan2 L perso2
+L20D102
+ Nech mne projít, Lory sama mne posílá. XXX
+// Hüter9 perso49
+L20D103
+ Jdi, vyznáme se. XXX
+// Hüter9 perso49
+L20D105
+ Ve vzpomínku na Arkhana, Strázce ohne. XXX
+// Arkhan2 O (bösartig) perso2
+L20D106
+ Zmizni nebo te zabiju! XXX
+// Hüter9 (wütend und erschreckt) perso49
+L20D107
+ To se uvidí! XXX
+// Arkhan3 L perso3
+L20D108
+ Já jsem ... Arkhan! XXX
+// Hüter9 (unsicher) perso49
+L20D111
+ Tedy dobre, jdi... XXX
+// Arkhan2 L perso2
+L20D113
+ Já jsem, Arkhan! XXX
+// Hüter10 perso50
+L20D114
+ Ty ... ty nejsi více clovekem! XXX
+// Hüter10 perso50
+L20D115A
+ Clovek se mùze pouze ptát, proc te Velká Knezka ochranuje. Ty nepatríš více k nám! XXX
+// Hüter10 perso50
+L20D115B
+ Podle meho byl bys jiz dávno do Temne Zeme vyhnán! XXX
+// Arkhan2 L perso2
+L20D116
+ V klidu, prítelícku. XXX
+// Hüter10 (aggressif) perso50
+L20D117
+ Jdi mi z ocí, dríve nez te jednou pro vzdy k zemi našeho Boha pošlu! XXX
+// Hüter10 perso50
+L20D118
+ Já to vedel! Ty uz nejsi více Arkhanem! XXX
+// Hüter10 (unsicher) perso50
+L20D109
+ My se známe ... Jdi jiz ... XXX
+// Hüter10 perso50
+L20D119
+ Jdi jiz! Pospeš si! XXX
+// Arkhan2 G (wollte hinausgehen, ändert aber seine Meinung)perso2
+L20D122A
+ Ne, je to dùlezite, co se zde deje.  XXX
+// Arkhan2 G (wollte hinausgehen, ändert aber seine Meinung)perso2
+L20D122B
+ Musím mluvit s Lory! XXX
+// Arkhan3 G (wollte hinausgehen, ändert aber seine Meinung)perso3
+L20D123
+ Ne, je to dùlezite. Musím mluvit s Lory! XXX
+// Arkhan1 L perso1
+L20D48
+ To souhlasí ... nemohu nic delat. XXX
+// Arkhan1 O perso1
+L20D50
+ Ano, máš pravdu... XXX
+// Hüter1 perso41
+L20D47
+ Ne! Nebudeš prece radu uprostred sezení rušit! XXX
+// Arkhan1 G perso1
+L20D51
+ Tady je nejaká spára. XXX
+// Arkhan2 G perso2
+L20D52
+ Nejaká spára. XXX
+// Arkhan3 G perso3
+L20D53
+ Nejaká spára. XXX
+// Arkhan1 G perso1
+L20D57
+ Já cítím v tom nejaký druh mechanismu. XXX
+// Arkhan2 G perso2
+L20D58
+ Tam je nejaký druh mechanismu. XXX
+// Arkhan3 G perso3
+L20D59
+ Tam je nejaký mechanismus. XXX
+// Arkhan2 L perso2
+L20D63
+ Musím najít kovovou kartu, se kterou budu aktivovat mechanismus. XXX
+// Arkhan3 L perso3
+L20D64
+ Potrebuju kovovou kartu, kterou vlozím dovnitr. XXX
+// Arkhan2 O perso2
+L20D65
+ To nefunguje!  XXX
+// Arkhan3 O perso3
+L20D66
+ Proklate! XXX
+// Arkhan2 L perso2
+L20D67
+ Nyní je ona vevnitr. XXX
+// Arkhan3 L perso3
+L20D68
+ Nyní je ona vevnitr. XXX
+// Arkhan2 G perso2
+L20D71
+ Tak ... to musí jít. XXX
+// Arkhan2 G perso2
+L20D87
+ Tam je neco ve spáre. XXX
+// Arkhan3 G perso3
+L20D88
+ Tam je neco vevnitr. XXX
+// Arkhan2 G perso2
+L20D89
+ Zvláštní, tam nekdo jiz nejakou kartu strcil! XXX
+// Arkhan3 G perso3
+L20D90
+ None, tam je jiz nejaká karta vevnitr. XXX
+// Arkhan2 G perso2
+L20D81A
+ Kein Widerstand.  XXX
+// Arkhan2 G perso2
+L20D81B
+ Mechanismus není aktivován. XXX
+// Arkhan3 G perso3
+L20D82
+ Chybí neco. XXX
+// Arkhan2 G perso2
+L20D91
+ Nekdo mechanismus prede mnou uvedl v cinnost! XXX
+// Arkhan3 G perso3
+L20D92
+ Nekdo ho prede mnou pouzil! XXX
+// Arkhan2 O perso2
+L08D251B
+ Prestan, na mne tak krvave hledet! XXX
+// Arkhan1 G perso1
+L20D124A
+ Rohy Velkeho vùdce. XXX
+// Arkhan1 G perso1
+L20D124B
+ Knezí pouzívají ho na nejdùlezitejší ceremonie. XXX
+// Arkhan1 L perso1
+L20D125
+ Oni mají podivuhodný zvuk. XXX
+// Arkhan1 O perso1
+L20D126
+ To delá neuveritelný kravál! XXX
+// Arkhan2 G perso2
+L20D127A
+ Rohy Velkeho vùdce. XXX
+// Arkhan2 G perso2
+L20D127B
+ Knezí hrají na nej pri nejdùlezitejších ceremoniích. XXX
+// Arkhan2 L perso2
+L20D128
+ Podivuhodný zvuk. XXX
+// Arkhan2 O perso2
+L20D129
+ Strašný rachot! XXX
+// Arkhan3 G perso3
+L20D130A
+ Rohy Velkeho vùdce. XXX
+// Arkhan3 G perso3
+L20D130B
+ Knezi hrají na nej pri ceremoniích. XXX
+// Arkhan3 L perso3
+L20D131
+ Muzika Boha Slunce. XXX
+// Arkhan3 O perso3
+L20D132
+ Neuveritelný rachot! XXX
+// Arkhan1 G perso1
+L20D133
+ Ocelový strom, který zivitele k uctení Boha Slounce okrášlily. XXX
+// Arkhan2 G perso2
+L20D134A
+ Ocelový strom, který zivitele stvorili. XXX
+// Arkhan2 G perso2
+L20D134B
+ K uctení Boha Slunce. XXX
+// Arkhan3 G perso3
+L20D135
+ Strom z oceli. K uctení Boha Slunce. XXX
+// Arkhan1 G perso1
+L20D136
+ Ješte jeden z techto ocelových stromù. XXX
+// Arkhan2 G perso2
+L20D137
+ Ješte jeden z techto ocelových stromù. XXX
+// Arkhan3 G perso3
+L20D138
+ Ješte jeden z techto kovových stromù. XXX

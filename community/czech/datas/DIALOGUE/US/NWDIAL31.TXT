@@ -1,0 +1,364 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL31.TXT
+// Arkhan2 L perso2
+L31D85A
+ Príliš hluboke. XXX
+// Arkhan2 L perso2
+L31D85B
+ Pokud já zde jednoduše preskocím, utopím! XXX
+ // Sordos perso23
+L34D04A
+ Hmmm... (spuckt aus) XXX
+// Konkalit8 (zu Konkalit10) perso78
+L31D500
+ Hej, kdopak je to? XXX
+// Konkalit8 (ruft Arkhan zu) perso78
+L31D35
+ Ho, Ty tam vzadu! Pojd sem! XXX
+// Konkalit8 perso78
+L31D36
+ Oh! Pospeš si! XXX
+// Konkalit8 perso78
+L31D37
+ Pojd sem, my bychom si chteli tvùj ksicht blíze prohlednout! XXX
+// Konkalit8 (schreit)perso78
+L31D38
+ Utok! XXX
+// Konkalit8 (ruft A., der geht)perso78
+L31D39
+ Hej! Tak jednoduše ty mi neodejdeš! XXX
+// Bork perso30
+L31D501
+ Ho! Kdepak jsi? XXX
+// Konkalit11 perso81
+L31D502
+ Hej Borku! Znáš ty ho? XXX
+// Bork perso30
+L31D503
+ Ne! XXX
+// Konkalit11 perso81
+L31D507
+ Vyslov tvojí poslední motlitbu! XXX
+// Bork (brüllt)perso30
+L31D504
+ Wo willst Du denn hin? XXX
+// Konkalit11 perso81
+L31D89
+ Poplach! XXX
+// Konkalit8 (von A. angegriffen)perso78
+L31D53
+ Ty hledáš jiste problemy, nebo co? XXX
+// Konkalit8 perso78
+L31D01
+ Kdopak jsi? XXX
+// Arkhan3 L perso3
+L31D22
+ Nechci ti nic udelat, jdi na stranu! XXX
+// Konkalit8 perso78
+L31D25A
+ Ríkáš blbosti, ty výkale  ... ty ... proklatá kurvo! XXX
+// Konkalit8 perso78
+L31D25B
+ Tak nemluví nikdo se mnou! XXX
+// Konkalit8 perso78
+L31D27
+ Rozbiju ti tu velkou hubu! XXX
+// Arkhan2 L perso2
+L31D02
+ Nerozciluj se prítelícku Jsem jeden z vás. XXX
+// Konkalit8 perso78
+L31D03A
+ Jseš si jistej? Já te ješte nikdy nevidel! XXX
+// Konkalit8 perso78
+L31D03B
+ A my zde nove ksichty neradi vidíme! XXX
+// Konkalit8 perso78
+L31D21C
+ Dej mi radeji ješte jeden lok alkoholu! XXX
+// Arkhan2 O (selbstsicher)perso2
+L31D04A
+ Ich bin's, Du Mißgeburt! XXX
+// Arkhan2 O (selbstsicher)perso2
+L31D04B
+ Zmizni odsud okamzite nebo reknu Sordosovi, ze já díky tobe cas ztrácel! XXX
+// Konkalit8 perso78
+L31D05
+ Co? Kdo má zde být hajzl, devko? XXX
+// Arkhan2 L perso2
+L31D06
+ Poslouchej, vypadáš docela rozumne. Promluvíme si ... XXX
+// Konkalit8 perso78
+L31D07
+ Reci si mùzeš strcit nekam! To jediný, co se zde hodí, je, ze s tebou zatocím! XXX
+// Arkhan2 O perso2
+L31D08
+ Drz hubu, bídný cerve, a nech mne projít! XXX
+// Konkalit8 perso78
+L31D09
+ Co?! Já ti to vysvetlím, prokletý výkale! XXX
+// Arkhan2 G perso2
+L31D10
+ Všechno v porádku? XXX
+// Konkalit8 perso78
+L31D11A
+ To se nedá ríct! Ctyri mrtvý od východu! XXX
+// Konkalit8 perso78
+L31D11B
+ Toto smradlavý zvíre je všemu škodný! XXX
+// Konkalit8 (leise) perso78
+L31D11C
+ To je podivný knez, který se Sordosem zpaktoval. XXX
+// Konkalit8 (leise) perso78
+L31D11D
+ On nám prináší neštestí! XXX
+// Konkalit8 perso78
+L31D11E
+ Páni Spodního mesta jsme ale ješte porád my. XXX
+// Konkalit8 perso78
+L31D11F
+ Plundrovat, pít, znásilnovat - krásný zivot, jak se patrí! XXX
+// Konkalit8 perso78
+L31D11G
+ A Armal Sadakova Bandae nám v tom nezabrání! XXX
+// Arkhan2 G perso2
+L31D12
+ A Strázci ohne? XXX
+// Konkalit8 perso78
+L31D13A
+ Ach ti! Zádný starosti, mùj príteli, tam nehrozí zádný nebezpecí! XXX
+// Konkalit8 perso78
+L31D13B
+ Sordos má jejich šefa v kapse! XXX
+// Konkalit8 perso78
+L31D13C
+ On hraje si na silnýho chlapa, ale udelá, co chce Sordos, ver mi! XXX
+// Konkalit8 perso78
+L31D13D
+ Co podniká ten praseci pes Zed, to uz více delat dlouho nebude! XXX
+// Arkhan2 G perso2
+L31D14
+ Ríkáš, ze se Sordos s Profosem zpaktoval? XXX
+// Konkalit8 perso78
+L31D15A
+ Já ti ríkám jedine, prítelícku: Sordos je skutecne mocný muz, který je šílený. XXX
+// Konkalit8 perso78
+L31D15B
+ Ten má Dhorkana jiz dlouho v moci. XXX
+// Konkalit8 perso78
+L31D15C
+ Sordos nám ríkal, ze nám celý Stallit brzy bude patrit. XXX
+// Konkalit8 perso78
+L31D15D
+ My pak naše dny strávíme, ve všech loznicích, ktere po ceste potkáme. XXX
+// Konkalit8 perso78
+L31D15E
+ A knezí nám budou boty lízat a všechno co k tomu patrí! XXX
+// Arkhan2 G (flüstert zu sich selbst) perso2
+L31D16
+ (flüstert) To ješte uvidíme ... XXX
+// Arkhan2 G perso2
+L31D17
+ Kdo je ten knezí, o kterem my vyprávíš? XXX
+// Konkalit8 (flüstert)perso78
+L31D18A
+ Neznám jeho jmeno a nechci ho vedet. Smrdí jako mrtvola! XXX
+// Konkalit8 (flüstert)perso78
+L31D18B
+ Na kazdý pád ríká Sordos, ze my skrz nej máme všechny knezí v kapse. XXX
+// Konkalit8 perso78
+L31D18C
+ Jedno ti mùzu ríct: Rád bych si to s Velkou knezkou rozdal.  XXX
+// Konkalit8 perso78
+L31D18D
+ Myslíš, ze ona si to jiz zkusila? XXX
+// Konkalit8 perso78
+L31D18E
+ Ona je snad trochu starší, ale mel jsem vzdy slabost pro starší zeny ... XXX
+// Arkhan2 L perso2
+L31D19
+ Více mi toho nemùzeš ríct? XXX
+// Arkhan2 O perso2
+L31D20
+ Delej, vyprávej ješte! XXX
+// Konkalit8 perso78
+L31D21A
+ Skonci nyní s otázkami! XXX
+// Konkalit8 perso78
+L31D21B
+ Jdeš mi pomalu na nervi! XXX
+// Arkhan3 G perso3
+L31D42
+ Vezmi si to a nech mne projít! XXX
+// Konkalit8 perso78
+L31D43A
+ Pro koho ty vlastne slouzíš, kryso? XXX
+// Konkalit8 perso78
+L31D43B
+ My ti ukázeme, kdo zde vládne! XXX
+// Arkhan2 L perso2
+L31D40
+ Hej, chceš ješte lok alkoholu? Ten je obzvlášte dobrý! XXX
+// Arkhan2 O perso2
+L31D41
+ Rekni mi, prašivý pes jako ty, si dá jiste rád lok alkoholu! XXX
+// Konkalit8 perso78
+L31D44
+ Alkohol? Oh ano, dej to sem! XXX
+// Konkalit8 perso78
+L31D45
+ Aaah! To mi delá dobre, to mi trubice dobre procištuje! XXX
+// Arkhan2 G perso2
+L31D46
+ Ješte lok? XXX
+// Konkalit8 perso78
+L31D48
+ Ano! Neríkám ze ne! XXX
+// Konkalit8 perso78
+L31D47
+ Ahhh! To je dobre! XXX
+// Konkalit8 (fällt beinahe in Ohnmacht)perso78
+L31D49
+ To ... je dobre ... XXX
+// Arkhan2 G perso2
+L31D50
+ Rekni co to je? XXX
+// Konkalit8 perso78
+L31D51
+ Ta vec mne nezajímá. XXX
+// Konkalit10 perso80
+L31D82
+ Vytlucu ti všechny zuby z drzky! XXX
+// Konkalit10 perso80
+L31D54
+ Znám te? XXX
+// Arkhan3 L perso3
+L31D90
+ V klidu! Nemám nic proti tobe! XXX
+// Konkalit10 perso80
+L31D70
+ Ty nemáš nic proti mne, ale já nemohu te cítit! XXX
+// Konkalit10 perso80
+L31D71
+ Oje, já mám takový strach! XXX
+// Konkalit10 perso80
+L31D55
+ Jeden z nás? Chceš si se mnou zahrávat? Povazuješ mne za hlupáka nebo co? XXX
+// Arkhan2 L perso2
+L31D56
+ Ale ne, zùstan v klidu, mùj príteli. XXX
+// Konkalit10 (ironisch)perso80
+L31D57
+ A ty? A kdo jsi, vzácný pane? XXX
+// Arkhan2 L perso2
+L31D58
+ V klidu jsem ti rekl. Prišel jsem, abych si s váma promluvil. XXX
+// Konkalit10 perso80
+L31D59
+ Ty jsi prišel, aby sis promluvil? Myslím, ze jsi si spletl adresu! XXX
+// Konkalit10 perso80
+L31D60
+ Táhni! XXX
+// Konkalit10 perso80
+L31D61A
+ Ano, Sordos rekl, ze my brzy pány Stallitu budeme. XXX
+// Konkalit10 perso80
+L31D61B
+ Ale pokud chceš vedet, co si myslím, verím ze jsi hodne hloupý ...  XXX
+// Konkalit10 perso80
+L31D61C
+ Nedùveruju Strázcùm ohne. Sordos se s jejich šefem sprátelil, ale tyto lidi prísahají prece na jejich Boha Slunce. XXX
+// Konkalit10 perso80
+L31D61D
+ Není jistý, ze pùjdou všichni spolecne. XXX
+// Konkalit10 perso80
+L31D61E
+ Pouze príklad: Behem ùtoku na Velkou Knezku nám Zed všechny naše bratry usmrtil! XXX
+// Konkalit10 perso80
+L31D61F
+ To bylo pro Sordose smradlave! XXX
+// Arkhan2 G perso2
+L31D62
+ Profose Dhorkana strkáš se Sordosem do jednoho pytle, nemám pravdu? XXX
+// Konkalit10 perso80
+L31D63A
+ Ano, uzavreli pakt.  XXX
+// Konkalit10 perso80
+L31D63B
+ My jsme nekolik jedincù vyradili, ktere Dhorkan navrhl, a od te doby stará se o to, aby nám Strázci ohnu dali pokoj. XXX
+// Arkhan2 L perso2
+L31D64
+ Sordos je skutecne mazaný chlapík ... Má on jine spojence krome Dhorkana? XXX
+// Arkhan2 O perso2
+L31D65
+ Je krome Dhorkana jiný zrádce ze Strázcù ohnù? XXX
+// Konkalit10 perso80
+L31D66A
+ Dhorkan je malá ryba. Jeho mrtvola brzo klesne do kanálu. XXX
+// Konkalit10 perso80
+L31D66B
+ Je tu ale nejaký knez, který pracuje pro Sordose.  XXX
+// Konkalit10 perso80
+L31D66C
+ Díky nemu, my jako králove Sparty se stanem! XXX
+// Konkalit10 perso80
+L31D67
+ Dosti! Zacínáš mi jít na nervi s tvými blbými otázky! Rychle, zmizni odsud! XXX
+// Arkhan2 O perso2
+L31D68
+ Netres se jako bábovka, rekni mi více! XXX
+// Konkalit10 perso80
+L31D69
+ Já te varoval, ty pse! Pokud hledáš výprask, tak ho taky dostaneš! XXX
+// Konkalit10 perso80
+L31D75A
+ Myslíš si, ze mám strach pred tebou!? XXX
+// Konkalit10 perso80
+L31D75B
+ Já te proderavím! XXX
+// Konkalit10 perso80
+L31D76
+ Alkohol jsi ríkal? Delej, dej mi ho! XXX
+// Konkalit10 perso80
+L31D77
+ Aaah! Tato vec zde mi rozjasnuje hrdlo! XXX
+// Konkalit10 perso80
+L31D72
+ Pokud je to alkohol, neríkám ne! XXX
+// Konkalit10 perso80
+L31D78
+ Ah! To je dobre! XXX
+// Konkalit10 (wird in Ohnmacht fallen)perso80
+L31D79
+ On je ... silný ... XXX
+// Konkalit10 perso80
+L31D80
+ Tvoje problemy si mùzeš jinam strcit! XXX
+// Bork perso30
+L31D506
+ Zatracene, ty hnusnej cerve! XXX
+// Arkhan2 O perso2
+L31D505
+ Bez na stranu, nebo mohu být velmi nepríjemný! XXX
+// Arkhan2 G perso2
+L31D900
+ Prázdne sudy, skladní prostor. XXX
+// Arkhan3 G perso3
+L31D901
+ Sudy ve skladním prostoru. XXX
+// Arkhan2 L perso2
+L31D902
+ Tento kanál vede dále pod Stallitem. XXX
+// Arkhan3 L perso3
+L31D904
+ Tento kanál je hluboký. On vede hluboko v zemi dále. XXX
+// Arkhan2 O perso2
+L31D903
+ Ta voda smrdí jako mor! XXX
+// Arkhan3 O perso3
+L31D905
+ Voda smrdí jako mor! XXX
+// Arkhan2 G perso2
+L31D906
+ Tato roura zde privádí jiste vzduch dolù. XXX
+// Arkhan3 G perso3
+L31D907
+ Od zhora sem se privádí vzduch. XXX

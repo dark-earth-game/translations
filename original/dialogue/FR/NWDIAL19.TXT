@@ -1,0 +1,409 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\fr\NWDIAL19.TXT
+ // Malfrat5 (va affronter Arkhan) perso65
+L19D88
+ C'est ce que tu veux? En garde! XXX
+// Kalhi perso13
+L19D01
+ Merci à toi, Jenna. C'est ce qu'il me fallait. XXX
+// Malfrat5 perso65
+L19D02
+ Toujours à ton service pour une bonne affaire. XXX
+// Kalhi perso13
+L19D03A
+ Arkhan!  XXX
+// Kalhi perso13
+L19D03B
+ Tiens, j'ai déniché ça pour toi. XXX
+// Kalhi perso13
+L19D03C
+ C'est pas grand-chose mais j'espère que ça t'aidera à tenir le coup XXX
+// Arkhan2 G perso2
+L19D04
+ Merci Kalhi. J'apprécie. XXX
+// Kalhi perso13
+L19D06A
+ Je vais essayer de te trouver un guérisseur. XXX
+// Kalhi perso13
+L19D06B
+ Courage, mon amour! XXX
+// Arkhan2 G (fier de Kalhi) perso2
+L19D07
+ Cette fille est incroyable! XXX
+// Arkhan3 G (fier de Kalhi) perso3
+L19D08
+ Elle est terrible! XXX
+// Delia perso10
+L16D122
+ Arrête! Tu me fais peur! XXX
+// Malfrat5 (A. se met en garde) perso65
+L19D94
+ Hé! Joue pas à ça tronche de glaise! XXX
+// Malfrat5 perso65
+L19D95
+ Tu te calmes, c'est mieux! XXX
+// Malfrat5 perso65
+L19D89
+ T'approche pas, transformé! XXX
+// Arkhan2 L perso2
+L19D09
+ Lumière sur toi, Fouineuse. XXX
+// Malfrat5 perso65
+L19D10A
+ Tu t'es perdu, l'homme? XXX
+// Malfrat5 perso65
+L19D10B
+ Alors t'es au bon endroit, bienvenue chez les Fouineurs. XXX
+// Arkhan2 O (détaille la Malfrate des pieds à la tête)perso2
+L19D10
+ Sang noir! Quelles cuisses! XXX
+// Malfrat5 (ironique, fait semblant de se souvenir du nom d'Arkhan) perso65
+L19D11
+ Salut... face de rat, c'est ça? XXX
+// Arkhan2 O perso2
+L19D12
+ Non, moi c'est plutôt "gueule d'amour". XXX
+// Malfrat5 (amusée, en rajoute) perso2
+L19D13
+ J'm'en souviendrai, "beau mâle". XXX
+// Arkhan2 G perso2
+L19D15
+ J'm'appelle Arkhan, ami des Fouineurs. XXX
+// Malfrat5 (ironique) perso65
+L19D16A
+ J'préfère ça!  XXX
+// Malfrat5 (ironique) perso65
+L19D16B
+ Déjà que t'es pas bien beau. XXX
+// Malfrat5 (ironique) perso65
+L19D16C
+ Si en plus tu t'appelais "Arkhan, l'égorgeur de Fouineurs", j'commencerais à m'inquiéter. XXX
+// Arkhan2 L perso2
+L19D17A
+ J'ai cette tête parce que je suis malade. XXX
+// Arkhan2 L perso2
+L19D17B
+ Mais t'inquiète pas, je suis pas méchant. XXX
+// Arkhan2 O perso2
+L19D18
+ Je suis malade, c'est pour ça que j'ai une sale gueule! XXX
+// Malfrat5 perso65
+L19D19
+ Si t'es malade, tu devrais essayer de voir les guérisseurs dans la Ville Haute. XXX
+// Arkhan2 L perso2
+L19D20A
+ Je ne suis pas le bienvenu en Ville Haute. XXX
+// Arkhan2 L perso2
+L19D20B
+ Les Gardiens du Feu sont après moi. XXX
+// Malfrat5 perso65
+L19D21A
+ Les Gardiens du Feu? XXX
+// Malfrat5 perso65
+L19D21B
+ T'as quand même pas peur de ces minables!? XXX
+// Arkhan2 L (ancien Gardien du Feu, ne l'oublions pas) perso2
+L19D22A
+ Heu... Non, mais j'ai mieux à faire que de me battre avec eux! XXX
+// Arkhan2 L perso2
+L19D22B
+ Quant aux guérisseurs, je ne peux pas compter sur leur aide. XXX
+// Arkhan2 L perso2
+L19D22C
+ Si je veux guérir, c'est à moi de trouver le remède! XXX
+// Arkhan2 O perso2
+L19D23A
+ J'peux oublier de trouver d'l'aide en Ville Haute. XXX
+// Arkhan2 O perso2
+L19D23B
+ Les Gardiens du Feu ont juré d'avoir ma peau! XXX
+// Arkhan2 O (ancien Gardien du Feu, ne l'oublions pas) perso2
+L19D24A
+ Ils sont pas tous si minables que ça... XXX
+// Arkhan2 O perso2
+L19D24B
+ Mais ils voudront rien savoir. XXX
+// Arkhan2 O perso2
+L19D24C
+ Même chose pour les Prôneurs et les guérisseurs. XXX
+// Arkhan2 O perso2
+L19D24D
+ Bref, je me fie qu'à moi-même...  XXX
+// Arkhan2 O perso2
+L19D24E
+ Et aux bons Fouineurs de la ville basse, bien sûr! XXX
+// Arkhan2 L perso2
+L19D25
+ Tu connais quelqu'un qui pourrait m'aider par ici? XXX
+// Arkhan2 O perso2
+L19D26
+ Dis-moi qui peut m'aider dans ce trou! XXX
+// Malfrat5 perso65
+L19D27A
+ Ici, pour ceux qui pataugent vraiment dans la merde, la dernière chance s'appelle Armal Sadak. XXX
+// Malfrat5 perso65
+L19D27B
+ Mais je crois pas qu'il t'aide. XXX
+// Arkhan2 G perso2
+L19D28
+ Pourquoi? XXX
+// Malfrat5 perso65
+L19D29
+ Disons que t'as pas la bonne couleur de sous-vêtements, si tu vois ce que j'veux dire! XXX
+// Arkhan2 G (connait Armal Sadak) perso2
+L19D30
+ T'inquiète pas, il a meilleur goût que tu crois... XXX
+// Arkhan2 L perso2
+L19D31
+ Ton Armal Sadak, où je peux le trouver? XXX
+// Malfrat5 perso65
+L19D32A
+ Oublie ça.  XXX
+// Malfrat5 perso65
+L19D32B
+ Tout ce que tu vas y gagner, c'est d'abréger tes souffrances. XXX
+// Arkhan2 L perso2
+L19D33A
+ Ecoute, j'insiste. Je veux rencontrer cet Armal Sadak. XXX
+// Arkhan2 L perso2
+L19D33B
+ C'est une question de vie ou de mort! XXX
+// Malfrat5 perso65
+L19D34A
+ Bon. Armal Sadak vit dans le Bouge, un peu plus loin derrière. XXX
+// Malfrat5 perso65
+L19D34B
+ C'est un vieux navire dont il a fait son repaire. XXX
+// Malfrat5 perso65
+L19D34C
+ Mais si tu veux l'approcher, il faudra te recommander de quelqu'un. XXX
+// Arkhan2 L perso2
+L19D35
+ De qui? Danrys? XXX
+// Malfrat5 perso65
+L19D36A
+ Non, Delia. C'est la danseuse qui fait son numéro ici. XXX
+// Malfrat5 perso65
+L19D36B
+ Le patron Maor n'est pas du genre causant mais elle, elle connait Armal Sadak. XXX
+// Malfrat5 perso65
+L19D36C
+ Si t'arrives à la convaincre, elle t'aidera peut-être. XXX
+// Malfrat5 (pour elle-même) perso65
+L19D36D
+ Mais avec ta gueule, je jurerai de rien... XXX
+// Arkhan2 L perso2
+L19D37
+ Tu ne peux rien me dire de plus? XXX
+// Malfrat5 perso65
+L19D38
+ Je t'en ai déja trop dit! XXX
+// Malfrat5 perso65
+L19D39
+ Débrouille-toi tout seul maintenant! XXX
+// Arkhan2 L perso2
+L19D40A
+ Ecoute-moi bien, radasse! XXX
+// Arkhan2 L perso2
+L19D40B
+ Tu vas dire à cet Armal Sadak de m'aider, sinon... XXX
+// Malfrat5 (furieuse) perso65
+L19D41
+ J'vais te faire ravaler tes insultes, pourriture! XXX
+// Arkhan3 L perso3
+L19D42
+ Lumière... XXX
+// Malfrat5 (impressionnée) perso65
+L19D43A
+ Garde tes distances! XXX
+// Malfrat5 (impressionnée) perso65
+L19D43B
+ Qui es-tu? Qu'est-ce que tu veux? XXX
+// Arkhan3 L perso3
+L19D44
+ Mon nom est Arkhan. XXX
+// Malfrat5 (méfiante) perso65
+L19D45A
+ J't'ai jamais vu par ici. XXX
+// Malfrat5 (méfiante) perso65
+L19D45B
+ C'est quoi ton problème? XXX
+// Arkhan3 L perso3
+L19D46A
+ Une maladie.  XXX
+// Arkhan3 L perso3
+L19D46B
+ Je cherche un remède. XXX
+// Malfrat5 (méfiante) perso65
+L19D47
+ Tu trouveras rien ici... XXX
+// Arkhan3 L perso3
+L19D48
+ Tu connais quelqu'un qui pourrait... m'aider? XXX
+// Malfrat5 perso65
+L19D49A
+ Armal Sadak, peut-être... XXX
+// Malfrat5 perso65
+L19D49B
+ Mais ça m'étonnerait qu'il veuille! XXX
+// Arkhan3 L perso3
+L19D50
+ Où je trouverai Armal Sadak? XXX
+// Malfrat5 perso65
+L19D51A
+ Il vit plus loin... Dans un bateau en métal... XXX
+// Malfrat5 perso65
+L19D51B
+ Mais c'est pas forcément une bonne idée d'y aller... XXX
+// Arkhan3 L perso3
+L19D52
+ Qui pourrait m'aider? XXX
+// Malfrat5 perso65
+L19D53A
+ Laisse tomber, je te dis! XXX
+// Malfrat5 perso65
+L19D53B
+ Barre-toi! J'ai rien de plus à te dire! XXX
+// Malfrat5 (va   A.) perso65
+L19D54
+ J'vais te crever! XXX
+// Arkhan2 L perso2
+L19D55
+ Ne crains rien. XXX
+// Arkhan2 O perso2
+L19D56
+ T'excite pas, je frappe pas les femmes! XXX
+// Malfrat5 perso65
+L19D57
+ D'accord. Mais au moindre mouvement louche, j' te plante! XXX
+// Arkhan2 L perso2
+L19D58
+ Qu'est-ce qui te met dans cet état? XXX
+// Arkhan2 O perso2
+L19D59
+ Qu'est-ce que t'as à flipper comme ça? XXX
+// Malfrat5 perso65
+L19D60A
+ Y s'passe des choses pas normales! XXX
+// Malfrat5 perso65
+L19D60B
+ J'suis pas du genre à m'effrayer d'un rien.  XXX
+// Malfrat5 perso65
+L19D60C
+ Mais j'ai vu des ombres bouger dans la ruelle juste à côté. XXX
+// Malfrat5 perso65
+L19D60D
+ Des ombres... pas humaines... un peu comme toi.  XXX
+// Malfrat5 perso65
+L19D60E
+ Mais elles, elles mordent d'abord et elles causent ensuite... XXX
+// Malfrat5 perso65
+L19D60F
+ Si tu vois c'que j'veux dire! XXX
+// Arkhan2 L perso2
+L19D61
+ T'inquiète pas, je te protègerai. XXX
+// Arkhan2 O (défiant) perso2
+L19D62
+ Qu'elles viennent, tes ombres, je me chargerai d'elles! XXX
+// Arkhan2 G perso2
+L19D63
+ T'as vu autre chose? XXX
+// Malfrat5 perso65
+L19D64
+ Non mais ça m'a suffit! XXX
+// Arkhan3 L perso3
+L19D65
+ Ne crains rien... XXX
+// Malfrat5 (violente car effrayée) perso65
+L19D66A
+ Trouve-toi une autre proie, monstre! XXX
+// Malfrat5 perso65
+L19D66B
+ T'aimerais pas le goût de ma lame! XXX
+// Arkhan3 L perso3
+L19D67
+ Qu'est-ce que tu crains? XXX
+// Malfrat5 perso65
+L19D68
+ Les créatures dans ton genre! XXX
+// Arkhan3 L perso3
+L19D69
+ Qu'as-tu vu? XXX
+// Malfrat5 perso65
+L19D70
+ La ferme! Tire-toi! XXX
+// Malfrat5 (A. lui montre un objet) perso65
+L19D97
+ Garde ça pour toi, d'accord? XXX
+// Arkhan2 G perso2
+L19D99
+ Dis-moi, fouineuse... XXX
+// Malfrat5 (interrompt Arkhan) perso65
+L19D100
+ Range ton arme d'abord, ça me rend nerveuse! XXX
+// Arkhan3 L perso3
+L19D101
+ Je veux savoir si... XXX
+// Arkhan2 G perso2
+L19D93
+ Ne bouge pas! XXX
+// Arkhan2 L perso2
+L19D90
+ Il faut qu'on remonte en Ville Haute. Viens! XXX
+// Delia (inquiète) perso10
+L19D91
+ Je te suis, Arkhan. XXX
+// Arkhan2 O perso2
+L19D92A
+ On va grimper en Ville Haute.  XXX
+// Arkhan2 O perso2
+L19D92B
+ Reste bien derrière moi, j'ai pas envie de te perdre en route! XXX
+// Arkhan3 G perso3
+L14D239
+ On va en Ville Haute. XXX
+// Delia perso10
+L14D240
+ Vas-y, je te suis. XXX
+// Delia (frappée par Arkhan) perso10
+L10D95
+ Non, t'es devenu fou, arrête! XXX
+// Arkhan2 G perso2
+L19D73
+ Rien que des rebuts... XXX
+// Arkhan3 G perso3
+L19D74
+ Des rebuts... XXX
+// Arkhan2 G perso2
+L19D75
+ Hé, y'a une fille qui danse à l'intérieur. XXX
+// Arkhan3 G perso3
+L19D76
+ Hmmm... Y'a une fille qui danse... XXX
+// Arkhan2 G perso2
+L19D77
+ On voit pas grand chose! XXX
+// Arkhan3 G perso3
+L19D78
+ C'est désert... XXX
+// Arkhan2 G perso2
+L19D79
+ Un vieux moulin à eau. Complètement rouillé. XXX
+// Arkhan3 G perso3
+L19D80
+ Un vieux moulin à eau. XXX
+// Malfrat5 perso65
+L19D81
+ Qu'est ce que tu veux encore? XXX
+// Arkhan2 G perso3
+L19D83
+ On voit rien d'ici... Dommage... XXX
+// Arkhan3 G perso3
+L19D84
+ Je vois rien... XXX
+// Arkhan2 G perso2
+L19D85
+ Un vieux tonneau pourri... XXX
+// Arkhan3 G perso3
+L19D86
+ Un vieux tonneau... XXX

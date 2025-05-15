@@ -1,0 +1,91 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\IT\NWDIAL35.TXT
+ // Arkhan2 G (scopre il tunnel sottomarino) perso2
+L35D01
+Per il Rahal, posso camminare sotto l'acqua! XXX
+// Arkhan3 G (scopre il tunnel sottomarino) perso3
+L35D02
+Santa luce, cammino sotto l'acqua! XXX
+// Arkhan2 G (nel casco) perso2
+L35D27
+Più aria... No!... XXX
+// Arkhan3 G (nel casco) perso3
+L35D28
+Più aria... No!... XXX
+// Arkhan2 G (trova un annegato) perso2
+L35D03
+Poveretto... i Konkaliti l'hanno gettato con una pietra al collo! XXX
+// Arkhan3 G (trova un annegato) perso3
+L35D04
+L'ultima vittima dei Konkaliti. XXX
+// Arkhan2 G perso2
+L35D100
+Niente d'interessante qui. XXX
+// Arkhan3 G perso3
+L35D101
+Niente qui. XXX
+// Arkhan2 G perso2
+L35D102
+Non c'è niente lì. XXX
+// Arkhan3 G perso3
+L35D103
+No, niente. XXX
+// Arkhan2 G perso2
+L35D104
+Niente di speciale. XXX
+// Arkhan3 G perso3
+L35D105
+Vedo niente. XXX
+// Arkhan2 G (davanti a uno scheletro) perso2
+L35D07
+È quello che resta quando i Konkaliti hanno finito... XXX
+// Arkhan3 G (davanti a uno scheletro) perso3
+L35D08
+Ancora una vittima dei Konkaliti. XXX
+// Arkhan2 L perso2
+L35D09
+Le gabbie di tortura dei Konkaliti. XXX
+// Arkhan3 L perso3
+L35D10
+Una gabbia di tortura Konkalita. XXX
+// Arkhan2 O (batte sulla gabbia) perso2
+L35D11
+Una porcheria di gabbia di tortura! XXX
+// Arkhan3 O (batte sulla gabbia) perso3
+L35D12
+Porcheria di gabbia! XXX
+// Arkhan2 L perso2
+L35D15
+Un vecchio bidone. XXX
+// Arkhan2 O (calciando alcuni bidoni) perso2
+L35D16
+Ancora uno stupido bidone! XXX
+// Arkhan3 L perso3
+L35D17
+Un vecchio bidone. XXX
+// Arkhan3 O (calciando alcuni bidoni) perso3
+L35D18
+Ah, questi bidoni! XXX
+// Arkhan2 G (fruga lo scheletro) perso2
+L35D19
+Nient'altro che ossa... XXX
+// Arkhan3 G (fruga lo scheletro) perso3
+L35D20
+Che ossa! XXX
+// Arkhan2 G (trova oggetto sotto scheletro) perso2
+L35D21
+Ti prendo questo... L'avevi ingoiato? XXX
+// Arkhan3 G (trova oggetto sotto scheletro) perso3
+L35D22
+Grazie, amico! XXX
+// Arkhan2 G perso2
+L35D23
+Delle rovine del Prima... XXX
+// Arkhan3 G perso3
+L35D24
+Delle rovine del Prima... XXX
+// Arkhan2 G (mostro marino) perso2
+L35D25
+No, non è commestibile! XXX
+// Arkhan3 G ("fruga" il mostro marino) perso3
+L35D26
+No... niente da sbafare! XXX

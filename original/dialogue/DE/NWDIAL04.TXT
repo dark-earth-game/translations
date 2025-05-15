@@ -1,0 +1,424 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL04.TXT
+ // Gefangener 4 perso1
+L04D200
+ Hey, Du! Mach die Tür auf! XXX
+// Gefangener 2 perso1
+L04D201
+ Hey, reiß das Gitter ein, reiß es ein! XXX
+// Gefangener 4 perso1
+L04D202
+ Hey, Du da draußen! Mach auf! XXX
+// Gefangener 3 perso1
+L04D203
+ Halt's Maul, Idiot! Der ist'n Mörder, der frißt Dich auf, mit Haut und Haaren! XXX
+// Gefangener 3 perso1
+L04D212
+ Psst! XXX
+// Arkhan2 G (genervt, er hat seinen Gegner erschossen) perso3
+L04D61
+ Was hast Du gesagt? XXX
+// Arkhan3 G (aufgeregt, er hat seinen Gegner erschossen) perso3
+L04D62
+ Hast Du Dich jetzt beruhigt? XXX
+// Arkhan2 G (erstaunt, Kalhi im Gefängnis zu sehen) perso2
+L04D01
+ Kalhi! XXX
+// Arkhan3 G (erstaunt, Kalhi im Gefängnis zu sehen) perso3
+L04D02
+ Kalhi! XXX
+// Kalhi (erstaunt) perso13
+L04D03A
+ Arkhan! Du bist's! XXX
+// Kalhi (glücklich) perso13
+L04D03B
+ Liebster, ich dachte nicht, daß Du noch kommst! XXX
+// Kalhi (hat die Kleidungsstücke angezogen) perso33
+L04D04
+ Steht mir gar nicht mal so schlecht! XXX
+// Kalhi (entschieden) perso33
+L04D05
+ Komm jetzt! Wir gehen! XXX
+// Kalhi (fassungslos) perso13
+L04D06A
+ Arkhan! Du ... bist Du meinetwegen zurückgekommen? XXX
+// Kalhi (fassungslos) perso13
+L04D06B
+ Was ist denn mit Dir los? XXX
+// Kalhi (weint beinahe) perso13
+L04D06C
+ Dieses verfluchte Gift hat Dich wahnsinnig gemacht! XXX
+// Kalhi (genervt) perso13
+L04D07
+ Arkhan! Wir müssen jetzt gehen! XXX
+// Kalhi (ungeduldig) perso13
+L04D08
+ Worauf wartest Du denn? XXX
+// Kalhi (erstaunt, daß Arkhan nichts tut) perso13
+L04D09
+ Steh da doch nicht so herum! XXX
+// Gefangener 2 perso1
+L04D204
+ Ich will hier raus! XXX
+// Hüter2 (überdrüssig)perso42
+L04D10A
+ Das reicht jetzt da drinnen! XXX
+// Hüter2 perso42
+L04D10B
+ Wenn ich noch ein Wort höre, beendet Ihr eure Diskussion im Reich der Finsternis! XXX
+// Hüter2 (stolz, daß er Arkhan verjagt hat) perso42
+L04D11A
+ Habt Ihr gesehen, dem reicht's! XXX
+// Hüter2 (stolz, daß er Arkhan verjagt hat) perso42
+L04D11B
+ Hört jetzt mit eurem Gejammer auf! XXX
+// Gefangener 2 (aufgeregt) perso1
+L04D207
+ Ich will das Licht sehen! Laßt mich raus! XXX
+// Hüter25 (brüllt die Gefangenen an) perso93
+L04D15
+ Nun ist aber Schluß! XXX
+// Hüter25 (brüllt die Gefangenen an) perso93
+L04D16
+ Ruhe da drinnen! XXX
+// Hüter25 (brüllt die Gefangenen an) perso93
+L04D17
+ Halt's Maul! XXX
+// Hüter25 (brüllt die Gefangenen an) perso93
+L04D18A
+ Haltet jetzt die Fresse! XXX
+// Hüter25 perso93
+L04D18B
+ Hier seid Ihr sicherer als in der Unteren Stadt, Ihr Dummköpfe! XXX
+// Hüter25 perso93
+L04D18C
+ Haltet also die Klappe! XXX
+// Hüter2 (provoziert Arkhan) perso42
+L04D12
+ Komm nur! Ich warte! XXX
+// Hüter2 (hört Arkhan kommen) perso42
+L04D13
+ Teskhan, bist Du's? XXX
+// Hüter2 (Arkhan gegenüber) perso42
+L04D14A
+ Gütigster Sonnengott! XXX
+// Hüter2 (aggressiv) perso42
+L04D14B
+ Ich weiß zwar nicht, wie Du hier reingekommen bist, aber weiter kommst Du nicht! XXX
+// Hüter25 (drohend) perso93
+L04D20
+ Da bist Du ja schon wieder! Reicht's Dir noch immer nicht?! XXX
+// Hüter25 (sieht Arkhan) perso93
+L04D19
+ Heiliges Feuerrohr! Eine ... eine Kreatur! XXX
+// Gefangener 3 perso1
+L04D205
+ Da greift jemand den Hüter des Feuers an! XXX
+// Gefangener 4 perso1
+L04D206
+ Ja! Los! Mach' ihn fertig und befrei uns! XXX
+// Gefangener 3 perso1
+L04D208
+ Ich will Blut sehen! XXX
+// Gefangener 4 perso1
+L04D209
+ Für wen bist Du? XXX
+// Gefangener 3 perso1
+L04D210A
+ Keine Ahnung, ich seh' sie doch gar nicht! XXX
+// Gefangener 3 perso1
+L04D210B
+ Ich will Blut sehen, das ist alles! XXX
+// Arkhan2 G perso2
+L04D23
+ Wer ist da? XXX
+// Arkhan3 G perso3
+L04D24
+ Ist da jemand? XXX
+// Konkalit (aggressiv) perso76
+L04D60A
+ Deinem Freund Zed hab' ich schon eine Lehre erteilt. XXX
+// Konkalit (aggressiv) perso76
+L04D60B
+ Jetzt bist Du dran! XXX
+// Gefangener 2 perso1
+L04D211A
+ Da ist er ja wieder! XXX
+// Gefangener 1 (panisch) perso1
+L04D213A
+ Er hat einen Gefangenen getötet! Ich hab's gesehen! XXX
+// Gefangener 1 (panisch) perso1
+L04D213B
+ Er wird uns alle umbringen! XXX
+// Gefangener 2 (außer sich) perso1
+L04D214
+ Hilfe! Hüter des Feuers, komm her! XXX
+// Gefangener 3 perso1
+L04D215
+ Halt's Maul! Du lockst ihn noch hierher mit Deinem Geschrei! XXX
+// Gefangener 2 perso1
+L04D216
+ Gnade, ich will nicht sterben, ich hab' doch nichts getan! XXX
+// Gefangener 4 perso1
+L04D217
+ Ich auch nicht! Ich bin unschuldig! XXX
+// Gefangener 3 perso1
+L04D218
+ Haltet die Fresse! Der macht mir keine Angst! XXX
+// Gefangener 4 perso1
+L04D219
+ Dieses Ungeheuer wird uns alle umbringen! XXX
+// Gefangener 2 perso1
+L04D220
+ Ich will nicht sterben! Gnade! XXX
+// Gefangener 3 perso1
+L04D221
+ Halt's Maul oder ich bring' Dich um! XXX
+// Kalhi (beunruhigt) perso33
+L04D41
+ Arkhan! Was ist los mit Dir? XXX
+// Arkhan2 G perso2
+L04D25
+ So, wir müssen jetzt raus hier! XXX
+// Arkhan3 G perso3
+L04D26
+ Wir müssen jetzt raus hier.  XXX
+// Kalhi perso33
+L04D27A
+ Ja, aber die Hüter des Feuers suchen nach Dir. XXX
+// Kalhi perso33
+L04D27B
+ Es wird nicht einfach sein, ihnen zu entwischen. XXX
+// Arkhan2 G (amüsiert über Kalhi in Uniform) perso2
+L04D28A
+ Was für eine Uniform! Sehr schick! XXX
+// Arkhan2 G (amüsiert über Kalhi in Uniform) perso2
+L04D28B
+ Da kommt selbst Phedoria nicht mit! XXX
+// Arkhan3 G (amüsiert über Kalhi in Uniform) perso3
+L04D29
+ Eine echte ... Kriegerin! XXX
+// Kalhi perso33
+L04D30
+ Mach Dich nicht lustig über mich! Gehen wir jetzt! XXX
+// Arkhan2 G perso2
+L04D31
+ Gehen wir bis zur Halle. Dann versuchen wir, irgendwie hinunterzukommen. XXX
+// Arkhan3 G perso3
+L04D32
+ Folge mir! Wir gehen zur großen Halle. XXX
+// Kalhi (ironisch) perso33
+L04D33
+ Ok, Chef! XXX
+// Arkhan2 G perso2
+L04D34
+ Hast Du das gesehen? XXX
+// Arkhan3 G perso3
+L04D35
+ Hast Du das gesehen? XXX
+// Kalhi perso33
+L04D36
+Los ... Laß uns jetzt gehen ... XXX
+// Arkhan2 O perso2
+L04D37
+ Hör auf, Du kämpfst ja wie eine Anfängerin! XXX
+// Arkhan2 L perso2
+L04D38
+ Sag bloß, Du hast ja direkt was drauf! XXX
+// Arkhan3 O perso3
+L04D39
+ Und das nennst Du kämpfen! XXX
+// Arkhan3 L perso3
+L04D40
+ Du kannst ja kämpfen! XXX
+// Kalhi (muß sich wehren) perso33
+L04D43
+ Arkhan, nein! XXX
+// Kalhi (verängstigt) perso33
+L04D42
+ Nein, Arkhan! Du mußt dagegen ankämpfen! XXX
+// Hüter2 (freut sich) perso42
+L04D21
+ Ah, endlich haust Du ab, widerliches Monster! XXX
+// Hüter25 (hat Arkhan in die Flucht geschlagen) perso93
+L04D22
+ Du hast Deinen Meister gefunden, Kreatur! XXX
+// Arkhan2 G perso2
+L04D44
+ Das ist nicht der richtige Schlüssel! XXX
+// Arkhan3 G perso3
+L04D45
+ Der falsche Schlüssel! XXX
+// Kalhi (hört Arkhan hinter der Tür) perso13
+L04D46
+ Helft mir! Ich will hier raus! XXX
+// Konkalit6 perso76
+L04D47A
+ Mach die Tür auf! Ich hab' was für Dich... XXX
+// Konkalit6 perso76
+L04D47C
+ Dieser verdammte Hüter des Feuers hat den Schlüssel! XXX
+// Arkhan2 G perso2
+L04D51A
+ Was machst Du denn im Gefängnis? XXX
+// Arkhan3 G perso3
+L04D52A
+ Wer hat Dich in den Kerker geworfen? XXX
+// Kalhi perso13
+L04D53A
+ Die Hüter des Feuers, sie haben mich bei Rylsadhar erwischt.  XXX
+// Arkhan2 G perso2
+L04D51B
+ Und sie haben Dir Deinen Dolch gelassen? XXX
+// Arkhan2 G perso2
+L04D51C
+ Wir werden ja wirklich gut beschützt! XXX
+// Arkhan3 G perso3
+L04D52B
+ Und Deinen Dolch haben sie Dir nicht weggenommen?! Na hervorragend! XXX
+// Kalhi perso13
+L04D53B
+ Sie haben gesagt, daß Rylsadhar verschwunden ist und daß ich verdächtigt werde. XXX
+// Kalhi perso13
+L04D53C
+ Ich hab' versucht, es ihnen zu erklären, aber sie haben mich mitgenommen, ohne mich anzuhören. XXX
+// Arkhan2 L perso2
+L04D54
+ Was soll das denn heißen? XXX
+// Arkhan3 L perso3
+L04D55
+ Was soll das alles bedeuten?  XXX
+// Kalhi perso13
+L04D56A
+ Keine Ahnung...  XXX
+// Kalhi perso13
+L04D56B
+ Ich hab' Angst, daß Rylsadhar was passiert ist! XXX
+// Arkhan2 O (aggressiv) perso2
+L04D57
+ Wie konntest Du Dich nur erwischen lassen? XXX
+// Arkhan3 O (aggressiv) perso3
+L04D58
+ Wie dumm von Dir, mit ihnen mitzugehen! XXX
+// Kalhi (beleidigt) perso13
+L04D59
+ Was sollte ich denn tun? Wenn ich mich gewehrt hätte, hätten sie mich umgebracht! XXX
+// Arkhan2 G perso2
+L04D63A
+ Eines ist sicher: Mit meinem Gesicht kann ich nur auffallen. XXX
+// Arkhan2 G perso2
+L04D63B
+ Und die Kleidung einer Lumpensammlerin ...die fällt auch auf ... XXX
+// Arkhan3 G perso3
+L04D64A
+ Ein Dämon aus dem Reich der Finsternis und eine Lumpensammlerin ... XXX
+// Arkhan3 G perso3
+L04D64B
+ Wir fallen auf! XXX
+// Kalhi perso13
+L04D65
+ Nach dem, was Du mit dem Hüter des Feuers gemacht hast, glaub' ich nicht, daß wir uns seine Uniform ausborgen können. XXX
+// Arkhan2 G perso2
+L04D66
+ Du folgst mir, verstanden? XXX
+// Arkhan3 G perso3
+L04D67
+ Folg mir! XXX
+// Kalhi perso13
+L04D68
+ Alles klar. XXX
+// Arkhan2 G perso2
+L04D69A
+ Schau mal! Eine von Bogdarans alten Uniformen...  XXX
+// Arkhan2 G perso2
+L04D69B
+ Aus der Zeit, als er noch schlank war! XXX
+// Arkhan3 G perso3
+L04D70
+ Versuch mal, die anzuziehen! XXX
+// Kalhi (will einen Anzug anziehen) perso13
+L04D71
+ Warum eigentlich nicht ... XXX
+// Arkhan2 G perso2
+L04D72A
+ Ein Stück vom Kristallschlüssel! XXX
+// Arkhan2 G perso2
+L04D72B
+ Dieser Mistkerl hat ihn bestimmt Zed gestohlen! XXX
+// Arkhan3 G perso3
+L04D73A
+ Ein Stück vom Schlüssel! XXX
+// Arkhan3 G perso3
+L04D73B
+ Dieser Dreckskerl hat ihn bestimmt Zed gestohlen! XXX
+// Gefangener 1 perso1
+L04D222
+ Hey, wer macht da die Tür auf? XXX
+// Gefangener 1 (unruhig) perso1
+L04D223
+ Wer ist da? Was ist los? XXX
+// Gefangener 3 perso1
+L04D224
+ Es ist die Kreatur ... Halt's Maul! XXX
+// Gefangener 1 (panisch) perso1
+L04D225
+ Laßt ihn nicht rein! Ich hab' nichts getan, ich will nicht sterben! XXX
+// Gefangener 2 (voller Hoffnung) perso1
+L04D226A
+ Hey, Du! Hol mich hier raus! Reiß das Gitter ein! XXX
+// Gefangener 2 perso1
+L04D226B
+ Der Hüter des Feuers da hat den Schlüssel nicht, und Du, Du brauchst ihn wohl auch nicht, oder? XXX
+// Gefangener 2 perso1
+L04D226C
+ Bist Du stark genug, um das Gitter einzureißen? XXX
+// Gefangener 2 perso1
+L04D227
+ Hey, zieh Leine! Nicht mal im Gefängnis hat man mehr seine Ruhe! XXX
+// Gefangener 3 perso1
+L04D228
+ Halt's Maul, ich will nicht, daß er sich aufregt ... XXX
+// Gefangener 2 perso1
+L04D229
+ Er kann uns doch nichts tun! Die Stäbe sind doch dick genug, oder? XXX
+// Arkhan2 L perso2
+L04D80
+ Hey, immer mit der Ruhe! XXX
+// Arkhan2 O perso2
+L04D81
+ Hau ab oder ich bring' Dich um! XXX
+// Konkalit 76 (stürzt sich auf Arkhan) perso76
+L04D88
+ Ich mach' Dich fertig, Dreckskerl! XXX
+// Arkhan2 L perso2
+L04D84
+ Ich tu' Dir nichts! XXX
+// Arkhan3 L perso3
+L04D82
+ Ich tu' Dir nichts! XXX
+// Arkhan2 O perso2
+L04D86
+ Schweinehund! XXX
+// Arkhan3 O perso3
+L04D83
+ Schweinehund! XXX
+// Arkhan2 G perso2
+L04D99
+ Seine Uniform ist zerrissen ... die nützt uns nichts ... XXX
+// Arkhan3 G perso3
+L04D100
+ Seine Uniform ... in Fetzen. Die nützt uns nichts mehr. XXX
+// Arkhan2 G perso2
+L04D95A
+ Harter Fels.  XXX
+// Arkhan2 G perso2
+L04D95B
+ Hier können wir keinen Tunnel graben... XXX
+// Arkhan3 G perso3
+L04D96
+ Felsen. Vergiß den Tunnel! XXX
+// Arkhan2 G perso2
+L04D97
+ Da ist nichts weiter drin als brackiges Wasser. XXX
+// Arkhan3 G perso3
+L04D98
+ Brackiges Wasser. XXX

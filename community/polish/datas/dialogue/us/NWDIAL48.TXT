@@ -1,0 +1,229 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL48.TXT
+ // Konkalite5 perso75
+L48D01
+ I nie wracaj tu, albo wypruje ci flaki! XXX
+// Kalhi perso13
+L48D04
+ Daj mi to, ty... zalosny, stary glupcze! XXX
+// Malrot3 perso63
+L48D05
+ Zlodziej! Niczego ode mnie dostaniesz! XXX
+// Kalhi (afraid) perso33
+L04D41
+ Arkhan! Co w ciebie wstapilo? XXX
+// Malrot3 perso63
+L48D35
+ Nigdy sie nie dalem zlodziejom i nie zamierzam tego dzisiaj zmieniac! XXX
+// Malrot3 (fearful) perso63
+L48D106
+ Hej, hej, nie denerwuj sie, okej? XXX
+// Kalhi (having killed the Malrot) perso13
+L48D13
+ Nie chcialam... XXX
+// Kalhi perso13
+L48D14
+ Ale nie dal nam zadnego wyboru... XXX
+// Kalhi perso13
+L48D15
+ Jesli bedziesz mnie potrzebowal, bede u Danrysa. XXX
+// Kalhi perso13
+L48D16
+ Przynajmniej wez amunicje... czlowiek zginal dla niej. XXX
+// Malrot3 perso63
+L48D51
+ Wciaz mam jedno sprawne ramie! XXX
+// Kalhi perso13
+L48D46
+ Daj mi to! XXX
+// Malrot3 perso63
+L48D47
+ Nie! Jestes Lupiezca, wiesz, ze potrzeba mi tego na handel! XXX
+// Kalhi perso13
+L48D48
+ Jestes mi to winny! XXX
+// Malrot3 perso63
+L48D49
+ Daj spokoj... Bede musial w inny sposob zakonczyc twoje klopoty. XXX
+// Kalhi perso13
+L48D50
+ Ty? Stary jednoreki bandyta jak ty? A coz ty mi mozesz zrobic?! XXX
+// Kalhi perso13
+L48D52
+ Mowilam juz, daj mi amunicje! XXX
+// Malrot3 perso63
+L48D53
+ Taaa jasne. Gadaj zdrowa! XXX
+// Kalhi perso13
+L48D54
+ Sam sie o prosisz klopoty kolego! XXX
+// Malrot3 perso63
+L48D55
+ Probujesz mnie przestraszyc!? XXX
+// Kalhi perso13
+L48D06
+ Arkhan! Ciesze sie, ze cie widze! Ten obrzydliwy staruch sprawia mi klopoty! XXX
+// Malrot3 perso63
+L48D07A
+ Probuje ukrasc moja amunicje do Miotacza Piorunow! XXX
+// Malrot3 perso63
+L48D07B
+ Amunicje, dla ktorej prawie stracilem moje jedyne sprawne ramie! XXX
+// Kalhi perso13
+L48D08A
+ Jest mi ja winien juz od dawna. XXX
+// Kalhi perso13
+L48D08B
+ A dzisiaj nadszedl dzien splaty. Chce amunicji! XXX
+// Kalhi perso13
+L48D08C
+ Wiem, ze przyda sie tobie. XXX
+// Malrot3 perso63
+L48D09
+ Tylko mnie dotknij, a pokaze ci cos co nie spodoba sie tobie! XXX
+// Kalhi perso13
+L48D43
+ No dalej! Pomoz mi! XXX
+// Malrot3 perso63
+L48D44
+ Potrzebujesz kogos kto potrzyma ci reke kiedy bedziesz walczyc dzieweczko? XXX
+// Malrot3 perso63
+L48D45
+ Nie dalbym ci tej amunicji nawet gdyby zalezalo od tego moje zycie! XXX
+// Kalhi perso13
+L48D10
+ Pomoz mi Arkhan! XXX
+// Malrot3 perso63
+L48D11A
+ To sprawa pomiedzy nia a mna! XXX
+// Malrot3 perso63
+L48D11B
+ Nie mieszaj sie do cudzych spraw, albo porozmawia z toba kilku moich przyjaciol! XXX
+// Kalhi perso13
+L48D12
+ Arkhan. Co robisz? Pomoz mi! XXX
+// Malrot7 perso67
+L48D02
+ Zaplacisz mi za to! XXX
+// Malrot7 perso67
+L48D03
+ Nie powinienes byl wracac! XXX
+// Kalhi (calling) perso13
+L48D103
+ Arkhan! Arkhan! XXX
+// Kalhi perso13
+L48D104
+ Od teraz jestes zdany na siebie. Ja znikam stad! XXX
+// Arkhan2 L perso2
+L48D17
+ Kalhi nie powinnas zaczynac ze starym Lupiezca jego pokroju. XXX
+// Arkhan2 O perso2
+L48D18
+ Daj spokoj Kalhi, to tylko stary czlowiek! XXX
+// Arkhan3 L perso3
+L48D19
+ Kalhi, to tylko starzec. XXX
+// Arkhan3 O perso3
+L48D20
+ Kalhi, daj mu spokoj! XXX
+// Kalhi perso13
+L48D21A
+ Jest mi cos winien, a dzisiaj jest dzien zaplaty. Jasne?! XXX
+// Kalhi perso13
+L48D21B
+ Robie to dla ciebie! XXX
+// Arkhan2 L perso2
+L48D22
+ Daj spokoj, nie bedziesz sie chyba bic o jakis tam sprzet? XXX
+// Arkhan2 O perso2
+L48D23
+ To tylko stary szmelc! Chcesz go dla czegos takiego zabic?! XXX
+// Arkhan3 L perso3
+L48D24
+ Nie jest wystarczajaco wazne by to walczyc... XXX
+// Arkhan3 O perso3
+L48D25
+ Daj spokoj! XXX
+// Kalhi perso13
+L48D26
+ On zwyczajnie nie rozumie do czego zmierzam! XXX
+// Arkhan2 L perso2
+L48D27
+ Kalhi! Nie ryzykuj zycia ot tak sobie! XXX
+// Arkhan2 O perso2
+L48D28
+ Rety, jak tylko strace cie z oczu, od razu pakujesz sie w klopoty! Nie mozna cie zostawic samej na dwie minuty. XXX
+// Arkhan3 L perso3
+L48D29
+ Kalhi! Przestan! XXX
+// Arkhan3 O perso3
+L48D30
+ Zmusisz mnie bym zabil tego biednego glupca! XXX
+// Kalhi perso13
+L48D31
+  Napadl na mnie! XXX
+// Kalhi (A. showing her an object during the fight)perso13
+L48D32
+ Arkhan! Nie czas na "Zgaduj zgadule"! XXX
+// Arkhan2 G perso2
+L48D100
+ Oszalalas! XXX
+// Arkhan3 G perso3
+L48D101
+ Odbilo ci! XXX
+// Kalhi (forced to defend herself) perso13
+L48D102
+ Arkhan! Oszalales! XXX
+// Malrot3 perso63
+L48D105
+ Pieknie! Wspaniale! Pozabijajcie sie nawzajem! Mam juz dosc! XXX
+// Arkhan2 L perso2
+L48D33A
+ Lepiej daj nam amunicje... XXX
+// Arkhan2 L perso2
+L48D33B
+ Sluchaj, nie jest warta by przelewac za nia krew... XXX
+// Arkhan3 L perso3
+L48D34
+ Daj amunicje... Nie warto za nia umierac. XXX
+// Arkhan2 L perso2
+L48D36A
+ Ale Kalhi mowi, ze jestes jej to winny! XXX
+// Arkhan2 L perso2
+L48D36B
+ Badz rozsadny... XXX
+// Arkhan3 L perso3
+L48D37
+ Pomysl o swym dlugu... badz rozsadny... XXX
+// Malrot3 perso63
+L48D38
+ Sam badz rozsadny! Odwolaj swoja wsciekla suke, zanim zamkne jej jadaczke na dobre! XXX
+// Arkhan2 O (menacingly)perso2
+L48D39
+ To twoja ostatnia szansa! Dawaj amunicje! XXX
+// Arkhan3 O (menacingly)perso3
+L48D40
+ Ostatnia szansa! Dawaj to, albo gin! XXX
+// Malrot3 (overwhelmed)perso63
+L48D41
+ Oh, dobrze, dobrze... XXX
+// Malrot3 perso63
+L48D42
+ Ale jeszcze o mnie uslyszycie, zlodzieje! XXX
+// Kalhi perso13
+L48D56
+ Dobra robota Arkhan. Dzieki tobie mamy to czego potrzebowalismy. XXX
+// Malrot3 (attacked by A. and Kalhi)perso63
+L48D57
+ Dwoch na jednego! Smierdzace tchorze! XXX
+// Arkhan2 G perso2
+L48D668
+ Pelne bagnistej wody z Nizszego Miasta... XXX
+// Arkhan3 G perso3
+L48D669
+ Bloto z Nizszego Miasta... XXX
+// Arkhan2 G perso2
+L48D666
+ Strumien plynacy od morza przez Nizsze Miasto. XXX
+// Arkhan3 G perso3
+L48D667
+ Ta woda, to strumyk od morza... XXX

@@ -1,0 +1,1162 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL08.TXT
+ // Delia (panisch) perso10
+L08D215A
+ Arkhan! XXX
+// Delia (panisch) perso10
+L08D215B
+ Da hinten ... Eine Kreatur aus dem Reich der Finsternis! XXX
+// Delia (panisch) perso10
+L08D215C
+ Was... was sollen wir tun? XXX
+// Arkhan2 G perso2
+L08D217A
+ Mach Dir keine Sorgen, ich kümmere mich darum ...  XXX
+// Arkhan2 G perso2
+L08D217B
+ Vor allem: Keine Bewegung! XXX
+// Arkhan3 G perso3
+L08D218
+ Ich werd' ein Mittel finden ... Rühr Dich hier nicht fort! XXX
+// Kalhi perso33
+L08D153
+ Sei vorsichtig, Arkhan. Laß uns zusammenbleiben. XXX
+// Hüter3 perso43
+L08D92
+ Glaubst Du, daß der Prediger recht hat? Daß uns die Finsternis bedroht? XXX
+// Hüter4 perso44
+L08D93A
+ Ich weiß nicht ...  XXX
+// Hüter4 perso44
+L08D93B
+ Aber nach dem Angriff auf die Große Predigerin sollten wir die Augen offen halten! XXX
+// Hüter4 perso44
+L08D93C
+ Wenn diese Schweinehunde zurückkommen, werd' ich mit ihnen ein ernstes Wort reden! XXX
+// Hüter3 perso43
+L08D94A
+ Genau! Sie sollen dafür bezahlen, daß sie Jedar umgebracht haben ... XXX
+// Hüter3 perso43
+L08D94B
+ Und dafür, was sie Arkhan angetan haben! XXX
+// Hüter4 perso44
+L08D95
+ Und die Große Predigerin? XXX
+// Hüter3 perso43
+L08D96A
+ Da das Standrecht verhängt wurde, ist sie in Sicherheit, gut versteckt. XXX
+// Hüter3 perso43
+L08D96B
+ Dhorkan hat die Sache in die Hand genommen. XXX
+// Hüter4 perso44
+L08D97A
+ Genau! Zed soll in der Unteren Stadt sein, den Schuldigen auf der Spur ... XXX
+// Hüter4 perso44
+L08D97B
+ So, jetzt sollten wir mal wieder mal auf unsere Posten gehen. XXX
+// Hüter5 perso45
+L08D223
+ Die Prediger sagen, daß die Finsternis jetzt in ihm ist! Daß er nicht mehr einer von uns ist! XXX
+// Hüter6 perso46
+L08D224A
+ Aber er ist doch wohl kein Komplize der Konkaliten! XXX
+// Hüter6 perso46
+L08D224B
+ Die Große Predigerin hätte es uns gesagt, wenn Arkhan ihr etwas angetan hätte. XXX
+// Hüter5 perso45
+L08D225A
+ Wie soll man das wissen? Dhorkan verbietet jedem, sich der Großen Predigerin zu nähern.  XXX
+// Hüter5 perso45
+L08D225B
+ Eine Sicherheitsmaßnahme. XXX
+// Hüter6 perso46
+L08D226
+ Ich kann einfach nicht glauben, daß Arkhan ein Verräter ist. XXX
+// Hüter5 perso45
+L08D227A
+ Mein' ich auch ... es sei denn, das Übel hat ihm das Hirn angefressen. XXX
+// Hüter5 perso45
+L08D227B
+ Wenn er irgendwas tut, was nicht lupenrein ist, kann er sein letztes Gebet sprechen! XXX
+// Hüter5 perso45
+L08D316
+ Hat man was gefunden? XXX
+// Hüter6 perso46
+L08D317A
+ Bisher nicht ... nur ein Mädchen, eine Lumpensammlerin. XXX
+// Hüter6 perso46
+L08D317B
+ Würd' mich aber wundern, daß die was damit zu tun hat ... XXX
+// Hüter5 perso45
+L08D318A
+ Das weißt Du doch nicht! Es passieren viele seltsame Dinge. XXX
+// Hüter5 perso45
+L08D318B
+ Auf jeden Fall haben die Lumpensammler hier nichts zu suchen. XXX
+// Hüter6 perso46
+L08D319
+ Sie haben sie in den Kerker geworfen. Wenn sie was weiß, wird sie es schon ausspucken. XXX
+// Hüter5 perso45
+L08D320
+ In der Zwischenzeit müssen wir die Augen offen halten! XXX
+// Hüter7 perso47
+L08D143
+ Hast Du gehört? Kabak sagt, daß Kreaturen der Finsternis in die Untere Stadt eingedrungen sind. XXX
+// Hüter8 perso48
+L08D144A
+ Kabak ist ein alter Idiot! XXX
+// Hüter8 perso48
+L08D144B
+ Der Sonnengott stellt unseren Glauben auf die Probe. XXX
+// Hüter8 perso48
+L08D144C
+ Ich vertraue ihm, Er wird uns nicht verlassen.  XXX
+// Hüter7 perso47
+L08D145A
+ Ich weiß nicht ... Ich hab' Schiß. XXX
+// Hüter7 perso47
+L08D145B
+ Und wenn die Nacht nie zuende geht?! XXX
+// Hüter8 perso48
+L08D146A
+ Hör auf, solchen Unsinn zu reden! XXX
+// Hüter8 perso48
+L08D146B
+ Vor Angst fängst Du schon an, den Sonnengott zu lästern. XXX
+// Kalhi perso33
+L08D220
+ Komm, verschwinden wir von hier. Wir sind schon zu sehr aufgefallen ... XXX
+// Kalhi perso33
+L08D321
+ Arkhan, geh nicht weg! XXX
+// Kalhi perso33
+L08D322
+ Was machst Du denn? XXX
+// Kalhi perso33
+L08D323
+ Arkhan, bleib bei mir! XXX
+// Kalhi2 (flüstert) perso33
+L08D209A
+ Bleib neben mir und geh nicht zu weit weg. XXX
+// Kalhi2 (flüstert) perso33
+L08D209B
+ Da ist ein Hüter des Feuers! XXX
+// Kalhi (fassungslos) perso13
+L08D335A
+ Du ... Du bist gekommen, um mich zu holen? XXX
+// Kalhi (fassungslos) perso13
+L08D335B
+ Was ist denn los mit Dir? XXX
+// Kalhi (weint fast) perso13
+L08D335C
+ Das Übel macht Dich wahnsinnig! XXX
+// Kalhi perso13
+L08D157
+ Arkhan! Beim Sonnengott, beeil Dich! XXX
+// Kalhi perso13
+L08D156
+ Wenn wir hier bleiben, wird man uns noch bemerken! XXX
+// Kalhi perso13
+L08D155
+ Arkhan, laß uns nicht hierbleiben! XXX
+// Hüter10 perso50
+L08D310
+ Beim Sonnengott! Du bist die Kreatur! XXX
+// Kalhi perso13
+L08D158
+ Ich warte hier auf Dich. Mach schnell. XXX
+// Hüter3 perso43
+L08D303
+ Alarm! XXX
+// Hüter6 perso46
+L08D304
+ Alarm! XXX
+// Hüter7 perso47
+L08D305
+ Alarm! XXX
+// Hüter8 perso48
+L08D147
+ Ich geh' jetzt nach oben, ich brauche Munition! XXX
+// Hüter7 perso47
+L08D148
+ Sei vorsichtig! XXX
+// Hüter7 (fährt Arkhan hart an) perso47
+L08D149
+ Ein Eindringling! XXX
+// Hüter5 perso45
+L08D141
+ Wer ist da? XXX
+// Hüter6 (läuft zu A.) perso46
+L08D124
+ Hey, wer bist Du denn? XXX
+// Hüter3 (nach einem Kriegsschrei von Arkhan) perso43
+L08D01
+ Was ist denn mit Dir los? XXX
+// Hüter4 (nach einem Kriegsschrei von Arkhan) perso44
+L08D02
+ Du wirst Dich schon abregen! XXX
+// Hüter5 perso45
+L08D270
+ Ich werd' Dich ausbluten! XXX
+// Hüter6 (von A. angegriffen) perso46
+L08D140
+ Mich kriegst Du nicht! XXX
+// Hüter4 perso44
+L08D242
+ Halt ihn fest! XXX
+// Hüter3 (unsicher, denn A. kommt näher, er wendet sich an seinen Kollegen, als wolle er sagen "Was machen wir jetzt?") perso43
+L08D243
+ Garn?! XXX
+// Hüter4 (zieht die Waffen heraus, erschreckt) perso44
+L08D222
+ Verdammtes Feuerrohr, ein Dämon aus der Finsternis! XXX
+// Hüter3 (zieht die Waffen, verängstigt) perso43
+L08D309
+ Verdammtes Feuerrohr, ein Dämon aus der Finsternis! XXX
+// Hüter3 perso43
+L08D241
+ Garn, sei vorsichtig! XXX
+// Hüter4 perso44
+L08D324
+ Hey, Du da! Halt! XXX
+// Hüter10 perso50
+L08D229
+ Seien Sie gegrüßt, schöne Frau!  XXX
+// Kalhi perso33
+L08D312A
+ Sei gegrüßt, Hüter des Feuers. XXX
+// Kalhi perso33
+L08D312B
+ Ich bringe diesen Typen hier ins Krankenhaus. XXX
+// Hüter10 perso50
+L08D210
+ Achtung, Dein Gefangener reißt aus! XXX
+// Hüter10 perso50
+L08D311
+ Ho! Wo wollen wir denn hin? XXX
+// Kalhi perso13
+L08D230
+ Du hättest mir wenigstens helfen sollen, den Hüter des Feuers auszuschalten! XXX
+// Hüter3 (von Arkhan angegriffen) perso43
+L08D152
+ Ho! Vertragen wir uns wieder! XXX
+// Hüter3 (A. packt seine Waffe fort) perso43
+L08D235
+ So gefällst Du mir schon besser! XXX
+// Arkhan1 L  perso1
+L08D03
+ Licht sei über Dir, Teskhan. XXX
+// Hüter3  perso43
+L08D04
+ Und über Dir, Arkhan. XXX
+// Arkhan1 L  perso1
+L08D05
+ Was machst Du hier? XXX
+// Hüter3 perso43
+L08D06A
+ Das weißt Du nicht? Der große Zed bereitet eine neue Expedition in das Reich der Finsternis vor. Kommandantin Phedoria hat mich gebeten, ihr zu helfen. XXX
+// Hüter3 perso43
+L08D06B
+ Wie Du siehst, sind bis zu seiner Abreise noch einige Maschinen in Ordnung zu bringen.  XXX
+// Hüter3  perso43
+L08D06C
+ Und er wird aufbrechen, wenn sich der Sonnengott beim nächsten Mal erhebt. XXX
+// Arkhan1 L  perso1
+L08D07
+ Na dann viel Spaß! XXX
+// Hüter3  perso43
+L08D08
+ Nein wirklich, es ist toll, einem Mann wie Zed helfen zu können. Du hast Glück, ihn zu kennen ... XXX
+// Arkhan1 L  perso1
+L08D17
+ Ich muß am Großen Tempel Wache stehen. XXX
+// Hüter3  perso43
+L08D18
+ Ich glaub', Jedar ist auch da ... XXX
+// Arkhan1 L  perso1
+L08D19
+ Weißt Du, was da los ist? XXX
+// Hüter3 perso43
+L08D20A
+ Die Große Predigerin empfängt die Lumpensammler, die haben eine Entdeckung gemacht, glaub' ich zumindest.   XXX
+// Hüter3  perso43
+L08D20B
+ Nimm's nicht so tragisch. Wenn Dhorkan nur Jedar und Dich hingeschickt hat, dürfte es nicht allzu lange dauern ... XXX
+// Arkhan1 L perso1
+L08D236
+ Ich geh' jetzt, bis später. XXX
+// Hüter3 (1. Mal)perso43
+L08D237
+ Viel Spaß, Arkhan. XXX
+// Hüter3 (2. Mal, ungeduldig) perso43
+L08D238
+ Ja, sicher. Nun geh schon! XXX
+// Arkhan1 O (mürrisch)  perso1
+L08D10
+Licht über Dir, Teskhan. XXX
+// Arkhan1 O  perso1
+L08D11
+ Rackerst Du Dich noch immer ab, für nichts und wieder nichts? XXX
+// Hüter3 perso43
+L08D12
+ Du spinnst wohl? Kommandantin Phedoria hat mich gebeten, die nächste Expedition des großen Zed mit vorzubereiten.   XXX
+// Arkhan1 O  perso1
+L08D13A
+ Ach, Hüter des Feuers zu sein, ist wirklich ein Hundeleben! Ich hätte es wie mein Vater machen und Prediger werden sollen! XXX
+// Arkhan1 O perso1
+L08D13B
+ Da hat man nichts weiter zu tun, als von Zeit zu Zeit Predigten über den Sonnengott vor sich hin zu murmeln.  XXX
+// Arkhan1 O perso1
+L08D13C
+ Ansonsten verbringt mein Vater sein Leben damit, in alten verstaubten Büchern herumzustöbern, die sowieso niemand versteht ... XXX
+// Hüter3 perso43
+L08D14A
+ Das solltest Du nicht sagen, Rylsadhar ist einer der weisesten und geachtetsten Männer des Stalliten. XXX
+// Hüter3  perso43
+L08D14B
+ Er ist ein Vorbild für alle anderen Prediger. XXX
+// Arkhan1 O  perso1
+L08D23A
+ Ich hab' aber auch noch was vor: Ich muß an der Halle des Großen Tempels mit Jedar Wache schieben.  XXX
+// Arkhan1 O perso1
+L08D23B
+ Wie aufregend! Dadurch bekommt dieser Tag erst die richtige Würze!  XXX
+// Hüter3  perso43
+L08D24
+ Eigentlich hast Du doch Glück, denn bei solchen Anlässen ordert Dhorkan normalerweise mindestens zehn Hüter des Feuers ab, die sich stundenlang die Beine in den Bauch stehen.  XXX
+// Arkhan1 O  perso1
+L08D239A
+ Das ist auch kein Trost! XXX
+// Arkhan1 O perso1
+L08D239B
+ Ich muß halt in den sauren Apfel beißen ... XXX
+// Hüter3  perso43
+L08D240
+ Viel Glück! XXX
+// Arkhan2 L  perso2
+L08D126
+ Alles klar, Teskhan. XXX
+// Hüter3 (traut seinen Augen nicht)  perso43
+L08D127
+ Arkhan... Du... Ich... Welches Unheil ist denn jetzt über uns gekommen? XXX
+// Arkhan2 L perso1
+L08D100B
+ Die Angreifer der Großen Predigerin haben mich vergiftet. XXX
+// Arkhan2 L perso1
+L08D100C
+ Und ich muß ein Mittel finden, um wieder gesund zu werden. XXX
+// Hüter3 perso43
+L08D129A
+ Mach Dir keine Sorgen! Dhorkan hat alle Zugänge versperren lassen. XXX
+// Hüter3 perso43
+L08D129B
+ Sie suchen nach den Eindringlingen ... Sogar Zed selbst ist ihnen auf der Spur.   XXX
+// Hüter3 perso43
+L08D129C
+ Diejenigen, die es gewagt haben, Lory anzugreifen, werden um einen Kopf kürzer gemacht! XXX
+// Hüter3  perso43
+L08D129D
+ Die Dir ... das ... angetan haben ... XXX
+// Arkhan2 L  perso2
+L08D130A
+ Hey, Teskhan, mach nicht so ein Gesicht! XXX
+// Arkhan2 L perso2
+L08D130B
+ Ich bin noch immer ein Hüter des Feuers, wie ihr. XXX
+// Hüter3  perso43
+L08D131
+ Du solltest zum Profos gehen. XXX
+// Arkhan2 O  perso2
+L08D132
+ Bitte schau mich nicht an, als sei ich ein Dämon aus der Finsternis! XXX
+// Arkhan2 O  perso2
+L08D133A
+ Das Gift brennt mir im ganzen Körper! XXX
+// Arkhan2 O perso2
+L08D133B
+ Ich hab' keine Zeit zu verlieren, ich muß was dagegen tun. XXX
+// Hüter3  perso43
+L08D134
+ Wenn Du krank bist, mußt Du zu den Heilern gehen. XXX
+// Arkhan2 O  perso2
+L08D135
+ Ich glaub' nicht, daß Du mir eine große Hilfe bist ... XXX
+// Arkhan1 L perso1
+L08D25
+ Hey, willst Du einen Schluck aus der Flasche? XXX
+// Hüter3 perso43
+L08D26
+ Du weißt genau, daß ich keinen Stohll vertrage! XXX
+// Arkhan1 L perso1
+L08D27
+ Bist Du sicher? Hast Du keinen Durst? XXX
+// Hüter3 perso43
+L08D28
+ Nein, ich mag diese Mixtur nicht besonders. XXX
+// Arkhan1 O perso1
+L08D29
+ Hey, hast Du Durst? Ich hab' eine Feldflasche voller Stohll! XXX
+// Hüter3 perso43
+L08D30
+ Laß gut sein, ich mag keinen Stohll! XXX
+// Arkhan1 O perso1
+L08D31
+ Bist Du ein Hüter des Feuers oder ein Waschlappen aus der Unteren Stadt? Komm schon, trink! XXX
+// Hüter3 perso43
+L08D32
+ Laß mich in Ruhe, Arkhan, ich will nichts von Deinem Pilzsaft! XXX
+// Arkhan1 G perso1
+L08D33
+ Hey, willst Du was davon? XXX
+// Hüter3 perso43
+L08D34
+ Nein, vergiß es. XXX
+// Hüter3 perso43
+L08D325
+ Gib's auf! XXX
+// Arkhan1 G perso1
+L08D37
+ Ho! Ganz ruhig! XXX
+// Hüter3 perso43
+L08D232
+ Warte nur, Du Ungeheuer! XXX
+// Hüter4 perso44
+L08D221
+ Arkhan?... XXX
+// Hüter4 perso44
+L08D151
+ Hey ... Immer mit der Ruhe! XXX
+// Arkhan1 L perso1
+L08D39
+ Licht sei über Dir, Garn. XXX
+// Hüter4 perso44
+L08D40
+ Licht sei über Dir, Arkhan.  XXX
+// Hüter4  perso44
+L08D41
+ Ich bin auf Wache, Profos Dhorkan hat mich angewiesen, hier zu bleiben, bis ich neue Befehle erhalte. XXX
+// Arkhan1 L perso1
+L08D48
+ Ich muß zum Großen Tempel gehen und Wache schieben. XXX
+// Hüter4 perso44
+L08D49
+ Zum Großen Tempel? XXX
+// Hüter4 perso44
+L08D50
+ Du kannst gehen, der Weg ist frei! XXX
+// Arkhan1 L  perso1
+L08D51
+ Weißt Du, was da los ist? XXX
+// Hüter4 perso44
+L08D52A
+ Eine außergewöhnliche Versammlung mit der Großen Predigerin oder sowas ... XXX
+// Hüter4  perso44
+L08D52B
+ Da hast Du kein Glück, im allgemeinen sagt man uns vorher Bescheid, und wir müssen alle ran. XXX
+// Arkhan1 L perso1
+L08D42
+ Hoffentlich wird's ein guter Tag. XXX
+// Hüter4 perso44
+L08D43
+ Ja, das hoff' ich auch... XXX
+// Arkhan1 O  perso1
+L08D53
+ Garn, sieht ja spannend aus, was Du da machst ... XXX
+// Hüter4 perso44
+L08D54
+ Mach Dich nicht über mich lustig, Arkhan. Möglicherweise bestimmt Dhorkan Dich, um mich bei Anbruch der Nacht abzulösen ... XXX
+// Arkhan1 O  perso1
+L08D45
+ Scheint Dir keinen Spaß zu bringen! XXX
+// Arkhan1 O  perso1
+L08D55
+ Die Zeit wird einem lang, nicht wahr? Mich hat's auch erwischt: Ich muß in der Halle des Großen Tempels Wache schieben. XXX
+// Arkhan1 O  perso1
+L08D46
+ Mach nur so weiter! Wenn Du Glück hast, befreit Dhorkan Dich, bevor Du Dir die Sohlen durchgelaufen hast! XXX
+// Hüter4 perso44
+L08D47A
+ Tja... Ich kann ihm ja sagen, daß Du nichts zu tun hast und mich gerne ablösen würdest! XXX
+// Arkhan1 O  perso1
+L08D56
+ So, ich will Dich nicht länger aufhalten! Sieht aus, als hättest Du noch einiges vor Dir! XXX
+// Hüter4 (durch Arkhan genervt und leicht drohend) perso44
+L08D57
+ Ich geb' Dir einen Rat: Verschwinde oder Du kriegst Ärger mit mir ... XXX
+// Arkhan2 L  perso2
+L08D98A
+ Schon gut, Garn, ich bin's. XXX
+// Arkhan2 L perso2
+L08D98B
+ Ich beiß' Dich schon nicht! XXX
+// Hüter4 (unsicher) perso44
+L08D99A
+ Nein.. Nein... Aber Du bist so... anders. XXX
+// Hüter4 (unsicher)  perso44
+L08D99B
+ Sei mir nicht böse, aber woher soll ich wissen, daß Du die Wahrheit sagst? XXX
+// Arkhan2 L  perso1
+L08D100A
+ Garn, ich weiß, was man Euch gesagt hat und was man Euch glauben machen will, aber ich hab' nichts getan. XXX
+// Hüter4 perso44
+L08D101A
+ Ja... Ich glaub' Dir. XXX
+// Hüter4 perso44
+L08D101B
+ Deine Freundschaft mit dem großen Zed ist das beste Argument, um Dir zu vertrauen. XXX
+// Hüter4 perso44
+L08D101C
+ Aber Dhorkan hat das Standrecht verhängt. Alle Eindringlinge sollen festgenommen werden. XXX
+// Hüter4  perso44
+L08D101D
+ Du solltest ihm sagen, was mit Dir passiert ist. XXX
+// Arkhan2 L  perso1
+L08D102A
+ Ich bin noch immer ein Hüter des Feuers. XXX
+// Arkhan2 L perso1
+L08D102B
+ Beim Sonnengott, ich schwöre es! XXX
+// Hüter4  perso44
+L08D103A
+ Schon gut. XXX
+// Hüter4  perso44
+L08D103Z
+ Ich glaub' Dir. XXX
+// Arkhan2 O (drohend)  perso1
+L08D104
+ Hör mir gut zu, Garn, wenn Du keinen Ärger willst, dann komm keinen Schritt näher!  XXX
+// Hüter4 perso44
+L08D105A
+ Was ist denn los mit Dir, Arkhan?  XXX
+// Hüter4 perso44
+L08D105B
+ Von nun an gilt das Standrecht. XXX
+// Hüter4  perso44
+L08D105C
+ Ich werd' mein Pflicht tun, und daran werden Deine Drohungen auch nichts ändern! XXX
+// Arkhan2 O  perso1
+L08D106A
+ Geh zur Seite! Ich muß ein Mittel finden, um das Gift zu zerstören, das mich zu einem Anderen macht. XXX
+// Arkhan2 O perso1
+L08D106B
+ Und wenn ich dafür ein paar Schwachköpfen wie Dir den Bauch aufschlitzen muß ...! XXX
+// Hüter4 (wütend) perso44
+L08D107A
+ Der Prediger hatte recht, das Übel hat Dich wahnsinnig gemacht.  XXX
+// Hüter4 (wütend)  perso44
+L08D107B
+ Du bist kein Hüter des Feuers mehr! XXX
+// Arkhan2 O  perso1
+L08D108
+ Geh mir aus dem Weg, elender Wurm! XXX
+// Hüter4 (wird A. schlagen) perso44
+L08D109
+ Du läßt mir keine andere Wahl! XXX
+// Arkhan1 L perso1
+L08D58
+ Hast Du von dem Herumgelaufe keinen Durst? XXX
+// Hüter4 perso44
+L08D59
+ Nein danke, nicht im Dienst. XXX
+// Arkhan1 L perso1
+L08D60
+ Stell Dich nicht so an, es kommt von Herzen. XXX
+// Hüter4 perso44
+L08D61A
+ Nein, wirklich nicht.  XXX
+// Hüter4 perso44
+L08D61B
+ Aber heute abend, nachdem die Feuer der Stadt gelöscht sind, da sag' ich nicht nein ... XXX
+// Arkhan1 O  perso1
+L08D62
+ Hier, nimm doch mal 'nen kräftigen Schluck aus der Flasche! XXX
+// Arkhan1 O  perso1
+L08D63
+ Verdammt noch mal, Du bist ja enthaltsamer als ein Prediger! Nun trink schon! XXX
+// Hüter4 (genervt) perso44
+L08D64
+ Ich hab' Dir doch gesagt, daß ich keinen Durst habe!  XXX
+// Arkhan1 G perso1
+L08D65
+ Sagt Dir das hier was? XXX
+// Hüter4 perso44
+L08D66
+ Nein. Ich hab' keine Zeit zu verlieren. XXX
+// Hüter4 perso44
+L08D228
+ Was? Nein ... das interessiert mich nicht. XXX
+// Hüter4 (von A. geschlagen) perso44
+L08D69
+ Arkhan! Immer mit der Ruhe! XXX
+// Hüter4 (von A. geschlagen) perso44
+L08D231
+ Es ist also wahr, Du hast nichts Menschliches mehr an Dir! XXX
+// Hüter5 (sieht Arkhan2 zum 1. Mal) perso45
+L08D117A
+ Beim Rahal ... Arkhan? XXX
+// Hüter5 (ängstlich) perso45
+L08D117B
+ Ko... Komm nicht näher! XXX
+// Hüter5 perso45
+L08D116
+ Reg Dich nicht auf, ich hab' doch nichts getan! XXX
+// Arkhan2 L  perso2
+L08D244A
+ Nur keine Panik.  XXX
+// Arkhan2 L perso2
+L08D244B
+ Ich bin nicht gekommen, um mich mit Dir zu schlagen. XXX
+// Hüter5 perso45
+L08D245A
+ Schon gut ... schon gut. XXX
+// Hüter5 perso45
+L08D245B
+ Du solltest aber lieber gehen ... XXX
+// Hüter5  perso45
+L08D245C
+ Du bist hier nicht mehr willkommen. XXX
+// Arkhan2 L  perso2
+L08D246A
+ Hör mir gut zu, mein Vater Rylsadhar kennt ein Mittel gegen dieses Übel. XXX
+// Arkhan2 L perso2
+L08D246B
+ Glaub mir doch, ich will geheilt werden! XXX
+// Hüter5 (mit offener Feindseligkeit) perso45
+L08D247A
+ Nicht alle Heiler denken wie Dein Vater! XXX
+// Hüter5 perso45
+L08D247B
+ Vielleicht gibt es auch kein Gegenmittel! XXX
+// Hüter5 perso45
+L08D247C
+ Du solltest lieber ins Exil gehen, ins Reich der Finsternis, bevor jemand mit Dir abrechnet! XXX
+// Hüter5  perso45
+L08D247D
+ Denk dran, bevor es zu spät ist ... XXX
+// Arkhan2 L perso2
+L08D248A
+ Ich seh' schon, Du mißtraust mir. XXX
+// Arkhan2 L perso2
+L08D248B
+ Wenn ich wieder ich selbst geworden bin, sprechen wir uns wieder. XXX
+// Arkhan2 L  perso2
+L08D249
+ Dann beweis ich Dir, daß Du Dich irrst, mein Freund. Du wirst es sehen, sehr bald sogar. XXX
+// Hüter5 (feindlich)  perso45
+L08D250
+ Ich laß' Dich nicht aus den Augen, Arkhan! XXX
+// Hüter5 (drohend)  perso45
+L08D258
+ Das werden wir ja sehen ... Wir werden sehen ... XXX
+// Arkhan2 O  perso2
+L08D251A
+ Hey, Speckbauch, ja, ich bin's! XXX
+// Arkhan2 O perso2
+L08D251B
+ Hör auf, mich so blöd anzustarren! XXX
+// Hüter5 perso45
+L08D252A
+ Du ... Du solltest lieber gehen. XXX
+// Hüter5 perso45
+L08D252B
+ Der Profos würde es nie zulassen, daß sowas wie Du hier herumschleicht. XXX
+// Arkhan2 O perso2
+L08D253A
+ Glaub das ja nicht! XXX
+// Arkhan2 O perso2
+L08D253B
+ Der Profos hat mir eine Mission anvertraut! XXX
+// Arkhan2 O  perso2
+L08D253C
+ Bell also jemand anders an, elender Wurm! XXX
+// Arkhan2 O  perso2
+L08D254A
+ Warum meinst Du, seh' ich so aus? Weil ich meine Haut riskiert hab', um die Große Predigerin zu verteidigen! XXX
+// Arkhan2 O perso2
+L08D254B
+ Wo warst Du eigentlich während der Zeit, hä? XXX
+// Hüter5 perso45
+L08D255A
+ Die Große Predigerin? ... Ja, die hat hier jetzt nichts mehr zu melden. XXX
+// Hüter5 perso45
+L08D255B
+ Dhorkan ist von nun an der einzige Herr des Stalliten. XXX
+// Hüter5  perso45
+L08D255C
+ Das solltest Du Dir klar machen! XXX
+// Arkhan2 O (riecht einen angeblichen Gestank)  perso2
+L08D256A
+ Wonach stinkt es denn hier? XXX
+// Arkhan2 O perso2
+L08D256B
+ Du scheißt Dir doch vor Angst in die Hosen, Dreckskerl! XXX
+// Hüter5 (wütend) perso45
+L08D257A
+ Wie ... Was! XXX
+// Hüter5 (wütend)  perso45
+L08D257B
+ Ich hau' Dir Deine stinkige Fresse ein! XXX
+// Hüter5 (verängstigt und wütend) perso45
+L08D260A
+ Du Kreatur der Finsternis! XXX
+// Hüter5 perso45
+L08D260B
+ Es ist alles Deine Schuld, da bin ich sicher! XXX
+// Hüter5  perso45
+L08D260C
+ Du hast den Zorn des Großen Solaar über uns gebracht! XXX
+// Arkhan2 L (mit sanfter Stimme) perso1
+L08D261A
+ Hör mir zu ... Ganz ruhig ... XXX
+// Arkhan2 L perso1
+L08D261B
+ Ich bin gekommen, um eine Lösung zu finden ... XXX
+// Hüter5 perso45
+L08D262A
+ Lügner ! Ungläubiger! XXX
+// Hüter5 perso45
+L08D262B
+ Du wirst sterben! XXX
+// Arkhan2 O perso2
+L08D263A
+ Du bist ja immer noch da! XXX
+// Arkhan2 O perso2
+L08D263B
+ Ich dachte, ihr würdet Euch alle eine Ecke suchen, um Euch zu verstecken! XXX
+// Hüter5 perso45
+L08D264
+ Nein! Ich bin kein Feigling! XXX
+// Arkhan2 O (drohend) perso2
+L08D265A
+ Hör gut zu, Waschlappen! Dhorkan ist ab durch die Mitte. Keiner weiß mehr, was los ist. XXX
+// Arkhan2 O perso2
+L08D265B
+ Der einzige Mensch, der den Stalliten noch retten kann, steht vor Dir! XXX
+// Arkhan2 O perso2
+L08D265C
+ Laß mich in Ruhe, oder ich schlag' Dir das Hirn zu Brei! XXX
+// Arkhan2 O perso2
+L08D265D
+ Verstanden? XXX
+// Hüter5 (ängstlich) perso45
+L08D266
+ Ich... Ähm... Verstanden. XXX
+// Arkhan2 O perso2
+L08D267A
+ Du wirst jetzt hier an Deinem Posten bleiben, egal was passiert! XXX
+// Arkhan2 O perso2
+L08D267B
+ Wenn Du nicht hier bist, wenn ich zurückkomm', such' ich Dich und bring' Dich um! XXX
+// Hüter5 (schluckt) perso45
+L08D268
+ Verstanden. XXX
+// Hüter5 (schluckt) perso45
+L08D269
+ ... Ja. XXX
+// Hüter5 perso45
+L08D119
+ Nein. Mit Dir will ich nichts zu tun haben! XXX
+// Hüter5 (von A. geschlagen) perso45
+L08D123
+ Schau dem Tod ins Auge! XXX
+// Hüter6 (unsicher, denn Arkhan ist gefechtsbereit) perso46
+L08D114A
+ Arkhan..? Bist... bist Du es? XXX
+// Hüter6 perso46
+L08D114B
+ Hör mir gut zu ...Du ... Immer mit der Ruhe, ok? XXX
+// Hüter6 perso46
+L08D125
+ Arkhan?! Bist Du's?! XXX
+// Hüter6 perso46
+L08D271
+ Eine Kreatur! Dernak, hierher! XXX
+// Hüter6 (gegenüber A. in Kampfstellung) perso46
+L08D115
+ Hey! Immer langsam! XXX
+// Hüter6 (A. steckt den Degen wieder in die Scheide) perso46
+L08D272
+ So ist gut, laß uns vernünftig sein. XXX
+// Arkhan2 L perso2
+L08D273A
+ Ich weiß, daß man Euch vor mir gewarnt hat. XXX
+// Arkhan2 L perso2
+L08D273B
+ Aber glaub mir, alles was ich will, ist wieder ich selbst werden. XXX
+// Hüter6 perso46
+L08D274A
+ Also gut ... Wenn Du hier durch willst, ich halt' Dich nicht auf. XXX
+// Hüter6 perso46
+L08D274B
+ Aber verhalt Dich ruhig. Einige von uns warten nur auf eine Gelegenheit, um Dir den Garaus zu machen. XXX
+// Arkhan2 L perso2
+L08D275
+ Was ich suche, ist ein Gegenmittel, mit dem ich wieder gesund werden kann. XXX
+// Hüter6 perso46
+L08D276
+ Nun ja ... Aber wenn die Heiler nichts unternommen haben ... wer hat die Macht, Dich zu heilen? XXX
+// Arkhan2 L perso2
+L08D277
+ Ich werd's herausfinden, Du wirst schon sehen! XXX
+// Arkhan2 L perso2
+L08D278
+ Ich werd' meinen Weg fortsetzen, klar? XXX
+// Hüter6 perso46
+L08D279
+ Ja. Und vergiß nicht: Wir sind nicht weit. XXX
+// Hüter6 perso46
+L08D280
+ Geh nur. Aber verhalt Dich ruhig. XXX
+// Arkhan2 O perso2
+L08D281A
+ Mit Dir ist wohl nicht zu spaßen, oder? XXX
+// Arkhan2 O perso2
+L08D281B
+ Du willst mir also Probleme schaffen? XXX
+// Hüter6 perso46
+L08D282A
+ Ich hab' keine Absicht, mich mit Dir zu schlagen, Arkhan. XXX
+// Hüter6 perso46
+L08D282B
+ Aber wenn Du uns provozierst, bin ich gezwungen, mein Schwert zu ziehen. XXX
+// Arkhan2 O perso2
+L08D283
+ Reiz mich nicht, Hüter des Feuers, oder Du wirst es bereuen! XXX
+// Hüter6 perso46
+L08D284
+ Arkhan, wenn Du noch Hüter des Feuers wärst, würdest Du verstehen, daß ich nur meine Pflicht tu'! XXX
+// Arkhan2 O perso2
+L08D285
+ Geh mir aus dem Weg, Waschlappen! XXX
+// Hüter6 perso46
+L08D286
+ Was zuviel ist, ist zuviel! XXX
+// Arkhan2 L  perso2
+L08D287A
+ Laß Dich nicht von der Angst vor der Finsternis besiegen. XXX
+// Arkhan2 L perso2
+L08D287B
+ Wir können uns noch retten. XXX
+// Hüter6 perso46
+L08D288
+ Du sagst das, als wüßtest Du, was passiert ist! XXX
+// Arkhan2 L  perso2
+L08D289
+ Versuch, mir zu vertrauen! XXX
+// Arkhan2 L  perso2
+L08D290A
+ Schuld an allem ist ein Prediger, Thanandar. XXX
+// Arkhan2 L perso2
+L08D290B
+ Er war auch kontaminiert, genau wie ich. XXX
+// Arkhan2 L perso2
+L08D290C
+ Das Gift hat seinen Geist mit sich genommen. Aber ich werde bis zum bitteren Ende kämpfen! XXX
+// Hüter6 perso46
+L08D291
+ Wir müssen ihn aufhalten! Wo versteckt er sich? XXX
+// Arkhan2 L perso2
+L08D292A
+ Ich weiß es nicht. Aber nehmt Euch in Acht, er hat nichts Menschliches mehr an sich. XXX
+// Arkhan2 L perso2
+L08D292B
+ Ich dachte bereits, ich hätte ihn getötet, und er hat es überlebt. XXX
+// Arkhan2 L  perso2
+L08D292C
+ Warne die anderen Hüter des Feuers vor ihm: Wenn ihr ihn nicht tötet, bringt er Euch um! XXX
+// Arkhan2 L  perso2
+L08D293
+ Sei vorsichtig, verstanden? XXX
+// Hüter6  perso46
+L08D294
+ Ja. Mach Dir keine Sorgen. XXX
+// Arkhan2 O  perso2
+L08D295
+ So, jetzt tappt auch ihr im Dunklen, oder? XXX
+// Hüter6 perso46
+L08D296A
+ Du solltest lieber Deine Klappe halten, Arkhan! XXX
+// Hüter6  perso46
+L08D296B
+ Womöglich bist Du an allem Schuld! XXX
+// Arkhan2 O  perso2
+L08D297A
+ Ich werd' Dir sagen, was passiert ist! XXX
+// Arkhan2 O perso2
+L08D297B
+ Thanandar, der Prediger, ist an allem schuld. XXX
+// Arkhan2 O perso2
+L08D297C
+ Auch er war kontaminiert, doch ihr habt nichts bemerkt! XXX
+// Arkhan2 O perso2
+L08D297D
+ Wart zu beschäftigt damit, mir das Fell über die Ohren zu ziehen! XXX
+// Hüter6 perso46
+L08D298
+ Wo ist dieser Prediger? XXX
+// Arkhan2 O perso2
+L08D299A
+ Wenn ich's doch wüßte! XXX
+// Arkhan2 O perso2
+L08D299B
+ Aber wenn er Euch findet, kämpft um Euer Leben. XXX
+// Arkhan2 O perso2
+L08D299C
+ Er hat nichts Menschliches mehr an sich, er tötet aus reinem Vergnügen. XXX
+// Arkhan2 O  perso2
+L08D299D
+ Und ihr könnt mir aufs Wort glauben, man ist nie sicher, daß er wirklich tot ist! XXX
+// Arkhan2 O  perso2
+L08D300
+ Du bleibst hier und hältst die Augen offen, verstanden? XXX
+// Arkhan2 O  perso2
+L08D301
+ Paß gut auf, verstanden? XXX
+// Hüter6  perso46
+L08D302
+ Verstanden. XXX
+// Hüter6 perso46
+L08D138
+ Vergiß es. XXX
+// Arkhan2 G perso2
+L10D02A
+ Warte hier. Ich bin gleich zurück. XXX
+// Arkhan3 G perso3
+L10D02B
+ Ich bin gleich zurück. XXX
+// Arkhan1 G perso1
+L08D306
+ Stohll, Pilzschnaps. XXX
+// Arkhan2 G perso2
+L08D307
+ Das ist Stohll. XXX
+// Arkhan3 G perso3
+L08D308
+ Stohll. XXX
+// Arkhan1 G perso1
+L08D70
+ Die Flasche ist schon voll... XXX
+// Arkhan2 G perso2
+L08D71
+ Nein, die Flasche ist schon voll. XXX
+// Arkhan3 G perso3
+L08D72
+ Die Flasche ist voll! XXX
+// Arkhan1 G perso1
+L02D299
+ Nichts als alte Fässer... XXX
+// Arkhan2 G perso2
+L02D302
+ Nur ein Haufen alte Fässer... XXX
+// Arkhan3 G perso3
+L02D303
+ Ein Haufen alte Fässer... XXX
+//Arkhan1 L perso1
+L08D77
+ Proviantbüchsen, da ist nichts drin. XXX
+//Arkhan2 L perso1
+L08D78
+ In den Büchsen ist nichts drin. XXX
+//Arkhan3 L perso1
+L08D79
+ Leere Büchsen.  XXX
+// Arkhan1 G perso1
+L08D83A
+ Ein von den Erbauern erfundener Tretflieger. XXX
+// Arkhan1 G perso1
+L08D83B
+ Die Maschine fliegt nur, wenn wirklich viel Wind ist! XXX
+// Arkhan2 G perso1
+L08D84
+ Ein Tretflieger wird mich der Lösung nicht näherbringen. XXX
+//Arkhan3 L perso1
+L08D85
+ Diese Maschine da wird mir kaum helfen  ... XXX
+// Arkhan1 G perso1
+L08D86A
+ Das ist ein Segelpanzer. XXX
+// Arkhan1 G perso1
+L08D86B
+ Ausrüstung für Leute, die sich nach draußen in das Reich der Finsternis hinauswagen. XXX
+// Arkhan2 G perso1
+L08D88
+ Ein Segelpanzer für Reisen in das Reich der Finsternis. XXX
+// Arkhan3 G perso1
+L08D90A
+ Ein Segelpanzer. XXX
+// Arkhan3 G perso1
+L08D90B
+ Nützt mir auch nichts... XXX
+// Arkhan1 G perso1
+L08D328
+ Die Feuerfontäne.  XXX
+// Arkhan1 L perso1
+L08D329
+ Die Erbauer haben sie gebaut, als ich noch nicht geboren war. XXX
+// Arkhan1 O (imitiert Dhorkan, spöttisch)perso1
+L08D330
+ "Der Stolz der Hüter des Feuers". XXX
+// Arkhan2 G perso2
+L08D331A
+ Die Feuerfontäne.  XXX
+// Arkhan2 G perso2
+L08D331B
+ Ich spür' ihre Hitze bis hierher. XXX
+// Arkhan3 G perso3
+L08D332A
+ Die Feuerfontäne. XXX
+// Arkhan3 G perso3
+L08D332B
+ Diese Hitze ... kaum auszuhalten ... XXX
+// Arkhan2 G perso2
+L08D500
+ Gehen wir, ganz langsam. XXX
+// Arkhan3 G perso3
+L08D501
+ Gehen wir jetzt. XXX
+// Delia (unsicher, leise sprechend) perso10
+L08D502
+ Geh Du als erster ... XXX
+// Arkhan2 G perso2
+L08D503
+ Hast Du das schon mal gesehen? XXX
+// Arkhan3 G perso3
+L08D504
+ Kennst Du das? XXX
+// Delia (leise sprechend) perso10
+L08D505
+ Nein! Arkhan, bitte ... XXX
+// Delia (wird von Arkhan geschlagen, flehend) perso10
+L08D506
+ Arkhan, nein! XXX
+// Kalhi perso13
+L08D339
+ Hey, Achtung! XXX
+// Kalhi perso13
+L08D233
+ Arkhan, nein! XXX
+// Kalhi perso13
+L08D234
+ So ist es gut, immer mit der Ruhe. XXX
+// Arkhan2 L perso2
+L08D175
+ Wir müssen hier raus, ohne daß man uns bemerkt. XXX
+// Arkhan3 L perso3
+L08D176
+ Versuchen wir, nach draußen zu kommen, ohne erwischt zu werden. XXX
+// Kalhi perso13
+L08D177
+ Da ist ein Hüter des Feuers, es wird nicht einfach sein. XXX
+// Arkhan2 O perso2
+L08D178
+ Los jetzt, überlegen können wir hinterher! XXX
+// Arkhan3 O perso3
+L08D179
+ Los jetzt, ohne zu überlegen! XXX
+// Kalhi perso13
+L08D180
+ Versuchen wir wenigstens, den Hüter des Feuers zu umgehen! XXX
+// Arkhan2 G (spricht leise) perso2
+L08D203
+ Wenn uns der Hüter des Feuers aufhält, sei bereit zu kämpfen! XXX
+// Arkhan3 G (spricht leise) perso3
+L08D204
+ Wenn der Hüter des Feuers auch nur eine Bewegung macht, nehme ich ihn mir vor! XXX
+// Kalhi (flüstert) perso33
+L08D205
+ Einverstanden. Aber ich möchte jedes Blutvergießen vermeiden. XXX
+// Arkhan2 G perso2
+L04D66
+ Du folgst mir, verstanden? XXX
+// Arkhan3 G perso3
+L04D67
+ Folg mir! XXX
+// Kalhi perso13
+L04D68
+ Alles klar. XXX
+// Arkhan2 G perso2
+L02D114A
+ Schau mal, das hab' ich bei Bogdaran gefunden. XXX
+// Arkhan2 G perso2
+L02D114B
+ Eine alte Uniform aus der Zeit, als er noch schlank war! XXX
+// Arkhan3 G perso3
+L02D115
+ Hier, zieh das mal an! XXX
+// Kalhi perso13
+L02D116
+ Hoffentlich paßt mir das. XXX
+// Kalhi perso33
+L08D213
+ So, fertig! Die ideale Verkleidung.  XXX
+// Kalhi (ergreift die Initiative) perso13
+L08D214
+ Komm jetzt, folg mir! XXX
+// Kalhi (will die Uniform nicht anziehen ...) perso13
+L08D219
+ Gib mir die Sachen, wenn wir unten sind! XXX
+// Kalhi (will die Uniform nicht anziehen ...) perso13
+L08D212
+ Wir sind zu nahe am Hüter des Feuers, er würde uns sehen! XXX
+// Arkhan2 G perso2
+L08D336
+ Schau Dir das an! XXX
+// Arkhan3 G perso3
+L08D337
+ Schau! XXX
+// Kalhi perso13
+L08D338
+ Wir haben keine Zeit, Arkhan, wir müssen hier raus! XXX
+// Arkhan2 G perso2
+L08D333
+ Wenn's schief geht, bist Du Schuld! XXX
+// Arkhan3 G perso3
+L08D334
+ Es ist alles Deine Schuld! XXX
+// Kalhi (muß sich wehren) perso33
+L04D43
+ Arkhan, nein! XXX
+// Hüter10 perso50
+L08D327
+ Hey, Kreatur! Such Dir lieber einen Gegner in Deiner Größenordnung! XXX
+// Kalhi perso13
+L08D341
+ Du läßt mir keine andere Wahl! XXX
+// Kalhi perso13
+L08D340
+ Nein, hör auf! XXX
+// Arkhan2 G (spricht leise, spöttisch) perso2
+L08D200A
+ Die Illusion ist perfekt. Man könnte Dich für Phedoria halten. XXX
+// Arkhan2 G (spricht leise) perso2
+L08D200B
+ Komm, laß uns gehen. XXX
+// Arkhan3 G (spricht leise) perso3
+L08D201
+ Eine echte Kriegerin. Gehen wir! XXX
+// Kalhi (flüstert) perso33
+L08D202A
+ Mach Dich nur über mich lustig! XXX
+// Kalhi (flüstert) perso33
+L08D202B
+ Komm jetzt, folg mir und tu so, als seist Du mein Gefangener. XXX
+// Kalhi (flüstert) perso33
+L08D202C
+ Pack Deine Waffe weg! XXX
+// Kalhi (flüstert) perso33
+L08D202D
+ Und drück die Daumen, daß es klappt. XXX
+// Kalhi (flüstert) perso33
+L08D202E
+ Los jetzt! XXX
+// Hüter10 perso50
+L08D326
+ Ich komme, Hüterin des Feuers! XXX
+// Arkhan2 L perso2
+L08D313
+ Immer mit der Ruhe, Alter, ich bin's, Arkhan. XXX
+// Arkhan2 O perso2
+L08D314
+ Schau mir in die Augen und verabschiede Dich vom Licht der Welt! XXX
+// Arkhan3 L perso3
+L08D315
+ Ruhig. Ich bin's, Arkhan. XXX

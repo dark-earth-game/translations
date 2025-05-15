@@ -1,0 +1,106 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL22.TXT
+ // Arkhan2 L perso2
+L22D22
+ Wyglada na to, ze schodzi prosto do trzewi ziemi. XXX
+// Arkhan2 0 perso2
+L22D23
+ Moge skoczyc... najprostszy sposob by to wszystko skonczyc! XXX
+// Arkhan3 L perso3
+L22D24
+ Prowadzi chyba prosto do trzewi ziemi. XXX
+// Arkhan3 0 perso3
+L22D25
+ Zawsze moge skoczyc... Jednak to pewna smierc... XXX
+// Phedoria perso26
+L22D01
+ Musimy ostrzec Wielka Patrzaca! XXX
+// Arkhan2 L (by Rylsadhar's corpse) perso2
+L22D12A
+ Ojcze! XXX
+// Arkhan2 L (by Rylsadhar's corpse) perso2
+L22D12B
+ Przysiegam cie pomscic! Thanandar zginie! Zaplaci za to! XXX
+// Arkhan2 O perso2
+L22D13A
+ Thanandar! Zabiles mojego ojca! XXX
+// Arkhan2 O perso2
+L22D13B
+ Zaplacisz za to! XXX
+// Arkhan3 L perso3
+L22D14
+ Ojcze! Zemsty! XXX
+// Arkhan3 O (grunting to himself)perso3
+L22D15
+ Ojcze! ... RAAAH! Zemsty! XXX
+// Arkhan2 L (by Zed's corpse) perso2
+L22D18A
+ Zed, moj przyjacielu! XXX
+// Arkhan2 L perso2
+L22D18B
+ Przysiegam cie pomscic! Thanandar odpowie za swe zbrodnie! XXX
+// Arkhan2 O (vengeful) perso2
+L22D19A
+ Thanandar! Zabiles Zeda! Moj bracie! XXX
+// Arkhan2 O perso2
+L22D19B
+ Jestes trupem! XXX
+// Arkhan3 L perso3
+L22D20
+ Zed! Moj bracie! RAAH! Krwi! XXX
+// Arkhan3 O (vengeful, screaming)perso3
+L22D21
+ Thanandar! Gil psie! XXX
+// Arkhan2 L perso2
+L22D06A
+ Na wielkiego Rahal, energia, o ktorej mowil moj ojciec! XXX
+// Arkhan2 L perso2
+L22D06B
+ Nareszcie, lek! XXX
+// Arkhan2 L perso2
+L22D06C
+ Ahhh... Plone!... wewnatrz... Ah! XXX
+// Arkhan2 L perso2
+L22D07A
+ Nie! Nie moge zniesc bolu! XXX
+// Arkhan2 L perso2
+L22D07B
+ To nie do zniesienia, umieram! XXX
+// Arkhan2 O perso2
+L22D08A
+ Nareszcie! Energia, o ktorej mowil moj ojciec! XXX
+// Arkhan2 O perso2
+L22D08B
+ Jestem uleczony! XXX
+// Arkhan2 O perso2
+L22D16
+ Potrzebuje wiecej. XXX
+// Arkhan3 L perso3
+L22D09A
+ Zrodlo, energia! XXX
+// Arkhan3 L perso3
+L22D09B
+ Jestem uleczony! XXX
+// Arkhan3 L perso2
+L22D09C
+ Aaah! Ja... plone... Aah! XXX
+// Arkhan3 L perso3
+L22D10
+ Nie, Nie! To mnie zabija! XXX
+// Arkhan3 O perso3
+L22D11
+ Na ogien, energia... lek! XXX
+// Arkhan3 O perso3
+L22D17
+ Znowu! XXX
+// Arkhan2 L perso2
+L22D02
+ Swiatlo przepadlo! Energia... zawodzi. XXX
+// Arkhan2 O perso2
+L22D03
+ NIE... Swiatlo zniklo! XXX
+// Arkhan3 L perso3
+L22D04
+ Swiatlo... energia... przepadly! XXX
+// Arkhan3 O (enraged)perso3
+L22D05
+Nie....Nigdy wiecej! XXX

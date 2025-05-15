@@ -1,0 +1,424 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL04.TXT
+ // Prisoner4 perso1
+L04D200
+ Hej ty! Otworz! XXX
+// Prisoner2 perso1
+L04D201
+ Rozwal kraty, polam je! XXX
+// Prisoner4 perso1
+L04D202
+ Hej ty tam! Wypusc mnie! XXX
+// Prisoner3 perso1
+L04D203
+ Zamknij sie idioto! Ten czlowiek to morderca, pozre cie zywcem! XXX
+// Prisoner3 perso1
+L04D212
+ Sh!  XXX
+// Arkhan2 G (annoyed, has just shot his adversary) perso3
+L04D61
+ Cos mowiles? XXX
+// Arkhan3 G (annoyed, has just shot his adversary) perso3
+L04D62
+Prosze, chcesz poprawke? XXX
+// Arkhan2 G (surprised to find Kalhi in prison) perso2
+L04D01
+ Kalhi! XXX
+// Arkhan3 G (surprised to find Kalhi in prison) perso3
+L04D02
+ Kalhi! XXX
+// Kalhi (surprised) perso13
+L04D03A
+ Arkhan! To naprawde ty! XXX
+// Kalhi (happy) perso13
+L04D03B
+ Ukochany, Myslalam, ze nigdy cie juz nie zobacze! XXX
+// Kalhi (has just put on her clothes) perso33
+L04D04
+ Niezle pasuja! XXX
+// Kalhi (determined) perso33
+L04D05
+ W porzadku! Ruszajmy! XXX
+// Kalhi (stunned, confused) perso13 
+L04D06A
+ Arkhan! Ty... Wrociles po mnie... XXX
+// Kalhi (stunned, confused) perso13
+L04D06B
+ Co w ciebie wstapilo? XXX
+// Kalhi (almost in tears) perso13
+L04D06C
+ To ta okropna trucizna, ona odbiera ci rozum! XXX
+// Kalhi (upset) perso13
+L04D07
+ Arkhan! Musimy ruszac! XXX
+// Kalhi (impatient) perso13
+L04D08
+ Na co jeszcze czekasz? XXX
+// Kalhi (surprised that Arkhan doesn't react) perso13
+L04D09
+ Nie stoj tak! XXX
+// Prisoner2 perso1
+L04D204
+ Wypusc mnie stad! XXX
+// Guardian2 (weary) perso42
+L04D10A
+ Ty tam, daj juz spokoj! XXX
+// Guardian2 perso42
+L04D10B
+ Jeszcze jedno slowko i dokonczysz swoja klotnie w Mrocznych Ziemiach!  XXX
+// Guardian2 (proud of having chased Arkhan away) perso42
+L04D11A
+ Widziales?... nie czekal na druga rade!  XXX
+// Guardian2 (proud of having chased Arkhan away) perso42
+L04D11B
+ Przestan marudzic! XXX
+// Prisoner2 (excited) perso1
+L04D207
+ Chce ujrzec swiatlo! Wypusccie mnie! XXX
+// Guardian25 (yelling at the prisoners) perso93
+L04D15
+ Spokoj bydlaki! XXX
+// Guardian25 (yelling at the prisoners) perso93
+L04D16
+ Spokoj mi tam! XXX
+// Guardian25 (yelling at the prisoners) perso93
+L04D17
+ Zamknijcie sie! XXX
+// Guardian25 (yelling at the prisoners) perso93
+L04D18A
+ Mordy w kubel mowie! XXX
+// Guardian25 perso93
+L04D18B
+ Tu jestescie bezpieczniejsi niz w Nizszym Miescie zakute lby!  XXX
+// Guardian25 perso93
+L04D18C
+ A wiec milczec! XXX
+// Guardian2 (challenging Arkhan) perso42
+L04D12
+ Tylko sprobuj! Czekam na ciebie! XXX
+// Guardian2 (hears Arkhan arrive) perso42
+L04D13
+ Teskhan czy to ty? XXX
+// Guardian2 (facing Arkhan) perso42
+L04D14A
+ Na Boskie Slonce! XXX
+// Guardian2 (aggressive) perso42
+L04D14B
+ Nie wiem jak u diabla sie tu dostales, ale z pewnoscia stad nie wyjdziesz!  XXX
+// Guardian25 (threatening) perso93
+L04D20
+ Oh! Wrociles po wiecej? Nie... nie masz jeszcze dosc?! XXX
+// Guardian25 (seeing Arkhan) perso93
+L04D19
+ Co na imie Swiatlosci! To.... jedna z tych kreatur! XXX
+// Prisoner3 perso1
+L04D205
+ Ktos atakuje Gwardziste! XXX
+// Prisoner4 perso1
+L04D206
+ Taak! Dalej! Wykoncz go i wydostan nas stad! XXX
+// Prisoner3 perso1
+L04D208
+ No juz, popatrzmy na maly rozlew krwi! XXX
+// Prisoner4 perso1
+L04D209
+ Ktorego obstawiacie? XXX
+// Prisoner3 perso1
+L04D210A
+ Skad mam wiedziec, nawet ich nie widze! XXX
+// Prisoner3 perso1
+L04D210B
+ Chce tylko zobaczyc maly rozlew krwi! XXX
+// Arkhan2 G perso2
+L04D23
+ Kto tam? XXX
+// Arkhan3 G perso3
+L04D24
+ Jest tam kto? XXX
+// Konkalite (aggressive) perso76
+L04D60A
+ Wlasnie skonczylem z twoim przyjacielem Zedem. XXX
+// Konkalite (aggressive) perso76
+L04D60B
+ Teraz kolej na ciebie! XXX
+// Prisoner2 perso1
+L04D211A
+ To znowu on! XXX
+// Prisoner1 (in a panic) perso1
+L04D213A
+ Zabil jednego z wiezniow! Widzialem jak to zrobil! XXX
+// Prisoner1 (in a panic) perso1
+L04D213B
+ Pozabija nas wszystkich! XXX
+// Prisoner2 (freaked out) perso1
+L04D214
+ Ratunku! Gwardzista, Gwardzista! XXX
+// Prisoner3 perso1
+L04D215
+ Zamknij sie! Zwrocisz jego uwage! XXX
+// Prisoner2 perso1
+L04D216
+ Prosze oszczedz mnie!  Nie chce umierac, nic nie zrobilem! XXX
+// Prisoner4 perso1
+L04D217
+ Ja tez! Jestem niewinny! XXX
+// Prisoner3 perso1
+L04D218
+ Zamknijcie sie! Ja sie go nie boje! XXX
+// Prisoner4 perso1
+L04D219
+ To jakis brudny potwor, ktory pozre nas wszystkich zywcem! XXX
+// Prisoner2 perso1
+L04D220
+ Nie chce umierac! Nie zabijaj mnie!! XXX
+// Prisoner3 perso1
+L04D221
+ Zamknij sie albo sam cie zabije! XXX
+// Kalhi (afraid) perso33
+L04D41
+ Arkhan! Co w ciebie wstapilo? XXX
+// Arkhan2 G perso2
+L04D25
+ Okej. A teraz ruszajmy stad! XXX
+// Arkhan3 G perso3
+L04D26
+ Teraz musimy stad isc.  XXX
+// Kalhi perso33
+L04D27A
+ Tak, ale Gwardzisci Ognia szukaja ciebie. XXX
+// Kalhi perso33
+L04D27B
+ Nie bedzie latwo ich ominac.  XXX
+// Arkhan2 G (amused by Kalhi in uniform) perso2
+L04D28A
+ Ty w uniformie! Co za widok! XXX
+// Arkhan2 G (amused by Kalhi in uniform) perso2
+L04D28B
+ Jesli Phedorii sie to nie spodoba, bedzie wiedziala co z tym zrobic! XXX
+// Arkhan3 G (amused by Kalhi in uniform) perso3
+L04D29
+ Prawdziwy.. gwardzista! XXX
+// Kalhi perso33
+L04D30
+ Przestan sie ze mnie natrzasac! Ruszajmy! XXX
+// Arkhan2 G perso2
+L04D31
+ Pojdziemy az do Holu. Potem zobaczymy czy uda sie nam zejsc w dol. XXX
+// Arkhan3 G perso3
+L04D32
+ Za mna. Idziemy do glownego Holu. XXX
+// Kalhi (ironical) perso33
+L04D33
+ Co tylko rozkazesz szefie! XXX
+// Arkhan2 G perso2
+L04D34
+ Widzisz ten przedmiot? XXX
+// Arkhan3 G perso3
+L04D35
+ Widzisz to? XXX
+// Kalhi perso33
+L04D36
+ Uh-huh. Chodzmy... XXX
+// Arkhan2 O perso2
+L04D37
+ Walczysz jak dziecko! XXX
+// Arkhan2 L perso2
+L04D38
+ Hej, potrafisz walczyc, nieprawdaz?! XXX
+// Arkhan3 O perso3
+L04D39
+ Whooa.....Ty to nazywasz walka?! XXX
+// Arkhan3 L perso3
+L04D40
+ Hej, wiesz jak sie walczy, prawda?! XXX
+// Kalhi (forced to defend herself) perso33
+L04D43
+ Arkhan nie! XXX
+// Kalhi (frightened) perso33
+L04D42
+ Nie Arkhan! Musisz sie opanowac! XXX
+// Guardian2 (triumphant) perso42
+L04D21
+ Ty smieciu! Uciekasz? XXX
+// Guardian25 (chases Arkhan off) perso93
+L04D22
+ Aww, trafila kosa na kamien potworze! XXX
+// Arkhan2 G perso2
+L04D44
+ To niewlasciwy klucz! XXX
+// Arkhan3 G perso3
+L04D45
+ Zly klucz! XXX
+// Kalhi (hears Arkhan on other side of door) perso13
+L04D46
+ Pomoz mi! Wypusc mnie! XXX
+// Konkalite6 perso76
+L04D47A
+ Otwieraj czlowieku! Mam cos dla ciebie... XXX
+// Konkalite6 perso76
+L04D47C
+ ten przeklety Gwardzista Ognia ma klucz. XXX
+// Arkhan2 G perso2
+L04D51A
+ Ale co robilas w wiezieniu? XXX
+// Arkhan3 G perso3
+L04D52A
+ Kto wyslal cie do wiezienia? XXX
+// Kalhi perso13
+L04D53A
+ Gwardzisci Ognia, schwytali mnie w komnacie Rylsadhara.  XXX
+// Arkhan2 G perso2
+L04D51B
+ I pozwolili ci zatrzymac noz? XXX
+// Arkhan2 G perso2
+L04D51C
+ Wspanialych mamy gwardzistow! XXX
+// Arkhan3 G perso3
+L04D52B
+Ale nie zabrali twojego noza?! Dobra robota! XXX
+// Kalhi perso13
+L04D53B
+ Powiedzieli, ze Rylsadhar znikl, a potem, ze podejrzewaja jakobym miala cos z tym wspolnego. XXX
+// Kalhi perso13
+L04D53C
+ Probowalam wyjasnic, ale zamkneli mnie nie wysluchawszy wczesniej. XXX
+// Arkhan2 L perso2
+L04D54
+ Co to wszystko znaczy? XXX
+// Arkhan3 L perso3
+L04D55
+ Co to wszystko znaczy?  XXX
+// Kalhi perso13
+L04D56A
+ Nie mam zielonego pojecia...  XXX
+// Kalhi perso13
+L04D56B
+ Boje sie, ze cos zlego przytrafilo sie Rylsadharowi! XXX
+// Arkhan2 O (aggressive) perso2
+L04D57
+ Jak udalo im sie ciebie zlapac? XXX
+// Arkhan3 O (aggressive) perso3
+L04D58
+ To glupie dac sie zlapac! XXX
+// Kalhi (irritated) perso13
+L04D59
+ A co miala m zrobic? Stanac do walki i dac sie zabic? XXX
+// Arkhan2 G perso2
+L04D63A
+ Coz, z moja twarza trudno bedzie wtopic sie w tlum. XXX
+// Arkhan2 G perso2
+L04D63B
+ A twoje ubrania Lupiezcy... one tez rzucaja sie w oczy. XXX
+// Arkhan3 G perso3
+L04D64A
+ Kreatura z Mrocznych Ziem i Lupiezca... XXX
+// Arkhan3 G perso3
+L04D64B
+Tylko troszke rzucamy sie w oczy! XXX
+// Kalhi perso13
+L04D65
+ Po tym jak rozprawiles sie z tym straznikiem, watpie by udalo nam sie wykorzystac jego uniform...   XXX
+// Arkhan2 G perso2
+L04D66
+ Trzymaj sie mnie, zrozumiano? XXX
+// Arkhan3 G perso3
+L04D67
+ Chodz za mna! XXX
+// Kalhi perso13
+L04D68
+ Okej. XXX
+// Arkhan2 G perso2
+L04D69A
+ Spojrz na to! Jeden ze starych uniformow Bogdarana...  XXX
+// Arkhan2 G perso2
+L04D69B
+ Z czasow gdy byl jeszcze szczuply!  XXX
+// Arkhan3 G perso3
+L04D70
+ Przymierz to! XXX
+// Kalhi (preparing to put on a uniform) perso13
+L04D71
+ Czemu nie... XXX
+// Arkhan2 G perso2
+L04D72A
+ Kawalek krysztalowego klucza! XXX
+// Arkhan2 G perso2
+L04D72B
+ Ten dran musial ukrasc to Zedowi! XXX
+// Arkhan3 G perso3
+L04D73A
+ Kawalek klucza! XXX
+// Arkhan3 G perso3
+L04D73B
+ Ten dran musial ukrasc to Zedowi! XXX
+// Prisoner1 perso1
+L04D222
+ Hej, kto otwiera drzwi? XXX
+// Prisoner1 (frightened) perso1
+L04D223
+ Kto tam? Co sie dzieje? XXX
+// Prisoner3 perso1
+L04D224
+ To ten stwor... Zamknij drzwi! XXX
+// Prisoner1 (in a panic) perso1
+L04D225
+ Nie wpuszczajcie go! Nic nie zrobilem, nie chce umierac! XXX
+// Prisoner2 (hopeful) perso1
+L04D226A
+ Hej ty! Wypusc mnie! Polam kraty! XXX
+// Prisoner2 perso1
+L04D226B
+ Ten Gwardzista nie ma kluczy, ale ty i tak ich nie potrzebujesz, nieprawdaz!  XXX
+// Prisoner2 perso1
+L04D226C
+ Jestes wystarczajaco silny by je polamac, co?  XXX
+// Prisoner2 perso1
+L04D227
+ Hej, wynocha stad! Czy czlowiek nie moze miec odrobiny spokoju nawet w wiezieniu? XXX
+// Prisoner3 perso1
+L04D228
+ Zamknij sie, nie chce by ten facet sie wkurzyl... XXX
+// Prisoner2 perso1
+L04D229
+ Nic nam nie moze zrobic! Te kraty sa za mocne, racja? XXX
+// Arkhan2 L perso2
+L04D80
+ Hej, hej, hej, hej! Uspokoj sie! XXX
+// Arkhan2 O perso2
+L04D81
+ Odsun sie lub gin! XXX
+// Konkalite 76 (jumps at Arkhan) perso76
+L04D88
+ Rozerwe cie na strzepy, ty wstretny dziwaku! XXX
+// Arkhan2 L perso2
+L04D84
+ Nie mam zlych zamiarow! XXX
+// Arkhan3 L perso3
+L04D82
+ Nie skrzywdze cie. Nie ma zlych zamiarow! XXX
+// Arkhan2 O perso2
+L04D86
+ Ty nedzny szczurze! XXX
+// Arkhan3 O perso3
+L04D83
+ Smierdzacy szczur! XXX
+// Arkhan2 G perso2
+L04D99
+ Jego uniform podarl sie na strzepy... Jest bezuzyteczny... XXX
+// Arkhan3 G perso3
+L04D100
+ Jego uniform... w strzepach. Bezuzyteczny. XXX
+// Arkhan2 G perso2
+L04D95A
+ Twarda skala.  XXX
+// Arkhan2 G perso2
+L04D95B
+ Nie ma szansy na wykopanie tunelu... XXX
+// Arkhan3 G perso3
+L04D96
+ Skala. Zapomnij o tunelu! XXX
+// Arkhan2 G perso2
+L04D97
+ Nie ma tu nic poza stojaca woda. XXX
+// Arkhan3 G perso3
+L04D98
+ Stojaca woda.. XXX

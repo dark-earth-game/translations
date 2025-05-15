@@ -1,0 +1,697 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL05.TXT
+ // Bogdaran (surprised and happy to see Delia) perso8
+L05D01
+ +agd|! EdgZ|! Kw bd]Z! XXX
+// Delia (between tears and anger) perso10
+L05D02
+ Po_j]dua... Kw cZkgZndtx hia cZ nj, snj iZn]jldg! XXX
+// Bogdaran perso8
+L05D03
+ Fa _ohZe, snj mgZ_dtx mj hije nZf ga^fj! XXX
+// Delia (A. has killed Bogdaran) perso10
+L05D04
+ $j^_ZlZi... L[derZ! XXX
+// Bogdaran (furious) perso8
+L05D77D
+ Po_j]dua, | lZcjl]o na[| iZ fomfd! XXX
+// Bogdaran (terrified) perso8
+L05D39A
+ Fan... Fan! XXX
+// Delia perso10
+L16D122
+ N]Zndn! Kw ko^Zatx hai|! XXX
+// Arkhan1 L (coughing politely) perso1
+L05D05
+ Cqa! Cqa-fqa! XXX
+// Arkhan1 O (coughing loudly) perso1
+L05D06
+ Cqa-fqa! Cqa-fqa! XXX
+// Bogdaran (surprised by Arkhan's intrusion) perso8
+L05D11A
+ Pnj... Cnj nw nZfje? XXX
+// Bogdaran (afraid) perso8
+L05D12B
+ L[dlZem| jnmz_Z, dgd | kjcj]o jqlZio! XXX
+// Arkhan2 L (coughing politely) perso2
+L05D07
+ Cqa! Cqa-fqa! XXX
+// Arkhan2 O (coughing loudly) perso2
+L05D08
+ Cqa-fqa! Cqa-fqa! XXX
+// Arkhan3 L (coughing politely) perso3
+L05D09
+ Cqa! Cqa-fqa! XXX
+// Arkhan3 O (coughing loudly) perso3
+L05D10
+ Cqa-fqa! Cqa-fqa! XXX
+// Bogdaran (unfriendly) perso8
+L05D13A
+ Pnj na[a iZ_j c_amx? JnlZbZh j^i| ]qj_ mz_Z cZfZcZi. XXX
+// Bogdaran (unfriendly) perso8
+L05D13B
+ &ji! X cZi|n! XXX
+// Bogdaran perso8
+L05D14
+ Ej| lZ[jnZ nla[oan ndtdiw! XXX
+// Bogdaran perso8
+L05D15
+ A_d... kj[jgnZem| ^_a-id[o_x ] _lo^jh hamna! XXX
+// Bogdaran perso8
+L05D16
+ Kw lZcwmfd]Zatx ]wqj_? &idc kj gamnidra! XXX
+// Bogdaran (realizing Arkhan is speaking to him) perso8
+L05D17
+ #? Pnj? XXX
+// Arkhan2 G perso2
+L05D18
+ KZ tnofZ dc $wgj^j. XXX
+// Arkhan3 G perso3
+L05D19
+ KZ tnofZ dc $wgj^j! XXX
+// Bogdaran perso8
+L05D20A
+ +Z, _Z... Gsaix mnlZiija ]auamn]j o na[| c_amx! XXX
+// Bogdaran perso8
+L05D20B
+ Fa jsaix kjidhZz, snj ynj cZ mnalbaix ]ionld... ij a^j iagxc| hjsdnx. XXX
+// Bogdaran perso8
+L05D20C
+ X cZgdg a^j hZmgjh, ij jmnjljbij - ynZ tnofZ ]m~ lZ]ij jsaix jkZmiZ! XXX
+// Delia (speaking to Bogdaran) perso10
+L05D21A
+ $j^_ZlZi! Kw ]jgij]Zgm| cZ hai|... XXX
+// Delia (speaking to Bogdaran) perso10
+L05D21B
+ Kw kjmgZg... #lqZiZ cZ hije. XXX
+// Delia (speaking to Bogdaran) perso10
+L05D21C
+ CZfje nw ]idhZnagxiwe... _jlj^je. XXX
+// Bogdaran perso8
+L05D150A
+ Ve, njgxfj kjklj[oe au~ lZc! XXX
+// Delia (hit by Arkhan) perso10
+L45D04
+ Pnj iZ na[| iZtgj? XXX
+// Bogdaran (Arkhan1 rummages through his things) perso8
+L05D22
+ &agdfde JjgZZl! Pnj nw nZh duatx? XXX
+// Bogdaran (playing the innocent) perso8
+L05D23A
+ Kw ba ia mnZg [w nZf _agZnx o fjhai_ZinZ, ]alij? XXX
+// Bogdaran (suddenly loses his cool) perso8
+L05D23B
+ Hjnjho snj amgd ia klaflZndtx, nj dhaiij nZh d jfZbatxm|! XXX
+// Arkhan1 L (friendly) perso1
+L05D24A
+ +Z-_Z. X o_Zg|zmx. XXX
+// Arkhan1 L (friendly) perso1
+L05D24B
+ +Z kla[o_an m nj[je J]an. XXX
+// Arkhan1 O (sarcastic) perso1
+L05D25
+ NZ, dcohdnagxiwe [wg lZc^j]jl! XXX
+// Bogdaran perso8
+L05D26
+ +Z]Ze ob, d_d jnmz_Z! XXX
+// Arkhan1 L perso1
+L05D27
+ FZ_azmx, | ia hatZz na[a. XXX
+// Arkhan1 O perso1
+L05D28
+ Pnj, hZmg~iudf, iafj^_Z kj[jgnZnx? XXX
+// Arkhan1 O perso1
+L05D29
+ Hld]an, $j^_ZlZi. XXX
+// Arkhan1 L perso1
+L05D30
+ +Z kla[o_an m nj[je J]an, EZmnal $j^_ZlZi. XXX
+// Bogdaran perso8
+L05D31
+ Ac]did, mnlZb j^i|, hia iafj^_Z [jgnZnx m nj[je maesZm... XXX
+// Arkhan1 L perso1
+L05D32
+ Cjiasij, | kjidhZz. XXX
+// Arkhan1 O perso1
+L05D33
+ Kw ]ma^_Z nZfje _lobagz[iwe dgd mnZlZatxm| dmfgzsdnagxij lZ_d hai|? XXX
+// Bogdaran (contemptuous) perso8
+L05D34
+ Ep! XXX
+// Arkhan2 L perso2
+L05D35
+ Fa iobij [j|nxm|, | ia kldsdiz na[a cgZ. XXX
+// Arkhan2 O perso2
+L05D36
+ Jkjfjeij, njgmnwe! XXX
+// Arkhan3 L perso3
+L05D37
+ $j^_ZlZi... omkjfjem|! XXX
+// Bogdaran (terrified) perso8
+L05D39B
+ Fa kj_qj_d [gdba! Jnje nZh, ^_a mnjdtx! XXX
+// Arkhan2 L perso2
+L05D40
+ HjbZgoemnZ, omkjfjem|. Vnj |, #lqZi. X nZfje ba mnlZb j^i|, fZf d nw. XXX
+// Arkhan2 O perso2
+L05D41
+ N]Zndn jlZnx! Vnj |, #lqZi! XXX
+// Arkhan3 L perso3
+L05D42
+ Vnj |, #lqZi! XXX
+// Bogdaran (terrified) perso8
+L05D44A
+ Fan! X idfj^_Z na[| klab_a ia ]mnlasZg! XXX
+// Bogdaran (terrified) perso8
+L05D44B
+ Hjhj^dna! JnlZbd j^i|, iZ kjhjux! XXX
+// Arkhan2 G perso2
+L05D45A
+ G hZmnal, na[a dc]amniw maflanw hZmag d nZdimn]Z Zgqdhdd. XXX
+// Arkhan2 G perso2
+L05D45B
+ Kw ba _jgbai ciZnx gafZlmn]j jn [jgacid, kjbdlZzuae hai| dcionld! XXX
+// Arkhan3 G perso3
+L05D46
+ Kw ciZatx, fZf hai| ]wgasdnx? JfZbd! XXX
+// Bogdaran perso8
+L05D47A
+ Vq... X... +Z | kjhj^ [w, ij | ia kla_mnZ]g|z, snj ynj cZ [jgacix. XXX
+// Bogdaran perso8
+L05D47B
+ Kjgxfj ragdnagd klj]d_ra] ] mdgZq kjhjsx na[a. XXX
+// Arkhan2 G perso2
+L05D48
+ X duo mfgak... Kj hamnj, snj hje jnar, fZf | mgwtZg, iZ]auZan kjlje... XXX
+// Arkhan3 G perso3
+L05D49
+ X duo m]|uaiija hamnj, mfgak. XXX
+// Bogdaran perso8
+L05D50A
+ Jfgak? Fan, | ]m~ ]lah| ] m]jae gZ[jlZnjldd d idfo_Z ia qjbo. XXX
+// Bogdaran perso8
+L05D50B
+ Ka[a iobai $Zi_jl, ^gZ]iwe mnljdnagx. XXX
+// Bogdaran perso8
+L05D50C
+ $Zi_jlo dc]amniw ]ma nZeiw mnZggZenZ. XXX
+// Bogdaran perso8
+L05D50D
+ Kjgxfj _]jlar mnljdnagae ]jn oba iamfjgxfj _iae cZkaln. XXX
+// Arkhan2 G perso2
+L05D53A
+ Eje jnar, IdgmZ_Zl, kala_Zg fldmnZggw m]anZ iamfjgxfdh gz_|h iZ qlZiaida. XXX
+// Arkhan2 G perso2
+L05D53B
+ Ka[a ia _Z]Zg? XXX
+// Arkhan3 G perso3
+L05D54
+ Eje jnar _Z]Zg na[a fldmnZgg? XXX
+// Bogdaran perso8
+L05D55A
+ K]je jnar? Fan, ji ia [w]Zan ] hjae gZ[jlZnjldd. XXX
+// Bogdaran perso8
+L05D55B
+ A o hai| ian idfZfdq fldmnZggj], kljmnd. XXX
+// Arkhan2 G perso2
+L05D56
+ Pnj nw ciZatx j KZiZi_Zla? XXX
+// Arkhan3 G perso3
+L05D57
+ IZmmfZbd hia j KZiZi_Zla! XXX
+// Bogdaran perso8
+L05D58A
+ Gi klj]d_ar d ragdnagx. XXX
+// Bogdaran perso8
+L05D58B
+ Ls~iwe m bZb_je kjciZid|. A hij^da KZiZi_Zlo bdcixz j[|cZiw. XXX
+// Bogdaran perso8
+L05D58C
+ Nj_|n mgoqd, ji md_dn ]cZkalnd ] kjmga_iaa ]lah|. XXX
+// Arkhan2 G perso2
+L05D59
+ X qjso iZend IdgmZ_ZlZ. Kw a^j ia ]d_ag? XXX
+// Arkhan3 G perso3
+L05D60
+ X duo m]ja^j jnrZ. Kw a^j ia ]d_ag? XXX
+// Bogdaran perso8
+L05D61
+ IdgmZ_ZlZ? Fan, j[wsij mz_Z ji ia kldqj_dn. XXX
+// Arkhan2 G perso2
+L05D62
+ # >a_? Fa ciZatx, mgosZeij, ^_a ji hj^ [w [wnx? XXX
+// Arkhan3 G perso3
+L05D63
+ Kw >a_Z ia ]d_ag? XXX
+// Bogdaran perso8
+L05D64A
+ Hjmga n]ja^j... n]ja^j dird_ainZ, >a_ kldqj_dg mz_Z cZ [jakldkZmZhd. XXX
+// Bogdaran perso8
+L05D64B
+ Gi mj[dlZgm| ] Fdbide ^jlj_, snj[w jnwmfZnx naq alandfj]. XXX
+// Arkhan2 L perso2
+L05D65
+ Pnj ynj cZ tnofZ? XXX
+// Arkhan3 L perso3
+L05D66
+ Pnj ynj? XXX
+// Bogdaran perso8
+L05D67
+ Eia iobij ]lah|, snj[w a~ dcosdnx, qjljtj? XXX
+// Arkhan2 O perso2
+L05D209
+ VnZ tnofZ... Pnj ynj? XXX
+// Arkhan3 O perso3
+L05D210
+ #l^q... VnZ tnofZ! XXX
+// Bogdaran (impressed) perso8
+L05D211A
+ DZ_ij, omkjfjem|, | ]c^g|io iZ ia~. XXX
+// Bogdaran (impressed) perso8
+L05D211B
+ Fj njgxfj _Ze hia iahij^j ]lahaid, qjljtj? XXX
+// Arkhan2 G perso2
+L05D68
+ EZmnal, hia iobai ZiZgdc ynj^j mnlZiij^j ]auamn]Z. XXX
+// Bogdaran (worried) perso8
+L05D70A
+ HjmgotZe, jsaix mfjlj | hij^j sa^j j iae ociZz. XXX
+// Bogdaran (worried) perso8
+L05D70B
+ Fj miZsZgZ hia iobiZ n]j| kjhjux. XXX
+// Bogdaran (worried) perso8
+L05D70C
+ Hld ]m~h ynjh qZjma | jkZmZzmx cZ bdcix j_ij^j sagj]afZ... baiudiw. XXX
+// Bogdaran (worried) perso8
+L05D70D
+ <~ cj]on +agd|. Kw iZe_~tx a~ ] Fdbiah ^jlj_a... & "Jala[l|ije pgaena". XXX
+// Bogdaran (worried) perso8
+L05D70E
+ Vnj fZ[Zla. HjbZgoemnZ... kld]a_d a~ mz_Z. XXX
+// Bogdaran (worried) perso8
+L05D70F
+ Cj^_Z +agd| [o_an ] [acjkZmijmnd, | lZmmfZbo na[a ]m~, snj nw qjsatx ciZnx j[ ynjh ZlnapZfna dc $wgj^j. XXX
+// Arkhan2 L perso2
+L05D72
+ $j^_ZlZi... +agd|, jiZ... GiZ haln]Z. Eia nZf bZgx. XXX
+// Arkhan2 O (sinister) perso2
+L05D73
+ VnZ +agd|, fjnjloz nw kljmdg kld]amnd... nZ au~ mZhjsfZ! XXX
+// Bogdaran (distraught and hopeful at once) perso8
+L05D74
+ +Z? XXX
+// Arkhan2 O (nasty) perso2
+L05D75
+ Kjsiaa, mnal]Z! NZ-qZ... Kw hj^ [w mhZcZnx a~ hZmgjh - hjban, gosta mjqlZidnm|! XXX
+// Arkhan3 G perso3
+L05D76
+ Kw [jgxta ia o]d_dtx +agdz. GiZ haln]Z. XXX
+// Bogdaran (overcome with grief) perso8
+L05D77A
+ Pnj? Fan! +agd|... Fan, nw gb~tx! XXX
+// Bogdaran (overcome with grief) perso8
+L05D77B
+ Ej| _jlj^Z|... GiZ ia ohalgZ! Vnj gjbx! XXX
+// Bogdaran (abruptly threatening) perso8
+L05D77C
+ Kw ynj m_agZg, _Z? Kw o[dg a~! XXX
+// Arkhan2 G perso2
+L05D78
+ Pnj nw hjbatx lZmmfZcZnx hia j[ ynjh kla_hana dc $wgj^j? XXX
+// Arkhan3 G perso3
+L05D79
+ IZmmfZbd hia j kla_hana dc $wgj^j! XXX
+// Bogdaran (still uneasy but stubborn) perso8
+L05D80A
+ CZf _j^j]jldgdmx: miZsZgZ kld]a_d +agdz... XXX
+// Bogdaran (calmer) perso8
+L05D80B
+ Kj^_Z | dcoso n]je ZlnapZfn d lZmmfZbo na[a ]m~, snj nw qjsatx ciZnx. XXX
+// Arkhan2 G perso2
+L05D87
+ Kw oba dcosdg ZlnapZfn dc $wgj^j? XXX
+// Arkhan3 G perso3
+L05D88
+ Pnj nZh iZms~n ZlnapZfnZ dc $wgj^j? XXX
+// Arkhan2 G perso2
+L05D89
+ Hjsaho nw cZgdg hZmgjh ZlnapZfn dc $wgj^j? XXX
+// Arkhan3 G perso3
+L05D90
+ Hjsaho kla_han dc $wgj^j ] hZmga? XXX
+// Bogdaran perso8
+L05D91A
+ &d_dtx cag~iwe mnalbaix ] rainla? XXX
+// Bogdaran perso8
+L05D91B
+ X fZkiog iZ ia^j ]j_je, d jnno_Z nZf kjgwqiogj, snj hia sonx [jlj_o ia mkZgdgj! XXX
+// Bogdaran perso8
+L05D91C
+ EZmgj ba, iZkljnd], iaenlZgxij. KZf [acjkZmiae. XXX
+// Arkhan2 G perso2
+L05D92
+ Eia iobij d_nd. XXX
+// Arkhan3 G perso3
+L05D93
+ X kjt~g. XXX
+// Bogdaran perso8
+L05D94
+ JkZmd[j, #lqZi. Hldqj_d, amgd kjiZ_j[dnm| kjhjux! XXX
+// Arkhan2 G perso2
+L05D95
+ X ciZz, ^_a na[| iZend! XXX
+// Arkhan3 G perso3
+L05D96
+ X iZe_o na[|! XXX
+// Arkhan2 L perso2
+L05D81
+ Hljmndna, snj klalw]Zz. XXX
+// Arkhan2 O perso2
+L05D97
+ &dbo, ]w cZi|nw. XXX
+// Arkhan3 G perso3
+L05D98
+ Hljmndna, | ia ]j]lah|? XXX
+// Bogdaran (humorless laugh) perso8
+L05D99
+ &j]ma ian! Na-qa-qa! &j]ma ian... XXX
+// Bogdaran (uncomfortable) perso8
+L05D82
+ Gsaix qjljtj. +Z kla[o_an m nj[je J]an. XXX
+// Arkhan2 G perso2
+L05D103
+ Kw klZ]_Z idsa^j ia ciZatx j hjae [jgacid? XXX
+// Arkhan3 G perso3
+L05D104
+ KZf nw idsa^j ia ciZatx j hjae [jgacid! XXX
+// Bogdaran perso8
+L05D105
+ Fan, #lqZi, fZf | oba mfZcZg, idsah ia hj^o kjhjsx. XXX
+// Arkhan2 G perso2
+L05D108
+ <mgd nw ]_lo^ kld_ohZatx, fZf hia kjhjsx... XXX
+// Arkhan3 G perso3
+L05D109
+ <mgd nw kld_ohZatx... XXX
+// Bogdaran perso8
+L05D110A
+ Fa [amkjfjem|. XXX
+// Bogdaran perso8
+L05D110B
+ <mgd | snj-nj ]w|miz, nw ociZatx kal]wh. XXX
+// Arkhan1 G perso1
+L05D111
+ DZ_ij. Pnj nw hia mfZbatx j[ ynjh kla_hana? XXX
+// Bogdaran perso8
+L05D114
+ Eia iasa^j mfZcZnx. XXX
+// Arkhan2 G perso2
+L05D115
+ X iZt~g yno oidpjlho ]idco. XXX
+// Arkhan3 Gperso3
+L05D116
+ Vnj n]j| oidpjlhZ? XXX
+// Bogdaran perso8
+L05D117A
+ +Z, hj| kal]Z| oidpjlhZ... Kj^_Z | [wg hjgjba... XXX
+// Bogdaran perso8
+L05D117B
+ Kakalx | ] ia~ oba d ia ]gaco. XXX
+// Arkhan2 G perso2
+L05D118
+ X ]jcxho n]jz oidpjlho, amgd jiZ na[a [jgxta ia iobiZ. XXX
+// Arkhan3 G perso3
+L05D119
+ X ]jcxho n]jz oidpjlho. XXX
+// Bogdaran perso8
+L05D120
+ Cjiasij... Cjiasij, cZ[dlZe. XXX
+// Bogdaran perso8
+L05D121A
+ Gmnjljbij! Vnj jkZmij! XXX
+// Bogdaran perso8
+L05D121B
+ &ionld jmj[ja hZmgj, fjnjlja ]clw]Zanm| kld ]jc^jlZidd. XXX
+// Bogdaran perso8
+L05D121C
+ Fa]alj|niwe lZclotdnagxiwe yppafn! XXX
+// Bogdaran perso8
+L05D122A
+ Vnd tZlw? Vnj [jakldkZmw _g| mkdnlj_j]. XXX
+// Bogdaran perso8
+L05D122B
+ Fj dhae ] ]d_o, mkdnlj_ ia ]wmnlagdn, amgd ia omnZij]dnx kZlj]je [Zggji. XXX
+// Bogdaran perso8
+L05D123A
+ $ac [ZggjiZ iagxc| - ] i~h kZl _g| mkdnlj_Z. XXX
+// Bogdaran perso8
+L05D123B
+ $ac kZlj]j^j [ZggjiZ d cZl|_j] n]je mkdnlj_ - ]ma^j gdtx kljmnZ| _o[diZ! XXX
+// Bogdaran (impressed) perso8
+L05D124A
+ Fa]alj|nij! Po_amij! XXX
+// Bogdaran perso8
+L05D124B
+ FZkjhdiZan ^ljhj[je dc $wgj^j, ]lj_a nj^j, snj o >a_Z. XXX
+// Bogdaran perso8
+L05D124C
+ Fj ynjn iZhij^j [jgxta. XXX
+// Bogdaran (curious) perso8
+L05D124D
+ Kw oba... dmkwnZg a^j? XXX
+// Arkhan2 G perso2
+L05D125
+ Fa n]j~ _agj. XXX
+// Arkhan3 G perso3
+L05D126
+ Ka[a iacZsah ynj ciZnx. XXX
+// Bogdaran perso8
+L05D135A
+ L na[| amnx j^iah~n? XXX
+// Bogdaran perso8
+L05D135B
+ Vnj ij]ja jlobda, dcj[lan~iija homjludfZhd. XXX
+// Bogdaran perso8
+L05D135C
+ Fj | _ohZg, snj mqahw [wgd oflZ_aiw. XXX
+// Bogdaran perso8
+L05D135D
+ *_a nw a^j iZt~g? XXX
+// Bogdaran perso8
+L05D138A
+ Vnd gdmnw dmkjgxcoznm| _g| dc^jnj]gaid| cZl|_j] _g| mkdnlj_j]. XXX
+// Bogdaran perso8
+L05D138B
+ Fj | dq c_amx [jgxta ia _agZz: nla[oanm| mgdtfjh hij^j nakgZ. XXX
+// Bogdaran perso8
+L05D138C
+ Fobij kalamasx cZg, amgd d_nd jn fZcZlhw. XXX
+// Bogdaran (proud of himself) perso8
+L05D141A
+ Jkdnlj_. # nw ciZatx, snj ynj | omj]altaimn]j]Zg ynj jlobda? XXX
+// Bogdaran (proud of himself) perso8
+L05D141B
+ Kjgxfj | ciZz maflan dc^jnj]gaid| [Zggjij], mj_albZudq iaj[qj_dhwe _g| ]wmnlagZ kZl. XXX
+// Bogdaran (proud) perso8
+L05D141C
+ Hjdmndia ^aidZgxiZ| mdmnahZ... XXX
+// Arkhan2 G perso2
+L05D142A
+ EZmnal, mhjnld, snj | iZt~g. XXX
+// Arkhan2 G perso2
+L05D142B
+ Vnj [wgj ] lodiZq dc $wgj^j. XXX
+// Arkhan2 G perso2
+L05D142C
+ Kw ciZatx, snj ynj? XXX
+// Arkhan3 G perso3
+L05D143A
+ X iZt~g ynj ] lodiZq dc $wgj^j. XXX
+// Arkhan3 G perso3
+L05D143B
+ Kw ciZatx, snj ynj? XXX
+// Bogdaran (intrigued) perso8
+L05D144A
+ Nh... CZbanm|, non fja-snj mgjhZij. XXX
+// Bogdaran (intrigued) perso8
+L05D144B
+ <mgd jmnZ]dtx yno ]audro c_amx, | mhj^o ]c^g|io iZ ia~... XXX
+// Arkhan2 G perso2
+L05D83
+ &jn, cZ[dlZe! XXX
+// Arkhan3 G perso2
+L05D84
+ $ald! XXX
+// Bogdaran (interested) perso8
+L05D85
+ HlaflZmij! X ]w|miz, snj ynj nZfja. XXX
+// Arkhan1 G perso1
+L05D147
+ IZc]a nZf _alonm|, kocZnwe? XXX
+// Arkhan2 G perso2
+L05D148
+ X iZoso na[| _lZnxm|, bdl_|e! XXX
+// Arkhan3 G (mocking) perso3
+L05D149
+ Kjgmnj[lzqde o]Zgaix! XXX
+// Bogdaran perso8
+L05D150B
+ Ealcfde hjimnl! XXX
+// Bogdaran perso8
+L05D151
+ Fan! Fa o[d]Ze hai|! XXX
+// Arkhan2 G perso2
+L05D152
+ KZf nw latdg, snj | hjimnl?! Pnj b, gZ_ij. Kj^_Z | d kj]a_o ma[| fZf hjimnl! XXX
+// Arkhan3 G perso3
+L05D153
+ Kw ia jmnZ]dg hia ]w[jlZ... XXX
+// Bogdaran perso8
+L05D154
+ Fan, kjmgotZe! DZ_ij, | m_agZz, snj kjkljmdtx! XXX
+// Arkhan2 G perso2
+L05D155
+ Kw hjbatx ]wmgotZnx d kjkwnZnxm| kjhjsx? XXX
+// Arkhan3 G perso3
+L05D156
+ &wmgotZe d kjhj^d hia! XXX
+// Bogdaran perso8
+L05D157
+ Cg|iomx ]agdfdh JjgZZljh! XXX
+// Arkhan2 G perso2
+L05D158
+ Ka[a gosta m_albZnx m]j~ mgj]j! XXX
+// Arkhan3 G perso3
+L05D159
+ Ka[a gosta m_albZnx m]j~ mgj]j! XXX
+// Bogdaran perso8
+L05D160A
+ X ciZz! X kjhj^o na[a... XXX
+// Bogdaran (feigning unconcern) perso8
+L05D160B
+ & gz[jh mgosZa, kjbagZe nw hai| o[dnx, nw [w oba ynj m_agZg, ]alij? XXX
+// Arkhan1 G perso1
+L05D162
+ EZmgZ ] [jsfa kjfZ au~ ian. XXX
+// Arkhan2 G perso2
+L05D163
+ # [jsfZ au~ komnZ. XXX
+// Arkhan3 G perso3
+L05D164
+ # hZmgZ ian. XXX
+// Bogdaran perso8
+L05D165A
+ Fa nlj^Ze! XXX
+// Bogdaran perso8
+L05D165B
+ EZmgj ia kljtgj jsdmnfo. XXX
+// Arkhan2 G perso2
+L05D168
+ EZmgj. XXX
+// Arkhan3 G perso3
+L05D169
+ EZmgj! XXX
+// Bogdaran perso8
+L05D170
+ Ve, ia nlZnx hj~ hZmgj! XXX
+// Arkhan2 L (to Delia) perso2
+L05D171
+ X lZ_, snj hia o_Zgjmx kld]amnd na[| mz_Z. XXX
+// Arkhan2 O (to Delia) perso2
+L05D172
+ N]Zndn nl|mndmx - nw iZ hamna! XXX
+// Arkhan3 G (to Delia) perso3
+L05D212
+ L iZm ]wtgj. XXX
+// Delia perso10
+L05D173
+ Ejae [gZ^j_Zlijmnd ian kla_agZ, #lqZi. +Z qlZidn na[| ]agdfde JjgZZl. XXX
+// Arkhan2 L perso2
+L05D174
+ GmnZ]Zem| ]m~ ]lah| m $j^_ZlZijh. XXX
+// Arkhan3 L perso3
+L05D175
+ L_Zsd! XXX
+// Delia perso10
+L05D176
+ +Z kla[o_an m nj[je m]an, #lqZi. XXX
+// Bogdaran perso8
+L05D177A
+ Fa ]jgioem|, #lqZi, | kjcZ[jsomx j iae. XXX
+// Bogdaran perso8
+L05D177B
+ A | o na[| ] _jg^o... X ynj^j ia cZ[o_o. XXX
+// Arkhan2 O perso2
+L05D178A
+ Pah _jgxta | iZ na[| mhjnlz, nah [jgxta | kjidhZz $j^_ZlZiZ. XXX
+// Arkhan2 O perso2
+L05D178B
+ FZ_azmx, j_iZb_w nw kld_~tx mz_Z nZira]Znx... _g| hai|. XXX
+// Arkhan3 O perso3
+L05D179
+ G... Kw qjljtZ... XXX
+// Delia perso10
+L05D180A
+ X [gZ^j_ZliZ na[a cZ ]m~, snj nw m_agZg, #lqZi. XXX
+// Delia (suggesting future favors) perso10
+L05D180B
+ A [o_x iZ nj ]jg| $j^Z JjgirZ, j_iZb_w | na[a ynj _jfZbo... XXX
+// Bogdaran (upset to see Arkhan hovering around Delia) perso8 
+L05D181
+ V, #lqZi... IZc]a na[a ia kjlZ d_nd? XXX
+// Delia (not interested in what Arkhan is showing her) perso10
+L05D86
+ Kw ciZatx, |... XXX
+// Arkhan2 L (has fought with Delia) perso2
+L45D01
+ N]Zndn, +agd|. Gmnwix! XXX
+// Arkhan2 O (has fought with Delia) perso2
+L45D02
+ Njsatx au~, _l|ix?! XXX
+// Arkhan3 L (has fought with Delia) perso3
+L45D03
+ N]Zndn! XXX
+// Arkhan1 G perso1
+L05D182
+ Fdsa^j iobij^j d non ian. XXX
+// Arkhan2 G perso2
+L05D183
+ $amkjgaciwe qgZh... XXX
+// Arkhan3 G perso3
+L05D184
+ FZ]alqo idsa^j kjgacij^j... XXX
+// Bogdaran (as A. searches his things, sarcastic) perso8
+L05D194
+ Ve! Po]mn]oe ma[| fZf _jhZ! XXX
+// Arkhan1 L perso1
+L05D185
+ &ma [jsfd komnwa. XXX
+// Arkhan1 O perso1
+L05D186
+ &ionld idsa^j ian! XXX
+// Arkhan2 L perso1
+L05D187
+ Homnwa [jsfd. XXX
+// Arkhan2 O perso2
+L05D188
+ Homnj! XXX
+// Arkhan3 O perso3
+L05D190
+ Homnj! XXX
+// Arkhan1G perso1
+L05D191
+ JnZlwe komnje moi_of. XXX
+// Arkhan2 G perso2
+L05D192
+ JnZlwe komnje moi_of. XXX
+// Arkhan3 G perso3
+L05D193
+ &ionld idsa^j ian. XXX
+// Bogdaran perso8
+L05D195
+ <mgd qjsatx ociZnx, snj ynj nZfja, ia iZ_j nlj^Znx! XXX
+// Arkhan2 G (unhappy) perso2
+L05D196
+ Nh... XXX
+// Bogdaran (as A. searches his things) perso8
+L05D201
+ Fa iZ_j! Fa nlj^Ze! XXX

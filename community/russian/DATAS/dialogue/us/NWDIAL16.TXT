@@ -1,0 +1,616 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL16.TXT
+ // Delia (to Maor) perso10
+L16D200
+ Fo snj, EZjl?
+// Maor perso17
+L16D201A
+ Po_amij, +agd|... fZf j[wsij. XXX
+// Maor perso17
+L16D201B
+ #lhZg JZ_Zf d a^j gz_d [o_on jsZlj]Ziw! XXX
+// Delia (to Maor) perso10
+L16D202
+ Njljtj, | d_o f ma[a ] ^ldh~lioz... X omnZgZ. XXX
+// Maor (gruffly)perso17
+L16D666
+ Kw hia hatZatx! XXX
+// Maor (gruffly)perso17
+L16D667
+ L hai| ian ]lahaid iZ d^lw, kj_]dixm|! XXX
+// Maor (irritated)perso17
+L16D668
+ Le_d m hja^j kond, Z ia nj kjbZgaatx! XXX
+// Maor (going to attack)perso17
+L16D669
+ Cg|iomx j^i~h, nw iZkljmdgm|! XXX
+// Maor (afraid, attacks)perso17
+L16D670
+ Ka[a ia kj[dnx hai|, hjimnl! XXX
+// Maor (from a distance, angry)perso1
+L16D999
+ Ve, hjl_j]jljn! # io, o[dlZem|! XXX
+// Delia (shocked)perso10
+L16D125
+ EZjl [wg mZh ia m]je, ynj [wg c]alx! XXX
+// Arkhan2 L perso2
+L16D203
+ X au~ sagj]af, kj]alx hia. XXX
+// Arkhan2 O perso2
+L16D204
+ Kjljkdmx, d_~h... kjfZ | ia mnZg "_lo^dh"! (mha~nm|) XXX
+// Arkhan3 G perso3
+L16D205
+ +Z]Ze, d_~h ba! XXX
+// Maor (furious)perso17
+L16D998
+ A_d mz_Z, hlZcx! X kjfZbo na[a, fZf [dnx baiudi! XXX
+// Delia (recognizes Maor horribly transformed)perso10
+L16D25
+ &agdfde $j^ JjgirZ, EZjl! XXX
+// Delia (surprised and frightened by Arkhan)perso10
+L16D49
+ Cnj... Cnj nw? Pnj na[a iobij? XXX
+// Delia perso10
+L16D51
+ Jij]Z nw! XXX
+// Delia perso10
+L16D50
+ Vnj nw. FZ_azmx, nw hia snj-nj kldi~m. XXX
+// Delia (frightened)perso10
+L16D52
+ Fan! Fa kj_qj_d! XXX
+// Delia perso10
+L16D122
+ N]Zndn! Kw ko^Zatx hai|! XXX
+// Delia (frightened, calling)perso10
+L16D906
+ EZjl! EZjl! XXX
+// Maor perso17
+L16D350
+ Ve, fjifolm iZ ]jix dcj lnZ cZ]nlZ ]asaljh! XXX
+// Maor perso17
+L16D351
+ DZ_ij, hjimnl, kj^j]jldh! XXX
+// Maor (A. approaching)perso17
+L16D127
+ Ka[a sa^j? XXX
+// Arkhan2 L perso2
+L16D206
+ Ve, EZjl... XXX
+// Arkhan2 O perso2
+L16D207
+ Ve, | m nj[je ^j]jlz! XXX
+// Maor (gruffly)perso17
+L16D208
+ =_d hai| o mnjefd, | kj_je_o salac mafoi_o... XXX
+// Arkhan3 L perso3
+L16D209
+ Ve! XXX
+// Maor perso17
+L16D210
+ Lmkjfjem|! A_d f mnjefa, d | [o_o salac mafoi_o! XXX
+// Arkhan2 L perso2
+L16D500
+ Fa [jem|, hai| kjmgZg $j^_ZlZi. XXX
+// Delia perso10
+L16D501
+ $j^_ZlZi? *_a ba ji? XXX
+// Arkhan2 L perso2
+L16D502
+ Gi nZh, ] &alqiah ^jlj_a. A | na[| f iaho _jmnZ]gz. XXX
+// Delia perso10
+L16D503
+ Njljtj, | d_o m nj[je. XXX
+// Arkhan2 O perso2
+L16D504A
+ $j^_ZlZi hai| kjmgZg cZ nj[jz! XXX
+// Arkhan2 O perso2
+L16D504B
+ A_d cZ hije d ia cZ_Z]Ze ]jkljmj]. XXX
+// Delia (intimidated)perso10
+L16D505
+ $j^_ZlZi? XXX
+// Arkhan2 O perso2
+L16D506
+ +Z. A_d cZ hije d mfjlj [o_atx... y... m idh. XXX
+// Arkhan2 L perso2
+L16D507
+ Fa ]jgioem|, hw mfjlj [o_ah nZh. XXX
+// Delia perso10
+L16D508
+ &m~ snj qjsatx, ^gZ]ija - o[lZnxm| jnmz_Z f s~lno! XXX
+// Arkhan2 O perso2
+L16D509
+ A kjmkatd, ]lah| - ynj ljmfjtx, fjnjlje o hai| ian! XXX
+// Arkhan2 O perso2
+L16D510
+ &m~ snj qjso, Z? Eia iZ_j [w ynj j[hjc^j]Znx... XXX
+// Arkhan2 G (showing a dead rat)perso2
+L16D888
+ CZf iZms~n kalafomdnx? XXX
+// Delia (disgusted) perso10
+L16D889
+ Mo! L[ald ynj m hjdq ^gZc! XXX
+// Delia perso10
+L16D700
+ Fan, nZfja ia kj hia. XXX
+// Arkhan3 L perso3
+L16D402
+ IZmmgZ[xm|! X ia nljio. XXX
+// Delia perso10
+L16D409
+ Jkjfjeij, hjimnl! XXX
+// Arkhan3 L perso3
+L16D407
+ JgotZe hai|! XXX
+// Delia perso10
+L16D410
+ Kjgxfj nljix hai| - fZf flwmZ kjhl~tx! XXX
+// Arkhan3  G perso3
+L16D511
+ Hjtgd mj hije! XXX
+// Delia perso10
+L16D512
+ X cZ nj[je mga_jh. XXX
+// Arkhan2 L perso2
+L16D513A
+ Pnj kljdmqj_dn? XXX
+// Arkhan2 L perso2
+L16D513B
+ Hj[gdcjmnd idfj^j ian. XXX
+// Delia (timidly)perso10
+L16D514A
+ X... | oflwgZmx. X omgwtZgZ fldfd, _lZfo. XXX
+// Delia perso10
+L16D514B
+ X dmko^ZgZmx. XXX
+// Arkhan2 L perso2
+L16D515C
+ =_d c_amx! X mfjlj! XXX
+// Arkhan2 O perso2
+L16D516A
+ >iZsdn, kl|satxm| ] m]jae ^ldh~lfa! XXX
+// Arkhan2 O perso2
+L16D516B
+ Kw c_amx j_iZ? XXX
+// Arkhan2 O perso2
+L16D517
+ Fa ]jgioem|, mj hije na[a iasa^j [j|nxm|! XXX
+// Arkhan2 L perso2
+L16D518
+ GmnZixm| c_amx. Jkl|sxm|. XXX
+// Arkhan2 O perso2
+L16D519
+ GmnZixm| c_amx. <mgd ]we_atx iZlobo, na[a cZkljmnj kalalabon ^jlgj! XXX
+// Delia perso10
+L16D520
+ +Z... X gosta jmnZiomx ]ionld. XXX
+// Arkhan2 G perso2
+L16D521
+ Fa [jem|, | m yndh lZc[alomx! XXX
+// Delia perso10
+L16D522
+ $o_x jmnjljbai! XXX
+// Arkhan2 L perso2
+L16D100
+ Fa [jem|! X ia qjso na[a cgZ! XXX
+// Delia (fearful)perso10
+L16D101
+ KZf snj... snj nw qjsatx? XXX
+// Arkhan2 L (reassuringly)perso2
+L16D102A
+ Ve, ye, ye... Jkjfjeij... Eai| cj]on #lqZi, | _lo^ homjludfj]. XXX
+// Arkhan2 L perso2
+L16D102B
+ X ciZz, iZ ]d_ | ]wgdnwe s~ln, ij kj]alx hia, | na[| ia nljio. XXX
+// Arkhan2 L perso2
+L16D102C
+ Fa [jem|, qjljtj? XXX
+// Delia (reassured but prudent)perso10
+L16D103
+ Nh... qjljtj. Fj amgd kj_je_~tx fj hia, | cj]o EZjlZ! XXX
+// Arkhan2 L (trying to break the ice) perso2
+L16D104
+ V... X ]d_ag nZiar. Kw [wgZ qjljtZ! XXX
+// Delia perso10
+L16D105A
+ JkZmd[j, nw hdgwe... XXX
+// Delia perso10
+L16D105B
+ JgotZe, sa^j nw qjsatx jn hai|? XXX
+// Arkhan2 L perso2
+L16D106
+ Eia iobiZ n]j| kjhjux. Eai| duon mnlZbd j^i|. Kw kjhjbatx? XXX
+// Delia perso10
+L16D107
+ <mgd ] ynjh lZejia na[a iobiZ kjhjux, iZe_d #lhZgZ JZ_ZfZ. XXX
+// Arkhan2 L perso2
+L16D108
+ #lhZgZ JZ_ZfZ? XXX
+// Delia perso10
+L16D109A
+ Kjsij! Gi ] Fdbiah ^jlj_a mZhwe ^gZ]iwe homjludf. CZb_we non aho sah-nj j[|cZi. XXX
+// Delia perso10
+L16D109B
+ <mgd fnj d hjban kjhjsx na[a, nZf ynj ji! Fj ia ciZz ]jn, cZqjsan gd... XXX
+// Arkhan2 L perso2
+L16D110
+ *_a hia iZend a^j? XXX
+// Delia perso10
+L16D111
+ Fa ]m~ nZf kljmnj... X ia hj^o nZf kljmnj omnljdnx m idh ]mnlaso. +jfZbd, snj nw samnai mj hije. XXX
+// Arkhan2 L perso2
+L16D112
+ X ciZz #lhZgZ JZ_ZfZ, ij ia o]alai, snj ji kjhjban. XXX
+// Delia perso10
+L16D113
+ <mgd #lhZg JZ_Zf ia kjhjban, nj | ob njsij ia mhj^o. XXX
+// Arkhan2 L perso2
+L16D114
+ Pnj nla[oanm| jn hai|? XXX
+// Delia perso10
+L16D115A
+ Hldiamd hia kj_Zljf, snj-id[o_x flZmd]ja, m]alfZzuaa... XXX
+// Delia perso10
+L16D115B
+ A | kjmnZlZzmx m_agZnx nZf, snj[w #lhZg JZ_Zf kjhj^ na[a... XXX
+// Arkhan2 G perso2
+L16D116
+ Vnj ]m~, snj nw hjbatx mfZcZnx? XXX
+// Delia perso10
+L16D117
+ +Z. +ohZz, _Z. XXX
+// Arkhan2 O perso2
+L16D118
+ >Znfidmx! +Z ia jld nw! XXX
+// Delia (fearful)perso10
+L16D119
+ Fan! Hljto, ia iZ_j! XXX
+// Arkhan2 O (menacingly) perso2
+L16D120A
+ Fo ]m~, _l|ix! XXX
+// Arkhan2 O perso2
+L16D120B
+ JgotZe, amgd nw hia ia cZqjsatx kjhjsx, | lZcoso m nj[je j_di GJG$<FFTB "nZiar", d nw a^j ia mfjlj cZ[o_atx, kj]alx hia! XXX
+// Delia (becoming frightened) perso10
+L16D121
+ Fan! EZjl, iZ kjhjux! XXX
+// Delia perso10
+L16D886A
+ Kw snj, njl^j]ar? XXX
+// Delia perso10
+L16D886B
+ Eia [ac iZ_j[ijmnd, hjd kjflj]dnagd _Zzn hia ]m~, snj | cZqjso. XXX
+// Delia perso10
+L16D887
+ X mfZcZgZ, | ia njl^ozmx! XXX
+// Arkhan2 O perso2
+L16D66
+ Kw hia kjhjbatx d kjhjbatx hia maesZm ba, dgd | kj_klZ]gz n]jz hjl_Ztfo! XXX
+// Delia perso10
+L16D67
+ Fan, ia [ae hai|! XXX
+// Arkhan2 L perso2
+L16D68
+ L hai| ian _g| na[| kj_ZlfZ, ij hia jsaix iobiZ n]j| kjhjux! XXX
+// Delia perso10
+L16D69
+ L]w, | ia hj^o jn]amnd na[| f #lhZgo JZ_Zfo kljmnj nZf... XXX
+// Arkhan2 G perso2
+L16D70
+ &jchjbij, o hai| _g| na[| amnx fja-snj. CZf na[a ynj? XXX
+// Delia perso10
+L16D71
+ Fan. Vnj hai| ia dinalamoan... XXX
+// Delia (A. gives her a CD)perso10
+L16D72
+ >alfZgj m]anZ dc $wgj^j! +Z, cZhasZnagxij! XXX
+// Delia perso10
+L16D74A
+ Kw iZe_~tx #lhZgZ JZ_ZfZ ia_Zgafj jnmz_Z, ] _jha, kjqjbah iZ fjlZ[gx. XXX
+// Delia perso10
+L16D74B
+ Cj^_Z o]d_dtx a^j, mfZbd yno plZco: XXX
+// Delia perso10
+L16D74C
+ "Ij_ gz_mfje ]ma^j gdtx katfZ, snj ]jgaz lofd Jo_x[w nj _]dbanm| iZ kjga J]anZ, Z nj iZ kjga Kxhw". XXX
+// Delia perso10
+L16D75
+ Vnj kZljgx. XXX
+// Arkhan2 G perso2
+L16D76
+ Vnj ]m~? XXX
+// Delia perso10
+L16D77
+ Vnj ]m~, amgd qjsatx kj^j]jldnx m idh. Fj amgd na[a iobiZ a^j kjhjux, nj iZ_j j[w^lZnx a^j ] eji^. XXX
+// Arkhan2 G perso2
+L16D78
+ Pnj nZfja eji^, d^lZ? XXX
+// Delia perso10
+L16D79A
+ Vnj a^j gz[dhZ| d^lZ. Gi ]m~ ]lah| d^lZan ] ia~. XXX
+// Delia perso10
+L16D79B
+ Gi ^j]jldn, snj bdcix fZf d^lZ ] eji^, dgd ]lj_a nj^j. XXX
+// Arkhan2 G perso2
+L16D80
+ CZf hia j[w^lZnx a^j? XXX
+// Delia perso10
+L16D81A
+ X _Zba ciZz... XXX
+// Delia perso10
+L16D81B
+ A^lZ ]a_~nm| iZ _jmfa pdtfZhd m]anZ d pdtfZhd nxhw. XXX
+// Delia perso10
+L16D82
+ A _g| kj[a_w, #lhZg ^j]jldg, iobij m]jd pdtfd lZmkjgjbdnx kj o^gZh ynje _jmfd. XXX
+// Arkhan2 G perso2
+L16D83
+ Ejbatx au~ snj-id[o_x lZmmfZcZnx? XXX
+// Delia perso10
+L16D84
+ Fan, | lZmmfZcZgZ ]m~, snj ciZgZ. XXX
+// Delia perso10
+L16D85
+ Kakalx oqj_d... XXX
+// Delia perso10
+L16D885A
+ Kw oba m_agZg hia kj_Zljf, ynj^j _jmnZnjsij. XXX
+// Arkhan2 L perso2
+L16D400
+ Fa [jem|! X ia nljio. XXX
+// Arkhan2 O perso2
+L16D401
+ >Znfidmx, tgzqZ, dgd o na[| [o_an kj]j_ kjn|]fZnx! XXX
+// Delia perso10
+L16D404A
+ Po_j]dua! Kw cZkgZndtx cZ nj, snj m_agZg m EZjljh. XXX
+// Delia perso10
+L16D404B
+ <mgd nljiatx hai|, #lhZg ]wl]an mal_ra dc n]jae ^lo_d! XXX
+// Arkhan2 L perso2
+L16D405
+ X ia mj[dlZzmx idfj^j o[d]Znx, hia iobiZ kjhjux. XXX
+// Arkhan2 O perso2
+L16D406
+ X kljto gdtx kjhjsx! XXX
+// Delia perso10
+L16D408
+ L[dlZem| jnmz_Z! Eia iasa^j mfZcZnx! XXX
+// Delia (hit by Arkhan) perso10
+L16D403
+ Fa mhae, kj^ZiZ| n]Zlx! XXX
+// Arkhan2 L perso2
+L16D300A
+ Hld]an... EZjl, nZf? XXX
+// Arkhan2 L perso2
+L16D300B
+ Po_iwe nZiar... XXX
+// Maor perso17
+L16D301
+ Nh... Pnj na[a iobij? XXX
+// Arkhan2 O perso2
+L16D302A
+ L-o! CZfZ| o na[| ZkkandniZ| nZirj]udrZ. XXX
+// Arkhan2 O perso2
+L16D302B
+ CZf iZms~n nj^j, snj[w kj_agdnxm| ae? XXX
+// Maor perso17
+L16D303A
+ >Z[o_x, _lobjf. L +agdd hij^j malx~ciwq _locae, snj[ nw ciZg. XXX
+// Maor perso17
+L16D303B
+ A ] gz[jh mgosZa, nw ia ] a~ ]foma! XXX
+// Arkhan2 L perso2
+L16D304A
+ X - #lqZi, _lo^ homjludfj]. XXX
+// Arkhan2 L perso2
+L16D304B
+ L hai| klj[gahw mj mnlZbZhd j^i|... d hia iobiZ ia[jgxtZ| kjhjux. XXX
+// Arkhan2 O perso2
+L16D306A
+ Eai| cj]on #lqZi. JnlZbd j^i| qjn|n cZkjgosdnx hje cZ_, Z |_ ionlj mbdlZan... XXX
+// Arkhan2 O perso2
+L16D306B
+ A amgd qjsatx ciZnx klZ]_o, | kwnZzmx ]wkonZnxm| dc ]ma^j ynj^j, ]jklafd ]mah nZnodlj]Ziiwh kjgo_olfZh ] ynje flwmdije ijla! XXX
+// Maor perso17
+L16D305
+ Hji|nij... Fj c_amx na[a idsa^j ia m]andn. XXX
+// Maor (gruffly but generously)perso17
+L16D307A
+ V-y-y... KZh, iZ mnjga, pg|^Z mj tnjggjh. XXX
+// Maor perso17
+L16D307B
+ L^juZem|, cZ ms~n cZ]a_aid|. XXX
+// Maor (gruffly but generously)perso17
+L16D308A
+ Ejbatx jmnZ]dnx pg|^o ma[a. XXX
+// Maor perso17
+L16D308B
+ Vnj ]m~, sah | hj^o kjhjsx. XXX
+// Arkhan2 L perso2
+L16D309
+ <mgd nw ia hjbatx hia kjhjsx, nj fnj mhjban? XXX
+// Maor perso17
+L16D310A
+ Nh-h... +ohZz, nw ia mj[dlZatxm| ]jclZuZnxm| f mnlZbZh j^i|... XXX
+// Maor perso17
+L16D310B
+ <mgd na[a iasa^j nal|nx, nj ]ma^_Z hjbatx kjend f #lhZgo JZ_Zfo. XXX
+// Maor perso17
+L16D310C
+ Fj snj [w nw id _agZg, ia konZem| m fjifZgdnZhd. Gn idq njgxfj klj[gahw! XXX
+// Arkhan2 O perso2
+L16D311A
+ Ainalamij, nw fj^_Z-id[o_x ogw[Zatxm|? XXX
+// Arkhan2 O perso2
+L16D311B
+ Agd ]m~ m]j~ ]lah| kwnZatxm| ]w^g|_anx flonwh? XXX
+// Maor perso17
+L16D312A
+ X ogw[Zzmx gdtx flZmd]wh _a]otfZh, om~f? XXX
+// Maor perso17
+L16D312B
+ A_d ma[a, | sagj]af cZi|nje... XXX
+// Arkhan2 L perso2
+L16D313
+ Ejban, lZmmfZbatx hia snj-nj au~? XXX
+// Maor perso17
+L16D314
+ Hljmnd, mj]anw ]ma ]wtgd. XXX
+// Arkhan2 L perso2
+L16D315
+ Ka[a njsij [jgxta iasa^j lZmmfZcZnx hia? XXX
+// Maor perso17
+L16D316A
+ Kjsij...
+// Maor perso17
+L16D316B
+ JgotZe, qjsanm| kjnlakZnxm| - cZe_d f +agdd. XXX
+// Arkhan2 O perso2
+L16D317A
+ Clonje, _Z? Fj ciZatx, snj | _ohZz? XXX
+// Arkhan2 O perso2
+L16D317B
+ X _ohZz, nw nl|m~txm|, fZf gdmn. X _ohZz, nw mflamndg ij^d, snj[w fjgaid ia _ljbZgd! XXX
+// Maor (angrily) perso17
+L16D318A
+ Fo ]m~, Zhd^j! Ka[a |]ij iobij kj_klZ]dnx gdrj. XXX
+// Maor perso17
+L16D318B
+ A_d mz_Z, | jfZbo na[a omgo^o! XXX
+// Arkhan3 L perso3
+L16D320
+ Hld]an, _lo^. XXX
+// Maor (impressed)perso17
+L16D321
+ &agdfde $j^ JjgirZ... Kw fnj nZfje? XXX
+// Arkhan3 L perso3
+L16D322
+ IZmmgZ[xm|. Eia iobiZ... ia[jgxtZ| kjhjux. XXX
+// Maor (impressed)perso17
+L16D323
+ Hljmnd, Zhd^j. Ka[a hia iasah kjhjsx. XXX
+// Arkhan3 L perso3
+L16D324
+ C fjho hia kjend... hjban, ragdnagx. XXX
+// Maor perso17
+L16D325A
+ V... X gdtx homjludf, ragdnagxmn]j - ynj jn hai| _Zgafj... XXX
+// Maor perso17
+L16D326A
+ Fj nZh, iZ mnjga, amnx pg|^Z mj tnjggjh. XXX
+// Maor perso17
+L16D326B
+ <mgd qjsatx, ]jcxhd a~. XXX
+// Maor perso17
+L16D327A
+ GmnZ]x ma[a tnjgg, ji n]je. XXX
+// Arkhan3 L perso2
+L16D328
+ Kw hia njsij ia kjhjbatx? XXX
+// Maor (uneasy) perso17
+L16D329
+ A lZ_ [w, ij | ia ciZz, snj mfZcZnx-nj... XXX
+// Arkhan3 L perso2
+L16D330
+ Faobnj _g| hai| idsa^j? XXX
+// Maor (uneasy)perso17
+L16D331
+ Fan, dc]did... XXX
+// Arkhan3 O perso3
+L16D332
+ Kw! Kw hia kjhjbatx! XXX
+// Maor (impressed) perso17
+L16D333A
+ X ia ciZz, fnj nw d snj na[a iobij! XXX
+// Maor (impressed) perso17
+L16D333B
+ Fj kla_oklab_Zz: o hai| amnx jlobda, d | ciZz, snj m idh _agZnx! XXX
+// Arkhan3 O perso3
+L16D334
+ Kw, hagfde hatjf _alxhZ, | o[xz na[|! XXX
+// Arkhan2 G perso2
+L16D335
+ $o_atx tnjgg? XXX
+// Maor perso17
+L16D336
+ GmnZ]x a^j ma[a, o hai| kjgij! XXX
+// Arkhan3 G perso3
+L16D337
+ Qnjgg? XXX
+// Maor (impressed)perso17
+L16D338
+ Fan... Fan... Hljmnj ]wkae cZ hj~ c_jlj]xa. XXX
+// Arkhan2 G perso2
+L16D339
+ Ka[a iobiZ pg|^Z? XXX
+// Maor perso17
+L16D340
+ Fan, Zhd^j, ia iobiZ. XXX
+// Arkhan3 G perso3
+L16D341
+ Njsatx iahij^j? XXX
+// Maor (impressed)perso17
+L16D342
+ Fan... JkZmd[j. XXX
+// Maor perso17
+L16D343
+ Fan, hia ia iZ_j. XXX
+// Maor (impressed)perso17
+L16D346
+ Fan, mkZmd[j. GmnZ]x ynj ma[a. XXX
+// Arkhan2 L perso2
+L16D904
+ E-h-h... bZlaiZ| kndrZ, mj[gZcidnagxij. XXX
+// Arkhan3 L perso2
+L16D905
+ HndrZ... d qjljtj kljbZlaiiZ|! XXX
+// Maor perso17
+L16D04
+ Ve, jnje_d jnno_Z! XXX
+// Maor perso17
+L16D07A
+ Ve, [Zl - hj| nalldnjld|! XXX
+// Maor perso17
+L16D07B
+ A | ia kld^gZtZg na[|, ogj]dg? XXX
+// Maor perso17
+L16D08
+ X kla_okla_dg! XXX
+// Arkhan2 G perso2
+L16D118A
+ EocwfZgxiZ| tfZnogfZ. XXX
+// Arkhan2 G perso2
+L16D118B
+ +Zildm m_agZg hia nZfoz, fj^_Z | [wg hZgaixfdh. XXX
+// Arkhan3 G perso3
+L16D119A
+ EocwfZgxiZ| tfZnogfZ. XXX
+// Arkhan3 G perso3
+L16D119B
+ &lj_a nje, snj +Zildm m_agZg hia _Z]iwh-_Z]ij. XXX
+// Arkhan2 L perso2
+L16D900
+ J nZfdhd tdkZhd idfnj ia cZklw^ian iZ mraio kjragj]Znx nZirj]udro! XXX
+// Arkhan3 L perso3
+L16D901
+ Hljfg|nwa tdkw! XXX
+// Arkhan2 G perso2
+L16D902
+ JnaiZ kjflwnZ mnZlwhd plamfZhd dc $wgj^j. XXX
+// Arkhan3 G perso3
+L16D903
+ FZ mnaia mnZlwa plamfd dc $wgj^j. XXX
+// Arkhan2 G perso2
+L16D701
+ Vnj [jsfZ tnjggZ. XXX
+// Arkhan3 G perso3
+L16D702
+ $jsjijf tnjggZ. XXX
+// Arkhan2 G perso2
+L08D71
+ Fan, pg|^Z oba kjgiZ. XXX
+// Arkhan3 G perso3
+L08D72
+ Mg|^Z kjgiZ! XXX

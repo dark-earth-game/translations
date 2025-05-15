@@ -1,0 +1,181 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\fr\NWDIAL11.TXT
+ // Garde (nerveux) perso32
+L11D01
+ T'approche pas, face de suie! Retourne dans l'Obscur! XXX
+// Garde (va frappe A.) perso32
+L11D02
+ T'étais prévenu! XXX
+// Garde (nerveux) perso32
+L11D03
+ Halte! On n'approche pas, la Tour des Bâtisseurs est fermée! XXX
+// Garde (nerveux) perso32
+L11D04
+ Eh, toi! Dégage de là! C'est fermé! XXX
+// Garde (attaque A.) perso32
+L11D05
+ Avale plutôt ça! XXX
+// Garde (à A. qui s'enfuit) perso32
+L11D45
+ Si tu reviens, j'te décolle la tête des épaules! XXX
+//Arkhan2 G perso2
+L11D06
+ Non, le garde arrive! XXX
+//Arkhan3 G perso3
+L11D07
+ Non, il arrive! XXX
+// Arkhan2 L perso2
+L11D08
+ Laisse-moi passer! Je dois parler au Maître-Bâtisseur, c'est très important! XXX
+// Garde perso32
+L11D09
+ Impossible! J'ai des ordres : personne ne passe! XXX
+// Arkhan2 L perso2
+L11D10A
+ Crois-moi, je dois parler au Maître-Bâtisseur. XXX
+// Arkhan2 L perso2
+L11D10B
+ C'est peut-être le moyen de nous sauver tous! XXX
+// Garde perso32
+L11D11A
+ T'es sourd ou quoi? Aucun étranger n'a le droit d'entrer. XXX
+// Garde perso32
+L11D11B
+ Surtout avec une tronche comme la tienne! XXX
+// Arkhan2 L perso2
+L11D12
+ Ecoute, je sais que c'est l'alerte ici mais je te jure que je ne veux pas de mal au Maître-Bâtisseur. XXX
+// Garde perso32
+L11D13A
+ Ca suffit! Maître Bandor n'a que faire de toi! XXX
+// Garde perso32
+L11D13B
+ Hors de ma vue ou je te perce le gras! XXX
+// Arkhan2 L perso2
+L11D14
+ On peut peut-être s'arranger, non? XXX
+// Garde perso32
+L11D14A
+ Non, on s'arrange pas! XXX
+// Garde perso32
+L11D14B
+ Moi je reste ici à crever de faim et toi tu disparais! XXX
+// Arkhan2 L perso2
+L11D15A
+ D'accord, tu obéis aux ordres, je comprends.  XXX
+// Arkhan2 L perso2
+L11D15B
+ Mais tu as l'air éreinté et affamé. Je peux peut-être t'aider... XXX
+// Garde perso32
+L11D16A
+ Ouais, j'ai l'impression d'entendre mon ventre gueuler dans mes oreilles. XXX
+// Garde perso32
+L11D16B
+ Mais n'espère pas que ça me fasse quitter mon poste! XXX
+// Arkhan2 L perso2
+L11D17A
+ Ne t'inquiète pas, j'ai pas l'intention d'entrer si tu me l'interdis.   XXX
+// Arkhan2 L perso2
+L11D17B
+ Mais avec tout ce qui se passe, on a intérêt à préserver nos forces, non? XXX
+// Arkhan2 L perso2
+L11D17C
+ Toi, par exemple, si tu manges pas tu vas perdre ton attention. XXX
+// Garde perso32
+L11D18A
+ T'as raison. J'ai rien avalé depuis le début du jour. XXX
+// Garde perso32
+L11D18B
+ T'aurais pas quelque chose à grailler? XXX
+// Arkhan2 L perso2
+L11D19
+ Je vais voir si je peux te trouver quelque chose... XXX
+// Arkhan2 L perso2
+L11D20
+ Bon alors tu me laisses passer? XXX
+// Garde perso32
+L11D21A
+ T'es obscurci du bulbe ou quoi? J'ai dit non! XXX
+// Garde (crachant) perso32
+L11D21B
+ Arhhh, elle m'a desséché le gosier ta bouffe! XXX
+// Arkhan2 O perso2
+L11D22
+ Ote toi de là, je dois voir le Maître-Bâtisseur! XXX
+// Garde perso32
+L11D23A
+ Va bouffer de la boue, face de rat! XXX
+// Garde perso32
+L11D23B
+ Personne ne passe! Dégage! XXX
+// Arkhan2 O (joue les durs) perso2
+L11D24A
+ T'as pas compris, l'ami. XXX
+// Arkhan2 O (joue les durs) perso2
+L11D24B
+ -Tu- dégages et -je- passe! XXX
+// Garde perso32
+L11D25
+ C'est ce qu'on va voir! XXX
+// Arkhan2 G perso2
+L11D26
+ Tu me laisses rentrer si j'te donne ça? XXX
+// Garde perso32
+L11D27
+ Ha, c'est dégueulasse! Tire-toi ou je t'arrange le profil! XXX
+// Garde perso32
+L11D28
+ Laisse tomber, personne n'entre et c'est tout! XXX
+// Arkhan2 G perso2
+L11D29
+ Tiens, voilà de quoi apaiser ta faim. XXX
+// Garde perso32
+L11D30
+ Oui! Donne ça! XXX
+// Garde (machônnant) perso32
+L11D31
+ Milles Soleil, l'ami! Ca fait du bien.  XXX
+// Garde (machônnant) perso32
+L11D32
+ Hum, ouais, c'est bon ça! XXX
+// Garde (machônnant) perso32
+L11D33
+ Y'a à peine de quoi gaver une femelle là-dessus! XXX
+// Garde (machônnant) perso32
+L11D34
+ Ca illumine les entrailles, ce truc-là! XXX
+// Garde (finit de déglutir) perso32
+L11D35
+ Mais c'est vraiment très salé... XXX
+// Arkhan2 G perso2
+L11D36
+ Tiens j'ai trouvé ça. Ca te dit? XXX
+// Garde perso32
+L11D37A
+ Bâtard de l'Obscur, tu te moques de moi! XXX
+// Garde perso32
+L11D37B
+ Je vais t'aérer les tripes! XXX
+// Arkhan2 G perso2
+L11D38
+ Tiens, bois donc un petit coup. XXX
+// Garde perso32
+L11D39
+ C'est pas de refus! XXX
+// Garde perso32
+L11D40A
+ Mais elle est vide! XXX
+// Garde perso32
+L11D40B
+ Tu t'es foutu de moi! XXX
+// Garde perso32
+L11D42A
+ Soleil-Dieu, t'es vraiment un imbécile! XXX
+// Garde perso32
+L11D42B
+ J'ai pas soif, j'ai faim! XXX
+// Arkhan2 G perso2
+L11D43
+ Sa hallebarde est brisée!  XXX
+// Arkhan3 G perso3
+L11D44
+ Son arme s'est brisée! XXX

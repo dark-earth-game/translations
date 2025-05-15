@@ -1,0 +1,1012 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL18.TXT
+ // Armal Sadak perso62
+L18D138
+ You just made a big mistake! XXX
+// Malrot2 perso6
+L18D02
+ You again! XXX
+// Malrot2 perso6
+L18D01A
+ Hey, you! Get out of here! XXX
+// Malrot2 perso6
+L18D01B
+ No outsiders allowed! XXX
+// Malrot2 perso62
+L18D05
+ Hey, Armal, he's baaack! XXX
+// Armal Sadak perso6
+L18D133
+ Welcome pal. XXX
+// Malrot2 perso62
+L18D03
+ Boss! It's Fart-Face, round two! XXX
+// Armal Sadak perso6
+L18D04A
+ Mind your manners, Jianu! Our friend comes from the Upper City. XXX
+// Armal Sadak perso6
+L18D04B
+ I didn't hear him call you "pebble-head"... XXX
+// Malrot6 (recounts how A. came to his aid) perso66
+L18D191A
+ ...and that's how he got in... this guy with the crazy face like a... like a... XXX
+// Malrot6 (seeing Arkhan) perso66
+L18D191B
+ Hey..That's the guy! XXX
+// Armal Sadak perso6
+L18D192A
+ You're a true friend, Arkhan, and a good man. XXX
+// Armal Sadak perso6
+L18D192B
+ We won't forget it! XXX
+// Armal Sadak perso6
+L18D193A
+ You saved one of us! XXX
+// Armal Sadak perso6
+L18D193B
+ My name's Armal Sadak. That pebble-head over there's Jianu. XXX
+// Armal Sadak perso6
+L18D193C
+ We're friends now. XXX
+// Armal Sadak (offers a weapon to A.) perso6
+L18D194
+ This gift is a sign of my gratitude. XXX
+// Armal Sadak perso6
+L18D265A
+ You don't scare me... XXX
+// Malrot2 (A. draws his weapon) perso62
+L18D134
+ Hey, slow down! Keep your shirt on! XXX
+// Malrot2 perso62
+L18D190A
+ Welcome, friend. XXX
+// Malrot2 perso62
+L18D190B
+ If your gullet's dry, help yourself to a drink. XXX
+// Armal Sadak perso6
+L18D10
+ Ah! Our guest bares his claws! XXX
+// Armal Sadak (A. puts away his weapon) perso6
+L18D11
+ That's better! XXX
+// Malrot2 (A. puts away his weapon) perso62
+L18D135
+ That's it. That's much better. XXX
+// Armal Sadak perso6
+L18D118
+ Try that one again and you're dead! XXX
+// Armal Sadak perso6
+L18D117
+ Jianu! Block the door! XXX
+// Armal Sadak (preparing to fight) perso6
+L18D06
+ Let's get serious! XXX
+// Malrot2 perso62
+L18D160
+ Chief! Fart-Face is playing rough! XXX
+// Armal Sadak perso6
+L18D161
+ If he tries it again, snuff him! XXX
+// Malrot2 (menacingly) perso62
+L18D136
+ Hear that, Tough Guy? XXX
+// Malrot2 (alerting Armal Sadak) perso62
+L18D137
+ Chief! XXX
+// Armal Sadak perso6
+L18D120A
+ You're outta luck, my friend. XXX
+// Armal Sadak perso6
+L18D120B
+ If you want the info, you'll have to play another round. XXX
+// Armal Sadak perso6
+L18D121
+ You know my price: a weapon! XXX
+// Armal Sadak perso6
+L18D132
+ Can't win'em all! XXX
+// Armal Sadak perso6
+L18D122A
+ Congratulations! You win! XXX
+// Arkhan2 G perso2
+L18D250
+ So, are you going to help me? XXX
+// Arkhan3 G perso3
+L18D278
+ Help me... now... XXX
+// Armal Sadak perso6
+L18D122B
+ Okay, I'll tell you a little more. XXX
+// Armal Sadak perso6
+L18D122C
+ In the Lower City, the Scavengers and the Providers work together. XXX
+// Armal Sadak perso6
+L18D122D
+ We get along just fine. XXX
+// Armal Sadak perso6
+L18D122E
+ Lory the Great Sunseer wasn't born yesterday. XXX
+// Armal Sadak perso6
+L18D122F
+ She leaves us alone, we leave her alone. XXX
+// Armal Sadak perso6
+L18D122G
+ As long as the Guardians of Fire don't get in our way... XXX
+// Armal Sadak perso6
+L18D122H
+ The real pain is the Konkalites. XXX
+// Armal Sadak perso6
+L18D122I
+ Scumbags, you know what I mean? All they care about is seeing blood flow. XXX
+// Armal Sadak perso6
+L18D122J
+ They're the ones that attacked the Great Sunseer! XXX
+// Armal Sadak perso6
+L18D122K
+ But they're not smart enough to have figured it out for themselves. XXX
+// Armal Sadak perso6
+L18D122L
+ Someone else up there is behind it... XXX
+// Armal Sadak perso6
+L18D122M
+ I'm sure it's not Dhorkan. XXX
+// Armal Sadak perso6
+L18D122N
+ But I'd give a lot to know who it is! XXX
+// Armal Sadak perso6
+L18D123A
+ Great! You're a good player. XXX
+// Armal Sadak perso6
+L18D123B
+ So, you want to know what I know about Provost Dhorkan? XXX
+// Armal Sadak perso6
+L18D123C
+ He's all hugs and kisses with the Sunseers and the Guardians of Fire, but he's a rotten traitor. XXX
+// Armal Sadak perso6
+L18D123D
+ He wants to get rid of the Sunseers so he can rule the Stallite all by himself. XXX
+// Armal Sadak perso6
+L18D123E
+ And to do it, that jerk has signed a pact with Sordos. XXX
+// Armal Sadak perso6
+L18D123F
+ Dhorkan must think he can make the Konkalites do anything he wants and then dump them when he doesn't need them anymore. XXX
+// Arkhan2 G perso2
+L18D251A
+ Why not? XXX
+// Arkhan2 G perso2
+L18D251B
+ You said Konkalites are morons, right? XXX
+// Arkhan3 G perso3
+L18D252
+ Yeah, if... Konkalites are... as stupid as  you say. XXX
+// Armal Sadak perso6
+L18D253A
+ Right. But I know someone else is behind Sordos. XXX
+// Armal Sadak perso6
+L18D253B
+ Someone who ordered the attack on Lory. XXX
+// Armal Sadak perso6
+L18D253C
+ And by the time Dhorkan figures it out, it'll be too late! XXX
+// Arkhan2 G perso2
+L18D279A
+ I've got good news for you,  Sadak. XXX
+// Arkhan2 G perso2
+L18D279B
+ You can stop worrying about Sordos. XXX
+// Arkhan2 G perso2
+L18D279C
+ I fixed him... But good. XXX
+// Arkhan3 G perso3
+L18D280A
+ Good news for you! XXX
+// Arkhan3 G perso3
+L18D280B
+ I fixed Sordos... but good. XXX
+// Armal Sadak (surprised) perso6
+L18D281A
+ Well I'll be! What did you say? XXX
+// Armal Sadak perso6
+L18D281B
+ You killed Sordos? XXX
+// Armal Sadak perso6
+L18D281C
+ Ah! Arkhan, my dear friend! If what you say is true, may the Great Solaar shower blessings on you! XXX
+// Armal Sadak perso6
+L18D281D
+ But if I find out you lied, you'll hear from me! XXX
+// Arkhan2 G perso2
+L18D282
+ I'm not lying, believe me. XXX
+// Arkhan3 G perso3
+L18D283
+ I don't lie. XXX
+// Armal Sadak perso6
+L18D254A
+ Hey, you're real good. XXX
+// Armal Sadak perso6
+L18D254B
+ Here. Here's some ammo for the thunderbolts from Before. XXX
+// Armal Sadak perso6
+L18D254C
+ Don't waste it, it's scarce! XXX
+// Malrot2 perso62
+L18D175
+ If you want some Stohll, grab a gourd. XXX
+// Malrot6 (very grateful) perso66
+L18D195A
+ Thank you, brother! XXX
+// Malrot6 (enraged) perso66
+L18D195B
+ I'm going to show them how it feels when a Scavenger turns the light on their maggot nest! XXX
+// Armal Sadak (shouting) perso6
+L18D196
+ Don't forget to watch your ass! XXX
+// Armal Sadak (amused, to Arkhan) perso6
+L18D197
+ I wouldn't like to be in their shoes when he finds them! XXX
+// Arkhan2 G perso2
+L18D08
+ Wanna play a game? XXX
+// Arkhan3 G perso3
+L18D09
+ Play a game? XXX
+// Armal Sadak perso6
+L18D07A
+ Let me tell you something, whoever or whatever you are. XXX
+// Armal Sadak perso6
+L18D07B
+ I only play with people who're my guests. And I've  never seen you in my life before! XXX
+// Armal Sadak perso6
+L18D07C
+ So if you know what's good for you, don't hang around here, okay? XXX
+// Armal Sadak perso6
+L18D119
+ I make the first move. Age before beauty! XXX
+// Armal Sadak perso6
+L18D202
+ Listen, first tell me exactly what you're looking for. XXX
+// Armal Sadak perso6
+L18D203A
+ Maybe Later. XXX
+// Armal Sadak perso6
+L18D203B
+ Right now you'd better save what's left of your own skin. XXX
+// Arkhan2 G perso2
+L18D204
+ How about a round? XXX
+// Arkhan3 G perso3
+L18D205
+ A game? XXX
+// Armal Sadak perso6
+L18D206
+ Sure, if you've got a good weapon to bet on the game. XXX
+// Malrot2 perso62
+L18D159
+ No, keep your troubles to yourself. XXX
+// Arkhan2 L perso2
+L18D139A
+ Simmer down! XXX
+// Arkhan2 L perso2
+L18D139B
+ I'm a friend of the Scavengers. XXX
+// Arkhan3 L perso3
+L18D140
+ Cool it. XXX
+// Malrot2 perso62
+L18D141A
+ Hey, listen. I don't know you and I got nothing to say to you. XXX
+// Malrot2 perso62
+L18D141B
+ Got it? XXX
+// Arkhan2 O perso2
+L18D142
+ Who's in charge here? XXX
+// Arkhan3 O perso3
+L18D143
+ Who's in charge? XXX
+// Malrot2 perso62
+L18D144
+ No one! So take your walkin' freak show somewhere else ! XXX
+// Arkhan2 O perso2
+L18D145
+ Who're you? XXX
+// Arkhan3 O perso3
+L18D146
+ You... who? XXX
+// Malrot2 perso62
+L18D147
+ None of your business. Get outta here! XXX
+// Arkhan2 G perso2
+L18D23A
+ I've got a message for you: XXX
+// Arkhan2 G perso2
+L18D23B
+"Mankind is but a pawn that the hand of Destiny moves sometimes into the Darkness, and sometimes into the Light". XXX
+// Arkhan3 G perso3
+L18D24A
+ Me... message for you: XXX
+// Arkhan3 G perso3
+L18D24B
+"Mankind... but pawn... the hand of Destiny moves... sometimes into Darkness... sometimes into Light". XXX
+// Malrot2 perso62
+L18D274A
+ Hey, since when do animals like you write poetry? Hah, hah, hah! XXX
+// Malrot2 perso62
+L18D274B
+ Go on, get your creepy ass outta here, pronto, before I kick it into the Darkness for good! XXX
+// Arkhan2 L perso2
+L18D148
+ Your chief's quite a guy! XXX
+// Arkhan3 L perso3
+L18D149
+ Chief... quite a guy! XXX
+// Malrot2 perso62
+L18D150
+ Yeah. But don't rub him the wrong way! XXX
+// Arkhan2 O perso2
+L18D154
+ So you're Armal Sadak's bootlicker, eh? XXX
+// Arkhan3 O perso3
+L18D155
+ Armal Sadak's yes-man? XXX
+// Malrot2 perso62
+L18D156
+ Whatever you say. I couldn't care less... XXX
+// Arkhan2 O perso2
+L18D151
+ Who's the snoring flea bag over there? XXX
+// Arkhan3 O perso3
+L18D152
+ Who's the boozer over there? XXX
+// Malrot2 perso62
+L18D153A
+ Hey listen around here, we like drinkin' and eatin'. XXX
+// Malrot2 perso62
+L18D153B
+ And when we get tired, the waves rock us to sleep... XXX
+// Arkhan2 G perso2
+L18D184
+ Want a swig of Stohll? XXX
+// Arkhan3 G perso3
+L18D185
+ Drink? XXX
+// Malrot2 perso62
+L18D186
+ No, that mug of yours doesn't turn me on! XXX
+// Malrot2 perso62
+L18D187
+ A little Stohll? Don't mind if I do. XXX
+// Malrot2 (burping) perso62
+L18D188
+ ... Thanks. XXX
+// Malrot2 (after drinking) perso62
+L18D189
+ Aaahhh... hey wouldn't mind another! XXX
+// Arkhan2 L perso2
+L18D12
+ What's your game? XXX
+// Arkhan3 L perso3
+L18D13
+ Wha's yer game? XXX
+// Arkhan2 O perso2
+L18D15
+ What kind of kiddie game is this? XXX
+// Arkhan3 O perso3
+L18D16
+ Some kiddie game? XXX
+// Armal Sadak perso6
+L18D14A
+ This is the game of Yong. XXX
+// Armal Sadak perso6
+L18D14B
+ You're not from around here, are you. XXX
+// Arkhan2 L perso2
+L18D18
+ How do you play this game of yours? XXX
+// Arkhan3 L perso3
+L18D19
+You show.... How play the game? XXX
+// Arkhan2 O perso2
+L18D21
+ I can beat you with my eyes closed! XXX
+// Arkhan3 O perso3
+L18D22
+ I'll beat you, eyes closed! XXX
+// Armal Sadak perso6
+L18D20A
+ Bubbling black plague. XXX
+// Armal Sadak perso6
+L18D20B
+ I don't have any time to waste on chitchat... XXX
+// Armal Sadak perso6
+L18D20C
+ (Sigh) XXX
+// Armal Sadak perso6
+L18D25
+ I see you were sent by a mutual friend. XXX
+// Arkhan2 G perso2
+L18D255
+ Yes, I spoke... XXX
+// Arkhan3 G perso3
+L18D256
+ Yes, it's... XXX
+// Armal Sadak perso6
+L18D25A
+ Stop. I don't need to hear any more. XXX
+// Armal Sadak perso6
+L18D25B
+ You're welcome here, don't give it another thought. XXX
+// Armal Sadak perso6
+L18D25C
+ And don't ask any questions... XXX
+// Armal Sadak perso6
+L18D257
+ I already told you, I don't drink. XXX
+// Armal Sadak perso6
+L18D258
+ No offense intended, but I never drink. XXX
+// Armal Sadak perso6
+L18D28A
+ I'm not here to barter, my friend. XXX
+// Armal Sadak perso6
+L18D28B
+ But if you'd like to bet a nice little weapon, we could play a game of Yong. XXX
+// Armal Sadak perso6
+L18D116A
+ Bubbling black plague! XXX
+// Armal Sadak perso6
+L18D116B
+ This is an old piece of scrap iron, not a weapon! XXX
+// Armal Sadak perso6
+L18D115B
+ Find me something else! XXX
+// Arkhan2 G perso2
+L18D29
+ Tell me the rules again. XXX
+// Arkhan3 G perso3
+L18D30
+ Tell me rules... again. XXX
+// Armal Sadak perso6
+L18D31A
+ It's easy! You're white, I'm black. XXX
+// Armal Sadak perso6
+L18D31B
+ We take turns, we each put a counter on the board, and we have to turn over at least one enemy counter. XXX
+// Armal Sadak perso6
+L18D31C
+ To turn over one or more of my counters, you have to surround them with yours. XXX
+// Armal Sadak perso6
+L18D31D
+ When you turn a counter over, it changes owners and color. XXX
+// Armal Sadak perso6
+L18D31E
+ The winner is the one who has the most counters on the board when the last square is occupied. XXX
+// Armal Sadak perso6
+L18D31F
+ Come on. Hand over a nice weapon and let's start! XXX
+// Arkhan2 G perso2
+L18D129
+ Do I have to bet a weapon? XXX
+// Arkhan3 G perso3
+L18D130
+ Have to bet a weapon? XXX
+// Armal Sadak perso6
+L18D131
+ That's the rules! XXX
+// Arkhan2 G perso2
+L18D32
+ Are we going to play? XXX
+// Arkhan3 G perso3
+L18D33
+ Gonna play? XXX
+// Armal Sadak perso6
+L18D34
+ Sit down over there and let's start! XXX
+// Arkhan2 L perso2
+L18D35
+ You're pretty good! XXX
+// Arkhan3 L perso3
+L18D36
+ You're good! XXX
+// Arkhan2 O perso2
+L18D37
+ You were just lucky, that's all! XXX
+// Arkhan3 O perso3
+L18D38
+ Just luck! XXX
+// Armal Sadak perso6
+L18D39
+ People tell me I'm the best player in the Stallite. XXX
+// Armal Sadak perso6
+L18D40
+ Thanks. XXX
+// Arkhan2 L perso2
+L18D259
+ That was a good game. XXX
+// Arkhan3 L perso3
+L18D260
+ Good game. XXX
+// Arkhan2 O (exulting) perso2
+L18D261
+ Ahhh, Hah, Hah, Hah, I wiped you out! XXX
+// Arkhan3 O (exulting) perso3
+L18D262
+ Smoked ya! XXX
+// Armal Sadak perso6
+L18D263A
+ You were lucky... but you're not bad. XXX
+// Armal Sadak perso6
+L18D263B
+ Always a pleasure to trade weapons and info with you. XXX
+// Armal Sadak perso6
+L18D264A
+ I have to admit, you played a good game. XXX
+// Armal Sadak perso6
+L18D264B
+ But I'm going to keep your weapon in exchange for the information I gave you. XXX
+// Arkhan2 L perso2
+L18D43
+ Listen, Sadak, I really need your help. XXX
+// Arkhan3 L perso3
+L18D44
+ Sadak, I need help. Now! XXX
+// Armal Sadak perso6
+L18D45A
+ There's no room in this world for weaklings, Arkhan. XXX
+// Armal Sadak perso6
+L18D45B
+ You can't get something for nothing, not around here anyway. XXX
+// Armal Sadak perso6
+L18D45C
+ If you really want me to help you, you'll have to prove yourself. XXX
+// Armal Sadak perso6
+L18D45D
+ You have to beat me at the game of Yong. And that's final. XXX
+// Arkhan2 O perso2
+L18D102A
+ I've had enough of your stupid game! XXX
+// Arkhan2 O perso2
+L18D102B
+ Give me what I want, thief! XXX
+// Arkhan3 O perso3
+L18D103A
+ Enough stupid game! XXX
+// Arkhan3 O perso3
+L18D103B
+ Thief! Give me... XXX
+// Armal Sadak perso6
+L18D104A
+ Thief?! What right have you to call me a thief, Mr. Fancy-Pants from the Upper City? XXX
+// Armal Sadak perso6
+L18D104B
+ People who insult me like that don't live to tell the tale! XXX
+// Arkhan2 L perso2
+L18D49
+ Have you changed your mind? XXX
+// Arkhan3 L perso3
+L18D50
+ Changed your mind? XXX
+// Armal Sadak perso6
+L18D51A
+ You didn't get the picture the first time, did you? XXX
+// Armal Sadak perso6
+L18D51B
+ If you want me to help you, you have to prove you can beat me! XXX
+// Armal Sadak perso6
+L18D54A
+ But I've give you a little hint: XXX
+// Armal Sadak perso6
+L18D54B
+ The player who gets to the corners of the board first has the best chance of winning. XXX
+// Arkhan2 O perso2
+L18D52
+You better help me, I don't think you want to see me angry! XXX
+// Arkhan3 O perso3
+L18D53
+ Help me, or I'll make trouble! XXX
+// Armal Sadak perso6
+L18D265B
+ True strength is in the brain, not the brawn! XXX
+// Arkhan2 L perso2
+L18D55
+ I need to know who runs things around here. Tell me. XXX
+// Arkhan3 L perso3
+L18D56
+ Tell me who I need to talk to here. XXX
+// Arkhan2 O perso2
+L18D57
+ If you've got the pull everyone thinks you do, you oughta be able to tell me who I should talk to around here. XXX
+// Arkhan3 O perso3
+L18D58
+ If you're so smart, tell me who runs things here. XXX
+// Armal Sadak perso6
+L18D59A
+ Not so fast, friend. XXX
+// Armal Sadak perso6
+L18D59B
+ I challenge you to a game of Yong. XXX
+// Armal Sadak perso6
+L18D59C
+ If you beat me, I'll tell you what you want to know. XXX
+// Arkhan2 G perso2
+L18D60
+ I need to know how to play, first! XXX
+// Arkhan3 G perso3
+L18D61
+ How do you play? XXX
+// Arkhan2 G perso2
+L18D90A
+ I'm looking for someone. A Guardian of Fire named Zed... XXX
+// Arkhan2 G perso2
+L18D90B
+ Have you or one of your men seen him? XXX
+// Arkhan3 G perso3
+L18D91A
+ I'm looking for a man named Zed. XXX
+// Arkhan3 G perso3
+L18D91B
+ Have your men seen him? XXX
+// Armal Sadak perso6
+L18D92A
+ Sure, I know Zed. Everyone knows Zed. XXX
+// Armal Sadak perso6
+L18D92B
+ He's too brave for his own good. XXX
+// Armal Sadak perso6
+L18D92C
+ I heard he came down to the Lower City after the attack on the Great Sunseer. XXX
+// Armal Sadak perso6
+L18D92D
+ But we lost track of him. XXX
+// Arkhan2 G perso2
+L18D105
+ Shall we play a round? XXX
+// Arkhan3 G perso3
+L18D106
+ Play a game? XXX
+// Armal Sadak perso6
+L18D107A
+ Great Sun God, looks like you're hooked! XXX
+// Armal Sadak perso6
+L18D107B
+ You know the price: a weapon. XXX
+// Armal Sadak perso6
+L18D107C
+ If you win, I'll give you ammo for the thunderbolts from Before. XXX
+// Arkhan2 L perso2
+L18D63
+ I'm looking for an antidote to the poison eating away at me. XXX
+// Arkhan3 L perso3
+L18D64
+ I'm looking for a cure. XXX
+// Armal Sadak perso6
+L18D65A
+ You're not planning to go to the healers, I gather... XXX
+// Armal Sadak perso6
+L18D65B
+ Maybe you should talk to Leona, if you can find her. XXX
+// Arkhan2 L perso2
+L18D266
+ Leona? XXX
+// Arkhan3 L perso3
+L18D267
+ Leona? XXX
+// Armal Sadak perso6
+L18D666A
+ She's a hermit. She lives outside the Stallite, in the Darklands. XXX
+// Armal Sadak perso6
+L18D666B
+ But no one knows exactly where. XXX
+// Arkhan2 O perso2
+L18D66
+ I won! Now, quick! Tell me how I can be healed! XXX
+// Arkhan3 O perso3
+L18D67
+ I won! Give me the cure. Quick! XXX
+// Armal Sadak perso6
+L18D68A
+ You're right. You won. XXX
+// Armal Sadak perso6
+L18D68B
+ But men have died before this for talking to me like that! XXX
+// Armal Sadak perso6
+L18D68C
+ If you can't keep a civil tongue in your mouth, you'd better make tracks. Now! XXX
+// Arkhan2 G perso2
+L18D69
+ This Leona, how can I find her? XXX
+// Arkhan3 G perso3
+L18D70
+ How find Leona? XXX
+// Armal Sadak perso6
+L18D71A
+ If what people say is true, you don't find her, she finds you. XXX
+// Armal Sadak perso6
+L18D71B
+ But you'll have a bit of a hard time to make it out of the Stallite. The Guardians of Fire have closed all the gates. XXX
+// Arkhan2 G perso2
+L18D72A
+ The Konkalites? XXX
+// Arkhan2 G perso2
+L18D72B
+ Where's their hideout? XXX
+// Arkhan3 G perso3
+L18D73
+ Where Konkalites hide-out? XXX
+// Armal Sadak perso6
+L18D74
+ Somewhere down in the sewers! XXX
+// Arkhan2 G perso2
+L18D75
+ Do the Konkalites have a weak spot? XXX
+// Arkhan3 G perso3
+L18D76
+ Konkalites. Where... weak spot? XXX
+// Armal Sadak perso6
+L18D77A
+ Sure! Their chief is a disgusting crud! XXX
+// Armal Sadak perso6
+L18D77B
+ His name's Sordos. He used to be one of us. XXX
+// Armal Sadak perso6
+L18D77C
+ He already sees himself ruling the Stallite by fire and the sword. XXX
+// Armal Sadak perso6
+L18D77D
+ But what a creep he is! XXX
+// Arkhan2 G perso2
+L18D78
+ What about Dhorkan? I don't understand why you brought him up. XXX
+// Arkhan3 G perso3
+L18D79
+ Why Dhorkan? XXX
+// Armal Sadak perso6
+L18D80A
+ That, my boy, is another story. XXX
+// Armal Sadak perso6
+L18D80B
+ In exchange for a fine weapon, I could tell you more... XXX
+// Armal Sadak perso6
+L18D80C
+ If you beat me at Yong, of course! XXX
+// Arkhan2 G perso2
+L18D81
+ Does Dhorkan come down here openly? XXX
+// Arkhan3 G perso3
+L18D82
+ Dhorkan just waltzes in here? XXX
+// Armal Sadak perso6
+L18D83A
+ No. He's wily. He sneaks around. XXX
+// Armal Sadak perso6
+L18D83B
+ But I've got men everywhere, and they keep their eyes open. XXX
+// Armal Sadak perso6
+L18D83C
+ We think he's visited the Konkalites at least ten times since the last moon. XXX
+// Armal Sadak perso6
+L18D83D
+ And there are some who say he opened the Condemned Door and went inside. XXX
+// Arkhan2 G perso2
+L18D268
+ The Condemned Door? XXX
+// Arkhan3 G perso3
+L18D269
+ Condemned Door? XXX
+// Armal Sadak perso6
+L18D270A
+ Actually, it's the door to a building from Before. Not far from here. XXX
+// Armal Sadak perso6
+L18D270B
+ No one's ever managed to open it. XXX
+// Armal Sadak perso6
+L18D270C
+ And people say everyone who tried, later died a mysterious death... XXX
+// Arkhan2 G perso2
+L18D271
+ Is this true? XXX
+// Arkhan3 G perso3
+L18D272
+ Is it true? XXX
+// Armal Sadak perso6
+L18D273A
+ I couldn't tell you. But you often find dead animals around there. XXX
+// Armal Sadak perso6
+L18D273B
+ So the local Scavengers put some skulls near that door that everyone's so interested in. XXX
+// Armal Sadak perso6
+L18D273C
+ Just to discourage the tourists. XXX
+// Arkhan2 G perso2
+L18D84A
+ I'm looking for a crypt. A secret place known only to the Sunseers. XXX
+// Arkhan2 G perso2
+L18D84B
+ Ring any bells? XXX
+// Arkhan3 G perso3
+L18D85
+ And a secret crypt, known only to Sunseers? Know anything about that? XXX
+// Armal Sadak perso6
+L18D86A
+ Yes... I've heard rumors about it. XXX
+// Armal Sadak perso6
+L18D86B
+ Underground, a source of energy... XXX
+// Armal Sadak perso6
+L18D86C
+ The entrance is supposed to be somewhere in the Upper City. XXX
+// Armal Sadak perso6
+L18D86D
+ Don't know any of the details... XXX
+// Arkhan2 G perso2
+L18D87A
+ I'm looking for some cut crystals. XXX
+// Arkhan2 G perso2
+L18D87B
+ Have you or your men seen anything like that around here? XXX
+// Arkhan3 G perso3
+L18D88A
+ Looking for crystals. Cut crystals. XXX
+// Arkhan3 G perso3
+L18D88B
+ You or your men seen any? XXX
+// Armal Sadak perso6
+L18D89A
+ No,I've never seen anything like that around here. XXX
+// Armal Sadak perso6
+L18D89B
+ But if I do, I'll let you know. XXX
+// Arkhan2 G perso2
+L18D275
+ How about that? XXX
+// Arkhan3 G perso3
+L18D276
+ How about that? XXX
+// Armal Sadak perso6
+L18D277A
+ Let's see... XXX
+// Armal Sadak perso6
+L18D277B
+ A pact between Dhorkan and Sordos. Those blockheads made a written agreement! XXX
+// Armal Sadak perso6
+L18D277C
+ Must have been the Provost's idea. XXX
+// Armal Sadak perso6
+L18D277D
+ Sordos doesn't even know how to read. It's all scribble to him! XXX
+// Arkhan2 L perso2
+L18D93A
+ I found the body of a Wanderer on the ramparts of the Stallite. XXX
+// Arkhan2 L perso2
+L18D93B
+ He had this Yong counter on him. XXX
+// Arkhan2 L perso2
+L18D93C
+ I thought maybe you'd be interested... XXX
+// Arkhan3 L perso3
+L18D94A
+ On the ramparts. Saw... Wanderer. XXX
+// Arkhan3 L perso3
+L18D94B
+ Had this on him. XXX
+// Arkhan3 L perso3
+L18D94C
+ Reminded me of you... XXX
+// Arkhan2 O perso2
+L18D96A
+ Out on the ramparts, there's a Wanderer... dead. XXX
+// Arkhan2 O perso2
+L18D96B
+ I found this Yong counter on him. XXX
+// Arkhan2 O perso2
+L18D96C
+Look familiar? XXX
+// Arkhan3 O perso3
+L18D97A
+ On the ramparts, there's a Wanderer... He's dead. XXX
+// Arkhan3 O perso3
+L18D97B
+ I found this on him. XXX
+// Arkhan3 O perso3
+L18D97C
+ It's yours, isn't it? XXX
+// Armal Sadak (subdued) perso6
+L18D95A
+ This counter... It's the one I gave to Lodar! XXX
+// Armal Sadak perso6
+L18D95B
+ What happened to him, tell me! XXX
+// Arkhan2 G perso2
+L18D284
+ Mm... Stomach wound. Mortal. XXX
+// Arkhan3 G perso3
+L18D285
+ Mm... wounded... Mortal wound. XXX
+// Arkhan2 G perso2
+L18D286
+ Looks like a Konkalite did it. Ripped him to shreds. XXX
+// Arkhan3 G perso3
+L18D287
+ A Konkalite did it. Didn't have a chance. XXX
+// Armal Sadak perso6
+L18D95C
+ Lodar was my friend... and a great Yong player. XXX
+// Armal Sadak perso6
+L18D95D
+ I'm grateful to you for returning the counter. XXX
+// Armal Sadak perso6
+L18D95E
+ I want to thank you for what you did. Take this helmet, in memory of a courageous Wanderer. XXX
+// Arkhan2 G perso2
+L18D111
+ How about this weapon? XXX
+// Arkhan3 G perso3
+L18D112
+ This one, how about it? XXX
+// Armal Sadak perso6
+L18D113
+ Perfect. XXX
+// Armal Sadak perso6
+L18D114
+ Sit down and let's play! XXX
+// Armal Sadak perso6
+L18D115A
+ It's not exactly new! XXX
+// Arkhan2 L perso2
+L18D162
+ Hey! Get up! XXX
+// Arkhan3 L perso3
+L18D163
+ Forget it! XXX
+// Arkhan2 O perso2
+L18D164
+ Hey! Get up! XXX
+// Malrot 4 perso64
+L18D166A
+ (loud breathing) XXX
+// Malrot 4 perso64
+L18D166B
+ (sleepy grumbling) XXX
+// Arkhan2 G perso2
+L18D167
+ Hey! look at that! XXX
+// Arkhan3 G perso3
+L18D168
+ Hey, look... XXX
+// Arkhan2 G perso2
+L18D169
+ Can't get anything out of him! XXX
+// Arkhan3 G perso3
+L18D170
+ Nothing out of him! XXX
+// Arkhan2 G (searching among the objects) perso2
+L18D173
+ Stuff a sailor would have... XXX
+// Arkhan3 G (searching among the objects) perso3
+L18D174
+ Sailor's stuff... XXX
+// Malrot2 (irritated) perso62
+L18D183A
+ Did you hear what I said? XXX
+// Malrot2 perso62
+L18D183B
+ Hands off my Stohll! XXX
+// Malrot2 perso62
+L18D182A
+ This ain't your shack, buddy! XXX
+// Malrot2 perso62
+L18D182B
+ So keep your paws off of my Stohll supply. XXX
+// Malrot2 perso62
+L18D176
+ Hey go ahead, help yourself! XXX
+// Arkhan2 G perso2
+L08D71
+ No, the flask is already full. XXX
+// Arkhan3 G perso3
+L08D72
+ The flask is full! XXX
+// Malrot2 (jovial) perso62
+L18D181
+ Ah hey, if your gourd's too heavy, I could help you lighten the load! XXX

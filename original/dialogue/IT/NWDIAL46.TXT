@@ -1,0 +1,91 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\IT\NWDIAL46.TXT
+ // Arkhan2 G (scopre suo padre che giace ferito) perso2
+L46D01
+Sole-Dio! Padre! XXX
+// Arkhan3 G (scopre suo padre che giace ferito) perso3
+L46D02
+Padre, no! XXX
+// Rylsadhar contaminato perso21
+L46D03
+Arkhan... Io... Io non sono riuscito... XXX
+// Arkhan2 G perso2
+L46D04
+Padre, chi... chi t'ha fatto questo? XXX
+// Arkhan3 G perso3
+L46D05
+Padre, chi ti ha fatto questo? XXX
+// Rylsadhar contaminato perso21
+L46D06A
+Dhorkan... Quel miserabile traditore... XXX
+// Rylsadhar contaminato perso21
+L46D06B
+Mi ha consegnato ai Konkaliti... XXX
+// Arkhan2 G perso2
+L46D07
+Lo ritroverò, padre. La pagherà! XXX
+// Arkhan3 G perso3
+L46D08
+La pagherà, padre! XXX
+// Rylsadhar contaminato perso21
+L46D09A
+No, figlio mio... Dhorkan non è che un folle cieco! XXX
+// Rylsadhar contaminato perso21
+L46D09B
+Thanandar è il vero pericolo! Lui manovra i Konkaliti... XXX
+// Rylsadhar contaminato perso21
+L46D09C
+Dhorkan non ne sa niente. XXX
+// Rylsadhar contaminato perso21
+L46D09D
+Zed e io... siamo stati catturati... contaminati... XXX
+// Rylsadhar contaminato perso21
+L46D09E
+Io sono... fuggito... ma sono troppo debole... XXX
+// Arkhan2 G perso2
+L46D10
+Ma padre, Thanandar è morto! XXX
+// Arkhan3 G perso3
+L46D11
+Thanandar è morto! XXX
+// Rylsadhar contaminato perso21
+L46D12A
+Thanandar il Guaritore, sì... Ma non il mostro che è diventato! XXX
+// Rylsadhar contaminato perso21
+L46D12B
+È... un essere dell'Oscuro ormai. XXX
+// Rylsadhar contaminato perso21
+L46D12C
+Vuole... distruggere il Cuore... di Luce... XXX
+// Rylsadhar contaminato perso21
+L46D12D
+Vai al Tempio... la cripta... XXX
+// Rylsadhar (con l'ultimo respiro) perso21
+L46D12E
+Proteggi la luce... XXX
+// Rylsadhar (rende l'ultimo respiro) perso21
+L46D12F
+Aaaaah... XXX
+// Arkhan2 G (vendicativo, a se stesso) perso2
+L46D14
+Thanandar! XXX
+// Arkhan3 G (vendicativo, a se stesso) perso3
+L46D15
+Thanandar! XXX
+// Arkhan2 L (davanti al corpo di Rylsadhar) perso2
+L22D12A
+Padre! XXX
+// Arkhan2 L (davanti al corpo di Rylsadhar) perso2
+L22D12B
+Giuro di vendicarti! Thanandar morrà! XXX
+// Arkhan2 O perso2
+L22D13A
+Thanandar! Hai ucciso mio padre! XXX
+// Arkhan2 O perso2
+L22D13B
+Adesso pagherai! XXX
+// Arkhan3 L perso3
+L22D14
+Padre! Voglio vendetta! XXX
+// Arkhan3 O (grugnendo fra sé)perso3
+L22D15
+Padre! RAAAH! Vendetta! XXX

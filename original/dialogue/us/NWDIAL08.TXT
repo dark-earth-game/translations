@@ -1,0 +1,1156 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL08.TXT
+ // Delia (panicked) perso10
+L08D215A
+ Arkhan! XXX
+// Delia (panicked) perso10
+L08D215B
+ Over there... A Creature from the Darklands! XXX
+// Delia (panicked) perso10
+L08D215C
+ What... What are we going to do? XXX
+// Arkhan2 G perso2
+L08D217A
+ Don't worry, I'll take care of him... XXX
+// Arkhan2 G perso2
+L08D217B
+ Don't move, whatever you do! XXX
+// Arkhan3 G perso3
+L08D218
+ I'll figure something out... Stay here! XXX
+// Kalhi perso33
+L08D153
+ Be careful Arkhan. Let's keep together. XXX
+// Guardian3 perso43
+L08D92
+ So, do you think the Sunseer is telling the truth? ...That the Black Shroud is really threatening us? XXX
+// Guardian4 perso44
+L08D93A
+ I don't know... XXX
+// Guardian4 perso44
+L08D93B
+ But after the attack on the Great Sunseer, we'd better keep a sharp look-out! XXX
+// Guardian4 perso44
+L08D93C
+ If those slimes come back, they'll get a surprise from me! XXX
+// Guardian3 perso43
+L08D94A
+ You said it! They'll pay for Jedar's death with their own blood! XXX
+// Guardian3 perso43
+L08D94B
+ And for what they did to Arkhan! XXX
+// Guardian4 perso44
+L08D95
+ What about the Great Sunseer? XXX
+// Guardian3 perso43
+L08D96A
+ With the declaration of martial law, she's gone into hiding. XXX
+// Guardian3 perso43
+L08D96B
+ Dhorkan has everything under control. XXX
+// Guardian4 perso44
+L08D97A
+ Yeah! They say Zed's down in the Lower City, chasing after the creatures that did it... XXX
+// Guardian4 perso44
+L08D97B
+ Okay, let's go. Better get back to our posts. XXX
+// Guardian5 perso45 
+L08D223
+ The Sunseers say the Darkness got him! That he's no longer one of us! XXX
+// Guardian6 perso46
+L08D224A
+ That doesn't mean he's plotting with the Konkalites! XXX
+// Guardian6 perso46
+L08D224B
+ If Arkhan had done anything to hurt the Great Sunseer, she'd have said so. XXX
+// Guardian5 perso45
+L08D225A
+ How do you know? Dhorkan won't let anyone near the Great Sunseer. XXX
+// Guardian5 perso45
+L08D225B
+ A security measure. XXX
+// Guardian6 perso46
+L08D226
+ No one's gonna make me believe Arkhan's a traitor. XXX
+// Guardian5 perso45
+L08D227A
+ Yeah... unless this disease has already eaten into his brain.... XXX
+// Guardian5 perso45
+L08D227B
+ Don't worry, if he tries any funny business, I'll get him! XXX
+// Guardian5 perso45
+L08D316
+ Did they find anything? XXX
+// Guardian6 perso46
+L08D317A
+ Not yet.. except for a girl, a Scavenger. XXX
+// Guardian6 perso46
+L08D317B
+ But I'd be surprised if she had anything to do with it....  XXX
+// Guardian5 perso45
+L08D318A
+ What do you know?! Some pretty strange things have been happening around here lately... XXX
+// Guardian5 perso45
+L08D318B
+ Anyway, the Scavengers are supposed to keep away from here. XXX
+// Guardian6 perso46
+L08D319
+ They put her in the Stockade. If she knows anything, she'll break down and talk. XXX
+// Guardian5 perso45
+L08D320
+ Yeah. Well until then, keep your eyes peeled! XXX
+// Guardian7 perso47
+L08D143
+ Ya hear that? Kabak says some Creatures from the Outer Darkness are down in the Lower City. XXX
+// Guardian8 perso48
+L08D144A
+ Kabak's nothing but a crazy old coot! XXX
+// Guardian8 perso48
+L08D144B
+ The Sun God is testing our faith. XXX
+// Guardian8 perso48
+L08D144C
+ I'm not worried. The Sun God won't forsake us. XXX
+// Guardian7 perso47
+L08D145A
+ I don't know... this business gives me the willies. XXX
+// Guardian7 perso47
+L08D145B
+ What if the night never ended?! XXX
+// Guardian8 perso48
+L08D146A
+ That's ridiculous! XXX
+// Guardian8 perso48
+L08D146B
+ You're scared, that's why you're talking blasphemy! XXX
+// Kalhi perso33
+L08D220
+ Come on, let's get outta here. Too many people have seen us already... XXX
+// Kalhi perso33
+L08D321
+ Arkhan, don't go too far! XXX
+// Kalhi perso33
+L08D322
+ What are you doing? XXX
+// Kalhi perso33
+L08D323
+ Arkhan, stay here with me! XXX
+// Kalhi2 (whispers) perso33
+L08D209A
+ Stay beside me and don't get too far away. XXX
+// Kalhi2 (whispers) perso33
+L08D209B
+ There's a Guardian over there! XXX
+// Kalhi (stunned) perso13
+L08D335A
+ You... you came back to get me? XXX
+// Kalhi (stunned) perso13
+L08D335B
+ What made you do it? XXX
+// Kalhi (close to tears) perso13
+L08D335C
+ It's the evil driving you mad! XXX
+// Kalhi perso13
+L08D157
+ Arkhan! For the love of the Sun God, hurry up! XXX
+// Kalhi perso13
+L08D156
+ If we hang around here any longer, someone's going to see us! XXX
+// Kalhi perso13
+L08D155
+ Arkhan, let's get out of here! XXX
+// Guardian10 perso50
+L08D310
+ Great Solaar! You're the creature! XXX
+// Kalhi perso13
+L08D158
+ I'll wait here. Hurry! XXX
+// Guardian3 perso43
+L08D303
+ Watch out! XXX
+// Guardian6 perso46
+L08D304
+ Watch out! XXX
+// Guardian7 perso47
+L08D305
+ Watch out! XXX
+// Guardian8 perso48
+L08D147
+ Okay, I'm going back up. I need more ammo! XXX
+// Guardian7 perso47
+L08D148
+ Keep your eyes peeled! XXX
+// Guardian7 (shouting in Arkhan's direction) perso47
+L08D149
+ Someone's trying to get past! XXX
+// Guardian5 perso45
+L08D141
+ Who goes there?! XXX
+// Guardian6 (towards A.) perso46
+L08D124
+ Halt! Who goes there! XXX
+// Guardian3 (after Arkhan's battle cry) perso43
+L08D01
+ What's come over you? XXX
+// Guardian4 (after Arkhan's battle cry) perso44
+L08D02
+ I'll shut your trap for you! XXX
+// Guardian5 perso45
+L08D270
+ I'll bleed you like a stuck pig! XXX
+// Guardian6 (attacked by A.) perso46
+L08D140
+ You'll never get me! XXX
+// Guardian4 perso44
+L08D242
+ Stop him! XXX
+// Guardian3 (alarmed to see A. advance, addresses his partner as if to say "what do we do now"?) perso43
+L08D243
+ Garn?! XXX
+// Guardian4 (taking out his weapons, frightened) perso44
+L08D222
+ Blasted hell, it's a demon from the Darklands! XXX
+// Guardian3 perso43
+L08D241
+ Garn, watch out! XXX
+// Guardian4 perso44
+L08D324
+ Hey, you over there! Halt! XXX
+// Guardian10 perso50
+L08D229
+ Hello there, darling! XXX
+// Kalhi perso33
+L08D312A
+ Hello to you, Guardian of Fire. XXX
+// Kalhi perso33
+L08D312B
+ I'm escorting this prisoner to the Hospital. XXX
+// Guardian10 perso50
+L08D210
+ Watch out, your prisoner's escaping! XXX
+// Guardian10 perso50
+L08D311
+ Hey there! Where do you think you're going! XXX
+// Kalhi perso13
+L08D230
+ You might at least have helped me get rid of that Guardian! XXX
+// Guardian3 (attacked by Arkhan) perso43
+L08D152
+ Hey! Truce! XXX
+// Guardian3 (A. puts away his weapon) perso43
+L08D235
+ That's more like it! XXX
+// Arkhan1 L perso1
+L08D03
+ Light be with you, Teskhan. XXX
+// Guardian3 perso43
+L08D04
+ And light be with you, Arkhan. XXX
+// Arkhan1 L perso1
+L08D05
+ What are you up to? XXX
+// Guardian3 perso43
+L08D06A
+ You haven't heard? The great Zed is getting ready for a new expedition into the Darklands. Captain Phedoria gave me orders to help him. XXX
+// Guardian3 perso43
+L08D06B
+ As you can see, lots of machines need repairs before he leaves. XXX
+// Guardian3 perso43
+L08D06C
+ And he's taking off at the next rising of the Sun God! XXX
+// Arkhan1 L perso1
+L08D07
+ You've got your work cut out for you! XXX
+// Guardian3 perso43
+L08D08
+ I can handle it, it's a pleasure to be able to help a man like Zed. You're lucky to be a friend of his... XXX
+// Arkhan1 L perso1
+L08D17
+ I have to go stand guard at the Great Temple. XXX
+// Guardian3 perso43
+L08D18
+ Yeah, I think Jedar's already over there... XXX
+// Arkhan1 L perso1
+L08D19
+ You know what's going on? XXX
+// Guardian3 perso43
+L08D20A
+ The Great Sunseer's meeting with the Scavengers. I think they've made some kind of discovery. XXX
+// Guardian3 perso43
+L08D20B
+ Don't worry, if Dhorkan's sending just you and Jedar, it shouldn't last very long.... XXX
+// Arkhan1 L perso1
+L08D236
+ I'm off, see ya later. XXX
+// Guardian3 (1st time) perso43
+L08D237
+ Good luck Arkhan. XXX
+// Guardian3 (2nd time, impatient) perso43
+L08D238
+ Yeah. Well, you'd better get going! XXX
+// Arkhan1 O (mumbles) perso1
+L08D10
+ Mmmm... Teskhan. XXX
+// Arkhan1 O perso1
+L08D11
+ You still slaving away like a jerk? XXX
+// Guardian3 perso43
+L08D12
+ You kidding? Captain Phedoria asked me to help our great Zed get ready for his next expedition. XXX
+// Arkhan1 O perso1
+L08D13A
+ What a lousy life, being a Guardian of Fire! I should've followed in my father's footsteps and become a Sunseer! XXX
+// Arkhan1 O perso1
+L08D13B
+ All he has to do is mutter a sermon on the Sun God every now and then. XXX
+// Arkhan1 O perso1
+L08D13C
+ Aside from that, he spends all his time with his nose buried in dusty old documents no one understands.... XXX
+// Guardian3 perso43
+L08D14A
+ Don't talk like that. Rylsadhar's one of the wisest and most respected men in the Stallite. XXX
+// Guardian3 perso43
+L08D14B
+ He's an example for all the other Sunseers. XXX
+// Arkhan1 O perso1
+L08D23A
+ Well, I've got my own chores to do. I have to stand guard at the Hall of the Great Temple with Jedar. XXX
+// Arkhan1 O perso1
+L08D23B
+ That oughta be fun! It should really brighten up my day! XXX
+// Guardian3 perso43
+L08D24
+ Listen, you're lucky. In a situation like that, Dhorkan usually sends at least ten Guardians, and they have to stand in formation for hours. XXX
+// Arkhan1 O perso1
+L08D239A
+ Thanks. I can see you're not going to make me feel any better. XXX
+// Arkhan1 O perso1
+L08D239B
+ I just have to haul some coal and then... XXX
+// Guardian3 perso43
+L08D240
+ Have a good time! XXX
+// Arkhan2 L perso2
+L08D126
+ Teskhan, don't be afraid. XXX
+// Guardian3 (can't believe his eyes) perso43
+L08D127
+ Arkhan... You... I... What kind of curse has come over you? XXX
+// Arkhan2 L perso1
+L08D100B
+ The Creatures that attacked the Great Sunseer poisoned me. XXX
+// Arkhan2 L perso1
+L08D100C
+ And I have to find a way to cure this disease. XXX
+// Guardian3 perso43
+L08D129A
+ Don't worry. Dhorkan's blocked off all the entrances. XXX
+// Guardian3 perso43
+L08D129B
+ We'll catch all the intruders.  Zed went out in person to hunt them down. XXX
+// Guardian3 perso43
+L08D129C
+ You can be sure the creatures who dared attack Lory will pay with their lives! XXX
+// Guardian3 perso43
+L08D129D
+ The creatures who did... did that... to you. XXX
+// Arkhan2 L perso2
+L08D130A
+ Hey, Teskhan, don't look at me like that! XXX
+// Arkhan2 L perso2
+L08D130B
+ I'm still a Guardian of Fire, just like you. XXX
+// Guardian3 perso43
+L08D131
+ Listen..You oughta go see the Provost. XXX
+// Arkhan2 O perso2
+L08D132
+ Hey, come on! Stop staring at me as if I were a Creature from the Darklands! XXX
+// Arkhan2 O perso2
+L08D133A
+ My whole body is burning up with this poison! XXX
+// Arkhan2 O perso2
+L08D133B
+ I'd better act fast. I have to find a cure. XXX
+// Guardian3 perso43
+L08D134
+ If you're sick, go see the Healers. XXX
+// Arkhan2 O perso2
+L08D135
+ I don't think you can do anything else to help me... XXX
+// Arkhan1 L perso1
+L08D25
+ Hey, you wanna take a swig? XXX
+// Guardian3 perso43
+L08D26
+ You know Stohll doesn't agree with me! XXX
+// Arkhan1 L perso1
+L08D27
+ Sure? Sure you're not thirsty? XXX
+// Guardian3 perso43
+L08D28
+ Forget it. I'm not wild about that mushroom stuff. XXX
+// Arkhan1 O perso1
+L08D29
+ Hey, you thirsty? I've got a flask full of Stohll! XXX
+// Guardian3 perso43
+L08D30
+ Forget it, I said I don't like Stohll! XXX
+// Arkhan1 O perso1
+L08D31
+ What are  you a Guardian of Fire, or some wimp from the Lower City? Come on, take a drink! XXX
+// Guardian3 perso43
+L08D32
+ Knock it off, Arkhan. I don't want any of your mushroom juice! XXX
+// Arkhan1 G perso1
+L08D33
+ Does this object mean anything to you? XXX
+// Guardian3 perso43
+L08D34
+ No. Forget it. XXX
+// Guardian3 perso43
+L08D325
+ Forget it! XXX
+// Arkhan1 G perso1
+L08D37
+ Hey! Take it easy! XXX
+// Guardian3 perso43
+L08D232
+ Just you wait, monster! XXX
+// Guardian4 perso44
+L08D221
+ Arkhan?... XXX
+// Guardian4 perso44
+L08D151
+ Hey... Easy does it! XXX
+// Arkhan1 L perso1
+L08D39
+ Light be with you, Garn. XXX
+// Guardian4 perso44
+L08D40
+ Light be with you, Arkhan. XXX
+// Guardian4 perso44
+L08D41
+ I'm on guard duty. Provost Dhorkan told me to stay here until further notice. XXX
+// Arkhan1 L perso1
+L08D48
+ I have to go over and guard the Great Temple. XXX
+// Guardian4 perso44
+L08D49
+ The Great Temple, huh? XXX
+// Guardian4 perso44
+L08D50
+ You can head out, the coast is clear! XXX
+// Arkhan1 L perso1
+L08D51
+ You know what's going on over there? XXX
+// Guardian4 perso44
+L08D52A
+ A special meeting with the Great Sunseer, something like that...XXX
+// Guardian4 perso44
+L08D52B
+ This isn't your lucky day. Usually they warn us in advance, and we all go over together. XXX
+// Arkhan1 L perso1
+L08D42
+ I hope we'll have some fun. XXX
+// Guardian4 perso44
+L08D43
+ Yeah, me too... XXX
+// Arkhan1 O perso1
+L08D53
+ Gee, Garn, this looks like really exciting work... XXX
+// Guardian4 perso44
+L08D54
+ You keep on laughing, Arkhan! You may never know, Dhorkan just might choose you to relieve me at nightfall.... XXX
+// Arkhan1 O perso1
+L08D45
+ Not having too much fun, are you? XXX
+// Arkhan1 O perso1
+L08D55
+ Not much going on, huh? I've got a boring assignment, too: I have to go over and guard the Hall in the Great Temple. XXX
+// Arkhan1 O perso1
+L08D46
+ Keep up the good work! With a little luck, Dhorkan will relieve you before you wear holes in your boots! XXX
+// Guardian4 perso44
+L08D47A
+ Yeah... Maybe I should tell him you're looking for something to do, and you could replace me! XXX
+// Arkhan1 O perso1
+L08D56
+ Well, don't let me keep you! I get the feeling you've still got a long way to go! XXX
+// Guardian4 (irritated by Arkhan and beginning to get nasty) perso44
+L08D57
+ Let me give you a little piece of advice: get out of here, or you're gonna run into trouble... XXX
+// Arkhan2 L perso2
+L08D98A
+ It's all right Garn, it's me. XXX
+// Arkhan2 L perso2
+L08D98B
+ I won't bite you! XXX
+// Guardian4 (still not reassured) perso44
+L08D99A
+ No.. No... But you're... different. XXX
+// Guardian4 (still unsure) perso44
+L08D99B
+ Don't take it personal, but how do I know if you're telling the truth? XXX
+// Arkhan2 L perso1
+L08D100A
+ Garn, I know what they told you, and what they want you to believe... but I haven't done anything wrong. XXX
+// Guardian4 perso44
+L08D101A
+ Yes... I believe you. XXX
+// Guardian4 perso44
+L08D101B
+ You're a friend of the great Zed's, so I trust you. XXX
+// Guardian4 perso44
+L08D101C
+ But Dhorkan's declared martial law. All intruders are being tracked down one by one. XXX
+// Guardian4 perso44
+L08D101D
+ You should go tell him what happened to you. XXX
+// Arkhan2 L perso1
+L08D102A
+ I'm still a Guardian of Fire. XXX
+// Arkhan2 L perso1
+L08D102B
+ I swear by the Sun God, it's true! XXX
+// Guardian4 perso44
+L08D103A
+ Okay. XXX
+// Guardian4 perso44
+L08D103Z
+ I believe you. XXX
+// Arkhan2 O (threatening) perso1
+L08D104
+ Listen, Garn, if you wanna stay healthy, keep away from me! XXX
+// Guardian4 perso44
+L08D105A
+ What's come over you, Arkhan! XXX
+// Guardian4 perso44
+L08D105B
+ We're under martial law now. XXX
+// Guardian4 perso44
+L08D105C
+ I'll do my duty. I don't care about your threats! XXX
+// Arkhan2 O perso1
+L08D106A
+ Out of my way! I have to find an antidote for this poison before it wrecks me! XXX
+// Arkhan2 O perso1
+L08D106B
+ And if that means ripping apart a few idiots like you, then I'll do it! XXX
+// Guardian4 (furious) perso44
+L08D107A
+ The Sunseer was right, the disease is driving you crazy. XXX
+// Guardian4 (furious) perso44
+L08D107B
+ You're not a Guardian of Fire any more! XXX
+// Arkhan2 O perso1
+L08D108
+ Move aside, flea-bag! XXX
+// Guardian4 (prepares to hit A.) perso44
+L08D109
+ You don't leave me any choice! XXX
+// Arkhan1 L perso1
+L08D58
+ You must get a little thirsty, marching up and down like that! XXX
+// Guardian4 perso44
+L08D59
+ No, thanks. Not on duty. XXX
+// Arkhan1 L perso1
+L08D60
+ Go ahead, do me a favor. XXX
+// Guardian4 perso44
+L08D61A
+ No, really. XXX
+// Guardian4 perso44
+L08D61B
+ But later tonight, once the lamp poles are  lit, I wouldn't mind a little nip. XXX
+// Arkhan1 O perso1
+L08D62
+ Go on, one little drink won't hurt! XXX
+// Arkhan1 O perso1
+L08D63
+ Blasted darkness, you're even more straight-laced than a Sunseer! Go on, take a drink! XXX
+// Guardian4 (irritated) perso44
+L08D64
+ I told you, I'm not thirsty! XXX
+// Arkhan1 G perso1
+L08D65
+ Does this object mean anything to you? XXX
+// Guardian4 perso44
+L08D66
+ No. Stop wasting my time. XXX
+// Guardian4 perso44
+L08D228
+ What? No... It doesn't interest me. XXX
+// Guardian4 (hit by A.) perso44
+L08D69
+ Arkhan! Don't get mad! XXX
+// Guardian4 (hit by A.) perso44
+L08D231
+ It's true, you're completely inhuman! XXX
+// Guardian5 (sees Arkhan2 1st time) perso45
+L08D117A
+ By the Rahal... Arkhan? XXX
+// Guardian5 (awed) perso45
+L08D117B
+ Don't...... Don't come any closer! XXX
+// Guardian5 perso45
+L08D116
+ Don't get excited, I haven't done anything! XXX
+// Arkhan2 L perso2
+L08D244A
+ Don't panic. XXX
+// Arkhan2 L perso2
+L08D244B
+ I'm not looking for a fight. XXX
+// Guardian5 perso45
+L08D245A
+ Okay... Okay. XXX
+// Guardian5 perso45
+L08D245B
+ But you'd better beat it now... XXX
+// Guardian5 perso45
+L08D245C
+ Nobody wants you around here. XXX
+// Arkhan2 L perso2
+L08D246A
+ Listen, my father Rylsadhar knows a cure for this disease. XXX
+// Arkhan2 L perso2
+L08D246B
+ And believe me, I intend to cure it! XXX
+// Guardian5 (openly hostile) perso45
+L08D247A
+ The Sunseers don't all think the way your father does! XXX
+// Guardian5 perso45
+L08D247B
+ Maybe there is no cure! XXX
+// Guardian5 perso45
+L08D247C
+ It would be better if you went into exile in the Darklands, before someone tries to wipe you out for good! XXX
+// Guardian5 perso45
+L08D247D
+ Think it over, before it's too late... XXX
+// Arkhan2 L perso2
+L08D248A
+ I can tell you don't trust me. XXX
+// Arkhan2 L perso2
+L08D248B
+ We'll talk about it some other time, when I'm back to normal. XXX
+// Arkhan2 L perso2
+L08D249
+ I'll prove you're wrong, buddy. Soon... you'll see. XXX
+// Guardian5 (hostile) perso45
+L08D250
+ I've got my eye on you, Arkhan! XXX
+// Guardian5 (threatening) perso45
+L08D258
+ We'll just see about that.... We'll see... XXX
+// Arkhan2 O perso2
+L08D251A
+ Blasted gloom! Yes, it's me! XXX
+// Arkhan2 O perso2
+L08D251B
+ Don't just stand there with your tongue hanging out! XXX
+// Guardian5 perso45
+L08D252A
+ You... You'd better get out of here. XXX
+// Guardian5 perso45
+L08D252B
+ The Provost wouldn't like a creature like you sneaking around. XXX
+// Arkhan2 O perso2
+L08D253A
+ Don't you believe it! XXX
+// Arkhan2 O perso2
+L08D253B
+ The Provost gave me a special assignment! XXX
+// Arkhan2 O perso2
+L08D253C
+ So go bite somebody else, flea-bag! XXX
+// Arkhan2 O perso2
+L08D254A
+ How do you think I got this beautiful mug? By risking my neck protecting the Great Sunseer, that's how! XXX
+// Arkhan2 O perso2
+L08D254B
+ Where were you while I was risking my life, eh? XXX
+// Guardian5 perso45
+L08D255A
+ The Great Sunseer, huh?... She can't order anyone around any more. XXX
+// Guardian5 perso45
+L08D255B
+ From now on, the master of the Stallite is Dhorkan, and nobody else! XXX
+// Guardian5 perso45
+L08D255C
+ So just get that through your head! XXX
+// Arkhan2 O (pretends to smell something) perso2
+L08D256A
+ What's that stink? XXX
+// Arkhan2 O perso2
+L08D256B
+ It's you! You're so scared, you're sweating vinegar, you scum.. XXX
+// Guardian5 (furious) perso45
+L08D257A
+ Why... you...! XXX
+// Guardian5 (furious) perso45
+L08D257B
+ I'm gonna smash in that pus-face of yours!  XXX
+// Guardian5 (afraid and angry) perso45
+L08D260A
+ Creature from the Darkness! XXX
+// Guardian5 perso45
+L08D260B
+ I'll bet all of this is your fault! XXX
+// Guardian5 perso45
+L08D260C
+ You brought the wrath of the Great Solaar down on us! XXX
+// Arkhan2 L (softly) perso1
+L08D261A
+ Listen to me... Calm down... XXX
+// Arkhan2 L perso1
+L08D261B
+ I came here to find an answer... XXX
+// Guardian5 perso45
+L08D262A
+ Liar! Heretic! XXX
+// Guardian5 perso45
+L08D262B
+ Your time is up! XXX
+// Arkhan2 O perso2
+L08D263A
+ You still here! XXX
+// Arkhan2 O perso2
+L08D263B
+ I thought you'd all be out looking for somewhere to hide! XXX
+// Guardian5 perso45
+L08D264
+ No! I'm not yellow! XXX
+// Arkhan2 O (threatening) perso2
+L08D265A
+ Listen, wimp! Dhorkan hightailed it. Nobody's doing anything. XXX
+// Arkhan2 O perso2
+L08D265B
+ The only man who still has a chance to save the Stallite is standing right in front of you! XXX
+// Arkhan2 O perso2
+L08D265C
+ Now either you lay off me, or I rip your brains out! XXX
+// Arkhan2 O perso2
+L08D265D
+ Get it? XXX
+// Guardian5 (awed) perso45
+L08D266
+ I... uh... yeah. I get it. XXX
+// Arkhan2 O perso2
+L08D267A
+ You're going to stay right here and guard your post, like a good boy! XXX
+// Arkhan2 O perso2
+L08D267B
+ If you're not here when I get back, I'm gonna come after you, and I'm gonna kill you! XXX
+// Guardian5 (swallowing) perso45
+L08D268
+ I get it. XXX
+// Guardian5 (swallowing) perso45
+L08D269
+ ... Sure, yeah. XXX
+// Guardian5 perso45
+L08D119
+ No. I don't wanna to tangle with you! XXX
+// Guardian5 (hit by A.) perso45
+L08D123
+ Get ready to meet your maker! XXX
+// Guardian6 (wary, since Arkhan is on guard) perso46
+L08D114A
+ Arkhan..? Is it... is it you? XXX
+// Guardian6 perso46
+L08D114B
+ Listen... You... Just take it easy, okay? XXX
+// Guardian6 perso46
+L08D125
+ Arkhan?! Is it you?! XXX
+// Guardian6 perso46
+L08D271
+ A Creature! Dernak, help! XXX
+// Guardian6 (confronting A. in combat) perso46
+L08D115
+ Hey! Cool it! XXX
+// Guardian6 (A. puts away weapon) perso46
+L08D272
+ That's better. Now, let's be reasonable. XXX
+// Arkhan2 L perso2
+L08D273A
+ I know they warned you about me. XXX
+// Arkhan2 L perso2
+L08D273B
+ But believe me, all I want is to find some way to get back to normal. XXX
+// Guardian6 perso46
+L08D274A
+ Uh-huh... I won't stop you from going through. XXX
+// Guardian6 perso46
+L08D274B
+ But you'd better keep your head screwed on. Plenty of other Guards would love to get their hands on you. XXX
+// Arkhan2 L perso2
+L08D275
+ All I want is a cure for this disease. XXX
+// Guardian6 perso46
+L08D276
+ Yeah... But if the Healers couldn't do anything... who else can cure you? XXX
+// Arkhan2 L perso2
+L08D277
+ I'll find something, you'll see! XXX
+// Arkhan2 L perso2
+L08D278
+ All right with you if I just keep on going? XXX
+// Guardian6 perso46
+L08D279
+ Yeah. But don't forget we're right here. XXX
+// Guardian6 perso46
+L08D280
+ Go ahead. But keep cool. XXX
+// Arkhan2 O perso2
+L08D281A
+ You look like you know a thing or two! XXX
+// Arkhan2 O perso2
+L08D281B
+ You don't wanna give me any trouble, do you? XXX
+// Guardian6 perso46
+L08D282A
+ I don't want to fight with you, Arkhan. XXX
+// Guardian6 perso46
+L08D282B
+ But if you provoke me, I'll have to draw my sword. XXX
+// Arkhan2 O perso2
+L08D283
+ Don't ask for trouble, Guardian, or you won't live to regret it! XXX
+// Guardian6 perso46
+L08D284
+ Arkhan, if you were still a Guardian of Fire, you'd understand I'm only doing my duty! XXX
+// Arkhan2 O perso2
+L08D285
+ Get out of my way, wimp! XXX
+// Guardian6 perso46
+L08D286
+ That does it! XXX
+// Arkhan2 L perso2
+L08D287A
+ Don't let your fear of the dark get to you. XXX
+// Arkhan2 L perso2
+L08D287B
+ We can still get out of this. XXX
+// Guardian6 perso46
+L08D288
+ You talk as if you knew what's going on! XXX
+// Arkhan2 L perso2
+L08D289
+ Trust me, okay? XXX
+// Arkhan2 L perso2
+L08D290A
+ Sunseer Thanandar is behind it all. XXX
+// Arkhan2 L perso2
+L08D290B
+ He was contaminated, just like me. XXX
+// Arkhan2 L perso2
+L08D290C
+ He let the poison destroy his mind, but I'm going to fight it to the bitter end! XXX
+// Guardian6 perso46
+L08D291
+ We have to stop him! Where's he hiding? XXX
+// Arkhan2 L perso2
+L08D292A
+ I don't know. But be careful, he's not human any more. XXX
+// Arkhan2 L perso2
+L08D292B
+ I thought I'd killed him, but he wouldn't lie down . XXX
+// Arkhan2 L perso2
+L08D292C
+ Warn the other Guardians. If you don't kill him, he'll kill every last one of you! XXX
+// Arkhan2 L perso2
+L08D293
+ Keep your eyes open, okay? XXX
+// Guardian6 perso46
+L08D294
+ Yeah. Don't worry. XXX
+// Arkhan2 O perso2
+L08D295
+ I get it. You're in the dark too, huh?  XXX
+// Guardian6 perso46
+L08D296A
+ Shut your trap, Arkhan, if you know what's good for you! XXX
+// Guardian6 perso46
+L08D296B
+ Maybe this is all your fault! XXX
+// Arkhan2 O perso2
+L08D297A
+ I'll tell you what really happened! XXX
+// Arkhan2 O perso2
+L08D297B
+ The man behind all this is Thanandar the Sunseer. XXX
+// Arkhan2 O perso2
+L08D297C
+ He was contaminated, but nobody realized it! XXX
+// Arkhan2 O perso2
+L08D297D
+ You were all too busy trying to get me! XXX
+// Guardian6 perso46
+L08D298
+ Where is this Sunseer? XXX
+// Arkhan2 O perso2
+L08D299A
+ If only I knew! XXX
+// Arkhan2 O perso2
+L08D299B
+ But if he gets hold of you, you'd better put up the fight of your life! XXX
+// Arkhan2 O perso2
+L08D299C
+ He's inhuman. He kills for the fun of it. XXX
+// Arkhan2 O perso2
+L08D299D
+ And believe you me, you can never be sure he's really dead!  XXX
+// Arkhan2 O perso2
+L08D300
+ Stay here and keep your eyes peeled, got me? XXX
+// Arkhan2 O perso2
+L08D301
+ Watch out for yourself, huh? XXX
+// Guardian6 perso46
+L08D302
+ Okay. XXX
+// Guardian6 perso46
+L08D138
+ Forget it. XXX
+// Arkhan2 G perso2
+L10D02A
+ Wait here. I'll be right back. XXX
+// Arkhan3 G perso3
+L10D02B
+ Be right back.  XXX
+// Arkhan1 G perso1
+L08D306
+ Stohll, mushroom alcohol. XXX
+// Arkhan2 G perso2
+L08D307
+ It's Stohll. XXX
+// Arkhan3 G perso3
+L08D308
+ Stohll. XXX
+// Arkhan1 G perso1
+L08D70
+ The flask is already full... XXX
+// Arkhan2 G perso2
+L08D71
+ No, the flask is already full. XXX
+// Arkhan3 G perso3
+L08D72
+ The flask is full! XXX
+// Arkhan1 G perso1
+L02D299
+ Huh! Nothing but old barrels... XXX
+// Arkhan2 G perso2
+L02D302
+ Just a pile of old barrels... XXX
+// Arkhan3 G perso3
+L02D303
+  A pile of old barrels... XXX
+//Arkhan1 L perso1
+L08D77
+ Cans for rations... empty now. XXX
+//Arkhan2 L perso1
+L08D78
+ Nothing in these cans. XXX
+//Arkhan3 L perso1
+L08D79
+ Empty cans. XXX
+// Arkhan1 G perso1
+L08D83A
+ A flying-chariot, invented by the Builders.  XXX
+// Arkhan1 G perso1
+L08D83B
+ This contraption won't fly unless there's really a lot of wind! XXX
+// Arkhan2 G perso1
+L08D84
+ I can't see how this flying-chariot would help. XXX
+//Arkhan3 L perso1
+L08D85
+ This thing's no  help... XXX
+// Arkhan1 G perso1
+L08D86A
+ It's a sail-chariot. XXX
+// Arkhan1 G perso1
+L08D86B
+ A vehicle for the people who dare to venture out into the Darklands. XXX
+// Arkhan2 G perso1
+L08D88
+ A sail-chariot for traveling in the Darklands. XXX
+// Arkhan3 G perso1
+L08D90A
+ A sail-chariot. XXX
+// Arkhan3 G perso1
+L08D90B
+ No use to me... XXX
+// Arkhan1 G perso1
+L08D328
+ The fountain of fire. XXX
+// Arkhan1 L perso1
+L08D329
+ Erected by the Builders before I was born. XXX
+// Arkhan1 O (imitates Dhorkan, mocking) perso1
+L08D330
+ "The pride of the Guardians of Fire". XXX
+// Arkhan2 G perso2
+L08D331A
+ The fountain of fire. XXX
+// Arkhan2 G perso2
+L08D331B
+ I can already feel the heat. XXX
+// Arkhan3 G perso3
+L08D332A
+ The fountain of fire. XXX
+// Arkhan3 G perso3
+L08D332B
+ The heat... almost unbearable... XXX
+// Arkhan2 G perso2
+L08D500
+ Let's go, slow and easy. XXX
+// Arkhan3 G perso3
+L08D501
+ Let's go. XXX
+// Delia (not reassured, low voice) perso10
+L08D502
+ You go first... XXX
+// Arkhan2 G perso2
+L08D503
+ Ever seen one of these before? XXX
+// Arkhan3 G perso3
+L08D504
+ Do you know what this is? XXX
+// Delia (low voice) perso10
+L08D505
+ No! Arkhan, please.. XXX
+// Kalhi perso13
+L08D339
+ Hey, look out! XXX
+// Kalhi perso13
+L08D233
+ Arkhan, no! XXX
+// Kalhi perso13
+L08D234
+ That's better. Calm down. XXX
+// Arkhan2 L perso2
+L08D175
+ We have to get outside without letting anyone see us. XXX
+// Arkhan3 L perso3
+L08D176
+ Try to get back outside without getting caught. XXX
+// Kalhi perso13
+L08D177
+ There's a guard, it won't be easy. XXX
+// Arkhan2 O perso2
+L08D178
+ Don't think about it, just do it! XXX
+// Arkhan3 O perso3
+L08D179
+ Leap first, look later! Go ! XXX
+// Kalhi perso13
+L08D180
+ We can at least try to get around that guard! XXX
+// Arkhan2 G (low voice) perso2
+L08D203
+ Be ready to fight if the guard stops us! XXX
+// Arkhan3 G (low voice) perso3
+L08D204
+ If the guard makes a move, I'll take care of him! XXX
+// Kalhi (whispers) perso33
+L08D205
+ Okay. But I don't want to shed any blood unless we have to. XXX
+// Arkhan2 G perso2
+L04D66
+ Stick close behind me, understand? XXX
+// Arkhan3 G perso3
+L04D67
+ Follow me! XXX
+// Kalhi perso13
+L04D68
+ Okay. XXX
+// Arkhan2 G perso2
+L02D114A
+ Look, I picked this up at Bogdaran's place. XXX
+// Arkhan2 G perso2
+L02D114B
+ An old uniform from the days when he was still thin! XXX
+// Arkhan3 G perso3
+L02D115
+ Here, put this on! XXX
+// Kalhi perso13
+L02D116
+ I hope it'll fit. XXX
+// Kalhi perso33
+L08D213
+ Look at this! The perfect disguise. XXX
+// Kalhi (taking charge) perso13
+L08D214
+ Come on, follow me! XXX
+// Kalhi (refuses to put on uniform...) perso13
+L08D219
+ You can give it to me when we're down below! XXX
+// Kalhi (refuses to put on uniform...) perso13
+L08D212
+ We're too close to the Guardian, he might see us! XXX
+// Arkhan2 G perso2
+L08D336
+ Look at this! XXX
+// Arkhan3 G perso3
+L08D337
+ Look! XXX
+// Kalhi perso13
+L08D338
+ There's no time, Arkhan, we've got to get out of here! XXX
+// Arkhan2 G perso2
+L08D333
+ Everything that's happened is your fault! XXX
+// Arkhan3 G perso3
+L08D334
+ It's all your fault! XXX
+// Kalhi (forced to defend herself) perso33
+L04D43
+ Arkhan, no! XXX
+// Guardian10 perso50
+L08D327
+ Hey, Creature! Why don't you pick on somebody your own size! XXX
+// Kalhi perso13
+L08D341
+ You don't leave me any choice! XXX
+// Kalhi perso13
+L08D340
+ No, stop! XXX
+// Arkhan2 G (low voice, mocking) perso2
+L08D200A
+ It would fool anyone. You look just like Phedoria. XXX
+// Arkhan2 G (low voice) perso2
+L08D200B
+ Come on, let's go. XXX
+// Arkhan3 G (low voice) perso3
+L08D201
+ A real guardian. Let's go! XXX
+// Kalhi (whispers) perso33
+L08D202A
+ Go on, make fun of me! XXX
+// Kalhi (whispers) perso33
+L08D202B
+ Come on, walk behind me as if you were my prisoner. XXX
+// Kalhi (whispers) perso33
+L08D202C
+ Put away your weapon... XXX
+// Kalhi (whispers) perso33
+L08D202D
+ And keep your fingers crossed that this'll work. XXX
+// Kalhi (whispers) perso33
+L08D202E
+ Let's go! XXX
+// Guardian10 perso50
+L08D326
+ I'm coming, Guardian! XXX
+// Arkhan2 L perso2
+L08D313
+ Don't panic, pal, it's me, Arkhan. XXX
+// Arkhan2 O perso2
+L08D314
+ Look me in the eyes and say farewell to light. XXX
+// Arkhan3 L perso3
+L08D315
+ Calm down. It's me, Arkhan. XXX

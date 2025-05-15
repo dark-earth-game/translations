@@ -1,0 +1,439 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL20.TXT
+ // Zed84 perso84
+L20D01
+ Arkhan! Co sie dzieje! XXX
+// Arkhan1 G perso1
+L20D02
+ Morduja Wielka Patrzaca! Musze sie stad wydostac! XXX
+// Zed84 (furious) perso84
+L20D03
+ Uciekasz!? Nedzny tchorzu! XXX
+// Thanandar25 (throws A. to the ground)perso25
+L20D95
+ Myslales, ze uda ci sie uciec? XXX
+// Guardian1 perso41
+L20D121
+ Ah! Tu jestes! Wracaj na stanowisko... XXX
+// Zed84 (furious) perso84
+L20D04
+ Arkhan! XXX
+// Arkhan1 G (seeing Zed arrive furious) perso1
+L20D05
+ Nie, Zed, to nie... XXX
+// Zed84 (ready to kill Arkhan) perso84
+L20D06
+ Ty zdrajco! XXX
+// Guardian1 (grumbling) perso41
+L20D07A
+ Naprawde nie wiem co zamierzaja. XXX
+// Guardian1 (grumbling) perso41
+L20D07B
+ Mam nadzieje, ze to nie potrwa zbyt dlugo... XXX
+// Guardian1 perso41
+L20D08A
+ Hej Arkhan! XXX
+// Guardian1 perso41
+L20D08B
+ Myslisz, ze moze stac na strazy bez miecza? XXX
+// Guardian1 perso41
+L20D08C
+  Chcesz pelnic straz z tym toporem? XXX
+// Guardian1 perso41
+L20D09A
+ Jesli Dhorkan zobaczy cie tu bez twojej broni, upiecze cie na zywym ogniu! XXX
+// Guardian1 perso41
+L20D09B
+Gdzie twoja szabla Gwardzisty Ognia? ! Jesli Dhorkan cie zobaczy, usmazy cie na zywym ogniu! XXX
+// Guardian1 perso41
+L20D10A
+ No, Arkhan. Nie stoj tam tak! XXX
+// Guardian1 perso41
+L20D10B
+ Na Boskie Slonce, idz po swoj miecz! XXX
+// Guardian1 (irritated) perso41
+L20D11A
+ Arkhan, prosisz sie o klopoty! XXX
+// Guardian1 perso41
+L20D11B
+ Nie mozesz pelnic strazy bez miecza! XXX
+// Guardian1 perso41
+L20D12
+Cos sie dzieje! XXX
+// Arkhan1 G perso1
+L20D13
+ Sprawdzmy! XXX
+// Guardian1 perso41
+L20D14
+ Niech swiatlosc bedzie z toba Wielka Patrzaca! XXX
+// Phedoria perso26
+L20D38
+ Wlasnie podpisales swoj wyrok smierci Arkhan! XXX
+// Guardian9 perso49
+L20D96
+ Stoj! Kto idzie? XXX
+// Guardian10 perso50
+L20D97
+ Arkhan... na Wielkiego Solaara, czy to ty? XXX
+// Guardian9 perso49
+L20D99
+ Kto idzie? Odezwij sie! XXX
+// Guardian9 perso49
+L20D112
+ Smierc! XXX
+// Guardian11 perso51
+L20D120
+ Potwor! Wszczac alarm! XXX
+// Guardian1 perso41
+L20D28
+ Hej! Wyskocz z tym na kogos innego przyjacielu! XXX
+// Arkhan1 L perso1
+L20D15A
+ Swiatlosc z toba Jedar. XXX
+// Guardian1 perso41
+L20D16A
+ Do diabla Arkhan! Jak zwykle sie spozniasz! XXX
+// Guardian1 perso41
+L20D16B
+ Przyjsc po Wielkiej Patrzacej! Wstydz sie! XXX
+// Arkhan1 L perso1
+L20D15B
+ Przeprasza. Bylem... uh... zajety w pokoju gwardzistow. XXX
+// Guardian1 (frowning) perso41
+L20D16C
+ Mmmm. Pewnie, jasne... XXX
+// Arkhan1 L perso1
+L20D17A
+ Tylko my dwaj stoimy na strazy? XXX
+// Arkhan1 L perso1
+L20D17B
+ Raczej slaba ochrona dla Wielkiej Patrzacej i jej dworu. XXX
+// Guardian1 (shrugging his shoulders) perso41
+L20D18A
+ Taa! Zwlaszcza jesli jeden z jej czlonkow nie przychodzi! XXX
+// Guardian1 perso41
+L20D18B
+ To niezwykle. Podejrzewam, ze komendant nie mogl zebrac gwardzistow. XXX
+// Guardian1 (bitter) perso41
+L20D18C
+ Ale zawsze uda sie znalezc chocby dwoch frajerow! XXX
+// Guardian1 (mockingly) perso41
+L20D18D
+ Pewnie... zostal zaskoczony... albo zrobil to specjalnie. XXX
+// Guardian1 (mockingly) perso41
+L20D18E
+ Z takimi spoznialskimi jak ty, Gwardia zawsze bedzie miala zbyt malo ludzi! XXX
+// Arkhan1 L perso1
+L20D19
+ Wyglada na to, ze jestes dzis w ponurym nastroju. XXX
+// Guardian1 perso41
+L20D20A
+ Idz zajmij posterunek po drugiej stronie drzwi. XXX
+// Guardian1 perso41
+L20D20B
+ Nie powinnismy rozmawiac! XXX
+// Guardian1 (irritated) perso41
+L20D21
+ Zamknij sie i idz na miejsce, okej? XXX
+// Arkhan1 O perso1
+L20D22
+ Hej Jedar. Dobrze sie bawisz? XXX
+// Guardian1 perso41
+L20D23A
+ Nie pytaj! XXX
+// Guardian1 perso41
+L20D23B
+ Jesli Dhorkan dowie sie, ze ni bylo cie tu by przywitac Wielka Patrzaca, trafisz prosto do ciupy! XXX
+// Arkhan1 O perso1
+L20D24A
+ Czemu stoimy bezczynnie przed tymi drzwiami? XXX
+// Arkhan1 O perso1
+L20D24B
+ Mozesz mi powiedziec? XXX
+// Arkhan1 O perso1
+L20D25
+ Mam tego powyzej uszu. Powinienem zostac Patrzacym w Slonce jak moj ojciec! XXX
+// Guardian1 perso41
+L20D26A
+ Patrzacym w Slonce? Odbilo ci? XXX
+// Guardian1 (a little embarrassed) perso41
+L20D26B
+ Euh... To znaczy... Patrzacy w Slonce, no tak, to jest cos! XXX
+// Guardian1 perso41
+L20D26C
+ Zgadzam sie ze wszystkimi. Codziennie dziekuje Boskiemu Sloncu za to, ze daje nam swiatlo i cieplo. XXX
+// Guardian1 perso41
+L20D26D
+ Ale to nie znaczy, ze chcialbym marnowac moj czas na modlitwy przed krysztalowa Komnata Rahala... XXX
+// Guardian1 perso41
+L20D26E
+ OH, nie. Nie ja! XXX
+// Arkhan1 O perso1
+L20D27
+ Co za bol! XXX
+// Guardian1 perso41
+L20D29
+ Wariat! XXX
+// Arkhan2 L perso2
+L20D30
+ Czemu nie rozstrzygniemy tego teraz? XXX
+// Arkhan2 O perso2
+L20D31
+ Rozstrzygnijmy to teraz! XXX
+// Arkhan3 L perso3
+L20D32
+ Rozstrzygnijmy to teraz! XXX
+// Arkhan3 O perso3
+L20D33
+ Gadanie! XXX
+// Lory perso15
+L20D34
+ Nie mozemy tu zostac. Chodz. XXX
+// Arkhan2 G perso2
+L20D35
+ Ale... Wielka Patrzaca... XXX
+// Arkhan3 G perso3
+L20D36
+ Wielka Patrzaca... XXX
+// Lory perso15
+L20D37
+ Posluchaj mnie! Chodzmy! XXX
+// Arkhan2 L perso2
+L20D39
+ Phedoria, co sie dzieje? XXX
+// Arkhan2 O perso2
+L20D40
+ Hej..co sie dzieje? XXX
+// Arkhan3 L perso3
+L20D41
+ Phedoria, powiedz mi! XXX
+// Arkhan3 O perso3
+L20D42
+ Powiedz mi! XXX
+// Phedoria perso26
+L20D43
+ Lory wyjasni! XXX
+// Arkhan2 G perso2
+L20D44
+ Ale... Kapitanie... XXX
+// Arkhan3 G perso3
+L20D45
+ Kapitanie... XXX
+// Phedoria perso26
+L20D46
+ Chodz za nami! XXX
+// Arkhan2 L perso2
+L20D100
+ Jazda! To ja Arkhan! Nie poznajesz mnie? XXX
+// Guardian9 perso49
+L20D101A
+ Arkhan... Tak, to ty... XXX
+// Guardian9 perso49
+L20D101B
+ Na Boskie Slonce, Kapitan Phedoria ostrzegala nas. XXX
+// Guardian9 perso49
+L20D101C
+ Ale nie sadzilem, ze jest az tak zle. XXX
+// Arkhan2 L perso2
+L20D102
+ Na bok! Lory mnie przysyla! XXX
+// Guardian9 perso49
+L20D103
+ Wchodz, czekalismy na ciebie. XXX
+// Guardian9 perso49
+L20D105
+ Ku pamieci Arkhana, Gwardzisty Ognia. XXX
+// Arkhan2 O (ill-tempered) perso2
+L20D106
+ Z drogi, albo rozetne na pol! XXX
+// Guardian9 (furious and frightened) perso49
+L20D107
+ Przekonamy sie! XXX
+// Arkhan3 L perso3
+L20D108
+ To ja... Arkhan! XXX
+// Guardian9 (nervously) perso49
+L20D111
+ Okej, ruszaj... XXX
+// Arkhan2 L perso2
+L20D113
+ To ja Arkhan! XXX
+// Guardian10 perso50
+L20D114
+ Ty... nie jestes juz czlowiekiem! XXX
+// Guardian10 perso50
+L20D115A
+ Czemu Wielka Patrzaca cie ochrania? Nie jestes juz jednym z nas! XXX
+// Guardian10 perso50
+L20D115B
+ Gdybym to ja rzadzil, wygnalbym cie do Mrocznych Ziem na zawsze! XXX
+// Arkhan2 L perso2
+L20D116
+ Uspokoj sie przyjacielu, to ja. XXX
+// Guardian10 (aggressively) perso50
+L20D117
+ Zejdz mi z oczu zanim wykoncze cie na dobre! XXX
+// Guardian10 perso50
+L20D118
+ Wiedzialem! Nie jestes juz Arkhanem! XXX
+// Guardian10 (nervously) perso50
+L20D109
+ Spodziewalismy sie ciebie... ruszaj... XXX
+// Guardian10 perso50
+L20D119
+ Ruszaj! Nie stoj tak! XXX
+// Arkhan2 G (wanted to leave, changes his mind)perso2
+L20D122A
+ Nie. To ci sie dzieje jest zbyt powazne. XXX
+// Arkhan2 G (wanted to leave, changes his mind)perso2
+L20D122B
+ Musze zobaczyc sie z Lory! XXX
+// Arkhan3 G (wanted to leave, changes his mind)perso3
+L20D123
+ Nie, to zbyt powazne. Musze widziec sie z Lory! XXX
+// Arkhan1 L perso1
+L20D48
+ Masz racje... Nie moge tego zrobic. XXX
+// Arkhan1 O perso1
+L20D50
+ Taa, masz racje... XXX
+// Guardian1 perso41
+L20D47
+ Nie! Nie wolno ci zaklocac obrad! XXX
+// Arkhan1 G perso1
+L20D51
+ Jest tu otwor. XXX
+// Arkhan2 G perso2
+L20D52
+ Otwor. XXX
+// Arkhan3 G perso3
+L20D53
+ Otwor. XXX
+// Arkhan1 G perso1
+L20D57
+ Wewnatrz czuje mechanizm. XXX
+// Arkhan2 G perso2
+L20D58
+ W srodku jest mechanizm. XXX
+// Arkhan3 G perso3
+L20D59
+ Tam jest mechanizm. XXX
+// Arkhan2 L perso2
+L20D63
+ Musze znalezc metalowa dzwignie, ktora uruchamia mechanizm. XXX
+// Arkhan3 L perso3
+L20D64
+ Potrzebuje metalowej dzwigni, ktora tu pasuje. XXX
+// Arkhan2 O perso2
+L20D65
+ Nie dziala! XXX
+// Arkhan3 O perso3
+L20D66
+ Do diabla! XXX
+// Arkhan2 L perso2
+L20D67
+ No i juz, weszlo. XXX
+// Arkhan3 L perso3
+L20D68
+ Weszlo. XXX
+// Arkhan2 G perso2
+L20D71
+ O... To powinno zalatwic sprawe. XXX
+// Arkhan2 G perso2
+L20D87
+ Cos jest w srodku. XXX
+// Arkhan3 G perso3
+L20D88
+ Cos tam jest. XXX
+// Arkhan2 G perso2
+L20D89
+ Dziwne, tam jest juz trybik! XXX
+// Arkhan3 G perso3
+L20D90
+ Huh, jest juz tryb. XXX
+// Arkhan2 G perso2
+L20D81A
+ Bez oporu. XXX
+// Arkhan2 G perso2
+L20D81B
+ Mechanizm nie dziala. XXX
+// Arkhan3 G perso3
+L20D82
+ Czegos brakuje. XXX
+// Arkhan2 G perso2
+L20D85
+ Tak! XXX
+// Arkhan2 G perso2
+L20D93
+ Udalo mi sie uruchomic! XXX
+// Arkhan3 G perso3
+L20D86
+ Tak! XXX
+// Arkhan3 G perso3
+L20D94
+ Teraz dziala! XXX
+// Arkhan2 G perso2
+L20D91
+ Ktos to naprawil przede mna! XXX
+// Arkhan3 G perso3
+L20D92
+ Ktos to zrobil przede mna! XXX
+// Arkhan2 O perso2
+L08D251B
+ Nie stoj tak z wywieszonym jezykiem! XXX
+// Arkhan1 G perso1
+L20D124A
+ Melodyjne trabki Wielkiego Solaara. XXX
+// Arkhan1 G perso1
+L20D124B
+ Patrzacy w Slonce uzywaja ich podczas waznych ceremonii. XXX
+// Arkhan1 L perso1
+L20D125
+ Mmm, ich muzyka jest wspaniala. XXX
+// Arkhan1 O perso1
+L20D126
+ Sporo halasu! XXX
+// Arkhan2 G perso2
+L20D127A
+ Melodyjne trabki Wielkiego Solaara. XXX
+// Arkhan2 G perso2
+L20D127B
+ Patrzacy w Slonce uzywaja ich do waznych uroczystosci. XXX
+// Arkhan2 L perso2
+L20D128
+ Cudowna muzyka. XXX
+// Arkhan2 O perso2
+L20D129
+ Kupa halasu! XXX
+// Arkhan3 G perso3
+L20D130A
+ Ladne trabki. XXX
+// Arkhan3 G perso3
+L20D130B
+ Patrzacy uzywaja ich w waznych uroczystosciach. XXX
+// Arkhan3 L perso3
+L20D131
+ Muzyka Boskiego Slonca. XXX
+// Arkhan3 O perso3
+L20D132
+ Halasliwa! XXX
+// Arkhan1 G perso1
+L20D133
+ Metalowe drzewo zrobione przez Budowniczych do oddawania czci Boskiemu Sloncu. XXX
+// Arkhan2 G perso2
+L20D134A
+ Stalowe drzewo zrobione przez Budowniczych. XXX
+// Arkhan2 G perso2
+L20D134B
+ Hold dla Boskiego Slonca. XXX
+// Arkhan3 G perso3
+L20D135
+ Stalowe drzewo. Hold dla Boskiego Slonca. XXX
+// Arkhan1 G perso1
+L20D136
+ Kolejne stalowe drzewo. XXX
+// Arkhan2 G perso2
+L20D137
+ Kolejne stalowe drzewo. XXX
+// Arkhan3 G perso3
+L20D138
+ Jeszcze jedno metalowe drzewo. XXX

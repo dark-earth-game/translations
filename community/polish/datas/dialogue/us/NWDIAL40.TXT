@@ -1,0 +1,37 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL40.TXT
+ // Arkhan3 G (groggy) perso3
+L40D07A
+ Och... Ale upadek... XXX
+// Arkhan3 G (groggy) perso3
+L40D07B
+ Moje kosci... sa strzaskane... XXX
+// Arkhan3 G perso3
+L40D04A
+ Oto i ona... Krypta... XXX
+// Arkhan3 G perso3
+L40D04B
+ Udalo mi sie... znalazlem! XXX
+// Arkhan3 G perso3
+L40D05A
+ Zlo... Moje cialo... plonie... XXX
+// Arkhan3 G perso3
+L40D05B
+ Musze sie spieszyc... predko! XXX
+// Arkhan3 G perso3
+L40D01
+ Rzezbienia... Wykonane ludzka reka... dawno temu... XXX
+// Arkhan3 G perso3
+L40D02
+ Wielki lancuch wyrzezbiony w kamieniu. XXX
+// Arkhan3 G perso3
+L40D03
+ Kamien jest goracy... XXX
+// Arkhan3 G perso3
+L40D06A
+ Zwalisko... XXX
+// Arkhan3 G perso3
+L40D06B
+ Po prostu sterta kamieni... XXX
+// Arkhan3 G perso3
+L40D08
+ Pozostalosci kola... XXX

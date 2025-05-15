@@ -1,0 +1,607 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL06.TXT
+ // Dhorkan (A. ist fortgegangen, nachdem er ihn geschlagen hat) perso11
+L06D03A
+ Du wagst es, zurückzukommen! XXX
+// Dhorkan perso11
+L06D03B
+ Provozier mich nie wieder! XXX
+// Dhorkan perso11
+L06D43A
+ Was soll dieses Eindringen?! XXX
+// Dhorkan (unangenehm überrascht, Arkhan zu sehen) perso11
+L06D43B
+ Arkhan? Du bist es! Du bist am Leben. XXX
+// Dhorkan perso11
+L06D43C
+ Da bist Du ja schon wieder!  XXX
+// Dhorkan perso11
+L06D44A
+ Hör auf, ständig auf und ab zu gehen! XXX
+// Dhorkan perso11
+L06D44B
+ Hast Du wenigstens getan, was ich Dir aufgetragen habe? XXX
+// Dhorkan (drohend) perso11
+L06D44C
+ Du bist zurückgekommen? Ich hatte Dich gewarnt! XXX
+// Dhorkan (drohend) perso11
+L06D44D
+ Verlaß sofort diesen Raum oder ich zeig' Dir mit meinem Schwert, wer hier befiehlt!XXX
+// Dhorkan (Arkhan greift ihn an) perso11
+L06D32
+ Hüter des Feuers! Hierher! XXX
+// Arkhan1 L perso1
+L06D42A
+ Licht sei über Euch, Profos Dhorkan! XXX
+// Dhorkan perso11
+L06D05A
+ Ah, Arkhan, da bist Du ja! XXX
+// Arkhan1 L (versucht, sich zu entschuldigen) perso1
+L06D42B
+ Profos Dhorkan, es tut mir leid, ich... ich war... ähm... XXX
+// Arkhan1 O  (frech)perso1
+L06D42C
+ Sei gegrüßt, Profos! XXX
+// Arkhan1 O (lügend) perso1
+L06D42D
+ Profos Dhorkan, es tut mir leid, Zed hat mich zurückgehalten ... Ihr wißt ja, wie er ist ... XXX
+// Dhorkan perso11
+L06D05B
+ Erspar mir Deine Arroganz und Deine schlechten Ausreden! Nicht heute! XXX
+// Dhorkan perso11
+L06D05C
+ Die Große Priesterin Lory leitet im Tempel des Sonnengottes eine wichtige Ratssitzung. XXX
+// Dhorkan perso11
+L06D05D
+ Du wurdest bestimmt, die Tür des Ratssaals zu bewachen. XXX
+// Dhorkan perso11
+L06D05E
+ Der Hüter des Feuers Jedar wartet schon ziemlich lange da unten auf Dich. XXX
+// Dhorkan perso11
+L06D05F
+ Geh hinunter und nimm Deinen Posten ein, bevor die Große Predigerin kommt. XXX
+// Dhorkan (genervt) perso11
+L06D04
+ Was machst Du denn da? Geh sofort an Deinen Posten zurück! XXX
+// Dhorkan perso11
+L06D06A
+ Hüter des Feuers, geh sofort hinunter und nimm Deinen Posten ein! XXX
+// Dhorkan perso11
+L06D06B
+ Arkhan! Wenn ich einen Befehl erteile, erwarte ich, daß er ausgeführt wird! XXX
+// Dhorkan perso11
+L06D06C
+ Verlaß die Kaserne und geh zu Jedar, bevor die Große Predigerin kommt! XXX
+// Dhorkan perso11
+L06D06D
+ Das ist Rebellion! XXX
+// Dhorkan (will das Schwert ziehen) perso11
+L06D06E
+ Geh an Deinen Posten oder Du erhältst eine Lektion, die Du so schnell nicht vergessen wirst! XXX
+// Dhorkan perso11
+L06D06F
+ Diesmal wirst Du spüren, wie es ist, von einem Schwert Durchbohrt zu werden! XXX
+// Dhorkan perso11
+L06D28Z
+ Das Faß ist voll! Sieh dem Tod ins Auge! XXX
+// Phedoria (erschreckt) perso26
+L06D84
+ Der Profos! XXX
+// Phedoria perso26
+L06D07
+ Arkhan! Mörder! XXX
+// Phedoria perso26
+L06D62
+ Dhorkan, keine Bewegung, Du bist mein Gefangener! XXX
+// Dhorkan perso11
+L06D39
+ Ihr Dummköpfe! Mich kriegt Ihr nie! XXX
+// Phedoria (schießt auf Dhorkan und verpaßt ihn) perso26
+L06D40
+ Verdammt! Daneben! XXX
+// Arkhan2 G perso2
+L06D35A
+ Er darf uns nicht entkommen! XXX
+// Arkhan3 G perso3
+L06D35B
+ Wir müssen ihn aufhalten! XXX
+// Phedoria perso26
+L06D41
+ Lauf ihm nach, ich werde Lory warnen! XXX
+// Arkhan2 O (wütend) perso2
+L06D33B
+ Beim heiligen Feuerrohr, Du hast ihn absichtlich entkommen lassen! XXX
+// Arkhan3 O (wütend) perso3
+L06D33D
+ Verdammt! Er flieht! XXX
+// Arkhan2 G perso2
+L06D82
+ Dhorkan ist nicht mehr da! XXX
+// Arkhan3 G perso3
+L06D83
+ Dhorkan ist weg! XXX
+// Dhorkan (gebieterisch) perso11
+L06D77B
+ So, laß mich jetzt allein. XXX
+// Dhorkan perso11
+L06D214B
+ Nun geh schon! XXX
+// Dhorkan (gebieterisch) perso11
+L06D16A
+ Du vergißt, mit wem Du sprichst, Arkhan! XXX
+// Dhorkan perso11
+L06D53B
+ Geh jetzt, bevor Dir ein Unglück passiert! XXX
+// Dhorkan perso11
+L06D16F
+ Jetzt raus hier! XXX
+// Dhorkan perso11
+L06D80C
+ Los, raus! XXX
+// Dhorkan perso11
+L06D18C
+ Geh mir aus den Augen, Du verpestest den Raum! XXX
+// Dhorkan perso11
+L06D20
+ Raus hier, Du Mißgeburt, oder ich mach' Dir mit meinem Schwert Beine! XXX
+// Dhorkan (arrogant) perso11
+L06D26A
+ Glaubst Du etwa, so könntest Du mich in die Falle locken? Du bist doch nichts weiter als das todgeweihte Abbild eines Menschen! XXX
+// Dhorkan (arrogant) perso11
+L06D26H
+ Du bist ein Nichts. Du bist keine Gefahr für mich! XXX
+// Dhorkan perso11
+L06D05G
+ Arkhan! Warte, geh noch nicht! XXX
+// Dhorkan perso11
+L06D54A
+ Arkhan! XXX
+// Dhorkan perso11
+L06D54B
+ Daß eines klar ist: Ich tu' Dir einen Gefallen, aber komm nicht ohne Informationen zurück! XXX
+// Dhorkan perso11
+L06D54C
+ Von jetzt an regiere ich den Stalliten. XXX
+// Dhorkan perso11
+L06D54D
+ Wenn Du das vergessen solltest, endest Du in einem feuchten Verlies. XXX
+// Dhorkan perso11
+L06D54E
+ Denn dieses Schicksal erwartet alle, die es wagen, sich gegen mich aufzulehnen. XXX
+// Arkhan1 G perso1
+L06D09A
+ Ein Mechanismus. XXX
+// Arkhan2 G perso2
+L06D09B
+ Ein Mechanismus, wie ein Schloß. XXX
+// Arkhan3 G perso3
+L06D09C
+ Ein Mechanismus. XXX
+// Arkhan2G perso2
+L06D669
+ Dhorkan ist bestimmt in die Richtung da gelaufen ... XXX
+// Arkhan3G perso3
+L06D670
+ Dhorkan ist bestimmt in die Richtung da gelaufen ... XXX
+// Arkhan1 L (nicht begeistert darüber, daß er Wache schieben soll) perso1
+L06D10A
+ Profos Dhorkan, ich wäre vielleicht nützlicher als ... ähm ...  XXX
+// Arkhan1 O (nicht begeistert darüber, daß er Wache schieben soll) perso1
+L06D10B
+ Mit Jedar Wache stehen, oh nein! Können Sie mich nicht woanders gebrauchen? XXX
+// Dhorkan (genervt) perso11
+L06D10C
+ Arkhan, genug! Die Befehle kommen von der Großen Predigerin Lory selbst! XXX
+// Dhorkan (genervt) perso11
+L06D10D
+ Geh hinunter und nimm sofort Deinen Posten ein! XXX
+// Arkhan1 L perso1
+L06D11A
+ Eine Ratssitzung mit der Großen Predigerin? Wer will sie denn sehen? XXX
+// Arkhan1 O perso1
+L06D11B
+ Wer hat es denn geschafft, die Große Predigerin so früh morgens aus den Federn zu holen? XXX
+// Dhorkan (überrascht über A. Arroganz, beherrscht sich dann jedoch) perso11
+L06D12A
+ Wer? Ähm ... Paß auf, was Du sagst, und gehorche, Hüter des Feuers! XXX
+// Dhorkan perso11
+L06D12B
+ Geh sofort hinunter, und zwar mit Deinen Waffen, um da zu sein, wenn die Große Predigerin kommt. XXX
+// Arkhan1 L perso1
+L06D01A
+ Ich ... XXX
+// Arkhan1 O perso1
+L06D01B
+ Aber ... XXX
+// Dhorkan perso11
+L06D666
+ Los, an Deinen Posten! XXX
+// Arkhan2 L perso2
+L06D13A
+ Dhorkan, ich bin krank!  XXX
+// Arkhan2 L perso2
+L06D13B
+ Die Angreifer der Großen Predigerin haben mich ... mit diesem schwarzen Zeug vergiftet! XXX
+// Arkhan2 L perso2
+L06D13C
+ Manche halten mich für einen Feind. Das stimmt aber nicht: Ich habe nur meine Pflicht getan! XXX
+// Arkhan2 O perso2
+L06D14A
+ Dhorkan, beim Finsteren, ruf' die Hüter des Feuers zurück! XXX
+// Arkhan2 O perso2
+L06D14B
+ Die Schweinehunde, die Lory angegriffen haben, haben mich vergiftet, und jetzt soll ich dran glauben! XXX
+// Arkhan2 O perso2
+L06D14C
+ Ich hab' meine Pflicht getan und bin einer von Euch. Ihr müßt mich beschützen! XXX
+// Arkhan3 L perso2
+L06D63
+ Lorys Angreifer haben mich vergiftet ... Alle geben mir die Schuld. Ich brauch Hilfe! XXX
+// Arkhan3 O (genervt) perso2
+L06D64
+ Dhorkan, ich bin krank und alle sind hinter mir her. Du mußt mir helfen! XXX
+// Dhorkan perso11
+L06D45A
+ Immer mit der Ruhe, ganz ruhig ... XXX
+// Dhorkan perso11
+L06D45B
+ Der Heiler, Thanandar, was sagt er dazu? XXX
+// Arkhan2 G perso2
+L06D46A
+ Er hat mir von einer Gruft erzählt und von einem Gegenmittel, das sich dort befinden soll ...  XXX
+// Arkhan2 G perso2
+L06D46B
+ Er hat mir gesagt, daß ich meinen Vater suchen soll, daß dieser mich dorthin führen kann. XXX
+// Arkhan3 G perso3
+L06D47A
+ Er hat von einer Gruft gesprochen, von einem Gegenmittel. Er sagt, daß mein Vater mich dorthin führen kann. XXX
+// Dhorkan perso11
+L06D65A
+ Unsinn! Thanandar hat Dich belogen, um Dir Hoffnung zu geben.  XXX
+// Dhorkan perso11
+L06D65B
+ Die Wahrheit ist, daß die Prediger die Situation nicht mehr unter Kontrolle haben. XXX
+// Dhorkan (freut sich) perso11
+L06D65C
+ Deshalb mußte ich die Herrschaft über den Stalliten übernehmen! XXX
+// Dhorkan (plötzlich freundlich) perso11
+L06D65D
+ Du weißt, wie ich Deinen Vater und die Große Predigerin Lory achte.  XXX
+// Dhorkan perso11
+L06D65E
+ Ich habe das Standrecht verhängt, um sie zu beschützen. XXX
+// Dhorkan perso11
+L06D65F
+ Und was Dich betrifft ... Du warst sicher ein guter Wächter des Feuers. XXX
+// Dhorkan perso11
+L06D65G
+ Doch wer würde jetzt noch seine Hand für Dich ins Feuer legen? XXX
+// Arkhan2 L perso2
+L06D72A
+ Dhorkan, ich schwöre beim Sonnengott, daß ich nichts Böses getan habe. XXX
+// Arkhan2 L perso2
+L06D72B
+ Ich bin noch immer ein Mensch. Der Heiler Thanandar ist mein Zeuge. XXX
+// Arkhan2 O perso2
+L06D73A
+ Ich habe nichts getan! Die anderen haben ganz einfach Angst vor meinem Aussehen! XXX
+// Arkhan2 O perso2
+L06D73B
+ Ich bin noch immer ein Mensch! Frag doch den Heiler! XXX
+// Arkhan3 L perso3
+L06D74
+ Ich bin kein Verräter! Die anderen mißtrauen mir einfach nur!XXX
+// Arkhan3 O perso3
+L06D75
+ Ich hab' nichts getan! XXX
+// Dhorkan perso11
+L06D76A
+ Das mag ja sein, aber Thanandar hätte Dich nicht gehen lassen sollen ... XXX
+// Dhorkan perso11
+L06D76B
+ Er hätte sich mit seiner Rolle als Heiler zufriedengeben sollen, die des Beraters ist für ihn eine Nummer zu groß!XXX
+// Dhorkan perso11
+L06D76C
+ Ich vertrau' ihm nicht. Wenn Du zu Deinen Leuten zurückkehren willst, beweis mir Deine Treue. XXX
+// Dhorkan perso11
+L06D76D
+ Geh zu Thanandar und sag mir genau, was er gerade tut. XXX
+// Dhorkan perso11
+L06D76E
+ Geh jetzt! XXX
+// Arkhan2 G perso2
+L06D48A
+ Ich hab' Thanandar nicht gesehen ... XXX
+// Arkhan3 G perso2
+L06D48B
+ Ich hab' Thanandar nicht gesehen ... XXX
+// Dhorkan perso11
+L06D51A
+ Dann geh, ich hab' zu tun! XXX
+// Dhorkan perso11
+L06D51B
+ Ein anderer als ich hätte Dich schon längst in Ketten gelegt. XXX
+// Dhorkan perso11
+L06D51C
+ Ich achte Dich, aber nutze meine Großzügigkeit nicht aus! XXX
+// Arkhan2 L perso2
+L06D204A
+ Ich bin zu Thanandar gegangen. XXX
+// Arkhan2 L perso2
+L06D204B
+ Er ist gerade dabei, jemanden zu behandeln. XXX
+// Arkhan3 L perso2
+L06D205A
+ Ich hab' Thanandar gesehen. XXX
+// Arkhan3 L perso2
+L06D205B
+ Er behandelt gerade jemanden. XXX
+// Dhorkan perso11
+L06D206A
+ Ähm ... gut ... XXX
+// Dhorkan perso11
+L06D206B
+ Wenn was anderes passiert, teil es mir sofort mit. XXX
+// Dhorkan perso11
+L06D206C
+ Und verhalte Dich solange unauffällig, die anderen Wächter sind nicht so großzügig wie ich. XXX
+// Arkhan2 O perso2
+L06D207A
+ Ich hab' Thanandar gesehen. XXX
+// Arkhan2 O perso2
+L06D207B
+ Er versucht gerade, Dulnys wieder zusammenzuflicken. XXX
+// Arkhan2 O perso2
+L06D207C
+ Wenn man sich überlegt, wie ich den zugerichtet hab', wird das nicht gerade einfach sein! XXX
+// Arkhan3 O perso3
+L06D208A
+ Ich hab' Thanandar gesehen. XXX
+// Arkhan3 O perso3
+L06D208B
+ Er versucht gerade, den Hüter des Feuers Dulnys zu behandeln! XXX
+// Arkhan3 O perso3
+L06D208C
+ Wenn man sich überlegt, wie ich den zusammengeschlagen habe, ist dafür ein Wunder des Sonnengottes nötig! XXX
+// Dhorkan (wütend) perso11
+L06D209A
+ Du vergißt, mit wem Du sprichst, Arkhan! XXX
+// Dhorkan perso11
+L06D209B
+ Wenn ich Du wäre, würde ich nicht damit prahlen, einen Hüter des Feuers geschlagen zu haben. XXX
+// Dhorkan perso11
+L06D209C
+ Verschwinde hier, bevor ich meine Sympathie für Dich vergesse! XXX
+// Arkhan2 L perso2
+L06D210
+ Thanandar ist noch immer an Dulnys' Krankenbett. XXX
+// Arkhan2 O perso2
+L06D211
+ Thanandar ist noch immer damit beschäftigt, Dulnys zusammenzuflicken. XXX
+// Arkhan3 L perso3
+L06D212
+ Thanandar ist noch immer dabei, Dulnys zu behandeln. XXX
+// Arkhan3 O perso3
+L06D213
+ Thanandar ist noch immer dabei, Dulnys zu behandeln! XXX
+// Dhorkan perso11
+L06D214A
+ Du brauchtest nicht zurückkommen, um mir das zu sagen. XXX
+// Arkhan2 G perso2
+L06D49A
+ Ich mußte Thanandar töten! XXX
+// Arkhan2 G perso2
+L06D49B
+ Ich hatte keine andere Wahl ... Er hat mich angegriffen! XXX
+// Arkhan2 G perso2
+L06D49C
+ Und da war noch ein anderer Typ bei ihm ... XXX
+// Arkhan3 G perso3
+L06D50A
+ Ich hab' Thanandar getötet, ihn und einen anderen Typen ... XXX
+// Dhorkan perso11
+L06D77A
+ Thanandar ist tot? Ausgezeichnet! Ich hatte also keinen Grund, mir Sorgen zu machen.  XXX
+// Arkhan2 G perso2
+L06D78
+ Ja, aber warte ... XXX
+// Arkhan3 G perso3
+L06D79
+ Warte... XXX
+// Dhorkan (unterbricht Arkhan) perso11
+L06D80A
+ Arkhan, ich bin ein Mann, der sein Wort hält, und deswegen lasse ich Dich gehen ...  XXX
+// Dhorkan perso11
+L06D80B
+ Aber versuch nicht, mir irgendwann einmal Knüppel zwischen die Beine zu werfen! XXX
+// Arkhan2 L perso2
+L06D21A
+ Mein Vater hat mir gesagt, er wolle zu Dir gehen ... wo ist er? XXX
+// Arkhan2 O perso2
+L06D21B
+ Mein Vater ist bei Dir gewesen ... Sag mir, wo er ist! XXX
+// Arkhan3 L perso3
+L06D21C
+ Wo ist mein Vater? XXX
+// Arkhan3 O perso3
+L06D21D
+ Sag mir, wo mein Vater ist! XXX
+// Dhorkan (gibt vor, nicht zu wissen, wo Rylsadhar ist) perso11
+L06D22A
+ Dein Vater? Woher soll ich das wissen? Ich nehm' an, er versteckt sich irgendwo ... hat sich in Sicherheit gebracht. XXX
+// Dhorkan perso11
+L06D22B
+ Verschwinde jetzt, wenn Du keinen Umweg über den Kerker machen willst! XXX
+// Arkhan2 G perso2
+L06D52A
+ Aber wir sollten nicht ... XXX
+// Arkhan3 G perso3
+L06D52B
+ Dhorkan, warte... XXX
+// Dhorkan perso11
+L06D53A
+ Arkhan! Die Prediger sind nicht so großzügig wie ich. XXX
+// Arkhan2 L perso2
+L06D15A
+ Dhorkan, ich brauch' Deine Hilfe. XXX
+// Arkhan2 O perso2
+L06D81A
+ Ich verstehe, jetzt brauchst Du mich nicht mehr und wirfst mich raus! XXX
+// Arkhan2 O perso2
+L06D81B
+ Du bist Deines Ranges nicht würdig, Dhorkan. Ich verachte Dich! XXX
+// Arkhan3 L perso3
+L06D15C
+ Dhorkan. Ohne Deine Hilfe bin ich verloren! XXX
+// Arkhan3 O perso3
+L06D15D
+ Verdammt noch mal, laß mich nicht im Stich! XXX
+// Dhorkan perso11
+L06D16B
+ Du hast die Hüter des Feuers angegriffen ... Dafür verdienst Du die Verbannung! XXX
+// Dhorkan perso11
+L06D16C
+ Aber ich habe Dich geachtet, und deshalb laß ich Dich gehen. XXX
+// Dhorkan perso11
+L06D16D
+ Wenn Du Hilfe suchst, jammere den Predigern etwas vor! XXX
+// Dhorkan perso11
+L06D16E
+ Sie sind schuld an Deinem traurigen Schicksal! XXX
+// Arkhan2 L perso2
+L06D17A
+ Und was ist mit der Gruft, von der Thanandar mir erzählt hat ... XXX
+// Arkhan2 O perso2
+L06D17B
+ Sag mir wenigstens, was Du über die Gruft weißt! XXX
+// Arkhan3 G perso3
+L06D17C
+ Was weißt Du über die Gruft? XXX
+// Dhorkan (verächtlich) perso11
+L06D18A
+ Diese Gruft ... schon wieder eine Erfindung der Prediger, um Dich an der Nase herumzuführen. XXX
+// Dhorkan perso11
+L06D18B
+ Ich geb' Dir einen Rat: Vergiß diese Lügengeschichten. XXX
+// Arkhan2 L perso2
+L06D19A
+ Du enttäuschst mich, Dhorkan. XXX
+// Arkhan2 L perso2
+L06D19B
+ Du hältst Dich für einen Meister und bist nichts weiter als ein mieser Feigling! XXX
+// Arkhan2 O perso2
+L06D19C
+ Beim heiligen Feuerrohr, Du bist nichts weiter als ein jämmerlicher Feigling! XXX
+// Arkhan3 L perso3
+L06D19D
+ Du läßt mich im Stich! XXX
+// Arkhan3 O perso3
+L06D19E
+ Verräter! XXX
+// Arkhan2 G (holt seinen Trumpf heraus) perso2
+L06D23A
+ Sag mal... Meinst Du nicht, wir sollten ein wenig über ... SORDOS sprechen? XXX
+// Arkhan3 G (holt seinen Trumpf heraus) perso3
+L06D23B
+ Und wenn wir ein bißchen über ... SORDOS sprächen! XXX
+// Dhorkan (überrumpelt) perso11
+L06D24
+ Was ... was meinst Du? XXX
+// Arkhan2 L perso2
+L06D25A
+ Ich weiß über alles Bescheid. Und ich erwarte eine Erklärung! XXX
+// Arkhan2 O perso2
+L06D25B
+ Ich weiß alles!  XXX
+// Arkhan3 G (drohend) perso3
+L06D25D
+ Ich weiß alles. Jetzt ist Schluß mit dem Wahnsinn! XXX
+// Dhorkan (arrogant) perso11
+L06D26B
+ Du meinst, Du hättest alles verstanden, aber Dein krankes Hirn ist unfähig, auch nur irgendetwas zu begreifen. XXX
+// Dhorkan (arrogant) perso11
+L06D26C
+ Ich habe große Projekte für den Stalliten.  XXX
+// Dhorkan (arrogant) perso11
+L06D26D
+ Die Prediger sind Schwächlinge, unfähig, die richtigen Entscheidungen zu treffen. XXX
+// Dhorkan (arrogant) perso11
+L06D26E
+ Unter meiner Herrschaft fängt ein neues Zeitalter an! XXX
+// Dhorkan (arrogant) perso11
+L06D26F
+ Und wenn ich mich mit einem Schuft wie Sordos verbünden muß, um den Larven, die Sparta bevölkern, meine großen Ziele aufzuzwingen ... XXX
+// Dhorkan (arrogant) perso11
+L06D26G
+ Dann tu' ich es, ohne auch nur eine Sekunde zu zögern! XXX
+// Dhorkan (verächtlich) perso11
+L06D26I
+ Wer glaubt denn einem Pilz in Menschengestalt? XXX
+// Dhorkan (verächtlich) perso11
+L06D26J
+ Selbst Deine Freunde stellen sich gegen Dich! XXX
+// Arkhan2 G (drohend) perso2
+L06D27
+ Beim Licht des Sonnengottes, ich werde allen Dein wahres Gesicht enthüllen! XXX
+// Arkhan3 G perso3
+L06D667A
+ Ich bring' Dich um! XXX
+// Arkhan3 G perso3
+L06D667B
+ Alle werden sehen, wer hier das wahre Ungeheuer ist! XXX
+// Dhorkan perso11
+L06D28A
+ Niemand wird Dich anhören, Du brauchst Beweise. XXX
+// Dhorkan perso11
+L06D28B
+ Und Du hast nichts in den Händen! XXX
+// Arkhan1 G perso1
+L06D200
+ Profos, kennt Ihr das hier? XXX
+// Dhorkan (kurzangebunden) perso11
+L06D203
+ Genug! Das interessiert mich nicht! XXX
+// Arkhan1 G perso1
+L06D66
+ Sei vorsichtig, Dhorkan! XXX
+// Arkhan2 G perso2
+L06D67
+ Verrecke, Dhorkan! XXX
+// Arkhan3 G perso3
+L06D68
+ Verrecke! XXX
+// Arkhan2 G perso2
+L06D69
+ Deine Stunde ist gekommen, Verräter! XXX
+// Arkhan3 G perso3
+L06D70
+ Du wirst sterben, Verräter! XXX
+// Arkhan2 L perso2
+L06D33A
+ Ein Geheimgang! Hinterher! XXX
+// Arkhan3 L perso3
+L06D33C
+ Holen wir ihn ein! XXX
+// Phedoria (zu sich selbst) perso26
+L06D34A
+ Diesen Geheimgang kenne ich nicht. XXX
+// Phedoria perso26
+L06D34B
+ Nun tu doch was, hol ihn ein! XXX
+// Phedoria (wütend) perso26
+L06D60
+ Das reicht jetzt! Hol Dhorkan ein! XXX
+// Phedoria perso26
+L23D107
+ Du besiegelst Dein Schicksal! XXX
+// Arkhan2 G perso2
+L06D55C
+ Da ist nichts mehr. XXX
+// Arkhan3 G perso3
+L06D55D
+ Nichts mehr. XXX
+// Phedoria perso26
+L06D61A
+ Versuch, ihn von da aus einzuholen! XXX
+// Phedoria perso26
+L06D61B
+ Ich werd' versuchen, den Geheimgang zu öffnen! XXX

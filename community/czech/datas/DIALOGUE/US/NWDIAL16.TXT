@@ -1,0 +1,616 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL16.TXT
+ // Delia (zu Maor) perso10
+L16D200
+ Tedy, co tomu ríkáš, Maore? XXX
+// Maor perso17
+L16D201A
+ Proste fantasticke, Delio ... jako vzdy. XXX
+// Maor perso17
+L16D201B
+ Armal Sadak a jeho muzi budou nadšený! XXX
+// Delia (zu Maor) perso10
+L16D202
+ Dobre, jdu nyní zpet do mý kabinky ... Jsem unavená. XXX
+// Maor (barsch)perso17
+L16D666
+ Rušíš mne! XXX
+// Maor (barsch)perso17
+L16D667
+ Nemám nyní cas, bez stranou! XXX
+// Maor (genervt)perso17
+L16D668
+ Jdi stranou nebo toho budeš litovat! XXX
+// Maor (wird angreifen)perso17
+L16D669
+ Svatý rohu, ty jsi to chtel! XXX
+// Maor (erschrocken, greift an)perso17
+L16D670
+ Tak jednoduše mne nedostaneš, nestvùro! XXX
+// Maor (von weitem, wütend)perso1
+L16D999
+ Hej, ty kryso! Vypadni hned! XXX
+// Delia (geschockt)perso10
+L16D125
+ To nebyl Maor, to bylo nejake zvíre! XXX
+// Arkhan2 L perso2
+L16D203
+ Dùveruj mi prece, já jsem prece porád clovek. XXX
+// Arkhan2 O perso2
+L16D204
+ Pojd jiz, rychle ... dokud já se nepromením (Lachen) XXX
+// Arkhan3 G perso3
+L16D205
+ Nyní pojd jiz! XXX
+// Maor (wütend)perso17
+L16D998
+ Pojd sem, kryso, já ti ukázu, dámy obtezovat! XXX
+// Delia (erkennt Maor, der auf furchtbare Weise verwandelt ist)perso10
+L16D25
+ U Boha Slunce, Maor! XXX
+// Delia (überrascht und erschrocken durch Arkhan)perso10
+L16D49
+ Kdo ... Kdo jsi? Co chceš? XXX
+// Delia perso10
+L16D51
+ Tu jsi jiz opet! XXX
+// Delia perso10
+L16D50
+ Ach, to jsi ty. Doufám, ze jsi mi neco prinesl. XXX
+// Delia (erschrocken)perso10
+L16D52
+ Ne! Nechod blíz! XXX
+// Delia perso10
+L16D122
+ Stùj! Naháníš mi strach! XXX
+// Delia (verängstigt, ruft)perso10
+L16D906
+ Maor! Maor! XXX
+// Maor perso17
+L16D350
+ Hej, ty smradlavý zvíre, soutez se koná az zítra ráno! XXX
+// Maor perso17
+L16D351
+ Jak chceš, nestvùro, já jdu! XXX
+// Maor (A. kommt näher)perso17
+L16D127
+ Co chceš? XXX
+// Arkhan2 L perso2
+L16D206
+ Hej, Maore... XXX
+// Arkhan2 O perso2
+L16D207
+ Hej, musím s tebou mluvit! XXX
+// Maor (mürrisch)perso17
+L16D208
+ Pockej u baru na mne, prijdu hned ... XXX
+// Arkhan3 L perso3
+L16D209
+ Hej! XXX
+// Maor perso17
+L16D210
+ Uklidni se! Jdi k baru, prijdu hned! XXX
+// Arkhan2 L perso2
+L16D500
+ Zádný strach, Bogdaran mne posílá. XXX
+// Delia perso10
+L16D501
+ Bogdaran? Kdo je to? XXX
+// Arkhan2 L perso2
+L16D502
+ Jeden z Horního mesta. Zavedu te k nemu. XXX
+// Delia perso10
+L16D503
+ Rozumím. XXX
+// Arkhan2 O perso2
+L16D504A
+ Bogdaran mne posílá, abych si te vyzvedl! XXX
+// Arkhan2 O perso2
+L16D504B
+ Pojd se mnou a nevymlouvej se! XXX
+// Delia (eingeschüchtert)perso10
+L16D505
+ Bogdaran? XXX
+// Arkhan2 O perso2
+L16D506
+ Ano, a zavedu te k nemu, on ceká netrpelive na tebe. XXX
+// Arkhan2 L perso2
+L16D507
+ Nedelej si starosti, budeme tam rychle. XXX
+// Delia perso10
+L16D508
+ Co chceš - hlavní vec, ze my odsud vypadneme! XXX
+// Arkhan2 O perso2
+L16D509
+ A pospeš si trochu, nesmím ztrácet cas! XXX
+// Arkhan2 O perso2
+L16D510
+ Všechno co chci? Aha, to já nezapomenu ... XXX
+// Arkhan2 G (zeigt auf eine tote Ratte)perso2
+L16D888
+ Není krásný? XXX
+// Delia (angeekelt) perso10
+L16D889
+ Ah! Jdi hned! XXX
+// Delia perso10
+L16D700
+ Ne, to mne nezajímá. XXX
+// Arkhan3 L perso3
+L16D402
+ V klidu! Neudelám ti nic. XXX
+// Delia perso10
+L16D409
+ Zmizni, ty nestvùro! XXX
+// Arkhan3 L perso3
+L16D407
+ Tak mne prece poslechni! XXX
+// Delia perso10
+L16D410
+ Pokud na mne sáhneš, chcípneš jak krysa! XXX
+// Arkhan3 G perso3
+L16D511
+ Pojd se mnou! XXX
+// Delia perso10
+L16D512
+ Rozumím. XXX
+// Arkhan2 L perso2
+L16D513A
+ Copak se zde deje? XXX
+// Arkhan2 L perso2
+L16D513B
+ Vedle nikdo není. XXX
+// Delia (furchtsam)perso10
+L16D514A
+ Já ... Já se schovala. Slyšela jsem krik, rachot od nejakýho boje. XXX
+// Delia perso10
+L16D514B
+ Mám strach. XXX
+// Arkhan2 L perso2
+L16D515C
+ Nehýbej se z místa! XXX
+// Arkhan2 O perso2
+L16D516A
+ Pak schováme se my práve v jejím lozi! XXX
+// Arkhan2 O perso2
+L16D516B
+ Jseš tu sama? XXX
+// Arkhan2 O perso2
+L16D517
+ Nedelej si starosti, u mne jsi v bezpecí! XXX
+// Arkhan2 L perso2
+L16D518
+ Zùstan zde a schovej se. XXX
+// Arkhan2 O perso2
+L16D519
+ Nehýbej se odsud pryc. Venku ti v nejblizším case krk utrhnou! XXX
+// Delia perso10
+L16D520
+ Máš pravdu ... Zùstanu radeji zde. XXX
+// Arkhan2 G perso2
+L16D521
+ Zádný starosti, postarám se o to! XXX
+// Delia perso10
+L16D522
+ Bud opatrný! XXX
+// Arkhan2 L perso2
+L16D100
+ Zádne starosti! Neudelám ti nic! XXX
+// Delia (verängstigt)perso10
+L16D101
+ Co ... copak tu chceš? XXX
+// Arkhan2 L (beruhigend)perso2
+L16D102A
+ Uklidni se ... Jmenuju se Arkhan, jsem prítel Smetákù. XXX
+// Arkhan2 L perso2
+L16D102B
+ Já vím, nevypadám práve krásne, ale nemám zádne zle ùmysly. XXX
+// Arkhan2 L perso2
+L16D102C
+ Nemusíš mít zádný strach ze mne, rozumíš? XXX
+// Delia (beruhigt, aber vorsichtig)perso10
+L16D103
+ Hmm ... tedy dobre. Ale jak se ke mne priblízíš, volám já Maora! XXX
+// Arkhan2 L (versucht, sich mit Delia anzufreunden) perso2
+L16D104
+ Ehm ... Videl jsem te tancovat, to bylo skutecne fantasticke. XXX
+// Delia perso10
+L16D105A
+ Díky, to je mile od tebe ... XXX
+// Delia perso10
+L16D105B
+ Co chceš ode mne? XXX
+// Arkhan2 L perso2
+L16D106
+ Potrebuju pomoc. Strázci ohne jdou po mne. Mùzeš mi pomoci? XXX
+// Delia perso10
+L16D107
+ Pokud ty zde dole hledáš pomoc, jdi za Armalem Sadakem. XXX
+// Arkhan2 L perso2
+L16D108
+ Armal Sadak? XXX
+// Delia perso10
+L16D109A
+ Ano! On je nejvetší Smeták ve Spodním meste. Zde dole ho všichni respektujou. XXX
+// Delia perso10
+L16D109B
+ Pokud ti mùze nekdo pomoci, pak on! Já ale nevím, zda-li on to udelá ... XXX
+// Arkhan2 L perso2
+L16D110
+ Kde ho najdu? XXX
+// Delia perso10
+L16D111
+ To není tak jednoduche ... Já nemohu te tam tak jednoduše zavest. Potrebuju nejaký dùkaz dobrých myšlenek. XXX
+// Arkhan2 L perso2
+L16D112
+ Znám Armala Sadaka. Nevím ale, zda-li mi pomùze.  XXX
+// Delia perso10
+L16D113
+ Pokud ti Armal Sadak nemùze pomoci, pak take nevím, co já pro tebe mùzu udelat. XXX
+// Arkhan2 L perso2
+L16D114
+ Co mám delat? XXX
+// Delia perso10
+L16D115A
+ Prines mi nejaký dárek, neco krásneho, trpytiveho ...  XXX
+// Delia perso10
+L16D115B
+ Pak já uvidím, co já u Armala Sadaka pro tebe mohu vyrídit ... XXX
+// Arkhan2 G perso2
+L16D116
+ Více mi nemùzeš ríci? XXX
+// Delia perso10
+L16D117
+ Ne, já myslím ne. XXX
+// Arkhan2 O perso2
+L16D118
+ Klid! Prestan tak rvát!  XXX
+// Delia (verängstigt)perso10
+L16D119
+ Prosím te, nedelej mi nic! XXX
+// Arkhan2 O (bedrohlich) perso2
+L16D120A
+ Ukonceme to, posraná kurvo! XXX
+// Arkhan2 O perso2
+L16D120B
+ Pokud ty nebudeš spolupracovat, pak te naucím podle meho zpùsobu tancovat! XXX
+// Delia (bekommt Angst) perso10
+L16D121
+ Ne! Maore, pomoc! XXX
+// Delia perso10
+L16D886A
+ Prišel jsi, abys menil veci? XXX
+// Delia perso10
+L16D886B
+ To mne nezajímá, moji ochránci dají mi všechno, co já chci ... XXX
+// Delia perso10
+L16D887
+ Ríkala jsem ti, ze já zádne kapesní obchody nedelám! XXX
+// Arkhan2 O perso2
+L16D66
+ Pomùzeš mi nyní, jinak rozsekám ti tvojí krásnou drzku! XXX
+// Delia perso10
+L16D67
+ Ne, nemlat mne! XXX
+// Arkhan2 L perso2
+L16D68
+ Nemohu ti nic darovat, ale potrebuju skutecne tvojí pomoc! XXX
+// Delia perso10
+L16D69
+ Je mi líto, ale nemohu ti bez tohoto dále zavest k Armalovi Sadakovi ... XXX
+// Arkhan2 G perso2
+L16D70
+ Snad bych neco pro tebe mnel. Líbí se ti to? XXX
+// Delia perso10
+L16D71
+ Ne, to mne nezajímá ... XXX
+// Delia (A. gibt ihr eine CD)perso10
+L16D72
+ Svetelný zrcadlo od predkù! Ano, to se mi líbí! XXX
+// Delia perso10
+L16D74A
+ Ty najdeš Armala Sadaka nedaleko odsud, v jeho domu podobný lodi. XXX
+// Delia perso10
+L16D74B
+ Pokud ho potkáš, rekni mu následující vetu: XXX
+// Delia perso10
+L16D74C
+ "Clovek není nic nez hrací kámen, v rukách osudu stínu, který se se svetlem strídá." XXX
+// Delia perso10
+L16D75
+ To je nejaká fráze. XXX
+// Arkhan2 G perso2
+L16D76
+ To je všechno? XXX
+// Delia perso10
+L16D77
+ S ním si promluvit, ano. Ale pokud chceš skutecne, aby ti pomohl, musíš s ním hrát hru Yong. XXX
+// Arkhan2 G perso2
+L16D78
+ Co je to za hru? XXX
+// Delia perso10
+L16D79A
+ To je Armala Sadaka nejoblíbenejší hra. On jí hraje neustále. XXX
+// Delia perso10
+L16D79B
+ Ríká, ze zivot je jedna dlouhá partie Yongu, a veci styl. XXX
+// Arkhan2 G perso2
+L16D80
+ Co musím udelat, abych zvítezil? XXX
+// Delia perso10
+L16D81A
+ Nejsem s tím tak dobre seznámená ...  XXX
+// Delia perso10
+L16D81B
+ Hraje se na desce se svetlými a tmavými kameny. XXX
+// Delia perso10
+L16D82
+ A Armal mi vzdy ríkával, ze kdo má jako první rohy hracího pole obsazeny, pak vyhrává.   XXX
+// Arkhan2 G perso2
+L16D83
+ Je to vše, co my mùzeš ríci? XXX
+// Delia perso10
+L16D84
+ Ano, já ti rekla vše, co já vím.  XXX
+// Delia perso10
+L16D85
+ Musíš nyní jít ... XXX
+// Delia perso10
+L16D885A
+ Ty jsi mi jiz dal dárek, to stací. XXX
+// Arkhan2 L perso2
+L16D400
+ Zádný strachy! Neudelám ti nic. XXX
+// Arkhan2 O perso2
+L16D401
+ Drz hubu, hajzle, nebo se pustím do tveho krásneho obliceje! XXX
+// Delia perso10
+L16D404A
+ Ty kryso! Za to, co jsi Maorovi udelal, ty mi zaplatíš! XXX
+// Delia perso10
+L16D404B
+ A pokud se mne dotkneš, Armal Sadak ti srdce z tela vyrve! XXX
+// Arkhan2 L perso2
+L16D405
+ Nechci nikoho zabíjet, potrebuju pomoc. XXX
+// Arkhan2 O perso2
+L16D406
+ Všechno co já chci, je pomoc! XXX
+// Delia perso10
+L16D408
+ Vypadni! Já ti nic nereknu! XXX
+// Delia (A. hat sie geschlagen) perso10
+L16D403
+ Dej si pozor, krysí tlamo! XXX
+// Arkhan2 L perso2
+L16D300A
+ Bud zdráv ... Maore, tak se jmenuješ prece, nebo? XXX
+// Arkhan2 L perso2
+L16D300B
+ Bezvadná šou ... XXX
+// Maor perso17
+L16D301
+ Hmm ... Co chceš? XXX
+// Arkhan2 O perso2
+L16D302A
+ Ta tanecnice je skutecne sexy. XXX
+// Arkhan2 O perso2
+L16D302B
+ Rozdelíš ty se se mnou o ní? XXX
+// Maor perso17
+L16D303A
+ Vypust to z hlavy! Delia má sve ... ochránce. XXX
+// Maor perso17
+L16D303B
+ A pokud te zrovna pozoruji stejne nejsi její typ! XXX
+// Arkhan2 L perso2
+L16D304A
+ Jsem Arkhan, prítel smetákù. XXX
+// Arkhan2 L perso2
+L16D304B
+ Mám problemy se Strázci ohnù ... a potrebuju pomoc. XXX
+// Arkhan2 O perso2
+L16D306A
+ Jmenuju se Arkhan. Strázci ohnù jsou mi na stope, a já jsem smrtelne nemocný ... XXX
+// Arkhan2 O perso2
+L16D306B
+ A pokud ty to chceš presne vedet: Pokouším se, pres ne práve prátelský typy, kterí zde v okolí se povalují, si mojí kùzi zachránit! XXX
+// Maor perso17
+L16D305
+ Já ti rozumím ... Ale zde nenajdeš nic, co ty hledáš. XXX
+// Maor (mürrisch, aber großzügig)perso17
+L16D307A
+ Tam na stole lezí flaška alkoholu.  XXX
+// Maor perso17
+L16D307B
+ Vezmi si jí, já ti jí daruji. XXX
+// Maor (mürrisch, aber großzügig)perso17
+L16D308A
+ Ponech si tu flašku, kterou jsi práve ze stolu vzal. XXX
+// Maor perso17
+L16D308B
+ To je všechno, co mohu pro tebe udelat. XXX
+// Arkhan2 L perso2
+L16D309
+ Pokud ty mi nemùzeš pomoci, na koho se pak mám obrátit? XXX
+// Maor perso17
+L16D310A
+ Hmm ... Já verím, ze se nechceš Strázcùm ohne vydat ... XXX
+// Maor perso17
+L16D310B
+ Pokud nemùzeš uz nic ztratit, mùzeš jít za Armalem Sadakem. XXX
+// Maor perso17
+L16D310C
+ Ale co udelej - udelej porádný oblouk od Konkalitù, jinak budeš mít jen problemy! XXX
+// Arkhan2 O perso2
+L16D311A
+ Chtel jsem se práve zeptat, zda se vùbec umíš smát! XXX
+// Arkhan2 O perso2
+L16D311B
+ Nebo si hraješ porád bezpodmínecne na silneho muze? XXX
+// Maor perso17
+L16D312A
+ Usmívám se pouze na pekne zeny, rozumíš? XXX
+// Maor perso17
+L16D312B
+ Zmizni nyní, mám porád práci ... XXX
+// Arkhan2 L perso2
+L16D313
+ Mùzeš mi o tom neco více ríci? XXX
+// Maor perso17
+L16D314
+ Je mi líto, více dobrých rad ti nemohu dát. XXX
+// Arkhan2 L perso2
+L16D315
+ Nemùzeš mi skutecne více ríci? XXX
+// Maor perso17
+L16D316A
+ Ne ...  XXX
+// Maor perso17
+L16D316B
+ Ale pokud se chceš trochu pobavit, jdi prece za Deliou! XXX
+// Arkhan2 O perso2
+L16D317A
+ Hraješ si na silneho muze, souhlasí? Ale víš ty, co já myslím? XXX
+// Arkhan2 O perso2
+L16D317B
+ Myslím, aby sis zadek necím ucpal, aby sis vzadu tvùj bar nepodelal! XXX
+// Maor (wütend) perso17
+L16D318A
+ Všechno jasný, Amigo! Ty chceš bezpodmínecne nekolik kopancù. XXX
+// Maor perso17
+L16D318B
+ Pojd sem, uciním te padlým . XXX
+// Arkhan3 L perso3
+L16D320
+ Bud pozdraven! XXX
+// Maor (beeindruckt)perso17
+L16D321
+ U Boha Slunce ... Kdopak jsi? XXX
+// Arkhan3 L perso3
+L16D322
+ Klid. Potrebuju ... pomoc. XXX
+// Maor (beeindruckt)perso17
+L16D323
+ Je mi líto, Amigo. Nemohu nic pro tebe udelat. XXX
+// Arkhan3 L perso3
+L16D324
+ Rekni mi, na koho se mám obrátit ... Na knezí snad. XXX
+// Maor perso17
+L16D325A
+ Ehm ... Já jsem obycejný smeták, nerozumím nicemu z moudrosti lecitelù ... XXX
+// Maor perso17
+L16D326A
+ Ale na stole lezí flaška plná alkoholu. XXX
+// Maor perso17
+L16D326B
+ Pokud chceš, daruju jí tobe.  XXX
+// Maor perso17
+L16D327A
+ Nech si prece alkohol, který jsi si práve vzal. XXX
+// Arkhan3 L perso2
+L16D328
+ Jsi si jistý, ze mi nemùzeš pomoci? XXX
+// Maor (fühlt sich unwohl in seiner Haut) perso17
+L16D329
+ Pomohl bych ti rád, ale já nevím, jak ... XXX
+// Arkhan3 L perso2
+L16D330
+ Ty mi nemùzeš skutecne pomoci? XXX
+// Maor (fühlt sich unwohl in seiner Haut)perso17
+L16D331
+ Ne, je mi líto ... XXX
+// Arkhan3 O perso3
+L16D332
+ Prece! Ty mi pomùzeš! XXX
+// Maor (beeindruckt) perso17
+L16D333A
+ Nevím kdo jsi, a nevím co chceš! XXX
+// Maor (beeindruckt) perso17
+L16D333B
+ Ale varuju te: Mám zbran a umím s ní zacházet! XXX
+// Arkhan3 O perso3
+L16D334
+ Výkale smetácký, udelám z tebe sekanou! XXX
+// Arkhan2 G perso2
+L16D335
+ Chceš trochu alkoholu? XXX
+// Maor perso17
+L16D336
+ Nech si tvùj alkohol, mám všechno, co potrebuju! XXX
+// Arkhan3 G perso3
+L16D337
+ Alkohol? XXX
+// Maor (beeindruckt)perso17
+L16D338
+ Ne ... Ne ... Pij na mojí dobrotu . XXX
+// Arkhan2 G perso2
+L16D339
+ Chceš flašku? XXX
+// Maor perso17
+L16D340
+ Ne, Amigo, mám všechno, co potrebuju. XXX
+// Arkhan3 G perso3
+L16D341
+ Chceš neco? XXX
+// Maor (beeindruckt)perso17
+L16D342
+ Ne ... Díky. XXX
+// Maor perso17
+L16D343
+ Ne, to mne nezajímá. XXX
+// Maor (beeindruckt)perso17
+L16D346
+ Ne, díky. Nech si ho. XXX
+// Arkhan2 L perso2
+L16D904
+ Grilovaný kohoutek ... velmi chutný. XXX
+// Arkhan3 L perso2
+L16D905
+ Kohoutek ... chutne ugrilován! XXX
+// Maor perso17
+L16D04
+ Hej, drz se stranou! XXX
+// Maor perso17
+L16D07A
+ Hej, Bar je moje ríše! XXX
+// Maor perso17
+L16D07B
+ A já sem te ke mne nepozval, capito? XXX
+// Maor perso17
+L16D08
+ Varoval jsem te! XXX
+// Arkhan2 G perso2
+L16D118A
+ Nejake male hrací hodinky. XXX
+// Arkhan2 G perso2
+L16D118B
+ Danrys mi nejake taky postavil, kdyz jsem byl ješte díte. XXX
+// Arkhan3 G perso3
+L16D119A
+ Hrací hodinky. XXX
+// Arkhan3 G perso3
+L16D119B
+ Jako tamty, ktere mi Danrys pred dávnými casy postavil. XXX
+// Arkhan2 L perso2
+L16D900
+ Ve špicích není dùvera, na jevište vylezt a tanecnice líbat! XXX
+// Arkhan3 L perso3
+L16D901
+ Tyto špice jsou skutecne odstrašující! XXX
+// Arkhan2 G perso2
+L16D902
+ To je nejaká stará pomalovaná stena od predkù. XXX
+// Arkhan3 G perso3
+L16D903
+ Jedna stará pomalovaná stena od predkù. XXX
+// Arkhan2 G perso2
+L16D701
+ Tu je nejaký bazant s alkoholem. XXX
+// Arkhan3 G perso3
+L16D702
+ Bazant s alkoholem. XXX
+// Arkhan2 G perso2
+L08D71
+ Ne, flaška je jiz plná. XXX
+// Arkhan3 G perso3
+L08D72
+ Flaška je plná! XXX

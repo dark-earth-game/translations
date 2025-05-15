@@ -1,0 +1,409 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL19.TXT
+ // Malrot5 (challenges Arkhan) perso65
+L19D88
+ You lookin' for a fight? Come on! XXX
+// Kalhi perso13
+L19D01
+ Thank you, Jenna. That's just what I needed. XXX
+// Malrot5 perso65
+L19D02
+ Always at your service for a good deal. XXX
+// Kalhi perso13
+L19D03A
+ Arkhan! XXX
+// Kalhi perso13
+L19D03B
+ Here, I dug this up for you. XXX
+// Kalhi perso13
+L19D03C
+ It's not much, but I hope it'll help you hang in there. XXX
+// Arkhan2 G perso2
+L19D04
+ Thanks Kalhi. I appreciate it. XXX
+// Kalhi perso13
+L19D06A
+ I'm going to try and find you a healer. XXX
+// Kalhi perso13
+L19D06B
+ Be strong, sweetheart! XXX
+// Arkhan2 G (proud of Kalhi) perso2
+L19D07
+ She's incredible! XXX
+// Arkhan3 G (proud of Kalhi) perso3
+L19D08
+ She's great! XXX
+// Malrot5 (A. takes "en garde" position) perso65
+L19D94
+ HEY! Lay off, clay face! XXX
+// Malrot5 perso65
+L19D89
+ Get back, you mutant! XXX
+// Delia perso10
+L16D122
+ Stop! You're scaring me! XXX
+// Malrot5 perso65
+L19D95
+ Relax, that's better! XXX
+// Arkhan2 L perso2
+L19D09
+ Light be with you, Scavenger. XXX
+// Malrot5 perso65
+L19D10A
+ Have you lost your way, man? XXX
+// Malrot5 perso65
+L19D10B
+ You've come to the right place. Welcome to Scavenger land. XXX
+// Arkhan2 O (giving the Malrot the once-over)perso2
+L19D10
+ Blasted gloom! What thighs! XXX
+// Malrot5 (ironic, as if recalling Arkhan's name) perso65
+L19D11
+ Let's see... it's a Rat-face, right? XXX
+// Arkhan2 O perso2
+L19D12
+ No, you remember... It's Sweetums. XXX
+// Malrot5 (amused, playing the game) perso2
+L19D13
+ How could I forget you,  you old devil. XXX
+// Arkhan2 G perso2
+L19D15
+ My name is Arkhan, friend of the Scavengers. XXX
+// Malrot5 (ironic) perso65
+L19D16A
+ That's more like it! XXX
+// Malrot5 (ironic) perso65
+L19D16B
+ First off, you're not much to look at. XXX
+// Malrot5 (ironic) perso65
+L19D16C
+ And if your name was "Arkhan, Butcher of the Scavengers", I'd be a tad worried. XXX
+// Arkhan2 L perso2
+L19D17A
+ I look like this because I'm suffering from a disease. XXX
+// Arkhan2 L perso2
+L19D17B
+ But don't worry, I wish you no harm. XXX
+// Arkhan2 O perso2
+L19D18
+ What do ya think ? I'm sick, that's why my face looks like this! XXX
+// Malrot5 perso65
+L19D19
+ Well, if you're sick, you should try seeing a healer in the Upper City. XXX
+// Arkhan2 L perso2
+L19D20A
+ The Upper City's too hot for me right now. XXX
+// Arkhan2 L perso2
+L19D20B
+ The Guardians of Fire are after me. XXX
+// Malrot5 perso65
+L19D21A
+ The Guardians of Fire? XXX
+// Malrot5 perso65
+L19D21B
+ Don't tell me you're afraid of those pansies!? XXX
+// Arkhan2 L (ex-Guardian of Fire, don't forget) perso2
+L19D22A
+ Um... No, but I don't want to get into a fight with them right now! XXX
+// Arkhan2 L perso2
+L19D22B
+ As for the healers, I don't think they'd help me either. XXX
+// Arkhan2 L perso2
+L19D22C
+ I have to find the cure myself if I want to get well again! XXX
+// Arkhan2 O perso2
+L19D23A
+ I have to forget about finding help in the Upper City. XXX
+// Arkhan2 O perso2
+L19D23B
+ The Guardians of Fire have sworn to skin me alive! XXX
+// Arkhan2 O (ex-Guardian of Fire, don't forget) perso2
+L19D24A
+ Hey, they're not the pansies you seem to think they are... XXX
+// Arkhan2 O perso2
+L19D24B
+ And they won't waste any time killing me. XXX
+// Arkhan2 O perso2
+L19D24C
+ Ditto for the Sunseers and the Healers. XXX
+// Arkhan2 O perso2
+L19D24D
+ You see, the only one I trust is myself... XXX
+// Arkhan2 O perso2
+L19D24E
+ And of course the good Scavengers of the Lower City! XXX
+// Arkhan2 L perso2
+L19D25
+ You know someone around here who can help me? XXX
+// Arkhan2 O perso2
+L19D26
+ Tell me. Who can help me in this hellhole! XXX
+// Malrot5 perso65
+L19D27A
+ Around here, if you're up to neck in really deep shit, your best bet is Armal Sadak. XXX
+// Malrot5 perso65
+L19D27B
+ But I don't think he'll help you. XXX
+// Arkhan2 G perso2
+L19D28
+ Why? XXX
+// Malrot5 perso65
+L19D29
+ Let's just say your underwear's not the right color, if you get my drift! XXX
+// Arkhan2 G (knows Armal Sadak) perso2
+L19D30
+ Don't worry, he's got better taste than you give him credit for... XXX
+// Arkhan2 L perso2
+L19D31
+ Armal Sadak, where can I find him? XXX
+// Malrot5 perso65
+L19D32A
+ Forget it. XXX
+// Malrot5 perso65
+L19D32B
+ If you're lucky, the best they'll do for ya, is put ya out of your misery. XXX
+// Arkhan2 L perso2
+L19D33A
+ Listen, I'm serious. I want to meet this Armal Sadak. XXX
+// Arkhan2 L perso2
+L19D33B
+ It's a matter of life and death! XXX
+// Malrot5 perso65
+L19D34A
+ Armal Sadak lives in the Wreck, not far from here. XXX
+// Malrot5 perso65
+L19D34B
+ It's an old boat they repaired. XXX
+// Malrot5 perso65
+L19D34C
+ But if you want to make it past the bouncers, you'll need an introduction. XXX
+// Arkhan2 L perso2
+L19D35
+ From who? Danrys? XXX
+// Malrot5 perso65
+L19D36A
+ No, Delia. She's the dancer at the nightclub. XXX
+// Malrot5 perso65
+L19D36B
+ The boss, Maor, don't say much. But she knows Armal Sadak. XXX
+// Malrot5 perso65
+L19D36C
+ If she swallows your story, maybe she'll help ya. XXX
+// Malrot5 (to herself) perso65
+L19D36D
+ But lookin' at your face, I won't make any promises... XXX
+// Arkhan2 L perso2
+L19D37
+ Can you tell me any more? XXX
+// Malrot5 perso65
+L19D38
+ I've told ya too much already! XXX
+// Malrot5 perso65
+L19D39
+ Time to fly solo, your ugliness! XXX
+// Arkhan2 0 perso2
+L19D40A
+ Read my lips, slut! XXX
+// Arkhan2 O perso2
+L19D40B
+ You're going to tell Armal Sadak to help me, or else I'm gonna... XXX
+// Malrot5 (furious) perso65
+L19D41
+ I'm gonna make you choke on your words, slag heap! XXX
+// Arkhan3 L perso3
+L19D42
+ Light... XXX
+// Malrot5 (impressed) perso65
+L19D43A
+ Keep away! XXX
+// Malrot5 (impressed) perso65
+L19D43B
+ Who are you? Whaddaya want? XXX
+// Arkhan3 L perso3
+L19D44
+ My name is Arkhan. XXX
+// Malrot5 (warily) perso65
+L19D45A
+ Never seen ya round here before. XXX
+// Malrot5 (warily) perso65
+L19D45B
+ What's your problem? XXX
+// Arkhan3 L perso3
+L19D46A
+ A disease. XXX
+// Arkhan3 L perso3
+L19D46B
+ I'm looking for a cure. XXX
+// Malrot5 (warily) perso65
+L19D47
+ You won't find one here... XXX
+// Arkhan3 L perso3
+L19D48
+ Do you know anyone who could... help me? XXX
+// Malrot5 perso65
+L19D49A
+ Maybe Armal Sadak... XXX
+// Malrot5 perso65
+L19D49B
+ But I wouldn't bet on it! XXX
+// Arkhan3 L perso3
+L19D50
+ Where can I find Armal Sadak? XXX
+// Malrot5 perso65
+L19D51A
+ He lives down there... in a big metal boat... XXX
+// Malrot5 perso65
+L19D51B
+ But it's not a good idea to drop in unannounced... XXX
+// Arkhan3 L perso3
+L19D52
+ Who can help me? XXX
+// Malrot5 perso65
+L19D53A
+ Forget it, I said! XXX
+// Malrot5 perso65
+L19D53B
+ Beat it! I've got nothing else to tell ya! XXX
+// Malrot5 (going to attack A.) perso65
+L19D54
+ I'm gonna break you apart! XXX
+// Arkhan2 L perso2
+L19D55
+ Don't be scared. XXX
+// Arkhan2 O perso2
+L19D56
+ Don't worry, I wouldn't strike a woman! XXX
+// Malrot5 perso65
+L19D57
+ Okay. But one false move, and you're dead meat! XXX
+// Arkhan2 L perso2
+L19D58
+ Who worked you up like that? XXX
+// Arkhan2 O perso2
+L19D59
+ What made you freak out like that? XXX
+// Malrot5 perso65
+L19D60A
+ There's some weird crap goin' on! XXX
+// Malrot5 perso65
+L19D60B
+ I don't scare easy. XXX
+// Malrot5 perso65
+L19D60C
+ But I saw shadows moving in that alley right there. XXX
+// Malrot5 perso65
+L19D60D
+ Shadows... not human... kinda like you. XXX
+// Malrot5 perso65
+L19D60E
+ They bite first and ask questions later... XXX
+// Malrot5 perso65
+L19D60F
+ If you get my drift! XXX
+// Arkhan2 L perso2
+L19D61
+ Don't worry, I'll protect you. XXX
+// Arkhan2 O (defiantly) perso2
+L19D62
+ If your shadows come poking their heads around here, they'll regret it! XXX
+// Arkhan2 G perso2
+L19D63
+ Seen anything else? XXX
+// Malrot5 perso65
+L19D64
+ No, but I seen enough already! XXX
+// Arkhan3 L perso3
+L19D65
+ No, don't be scared... XXX
+// Malrot5 (violent because scared) perso65
+L19D66A
+ Find yourself another victim, monster! XXX
+// Malrot5 perso65
+L19D66B
+ You wouldn't like the taste of my blade! XXX
+// Arkhan3 L perso3
+L19D67
+ What are you afraid of? XXX
+// Malrot5 perso65
+L19D68
+ Creatures that look just like you! XXX
+// Arkhan3 L perso3
+L19D69
+ What have you seen? XXX
+// Malrot5 perso65
+L19D70
+ Shut up. Beat it! XXX
+// Malrot5 (A. shows him an object) perso65
+L19D97
+ Keep it, Okay? XXX
+// Arkhan2 G perso2
+L19D99
+ Tell me Scavenger... XXX
+// Malrot5 (interrupting Arkhan) perso65
+L19D100
+ Park your piece first, buddy. Makes me nervous! XXX
+// Arkhan3 L perso3
+L19D101
+ I want to know if... XXX
+// Arkhan2 G perso2
+L19D93
+ Don't move! XXX
+// Arkhan2 L perso2
+L19D90
+ We must return to the Upper City. Come on! XXX
+// Delia (worried) perso10
+L19D91
+ I'm right behind you, Arkhan. XXX
+// Arkhan2 O perso2
+L19D92A
+ We're going to climb to the Upper City. XXX
+// Arkhan2 O perso2
+L19D92B
+ Stay right behind me, I don't want to lose you on the way! XXX
+// Arkhan3 G perso3
+L14D239
+ Let's go to the Upper City. XXX
+// Delia perso10
+L14D240
+ Let's go. I'm right behind you. XXX
+// Delia (hit by Arkhan) perso10
+L10D95
+ No! Are you mad? Stop it! XXX
+// Arkhan2 G perso2
+L19D73
+ Nothing but rubbish... XXX
+// Arkhan3 G perso3
+L19D74
+ Rubbish... XXX
+// Arkhan2 G perso2
+L19D75
+ Hey, there's a girl dancing inside. XXX
+// Arkhan3 G perso3
+L19D76
+ Hmmm... there's a girl dancing... XXX
+// Arkhan2 G perso2
+L19D77
+ Can't see much! XXX
+// Arkhan3 G perso3
+L19D78
+ It's empty... XXX
+// Arkhan2 G perso2
+L19D79
+ An old water wheel. Totally rusted. XXX
+// Arkhan3 G perso3
+L19D80
+ An old water wheel. XXX
+// Malrot5 perso65
+L19D81
+ What do you want now? XXX
+// Arkhan2 G perso3
+L19D83
+ I can't see anything... too bad... XXX
+// Arkhan3 G perso3
+L19D84
+ I can't see... XXX
+// Arkhan2 G perso2
+L19D85
+ A rotten old barrel... XXX
+// Arkhan3 G perso3
+L19D86
+ An old barrel... XXX

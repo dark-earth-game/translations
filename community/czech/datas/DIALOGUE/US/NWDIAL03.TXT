@@ -1,0 +1,202 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL03.TXT
+ // Kalhi perso33
+L03D14
+ Odloucíme se, potkáme se venku na centrálním námestí. XXX
+// Kalhi (fassungslos) perso13
+L03D500A
+ Arkhane! Ty ... Proc jsi to ucinil? XXX
+// Kalhi (fassungslos) perso13
+L03D500B
+ Tento jed ... zpùsobuje te šílenejším! XXX
+// Kalhi (hat die Kleidungsstücke angezogen) perso33
+L03D501A
+ Nevypadá to zas tak zle! XXX
+// Kalhi perso33
+L03D501B
+ Kdyby Strázci ohne mùj oblicej neokoukaly, nepoznají mne. XXX
+// Kalhi (ungeduldig) perso13
+L03D601
+ Arkhane, my nesmíme zde zùstat! XXX
+// Kalhi (ungeduldig) perso13
+L03D602
+ Pojï, Arkhane, je to nebezpecné, zde zùstávat. XXX
+// Kalhi (erstaunt, daß Arkhan nichts tut) perso13
+L03D603
+ Arkhane? Jdeme my jiz? XXX
+// Arkhan2 G perso2
+L03D01
+ Cekej na mne. XXX
+// Arkhan3 G perso3
+L03D02
+ Cekej. XXX
+// Kalhi perso13
+L03D03
+ Já pockám na tebe! XXX
+// Kalhi (beunruhigt) perso33
+L04D41
+ Arkhane! Co se s tebou deje? XXX
+// Arkhan2 G perso2
+L03D503
+ Jak jsi se do vezení dostala? XXX
+// Arkhan3 G perso3
+L03D504
+ Jak jsi se do zaláre dostala? XXX
+// Kalhi perso13
+L03D505
+ Strázci ohne ... oni mne u Rylsadhara chytli.  XXX
+// Arkhan2 G perso2
+L03D506A
+ A oni ti tvojí dýku ponechali? XXX
+// Arkhan2 G perso2
+L03D506B
+ To nazývám já za dobrou prací! XXX
+// Arkhan3 G perso3
+L03D507
+Oni ti tvojí dýku neodebrali? Excelentní! XXX
+// Kalhi perso13
+L03D508A
+ Pokud já jsem porozumela, Rylsadhar a Zed zmizeli. XXX
+// Kalhi perso13
+L03D508B
+ A já mám být podezrelou! XXX
+// Arkhan2 G perso2
+L03D509
+ Copak je to za temne casy? XXX
+// Arkhan3 G perso3
+L03D510
+ Zed a mùj otec ... zmizeli? XXX
+// Kalhi perso13
+L03D511
+ Já nevím. Já nerozumím tomu take jako ty ... XXX
+// Arkhan2 G perso2
+L03D512
+ Tedy dobre. Nyní musíme do Spodního mesta dolù. Bez zpozorování. XXX
+// Arkhan3 G perso3
+L03D513
+ Tedy dobre. Pokusíme se nyní, do Spodního mesta proklouznout ... bez zpozorování. XXX
+// Kalhi perso13
+L03D514
+ To bude velmi tezke! XXX
+// Arkhan2 G perso2
+L03D515
+ Pojd nyní, jdeme. XXX
+// Arkhan3 G perso3
+L03D516
+ Jdeme! XXX
+// Kalhi perso13
+L03D517
+ Já jdu jiz. XXX
+// Arkhan2 G perso2
+L03D518
+ Podívej! To je Bogdaranova stará uniforma ... XXX
+// Arkhan2 G perso2
+L03D519
+ Dríve nez mu bricho narostlo! XXX
+// Arkhan3 G perso3
+L03D520
+ Dívej se. XXX
+// Kalhi perso13
+L03D521
+ Dobre, já zkusím ... XXX
+// Kalhi perso13
+L03D522
+ Arkhane, my nemáme cas! XXX
+// Arkhan2 O perso2
+L03D523
+ Já ti ukázu, kdes tak dlouho byla! XXX
+// Arkhan2 L perso2
+L03D524
+ Pravá bojovnice! XXX
+// Arkhan3 O perso3
+L03D525
+ Já ti ješte ukázu, kde ses toulala! XXX
+// Kalhi (muß sich wehren) perso33
+L04D43
+ Arkhane, ne! XXX
+// Kalhi (verängstigt) perso33
+L04D42
+ Ne, Arkhane! Ty musíš bojovat! XXX
+// Kalhi perso33
+L03D530A
+ Strázci ohne chytají všechny podezrele. XXX
+// Kalhi perso33
+L03D530B
+ Ale s tímto prestrojením mohli bychom je snadneji oklamat. XXX
+// Arkhan2 G perso2
+L03D531A
+ A uniforma! Velmi šikovne! XXX
+// Arkhan2 G perso2
+L03D531B
+ Proti tobe je Phedorie díte! XXX
+// Arkhan3 G (amüsiert durch Kalhi in Uniform) perso3
+L03D532
+ Sama Phedorie neprijde na to! XXX
+// Kalhi perso33
+L03D533
+ Poslouchej, delá te to moc veselým! Jdeme nyní! XXX
+// Arkhan2 G perso2
+L03D534
+ Musíme halou napríc a pak dolu. XXX
+// Arkhan3 G perso3
+L03D535
+ My projdeme halou a pak dolu. XXX
+// Kalhi perso33
+L03D536
+ Ty jsi zde šef! XXX
+// Kalhi perso13
+L03D528
+ Nenut mne ... XXX
+// Kalhi perso13
+L03D526
+ Arkhane, prestaò! XXX
+// Kalhi perso13
+L03D527
+ Tento jed delá te šílenejším! XXX
+// Arkhan1 L perso1
+L03D04A
+ Stare sudy na olej.  XXX
+// Arkhan1 L perso1
+L03D04B
+ Ty jiste zde Mist oleje umístil. XXX
+// Arkhan1 O (Fußtritte in die Fässer) perso1
+L03D05
+ Proklatý sudy! XXX
+// Arkhan2 L perso2
+L03D06
+ Sudy, ktere obchodník s olejem zde zanechal. XXX
+// Arkhan2 O (tritt mit den Füßen in die Fässer) perso2
+L03D07
+ Bogdaranovo zatracený vedro na odpadky! XXX
+// Arkhan3 L perso3
+L03D08
+ Stare sudy, plne nezajímave. XXX
+// Arkhan2 G perso2
+L03D10
+ Olejová laborator je hned vzadu. XXX
+// Arkhan3 G perso3
+L03D11
+ To je olejová laborka. XXX
+// Delia perso10
+L03D12
+ Jdeme rychle, já chci Bogdarana videt. XXX
+// Delia perso10
+L03D13
+ Arkhane, já prosím te, nesmíme cas ztrácet! XXX
+// Arkhan3 G (schlägt sich mit Delhia) perso3
+L03D16
+ To stací, Ty kurvo! XXX
+// Delia (von Arkhan angegriffen) perso10
+L03D09
+ Ty jsi se pomátl! XXX
+// Arkhan1 G perso1
+L03D17A
+ Nyní jsme my docela nahore na ùtesu ... Dole lezí more, v nekonecne dálce. XXX
+// Arkhan1 G perso1
+L03D17B
+ Za velke katastrofy se cele pohorí do more zrítily. XXX
+// Arkhan2 G perso2
+L03D18
+ Vzadu není nic nez more a Temná Zeme... XXX
+// Arkhan3 G perso3
+L03D19
+ More a Temná Zeme ... náš jediný horizont... XXX

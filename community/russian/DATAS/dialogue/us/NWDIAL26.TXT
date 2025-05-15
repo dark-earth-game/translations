@@ -1,0 +1,160 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL26.TXT
+ // Arkhan2 L perso2
+L26D01
+ Gnar kgZidlj]Zg ]alionxm|. XXX
+// Arkhan3 L perso3
+L26D02
+ G^jix... XXX
+// Arkhan2 G (looking at a book)perso2
+L26D03
+ Hjmhjnldh-fZ, snj non... XXX
+// Arkhan2 G (reading)perso2
+L26D03A
+ "+and JjgirZ - na, fj^j _la]ida iZcw]Zgd "IoifZ" - iwia kjfj|nm| ^go[jfj kj_ cahg~e. XXX
+// Arkhan2 G perso2
+L26D03B
+ *lj[idrw mij] - dq kjmga_ide kldzn, jqlZi|ahwe mnlZbZhd dc fZhi| d ]asiwh [_aidah kjm]|u~iiwq, dc[lZiiwq dc sdmgZ gz_ae. XXX
+// Arkhan2 G perso2
+L26D03C
+ +aix dq Hlj[ob_aid| dchaidn gdf sagj]asamn]Z iZ]afd. KZf [wgj kla_mfZcZij Kjl^lZ_jh d kljsdhd jmij]Znag|hd. XXX
+// Arkhan2 G perso2
+L26D03D
+ Fj kj cZfjiZh &magaiije mdgZh m]anZ kljnd]jmnjdn dq kljnd]jkjgjbijmnx. XXX
+// Arkhan2 G perso2
+L26D03E
+ *o[dnagxiZ| flj]x - flj]x "tZiflj]" - iZ]j_i|gZ >ahgz d _j, d kjmga &agdfj^j [a_mn]d|. XXX
+// Arkhan2 G perso2
+L26D03F
+ Dz[Z| bdcix, nljionZ| ElZfjh, lZcgZ^Zanm| d mZhZ iam~n ]jflo^ lZcgjbaida. XXX
+// Arkhan2 G perso2
+L26D03G
+ Hjm]|u~iiwa _Zgd fg|n]o lZ_d bdcid m]jdq kjnjhfj], [jljnxm| m ynje iasdmnxz kj]mz_o, kldc]Z] j^jix d m]|uaiiwe m]an". XXX
+// Arkhan2 G perso2
+L26D03H
+ Hj_kdmx: "Kagai Nlji, kjm]|u~iiwe _diZmndd Kjl^lZ_Z". XXX
+// Arkhan2 G (to himself) perso2
+L26D03I
+ Djld [wgZ klZ]Z. Eje jnar ciZg [jgxta, sah | kjgZ^Zg. XXX
+// Arkhan3 G (looking at a book)perso3
+L26D04
+ Ej^o kljsdnZnx ynj... XXX
+// Arkhan3 G (reading)perso3
+L26D04A
+ "+and JjgirZ - na, fj^j _la]ida iZcw]Zgd "IoifZ" - iwia kjfj|nm| ^go[jfj kj_ cahg~e. XXX
+// Arkhan3 G perso3
+L26D04B
+ *lj[idrw mij] - dq kjmga_ide kldzn, jqlZi|ahwe mnlZbZhd dc fZhi| d ]asiwh [_aidah kjm]|u~iiwq, dc[lZiiwq dc sdmgZ gz_ae. XXX
+// Arkhan3 G perso3
+L26D04C
+ +aix dq Hlj[ob_aid| dchaidn gdf sagj]asamn]Z iZ]afd. KZf [wgj kla_mfZcZij Kjl^lZ_jh d kljsdhd jmij]Znag|hd. XXX
+// Arkhan3 G perso3
+L26D04D
+ Fj kj cZfjiZh &magaiije mdgZh m]anZ kljnd]jmnjdn dq kljnd]jkjgjbijmnx. XXX
+// Arkhan3 G perso3
+L26D04E
+ *o[dnagxiZ| flj]x - flj]x "tZiflj]" - iZ]j_i|gZ >ahgz d _j, d kjmga &agdfj^j [a_mn]d|. XXX
+// Arkhan3 G perso3
+L26D04F
+ Dz[Z| bdcix, nljionZ| ElZfjh, lZcgZ^Zanm| d mZhZ iam~n ]jflo^ lZcgjbaida. XXX
+// Arkhan3 G perso3
+L26D04G
+ Hjm]|u~iiwa _Zgd fg|n]o lZ_d bdcid m]jdq kjnjhfj], [jljnxm| m ynje iasdmnxz kj]mz_o, kldc]Z] j^jix d m]|uaiiwe m]an". XXX
+// Arkhan3 G perso3
+L26D04H
+ Hj_kdmx: "Kagai Nlji, kjm]|u~iiwe _diZmndd Kjl^lZ_Z". XXX
+// Arkhan3 G to himself) perso3
+L26D04I
+ Nh... Gnar fja-snj mflw]Zg... XXX
+// Arkhan2 G (searching) perso2
+L26D05
+ Hjmhjnldh, snj o iZm non... XXX
+// Arkhan2 G (finding something) perso2
+L26D06
+ +Z... XXX
+// Arkhan3 G (searching) perso3
+L26D07
+ Kjgxfj ^g|ixna... XXX
+// Arkhan3 G (finding something) perso3
+L26D08
+ +Z... XXX
+// Arkhan2 G perso2
+L26D09
+ Fdsa^j. XXX
+// Arkhan2 G perso2
+L26D10
+ FZ kj_mnZ]fa komnj, d iZ mnjga ia^omnj... XXX
+// Arkhan3 G perso3
+L26D11
+ KZh idsa^j. XXX
+// Arkhan2 G perso2
+L26D12
+ Fan, ynj kljmnj mnZlZ| fid^Z dc $wgj^j. XXX
+// Arkhan3 G perso3
+L26D13
+ Hljmnj mnZlZ| fid^Z dc $wgj^j. XXX
+// Arkhan2 L perso2
+L26D14A
+ X kjhiz yno ]aux... XXX
+// Arkhan2 L (reminiscent) perso2
+L26D14B
+ Palac yno tnofo jnar ] ia[a c]~c_w msdnZg... XXX
+// Arkhan2 O perso2
+L26D15
+ +Z kj_ yndh snj-nj amnx! XXX
+// Arkhan2 G perso2
+L26D16
+ Cgzs. XXX
+// Arkhan3 L perso3
+L26D19A
+ X kjhiz... XXX
+// Arkhan3 L (reminiscent) perso3
+L26D19B
+ Gnar ^j]jldg, snj nZf ji c]~c_w msdnZg... XXX
+// Arkhan3 O perso3
+L26D20
+ Hj_ yndh snj-nj amnx! XXX
+// Arkhan3 G perso3
+L26D21
+ Cgzs. XXX
+// Arkhan2 G perso2
+L26D23
+ Kon kj_ fid^je snj-nj amnx... XXX
+// Arkhan3 G perso3
+L26D25
+ Hj_ fid^je snj-nj amnx... XXX
+// Arkhan2 G perso2
+L26D27A
+ +jgbij [wnx jn _]ald... ij hia kjfZ lZij. XXX
+// Arkhan2 G perso2
+L26D27B
+ Djld mfZcZgZ, | iZe_o c_amx jn]anw! XXX
+// Arkhan3 G perso3
+L26D28A
+ +jgbij [wnx jn _]ald... ij | ia hj^o oend. XXX
+// Arkhan3 G perso3
+L26D28B
+ Djld mfZcZgZ, c_amx ]ma jn]anw... XXX
+// Arkhan2 G perso2
+L26D300
+ Fan, | ia hj^o oend. XXX
+// Arkhan3 G perso3
+L26D301
+ X ia hj^o oend. XXX
+//Arkhan2 G perso2
+L26D32
+ KZf d amnx, jnflw]Zanm|. XXX
+//Arkhan3 G perso3
+L26D33
+ Gnflwnj. XXX
+// Arkhan2 L (looking through the wrong end of the telescope) perso2
+L26D34
+ Nh... $jgxtZ| s~liZ| _wlZ d njgxfj. XXX
+// Arkhan3 L perso3
+L26D35
+ Fdsa^j ia ]d_ij... XXX
+// Arkhan2 G perso2
+L26D36
+ +jgbai [wnx haqZidch, fjnjlwe jnflw]Zan a~. XXX
+// Arkhan3 G perso3
+L26D38
+ Pnj[w jnflwnx, _jgbai [wnx haqZidch... XXX

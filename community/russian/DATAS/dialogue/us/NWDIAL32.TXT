@@ -1,0 +1,397 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\us\NWDIAL32.TXT
+ // Sordos perso23
+L32D08
+ #! &jn d nw, *jlf, _lobdua. XXX
+// Sordos perso23
+L32D70
+ #! &jn d nw, Kagf! XXX
+// Gork perso31
+L32D12B
+ X m_agZz [jgxij... Z nw cZfldsdtx, d_~n? XXX
+// Konkalite11 perso81
+L32D71
+ >]Zg, qjc|di? XXX
+// Sordos perso23
+L32D09A
+ X iZt~g na[a ij]oz d^lotfo. XXX
+// Sordos perso23
+L32D09B
+ Hjd^lZe-fZ m idh, njgxfj mlZco ia o[d]Ze. XXX
+// Konkalite11 perso81
+L32D72
+ Hjgjbdmx iZ hai|, Jjl_jm! XXX
+// Sordos perso23
+L32D05A
+ AnZf, n]al_jgj[we, [wnx na[a ^aljah. Hjmhalnij! XXX
+// Sordos perso23
+L32D05B
+ =Zgx njgxfj, nw ia o]d_dtx, fZf fjifZgdnw cZq]Zn|n JkZlno. XXX
+// Sordos perso23
+L32D05C
+ Hj]alx hjaho mgj]o: flj]x [o_an gdnxm|, fZf tnjgg! XXX
+// Konkalite11 perso81
+L32D73A
+ Jfjlj c_amx [o_an *jlf mj m]jdhd d^lotfZhd. XXX
+// Konkalite11 perso81
+L32D73B
+ A nj^_Z nw kjciZatx iZmnj|uoz [jgx! XXX
+// Konkalite11 perso81
+L32D73C
+ Vnj | na[a j[auZz! (cgj[iwe mhaq) XXX
+// Gork (stupidly)perso31
+L32D10
+ KZf y... mZhj mj[je, Jjl_jm. XXX
+// Gork perso31
+L32D12A
+ Jjl_jm mfZcZg m_agZnx [jgxij. XXX
+// Gork perso31
+L32D12C
+ #q, fZf nw mfjlj cZfldsdtx! +Z! XXX
+// Konkalite7 (calling Gork)perso77
+L32D13
+ NZ-qZ! Pnj ynj?.. Ve, *jlf, ^g|ix, fnj kldt~g! XXX
+// Konkalite7 perso77
+L32D14
+ A_d mz_Z, _anfZ! +g| na[| fja-snj iZe_~nm|. XXX
+// Malrot6 perso66
+L32D226
+ Ve... Gnkomnd hai|, hlZcx! XXX
+// Malrot6 perso66
+L32D227
+ #lhZg JZ_Zf ]Zm ]maq o[x~n! XXX
+// Malrot6 perso66
+L32D228
+ Ve... &w ba ia jmnZ]dna hai| ^idnx ] ynje fganfa, Z? XXX
+// Konkalite3 perso73
+L32D666
+ Ve! Jd_d ndqj, |mij?! XXX
+// Konkalite3 perso73
+L32D667
+ Kdqj, ^id_Z! XXX
+// Konkalite3 perso73
+L32D668
+ Kw [o_atx sal]~h dc]d]Znxm| d kj_wqZnx! XXX
+// Konkalite3 (seeing Arkhan)perso73
+L32D100
+ Ve, Z nw jnfo_Z c_amx?! XXX
+// Malrot6 (A. having overcome Konkalite3)perso66
+L32D225
+ Fakgjqj, kld|nagx! XXX
+// Gork perso31
+L32D505
+ >Znfidmx! XXX
+// Arkhan2 O perso2
+L32D15
+ JaesZm kjgosdtx, njgmnwe! XXX
+// Arkhan3 O perso3
+L32D16
+ K]je _aix iZmnZg, nokje bdl_|e! XXX
+// Konkalite7 perso77
+L34D778
+ Kw oba nlok! XXX
+// Konkalite7 perso77
+L34D777
+ Hjlabah d iZtdifoah! XXX
+// Arkhan2 G (finding Dhorkan half-dead)perso2
+L32D40
+ Vnj +jlfZi! XXX
+// Arkhan3 G (finding Dhorkan half-dead)perso3
+L32D41
+ +jlfZi! XXX
+// Dhorkan (semi-conscious) perso95
+L32D42
+ G-jq... XXX
+// Arkhan2 L perso2
+L32D20
+ +jlfZi? Kw au~ bd]? XXX
+// Arkhan2 O perso2
+L32D21
+ +jlfZi! &m~ au~ bd], ^l|ciwe kla_Znagx?! XXX
+// Arkhan3 L perso3
+L32D22
+ +jlfZi? =d]je? XXX
+// Arkhan3 O perso3
+L32D23
+ +jlfZi! &m~ au~ bd], qjl~f! XXX
+// Dhorkan (dying)perso95
+L32D24A
+ #lqZi... Vnj nw?.. XXX
+// Dhorkan (dying)perso95
+L32D24B
+ #-Zq... X ciZg, snj o]dbo na[|... kj_... fjiar. XXX
+// Arkhan2 G perso2
+L32D25
+ +Z, | ia jnmnokZz! XXX
+// Arkhan3 G perso3
+L32D26
+ +Z, | [xzmx... _j kjmga_ia^j! XXX
+// Dhorkan (dying)perso95
+L32D27A
+ Eai| b_~n [ammgZ]iwe fjiar... *laqd... m^o[dgd hai|... XXX
+// Dhorkan (dying)perso95
+L32D27B
+ X... | bagZg... ij]je ylw _g| JkZlnw... XXX
+// Dhorkan (dying)perso95
+L32D27C
+ X iZ ]m~ [wg mj^gZmai... cZfgzsdnx kZfn m Jjl_jmjh... kjc]jgdnx o[dnx Djld... m_Znx aho n]ja^j jnrZ... XXX
+// Dhorkan (dying)perso95
+L32D27D
+ Fj | ia kj_jcla]Zg j kgZiZq KZiZi_ZlZ... XXX
+// Dhorkan (dying)perso95
+L32D27E
+ Gid m Jjl_jmjh dmkjgxcj]Zgd hai|! XXX
+// Arkhan2 L perso2
+L32D28
+ Kw hjbatx dmfokdnx m]jd ^laqd. JfZbd hia, ^_a KZiZi_Zl. XXX
+// Arkhan2 O perso2
+L32D29
+ Kw ]d_ag KZiZi_ZlZ! *j]jld! XXX
+// Arkhan3 L perso3
+L32D30
+ KZiZi_Zl, ^_a ji? XXX
+// Arkhan3 O perso3
+L32D31
+ *_a KZiZi_Zl? *j]jld! XXX
+// Dhorkan (dying)perso95
+L32D32A
+ Fan... X ia ciZz, ^_a ji... XXX
+// Dhorkan (dying)perso95
+L32D32B
+ Fa [aem| m idh. Gi oba ia sagj]af, #lqZi... XXX
+// Dhorkan (dying)perso95
+L32D32C
+ Gi [wg... cZlZb~i... mgdtfjh _Z]ij... XXX
+// Dhorkan (dying)perso95
+L32D32D
+ G_di $j^ JjgirZ ciZan, fZf ji oho_l|gm| jn ]maq mflw]Znx... XXX
+// Dhorkan (dying)perso95
+L32D32E
+ CjifZgdnw jnlZ]dgd na[|... a^j flj]xz... XXX
+// Dhorkan (dying)perso95
+L32D32F
+ Kakalx, fj^_Z mdgw ElZfZ ]njl^gdmx ] mnZggZen... KZiZi_Zl hjban |]dnx m]jz dmndiioz mouijmnx... XXX
+// Dhorkan (dying)perso95
+L32D32G
+ Hljsda n]Zld... ] a^j ]gZmnd... <^j ia jmnZij]dtx... Hjc_ij... (]c_jq) XXX
+// Arkhan2 L perso2
+L32D33A
+ +jlfZi! X duo j_ij hamnj, snj jnar iZcw]Zg "*lj[idrae". XXX
+// Arkhan2 L perso2
+L32D33B
+ Ejban, ynj a_dimn]aiiwe mkjmj[ mkZmnd JkZlno! XXX
+// Arkhan2 O perso2
+L32D34A
+ Kw kjgosdg nj, snj cZmgobdg! XXX
+// Arkhan2 O perso2
+L32D34B
+ Fj hai| dh ia ]c|nx! XXX
+// Arkhan3 L perso3
+L32D35A
+ X duo j_ij hamnj, "*lj[idro". XXX
+// Arkhan3 L perso3
+L32D35B
+ KZh ]lj_a fZfZ|-nj mdgZ - jiZ mkZm~n iZm. XXX
+// Arkhan3 O perso3
+L32D36A
+ CZf bdg - nZf ohl~tx! & kjcjla! XXX
+// Arkhan3 O perso3
+L32D36B
+ Fj | ia ohlo! XXX
+// Dhorkan (dying)perso95
+L32D37A
+ Kjgxfj [a^mn]jh hjbij mkZmndmx... $a^d, kjfZ au~ ]lah| amnx... XXX
+// Dhorkan (dying)perso95
+L32D37B
+ JnZggZen j[las~i iZ ^d[agx... dc-cZ hai|... XXX
+// Dhorkan (last breath)perso95
+L32D37C
+ +Z kljmndn hai| &agdfde JjgZZl... XXX
+// Arkhan2 G perso2
+L32D44
+ Gi h~ln]. &m~ fjisaij. XXX
+// Arkhan3 L perso3
+L32D46
+ FZ ynjn lZc ]m~ fjisaij. XXX
+// Arkhan2 L perso2
+L32D50
+ >a_, snj jid m nj[je m_agZgd? XXX
+// Arkhan2 O perso2
+L32D51
+ Vnj ia >a_! XXX
+// Arkhan3 L perso3
+L32D52
+ >a_, snj jid m_agZgd?! XXX
+// Arkhan3 O perso3
+L32D53
+ Vnj ia >a_! XXX
+// Arkhan2 L perso2
+L32D500
+ Gnkomnd, o hai| _g| na[| fja-snj amnx. XXX
+// Arkhan2 O perso2
+L32D501
+ &wkomnd hai| jnmz_Z, bdl_|e! XXX
+// Arkhan3 L perso3
+L32D502
+ Homnd hai|. L hai| _g| na[| fja-snj amnx. XXX
+// Gork perso31
+L32D503
+ >Znfid kZmnx, hlZcx! XXX
+// Gork perso31
+L32D504
+ Jfjlj nw [o_atx ohjg|nx iZm na[| kldfjisdnx! XXX
+// Arkhan2 L perso2
+L32D506
+ Gnkomndna, | ia jmnZiomx ] _jg^o. XXX
+// Konkalite11 perso81
+L32D509A
+ Eia ]m~ lZ]ij, fnj nw nZfje d snj iZn]jldg, d hia ia]Zbij, snj nw qjsatx mfZcZnx. XXX
+// Konkalite11 perso81
+L32D509B
+ X gdtx qjso mgwtZnx, fZf nw jl~tx, kljm| kjuZ_w. XXX
+// Arkhan2 O perso2
+L32D507
+ &wkomnd hai| maesZm ba, d, hjban, [o_atx bdnx! XXX
+// Konkalite11 perso81
+L32D510A
+ NjljtZ| tonfZ! XXX
+// Konkalite11 perso81
+L32D510B
+ Fj | gosta kj_albo na[| c_amx. &a_x fnj ciZan, fj^_Z | mij]Z cZqjso cZi|nxm| kwnfje... XXX
+// Arkhan3 L perso3
+L32D508
+ Gnkomnd hai|. Fa kjbZgaatx. XXX
+// Konkalite11 perso81
+L32D511A
+ Ejbatx mfjgxfj o^j_ij mnjiZnx d lwsZnx! XXX
+// Konkalite11 perso81
+L32D511B
+ Jfjlj [o_atx hjgdnx kalalacZnx na[a ^jlgj! XXX
+// Malrot6 perso66
+L32D102
+ &iZsZga _lo^dh halcZ]rah cZehdmx! XXX
+// Arkhan2 L perso2
+L32D200
+ X mj[dlZzmx ]wnZudnx na[| jnmz_Z. XXX
+// Malrot6 perso66
+L32D201
+ Ve, mkZmd[j, kld|nagx! Kw _ohZatx, mhjbatx? XXX
+// Arkhan2 L (can't break down the door)perso2
+L32D202
+ Vq... A klZ]_Z, flakfZ! XXX
+// Malrot6 perso66
+L32D203
+ Hjklj[oe fZf-id[o_x jnflwnx cZhjf. XXX
+// Arkhan3 L perso3
+L32D204
+ X na[| ]wnZuo jnmz_Z! XXX
+// Arkhan3 L perso3
+L32D205
+ ClakfZ|! XXX
+// Arkhan2 L perso2
+L32D206
+ FZ_j kjklj[j]Znx snj-nj au~. XXX
+// Arkhan3 L perso3
+L32D207
+ FZ_j fZf-nj au~. XXX
+// Malrot6 perso66
+L32D208
+ X jsaix raiz n]jd mnZlZid|, _lobdua. XXX
+// Malrot6 perso66
+L32D209
+ *g|_d ] j[Z. & gz[oz hdiono hj^on iZ^l|ionx ij]wa kZlZcdnw. XXX
+// Arkhan2 L perso2
+L32D210
+ Fan, ia ]wqj_dn! XXX
+// Arkhan3 L perso3
+L32D211
+ FdfZf! XXX
+// Arkhan2 L perso2
+L32D212
+ &jn sah | jnjklo fganfo! XXX
+// Arkhan3 L perso3
+L32D213
+ JaesZm fganfo jnjklo! XXX
+// Malrot6 perso66
+L32D214
+ JkZmd[j, _lo^, | o na[| ] _jg^o! XXX
+// Malrot6 perso66
+L32D217A
+ Kw mkZm hia bdcix, kld|nagx, | ynj^j ia cZ[o_o! XXX
+// Malrot6 perso66
+L32D217B
+ GmnZgjmx njgxfj fZf-nj ]w[lZnxm| jnmz_Z bd]wh. XXX
+// Malrot6 perso66
+L32D217C
+ $o_x iZsafo! XXX
+// Arkhan2 O perso2
+L32D218
+ & ynje fganfa nw ia jsaix-nj flon! XXX
+// Arkhan3 O perso3
+L32D219
+ Kw kljmnj kld_oljf ] fganfa! XXX
+// Malrot6 perso66
+L32D220A
+ X nZfje ba ]lZ^ fjifZgdnj], fZf d nw! XXX
+// Malrot6 perso66
+L32D220B
+ Cj^_Z fjha_dz gjhZnx cZfjisdtx, fZf iZms~n ]wnZudnx hai| jnmz_Z? XXX
+// Arkhan2 O perso2
+L32D221
+ &d_ij, [wg iZ nj lacji, lZc na[| cZmZ_dgd ] fganfo! XXX
+// Arkhan3 O perso3
+L32D222
+ Fa lZc^og|atxm|, ]alij? XXX
+// Malrot6 perso66
+L32D223
+ &wnZud hai| jnmz_Z, d | na[a kjfZbo, kjsaho ynd ^Z_w cZkalgd hai|! XXX
+// Malrot6 perso66
+L32D224
+ $jgnZnx ga^fj... XXX
+// Malrot6 perso66
+L32D512
+ Ve-ye, omkjfjem|! XXX
+// Malrot6 perso66
+L32D513
+ Kw qjsatx hai| o[dnx dgd snj? XXX
+// Konkalite3 (hitting)perso73
+L32D888
+ Eij^j [jgnZatx, kld|nagx. Fa ]wijto! XXX
+// Konkalite3 (hitting)perso73
+L32D889
+ X na[a flj]x kouo, nlakgj! XXX
+// Konkalite11 perso81
+L32D515
+ Gld. Fo, _Z]Ze, jld! XXX
+// Konkalite11 perso81
+L32D514
+ X cZnfio n]jz kZmnx! XXX
+// Arkhan2 G perso2
+L32D60A
+ Hwnjsiwa fganfd. XXX
+// Arkhan2 G perso2
+L32D60B
+ Vnd fjifZgdnw - c]alx~! XXX
+// Arkhan3 G perso3
+L32D61A
+ Hwnjsiwa fganfd. XXX
+// Arkhan3 G perso3
+L32D61B
+ CjifZgdnw, c]alx~! XXX
+// Arkhan2 G perso2
+L32D58
+ Pagj]asamfda fjmnd... XXX
+// Arkhan3 G perso3
+L32D59
+ Cjmnd... Pagj]asamfda fjmnd... XXX
+// Arkhan2 G perso2
+L32D56
+ Comjf j[o^gaiije kgjnd. XXX
+// Arkhan3 G perso3
+L32D57
+ G[o^gaiiZ| kgjnx. XXX
+// Arkhan2 G perso2
+L32D54
+ IbZ]wa fganfd _g| bd]jniwq. XXX
+// Arkhan3 G perso3
+L32D55
+ IbZ]wa fganfd. XXX

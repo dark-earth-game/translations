@@ -1,0 +1,229 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\fr\NWDIAL48.TXT
+ // Kankalite5 perso75
+L48D01
+ Si tu reviens, on te fera cracher tes boyaux! XXX
+// Kalhi perso13
+L48D04
+ Donne les moi, vieux crétin! XXX
+// Malfrat3 perso63
+L48D05
+ Petite voleuse! J'te donnerai rien! XXX
+// Kalhi (inquiète) perso33
+L04D41
+ Arkhan! Qu'est-ce qui te prend? XXX
+// Malfrat3 perso63
+L48D35
+ J'ai jamais cédé à des voleurs, c'est pas aujourd'hui que j'vais commencer! XXX
+// Malfrat3 (apeuré) perso63
+L48D106
+ Ho, ho, on se calme, hein? XXX
+// Kalhi (a tué le malfrat) perso13
+L48D13
+ J'aurais préféré que ça finisse autrement... XXX
+// Kalhi perso13
+L48D14
+ Mais il nous a pas laissé le choix... XXX
+// Kalhi perso13
+L48D15
+ Si tu as besoin de moi, je serai chez Danrys. XXX
+// Kalhi perso13
+L48D16
+ Prends quand même les munitions... un homme est mort pour ça. XXX
+// Kalhi perso13
+L48D46
+ Donne les moi! XXX
+// Malfrat3 perso63
+L48D47
+ Non! T'es une Fouineuse, tu sais bien que j'en ai besoin pour troquer! XXX
+// Kalhi perso13
+L48D48
+ Tu me les dois! XXX
+// Malfrat3 perso63
+L48D49
+ Alors? Tu laisses tomber ou va falloir que j'abîme ta jolie petite tête? XXX
+// Kalhi perso13
+L48D50
+ T'es vieux et manchot, t'as aucune chance! XXX
+// Malfrat3 perso63
+L48D51
+ J'suis pas manchot des deux bras! XXX
+// Kalhi perso13
+L48D52
+ Donne moi ces munitions, je te dis! XXX
+// Malfrat3 perso63
+L48D53
+ C'est ça! Causes toujours! XXX
+// Kalhi perso13
+L48D54
+ Tu vas t'attirer des ennuis! XXX
+// Malfrat3 perso63
+L48D55
+ Tu n'espères pas me faire peur!? XXX
+// Kalhi perso13
+L48D06
+ Arkhan! Tu tombes bien, ce vieux crasseux cherche des problèmes! XXX
+// Malfrat3 perso63
+L48D07A
+ Elle veut me prendre des munitions de foudre! XXX
+// Malfrat3 perso63
+L48D07B
+ Alors que j'ai failli perdre mon deuxième bras pour les avoir! XXX
+// Kalhi perso13
+L48D08A
+ Ca fait des mois qu'il a une dette envers moi! XXX
+// Kalhi perso13
+L48D08B
+ Aujourd'hui je veux ces munitions! XXX
+// Kalhi perso13
+L48D08C
+ Je sais qu'elles pourront t'aider. XXX
+// Malfrat3 perso63
+L48D09
+ Si vous me touchez, vous aurez des problèmes! XXX
+// Kalhi perso13
+L48D43
+ Mais viens m'aider! XXX
+// Malfrat3 perso63
+L48D44
+ C'est ça, t'as besoin qu'on te tienne la main pour te battre! XXX
+// Malfrat3 perso63
+L48D45
+ Plutôt crever que de te filer mes munitions! XXX
+// Kalhi perso13
+L48D10
+ Aide moi, Arkhan! XXX
+// Malfrat3 perso63
+L48D11A
+ C'est entre elle et moi! XXX
+// Malfrat3 perso63
+L48D11B
+ T'en mêle pas ou mes amis te feront la peau! XXX
+// Kalhi perso13
+L48D12
+ Qu'est ce que tu fais? Aide moi! XXX
+// Malfrat7 perso67
+L48D02
+ Tu vas payer pour ce que t'as fait! XXX
+// Malfrat7 perso67
+L48D03
+ T'aurais pas dû revenir! XXX
+// Kalhi (appelle) perso13
+L48D103
+ Arkhan! Arkhan! XXX
+// Kalhi perso13
+L48D104
+ Je sors de ta vie, débrouilles-toi tout seul! XXX
+// Arkhan2 L perso2
+L48D17
+ Kalhi, tu devrais pas t'en prendre à un vieux fouineur comme lui. XXX
+// Arkhan2 O perso2
+L48D18
+ Kalhi, c'est qu'un vieillard! XXX
+// Arkhan3 L perso3
+L48D19
+ Kalhi, c'est un vieil homme. XXX
+// Arkhan3 O perso3
+L48D20
+ Kalhi, laisse-le! XXX
+// Kalhi perso13
+L48D21A
+ Il me doit quelque chose, je réclame mon dû. C'est tout! XXX
+// Kalhi perso13
+L48D21B
+ Et c'est pour toi que je fais ça! XXX
+// Arkhan2 L perso2
+L48D22
+ Tu ne vas pas te battre pour si peu, voyons... XXX
+// Arkhan2 O perso2
+L48D23
+ C'est qu'un vieux débris! Tu vas pas le tuer pour ça! XXX
+// Arkhan3 L perso3
+L48D24
+ Te bats pas pour si peux... XXX
+// Arkhan3 O perso3
+L48D25
+ Arrête ça! XXX
+// Kalhi perso13
+L48D26
+ C'est lui qui refuse de comprendre! XXX
+// Arkhan2 L perso2
+L48D27
+ Kalhi! Ne risques pas ta vie comme ça! XXX
+// Arkhan2 O perso2
+L48D28
+ Dès que je tourne le dos, tu fais n'importe quoi! XXX
+// Arkhan3 L perso3
+L48D29
+ Kalhi! Arrête! XXX
+// Arkhan3 O perso3
+L48D30
+ Tu va m'obliger à tuer ce pauvre type! XXX
+// Kalhi perso13
+L48D31
+ Il s'est jeté sur moi! XXX
+// Kalhi (A. lui montre un objet en plein combat)perso13
+L48D32
+ Arkhan! C'est pas le moment! XXX
+// Arkhan2 G perso2
+L48D100
+ T'es devenue folle! XXX
+// Arkhan3 G perso3
+L48D101
+ T'es folle! XXX
+// Kalhi (obligé de se défendre) perso13
+L48D102
+ Arkhan! T'es malade! XXX
+// Malfrat3 perso63
+L48D105
+ C'est ça, battez-vous! Moi je disparais! XXX
+// Arkhan2 L perso2
+L48D33A
+ Donne nous ces munitions, ça vaut mieux... XXX
+// Arkhan2 L perso2
+L48D33B
+ Ca ne vaut pas la peine de verser le sang pour si peu... XXX
+// Arkhan3 L perso3
+L48D34
+ Donne les munitions... Pas la peine de verser le sang... XXX
+// Arkhan2 L perso2
+L48D36A
+ Mais Kalhi dit que tu as une dette envers elle! XXX
+// Arkhan2 L perso2
+L48D36B
+ Sois raisonnable... XXX
+// Arkhan3 L perso3
+L48D37
+ Et ta dette... Sois raisonnable... XXX
+// Malfrat3 perso63
+L48D38
+ Toi, sois raisonnable et emmène ta furie loin d'ici avant qu'elle prenne un mauvais coup! XXX
+// Arkhan2 O (menaçant)perso2
+L48D39
+ C'est ta dernière chance! Donne-moi ces munitions! XXX
+// Arkhan3 O (menaçant)perso3
+L48D40
+ Dernière chance : donne ces munitions! XXX
+// Malfrat3 (impressionné)perso63
+L48D41
+ Bon... D'accord, d'accord... XXX
+// Malfrat3 perso63
+L48D42
+ Mais vous aurez de mes nouvelles, voleurs! XXX
+// Kalhi perso13
+L48D56
+ Bien joué, Arkhan. Grâce à toi, on s'en sort bien. XXX
+// Malfrat3 (attaqué par A. et Kalhi)perso63
+L48D57
+ Deux contre un! Lâches! XXX
+// Arkhan2 G perso2
+L48D668
+ Rien que les eaux boueuses de la ville basse... XXX
+// Arkhan3 G perso3
+L48D669
+ Les eaux boueuses de la ville basse... XXX
+// Arkhan2 G perso2
+L48D666
+ C'est un bras de mer qui traverse une partie de la ville basse. XXX
+// Arkhan3 G perso3
+L48D667
+ Cette eau, c'est un bras de mer... XXX

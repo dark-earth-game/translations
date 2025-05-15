@@ -1,0 +1,73 @@
+Début du fichier G:\DKE\DATAS\DIALOGUE\de\NWDIAL30.TXT
+ // Arkhan2 G (hört Niesen)perso2
+L30D05
+ Copak to bylo? XXX
+// Arkhan3 G (hört Niesen)perso3
+L30D06
+ Heh? XXX
+// Konkalit5 (wird Arkhan angreifen) perso75
+L30D01
+ Procházka je u konce! XXX
+// Konkalit2 (greift A. an) perso72
+L30D02
+ Chceš probehnout? Pojd k tatínkovi! XXX
+// Arkhan2 G (spricht unter seinem Helm)perso2
+L30D16
+ Tato vec je príliš tezká, musím to sundat! XXX
+// Arkhan3 G (spricht unter seinem Helm)perso3
+L30D17
+ Je to príliš tezke, musím jí sundat. XXX
+// Arkhan2 G (spricht unter seinem Helm)perso2
+L31D83A
+ Nemohu se dolù ponorit. XXX
+// Arkhan2 G perso2
+L31D83B
+ Uz není zádný vzduch v kyslíkove flašce. XXX
+// Arkhan2 G perso2
+L31D83C
+ Musím najít prostredek, na její naplnení ... XXX
+// Arkhan3 G (spricht unter seinem Helm)perso3
+L31D84A
+ Nemohu se dolù potopit ... XXX
+// Arkhan3 G perso3
+L31D84B
+ Zádný vzduch ve flašce. XXX
+// Arkhan3 G perso3
+L31D84C
+ Musím najít prostredek, k jejímu naplnení ... XXX
+// Arkhan2 L perso2
+L31D85A
+ Príliš hluboke. XXX
+// Arkhan2 L perso2
+L31D85B
+ Kdybych já sem jednoduše skocil, utopím se! XXX
+// Arkhan2 O perso2
+L31D86
+ Ne! Utopím se! XXX
+// Arkhan3 L perso3
+L31D87
+ Ne! Príliš hluboke...  XXX
+// Arkhan3 O perso3
+L31D88
+ Zde si garantuju na utopení! XXX
+// Arkhan2 L perso2
+L30D11
+ Pomalu, jsem prítel! XXX
+// Arkhan2 O perso2
+L30D12
+ Nech mne projít nebo ti utrhnu hlavu! XXX
+// Arkhan3 G perso3
+L30D13
+ Zmizni odsud nebo jsi mrtvý muz! XXX
+// Arkhan2 G perso2
+L30D07
+ Nic ... a voda je skutecne studená. XXX
+// Arkhan3 G perso3
+L30D08
+ Nic ...  je studená! XXX
+// Arkhan2 G perso2
+L30D09
+ Studená a hnusná. XXX
+// Arkhan3 G perso3
+L30D10
+ Studená a hnusná. XXX

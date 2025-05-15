@@ -1,0 +1,202 @@
+123456789012
+
+@1
+Uniforme
+@2
+Anneau clef
+@3
+Carte métal
+@4
+Assiette
+@5
+Barre métal
+@6
+Mun. lancefeu
+@7
+Billes
+@8
+Bouillonante
+@9
+Poignée
+@10
+Carte Avant
+@11
+Clé rouge
+@12
+Cristal 2
+@13
+Gros légume
+@14
+Clef Kank.
+@15
+Clef Sordos
+@16
+Clef Bogd.
+@17
+Marteau
+@18
+Cristal 1
+@19
+Cristal 3
+@20
+Miroir
+@21
+Fiole
+@22
+Flacon
+@23
+Foudre Avant
+@24
+Gourde pleine
+@25
+Vêtements
+@26
+Hache
+@27
+Lancefeu
+@28
+Long Couteau
+@29
+Mât
+@30
+Hachoir
+@31
+Potion
+@32
+Petit foudre
+@33
+Plaque plomb
+@34
+Pomme de t.
+@35
+Foudre Zed
+@36
+Racine
+@37
+Hallebarde
+@38
+Sabre
+@39
+Mun. petit f.
+@40
+Objet Avant 
+@41
+Objet Avant
+@42
+Verre
+@43
+Poisson
+@44
+Viande
+@45
+Lame roche
+@46
+Notes Ryls.
+@47
+Hache Kank.
+@48
+Mât cassé
+@49
+Doc. Sordos
+@50
+Plan arme
+@51
+Pâle
+@52
+Dessins
+@53
+Trancheur
+@54
+Boule de feu
+@55
+Cracheur
+@56
+Rat
+@57
+Arme Sordos
+@58
+Sabre Zed
+@59
+Arme marcheur
+@60
+Pièce
+@61
+Fléau
+@62
+Hallebarde
+@63
+Dague
+@64
+Pouleton
+@65
+Bol
+@66
+Foudre
+@67
+Hache
+@68
+Foudre Zed
+@69
+Sauvegarde
+@70
+Plan Bandor
+@71
+Combinaison
+@72
+Mun. foudre
+@73
+Mun. Zed
+@74
+Piolet
+@75
+Clef cristal
+@76
+Masse
+@77
+Gourde
+@78
+Masse Danrys
+@79
+Hache
+@80
+Epée Dhorkan
+@81
+Parchemin
+@82
+Livre
+@83
+Sabre
+@84
+Casque
+@85
+Plastron
+@86
+Bonbonne
+@87
+Pion Yong
+@88
+Tube
+@89
+Clef Prison
+@90
+Boulet
+@91
+Poignard
+@92
+Poignard long
+@93
+Stylet
+@94
+Pilon
+@95
+Mortier
+@96
+Grande clef
+@97
+Jerrican
+@98
+Pierre meule
+@99
+Boîte
+@fin
+
